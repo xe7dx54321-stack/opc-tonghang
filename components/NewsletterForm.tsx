@@ -41,7 +41,7 @@ export default function NewsletterForm({
     setStatus('loading')
     setErrorMsg('')
     try {
-      const res = await fetch('/api/newsletter', {
+      const res = await fetch('/api/newsletter/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email, source }),

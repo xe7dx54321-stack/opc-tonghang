@@ -27,7 +27,7 @@ export default function NotifyForm({
     setStatus('loading')
     setErrorMsg('')
     try {
-      const res = await fetch('/api/notify', {
+      const res = await fetch('/api/notify/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email, harnessSlug, harnessTitle }),
