@@ -132,3 +132,5 @@ vercel
 ## License
 
 MIT（来自 timlrx/tailwind-nextjs-starter-blog）。
+
+_Last verified: 2026-09-21 15:28 UTC_
