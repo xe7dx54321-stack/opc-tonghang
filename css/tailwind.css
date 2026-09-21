@@ -1,0 +1,278 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'prism.css';
+
+/* ============================================================
+ * 同行实验室 (Tonghang Lab) · 设计 token
+ * 继承自废才俱乐部 (feicaiclub.cn) 深拆，微调为 PE/VC 投资语境
+ * ============================================================ */
+
+:root {
+  /* 暗色主题（默认） */
+  --bg: #0a0a0a;
+  --bg-alt: #08090b;
+  --bg-card: #111418;
+  --ink: #e8ecef;
+  --ink-2: #a8b0b8;
+  --ink-3: #7c858e;
+  --accent: #00e0c7;
+  --accent-hov: #00f5d4;
+  --accent-press: #00c7b0;
+  --success: #00a85a;
+  --wechat: #07c160;
+  --danger: #e04444;
+  --hair: #1a1d22;
+  --hair-2: #262a31;
+  --code-bg: #1a1a1a;
+  --code-fg: #d2d7dc;
+  --code-border: #2a2a2a;
+}
+
+html.theme-light,
+html.light {
+  --bg: #f5f2ec;
+  --bg-alt: #ede7dc;
+  --bg-card: #ffffff;
+  --ink: #0a0a0a;
+  --ink-2: #4a4a4a;
+  --ink-3: #6b6b6b;
+  --accent: #00b89f;
+  --accent-hov: #00a085;
+  --accent-press: #008874;
+  --hair: #e6e1d6;
+  --hair-2: #d4cfc2;
+  --code-bg: #f1ece6;
+  --code-fg: #2a2a2a;
+  --code-border: #d4cfc2;
+}
+
+@layer base {
+  *,
+  ::after,
+  ::before {
+    border-color: var(--hair);
+  }
+  body {
+    background-color: var(--bg);
+    color: var(--ink);
+    font-feature-settings:
+      'rlig' 1,
+      'calt' 1;
+    -webkit-font-smoothing: antialiased;
+  }
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  ::selection {
+    background-color: var(--accent);
+    color: #050505;
+  }
+  /* 焦点环使用品牌色 */
+  a:focus-visible,
+  button:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+}
+
+@layer utilities {
+  /* 文本对比度工具 */
+  .text-ink {
+    color: var(--ink);
+  }
+  .text-ink-2 {
+    color: var(--ink-2);
+  }
+  .text-ink-3 {
+    color: var(--ink-3);
+  }
+  .text-accent {
+    color: var(--accent);
+  }
+  .bg-bg {
+    background-color: var(--bg);
+  }
+  .bg-bg-alt {
+    background-color: var(--bg-alt);
+  }
+  .bg-bg-card {
+    background-color: var(--bg-card);
+  }
+  .border-hair {
+    border-color: var(--hair);
+  }
+  .border-hair-2 {
+    border-color: var(--hair-2);
+  }
+
+  /* 玻璃质感背景：跟随主题变量变化，opacity 不可被 Tailwind 硬编码
+     （Tailwind v3 的 bg-bg/85 会把 hex 编译成 rgb(10 10 10 / 0.85) 写死，
+       这里用 color-mix() 直接操作 CSS 变量，颜色始终跟随主题） */
+  .bg-glass {
+    background-color: color-mix(in srgb, var(--bg) 82%, transparent);
+  }
+  .bg-glass-strong {
+    background-color: color-mix(in srgb, var(--bg) 94%, transparent);
+  }
+  .bg-card-glass {
+    background-color: color-mix(in srgb, var(--bg-card) 88%, transparent);
+  }
+  /* 主题感知的 hover 浅色蒙层 */
+  .hover\:bg-tint-hover:hover {
+    background-color: color-mix(in srgb, var(--bg-alt) 30%, transparent);
+  }
+  /* 主题感知的 Card 浅色蒙层 */
+  .bg-tint {
+    background-color: color-mix(in srgb, var(--bg-alt) 25%, transparent);
+  }
+  .bg-tint-strong {
+    background-color: color-mix(in srgb, var(--bg-alt) 60%, transparent);
+  }
+
+  /* 主题感知的卡片渐变：bg-card → bg-alt
+     （Tailwind 的 from-bg-card to-bg-alt 会硬编码 hex，
+       这里直接用 CSS 变量，主题切换时跟动） */
+  .bg-card-gradient {
+    background-image: linear-gradient(
+      135deg,
+      var(--bg-card) 0%,
+      var(--bg-alt) 100%
+    );
+  }
+  .bg-card-gradient-soft {
+    background-image: linear-gradient(
+      180deg,
+      var(--bg-card) 0%,
+      color-mix(in srgb, var(--bg-alt) 60%, transparent) 100%
+    );
+  }
+
+  /* 同行实验室品牌渐变（薄荷青绿 → 翠绿） */
+  .bg-brand-gradient {
+    background-image: linear-gradient(135deg, #00e0c7 0%, #00a85a 100%);
+  }
+  .text-brand-gradient {
+    background-image: linear-gradient(135deg, #00e0c7 0%, #00f5d4 50%, #00a85a 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+  }
+
+  /* 数字 / 数字徽章使用等宽 */
+  .font-num {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.01em;
+  }
+
+  /* 网格背景（bento 卡片感） */
+  .bg-grid-faint {
+    background-image:
+      linear-gradient(var(--hair-2) 1px, transparent 1px),
+      linear-gradient(90deg, var(--hair-2) 1px, transparent 1px);
+    background-size: 32px 32px;
+    background-position:
+      -1px -1px,
+      -1px -1px;
+    mask-image: radial-gradient(ellipse at center, black 40%, transparent 75%);
+    -webkit-mask-image: radial-gradient(ellipse at center, black 40%, transparent 75%);
+  }
+
+  /* Hero 渐变光晕（mission-hero 同款） */
+  .hero-glow::before {
+    content: '';
+    position: absolute;
+    inset: -20% -10% auto auto;
+    width: 60%;
+    height: 80%;
+    background: radial-gradient(closest-side, rgba(0, 224, 199, 0.18), transparent 70%);
+    pointer-events: none;
+    filter: blur(8px);
+  }
+
+  /* 行内 code */
+  .prose code {
+    font-weight: 500;
+    padding: 0.1rem 0.3rem;
+    border-radius: 0.25rem;
+    background-color: rgba(0, 224, 199, 0.08);
+    color: var(--accent);
+  }
+  .prose code::before,
+  .prose code::after {
+    content: none !important;
+  }
+
+  /* 滚动条 */
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: var(--hair-2) transparent;
+  }
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background-color: var(--hair-2);
+    border-radius: 3px;
+  }
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.content-header-link {
+  opacity: 0;
+  margin-left: -24px;
+  padding-right: 4px;
+}
+.content-header:hover .content-header-link,
+.content-header-link:hover {
+  opacity: 1;
+}
+
+.task-list-item::before {
+  display: none !important;
+}
+.task-list-item {
+  list-style: none;
+}
+
+.footnotes {
+  margin-top: 3rem;
+  border-top: 1px solid var(--hair);
+  padding-top: 2rem;
+}
+.data-footnote-backref {
+  text-decoration: none;
+}
+.csl-entry {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:focus {
+  transition:
+    background-color 600000s 0s,
+    color 600000s 0s;
+}
+
+.katex-display {
+  overflow: auto hidden;
+}
+
+.linkicon {
+  display: inline-block;
+  vertical-align: middle;
+}

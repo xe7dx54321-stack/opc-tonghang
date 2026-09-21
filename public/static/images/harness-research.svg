@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 544 306" width="544" height="306">
+  <defs>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0A0A"/>
+      <stop offset="100%" stop-color="#111418"/>
+    </linearGradient>
+  </defs>
+  <rect width="544" height="306" fill="url(#g3)"/>
+  <!-- 输入：会议录音 -->
+  <g transform="translate(40, 60)">
+    <rect x="0" y="0" width="160" height="100" rx="6" fill="#111418" stroke="#1A1D22"/>
+    <text x="10" y="22" fill="#7C858E" font-family="JetBrains Mono, monospace" font-size="9">AUDIO · 38min</text>
+    <!-- 音波 -->
+    <g stroke="#00E0C7" stroke-width="1.5" stroke-linecap="round">
+      <line x1="14" y1="40" x2="14" y2="60"/>
+      <line x1="22" y1="35" x2="22" y2="65"/>
+      <line x1="30" y1="45" x2="30" y2="55"/>
+      <line x1="38" y1="30" x2="38" y2="70"/>
+      <line x1="46" y1="38" x2="46" y2="62"/>
+      <line x1="54" y1="32" x2="54" y2="68"/>
+      <line x1="62" y1="42" x2="62" y2="58"/>
+      <line x1="70" y1="36" x2="70" y2="64"/>
+      <line x1="78" y1="40" x2="78" y2="60"/>
+      <line x1="86" y1="33" x2="86" y2="67"/>
+      <line x1="94" y1="38" x2="94" y2="62"/>
+      <line x1="102" y1="42" x2="102" y2="58"/>
+      <line x1="110" y1="30" x2="110" y2="70"/>
+      <line x1="118" y1="36" x2="118" y2="64"/>
+      <line x1="126" y1="40" x2="126" y2="60"/>
+      <line x1="134" y1="35" x2="134" y2="65"/>
+      <line x1="142" y1="40" x2="142" y2="60"/>
+      <line x1="150" y1="38" x2="150" y2="62"/>
+    </g>
+    <text x="10" y="86" fill="#A8B0B8" font-family="JetBrains Mono, monospace" font-size="9">meeting.m4a</text>
+  </g>
+  <!-- 输入：财报 PDF -->
+  <g transform="translate(40, 180)">
+    <rect x="0" y="0" width="160" height="100" rx="6" fill="#111418" stroke="#1A1D22"/>
+    <text x="10" y="22" fill="#7C858E" font-family="JetBrains Mono, monospace" font-size="9">PDF · 86 pages</text>
+    <g stroke="#00E0C7" stroke-width="0.6" opacity="0.5">
+      <line x1="10" y1="34" x2="150" y2="34"/>
+      <line x1="10" y1="44" x2="150" y2="44"/>
+      <line x1="10" y1="54" x2="150" y2="54"/>
+      <line x1="10" y1="64" x2="150" y2="64"/>
+      <line x1="10" y1="74" x2="150" y2="74"/>
+      <line x1="10" y1="84" x2="120" y2="84"/>
+    </g>
+    <text x="10" y="92" fill="#A8B0B8" font-family="JetBrains Mono, monospace" font-size="9">Q2-financials.pdf</text>
+  </g>
+  <!-- 流向箭头 -->
+  <g stroke="#00A85A" stroke-width="1.5" fill="none">
+    <path d="M210 110 L 240 110" stroke-dasharray="3 3"/>
+    <path d="M210 230 L 240 230" stroke-dasharray="3 3"/>
+  </g>
+  <!-- 处理单元 -->
+  <g transform="translate(245, 100)">
+    <rect x="0" y="0" width="100" height="140" rx="8" fill="#111418" stroke="#00E0C7" stroke-opacity="0.4"/>
+    <text x="50" y="25" text-anchor="middle" fill="#00E0C7" font-family="JetBrains Mono, monospace" font-size="11" font-weight="700">DIGEST</text>
+    <g fill="#A8B0B8" font-family="JetBrains Mono, monospace" font-size="8">
+      <text x="10" y="50">▸ transcribe</text>
+      <text x="10" y="68">▸ extract entities</text>
+      <text x="10" y="86">▸ link citations</text>
+      <text x="10" y="104">▸ 1-pager</text>
+      <text x="10" y="122">▸ export → notion</text>
+    </g>
+  </g>
+  <!-- 输出：1-pager -->
+  <g transform="translate(360, 60)">
+    <rect x="0" y="0" width="144" height="186" rx="6" fill="#0A0A0A" stroke="#00A85A" stroke-opacity="0.5"/>
+    <text x="10" y="22" fill="#00A85A" font-family="JetBrains Mono, monospace" font-size="10" font-weight="700">1-PAGER · Memo</text>
+    <line x1="10" y1="32" x2="134" y2="32" stroke="#1A1D22"/>
+    <g fill="#E8ECEF" font-family="JetBrains Mono, monospace" font-size="8">
+      <text x="10" y="50">■ 业务概览</text>
+      <text x="10" y="64">■ Q2 关键数据</text>
+      <text x="10" y="78">■ 风险信号 ×3</text>
+      <text x="10" y="92">■ 待跟进问题 ×5</text>
+      <text x="10" y="106">■ 估值锚点区间</text>
+    </g>
+    <line x1="10" y1="120" x2="134" y2="120" stroke="#1A1D22"/>
+    <g fill="#7C858E" font-family="JetBrains Mono, monospace" font-size="7">
+      <text x="10" y="138">→ linked to:</text>
+      <text x="10" y="152">  • meeting.m4a §03</text>
+      <text x="10" y="166">  • Q2-financials p.42</text>
+      <text x="10" y="180">  • 估值表 v2.xlsx</text>
+    </g>
+  </g>
+  <!-- 顶部标识 -->
+  <text x="20" y="30" fill="#7C858E" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="2">TX-003 · RESEARCH-DIGEST</text>
+</svg>

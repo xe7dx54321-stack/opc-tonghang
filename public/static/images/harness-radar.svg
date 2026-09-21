@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 544 306" width="544" height="306">
+  <defs>
+    <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0A0A"/>
+      <stop offset="100%" stop-color="#111418"/>
+    </linearGradient>
+  </defs>
+  <rect width="544" height="306" fill="url(#g4)"/>
+  <!-- 雷达图（4 维度） -->
+  <g transform="translate(170, 160)">
+    <!-- 同心圆 -->
+    <circle r="120" fill="none" stroke="#1A1D22"/>
+    <circle r="90" fill="none" stroke="#1A1D22" stroke-dasharray="2 2"/>
+    <circle r="60" fill="none" stroke="#1A1D22" stroke-dasharray="2 2"/>
+    <circle r="30" fill="none" stroke="#1A1D22" stroke-dasharray="2 2"/>
+    <!-- 坐标轴 -->
+    <line x1="-130" y1="0" x2="130" y2="0" stroke="#262A31"/>
+    <line x1="0" y1="-130" x2="0" y2="130" stroke="#262A31"/>
+    <!-- 标签 -->
+    <g font-family="JetBrains Mono, monospace" font-size="10" fill="#A8B0B8" font-weight="600">
+      <text x="0" y="-130" text-anchor="middle">热度</text>
+      <text x="135" y="4">资本</text>
+      <text x="0" y="142" text-anchor="middle">政策</text>
+      <text x="-135" y="4" text-anchor="end">团队</text>
+    </g>
+    <!-- 多边形 -->
+    <polygon points="80,-70 110,40 30,90 -100,-30" fill="#00E0C7" fill-opacity="0.18" stroke="#00E0C7" stroke-width="1.5"/>
+    <g fill="#00E0C7">
+      <circle cx="80" cy="-70" r="3"/>
+      <circle cx="110" cy="40" r="3"/>
+      <circle cx="30" cy="90" r="3"/>
+      <circle cx="-100" cy="-30" r="3"/>
+    </g>
+  </g>
+  <!-- 数据源列表 -->
+  <g transform="translate(380, 60)" font-family="JetBrains Mono, monospace" font-size="9" fill="#7C858E">
+    <text x="0" y="0" fill="#A8B0B8" font-weight="700">16 SOURCES</text>
+    <g>
+      <text x="0" y="20">▸ 招聘 JD (5)</text>
+      <text x="0" y="36">▸ 专利公开 (3)</text>
+      <text x="0" y="52">▸ 招投标 (2)</text>
+      <text x="0" y="68">▸ 学术论文 (3)</text>
+      <text x="0" y="84">▸ 研报库 (2)</text>
+      <text x="0" y="100">▸ 财报披露 (1)</text>
+    </g>
+  </g>
+  <!-- 评分 -->
+  <g transform="translate(40, 50)">
+    <text x="0" y="0" fill="#00A85A" font-family="JetBrains Mono, monospace" font-size="36" font-weight="700">82</text>
+    <text x="0" y="20" fill="#7C858E" font-family="JetBrains Mono, monospace" font-size="9">/ 100 · 显著上行</text>
+  </g>
+  <!-- 顶部标识 -->
+  <text x="20" y="30" fill="#7C858E" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="2">TX-004 · SIGNAL-RADAR</text>
+</svg>

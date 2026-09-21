@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="brandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E0C7"/>
+      <stop offset="100%" stop-color="#00A85A"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08090B"/>
+      <stop offset="100%" stop-color="#111418"/>
+    </linearGradient>
+  </defs>
+  <!-- 背景 -->
+  <rect width="64" height="64" rx="12" fill="url(#bgGrad)"/>
+  <!-- 外框：六边形 -->
+  <path
+    d="M32 6 L57 19 L57 45 L32 58 L7 45 L7 19 Z"
+    fill="none"
+    stroke="url(#brandGrad)"
+    stroke-width="2.5"
+    stroke-linejoin="round"
+  />
+  <!-- 内核：两个相向箭头 -->
+  <g stroke="url(#brandGrad)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.85">
+    <path d="M22 22 L30 32 L22 42"/>
+    <path d="M42 22 L34 32 L42 42"/>
+  </g>
+  <!-- 中心节点 -->
+  <circle cx="32" cy="32" r="3" fill="url(#brandGrad)"/>
+</svg>

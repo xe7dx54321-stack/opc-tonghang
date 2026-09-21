@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 544 306" width="544" height="306">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0A0A"/>
+      <stop offset="100%" stop-color="#111418"/>
+    </linearGradient>
+    <linearGradient id="ac1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E0C7"/>
+      <stop offset="100%" stop-color="#00A85A"/>
+    </linearGradient>
+  </defs>
+  <rect width="544" height="306" fill="url(#g1)"/>
+  <!-- 网格背景 -->
+  <g stroke="#1A1D22" stroke-width="1" opacity="0.5">
+    <line x1="0" y1="76" x2="544" y2="76"/>
+    <line x1="0" y1="152" x2="544" y2="152"/>
+    <line x1="0" y1="228" x2="544" y2="228"/>
+    <line x1="136" y1="0" x2="136" y2="306"/>
+    <line x1="272" y1="0" x2="272" y2="306"/>
+    <line x1="408" y1="0" x2="408" y2="306"/>
+  </g>
+  <!-- 四个模块（DD 四象限） -->
+  <g font-family="JetBrains Mono, monospace" font-size="11" font-weight="600">
+    <rect x="60" y="50" width="120" height="80" rx="6" fill="#111418" stroke="#00E0C7" stroke-opacity="0.6"/>
+    <text x="72" y="74" fill="#00E0C7">技术 TECH</text>
+    <text x="72" y="92" fill="#7C858E" font-size="9">Tech Stack · Moat</text>
+
+    <rect x="200" y="50" width="120" height="80" rx="6" fill="#111418" stroke="#00E0C7" stroke-opacity="0.6"/>
+    <text x="212" y="74" fill="#00E0C7">商业 BIZ</text>
+    <text x="212" y="92" fill="#7C858E" font-size="9">PMF · GTM · LTV</text>
+
+    <rect x="60" y="160" width="120" height="80" rx="6" fill="#111418" stroke="#00E0C7" stroke-opacity="0.6"/>
+    <text x="72" y="184" fill="#00E0C7">财务 FIN</text>
+    <text x="72" y="202" fill="#7C858E" font-size="9">Unit Economics</text>
+
+    <rect x="200" y="160" width="120" height="80" rx="6" fill="#111418" stroke="#00E0C7" stroke-opacity="0.6"/>
+    <text x="212" y="184" fill="#00E0C7">团队 TEAM</text>
+    <text x="212" y="202" fill="#7C858E" font-size="9">Founder · Track Record</text>
+  </g>
+  <!-- 中央评估图标 -->
+  <circle cx="272" cy="200" r="44" fill="url(#ac1)" opacity="0.18"/>
+  <circle cx="272" cy="200" r="22" fill="none" stroke="#00E0C7" stroke-width="2"/>
+  <text x="272" y="205" text-anchor="middle" fill="#00E0C7" font-family="JetBrains Mono, monospace" font-size="11" font-weight="700">SCORE</text>
+  <!-- 顶部标识 -->
+  <text x="20" y="30" fill="#7C858E" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="2">TX-001 · DD-SKELETON</text>
+  <!-- 右侧摘要标签 -->
+  <g font-family="JetBrains Mono, monospace" font-size="9" fill="#A8B0B8">
+    <text x="360" y="80">30 min / BP</text>
+    <text x="360" y="100">50 red flags</text>
+    <text x="360" y="190">→ Memo draft</text>
+  </g>
+</svg>
