@@ -5,9 +5,11 @@
   "scripts": {
     "start": "next dev",
     "dev": "next dev",
+    "prebuild": "node ./scripts/sync-news.mjs",
     "build": "next build",
     "postbuild": "node ./scripts/postbuild.mjs",
     "serve": "next start",
+    "sync-news": "node ./scripts/sync-news.mjs",
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir app --dir components --dir lib --dir layouts --dir scripts"
   },

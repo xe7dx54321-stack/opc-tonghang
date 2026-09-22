@@ -166,3 +166,55 @@ export function breadcrumbSchema(
     })),
   }
 }
+
+/**
+ * NewsArticle schema · 用于新闻日报页 / arxiv 周研究页
+ *
+ * 一天一篇 NewsArticle，全站 N 个 date 共 N 个 schema 实例。
+ */
+export function newsArticleSchema({
+  headline,
+  description,
+  url,
+  datePublished,
+  dateModified,
+  keywords,
+  articleSection,
+}: {
+  headline: string
+  description: string
+  url: string                // 站点相对 URL（不含 siteUrl）
+  datePublished: string      // ISO 8601
+  dateModified?: string
+  keywords?: string[]
+  articleSection?: string    // 例如 "AI / 半导体 / 机器人"
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'NewsArticle',
+    headline,
+    description,
+    url: `${SITE_URL}${url}`,
+    datePublished,
+    dateModified: dateModified ?? datePublished,
+    keywords: keywords?.join(', '),
+    articleSection,
+    author: {
+      '@type': 'Organization',
+      name: '同行实验室',
+      url: SITE_URL,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: '同行实验室 · Tonghang Lab',
+      logo: {
+        '@type': 'ImageObject',
+        url: `${SITE_URL}/static/favicons/android-chrome-96x96.png`,
+      },
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `${SITE_URL}${url}`,
+    },
+  }
+}

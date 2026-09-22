@@ -46,6 +46,9 @@ yarn-error.log*
 # Contentlayer
 .contentlayer
 
+# news-harness sync target（构建时由 scripts/sync-news.mjs 生成）
+/content/news/
+
 # IDE / 系统
 .DS_Store
 .idea/

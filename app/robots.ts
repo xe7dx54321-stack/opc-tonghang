@@ -9,7 +9,7 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: '*',
         allow: '/',
-        // Stage 2 之后会放开
+        // 屏蔽后台 / 内部路由
         disallow: ['/api/', '/thanks', '/thanks/'],
       },
       // 暂屏蔽 Harness 详情页（等 Stripe 接入后再开放）

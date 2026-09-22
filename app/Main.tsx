@@ -3,8 +3,10 @@
 import Link from '@/components/Link'
 import Tag from '@/components/Tag'
 import NewsletterForm from '@/components/NewsletterForm'
+import BentoNewsCard from '@/components/news/BentoNewsCard'
 import siteMetadata from '@/data/siteMetadata'
 import { formatDate } from 'pliny/utils/formatDate'
+import type { NewsEntry } from '@/lib/news'   // 仅 type，组件本身不引入 fs
 
 interface Post {
   slug: string
@@ -17,6 +19,7 @@ interface Post {
 
 interface Props {
   posts: Post[]
+  latestNews?: NewsEntry | null
 }
 
 // 从 posts 动态算 Top 标签：按出现次数排序，取前 6 个
@@ -60,7 +63,7 @@ const HARNESS_CARDS = [
   },
 ]
 
-export default function Main({ posts }: Props) {
+export default function Main({ posts, latestNews = null }: Props) {
   const latestPosts = posts.slice(0, 4)
   const featuredTags = computeFeaturedTags(posts, 6)
   return (
@@ -230,7 +233,7 @@ export default function Main({ posts }: Props) {
         </div>
 
         {/* 关注的标签云 */}
-        <div className="rounded-xl border border-hair bg-bg-card p-6 transition hover:border-hair-2 md:col-span-2">
+        <div className="rounded-xl border border-hair bg-bg-card p-6 transition hover:border-hair-2 md:col-span-1">
           <div className="font-num text-[11px] uppercase tracking-[0.18em] text-accent">
             /topics
           </div>
@@ -246,6 +249,11 @@ export default function Main({ posts }: Props) {
               </Link>
             ))}
           </div>
+        </div>
+
+        {/* 新闻动态（今日 digest 卡片）*/}
+        <div className="md:col-span-1">
+          <BentoNewsCard latest={latestNews} />
         </div>
 
         {/* 订阅 */}
