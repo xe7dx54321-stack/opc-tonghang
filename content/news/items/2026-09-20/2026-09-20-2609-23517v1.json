@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-20-2609-23517v1",
+  "title": "VSpector: Specification-Driven Bug Detection for RISC-V CPUs",
+  "url": "http://arxiv.org/abs/2609.23517v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "VSpector",
+    "Specification",
+    "Driven Bug Detection",
+    "RISC",
+    "CPUs Detecting RTL",
+    "CPU",
+    "Traditional",
+    "In",
+    "We",
+    "RTL",
+    "To",
+    "Large Language Models",
+    "LLMs",
+    "CPUs",
+    "CVA6",
+    "XiangShan",
+    "Out",
+    "These",
+    "DiveFuzz",
+    "All"
+  ],
+  "publishedAt": "2026-09-20T10:10:19.000Z",
+  "fetchedAt": "2026-09-22T17:30:44.988Z",
+  "summary": "Detecting RTL design bugs in open-source RISC-V CPU implementations is critical for ensuring system reliability. Traditional detection approaches inherently rely on predefined artifacts. In this paper, we leverage the official,natural-language RISC-V specifications as an effective information source for bug detection. We present VSpector, a specification-driven bug detection pipeline that directly checks whether CPU register-transfer level (RTL) implementations adhere to official specification r",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.23517v1",
+  "raw": {
+    "arxivId": "2609.23517v1",
+    "category": "cs.AR"
+  }
+}

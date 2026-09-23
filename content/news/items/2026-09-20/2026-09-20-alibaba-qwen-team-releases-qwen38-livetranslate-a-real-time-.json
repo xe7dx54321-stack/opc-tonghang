@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-20-alibaba-qwen-team-releases-qwen38-livetranslate-a-real-time-",
+  "title": "Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages",
+  "url": "https://www.marktechpost.com/2026/09/19/alibaba-qwen-team-releases-qwen3-8-livetranslate/",
+  "source": "marktechpost",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Alibaba Qwen Team Releases",
+    "LiveTranslate",
+    "Real",
+    "Seconds Across",
+    "Languages Qwen",
+    "Interleave",
+    "It",
+    "LAAL",
+    "The",
+    "WebSocket API",
+    "Alibaba Cloud Model Studio",
+    "QwenCloud",
+    "Languages",
+    "MarkTechPost"
+  ],
+  "publishedAt": "2026-09-20T06:46:08.000Z",
+  "fetchedAt": "2026-09-22T17:26:30.341Z",
+  "summary": "Qwen has released Qwen3.8-LiveTranslate, a real-time simultaneous interpretation model built on a new Interleave architecture. It cuts average lagging (LAAL) from 2.8 seconds to 2.3 seconds. It also adds real-time speaker diarization with stable voice cloning, synchronized bilingual display, and long-context disambiguation for names and terms. The model understands 60 languages, speaks 29, and is available now as a WebSocket API on Alibaba Cloud Model Studio and QwenCloud. The post Alibaba Qwen ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "marktechpost",
+    "author": "<![CDATA[Asif Razzaq]]>"
+  }
+}

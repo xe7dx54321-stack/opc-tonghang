@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-21-design-once-reuse-forever-the-reconfigurable-analog-front-en",
+  "title": "Design Once, Reuse Forever: The Reconfigurable Analog Front End",
+  "url": "https://www.eetimes.com/design-once-reuse-forever-the-reconfigurable-analog-front-end/",
+  "source": "eetimes",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Design Once",
+    "Reuse Forever",
+    "PCB",
+    "The",
+    "The Reconfigurable Analog Front End",
+    "EE Times"
+  ],
+  "publishedAt": "2026-09-21T13:00:00.000Z",
+  "fetchedAt": "2026-09-22T17:26:34.840Z",
+  "summary": "AnalogPAK turns the analog front end into a configurable, reusable design: one PCB supports multiple sensors and ranges with no board re-spin. The post Design Once, Reuse Forever: The Reconfigurable Analog Front End appeared first on EE Times. ]]>",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "eetimes",
+    "author": "\n\t\t\t\t\t\t<![CDATA[Robert Schreiber, Analog Product Marketing Director, Renesas Electronics]]>\n\t\t\t\t\t"
+  }
+}

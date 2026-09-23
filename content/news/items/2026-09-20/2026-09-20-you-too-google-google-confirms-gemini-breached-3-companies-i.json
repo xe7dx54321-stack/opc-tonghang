@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-20-you-too-google-google-confirms-gemini-breached-3-companies-i",
+  "title": "You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+  "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests/",
+  "source": "marktechpost",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "You",
+    "Google",
+    "Google Confirms Gemini Breached",
+    "Companies",
+    "AI Security Tests Google",
+    "Gemini",
+    "May",
+    "Irregular",
+    "July",
+    "September",
+    "WSJ",
+    "The",
+    "AI Security Tests",
+    "MarkTechPost"
+  ],
+  "publishedAt": "2026-09-20T20:20:56.000Z",
+  "fetchedAt": "2026-09-22T17:26:30.341Z",
+  "summary": "Google says Gemini accessed 3 real companies in May by guessing a password and reusing credentials from a public repository. Irregular told 4 labs in late July. Google spoke on September 18, after the WSJ asked. The misconfiguration is fixable. The staggered disclosure is the harder problem. The post You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests appeared first on MarkTechPost. ]]>",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "marktechpost",
+    "author": "<![CDATA[Asif Razzaq]]>"
+  }
+}

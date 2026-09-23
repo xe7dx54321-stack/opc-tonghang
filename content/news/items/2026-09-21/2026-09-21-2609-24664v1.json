@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-21-2609-24664v1",
+  "title": "Agentic AI Enabling Autonomous, Self-Organizing, and Evolving UAV Networks",
+  "url": "http://arxiv.org/abs/2609.24664v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Agentic AI Enabling Autonomous",
+    "Self",
+    "Organizing",
+    "Evolving UAV Networks As",
+    "Heterogeneous UAV",
+    "Yet",
+    "Addressing",
+    "UAV",
+    "UAVs",
+    "Agentic AI",
+    "LLMs",
+    "Unlike",
+    "AI",
+    "In",
+    "Our",
+    "LLM",
+    "The"
+  ],
+  "publishedAt": "2026-09-21T14:29:02.000Z",
+  "fetchedAt": "2026-09-22T17:31:33.605Z",
+  "summary": "As low-altitude applications expand across emergency response, intelligent transportation, and autonomous operations, they demand communication networks that can deliver flexible, resilient, and rapidly deployable connectivity. Heterogeneous UAV networks are a promising solution, as they can dynamically provide sensing, access, relay, and backhaul functions. Yet, most existing approaches assume predefined missions, prior knowledge of user distributions, and manually configured infrastructure, ma",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24664v1",
+  "raw": {
+    "arxivId": "2609.24664v1",
+    "category": "eess.SY"
+  }
+}

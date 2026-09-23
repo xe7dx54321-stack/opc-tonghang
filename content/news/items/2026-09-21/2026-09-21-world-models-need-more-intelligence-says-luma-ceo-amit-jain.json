@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-21-world-models-need-more-intelligence-says-luma-ceo-amit-jain",
+  "title": "World Models Need More Intelligence, Says Luma CEO Amit Jain",
+  "url": "https://www.theinformation.com/articles/world-models-need-intelligence-says-luma-ceo-amit-jain",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "World Models Need More Intelligence",
+    "Says Luma CEO Amit Jain",
+    "The AI",
+    "Amit Jain",
+    "CEO",
+    "Luma AI",
+    "AI Deep Dive",
+    "The Information"
+  ],
+  "publishedAt": "2026-09-21T22:46:47.000Z",
+  "fetchedAt": "2026-09-22T17:26:30.351Z",
+  "summary": "&lt;p&gt;The AI boom has been built largely on progress in language models, but a different approach has gained enormous attention in the industry this year: world models, which are designed to generate accurate predictions about the physical world, rather than words and numbers.&lt;/p&gt; &lt;p&gt;I sat down with Amit Jain, co-founder and CEO of Luma AI, to discuss the promise of world models&amp;mdash;and where current approaches to training them still fall short&amp;mdash;on the &lt;a href=\"h",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "theinformation",
+    "author": "Rocket Drew"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-21",
+  "itemCount": 76,
+  "bySource": {
+    "arxiv": 14,
+    "hacker-news": 1,
+    "simon-willison": 2,
+    "techcrunch-ai": 10,
+    "techcrunch": 1,
+    "marktechpost": 4,
+    "theinformation": 12,
+    "stratechery": 1,
+    "ars-technica": 10,
+    "semiconductor-engineering": 5,
+    "eetimes": 7,
+    "nvidia-blog": 5,
+    "semiwiki": 2,
+    "robot-report": 2
+  },
+  "byTopic": {
+    "semiconductor": 43,
+    "ai": 46,
+    "embodied-ai": 2
+  },
+  "generatedBy": "backfill"
+}

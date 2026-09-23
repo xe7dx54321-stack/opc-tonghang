@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-18-parallel-reads-and-write-optimization-for-large-scale-data-r",
+  "title": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
+  "url": "https://content.knowledgehub.wiley.com/76-faster-replication-same-infrastructure/",
+  "source": "ieee-spectrum-ai",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Parallel Reads",
+    "Write Optimization",
+    "Large",
+    "Scale Data Replication This White Paper",
+    "Download"
+  ],
+  "publishedAt": "2026-09-18T18:29:50.000Z",
+  "fetchedAt": "2026-09-22T17:26:36.659Z",
+  "summary": "This White Paper gives data engineers and architects a practical overview of how parallel partitioned reads, write-path optimization, and cloud-native bulk loading reduce large-table replication times, and why replication speed has become a business concern as data volumes grow.Download this free whitepaper now!]]>",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "ieee-spectrum-ai",
+    "author": "Mike Spector"
+  }
+}

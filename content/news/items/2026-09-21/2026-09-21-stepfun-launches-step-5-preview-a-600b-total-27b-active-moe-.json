@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-21-stepfun-launches-step-5-preview-a-600b-total-27b-active-moe-",
+  "title": "StepFun Launches Step 5 Preview: A 600B-Total, 27B-Active MoE Model With 1M Context for Long-Horizon Agentic Work",
+  "url": "https://www.marktechpost.com/2026/09/20/stepfun-launches-step-5-preview/",
+  "source": "marktechpost",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "StepFun Launches Step",
+    "Preview",
+    "Total",
+    "Active MoE Model With",
+    "Context",
+    "Long",
+    "Horizon Agentic Work StepFun",
+    "Step",
+    "Mixture",
+    "Experts",
+    "It",
+    "The",
+    "API",
+    "October",
+    "Horizon Agentic Work",
+    "MarkTechPost"
+  ],
+  "publishedAt": "2026-09-21T06:37:18.000Z",
+  "fetchedAt": "2026-09-22T17:26:30.341Z",
+  "summary": "StepFun has released Step 5 Preview, a sparse Mixture-of-Experts model with 600B total parameters and 27B active per token. It supports a 1M-token context window and accepts text, image, and video input. The model targets long-horizon agentic work in software engineering, professional knowledge work, and finance. API access is live at $1.00 per 1M input tokens and $2.70 per 1M output tokens, and open weights are scheduled for October 15, 2026. The post StepFun Launches Step 5 Preview: A 600B-Tot",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "marktechpost",
+    "author": "<![CDATA[Michal Sutter]]>"
+  }
+}

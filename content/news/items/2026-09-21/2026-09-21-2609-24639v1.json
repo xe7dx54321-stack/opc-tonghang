@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-21-2609-24639v1",
+  "title": "Analytical Power-Aware Provisioning for Prefill-Decode Disaggregated AI Inference",
+  "url": "http://arxiv.org/abs/2609.24639v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Analytical Power",
+    "Aware Provisioning",
+    "Prefill",
+    "Decode Disaggregated AI Inference Power",
+    "AI",
+    "PD",
+    "However",
+    "KV",
+    "Existing",
+    "This",
+    "Given",
+    "The",
+    "In",
+    "On",
+    "Together",
+    "Pareto"
+  ],
+  "publishedAt": "2026-09-21T14:17:46.000Z",
+  "fetchedAt": "2026-09-22T17:31:33.605Z",
+  "summary": "Power availability increasingly constrains the operation of AI inference fleets, creating a need for provisioning methods that jointly consider serving capacity and power consumption. Prefill--decode (PD) disaggregation has emerged as a prevalent architecture for large-scale inference serving. However, determining the appropriate numbers of prefill and decode instances is challenging because serving capacity depends jointly on workload characteristics, hardware constraints, queueing, and KV-cach",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24639v1",
+  "raw": {
+    "arxivId": "2609.24639v1",
+    "category": "eess.SY"
+  }
+}

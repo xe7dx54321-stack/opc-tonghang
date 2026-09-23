@@ -1,0 +1,25 @@
+{
+  "id": "2026-09-15-ai-for-everyone-in-every-language",
+  "title": "AI for everyone in every language",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+  "source": "blog-google-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AI",
+    "We"
+  ],
+  "publishedAt": "2026-09-15T16:00:00.000Z",
+  "fetchedAt": "2026-09-22T17:26:32.436Z",
+  "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp\"&gt;We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "blog-google-ai",
+    "author": "<name>James Manyika</name><title>SVP</title><department>Research, Labs, Technology &amp; Society</department><company/>"
+  }
+}

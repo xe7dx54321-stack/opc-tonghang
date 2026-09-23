@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-21-2609-24433v1",
+  "title": "FoldQuantVLA: Native Low-Bit Quantization of Vision-Language-Action Models via Consistent Folding",
+  "url": "http://arxiv.org/abs/2609.24433v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "FoldQuantVLA",
+    "Native Low",
+    "Bit Quantization",
+    "Vision",
+    "Language",
+    "Action Models",
+    "Consistent Folding Low",
+    "We",
+    "It",
+    "Hadamard",
+    "Custom TensorRT",
+    "Ada GPUs",
+    "Jetson AGX Orin",
+    "Evaluation",
+    "LIBERO",
+    "SimplerEnv",
+    "Across",
+    "GR00T",
+    "TensorRT",
+    "Orin"
+  ],
+  "publishedAt": "2026-09-21T11:28:41.000Z",
+  "fetchedAt": "2026-09-22T17:31:33.605Z",
+  "summary": "Low-bit vision-language-action inference must reduce observation-to-action latency while preserving robot behavior. We present FoldQuantVLA, a post-training quantization framework that carries a consistent activation representation through calibration, weight rounding, and native integer execution. It combines channel scaling and block Hadamard transforms with dynamic per-token quantization, without policy retraining. Custom TensorRT plugins execute projections in both the language backbone and ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24433v1",
+  "raw": {
+    "arxivId": "2609.24433v1",
+    "category": "eess.SY"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-16-datasette-0655",
+  "title": "datasette 0.65.5",
+  "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Release",
+    "Security",
+    "GHSA",
+    "Tags"
+  ],
+  "publishedAt": "2026-09-16T23:51:08.000Z",
+  "fetchedAt": "2026-09-22T17:26:28.770Z",
+  "summary": "&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/simonw/datasette/releases/tag/0.65.5\"&gt;datasette 0.65.5&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by &lt;a href=\"https://github.com/dpfkdlemtp\"&gt;dpfkdlemtp&lt;/a&gt; in &lt;a href=\"https://github.com/simonw/datasette/security/advisories/GHSA-h547-rmjf-5m2m\"&gt;GHSA-h547-rmjf-5m2m&lt;/a&gt",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": ""
+  }
+}

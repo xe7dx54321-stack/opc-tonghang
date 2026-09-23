@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-15-digit-5-may-be-the-first-humanoid-robot-worker-thats-truly-s",
+  "title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
+  "url": "https://spectrum.ieee.org/humanoid-robot-safety",
+  "source": "ieee-spectrum-robotics",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Digit",
+    "May Be",
+    "First Humanoid Robot Worker That",
+    "Truly Safe Despite",
+    "There",
+    "But",
+    "With",
+    "Agility Robotics",
+    "This"
+  ],
+  "publishedAt": "2026-09-15T15:22:30.000Z",
+  "fetchedAt": "2026-09-22T17:26:37.470Z",
+  "summary": "Despite the recent deluge of videos of humanoid robots doing backflips and kung fu, the actual pace of progress towards humanoids that can do economically viable jobs at scale has at times seemed a bit plodding. There are some good reasons for this: A humanoid robot needs to be powerful enough to do useful work, safe enough for humans to walk past, and have enough battery life to limit how much of the day it’s hooked to a charger. But all three of those necessary features actively work against e",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "ieee-spectrum-robotics",
+    "author": "Evan Ackerman"
+  }
+}

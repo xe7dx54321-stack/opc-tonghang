@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-21-alibaba-qwen-releases-qwen-image-21-a-7b-open-weight-model-f",
+  "title": "Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing",
+  "url": "https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/",
+  "source": "marktechpost",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Alibaba Qwen Releases Qwen",
+    "Image",
+    "Open",
+    "Weight Model",
+    "Image Generation",
+    "Editing Alibaba",
+    "Qwen",
+    "RGBA",
+    "KV",
+    "The",
+    "Editing",
+    "MarkTechPost"
+  ],
+  "publishedAt": "2026-09-21T16:40:44.000Z",
+  "fetchedAt": "2026-09-22T17:26:30.341Z",
+  "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, a 7B diffusion transformer that handles text-to-image generation, multi-reference editing, and native RGBA transparency in one checkpoint. A prefix KV cache speeds up edits with up to 10 reference images. The weights are public, but commercial use requires a separate license from Qwen. The post Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing appeared first on MarkTechPost. ]]>",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "marktechpost",
+    "author": "<![CDATA[Michal Sutter]]>"
+  }
+}

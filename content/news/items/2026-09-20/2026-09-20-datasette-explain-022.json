@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-20-datasette-explain-022",
+  "title": "datasette-explain 0.2.2",
+  "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Release",
+    "Explain",
+    "Datasette",
+    "Tags"
+  ],
+  "publishedAt": "2026-09-20T00:22:04.000Z",
+  "fetchedAt": "2026-09-22T17:26:28.769Z",
+  "summary": "&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/simonw/datasette-explain/releases/tag/0.2.2\"&gt;datasette-explain 0.2.2&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;ul&gt; &lt;li&gt;Explain plans now work on read-only stored-query pages.&lt;/li&gt; &lt;/ul&gt; &lt;/blockquote&gt; &lt;p&gt;I upgraded &lt;a href=\"https://datasette.simonwillison.net\"&gt;datasette.simonwillison.net&lt;/a&gt; to Datasette 1.0a40, which inspired me to ship a new version of this explain plug",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": ""
+  }
+}

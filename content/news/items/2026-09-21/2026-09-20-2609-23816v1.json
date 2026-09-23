@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-20-2609-23816v1",
+  "title": "SPLASH: Co-Designing Sparse Attention with High-Bandwidth Flash for Efficient Long-Context Inference",
+  "url": "http://arxiv.org/abs/2609.23816v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "SPLASH",
+    "Co",
+    "Designing Sparse Attention",
+    "High",
+    "Bandwidth Flash",
+    "Efficient Long",
+    "Context Inference The",
+    "KV",
+    "LLM",
+    "HBM",
+    "HBF",
+    "Limited",
+    "Unlike",
+    "Since HBF",
+    "We",
+    "Across",
+    "GPU"
+  ],
+  "publishedAt": "2026-09-20T19:11:43.000Z",
+  "fetchedAt": "2026-09-22T17:31:29.886Z",
+  "summary": "The key-value (KV) cache has become the dominant consumer of memory in large language model (LLM) serving systems as context lengths, concurrency, and request lifetimes grow. High-bandwidth memory (HBM) provides the bandwidth attention decode needs but limited capacity, while off-package memory and storage add capacity but lack the bandwidth to sustain attention decode. High-Bandwidth Flash (HBF) is a promising substrate that combines terabyte-scale capacity with near-HBM read bandwidth. Limited",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.23816v1",
+  "raw": {
+    "arxivId": "2609.23816v1",
+    "category": "cs.AR"
+  }
+}

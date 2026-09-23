@@ -46,8 +46,9 @@ yarn-error.log*
 # Contentlayer
 .contentlayer
 
-# news-harness sync target（构建时由 scripts/sync-news.mjs 生成）
-/content/news/
+# news-harness sync target（**纳入 git**，由 GitHub Action sync-web.yml 同步提交）
+# ⚠️ 之前 /content/news/ 在这里导致 sync workflow 跑了 179 个文件但 git add -A 抓不到，
+#    现在移除，整个 content/news/ 会被 git 追踪。
 
 # IDE / 系统
 .DS_Store

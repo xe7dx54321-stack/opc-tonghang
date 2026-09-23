@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-15-gemini-live-audio",
+  "title": "Gemini Live audio",
+  "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Gemini Live",
+    "Tool",
+    "Google",
+    "Gemini",
+    "Live",
+    "Live Extended Thinking",
+    "OpenAI",
+    "GPT",
+    "Astra Extra High",
+    "UI",
+    "You",
+    "Screenshot"
+  ],
+  "publishedAt": "2026-09-15T22:47:07.000Z",
+  "fetchedAt": "2026-09-22T17:26:28.770Z",
+  "summary": "&lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=\"https://tools.simonwillison.net/gemini-live\"&gt;Gemini Live audio&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Google released &lt;a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\"&gt;Gemini 3.8 Live and 3.8 Live Extended Thinking&lt;/a&gt; today - two new speech-to-speech models that are a similar shape to OpenAI's &lt;a href=\"https://openai.com/index/introducing-gpt-live/\"&",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": ""
+  }
+}

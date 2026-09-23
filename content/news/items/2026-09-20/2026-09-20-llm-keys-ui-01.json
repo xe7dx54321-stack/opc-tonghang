@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-20-llm-keys-ui-01",
+  "title": "llm-keys-ui 0.1",
+  "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Release",
+    "This",
+    "Codex Remote",
+    "Sometimes",
+    "LLM",
+    "API",
+    "ChatGPT",
+    "With",
+    "Codex",
+    "Then",
+    "URL",
+    "Tailscale",
+    "IPs",
+    "AP"
+  ],
+  "publishedAt": "2026-09-20T19:22:19.000Z",
+  "fetchedAt": "2026-09-22T17:26:28.769Z",
+  "summary": "&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/simonw/llm-keys-ui/releases/tag/0.1\"&gt;llm-keys-ui 0.1&lt;/a&gt;&lt;/p&gt; &lt;p&gt;This plugin solves a very specific problem.&lt;/p&gt; &lt;p&gt;I've started using &lt;a href=\"https://learn.chatgpt.com/docs/remote\"&gt;Codex Remote&lt;/a&gt; to run coding agents on various machines while controlling them from my phone. &lt;/p&gt; &lt;p&gt;Sometimes I use those machines to hack on LLM projects, and occasionally that m",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": ""
+  }
+}

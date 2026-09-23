@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-21-muse-metas-extraordinarily-privileged-ai-assistant-has-a-ser",
+  "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+  "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+  "source": "ars-technica",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "Muse",
+    "Meta",
+    "AI"
+  ],
+  "publishedAt": "2026-09-21T22:24:38.000Z",
+  "fetchedAt": "2026-09-22T17:26:30.438Z",
+  "summary": "",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "ars-technica",
+    "author": "\n                    <![CDATA[Dan Goodin]]>\n                "
+  }
+}

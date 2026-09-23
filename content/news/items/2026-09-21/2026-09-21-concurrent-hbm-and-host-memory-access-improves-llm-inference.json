@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-21-concurrent-hbm-and-host-memory-access-improves-llm-inference",
+  "title": "Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, Nvidia, Stanford)",
+  "url": "https://semiengineering.com/concurrent-hbm-and-host-memory-access-improves-llm-inference-throughput-georgia-tech-nvidia-stanford/",
+  "source": "semiconductor-engineering",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Georgia Tech",
+    "Nvidia",
+    "Stanford",
+    "Researchers",
+    "Nvidia Research",
+    "Stanford University",
+    "BOOST",
+    "Concurrent Access",
+    "Host Memory",
+    "HBM",
+    "Accelerate LLM Inference",
+    "Abstract Excerpt",
+    "This",
+    "GPU",
+    "The",
+    "Semiconductor Engineering"
+  ],
+  "publishedAt": "2026-09-21T23:13:37.000Z",
+  "fetchedAt": "2026-09-22T17:26:34.695Z",
+  "summary": "Researchers at Georgia Tech, Nvidia Research, and Stanford University published a technical paper titled “BOOST: Concurrent Access to Host Memory and HBM to Accelerate LLM Inference.” Abstract Excerpt: “This paper presents BOOST, the first runtime system that provides concurrent and proportional access to both GPU memory tiers, extracting the combined bandwidth of host memory and... &#187; read more The post Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, N",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "semiconductor-engineering",
+    "author": "<![CDATA[Technical Paper Link]]>"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-21-2609-24757v1",
+  "title": "NPU Accelerator: Quantized Real-Time Vehicle Detection on PYNQ-Z1 Using FINN",
+  "url": "http://arxiv.org/abs/2609.24757v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "NPU Accelerator",
+    "Quantized Real",
+    "Time Vehicle Detection",
+    "PYNQ",
+    "Using FINN This",
+    "NPU",
+    "Xilinx Zynq",
+    "XC7Z020",
+    "The",
+    "QAT",
+    "YOLO",
+    "Brevitas",
+    "QONNX",
+    "FINN",
+    "Vivado",
+    "Four",
+    "FPS",
+    "PL",
+    "Pascal VOC",
+    "LP"
+  ],
+  "publishedAt": "2026-09-21T15:26:19.000Z",
+  "fetchedAt": "2026-09-22T17:31:29.886Z",
+  "summary": "This paper presents the design, optimization, implementation, and on-board validation of a neural processing unit (NPU) accelerator for real-time vehicle detection on the resource-constrained Xilinx Zynq XC7Z020 device of the PYNQ-Z1 board. The work follows a hardware/software co-design methodology that combines quantization-aware training (QAT), lightweight YOLO-derived detectors, Brevitas/QONNX model export, FINN dataflow compilation, Vivado implementation, and physical benchmarking on the tar",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24757v1",
+  "raw": {
+    "arxivId": "2609.24757v1",
+    "category": "cs.AR"
+  }
+}

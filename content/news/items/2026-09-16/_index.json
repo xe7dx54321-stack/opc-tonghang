@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-16",
+  "itemCount": 16,
+  "bySource": {
+    "hacker-news": 3,
+    "latent-space": 1,
+    "simon-willison": 4,
+    "stratechery": 1,
+    "nvidia-blog": 3,
+    "ieee-spectrum-ai": 2,
+    "robot-report": 2
+  },
+  "byTopic": {
+    "ai": 12,
+    "semiconductor": 5,
+    "embodied-ai": 2
+  },
+  "generatedBy": "backfill"
+}

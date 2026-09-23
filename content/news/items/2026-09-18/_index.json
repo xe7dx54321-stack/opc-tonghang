@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-18",
+  "itemCount": 17,
+  "bySource": {
+    "hacker-news": 3,
+    "simon-willison": 4,
+    "stratechery": 1,
+    "blog-google-ai": 2,
+    "ieee-spectrum-ai": 1,
+    "ieee-spectrum-robotics": 1,
+    "robot-report": 5
+  },
+  "byTopic": {
+    "ai": 10,
+    "semiconductor": 1,
+    "embodied-ai": 6
+  },
+  "generatedBy": "backfill"
+}

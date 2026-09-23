@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-17-self-generated-prompt-injections-in-compaction-summaries",
+  "title": "Self-generated prompt injections in compaction summaries",
+  "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Self",
+    "In",
+    "Our",
+    "OpenAI",
+    "This",
+    "Compaction"
+  ],
+  "publishedAt": "2026-09-17T20:57:55.000Z",
+  "fetchedAt": "2026-09-22T17:26:28.770Z",
+  "summary": "&lt;p&gt;&lt;strong&gt;&lt;a href=\"https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/\"&gt;Self-generated prompt injections in compaction summaries&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; In &lt;a href=\"https://openai.com/index/model-misalignment-reporting-framework/\"&gt;Our framework for reporting model misalignment&lt;/a&gt; OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": ""
+  }
+}

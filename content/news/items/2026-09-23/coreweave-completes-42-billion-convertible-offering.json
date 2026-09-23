@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-23-coreweave-completes-42-billion-convertible-offering",
+  "title": "CoreWeave Completes $4.2 Billion Convertible Offering",
+  "url": "https://www.theinformation.com/briefings/coreweave-completes-4-2-billion-convertible-offering",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "CoreWeave Completes",
+    "Billion Convertible Offering",
+    "CoreWeave",
+    "Tuesday",
+    "AI",
+    "The",
+    "Thursday"
+  ],
+  "publishedAt": "2026-09-22T23:20:38.000Z",
+  "fetchedAt": "2026-09-23T00:31:40.522Z",
+  "summary": "CoreWeave 今天完成 42 亿美元可转债发行，估值随之抬升。资金主要用于扩大 NVIDIA Blackwell GPU 集群与新建数据中心。",
+  "investorNote": "判断：算力侧的资金募集速度仍然高于应用层，独立 GPU 云在 2026 仍是卖方市场；估值锚点已经从 CapEx 转向可用算力规模。",
+  "score": 0.87,
+  "duplicateOf": null,
+  "clusterId": "single-2026-09-22-coreweave-completes-42-billion-convertible-offering",
+  "crossSources": []
+}

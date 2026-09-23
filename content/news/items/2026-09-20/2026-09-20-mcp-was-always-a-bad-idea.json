@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-20-mcp-was-always-a-bad-idea",
+  "title": "MCP was always a bad idea?",
+  "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "MCP",
+    "My",
+    "Hacker News",
+    "This",
+    "Sure",
+    "MCPs",
+    "Claude Code",
+    "Codex",
+    "Meta Muse",
+    "OpenClaw",
+    "APIs",
+    "If",
+    "YOLO",
+    "Control",
+    "API",
+    "UI",
+    "Strong"
+  ],
+  "publishedAt": "2026-09-20T20:24:41.000Z",
+  "fetchedAt": "2026-09-22T17:26:28.769Z",
+  "summary": "&lt;p&gt;&lt;a href=\"https://news.ycombinator.com/item?id=49779329#49779718\"&gt;My comment&lt;/a&gt; on &lt;a href=\"https://news.ycombinator.com/item?id=49779329\"&gt;MCP was always a bad idea?&lt;/a&gt; &amp;mdash; Hacker News.&lt;/p&gt;&lt;p&gt;This article entirely misses the value that MCP brings today.&lt;/p&gt; &lt;p&gt;Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - jus",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": ""
+  }
+}

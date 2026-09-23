@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-18-quoting-thariq-shihipar",
+  "title": "Quoting Thariq Shihipar",
+  "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Quoting Thariq Shihipar",
+    "We",
+    "AGENTS",
+    "Claude Code",
+    "Starting",
+    "CLAUDE",
+    "Claude",
+    "This",
+    "You",
+    "Thariq Shihipar",
+    "Tags"
+  ],
+  "publishedAt": "2026-09-18T19:09:27.000Z",
+  "fetchedAt": "2026-09-22T17:26:28.769Z",
+  "summary": "&lt;blockquote cite=\"https://twitter.com/trq212/status/2101009392611278961\"&gt;&lt;p&gt;We're adding support for AGENTS.md to Claude Code. &lt;/p&gt; &lt;p&gt;Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.&lt;/p&gt; &lt;p&gt;AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness.&lt;/p&gt; &lt;p&gt;This is a built-in mod, but you’ll be able to build custom versions of project ins",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": ""
+  }
+}

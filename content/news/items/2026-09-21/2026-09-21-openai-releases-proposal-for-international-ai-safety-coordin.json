@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-21-openai-releases-proposal-for-international-ai-safety-coordin",
+  "title": "OpenAI Releases Proposal for International AI Safety Coordination",
+  "url": "https://www.theinformation.com/briefings/openai-releases-proposal-international-ai-safety-coordination",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI Releases Proposal",
+    "International AI Safety Coordination",
+    "OpenAI",
+    "Monday",
+    "AI",
+    "In",
+    "Commerce Department",
+    "Center",
+    "AI Standards",
+    "Innovation"
+  ],
+  "publishedAt": "2026-09-21T18:11:04.000Z",
+  "fetchedAt": "2026-09-22T17:26:30.352Z",
+  "summary": "&lt;p&gt;OpenAI &lt;a href=\"https://openai.com/index/building-standards-next-phase-ai/\"&gt;released a proposal&lt;/a&gt; on Monday that would create international coordination around AI safety. In a blog post, OpenAI called for national AI safety institutes, such as the U.S. Commerce Department’s Center for AI Standards and Innovation, to set standards around areas including model ...&lt;/p&gt;",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "theinformation",
+    "author": "Leo Schwartz"
+  }
+}

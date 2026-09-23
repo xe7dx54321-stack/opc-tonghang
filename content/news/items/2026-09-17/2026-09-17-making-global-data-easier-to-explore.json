@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-17-making-global-data-easier-to-explore",
+  "title": "Making global data easier to explore",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+  "source": "blog-google-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Making",
+    "Google",
+    "UN",
+    "UN System Data Commons"
+  ],
+  "publishedAt": "2026-09-17T20:00:00.000Z",
+  "fetchedAt": "2026-09-22T17:26:32.436Z",
+  "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp\"&gt;Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "blog-google-ai",
+    "author": "<name>Prem Ramaswami</name><title>Head of Data Commons</title><department/><company/>"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-20",
+  "itemCount": 16,
+  "bySource": {
+    "arxiv": 2,
+    "hacker-news": 1,
+    "simon-willison": 4,
+    "techcrunch-ai": 2,
+    "marktechpost": 3,
+    "ars-technica": 3,
+    "robot-report": 1
+  },
+  "byTopic": {
+    "semiconductor": 5,
+    "ai": 13,
+    "embodied-ai": 1
+  },
+  "generatedBy": "backfill"
+}

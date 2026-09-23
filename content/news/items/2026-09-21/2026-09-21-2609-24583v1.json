@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-21-2609-24583v1",
+  "title": "Optimal Allocation of Grid-Forming Frequency Shaping Control",
+  "url": "http://arxiv.org/abs/2609.24583v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Optimal Allocation",
+    "Grid",
+    "Among",
+    "RoCoF",
+    "Moreover",
+    "In",
+    "We",
+    "First",
+    "Second",
+    "Nadir",
+    "The",
+    "Icelandic Power Network"
+  ],
+  "publishedAt": "2026-09-21T13:46:33.000Z",
+  "fetchedAt": "2026-09-22T17:31:33.605Z",
+  "summary": "Various inverter-based control strategies have been proposed to improve frequency security for power systems with high renewable penetration. Among them, the grid-forming frequency shaping control is particularly promising due to its ability to shape the post-contingency aggregate system frequency dynamics into first-order with prescribed rate of change of frequency (RoCoF) and steady-state frequency deviation. Moreover, the shaped aggregate dynamics depends on the harmonic sum of all inverter t",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24583v1",
+  "raw": {
+    "arxivId": "2609.24583v1",
+    "category": "eess.SY"
+  }
+}

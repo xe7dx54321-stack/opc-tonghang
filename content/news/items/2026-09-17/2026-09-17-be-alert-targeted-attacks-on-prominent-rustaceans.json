@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-17-be-alert-targeted-attacks-on-prominent-rustaceans",
+  "title": "Be alert: targeted attacks on prominent Rustaceans",
+  "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Be",
+    "Rustaceans",
+    "Important",
+    "Adam Harvey",
+    "We",
+    "Last"
+  ],
+  "publishedAt": "2026-09-17T23:59:19.000Z",
+  "fetchedAt": "2026-09-22T17:26:28.769Z",
+  "summary": "&lt;p&gt;&lt;strong&gt;&lt;a href=\"https://blog.rust-lang.org/2026/09/17/targeted-attacks/\"&gt;Be alert: targeted attacks on prominent Rustaceans&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Important warning from Adam Harvey and the crates security team:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware.&lt;/p&gt; &lt;p&gt;",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": ""
+  }
+}

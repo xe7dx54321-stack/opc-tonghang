@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-16-rethinking-robot-safety-in-the-age-of-ai",
+  "title": "Rethinking Robot Safety in the Age of AI",
+  "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+  "source": "ieee-spectrum-ai",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Rethinking Robot Safety",
+    "Age",
+    "AI This",
+    "VicOne",
+    "Robot",
+    "Can",
+    "Physical AI",
+    "As AI",
+    "AI",
+    "As",
+    "That",
+    "Recent",
+    "Such"
+  ],
+  "publishedAt": "2026-09-16T16:51:02.000Z",
+  "fetchedAt": "2026-09-22T17:26:36.659Z",
+  "summary": "This article is brought to you by VicOne.Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed?As AI and robotics continue to advance at an unprecedented pace, modern robots perceive through multimodal sensors, interpret context using AI models, and translate those interpretations into physical action",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "ieee-spectrum-ai",
+    "author": "VicOne"
+  }
+}

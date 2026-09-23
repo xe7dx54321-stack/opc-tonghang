@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-21-2609-24288v1",
+  "title": "Circuit-Architecture-Training Co-Design with Regenerative-SA Similarity Sensing for Aggressive SAR Skipping in Analog Compute-in-Memory",
+  "url": "http://arxiv.org/abs/2609.24288v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Circuit",
+    "Architecture",
+    "Training Co",
+    "Design",
+    "Regenerative",
+    "SA Similarity Sensing",
+    "Aggressive SAR Skipping",
+    "Analog Compute",
+    "Memory This",
+    "SA",
+    "SAR",
+    "CIM",
+    "Hardware",
+    "The",
+    "CMOS",
+    "WRN",
+    "DeiT",
+    "ISAAC",
+    "On WRN",
+    "Top"
+  ],
+  "publishedAt": "2026-09-21T08:47:01.000Z",
+  "fetchedAt": "2026-09-22T17:31:29.886Z",
+  "summary": "This work presents a circuit-architecture-training co-design framework that exploits sense-amplifier (SA) regeneration to detect analog-output similarity and reduce SAR comparisons in compute-in-memory (CIM) systems. Hardware-aware training incorporates circuit-characterized SA disturbance and encoding errors caused by prefix reuse, enabling aggressive comparison skipping. The detector is characterized through 55-nm CMOS schematic simulations, with system-level evaluation on WRN-28-10, ResNet20,",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24288v1",
+  "raw": {
+    "arxivId": "2609.24288v1",
+    "category": "cs.AR"
+  }
+}

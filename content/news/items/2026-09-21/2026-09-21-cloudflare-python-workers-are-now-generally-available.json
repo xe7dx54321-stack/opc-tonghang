@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-21-cloudflare-python-workers-are-now-generally-available",
+  "title": "Cloudflare Python Workers are now generally available",
+  "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Cloudflare Python Workers",
+    "After",
+    "Cloudflare",
+    "Python",
+    "Workers",
+    "Cloudflare Developer Platform",
+    "WebAssembly",
+    "Pyodide",
+    "This",
+    "WebAssembly VM",
+    "One"
+  ],
+  "publishedAt": "2026-09-21T22:25:44.000Z",
+  "fetchedAt": "2026-09-22T17:26:28.769Z",
+  "summary": "&lt;p&gt;&lt;strong&gt;&lt;a href=\"https://blog.cloudflare.com/python-workers-ga/\"&gt;Cloudflare Python Workers are now generally available&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on the Cloudflare Developer Platform\".&lt;/p&gt; &lt;p&gt;A neat thing about this is how it works. Cloudflare are running Python compiled to WebAs",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": ""
+  }
+}

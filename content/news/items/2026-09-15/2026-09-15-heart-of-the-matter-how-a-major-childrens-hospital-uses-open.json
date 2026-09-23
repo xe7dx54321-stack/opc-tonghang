@@ -1,0 +1,30 @@
+{
+  "id": "2026-09-15-heart-of-the-matter-how-a-major-childrens-hospital-uses-open",
+  "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+  "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "Heart",
+    "Matter",
+    "How",
+    "Major Children",
+    "Hospital Uses Open Source NVIDIA AI",
+    "Cardiac Care"
+  ],
+  "publishedAt": "2026-09-15T09:00:42.000Z",
+  "fetchedAt": "2026-09-22T17:26:34.904Z",
+  "summary": "",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "nvidia-blog",
+    "author": "<![CDATA[Isha Salian]]>"
+  }
+}

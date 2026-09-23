@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-21-2609-24270v1",
+  "title": "Dissecting How Die Scaling Breaks GPU Fine-grained Scheduling",
+  "url": "http://arxiv.org/abs/2609.24270v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Scheduling Modern GPUs",
+    "Die",
+    "The",
+    "These",
+    "Topology",
+    "HBM",
+    "However",
+    "GPU",
+    "We",
+    "Across",
+    "LLM"
+  ],
+  "publishedAt": "2026-09-21T08:34:29.000Z",
+  "fetchedAt": "2026-09-22T17:31:29.886Z",
+  "summary": "Modern GPUs are no longer physically symmetric. Die scaling leads to both manufacturing-driven floorsweeping and cache and memory partitioning. The former creates chip-specific compute topologies, while the latter causes non-uniform memory access. These asymmetries are substantial. Topology-oblivious compute unit allocation can lead to up to 1.33x performance variation, while remote accesses increase HBM latency by up to 67% and nearly double L2 latency. However, these asymmetries are hidden beh",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24270v1",
+  "raw": {
+    "arxivId": "2609.24270v1",
+    "category": "cs.AR"
+  }
+}

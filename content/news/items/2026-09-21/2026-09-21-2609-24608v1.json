@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-21-2609-24608v1",
+  "title": "Multi-Period Repetitive Control Design in a Time Delay Framework with Application to an Active Vibration Isolation System",
+  "url": "http://arxiv.org/abs/2609.24608v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Multi",
+    "Period Repetitive Control Design",
+    "Time Delay Framework",
+    "Application",
+    "Active Vibration Isolation System Multi",
+    "Repetitive Control",
+    "MPRC",
+    "We",
+    "The",
+    "Experimental"
+  ],
+  "publishedAt": "2026-09-21T13:57:48.000Z",
+  "fetchedAt": "2026-09-22T17:31:33.605Z",
+  "summary": "Multi-period Repetitive Control (MPRC) can lead to amplification at non-repetitive frequencies due to the multiplication of multi-period repetitive control in their closed-loop sensitivity functions, which leads to closed-to imaginary poles. We propose a MPRC structure that eliminates such interaction. The scheme can be equivalently converted into a disturbance observer to improve robustness to frequency uncertainties. We derive an upper bound on the sensitivity function that can be optimized at",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24608v1",
+  "raw": {
+    "arxivId": "2609.24608v1",
+    "category": "eess.SY"
+  }
+}

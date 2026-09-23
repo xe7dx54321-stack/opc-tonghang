@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-21-sb-energy-faces-investor-skepticism-in-ipo-report-says",
+  "title": "SB Energy Faces Investor Skepticism in IPO, Report Says",
+  "url": "https://www.theinformation.com/briefings/sb-energy-faces-investor-skepticism-ipo-report-says",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "SB Energy Faces Investor Skepticism",
+    "IPO",
+    "Report Says",
+    "SB Energy",
+    "The New York Times",
+    "Monday",
+    "The SoftBank",
+    "OpenAI"
+  ],
+  "publishedAt": "2026-09-21T23:20:25.000Z",
+  "fetchedAt": "2026-09-22T17:26:30.351Z",
+  "summary": "&lt;p&gt;SB Energy’s initial public offering is facing investor skepticism, The New York Times reported Monday.&lt;/p&gt; &lt;p&gt;The SoftBank majority-owned company is planning to raise $5 billion to $7 billion in a public offering to help develop a massive data center complex OpenAI plans to lease, which is set to be ...&lt;/p&gt;",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "theinformation",
+    "author": "Laura Mandaro"
+  }
+}

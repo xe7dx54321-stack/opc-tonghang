@@ -1,0 +1,30 @@
+{
+  "id": "2026-09-21-amazon-blocks-metas-muse-agent",
+  "title": "Amazon Blocks Meta’s Muse Agent",
+  "url": "https://www.theinformation.com/briefings/amazon-blocks-metas-muse-agent",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Amazon Blocks Meta",
+    "Muse Agent",
+    "Amazon",
+    "Meta",
+    "Muse",
+    "AI",
+    "The"
+  ],
+  "publishedAt": "2026-09-21T11:46:48.000Z",
+  "fetchedAt": "2026-09-22T17:26:30.352Z",
+  "summary": "&lt;p&gt;Amazon blocked Meta’s Muse personalized AI agent from accessing its shopping site, Amazon confirmed, saying that agents such as Muse “should operate openly and respect&amp;nbsp;provider decisions about whether or not to participate.”&lt;/p&gt; &lt;p&gt;The block appeared to even prevent Muse from browsing Amazon’s ...&lt;/p&gt;",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "theinformation",
+    "author": "Martin Peers"
+  }
+}

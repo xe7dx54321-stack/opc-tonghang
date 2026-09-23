@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-21-2609-24693v1",
+  "title": "Adaptive sliding mode formation control for space interferometer missions",
+  "url": "http://arxiv.org/abs/2609.24693v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Adaptive",
+    "This",
+    "Earth",
+    "SILVIA",
+    "The",
+    "Hamiltonian",
+    "Adaptive Boundary",
+    "Sliding Mode Control",
+    "AB",
+    "SMC",
+    "Rigorous Lyapunov",
+    "Monte Carlo",
+    "Results"
+  ],
+  "publishedAt": "2026-09-21T14:46:17.000Z",
+  "fetchedAt": "2026-09-22T17:31:33.605Z",
+  "summary": "This paper addresses high-precision formation control for spacecraft operating in low Earth orbit, motivated by the requirements of future space interferometry missions such as SILVIA. The proposed approach formulates the relative dynamics within a port-Hamiltonian framework and introduces an Adaptive Boundary-layer Sliding Mode Control (AB-SMC) law to overcome the limitations of conventional SMC with constant gains. The key innovation lies in a dynamic, error-dependent adjustment of the sliding",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24693v1",
+  "raw": {
+    "arxivId": "2609.24693v1",
+    "category": "eess.SY"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-18-show-hn-onpanda-steer-llms-and-agents-at-the-token-level",
+  "title": "Show HN: OnPanda – Steer LLMs and agents at the token level",
+  "url": "https://onpanda.diyer22.com/",
+  "source": "hacker-news",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Show HN",
+    "OnPanda",
+    "Steer LLMs"
+  ],
+  "publishedAt": "2026-09-18T19:26:50.000Z",
+  "fetchedAt": "2026-09-22T17:27:57.350Z",
+  "summary": "I built onPanda – an interactive tool for token visualization &amp; control, model inspection and data annotation.<p>onPanda is designed for hackers, power users, curious minds, and engineers. Its UI is built for deep exploration and efficient data annotation.<p>- The core loop is simple: hover over a token → click an alternative or edit freely → continue generation. You can edit every part of model output exposed by onPanda, including <em>reasoning</em> and tool calls.<p>- Edit prompts directly, branch tool calls, and use a tree structure to record branch history. This makes onPanda useful for model inspection and prompt engineering.<p>- Support multiple modalities, including images, video, and audio; use tool calls and connect MCP servers to perform tasks in real environments.<p>- Connect popular harnesses such as Claude Code, Codex, and OpenCode to execute tasks. Explore and compare their tool sets, system prompts, skills, and memory mechanisms.<p>- onPanda includes a built-in browser-<em>agent</em>, an <em>agent</em> that runs in the user's browser without installation. It uses the browser as its harness and provides JavaScript execution, information retrieval, interface interaction, multimedia I/O, local file access, and persistent memory.<p>- onPanda stands for on-Policy Alignment Data Annotator.<p><pre><code>    - As an annotation tool, onPanda efficiently labels on-policy data. Its token-level correction format also provides fine-grained supervision with precise positions and naturally paired positive–negative samples.\n\n    - We believe these unique properties will make token-level correction a highly efficient and practical paradigm for future <em>LLM</em> alignment.\n\n    - Our paper and benchmark for token-level correction: https://on-panda.github.io/research/\n\n</code></pre>\nI have been building onPanda since Sept 2024, and it took two years for it to gradually enrich its functionality and ease of use. Any feedback and evaluation are welcome.<p>Try it online (works on mobile): <a href=\"https://onpanda.diyer22.com/\" rel=\"nofollow\">https://onpanda.diyer22.com/</a><p>GitHub repo for self-hosting: <a href=\"https://github.com/on-panda/on-panda\" rel=\"nofollow\">https://github.com/on-panda/on-panda</a><p>Detailed introduction on X: <a href=\"https://x.com/diyerxx/status/2101020850405462041\" rel=\"nofollow\">https://x.com/diyerxx/status/2101020850405462041</a>",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "objectID": "49759013",
+    "points": 5,
+    "numComments": 0,
+    "author": "diyer22"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-16-university-of-manchester-uses-nvidia-earth-2-to-forecast-air",
+  "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+  "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "University",
+    "Manchester Uses NVIDIA Earth",
+    "Forecast Air Pollution Across",
+    "UK"
+  ],
+  "publishedAt": "2026-09-16T05:00:42.000Z",
+  "fetchedAt": "2026-09-22T17:26:34.904Z",
+  "summary": "",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "nvidia-blog",
+    "author": "<![CDATA[Isha Salian]]>"
+  }
+}

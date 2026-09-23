@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-21-deepseek-bets-big-on-huawei-chips-to-bypass-us-export-contro",
+  "title": "DeepSeek Bets Big on Huawei Chips to Bypass U.S. Export Controls",
+  "url": "https://www.theinformation.com/articles/deepseek-bets-big-huawei-chips-bypass-u-s-export-controls",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "DeepSeek Bets Big",
+    "Huawei Chips",
+    "Bypass",
+    "Export Controls",
+    "DeepSeek CEO Liang Wenfeng",
+    "Huawei Technologies",
+    "DeepSeek",
+    "Huawei",
+    "AI",
+    "Liang",
+    "Sunday"
+  ],
+  "publishedAt": "2026-09-21T10:22:11.000Z",
+  "fetchedAt": "2026-09-22T17:26:30.352Z",
+  "summary": "&lt;p&gt;DeepSeek CEO Liang Wenfeng told investors that a major priority for his company is to use more domestic chips to train its models, adding that he expects Huawei Technologies to start delivering training chips to DeepSeek as early as the fourth quarter this year, according to two people with direct knowledge of the matter.&lt;/p&gt; &lt;p&gt;DeepSeek’s growing adoption of Huawei chips during AI model training&amp;mdash;a process that requires more powerful chips compared to running the m",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "theinformation",
+    "author": "Qianer Liu"
+  }
+}

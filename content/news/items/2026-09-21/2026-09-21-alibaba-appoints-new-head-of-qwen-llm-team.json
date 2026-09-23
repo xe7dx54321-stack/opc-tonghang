@@ -1,0 +1,30 @@
+{
+  "id": "2026-09-21-alibaba-appoints-new-head-of-qwen-llm-team",
+  "title": "Alibaba Appoints New Head of Qwen LLM Team",
+  "url": "https://www.theinformation.com/briefings/alibaba-appoints-new-head-qwen-llm-team",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Alibaba Appoints New Head",
+    "Qwen LLM Team",
+    "Alibaba Group",
+    "Dayiheng Liu",
+    "AI",
+    "Qwen",
+    "Liu"
+  ],
+  "publishedAt": "2026-09-21T06:29:46.000Z",
+  "fetchedAt": "2026-09-22T17:26:30.352Z",
+  "summary": "&lt;p&gt;Alibaba Group has appointed Dayiheng Liu, one of its senior AI researchers, as the head of its Qwen large language models, according to two employees with knowledge of the matter.&lt;/p&gt; &lt;p&gt;Liu’s appointment has brought more clarity to the Qwen team’s leadership after multiple rounds of reorganization ...&lt;/p&gt;",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "theinformation",
+    "author": "Juro Osawa"
+  }
+}

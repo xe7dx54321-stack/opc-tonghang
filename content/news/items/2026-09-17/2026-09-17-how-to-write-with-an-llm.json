@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-17-how-to-write-with-an-llm",
+  "title": "How To Write With An LLM",
+  "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "How To Write With An LLM",
+    "Thomas Ptacek",
+    "LLMs",
+    "Rule Number One",
+    "You",
+    "LLM",
+    "Be",
+    "The"
+  ],
+  "publishedAt": "2026-09-17T23:37:27.000Z",
+  "fetchedAt": "2026-09-22T17:26:28.769Z",
+  "summary": "&lt;p&gt;&lt;strong&gt;&lt;a href=\"https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\"&gt;How To Write With An LLM&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Thomas Ptacek on using LLMs as copyeditors, not as writing assistants:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;strong&gt;Rule Number One: You may not use a single word an LLM suggests to you.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;[...] I think that as a form of intellectual personal protective equipment you should adopt the rule that an",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": ""
+  }
+}

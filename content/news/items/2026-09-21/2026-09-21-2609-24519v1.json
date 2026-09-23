@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-21-2609-24519v1",
+  "title": "AWE: Adaptive Weight Encoding for Exact Integer Matrix Products with Fewer GEMMs on FP4 Tensor Cores",
+  "url": "http://arxiv.org/abs/2609.24519v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "AWE",
+    "Adaptive Weight Encoding",
+    "Exact Integer Matrix Products",
+    "Fewer GEMMs",
+    "FP4",
+    "Tensor Cores Emulation",
+    "Ozaki",
+    "These",
+    "Tensor Cores",
+    "NVIDIA",
+    "INT8",
+    "The",
+    "Prior",
+    "GEMMs",
+    "Karatsuba",
+    "Toom",
+    "Cook",
+    "This",
+    "We",
+    "For"
+  ],
+  "publishedAt": "2026-09-21T12:55:45.000Z",
+  "fetchedAt": "2026-09-22T17:31:29.886Z",
+  "summary": "Emulation of high-accuracy floating-point matrix multiplication, as in the Ozaki scheme, splits the inputs into low-precision components and multiplies them pairwise. These products must be error-free, and each is an integer matrix product times a scale factor. FP4 Tensor Cores are the fastest on the NVIDIA B200 and B300 but cannot hold INT8 operands. The FP4 values scaled by 2 form the set $S = \\{0, \\pm1, \\pm2, \\pm3, \\pm4, \\pm6, \\pm8, \\pm12\\}$, which contains every residue modulo 13, so with ca",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24519v1",
+  "raw": {
+    "arxivId": "2609.24519v1",
+    "category": "cs.AR"
+  }
+}

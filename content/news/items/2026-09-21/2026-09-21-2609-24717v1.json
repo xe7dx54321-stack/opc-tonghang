@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-21-2609-24717v1",
+  "title": "Explicit Second-Order Bounds on the Domain of Validity for Lyapunov-Schmidt Reduction",
+  "url": "http://arxiv.org/abs/2609.24717v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Explicit Second",
+    "Order Bounds",
+    "Domain",
+    "Validity",
+    "Lyapunov",
+    "Schmidt Reduction Lyapunov",
+    "Schmidt",
+    "While",
+    "In",
+    "Hessians",
+    "We",
+    "Hopfield"
+  ],
+  "publishedAt": "2026-09-21T14:56:19.000Z",
+  "fetchedAt": "2026-09-22T17:31:33.605Z",
+  "summary": "Lyapunov-Schmidt reduction is a widely used dimensionality reduction technique for bifurcation analysis in high-dimensional systems. While classical formulations guarantee the local existence of reduced-order equations, they typically lack explicit quantitative estimates on the size of the neighbourhoods in which these representations faithfully capture the full bifurcation structure. In recent work, we have addressed this limitation by deriving bounds on the domain of validity of this reduction",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24717v1",
+  "raw": {
+    "arxivId": "2609.24717v1",
+    "category": "eess.SY"
+  }
+}

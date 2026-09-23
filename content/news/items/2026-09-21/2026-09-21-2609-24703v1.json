@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-21-2609-24703v1",
+  "title": "Offline Reinforcement Learning for Distribution-Grid Protection",
+  "url": "http://arxiv.org/abs/2609.24703v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Offline Reinforcement Learning",
+    "Distribution",
+    "Grid Protection Data",
+    "We",
+    "CIGRE",
+    "CQL",
+    "On",
+    "Because",
+    "The",
+    "In",
+    "Offline CQL"
+  ],
+  "publishedAt": "2026-09-21T14:49:04.000Z",
+  "fetchedAt": "2026-09-22T17:31:33.605Z",
+  "summary": "Data-driven protection may complement conventional relays in distribution grids whose operating conditions vary with distributed generation, switching events, and changing short-circuit levels. We study line-selective tripping from static trajectories of a realistically simulated CIGRE medium-voltage network using offline reinforcement learning. A convolutional Q-network receives causal voltage-current phasor and apparent-impedance features, optionally together with raw waveforms, and is trained",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24703v1",
+  "raw": {
+    "arxivId": "2609.24703v1",
+    "category": "eess.SY"
+  }
+}

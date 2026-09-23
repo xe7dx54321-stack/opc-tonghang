@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-22-show-hn-relay-a-self-hosted-llm-gateway-with-smart-routing-a",
+  "title": "Show HN: Relay – a self-hosted LLM gateway with smart routing and request pacing",
+  "url": "https://github.com/anchorshell/relay",
+  "source": "hacker-news",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Show HN",
+    "Relay",
+    "LLM"
+  ],
+  "publishedAt": "2026-09-22T12:32:33.000Z",
+  "fetchedAt": "2026-09-22T17:31:40.818Z",
+  "summary": "Hi, I’m Pavel. I’ve been building Relay, a self-hostable AI gateway. The main thing I wanted to solve was smart routing without turning the gateway itself into a bottleneck. Relay can classify an incoming request, decide what kind of model capabilities the request needs,  then route it across your configured providers while also accounting for limits and available capacity. It ships with routing classification models I’ve trained specifically for this problem, with the option of swapping that piece for Laya or other System One models.<p>This started when I was trying to string together several providers’ free tiers. I kept hitting rate limits at different intervals, which broke some of my <em>agent</em> clients. Some agents were also getting greedy with shared resources, so I needed a way to manage how they used the available capacity.<p>That led to Relay’s queue-first approach. Sometimes it’s better to wait a second or two for your preferred model than immediately fall back to another one. Relay queues and paces requests against configured provider limits, aiming to make use of available capacity without repeatedly hitting rate-limit errors or needlessly falling back to worse models.<p>Relay’s classification model also looks for signals that a request needs specific capabilities, such as coding or more complex <em>reasoning</em>, while classifying the request’s main intent before routing anything.<p>One thing I’ve obsessed over is keeping that decision layer cheap. Relay’s built-in classifier runs in the single digit millisecond range. It has a deliberately narrow job: classifying <em>LLM</em> requests and helping decide where to send them. It probably won’t be playing DOOM, but that’s a trade off I’m happy with for a routing layer. In the routing tests I've run so far, the built-in classifier is considerably faster than Laya while producing broadly similar routing decisions. Working on getting Jev up and running, and will report back to see how that stacks up as well.<p>The community version is available now, with a public repo, a built-in dashboard, and a local classifier. It’s written in Go, and you can run it with npx @anchorshell/relay or build it from source. The gateway itself is lightweight; it also ships with small classification models you can use locally.<p>There’s also a hosted version with a free tier if you don’t want to run it yourself. It offers our more capable classification models, along with team features, and separate limits for individual agents.",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "objectID": "49800187",
+    "points": 2,
+    "numComments": 1,
+    "author": "pavelmelnichuk"
+  }
+}

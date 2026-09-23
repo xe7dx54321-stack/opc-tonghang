@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-21-can-agents-design-better-chips-when-operating-at-a-higher-le",
+  "title": "Can Agents Design Better Chips When Operating At A Higher Level Of Abstraction Using HLS (UCLA)",
+  "url": "https://semiengineering.com/can-agents-design-better-chips-when-operating-at-a-higher-level-of-abstraction-using-hls-ucla/",
+  "source": "semiconductor-engineering",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Higher Level Of Abstraction Using HLS",
+    "UCLA",
+    "Researchers",
+    "Can Agents Design Better Chips",
+    "Higher Level Abstraction",
+    "Abstract Excerpt",
+    "Large Language Model",
+    "LLM",
+    "RTL",
+    "We",
+    "Direct",
+    "The",
+    "Semiconductor Engineering"
+  ],
+  "publishedAt": "2026-09-21T22:59:48.000Z",
+  "fetchedAt": "2026-09-22T17:26:34.695Z",
+  "summary": "Researchers at UCLA published a technical paper titled “Can Agents Design Better Chips with a Higher Level Abstraction?” Abstract Excerpt: “Large Language Model (LLM) agents are increasingly being explored for chip design, but most existing approaches operate directly at RTL. We ask whether agents can design better chips by leveraging higher-level abstractions. We compare Direct... &#187; read more The post Can Agents Design Better Chips When Operating At A Higher Level Of Abstraction Using HLS ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "semiconductor-engineering",
+    "author": "<![CDATA[Technical Paper Link]]>"
+  }
+}

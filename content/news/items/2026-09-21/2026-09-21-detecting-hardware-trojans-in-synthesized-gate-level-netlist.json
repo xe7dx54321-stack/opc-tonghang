@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-21-detecting-hardware-trojans-in-synthesized-gate-level-netlist",
+  "title": "Detecting Hardware Trojans in Synthesized Gate-Level Netlists (UW-Madison, Marist)",
+  "url": "https://semiengineering.com/detecting-hardware-trojans-in-synthesized-gate-level-netlists-uw-madison-marist/",
+  "source": "semiconductor-engineering",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Detecting Hardware Trojans",
+    "Synthesized Gate",
+    "Level Netlists",
+    "UW",
+    "Madison",
+    "Marist",
+    "Researchers",
+    "University",
+    "Wisconsin",
+    "Marist University",
+    "Demystifying Gate",
+    "Level Localization",
+    "RTL Trojans",
+    "Abstract Excerpt",
+    "In",
+    "ML",
+    "We",
+    "LoRD",
+    "The",
+    "Semiconductor Engineering"
+  ],
+  "publishedAt": "2026-09-21T23:21:18.000Z",
+  "fetchedAt": "2026-09-22T17:26:34.695Z",
+  "summary": "Researchers at the University of Wisconsin–Madison and Marist University published a technical paper titled “Demystifying Gate-Level Localization of RTL Trojans.” Abstract Excerpt: “In this work, we show that RTL Trojans exhibit stable structural and signal-flow patterns post-synthesis, enabling effective detection through targeted heuristics rather than generic ML feature learning. We propose LoRD, a lightweight heuristic-based... &#187; read more The post Detecting Hardware Trojans in Synthesi",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "semiconductor-engineering",
+    "author": "<![CDATA[Technical Paper Link]]>"
+  }
+}

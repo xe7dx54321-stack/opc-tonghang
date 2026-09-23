@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-23-decoding-guardrails-xai-guided-perturbation-analysis-of-prom",
+  "title": "Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection",
+  "url": "http://arxiv.org/abs/2609.24801v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai",
+    "semiconductor",
+    "embodied-ai"
+  ],
+  "entities": [
+    "Decoding Guardrails",
+    "XAI",
+    "Guided Perturbation Analysis",
+    "Prompt Injection Detection Large",
+    "LLMs",
+    "Classifier",
+    "Prompt Guard",
+    "This",
+    "We",
+    "Guided",
+    "Vanilla Gradient",
+    "SHAP",
+    "LLM"
+  ],
+  "publishedAt": "2026-09-21T16:01:09.000Z",
+  "fetchedAt": "2026-09-23T00:32:50.173Z",
+  "summary": "arxiv（cs.CR）：用可解释 AI 方法系统化扰动分析现有 prompt injection 检测器，定位其失效的语义边界。",
+  "investorNote": "判断：随着 agent 大量接管工具调用，prompt injection 防护已经从研究问题变成产品问题。",
+  "score": 0.86,
+  "duplicateOf": null,
+  "clusterId": "single-2026-09-21-2609-24801v1",
+  "crossSources": []
+}

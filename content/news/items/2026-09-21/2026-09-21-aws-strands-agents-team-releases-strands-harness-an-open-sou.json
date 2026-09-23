@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-21-aws-strands-agents-team-releases-strands-harness-an-open-sou",
+  "title": "AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy",
+  "url": "https://www.marktechpost.com/2026/09/21/aws-strands-agents-team-releases-strands-harness/",
+  "source": "marktechpost",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "An Open",
+    "Source Agent Harness With",
+    "Lower Token Cost",
+    "Comparable Accuracy Many",
+    "Claude Code",
+    "Codex",
+    "The Strands Agents",
+    "AWS",
+    "Strands",
+    "It",
+    "Python",
+    "The",
+    "Comparable Accuracy",
+    "MarkTechPost"
+  ],
+  "publishedAt": "2026-09-21T21:42:14.000Z",
+  "fetchedAt": "2026-09-22T17:26:30.341Z",
+  "summary": "Many developers find that an agent idea works inside Claude Code or Codex, then struggles once they rebuild it with their own loop. The Strands Agents team at AWS is targeting that gap with Strands harness, a fully assembled, general-purpose agent harness. It runs locally or deploys to a cloud provider, ships for Python and [&#8230;] The post AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy appeared first on MarkTechP",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "marktechpost",
+    "author": "<![CDATA[Asif Razzaq]]>"
+  }
+}

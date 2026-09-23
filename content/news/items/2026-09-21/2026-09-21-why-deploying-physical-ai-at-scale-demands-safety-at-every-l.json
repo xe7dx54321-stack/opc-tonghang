@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-21-why-deploying-physical-ai-at-scale-demands-safety-at-every-l",
+  "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+  "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "Why Deploying Physical AI",
+    "Scale Demands Safety",
+    "Every Layer"
+  ],
+  "publishedAt": "2026-09-21T16:00:46.000Z",
+  "fetchedAt": "2026-09-22T17:26:34.904Z",
+  "summary": "",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "nvidia-blog",
+    "author": "<![CDATA[Riccardo Mariani]]>"
+  }
+}

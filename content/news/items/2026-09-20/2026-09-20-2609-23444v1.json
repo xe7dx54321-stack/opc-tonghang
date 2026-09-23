@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-20-2609-23444v1",
+  "title": "WaveletECO: A Closed-Loop Physical ECO Platform and a Specialized Local Language Model",
+  "url": "http://arxiv.org/abs/2609.23444v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "WaveletECO",
+    "Closed",
+    "Loop Physical ECO Platform",
+    "ECO",
+    "Existing Agentic EDA",
+    "We",
+    "CPO",
+    "SimPO",
+    "Across",
+    "Policy",
+    "BF16",
+    "INT8",
+    "GPT",
+    "Astra",
+    "The",
+    "These"
+  ],
+  "publishedAt": "2026-09-20T08:20:12.000Z",
+  "fetchedAt": "2026-09-22T17:30:44.988Z",
+  "summary": "Engineering change order (ECO) is an important step in repairing timing and electrical violations during the late stages of chip design. Existing Agentic EDA methods primarily focus on tool invocation, with less attention to model decision quality and targeted training. A central challenge in ECO is multi-round decision-making: the model must use the results of each round to determine the next repair action. We propose WaveletECO, which integrates a closed-loop execution platform with large lang",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.23444v1",
+  "raw": {
+    "arxivId": "2609.23444v1",
+    "category": "cs.AR"
+  }
+}

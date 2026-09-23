@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-21-2609-24497v1",
+  "title": "ScaleMPA: Rethinking Scalable RRT* Acceleration With a Grid-Native Representation",
+  "url": "http://arxiv.org/abs/2609.24497v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "ScaleMPA",
+    "Rethinking Scalable RRT",
+    "Acceleration With",
+    "Grid",
+    "Native Representation Real",
+    "Prior",
+    "RRT",
+    "This",
+    "By",
+    "To",
+    "Implemented",
+    "CMOS"
+  ],
+  "publishedAt": "2026-09-21T12:36:57.000Z",
+  "fetchedAt": "2026-09-22T17:31:29.886Z",
+  "summary": "Real-time motion planning remains challenging in large and high-dimensional environments. Prior acceleration of RRT* follows tree-centric state organization, which reduces per-query cost but preserves superlinear end-to-end complexity and limits parallelism through structural dependencies. This paper presents ScaleMPA, a motion-planning accelerator that rethinks RRT* with a grid-native representation. By replacing hierarchical traversal with direct grid-based access, ScaleMPA reduces the planner",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24497v1",
+  "raw": {
+    "arxivId": "2609.24497v1",
+    "category": "cs.AR"
+  }
+}

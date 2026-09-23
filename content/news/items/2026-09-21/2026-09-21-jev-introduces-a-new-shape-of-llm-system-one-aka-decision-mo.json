@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-21-jev-introduces-a-new-shape-of-llm-system-one-aka-decision-mo",
+  "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+  "url": "https://simonwillison.net/2026/Sep/21/jev/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Jev",
+    "LLM",
+    "System One",
+    "Decision Models",
+    "Last",
+    "TypeSafe AI",
+    "Maggie Appleton",
+    "Mappletons",
+    "TypeSafe",
+    "Think",
+    "It",
+    "Regular LLMs"
+  ],
+  "publishedAt": "2026-09-21T23:09:20.000Z",
+  "fetchedAt": "2026-09-22T17:26:28.769Z",
+  "summary": "&lt;p&gt;Last week &lt;a href=\"https://typesafe.ai/\"&gt;TypeSafe AI&lt;/a&gt; unveiled &lt;a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\"&gt;Jev&lt;/a&gt;, their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is &lt;a href=\"https://twitter.com/Mappletons/status/2101560333441610133\"&gt;a better name&lt;/a&gt; for these). Jev is an interesting variant on the usual LLM format: it still ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": ""
+  }
+}
