@@ -67,7 +67,7 @@ function Section({ text, emphasize }: { text: string; emphasize: boolean }) {
   )
 }
 
-function renderInline(text: string): React.ReactNode[] {
+export function renderInline(text: string): React.ReactNode[] {
   // 简易 inline 解析：[text](url) + **bold**
   const out: React.ReactNode[] = []
   let i = 0

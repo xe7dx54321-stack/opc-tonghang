@@ -34,6 +34,20 @@ function sameFile(a, b) {
   return existsSync(b) && readFileSync(a).equals(readFileSync(b))
 }
 
+function validateDailyDigest(day, content) {
+  const sections = content.trim().split(/\n\s*---\s*\n/).map(section => section.trim()).filter(Boolean)
+  if (sections.length < 2 || /^\*\*[\s\S]+\*\*$/.test(sections[0])) {
+    fail(`Daily digest ${day} needs a normal-weight introduction and titled stories`)
+  }
+  const stories = sections.slice(1).filter(section => !section.startsWith('*'))
+  if (!stories.length || stories.some(section => {
+    const match = /^##\s+([^\n]+)\n+([\s\S]+)$/.exec(section)
+    return !match || !/[\u3400-\u9fff]/.test(match[1]) || /^\*\*[\s\S]+\*\*$/.test(match[2].trim())
+  })) {
+    fail(`Daily digest ${day} has a story without a Chinese heading and normal-weight body`)
+  }
+}
+
 if (requireDate && !dayPattern.test(requireDate)) fail('Invalid --require-date value')
 if (!existsSync(source)) {
   if (requireDate) fail(`Harness content directory does not exist: ${source}`)
@@ -59,7 +73,9 @@ for (const day of requiredDays) {
   if (!itemDays.includes(day)) fail(`Missing item directory for new daily digest ${day}`)
 }
 for (const name of dailyFiles) {
-  if (!readFileSync(join(sourceDaily, name), 'utf8').trim()) fail(`Empty digest: ${name}`)
+  const content = readFileSync(join(sourceDaily, name), 'utf8')
+  if (!content.trim()) fail(`Empty digest: ${name}`)
+  if (requiredDays.has(name.slice(0, 10))) validateDailyDigest(name.slice(0, 10), content)
 }
 for (const name of researchFiles) {
   if (!readFileSync(join(sourceResearch, name), 'utf8').trim()) fail(`Empty research report: ${name}`)

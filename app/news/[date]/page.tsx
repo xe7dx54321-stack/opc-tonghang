@@ -1,7 +1,7 @@
 // app/news/[date]/page.tsx · 单日日报
 // dynamic route, generateStaticParams 列出所有已知日期
 
-import NewsReader from '@/components/news/NewsReader'
+import DailyDigestReader from '@/components/news/DailyDigestReader'
 import { getDaily, listDaily } from '@/lib/news'
 import { notFound } from 'next/navigation'
 import Link from '@/components/Link'
@@ -76,7 +76,7 @@ export default function NewsDayPage({ params }: { params: { date: string } }) {
       </section>
 
       <section className="container py-12">
-        <NewsReader body={entry.body} />
+        <DailyDigestReader body={entry.body} />
       </section>
     </>
   )

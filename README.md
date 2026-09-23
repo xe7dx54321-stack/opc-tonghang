@@ -55,6 +55,8 @@ npm run dev
 
 每天 07:30 的 `news-harness/scripts/run-daily.sh` 在确认日报和逐条 JSON 都完成后执行 `scripts/sync-news.mjs --require-date=当天日期`，更新本地站点快照；本地开发服务刷新页面即可看到新内容。当天拟发布条目若缺中文 `displayTitle` 或单段中文 `narrative`，同步会失败并保留上次成功内容。随后脚本把产出推到 harness 仓库，GitHub Action 使用同一个同步脚本更新 web 仓库，Vercel 在 web 仓库有新提交时重新构建静态页面。每周研究简报走同一条链路。
 
+日报正文按“今日速览、逐条中文标题与正文、来源脚注”渲染。新日报若缺少逐条标题，同步同样会拒绝发布。
+
 > 注意：在 WeSight / Electron 环境下，默认 `node` 是 Electron 壳（Team ID 与 SWC 不匹配），
 > 必须用 `/usr/local/bin/node`（系统 Node 24+）。`dev.sh` 已自动处理。
 
