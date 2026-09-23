@@ -30,5 +30,7 @@
   "score": 0.615,
   "duplicateOf": null,
   "clusterId": "single-2026-09-21-2609-24736v1",
-  "crossSources": []
+  "crossSources": [],
+  "displayTitle": "MiTHras 用更少标注数据训练视觉模型",
+  "narrative": "一篇视觉模型论文将半监督对比学习与掩码自编码方法结合，报告在相关实验中用约十分之一的标注量达到全监督基线。若能在更多真实数据集复现，这类训练方法有望降低医疗和工业视觉应用的标注成本。"
 }

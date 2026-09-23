@@ -17,6 +17,9 @@ const target = process.env.NEWS_WEB_CONTENT || join(webDir, 'content', 'news')
 const dryRun = process.argv.includes('--dry-run')
 const requireDate = process.argv.find(arg => arg.startsWith('--require-date='))?.split('=')[1]
 const dayPattern = /^\d{4}-\d{2}-\d{2}$/
+const hasChinese = value => typeof value === 'string' && /[\u3400-\u9fff]/.test(value.trim())
+const hasSingleParagraph = value => typeof value === 'string' && !/[\r\n]/.test(value) &&
+  !/(?:研究判断|判断[：:]|事实[：:])/.test(value)
 
 function fail(message) {
   console.error('[sync-news] ERROR:', message)
@@ -71,9 +74,14 @@ for (const day of itemDays) {
       if (requiredDays.has(day) && name !== '_index.json' && (!item.id || !item.title || !/^https?:\/\//i.test(item.url ?? '') || !Array.isArray(item.topic) || !item.summary)) {
         throw new Error('missing required display fields')
       }
-      if (name !== '_index.json' && /^https?:\/\//i.test(item.url ?? '') &&
-        Array.isArray(item.topic) && item.topic.length && typeof item.score === 'number' && item.score >= 0.4 &&
-        /[\u3400-\u9fff]/.test(item.summary ?? '')) displayReady++
+      const publishable = name !== '_index.json' && !item.duplicateOf &&
+        /^https?:\/\//i.test(item.url ?? '') && Array.isArray(item.topic) && item.topic.length &&
+        typeof item.score === 'number' && item.score >= 0.4
+      if (requiredDays.has(day) && publishable &&
+        (!hasChinese(item.displayTitle) || !hasChinese(item.narrative) || !hasSingleParagraph(item.narrative))) {
+        throw new Error('missing Chinese displayTitle or single-paragraph Chinese narrative')
+      }
+      if (publishable && hasChinese(item.displayTitle) && hasChinese(item.narrative) && hasSingleParagraph(item.narrative)) displayReady++
     } catch (error) {
       fail(`Invalid item ${day}/${name}: ${error.message}`)
     }

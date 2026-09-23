@@ -32,5 +32,7 @@
       "url": "http://arxiv.org/abs/2609.24841v1",
       "title": "CAST: Collision-Aware Assembly with Construction Robots using Simultaneous Trajectory Estimation and Planning"
     }
-  ]
+  ],
+  "displayTitle": "开源项目 Relay 提供自托管大模型网关",
+  "narrative": "开源项目 Relay 提供多模型供应商的智能路由、令牌预算控制和请求限流，面向自托管或企业内部的大模型部署。企业同时使用多个模型时，这类网关可以统一管理成本与流量，也让模型切换不必直接改动每个应用。"
 }

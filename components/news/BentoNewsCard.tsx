@@ -16,8 +16,8 @@ export default function BentoNewsCard({ latest }: { latest: NewsItem | null }) {
       <p className="mt-2 text-sm leading-relaxed text-ink-2">AI、半导体、具身智能三条时间轴，追踪值得关注的产业信号。</p>
       {latest && (
         <div className="mt-4 border-t border-hair pt-3">
-          <span className="font-num text-[10px] uppercase tracking-wider text-accent">{topicNames[latest.topic]} / latest</span>
-          <p className="mt-1 line-clamp-2 text-sm text-ink-2">{latest.title}</p>
+          <span className="font-num text-[10px] tracking-wider text-accent">{topicNames[latest.topic]} / 最新</span>
+          <p className="mt-1 line-clamp-2 text-sm text-ink-2">{latest.displayTitle}</p>
         </div>
       )}
       <div className="mt-auto pt-4">

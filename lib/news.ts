@@ -97,15 +97,14 @@ export type NewsTopic = (typeof NEWS_TOPICS)[number]['slug']
 
 export interface NewsItem {
   id: string
-  title: string
+  displayTitle: string
   url: string
   source: string
   topic: NewsTopic
   date: string
   publishedAt: string
   publishedDate: string
-  summary: string
-  investorNote: string
+  narrative: string
   score: number
 }
 
@@ -124,24 +123,24 @@ export function listNewsItems(): NewsItem[] {
       try {
         const raw = JSON.parse(readFileSync(join(dir, file), 'utf8'))
         if (!raw.id || !/^https?:\/\//i.test(raw.url ?? '') || raw.duplicateOf || typeof raw.score !== 'number' || raw.score < 0.4) continue
-        const summary = cleanNewsText(raw.summary)
-        if (!/[\u3400-\u9fff]/.test(summary)) continue
-        const topic = classifyNewsItem(raw.topic, `${raw.title ?? ''} ${summary}`)
+        const displayTitle = cleanNewsText(raw.displayTitle)
+        const narrative = cleanNewsText(raw.narrative)
+        if (!/[\u3400-\u9fff]/.test(displayTitle) || !/[\u3400-\u9fff]/.test(narrative)) continue
+        const topic = classifyNewsItem(raw.topic, `${raw.title ?? ''} ${raw.summary ?? ''} ${displayTitle} ${narrative}`)
         if (!topic) continue
         const urlKey = String(raw.url).replace(/\/$/, '')
         if (seen.has(urlKey)) continue
         seen.add(urlKey)
         items.push({
           id: String(raw.id),
-          title: cleanNewsText(raw.title),
+          displayTitle,
           url: String(raw.url),
           source: String(raw.source ?? '原始来源'),
           topic,
           date,
           publishedAt: String(raw.publishedAt ?? ''),
           publishedDate: formatBeijingDate(raw.publishedAt) ?? date,
-          summary,
-          investorNote: cleanNewsText(raw.investorNote).replace(/^判断[：:]\s*/, ''),
+          narrative,
           score: raw.score,
         })
       } catch {

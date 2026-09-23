@@ -31,7 +31,7 @@ export default function TopicPage({ params }: { params: { tag: string } }) {
         <Link href="/news" className="font-num text-[11px] uppercase tracking-[0.18em] text-ink-3 transition hover:text-accent">← 新闻动态</Link>
         <div className="mt-7 font-num text-[11px] uppercase tracking-[0.22em] text-accent">/news · {topic.slug}</div>
         <h1 className="text-brand-gradient mt-3 text-4xl font-bold tracking-tight sm:text-5xl">{topic.name}</h1>
-        <p className="mt-4 max-w-2xl text-base leading-relaxed text-ink-2">{topic.description} 按发布时间纵向阅读，每条保留事实摘要与研究判断。</p>
+        <p className="mt-4 max-w-2xl text-base leading-relaxed text-ink-2">{topic.description} 按发布时间纵向阅读，每条用一段文字说明事件及其影响。</p>
         <div className="mt-7 flex flex-wrap gap-2">
           {NEWS_TOPICS.map(other => (
             <Link key={other.slug} href={`/news/topic/${other.slug}`} aria-current={other.slug === topic.slug ? 'page' : undefined} className={`rounded-full border px-3 py-1.5 text-xs transition ${other.slug === topic.slug ? 'border-accent bg-accent/10 text-accent' : 'border-hair-2 text-ink-2 hover:border-accent hover:text-accent'}`}>{other.name}</Link>

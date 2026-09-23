@@ -33,5 +33,7 @@
   "score": 0.86,
   "duplicateOf": null,
   "clusterId": "single-2026-09-21-2609-24698v1",
-  "crossSources": []
+  "crossSources": [],
+  "displayTitle": "DeepSeek-V4 推理引入树形推测解码",
+  "narrative": "一篇预印本论文把树形推测解码用于 DeepSeek-V4 推理，报告单卡吞吐提升 2.1 倍、延迟下降 38%。如果这些结果在实际服务场景中复现，模型提供商便能用同样的算力承接更多请求，推理效率也会成为开源模型竞争的重要一环。"
 }

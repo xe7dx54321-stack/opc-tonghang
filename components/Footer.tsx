@@ -29,16 +29,12 @@ export default function Footer() {
             {socials
               .filter((s) => s.href)
               .map((s) => (
-                <a
+                <span
                   key={s.kind}
-                  href={s.href}
-                  target="_blank"
-                  rel="noopener noreferrer"
                   className="rounded-md p-1.5 transition hover:bg-bg-alt hover:text-accent"
-                  aria-label={s.kind}
                 >
                   <SocialIcon kind={s.kind} href={s.href} size={5} />
-                </a>
+                </span>
               ))}
           </div>
           <div className="flex gap-4 text-xs text-ink-3">

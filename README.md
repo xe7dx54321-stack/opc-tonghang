@@ -51,9 +51,9 @@ npm run dev
 
 访问 [http://localhost:3000/news/](http://localhost:3000/news/) 可按 AI、半导体、具身智能阅读新闻时间轴。页面使用 `news-harness/content/items/` 的逐条产出；每次 `npm run dev` 或 `npm run build` 前会同步到 `content/news/`。开发服务已运行时，新一轮 harness 完成后执行 `npm run sync-news` 并刷新页面。
 
-时间轴只展示有中文摘要、有效原文链接且评分不低于 0.4 的条目；同一原文只收录一次。旧版混合日报保留在 `/news/archive/`。
+时间轴只展示有中文展示标题、单段中文正文、有效原文链接且评分不低于 0.4 的条目；同一原文只收录一次。网站正文自然融合事件与分析，原始标题、摘要和研究笔记留在 harness 中供溯源。旧版混合日报保留在 `/news/archive/`。
 
-每天 07:30 的 `news-harness/scripts/run-daily.sh` 在确认日报和逐条 JSON 都完成后执行 `scripts/sync-news.mjs --require-date=当天日期`，更新本地站点快照；本地开发服务刷新页面即可看到新内容。随后它把产出推到 harness 仓库，GitHub Action 使用同一个同步脚本更新 web 仓库，Vercel 在 web 仓库有新提交时重新构建静态页面。若产出缺失或损坏，同步脚本返回错误并保留上次成功的内容。每周研究简报走同一条链路。
+每天 07:30 的 `news-harness/scripts/run-daily.sh` 在确认日报和逐条 JSON 都完成后执行 `scripts/sync-news.mjs --require-date=当天日期`，更新本地站点快照；本地开发服务刷新页面即可看到新内容。当天拟发布条目若缺中文 `displayTitle` 或单段中文 `narrative`，同步会失败并保留上次成功内容。随后脚本把产出推到 harness 仓库，GitHub Action 使用同一个同步脚本更新 web 仓库，Vercel 在 web 仓库有新提交时重新构建静态页面。每周研究简报走同一条链路。
 
 > 注意：在 WeSight / Electron 环境下，默认 `node` 是 Electron 壳（Team ID 与 SWC 不匹配），
 > 必须用 `/usr/local/bin/node`（系统 Node 24+）。`dev.sh` 已自动处理。

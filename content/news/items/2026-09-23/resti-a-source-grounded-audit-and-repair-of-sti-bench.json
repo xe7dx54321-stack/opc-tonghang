@@ -37,5 +37,7 @@
       "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
       "title": "Waymo&#8217;s latest expansion strategy: teenagers"
     }
-  ]
+  ],
+  "displayTitle": "ReSTI 审计并修复评测数据中的事实错误",
+  "narrative": "一篇预印本论文介绍 ReSTI：它核对评测集中的答案与原始来源，并修复发现的不一致，报告将评测一致性从 0.61 提高到 0.83。对依赖检索和多源摘要的产品来说，评测数据本身是否可靠，会直接影响模型改进方向。"
 }

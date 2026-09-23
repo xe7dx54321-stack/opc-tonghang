@@ -46,5 +46,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
       "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting"
     }
-  ]
+  ],
+  "displayTitle": "OpenAI 推出价格更低的 GPT-6 系列模型",
+  "narrative": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，分别面向轻量任务与高吞吐场景，并下调企业接口价格。把不同性能和成本的模型拆开供应，有助于企业按工作负载选择方案，也让智能体应用的单次运行成本更容易控制。"
 }

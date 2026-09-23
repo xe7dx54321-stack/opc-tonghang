@@ -41,5 +41,7 @@
       "url": "http://arxiv.org/abs/2609.24519v1",
       "title": "AWE: Adaptive Weight Encoding for Exact Integer Matrix Products with Fewer GEMMs on FP4 Tensor Cores"
     }
-  ]
+  ],
+  "displayTitle": "英伟达 Isaac ROS 5.0 引入机器人智能体框架",
+  "narrative": "英伟达公布 Isaac ROS 5.0，将视觉语言动作模型的智能体框架带入机器人软件系统，并支持机械臂和移动底盘的多模态控制。工具链越完整，机器人团队从模型验证走向部署的门槛越低，同时也可能加深对英伟达软件与算力生态的依赖。"
 }

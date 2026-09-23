@@ -45,5 +45,7 @@
       "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
       "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance"
     }
-  ]
+  ],
+  "displayTitle": "Anthropic 发布 Claude Opus 5.5，运行成本下降四成",
+  "narrative": "Anthropic 发布 Claude Opus 5.5，相关报道指出，新模型在同档性能下的运行成本比上一代下降约四成。与 OpenAI 同期的降价动作叠加，企业使用高端模型的价格门槛正在下移，依赖长上下文和工具调用定价的独立服务商也会面临更大压力。"
 }

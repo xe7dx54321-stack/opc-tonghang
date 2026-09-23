@@ -4,7 +4,7 @@ import { genPageMetadata } from 'app/seo'
 
 export const metadata = genPageMetadata({
   title: '新闻动态',
-  description: '同行实验室新闻动态：按 AI、半导体、具身智能分类阅读，每条新闻附事实摘要与研究判断。',
+  description: '同行实验室新闻动态：按人工智能、半导体、具身智能分类阅读，每条新闻用一段文字呈现事件与分析。',
 })
 
 export default function NewsIndex() {
@@ -22,7 +22,7 @@ export default function NewsIndex() {
             <h1 className="text-brand-gradient text-4xl font-bold tracking-tight sm:text-5xl">新闻动态</h1>
             <p className="mt-5 max-w-2xl text-base leading-relaxed text-ink-2 sm:text-lg">
               从每天的资讯流里，挑出值得继续跟踪的产业信号。
-              按赛道阅读事实、来源和研究判断。
+              按赛道阅读事实、来源与值得关注的变化。
             </p>
           </div>
           {latestDate && (
@@ -65,7 +65,7 @@ export default function NewsIndex() {
                 <div className="relative mt-auto border-t border-hair pt-5">
                   <div className="font-num text-[10px] uppercase tracking-[0.15em] text-ink-3">最近收录</div>
                   <p className="mt-2 line-clamp-2 min-h-[42px] text-sm font-medium leading-relaxed text-ink">
-                    {stories[0]?.title ?? '正在整理这个赛道的新闻'}
+                    {stories[0]?.displayTitle ?? '正在整理这个赛道的新闻'}
                   </p>
                   <div className="mt-5 flex items-center justify-between text-xs text-ink-3">
                     <span className="font-num">{stories[0]?.publishedDate ?? '—'}</span>
