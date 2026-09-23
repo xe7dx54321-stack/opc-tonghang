@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "next dev",
+    "predev": "node ./scripts/sync-news.mjs",
     "dev": "next dev",
     "prebuild": "node ./scripts/sync-news.mjs",
     "build": "next build",

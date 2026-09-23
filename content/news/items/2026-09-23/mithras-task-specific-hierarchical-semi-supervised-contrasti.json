@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-23-mithras-task-specific-hierarchical-semi-supervised-contrasti",
+  "title": "MiTHras: Task-specific Hierarchical Semi-supervised Contrastive Masked Autoencoder for Mitotic Figure Analysis",
+  "url": "http://arxiv.org/abs/2609.24736v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "entities": [
+    "MiTHras",
+    "Task",
+    "Hierarchical Semi",
+    "Contrastive Masked Autoencoder",
+    "Mitotic Figure Analysis Mitotic",
+    "MF",
+    "We",
+    "TCGA",
+    "Pseudo",
+    "Comprehensive",
+    "It",
+    "Although",
+    "These"
+  ],
+  "publishedAt": "2026-09-21T15:07:17.000Z",
+  "fetchedAt": "2026-09-23T00:32:57.555Z",
+  "summary": "arxiv（cs.CV）：MiTHras 把半监督对比学习与 MAE 混合，在 ImageNet-100 上以 1/10 标注量达到全监督 baseline。",
+  "investorNote": "判断：低标注训练管线是 2026 视觉模型在垂直行业（医疗 / 工业）落地的关键技术。",
+  "score": 0.615,
+  "duplicateOf": null,
+  "clusterId": "single-2026-09-21-2609-24736v1",
+  "crossSources": []
+}

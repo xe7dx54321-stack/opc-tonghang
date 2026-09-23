@@ -1,53 +1,53 @@
-// app/news/topic/[tag]/page.tsx · 按 topic 过滤的日报列表
-// 已知 topic: ai / semiconductor / embodied-ai / other
-
-import NewsList from '@/components/news/NewsList'
-import { listDailyByTopic, listTopics } from '@/lib/news'
+import Link from '@/components/Link'
+import NewsTimeline from '@/components/news/NewsTimeline'
+import { NEWS_TOPICS, listNewsItemsByTopic, type NewsTopic } from '@/lib/news'
 import { notFound } from 'next/navigation'
 import { genPageMetadata } from 'app/seo'
 
 export const dynamicParams = false
 
 export function generateStaticParams() {
-  return listTopics().map(tag => ({ tag }))
+  return NEWS_TOPICS.map(topic => ({ tag: topic.slug }))
 }
 
 export async function generateMetadata({ params }: { params: { tag: string } }) {
+  const topic = NEWS_TOPICS.find(topic => topic.slug === params.tag)
+  if (!topic) return {}
   return genPageMetadata({
-    title: `${params.tag} · 主题日报`,
-    description: `同行实验室日报 · 按主题 ${params.tag} 过滤。`,
+    title: `${topic.name} · 新闻动态`,
+    description: `同行实验室 ${topic.name} 新闻时间轴。${topic.description}`,
   })
 }
 
-const TOPIC_NAMES: Record<string, string> = {
-  ai: 'AI',
-  semiconductor: '半导体',
-  'embodied-ai': '具身智能',
-  other: '其他',
-}
-
 export default function TopicPage({ params }: { params: { tag: string } }) {
-  const entries = listDailyByTopic(params.tag)
-  if (entries.length === 0) notFound()
-
-  const displayName = TOPIC_NAMES[params.tag] ?? params.tag
+  const topic = NEWS_TOPICS.find(topic => topic.slug === params.tag)
+  if (!topic) notFound()
+  const items = listNewsItemsByTopic(topic.slug as NewsTopic)
 
   return (
     <>
-      <section className="border-b border-hair pb-10 pt-12">
-        <div className="font-num text-[11px] uppercase tracking-[0.22em] text-accent">
-          /news · topic
+      <section className="hero-glow relative isolate overflow-hidden border-b border-hair pb-10 pt-10 sm:pb-12">
+        <div className="bg-grid-faint absolute inset-0 -z-10 opacity-40" />
+        <Link href="/news" className="font-num text-[11px] uppercase tracking-[0.18em] text-ink-3 transition hover:text-accent">← 新闻动态</Link>
+        <div className="mt-7 font-num text-[11px] uppercase tracking-[0.22em] text-accent">/news · {topic.slug}</div>
+        <h1 className="text-brand-gradient mt-3 text-4xl font-bold tracking-tight sm:text-5xl">{topic.name}</h1>
+        <p className="mt-4 max-w-2xl text-base leading-relaxed text-ink-2">{topic.description} 按发布时间纵向阅读，每条保留事实摘要与研究判断。</p>
+        <div className="mt-7 flex flex-wrap gap-2">
+          {NEWS_TOPICS.map(other => (
+            <Link key={other.slug} href={`/news/topic/${other.slug}`} aria-current={other.slug === topic.slug ? 'page' : undefined} className={`rounded-full border px-3 py-1.5 text-xs transition ${other.slug === topic.slug ? 'border-accent bg-accent/10 text-accent' : 'border-hair-2 text-ink-2 hover:border-accent hover:text-accent'}`}>{other.name}</Link>
+          ))}
         </div>
-        <h1 className="mt-3 text-brand-gradient text-4xl font-bold tracking-tight sm:text-5xl">
-          {displayName} 主题日报
-        </h1>
-        <p className="mt-4 max-w-2xl text-base leading-relaxed text-ink-2">
-          按 <code className="font-num text-accent">{params.tag}</code> 过滤的所有日报，共 {entries.length} 篇。
-        </p>
       </section>
 
-      <section className="container py-12">
-        <NewsList entries={entries} emptyText="该主题下暂无日报" />
+      <section className="pb-16 pt-10 sm:pt-12">
+        <div className="mb-10 flex items-end justify-between border-b border-hair pb-5">
+          <div>
+            <div className="font-num text-[11px] uppercase tracking-[0.2em] text-accent">02 / timeline</div>
+            <h2 className="mt-2 text-xl font-semibold tracking-tight text-ink">新闻时间轴</h2>
+          </div>
+          <span className="font-num text-xs text-ink-3">{items.length} 条收录</span>
+        </div>
+        {items.length ? <NewsTimeline items={items} /> : <p className="rounded-xl border border-hair bg-bg-card p-8 text-sm text-ink-2">这个赛道的内容正在整理，稍后回来看看。</p>}
       </section>
     </>
   )

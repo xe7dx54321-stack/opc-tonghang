@@ -1,0 +1,44 @@
+{
+  "id": "2026-09-23-claude-opus-55-gpt-6-sol-gpt-6-luna-and-a-new-price-war",
+  "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+  "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "Claude Opus",
+    "GPT",
+    "Sol",
+    "Luna",
+    "Yesterday",
+    "Grok",
+    "MiMo",
+    "Flash",
+    "Pro",
+    "Today Anthropic",
+    "OpenAI",
+    "It"
+  ],
+  "publishedAt": "2026-09-22T23:46:41.000Z",
+  "fetchedAt": "2026-09-23T00:31:38.959Z",
+  "summary": "Simon Willison 把今天的发布串成一条线：Anthropic Opus 5.5 + OpenAI GPT-6 Sol/Luna 同日落地，价格同步下调，头部闭源模型开启新一波价格战。",
+  "investorNote": "判断：双家同日发新模型 + 同向下调价格是少见信号，叠加马斯克周末同步发 Grok 4.7 价格不动——头部玩家已经把价格当主战场。",
+  "score": 0.865,
+  "duplicateOf": null,
+  "clusterId": "cluster-anthropic-openai-2026-09-23",
+  "crossSources": [
+    {
+      "source": "theinformation",
+      "url": "https://www.theinformation.com/articles/new-data-show-anthropic-openai-upstarts-eating-software-budgets",
+      "title": "New Data Show Anthropic, OpenAI and Other Upstarts Are Eating into Software Budgets"
+    },
+    {
+      "source": "ars-technica",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money"
+    }
+  ]
+}

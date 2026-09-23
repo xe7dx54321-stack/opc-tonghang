@@ -1,149 +1,147 @@
 #!/usr/bin/env node
-// sync-news.mjs · 把 news-harness/content 拷到 web/content/news/
-//
-// 站点构建时同步；手动跑也可以。
-// 用法：node web/scripts/sync-news.mjs [--dry-run]
-//
-// 源：
-//   ../news-harness/content/digests/YYYY-MM-DD.md        → web/content/news/daily/YYYY-MM-DD.md
-//   ../news-harness/content/research/weekly/YYYY-MM-DD.md → web/content/news/research/YYYY-MM-DD.md
-//   ../news-harness/content/items/YYYY-MM-DD/*.json     → web/content/news/items/YYYY-MM-DD/*.json
-//
-// 目标：web/content/news/
-//   daily/   每日读者版（站点直接 import 消费）
-//   research/ 每周 arxiv 研究简报
-//   items/   原始条目（可选，站点暂未消费）
-//   _index.json  元数据索引（最新日期 / 数量 / topic 分布）
-//
-// 加到 web/package.json 的 prebuild / dev hook
+// 将 news-harness 的已完成内容同步到站点快照。
+// 开发机有相邻的 news-harness；Vercel 单独构建 web 时没有，直接保留已提交的快照。
+// 用法：node scripts/sync-news.mjs [--dry-run] [--require-date=YYYY-MM-DD]
+// 测试可通过 NEWS_HARNESS_CONTENT / NEWS_WEB_CONTENT 覆盖路径。
 
-import { readdirSync, readFileSync, writeFileSync, mkdirSync, statSync, existsSync, copyFileSync } from 'node:fs'
-import { join, dirname, basename } from 'node:path'
+import {
+  existsSync, readdirSync, readFileSync, writeFileSync, mkdirSync,
+  statSync, copyFileSync, renameSync, rmSync,
+} from 'node:fs'
+import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
-const __dirname = dirname(fileURLToPath(import.meta.url))
-const WEB_DIR = join(__dirname, '..')      // /Users/.../web
-const ROOT_DIR = join(WEB_DIR, '..')      // /Users/.../一人公司OPC
-const SRC = join(ROOT_DIR, 'news-harness', 'content')
-const DST = join(WEB_DIR, 'content', 'news')
+const webDir = join(dirname(fileURLToPath(import.meta.url)), '..')
+const source = process.env.NEWS_HARNESS_CONTENT || join(webDir, '..', 'news-harness', 'content')
+const target = process.env.NEWS_WEB_CONTENT || join(webDir, 'content', 'news')
+const dryRun = process.argv.includes('--dry-run')
+const requireDate = process.argv.find(arg => arg.startsWith('--require-date='))?.split('=')[1]
+const dayPattern = /^\d{4}-\d{2}-\d{2}$/
 
-const DRY_RUN = process.argv.includes('--dry-run')
-
-function log(...args) { console.log('[sync-news]', ...args) }
-
-function ensureDir(d) {
-  if (!existsSync(d)) mkdirSync(d, { recursive: true })
+function fail(message) {
+  console.error('[sync-news] ERROR:', message)
+  process.exit(1)
 }
 
-function readJsonSafe(p) {
-  try {
-    return JSON.parse(readFileSync(p, 'utf8'))
-  } catch {
-    return null
-  }
+function files(dir, pattern) {
+  return existsSync(dir) ? readdirSync(dir).filter(name => pattern.test(name)).sort() : []
 }
 
-function extractFrontmatter(text) {
-  // 极简 YAML frontmatter 解析（只取 date / type / topics / itemCount / totalPapers 等关键字段）
-  const m = /^---\n([\s\S]*?)\n---/.exec(text)
-  if (!m) return { data: {}, body: text }
-  const data = {}
-  for (const line of m[1].split('\n')) {
-    const mm = /^(\w+):\s*(.*)$/.exec(line.trim())
-    if (mm) {
-      let v = mm[2]
-      // 简单去引号 + 数组解析
-      v = v.replace(/^["']|["']$/g, '')
-      if (v.startsWith('{')) {
-        try { v = JSON.parse(v) } catch {}
+function sameFile(a, b) {
+  return existsSync(b) && readFileSync(a).equals(readFileSync(b))
+}
+
+if (requireDate && !dayPattern.test(requireDate)) fail('Invalid --require-date value')
+if (!existsSync(source)) {
+  if (requireDate) fail(`Harness content directory does not exist: ${source}`)
+  console.log('[sync-news] No local harness checkout; using committed website snapshot.')
+  process.exit(0)
+}
+
+const sourceDaily = join(source, 'digests')
+const sourceResearch = join(source, 'research', 'weekly')
+const sourceItems = join(source, 'items')
+const dailyFiles = files(sourceDaily, /^\d{4}-\d{2}-\d{2}\.md$/)
+const researchFiles = files(sourceResearch, /^\d{4}-\d{2}-\d{2}\.md$/)
+const itemDays = existsSync(sourceItems)
+  ? readdirSync(sourceItems).filter(day => dayPattern.test(day) && statSync(join(sourceItems, day)).isDirectory()).sort()
+  : []
+const newDailyDays = dailyFiles.map(name => name.slice(0, 10))
+  .filter(day => !existsSync(join(target, 'daily', `${day}.md`)))
+const requiredDays = new Set([...newDailyDays, ...(requireDate ? [requireDate] : [])])
+
+// 先校验，再写入，避免发布到一半才发现源文件损坏。
+if (requireDate && !dailyFiles.includes(`${requireDate}.md`)) fail(`Missing daily digest for ${requireDate}`)
+for (const day of requiredDays) {
+  if (!itemDays.includes(day)) fail(`Missing item directory for new daily digest ${day}`)
+}
+for (const name of dailyFiles) {
+  if (!readFileSync(join(sourceDaily, name), 'utf8').trim()) fail(`Empty digest: ${name}`)
+}
+for (const name of researchFiles) {
+  if (!readFileSync(join(sourceResearch, name), 'utf8').trim()) fail(`Empty research report: ${name}`)
+}
+for (const day of itemDays) {
+  const dir = join(sourceItems, day)
+  const names = files(dir, /\.json$/)
+  let displayReady = 0
+  for (const name of names) {
+    try {
+      const item = JSON.parse(readFileSync(join(dir, name), 'utf8'))
+      if (requiredDays.has(day) && name !== '_index.json' && (!item.id || !item.title || !/^https?:\/\//i.test(item.url ?? '') || !Array.isArray(item.topic) || !item.summary)) {
+        throw new Error('missing required display fields')
       }
-      data[mm[1]] = v
+      if (name !== '_index.json' && /^https?:\/\//i.test(item.url ?? '') &&
+        Array.isArray(item.topic) && item.topic.length && typeof item.score === 'number' && item.score >= 0.4 &&
+        /[\u3400-\u9fff]/.test(item.summary ?? '')) displayReady++
+    } catch (error) {
+      fail(`Invalid item ${day}/${name}: ${error.message}`)
     }
   }
-  return { data, body: text.slice(m[0].length) }
+  if (requiredDays.has(day) && displayReady === 0) fail(`No display-ready Chinese news items for ${day}`)
 }
 
-const summary = { copied: [], skipped: [], totals: { daily: 0, research: 0, items: 0 } }
+let changed = 0
 
-// ===== daily =====
-const srcDaily = join(SRC, 'digests')
-const dstDaily = join(DST, 'daily')
-ensureDir(dstDaily)
-if (existsSync(srcDaily)) {
-  const files = readdirSync(srcDaily).filter(f => f.endsWith('.md'))
-  for (const f of files) {
-    const src = join(srcDaily, f)
-    const dst = join(dstDaily, f)
-    if (DRY_RUN) { summary.skipped.push(f); continue }
-    copyFileSync(src, dst)
-    summary.copied.push(`daily/${f}`)
-    summary.totals.daily++
+function syncFile(src, dst) {
+  if (sameFile(src, dst)) return
+  changed++
+  if (dryRun) return
+  mkdirSync(dirname(dst), { recursive: true })
+  const staging = `${dst}.sync-${process.pid}`
+  try {
+    copyFileSync(src, staging)
+    renameSync(staging, dst)
+  } finally {
+    if (existsSync(staging)) rmSync(staging)
   }
 }
 
-// ===== research =====
-const srcResearch = join(SRC, 'research', 'weekly')
-const dstResearch = join(DST, 'research')
-ensureDir(dstResearch)
-if (existsSync(srcResearch)) {
-  const files = readdirSync(srcResearch).filter(f => f.endsWith('.md'))
-  for (const f of files) {
-    const src = join(srcResearch, f)
-    const dst = join(dstResearch, f)
-    if (DRY_RUN) { summary.skipped.push(f); continue }
-    copyFileSync(src, dst)
-    summary.copied.push(`research/${f}`)
-    summary.totals.research++
+for (const name of dailyFiles) syncFile(join(sourceDaily, name), join(target, 'daily', name))
+for (const name of researchFiles) syncFile(join(sourceResearch, name), join(target, 'research', name))
+
+for (const day of itemDays) {
+  const srcDir = join(sourceItems, day)
+  const dstDir = join(target, 'items', day)
+  const srcNames = files(srcDir, /\.json$/)
+  const dstNames = files(dstDir, /\.json$/)
+  const identical = srcNames.length === dstNames.length &&
+    srcNames.every((name, i) => name === dstNames[i] && sameFile(join(srcDir, name), join(dstDir, name)))
+  if (identical) continue
+  changed += srcNames.length + Math.max(0, dstNames.length - srcNames.length)
+  if (dryRun) continue
+  mkdirSync(dirname(dstDir), { recursive: true })
+  const staging = `${dstDir}.sync-${process.pid}`
+  const backup = `${dstDir}.backup-${process.pid}`
+  try {
+    mkdirSync(staging)
+    for (const name of srcNames) copyFileSync(join(srcDir, name), join(staging, name))
+    if (existsSync(dstDir)) renameSync(dstDir, backup)
+    renameSync(staging, dstDir)
+    if (existsSync(backup)) rmSync(backup, { recursive: true })
+  } catch (error) {
+    if (existsSync(backup) && !existsSync(dstDir)) renameSync(backup, dstDir)
+    throw error
+  } finally {
+    if (existsSync(staging)) rmSync(staging, { recursive: true })
   }
 }
 
-// ===== items (raw, optional) =====
-const srcItems = join(SRC, 'items')
-const dstItems = join(DST, 'items')
-ensureDir(dstItems)
-if (existsSync(srcItems)) {
-  const days = readdirSync(srcItems).filter(d => {
-    try { return statSync(join(srcItems, d)).isDirectory() } catch { return false }
-  })
-  for (const day of days) {
-    const dayDir = join(dstItems, day)
-    ensureDir(dayDir)
-    const files = readdirSync(join(srcItems, day)).filter(f => f.endsWith('.json'))
-    for (const f of files) {
-      const src = join(srcItems, day, f)
-      const dst = join(dayDir, f)
-      if (DRY_RUN) { summary.skipped.push(`${day}/${f}`); continue }
-      copyFileSync(src, dst)
-      summary.copied.push(`items/${day}/${f}`)
-      summary.totals.items++
-    }
+if (!dryRun && (changed > 0 || !existsSync(join(target, '_index.json')))) {
+  const getEntries = (subdir) => files(join(target, subdir), /^\d{4}-\d{2}-\d{2}\.md$/)
+    .reverse().map(file => ({ file, date: file.slice(0, 10) }))
+  const index = {
+    generatedAt: new Date().toISOString(),
+    daily: getEntries('daily'),
+    research: getEntries('research'),
+    totals: {
+      daily: files(join(target, 'daily'), /^\d{4}-\d{2}-\d{2}\.md$/).length,
+      research: files(join(target, 'research'), /^\d{4}-\d{2}-\d{2}\.md$/).length,
+      items: itemDays.reduce((sum, day) => sum + files(join(target, 'items', day), /\.json$/).filter(name => name !== '_index.json').length, 0),
+    },
   }
+  mkdirSync(target, { recursive: true })
+  writeFileSync(join(target, '_index.json'), JSON.stringify(index, null, 2) + '\n')
 }
 
-// ===== _index.json (元数据索引) =====
-const dailyFiles = existsSync(dstDaily) ? readdirSync(dstDaily).filter(f => f.endsWith('.md')).sort().reverse() : []
-const researchFiles = existsSync(dstResearch) ? readdirSync(dstResearch).filter(f => f.endsWith('.md')).sort().reverse() : []
-
-const indexData = {
-  generatedAt: new Date().toISOString(),
-  daily: dailyFiles.map(f => ({
-    file: f,
-    date: f.replace(/\.md$/, ''),
-    frontmatter: extractFrontmatter(readFileSync(join(dstDaily, f), 'utf8')).data,
-  })),
-  research: researchFiles.map(f => ({
-    file: f,
-    date: f.replace(/\.md$/, ''),
-    frontmatter: extractFrontmatter(readFileSync(join(dstResearch, f), 'utf8')).data,
-  })),
-  totals: summary.totals,
-}
-
-if (!DRY_RUN) {
-  writeFileSync(join(DST, '_index.json'), JSON.stringify(indexData, null, 2))
-  log(`wrote _index.json (${indexData.daily.length} daily + ${indexData.research.length} research)`)
-}
-
-log('done.')
-log(`copied: ${summary.copied.length} files`)
-if (DRY_RUN) log('(dry-run mode, no files written)')
+console.log(`[sync-news] ${dryRun ? 'would update' : 'updated'} ${changed} files; ${dailyFiles.length} daily, ${researchFiles.length} research, ${itemDays.length} item days in source.`)

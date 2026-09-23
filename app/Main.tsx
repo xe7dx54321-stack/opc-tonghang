@@ -6,7 +6,7 @@ import NewsletterForm from '@/components/NewsletterForm'
 import BentoNewsCard from '@/components/news/BentoNewsCard'
 import siteMetadata from '@/data/siteMetadata'
 import { formatDate } from 'pliny/utils/formatDate'
-import type { NewsEntry } from '@/lib/news'   // 仅 type，组件本身不引入 fs
+import type { NewsItem } from '@/lib/news'
 
 interface Post {
   slug: string
@@ -19,7 +19,7 @@ interface Post {
 
 interface Props {
   posts: Post[]
-  latestNews?: NewsEntry | null
+  latestNews?: NewsItem | null
 }
 
 // 从 posts 动态算 Top 标签：按出现次数排序，取前 6 个

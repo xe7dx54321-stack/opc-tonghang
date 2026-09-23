@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-23-show-hn-relay-a-self-hosted-llm-gateway-with-smart-routing-a",
+  "title": "Show HN: Relay – a self-hosted LLM gateway with smart routing and request pacing",
+  "url": "https://github.com/anchorshell/relay",
+  "source": "hacker-news",
+  "sourceTier": 1,
+  "topic": [
+    "ai",
+    "semiconductor",
+    "embodied-ai"
+  ],
+  "entities": [
+    "Show HN",
+    "Relay",
+    "LLM"
+  ],
+  "publishedAt": "2026-09-22T12:32:33.000Z",
+  "fetchedAt": "2026-09-23T00:32:50.709Z",
+  "summary": "Relay 是一款开源 LLM 网关：支持多 provider 智能路由、token 预算控制、限流与请求 pacing，适合自托管与企业内 AI 网关场景。",
+  "investorNote": "判断：自托管 LLM 网关是\"agent token 经济\"里被低估的一层，类似于 API gateway 在微服务时代的角色。",
+  "score": 0.795,
+  "duplicateOf": null,
+  "clusterId": "cluster-together-2026-09-23",
+  "crossSources": [
+    {
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.24703v1",
+      "title": "Offline Reinforcement Learning for Distribution-Grid Protection"
+    },
+    {
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.24841v1",
+      "title": "CAST: Collision-Aware Assembly with Construction Robots using Simultaneous Trajectory Estimation and Planning"
+    }
+  ]
+}
