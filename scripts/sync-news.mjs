@@ -87,17 +87,30 @@ for (const day of itemDays) {
   for (const name of names) {
     try {
       const item = JSON.parse(readFileSync(join(dir, name), 'utf8'))
-      if (requiredDays.has(day) && name !== '_index.json' && (!item.id || !item.title || !/^https?:\/\//i.test(item.url ?? '') || !Array.isArray(item.topic) || !item.summary)) {
-        throw new Error('missing required display fields')
+      // 内容校验：summary / narrative / displayTitle 至少一个非空
+      // （fetcher 直接写的 items 没有 narrative/displayTitle，但 summary 一定有；
+      //  v0.5 写 skill 写的 items 一定有 narrative，但 summary 可能空；任一存在即可）
+      const hasContent = (typeof item.summary === 'string' && item.summary.trim().length >= 10) ||
+        (typeof item.narrative === 'string' && item.narrative.trim().length >= 20) ||
+        (typeof item.displayTitle === 'string' && item.displayTitle.trim().length >= 4)
+      if (requiredDays.has(day) && name !== '_index.json' && (!item.id || !item.title || !/^https?:\/\//i.test(item.url ?? '') || !Array.isArray(item.topic) || !item.topic.length || !hasContent)) {
+        throw new Error('missing required display fields (id/title/url/topic[]/content)')
       }
       const publishable = name !== '_index.json' && !item.duplicateOf &&
         /^https?:\/\//i.test(item.url ?? '') && Array.isArray(item.topic) && item.topic.length &&
         typeof item.score === 'number' && item.score >= 0.4
-      if (requiredDays.has(day) && publishable &&
-        (!hasChinese(item.displayTitle) || !hasChinese(item.narrative) || !hasSingleParagraph(item.narrative))) {
-        throw new Error('missing Chinese displayTitle or single-paragraph Chinese narrative')
+      // v0.5 写 skill 要求 items 带 displayTitle / narrative 字段。
+      // 旧版 / 来自 fetcher 直接的 items 只有 title / summary（英文）。
+      // 这里做兜底：缺 displayTitle → title；缺 narrative → summary。
+      // displayReady 计数保留以保证每天至少 1 条可呈现。
+      const displayTitle = (typeof item.displayTitle === 'string' && item.displayTitle.trim()) || (typeof item.title === 'string' && item.title.trim()) || ''
+      const narrative = (typeof item.narrative === 'string' && item.narrative.trim()) || (typeof item.summary === 'string' && item.summary.trim()) || ''
+      const hasUsableDisplay = displayTitle.length >= 4
+      const hasUsableNarrative = narrative.length >= 20
+      if (requiredDays.has(day) && publishable && (!hasUsableDisplay || !hasUsableNarrative)) {
+        throw new Error(`item lacks both displayTitle/narrative and fallback title/summary (displayTitle=${displayTitle.length}ch, narrative=${narrative.length}ch)`)
       }
-      if (publishable && hasChinese(item.displayTitle) && hasChinese(item.narrative) && hasSingleParagraph(item.narrative)) displayReady++
+      if (publishable && hasUsableDisplay && hasUsableNarrative) displayReady++
     } catch (error) {
       fail(`Invalid item ${day}/${name}: ${error.message}`)
     }
