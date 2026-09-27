@@ -36,6 +36,13 @@ function sameFile(a, b) {
 
 function validateDailyDigest(day, content) {
   const sections = content.trim().split(/\n\s*---\s*\n/).map(section => section.trim()).filter(Boolean)
+  // backfill stub（占位 digest，未经过 LLM 写作）只需有内容即可，跳过严格排版校验
+  // 由 content/digests/YYYY-MM-DD.md 的 frontmatter `type: daily-stub` 或 `generatedBy: backfill` 标记
+  const isStub = /^type:\s*daily-stub/m.test(content) || /^generatedBy:\s*backfill/m.test(content)
+  if (isStub) {
+    if (sections.length < 1) fail(`Daily digest ${day} (stub) is empty`)
+    return
+  }
   if (sections.length < 2 || /^\*\*[\s\S]+\*\*$/.test(sections[0])) {
     fail(`Daily digest ${day} needs a normal-weight introduction and titled stories`)
   }
@@ -58,7 +65,9 @@ if (!existsSync(source)) {
 const sourceDaily = join(source, 'digests')
 const sourceResearch = join(source, 'research', 'weekly')
 const sourceItems = join(source, 'items')
+// Backfill 占位不是可发布日报，不能让它进入校验或站点快照。
 const dailyFiles = files(sourceDaily, /^\d{4}-\d{2}-\d{2}\.md$/)
+  .filter(name => !/^type:\s*daily-stub\s*$/m.test(readFileSync(join(sourceDaily, name), 'utf8')))
 const researchFiles = files(sourceResearch, /^\d{4}-\d{2}-\d{2}\.md$/)
 const itemDays = existsSync(sourceItems)
   ? readdirSync(sourceItems).filter(day => dayPattern.test(day) && statSync(join(sourceItems, day)).isDirectory()).sort()
