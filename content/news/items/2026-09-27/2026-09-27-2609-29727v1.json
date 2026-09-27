@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-27-2609-29727v1",
+  "title": "VQ-LIC: Shared Vector-Quantized Learned Image Compression on a Resource-Constrained FPGA",
+  "url": "http://arxiv.org/abs/2609.29727v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "VQ",
+    "LIC",
+    "Shared Vector",
+    "Quantized Learned Image Compression",
+    "Resource",
+    "Constrained FPGA Learned",
+    "FPGAs",
+    "We",
+    "INT8",
+    "DW",
+    "PW",
+    "Since VQ",
+    "FPGA LIC",
+    "RTL",
+    "FPGA",
+    "Validated",
+    "Post",
+    "On",
+    "DSP Zynq",
+    "PSNR"
+  ],
+  "publishedAt": "2026-09-24T12:41:44.000Z",
+  "fetchedAt": "2026-09-27T12:04:13.721Z",
+  "summary": "Learned image compression (LIC) is hard to deploy on severely resource-constrained FPGAs, since how fast it actually runs depends not just on arithmetic count, but also on memory traffic, imbalance between different operations, and how the hardware batches its work. We present VQ-LIC, an asymmetric edge-cloud codec in which a compact INT8 depthwise (DW)-pointwise (PW) analysis transform and multi-codebook vector quantization (VQ) run at the edge on a reusable DW/PW engine pair, while reconstruct",
+  "investorNote": "",
+  "score": 0.533,
+  "duplicateOf": null,
+  "clusterId": "2609.29727v1",
+  "displayTitle": "VQ-LIC: Shared Vector-Quantized Learned Image Compression on",
+  "narrative": "Learned image compression (LIC) is hard to deploy on severely resource-constrained FPGAs, since how fast it actually runs depends not just on arithmetic count, but also on memory traffic, imbalance between different operations, and how the hardware b"
+}

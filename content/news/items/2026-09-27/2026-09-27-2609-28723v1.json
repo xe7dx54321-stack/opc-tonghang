@@ -1,0 +1,30 @@
+{
+  "id": "2026-09-27-2609-28723v1",
+  "title": "How Spatial Biologists Direct and Verify AI-Assisted Analyses",
+  "url": "http://arxiv.org/abs/2609.28723v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "How Spatial Biologists Direct",
+    "Verify AI",
+    "Assisted Analyses Spatial",
+    "We",
+    "AI",
+    "Claude Science",
+    "Participants",
+    "Assessing",
+    "Scientists"
+  ],
+  "publishedAt": "2026-09-23T19:01:14.000Z",
+  "fetchedAt": "2026-09-27T12:04:09.588Z",
+  "summary": "Spatial biologists use visualization to assess computational analyses of tissue data. We examine how they direct and verify analyses when an AI agent performs this work. We synthesized workflows from fourteen contextual inquiries and conducted a formative pilot followed by an observational study with ten spatial biologists using Claude Science on their own data. Participants valued help with plotting, locating cells of interest, and tasks they found laborious or could not otherwise perform. Asse",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.28723v1",
+  "displayTitle": "How Spatial Biologists Direct and Verify AI-Assisted Analyse",
+  "narrative": "Spatial biologists use visualization to assess computational analyses of tissue data. We examine how they direct and verify analyses when an AI agent performs this work. We synthesized workflows from fourteen contextual inquiries and conducted a form"
+}

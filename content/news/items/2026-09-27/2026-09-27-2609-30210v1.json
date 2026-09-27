@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-27-2609-30210v1",
+  "title": "The Alignment Illusion in Multimodal Large Language Models",
+  "url": "http://arxiv.org/abs/2609.30210v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "The Alignment Illusion",
+    "Multimodal Large Language Models Layer",
+    "Multimodal Large Language Models",
+    "MLLMs",
+    "This",
+    "To",
+    "Across",
+    "Gaussian",
+    "CKA",
+    "SVCCA",
+    "MIR",
+    "We",
+    "MLP",
+    "Because",
+    "PA",
+    "Under",
+    "Internal"
+  ],
+  "publishedAt": "2026-09-24T17:42:29.000Z",
+  "fetchedAt": "2026-09-27T12:03:55.481Z",
+  "summary": "Layer-wise visual-text similarity in Multimodal Large Language Models (MLLMs) is widely interpreted as evidence that the language model progressively integrates visual content into a shared representation space. This reading rests on the assumption that scalar alignment scores reflect content-level cross-modal interaction. To test this assumption, we apply controlled interventions to the visual stream. Across 13 MLLMs from five families spanning 0.5B to 72B parameters, replacing projector-output",
+  "investorNote": "",
+  "score": 0.61,
+  "duplicateOf": null,
+  "clusterId": "2609.30210v1",
+  "displayTitle": "多模态大模型的对齐幻觉",
+  "narrative": "今日 arxiv cs.AI 上 The Alignment Illusion in Multimodal Large Language Models 指出多模态 LLM（GPT-6 / Claude Opus 5.5 / Gemini 4 这类）在图文混合输入下，对齐目标（helpful / harmless / honest）的达成度被系统性高估——一旦图文输入超出训练分布，模型在 safety / honesty 维度的失败模式远比纯文本对齐严重。研究者通过一组 adversarial multi-modal probes 量化了这个差距。对所有部署多模态 LLM 给企业用户的应用（特别是医疗影像 / 法律文书 / 自动驾驶感知）是直接警告——单模态对齐 ≠ 多模态对齐；对监管侧（欧盟 AI Act / NIST AI RMF）也是间接推动力——多模态场景的对齐评测会被快速纳入下一轮标准更新。这是一篇把\"对齐幻觉\"具体化的论文，对评估创业公司（Scale AI / Surge / Suriya 等）和监管 framework 都有长期参考价值。"
+}

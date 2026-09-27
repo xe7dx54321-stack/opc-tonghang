@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-27-2609-29267v1",
+  "title": "MagiCFirm: A Runtime for Magic-State Cultivation with Algorithm-Hardware Co-Design",
+  "url": "http://arxiv.org/abs/2609.29267v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "MagiCFirm",
+    "Runtime",
+    "Magic",
+    "State Cultivation",
+    "Algorithm",
+    "Hardware Co",
+    "Design Magic",
+    "Clifford",
+    "FTQC",
+    "However",
+    "To",
+    "At",
+    "Across",
+    "For"
+  ],
+  "publishedAt": "2026-09-24T09:05:29.000Z",
+  "fetchedAt": "2026-09-27T12:04:13.721Z",
+  "summary": "Magic-state cultivation offers a promising alternative for lowering the cost of non-Clifford operations in fault-tolerant quantum computing (FTQC). However, realizing cultivation in practice exposes two challenges: (i) the lack of an open-source classical runtime layer between logical software and physical control, and (ii) the latency constraints on protocol-specific decisions that determine magic-state readiness. To address these challenges, we adopt an algorithm--hardware co-design approach. ",
+  "investorNote": "",
+  "score": 0.533,
+  "duplicateOf": null,
+  "clusterId": "2609.29267v1",
+  "displayTitle": "MagiCFirm: A Runtime for Magic-State Cultivation with Algori",
+  "narrative": "Magic-state cultivation offers a promising alternative for lowering the cost of non-Clifford operations in fault-tolerant quantum computing (FTQC). However, realizing cultivation in practice exposes two challenges: (i) the lack of an open-source clas"
+}

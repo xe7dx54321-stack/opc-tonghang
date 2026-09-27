@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-27-2609-30104v1",
+  "title": "MQSS-Selector: RL-Guided Pass Selection for an MLIR Compilation Pipeline",
+  "url": "http://arxiv.org/abs/2609.30104v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "MQSS",
+    "Selector",
+    "RL",
+    "Guided Pass Selection",
+    "HPC",
+    "Quantum Computing",
+    "QC",
+    "High Performance Computing",
+    "HPCQC",
+    "However",
+    "Noisy Intermediate",
+    "Scale Quantum",
+    "NISQ",
+    "This",
+    "Many",
+    "Our"
+  ],
+  "publishedAt": "2026-09-24T16:46:49.000Z",
+  "fetchedAt": "2026-09-27T12:03:55.482Z",
+  "summary": "High Performance Computing (HPC) and Quantum Computing (QC) systems are increasingly converging towards unified High Performance Computing-Quantum Computing (HPCQC) infrastructures, driven by a growing need to bridge classical and quantum workflows, which affects all levels of the system stack, from the hardware to compilers and runtimes, all the way to applications. However, today's QC devices are still in the Noisy Intermediate-Scale Quantum (NISQ) era, are error-prone and resource-limited, an",
+  "investorNote": "",
+  "score": 0.533,
+  "duplicateOf": null,
+  "clusterId": "2609.30104v1",
+  "displayTitle": "MQSS-Selector: RL-Guided Pass Selection for an MLIR Compilat",
+  "narrative": "High Performance Computing (HPC) and Quantum Computing (QC) systems are increasingly converging towards unified High Performance Computing-Quantum Computing (HPCQC) infrastructures, driven by a growing need to bridge classical and quantum workflows, "
+}

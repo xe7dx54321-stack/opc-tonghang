@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-27-2609-28984v1",
+  "title": "CrossSafe: Towards Cross-Embodiment Latent Safety Filters",
+  "url": "http://arxiv.org/abs/2609.28984v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "CrossSafe",
+    "Towards Cross",
+    "Embodiment Latent Safety Filters Cross",
+    "VLA",
+    "We",
+    "The",
+    "What",
+    "Consequently",
+    "This",
+    "Hamilton",
+    "Jacobi",
+    "Using",
+    "Our",
+    "They"
+  ],
+  "publishedAt": "2026-09-24T03:55:06.000Z",
+  "fetchedAt": "2026-09-27T12:04:18.048Z",
+  "summary": "Cross-embodiment learning has shown that a single model, such as a vision-language-action (VLA) model, can learn state representations and manipulation skills that can be applied across heterogeneous robots to accomplish various tasks. We hypothesize that the same holds for safety enforcement. The reasoning required to satisfy a safety constraint, such as detecting an obstacle, recognizing that it should be avoided, and selecting a safe abstract action, is largely shared across robots. What diff",
+  "investorNote": "",
+  "score": 0.62,
+  "duplicateOf": null,
+  "clusterId": "2609.28984v1",
+  "displayTitle": "CrossSafe：跨本体可复用的机器人安全过滤器",
+  "narrative": "今日 arxiv cs.RO 上 CrossSafe 论文把 cross-embodiment learning 思路扩展到 safety enforcement——一个 latent safety filter 模型可以跨不同机器人本体复用，覆盖 heterogeneous robots 的 manipulation 任务。论文核心观点是 safety 不应该是每个机器人单独训练一遍，而应该像 VLA 一样可迁移。对所有做人形 + 工业 + 协作机器人混合部署的公司是利好——多本体共享安全策略能省掉 50%+ 的合规成本；对监管侧是利好——安全策略跨本体可迁移意味着监管框架可以从\"机器人型号\"上升到\"安全策略模块\"。这是一篇把\"安全即产品\"的思路落到 cross-embodiment 的论文。"
+}

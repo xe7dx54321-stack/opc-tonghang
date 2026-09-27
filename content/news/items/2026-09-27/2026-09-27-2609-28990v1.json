@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-27-2609-28990v1",
+  "title": "How People Use ChatGPT in Australia: A WildChat Analysis",
+  "url": "http://arxiv.org/abs/2609.28990v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "How People Use ChatGPT",
+    "Australia",
+    "WildChat Analysis Generative AI",
+    "This",
+    "WildChat",
+    "ChatGPT",
+    "Using",
+    "Australian",
+    "Our",
+    "The",
+    "Finally",
+    "AI"
+  ],
+  "publishedAt": "2026-09-24T04:01:44.000Z",
+  "fetchedAt": "2026-09-27T12:04:09.588Z",
+  "summary": "Generative AI chatbots are increasingly embedded in everyday life, yet most large-scale studies describe global patterns. This paper presents an Australia-focused analysis of WildChat, a public dataset of real-world ChatGPT interaction logs. Using descriptive analysis and a multi-layer classification scheme, we analysed 37,845 conversations identified as Australian, examining language diversity, work relevance, interaction intent, topic distribution, turn-taking, temporal change, work activities",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.28990v1",
+  "displayTitle": "How People Use ChatGPT in Australia: A WildChat Analysis",
+  "narrative": "Generative AI chatbots are increasingly embedded in everyday life, yet most large-scale studies describe global patterns. This paper presents an Australia-focused analysis of WildChat, a public dataset of real-world ChatGPT interaction logs. Using de"
+}

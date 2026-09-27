@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-27-2609-30247v1",
+  "title": "Rolling-WAM: World Action Models with Rolling Imagination",
+  "url": "http://arxiv.org/abs/2609.30247v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [
+    "Rolling",
+    "WAM",
+    "World Action Models",
+    "Rolling Imagination World Action Models",
+    "WAMs",
+    "However",
+    "We",
+    "Our",
+    "At",
+    "As",
+    "This",
+    "Evaluations",
+    "LIBERO",
+    "RoboTwin",
+    "Unitree",
+    "By"
+  ],
+  "publishedAt": "2026-09-24T17:58:03.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.772Z",
+  "summary": "World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, completing the joint video-action denoising process at each replanning cycle incurs substantial latency, delaying action updates and limiting closed-loop responsiveness. We present Rolling-WAM, a formulation that distributes joint denoising across successive replanning cycles. Our method maintains a sliding window of video-action chunks at staggered noise levels. At each step, a r",
+  "investorNote": "",
+  "score": 0.595,
+  "duplicateOf": null,
+  "clusterId": "2609.30247v1",
+  "displayTitle": "Rolling-WAM：滚动想象让 World Action Model 提速",
+  "narrative": "今日 arxiv cs.RO 上 Rolling-WAM 把 World Action Models（WAMs，耦合动作生成 + 未来视觉预测）每次 replanning 都要重做完整 video-action denoising 的高延迟问题，用 rolling imagination 思路让模型\"在已有预测上滚动微调\"而不是从头再来。论文给出 latency 显著下降的实验数据。对人形机器人 / VLA 模型玩家是直接利好——WAM 的 latency 是其从实验室走向实时控制的最大瓶颈之一；对 NVIDIA / Cosmos 是利好——他们的 simulation 平台有了新方法论。短期看是工程型论文，长期看\"实时 WAM\"会被推到 VLA 的标配地位。"
+}

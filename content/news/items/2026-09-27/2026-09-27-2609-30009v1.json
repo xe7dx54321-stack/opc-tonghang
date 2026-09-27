@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-27-2609-30009v1",
+  "title": "Automated Regulatory Compliance Question Answering in Financial Services with Domain-Adapted Retrieval-Augmented Generation",
+  "url": "http://arxiv.org/abs/2609.30009v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Financial Services",
+    "Domain",
+    "Adapted Retrieval",
+    "Augmented Generation Financial",
+    "Large",
+    "We",
+    "Our",
+    "LegalBERT",
+    "BM25",
+    "RAFT",
+    "LoRA",
+    "On ObliQA",
+    "Abu Dhabi Global Market",
+    "Recall",
+    "RePASs",
+    "However",
+    "Australian",
+    "The"
+  ],
+  "publishedAt": "2026-09-24T15:48:59.000Z",
+  "fetchedAt": "2026-09-27T12:03:50.283Z",
+  "summary": "Financial institutions operate under dense, frequently amended rulebooks, and answering a compliance question correctly requires not only fluency but verifiable grounding in the authoritative text. Large language models are attractive for this task, yet the models that firms can realistically deploy on-premise are compact ones, and compact models hallucinate obligations. We study whether a carefully domain-adapted retrieval-augmented generation pipeline closes that gap. Our retriever is built in",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30009v1",
+  "displayTitle": "Automated Regulatory Compliance Question Answering in Financ",
+  "narrative": "Financial institutions operate under dense, frequently amended rulebooks, and answering a compliance question correctly requires not only fluency but verifiable grounding in the authoritative text. Large language models are attractive for this task, "
+}

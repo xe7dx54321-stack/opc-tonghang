@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-27-2609-28904v1",
+  "title": "Implementation and Evaluation of NTT Arithmetic for ML-KEM on a CGLA",
+  "url": "http://arxiv.org/abs/2609.28904v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Implementation",
+    "Evaluation",
+    "NTT Arithmetic",
+    "ML",
+    "KEM",
+    "CGLA FIPS",
+    "Its",
+    "NTT",
+    "Dedicated NTT",
+    "CPU",
+    "Grounded Linear Array",
+    "CGLA",
+    "Mapping",
+    "FP32",
+    "ARM",
+    "We",
+    "This",
+    "The",
+    "One",
+    "PE"
+  ],
+  "publishedAt": "2026-09-24T01:33:47.000Z",
+  "fetchedAt": "2026-09-27T12:04:13.722Z",
+  "summary": "FIPS 203 standardizes ML-KEM for post-quantum key establishment. Its polynomial multiplication relies on NTT butterflies with exact modular arithmetic over q = 3329. Dedicated NTT accelerators minimize latency with fixed modular arithmetic and stage schedules. A CPU-Grounded Linear Array (CGLA) reuses one programmable linear datapath across several workloads. Mapping the transform to this datapath requires exact FP32 reconstruction and explicit stage transitions across the ARM-to-CGLA interface.",
+  "investorNote": "",
+  "score": 0.533,
+  "duplicateOf": null,
+  "clusterId": "2609.28904v1",
+  "displayTitle": "Implementation and Evaluation of NTT Arithmetic for ML-KEM o",
+  "narrative": "FIPS 203 standardizes ML-KEM for post-quantum key establishment. Its polynomial multiplication relies on NTT butterflies with exact modular arithmetic over q = 3329. Dedicated NTT accelerators minimize latency with fixed modular arithmetic and stage "
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-27-2609-28717v1",
+  "title": "HeteroReason: Heterogeneous FPGA-GPU Acceleration for Disaggregated Speculative Reasoning",
+  "url": "http://arxiv.org/abs/2609.28717v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "HeteroReason",
+    "Heterogeneous FPGA",
+    "GPU Acceleration",
+    "LRMs",
+    "Chain",
+    "Thought",
+    "CoT",
+    "To",
+    "PRMs",
+    "This",
+    "Furthermore",
+    "GPU",
+    "FPGA",
+    "LRM",
+    "At",
+    "PRM",
+    "GPUs",
+    "Experimental"
+  ],
+  "publishedAt": "2026-09-23T18:57:38.000Z",
+  "fetchedAt": "2026-09-27T12:04:13.722Z",
+  "summary": "Large Reasoning Models (LRMs) have achieved state-of-the-art performance in reasoning tasks by utilizing Chain-of-Thought (CoT) reasoning. To achieve fast execution speed, speculative reasoning techniques adopt a lightweight draft model for candidate token generation followed by process reward models (PRMs) for verification and a strong target model for refinements. This paper identifies that the existing speculative reasoning paradigm follows a strictly forward-only reasoning trajectory, which ",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.28717v1",
+  "displayTitle": "HeteroReason: Heterogeneous FPGA-GPU Acceleration for Disagg",
+  "narrative": "Large Reasoning Models (LRMs) have achieved state-of-the-art performance in reasoning tasks by utilizing Chain-of-Thought (CoT) reasoning. To achieve fast execution speed, speculative reasoning techniques adopt a lightweight draft model for candidate"
+}

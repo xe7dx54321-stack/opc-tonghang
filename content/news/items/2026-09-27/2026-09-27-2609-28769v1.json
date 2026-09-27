@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-27-2609-28769v1",
+  "title": "Xtrace: High-Fidelity GPU Intra-Kernel Tracing via Binary-Level Instruction Splicing",
+  "url": "http://arxiv.org/abs/2609.28769v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Xtrace",
+    "High",
+    "Fidelity GPU Intra",
+    "Kernel Tracing",
+    "Binary",
+    "Level Instruction Splicing Modern GPU",
+    "Tracing",
+    "Unfortunately",
+    "These",
+    "GPU",
+    "They",
+    "It",
+    "NVIDIA",
+    "AMD GPU",
+    "We",
+    "LLM",
+    "Neutrino",
+    "IKET",
+    "On",
+    "MI300X"
+  ],
+  "publishedAt": "2026-09-23T20:27:04.000Z",
+  "fetchedAt": "2026-09-27T12:04:13.722Z",
+  "summary": "Modern GPU kernels fuse increasingly more work into a single kernel, and intra-kernel tracing has become the mainstream method to profile them. Tracing inserts probes into the kernel to record its runtime states, and the fidelity of the trace determines the efficiency of performance optimization. Unfortunately, existing tools insert probes before compilation. These tools interfere with the compiler's optimizations, so they trace a different binary from the one the GPU executes. They also add sig",
+  "investorNote": "",
+  "score": 0.533,
+  "duplicateOf": null,
+  "clusterId": "2609.28769v1",
+  "displayTitle": "Xtrace: High-Fidelity GPU Intra-Kernel Tracing via Binary-Le",
+  "narrative": "Modern GPU kernels fuse increasingly more work into a single kernel, and intra-kernel tracing has become the mainstream method to profile them. Tracing inserts probes into the kernel to record its runtime states, and the fidelity of the trace determi"
+}

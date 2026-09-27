@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-27-2609-29837v1",
+  "title": "PUBG Ally: A Conversational Embodied Agent as an AI Teammate",
+  "url": "http://arxiv.org/abs/2609.29837v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "entities": [
+    "PUBG Ally",
+    "Conversational Embodied Agent",
+    "AI Teammate We",
+    "PUBG",
+    "BATTLEGROUNDS",
+    "Building",
+    "Ally",
+    "Because",
+    "We",
+    "To",
+    "Deploying Ally",
+    "During",
+    "Among"
+  ],
+  "publishedAt": "2026-09-24T14:06:28.000Z",
+  "fetchedAt": "2026-09-27T12:04:09.587Z",
+  "summary": "We introduce PUBG Ally, an embodied agent for PUBG: BATTLEGROUNDS that can reason, act autonomously, and play alongside players as a voice-enabled teammate. Building such a teammate requires combining two difficult capabilities: it must perceive and respond to a constantly changing game world under strict latency constraints while interacting naturally with players, keeping its speech synchronized with its actions. Ally therefore combines agentic tool use with real-time game control. A language-",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.29837v1",
+  "displayTitle": "PUBG Ally: A Conversational Embodied Agent as an AI Teammate",
+  "narrative": "We introduce PUBG Ally, an embodied agent for PUBG: BATTLEGROUNDS that can reason, act autonomously, and play alongside players as a voice-enabled teammate. Building such a teammate requires combining two difficult capabilities: it must perceive and "
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-27-2609-29835v1",
+  "title": "Retrieve-to-Localize: Bridging Large Language Models and LiDAR Geometry for Spatial Grounding",
+  "url": "http://arxiv.org/abs/2609.29835v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Retrieve",
+    "Localize",
+    "Bridging Large Language Models",
+    "LiDAR Geometry",
+    "Spatial Grounding LiDAR",
+    "However",
+    "Motivated",
+    "LLMs",
+    "LiDAR",
+    "To",
+    "SpatialLiDAR",
+    "QA",
+    "We",
+    "LM",
+    "LLM",
+    "This",
+    "Experiments",
+    "VLMs",
+    "Our"
+  ],
+  "publishedAt": "2026-09-24T14:05:02.000Z",
+  "fetchedAt": "2026-09-27T12:04:05.224Z",
+  "summary": "LiDAR provides precise geometric information for spatial perception tasks such as object detection in autonomous driving and outdoor robotics. However, recognizing and localizing individual objects is not sufficient to answer questions that require composing spatial relations and grounding the intended target. Motivated by recent advances in large language models (LLMs) for autonomous driving, we leverage their language priors to interpret complex spatial questions and ground the referred target",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.29835v1",
+  "displayTitle": "Retrieve-to-Localize: Bridging Large Language Models and LiD",
+  "narrative": "LiDAR provides precise geometric information for spatial perception tasks such as object detection in autonomous driving and outdoor robotics. However, recognizing and localizing individual objects is not sufficient to answer questions that require c"
+}

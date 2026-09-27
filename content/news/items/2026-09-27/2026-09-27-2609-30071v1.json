@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-27-2609-30071v1",
+  "title": "Scoring Both Directions: LLMs realize the MRS they cannot reliably parse",
+  "url": "http://arxiv.org/abs/2609.30071v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Scoring Both Directions",
+    "LLMs",
+    "MRS",
+    "The English Resource Grammar",
+    "ERG",
+    "English",
+    "Given",
+    "ACE",
+    "Minimal Recursion Semantics",
+    "The",
+    "We",
+    "Claude Sonnet",
+    "Claude Opus",
+    "Opus",
+    "BLEU",
+    "Sonnet",
+    "In"
+  ],
+  "publishedAt": "2026-09-24T16:27:54.000Z",
+  "fetchedAt": "2026-09-27T12:03:50.282Z",
+  "summary": "The English Resource Grammar (ERG) is a hand-written computational grammar of English. Given a sentence, its processor, ACE, produces a formal meaning representation called Minimal Recursion Semantics (MRS): a graph of the sentence's predicates and their arguments. The grammar is bidirectional and can also turn an MRS back into an English sentence. \\citet{hajdik2019} used the ERG's treebank to build a benchmark for that generation task, MRS to text, and trained sequence-to-sequence models to sol",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30071v1",
+  "displayTitle": "Scoring Both Directions: LLMs realize the MRS they cannot re",
+  "narrative": "The English Resource Grammar (ERG) is a hand-written computational grammar of English. Given a sentence, its processor, ACE, produces a formal meaning representation called Minimal Recursion Semantics (MRS): a graph of the sentence's predicates and t"
+}

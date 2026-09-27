@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-27-2609-30037v1",
+  "title": "AERIAL: Adversarial Evaluation of Robustness in Accuracy-Preserving Low-Precision EEG Decoders",
+  "url": "http://arxiv.org/abs/2609.30037v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "AERIAL",
+    "Adversarial Evaluation",
+    "Robustness",
+    "Accuracy",
+    "Preserving Low",
+    "Precision EEG Decoders Deployment",
+    "BCIs",
+    "On BCI Competition IV",
+    "FP32",
+    "EEGNet",
+    "ShallowConvNet",
+    "INT8",
+    "PTQ",
+    "QAT",
+    "Simulation",
+    "TensorRT",
+    "EEGNet PGD",
+    "However",
+    "Gradient",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T16:07:01.000Z",
+  "fetchedAt": "2026-09-27T12:03:55.483Z",
+  "summary": "Deployment-oriented compression is attractive for resource-constrained brain--computer interfaces (BCIs), but whether it changes adversarial vulnerability remains unclear. On BCI Competition IV-2a, we compare 32-bit floating-point (FP32) EEGNet and ShallowConvNet models with global magnitude pruning and simulated INT8 post training quantization (PTQ) and quantization-aware training (QAT) across nine subjects and three seeds. Simulation provides differentiable quantize--dequantize models for whit",
+  "investorNote": "",
+  "score": 0.533,
+  "duplicateOf": null,
+  "clusterId": "2609.30037v1",
+  "displayTitle": "AERIAL: Adversarial Evaluation of Robustness in Accuracy-Pre",
+  "narrative": "Deployment-oriented compression is attractive for resource-constrained brain--computer interfaces (BCIs), but whether it changes adversarial vulnerability remains unclear. On BCI Competition IV-2a, we compare 32-bit floating-point (FP32) EEGNet and S"
+}

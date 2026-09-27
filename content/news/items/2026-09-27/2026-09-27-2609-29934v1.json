@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-27-2609-29934v1",
+  "title": "Beyond Spatial Benchmarks: From Spatial Reasoning to Navigation",
+  "url": "http://arxiv.org/abs/2609.29934v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Beyond Spatial Benchmarks",
+    "From Spatial Reasoning",
+    "Navigation Does",
+    "Existing",
+    "Our",
+    "Guided",
+    "Spatial",
+    "Nav",
+    "We",
+    "NPD",
+    "With",
+    "GPU",
+    "SR",
+    "SPL",
+    "HM3D-v0",
+    "MP3D",
+    "It",
+    "All"
+  ],
+  "publishedAt": "2026-09-24T15:01:24.000Z",
+  "fetchedAt": "2026-09-27T12:04:00.355Z",
+  "summary": "Does progress on spatial reasoning benchmarks translate into better navigation? Existing benchmarks test isolated inferences from images or videos, with little connection to downstream navigation. Our analysis reveals a gap between benchmark-oriented spatial specialization and navigation performance, and shows how aligning spatial supervision with navigation goals, phases, and decision learning improves navigation. Guided by these findings, we build \\textsc{Spatial-Nav-100K} and fine-tune in two",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.29934v1",
+  "displayTitle": "Beyond Spatial Benchmarks: From Spatial Reasoning to Navigat",
+  "narrative": "Does progress on spatial reasoning benchmarks translate into better navigation? Existing benchmarks test isolated inferences from images or videos, with little connection to downstream navigation. Our analysis reveals a gap between benchmark-oriented"
+}

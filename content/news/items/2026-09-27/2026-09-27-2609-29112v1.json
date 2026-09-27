@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-27-2609-29112v1",
+  "title": "Modeling Load-, Velocity-, and Temperature-Dependent Transmission Errors of Cycloidal Drives for Industrial Robots Using Fourier Series",
+  "url": "http://arxiv.org/abs/2609.29112v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Modeling Load",
+    "Velocity",
+    "Temperature",
+    "Dependent Transmission Errors",
+    "Cycloidal Drives",
+    "This",
+    "Compliance",
+    "While",
+    "It",
+    "Fourier",
+    "Measurements",
+    "In",
+    "These",
+    "Compared"
+  ],
+  "publishedAt": "2026-09-24T06:43:47.000Z",
+  "fetchedAt": "2026-09-27T12:04:18.047Z",
+  "summary": "Industrial robots are rarely used for machining tasks due to their limited path accuracy. This accuracy is mainly limited by inaccuracies in the drive trains. Compliance and transmission errors occur in the joint gearboxes. While transmission errors have been extensively studied for strain wave gears, there is little research on these errors in cycloidal drives. This gearbox type is commonly used in industrial robots for medium to heavy payloads. It is proposed to model the mainly periodic trans",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.29112v1",
+  "displayTitle": "Modeling Load-, Velocity-, and Temperature-Dependent Transmi",
+  "narrative": "Industrial robots are rarely used for machining tasks due to their limited path accuracy. This accuracy is mainly limited by inaccuracies in the drive trains. Compliance and transmission errors occur in the joint gearboxes. While transmission errors "
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-27-2609-30137v1",
+  "title": "Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale",
+  "url": "http://arxiv.org/abs/2609.30137v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Screen Before You Serve",
+    "Simulation",
+    "Production Customer Experience AI Agents",
+    "Scale Customer",
+    "CX",
+    "Improving",
+    "Manual",
+    "We",
+    "Synthetic",
+    "Snowglobe",
+    "Nubank",
+    "Card Delivery",
+    "Card Management",
+    "Brazil",
+    "Across",
+    "In",
+    "SSR"
+  ],
+  "publishedAt": "2026-09-24T17:07:38.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.774Z",
+  "summary": "Customer experience (CX) agents use tools and large language models to address customer requests and guide conversational interactions with an organization's products. Improving these agents, especially in regulated industries, is difficult: they must detect intent, follow complex operational policies and use tools reliably. Manual end-to-end testing offers limited coverage, while live experiments expose customers to failures that can erode trust. We present a hypothesis-driven simulation workfl",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30137v1",
+  "displayTitle": "Screen Before You Serve: Simulation for Production Customer ",
+  "narrative": "Customer experience (CX) agents use tools and large language models to address customer requests and guide conversational interactions with an organization's products. Improving these agents, especially in regulated industries, is difficult: they mus"
+}

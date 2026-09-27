@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-27-2609-29993v1",
+  "title": "Will It Teach as Intended? How Teachers Configure Educational AI Chatbots",
+  "url": "http://arxiv.org/abs/2609.29993v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Will It Teach",
+    "Intended",
+    "AI",
+    "We",
+    "Teachers",
+    "Configuration",
+    "Purpose",
+    "Rules",
+    "Log",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T15:42:54.000Z",
+  "fetchedAt": "2026-09-27T12:04:09.587Z",
+  "summary": "Teachers are increasingly using generative AI to support instruction, yet it remains unclear how pedagogical intentions are translated into chatbot configurations and reflected in chatbot behavior. We studied a teacher-facing chatbot authoring tool in professional development workshops with 27 middle school teachers, analyzing focus-group interviews alongside configuration and interaction logs. Teachers envisioned chatbots as instructional scaffolds that could provide differentiated support, ext",
+  "investorNote": "",
+  "score": 0.533,
+  "duplicateOf": null,
+  "clusterId": "2609.29993v1",
+  "displayTitle": "Will It Teach as Intended? How Teachers Configure Educationa",
+  "narrative": "Teachers are increasingly using generative AI to support instruction, yet it remains unclear how pedagogical intentions are translated into chatbot configurations and reflected in chatbot behavior. We studied a teacher-facing chatbot authoring tool i"
+}

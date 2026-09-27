@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-27-2609-30140v1",
+  "title": "Contact as a Decision Variable: Capability-Tradeoff Contact Selection for Legged Loco-Manipulation",
+  "url": "http://arxiv.org/abs/2609.30140v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Contact",
+    "Decision Variable",
+    "Capability",
+    "Tradeoff Contact Selection",
+    "Legged Loco",
+    "Manipulation In",
+    "We",
+    "Evaluating",
+    "To",
+    "CTCS",
+    "It",
+    "Unitree",
+    "AgileX NERO",
+    "Results",
+    "Compared"
+  ],
+  "publishedAt": "2026-09-24T17:08:28.000Z",
+  "fetchedAt": "2026-09-27T12:04:05.223Z",
+  "summary": "In this paper, we study the joint selection of an environmental support contact and a whole-body configuration for a prescribed loco-manipulation task. A contact may provide greater physical support while restricting the motion required for the task. We formulate this problem through three capability measures: residual wrench, end-effector reach, and base mobility available after satisfying the task requirements, and we balance them against contact acquisition cost. Evaluating these capabilities",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30140v1",
+  "displayTitle": "Contact as a Decision Variable: Capability-Tradeoff Contact ",
+  "narrative": "In this paper, we study the joint selection of an environmental support contact and a whole-body configuration for a prescribed loco-manipulation task. A contact may provide greater physical support while restricting the motion required for the task."
+}

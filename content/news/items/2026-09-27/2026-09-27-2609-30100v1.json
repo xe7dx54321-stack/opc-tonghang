@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-27-2609-30100v1",
+  "title": "R-DEIM Net: An Efficient Rationale-Augmented Dual-Expert Interaction Model for Paraphrase Detection",
+  "url": "http://arxiv.org/abs/2609.30100v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "DEIM Net",
+    "An Efficient Rationale",
+    "Augmented Dual",
+    "Expert Interaction Model",
+    "Paraphrase Detection Recent",
+    "Siamese",
+    "BERT",
+    "We",
+    "The",
+    "Interaction Expert",
+    "Reasoning Expert",
+    "Flan",
+    "Rather",
+    "On",
+    "Quora Question Pairs",
+    "This",
+    "MFAE BERT",
+    "LLaMA"
+  ],
+  "publishedAt": "2026-09-24T16:44:26.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.774Z",
+  "summary": "Recent advances in paraphrase detection reveal a fundamental trade-off: large language models achieve high accuracy but require high computation, while efficient Siamese-BERT variants offer practical scalability with reduced transparency in rationale generation. We present R-DEIM Net, a 76M-parameter dual-expert architecture exploring whether moderate-scale models can achieve competitive accuracy on paraphrase detection while enabling human-readable rationale generation. The architecture combine",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30100v1",
+  "displayTitle": "R-DEIM Net: An Efficient Rationale-Augmented Dual-Expert Int",
+  "narrative": "Recent advances in paraphrase detection reveal a fundamental trade-off: large language models achieve high accuracy but require high computation, while efficient Siamese-BERT variants offer practical scalability with reduced transparency in rationale"
+}

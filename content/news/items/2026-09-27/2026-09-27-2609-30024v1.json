@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-27-2609-30024v1",
+  "title": "Body-Grounded Replanning for Physically Adaptive Manipulation",
+  "url": "http://arxiv.org/abs/2609.30024v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Body",
+    "Grounded Replanning",
+    "We",
+    "LLM",
+    "Our",
+    "Additional",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T16:00:09.000Z",
+  "fetchedAt": "2026-09-27T12:04:05.223Z",
+  "summary": "Manipulation requires not only reasoning about the external environment, but also about the robot's physical condition. A strategy may remain geometrically feasible while becoming physically unsuitable due to increased joint load or limited mobility, yet internal physical state is typically used only for low-level control. We propose body-grounded high-level replanning, which uses internal physical state to adapt manipulation strategies during execution. Body-state events trigger strategy replan",
+  "investorNote": "",
+  "score": 0.615,
+  "duplicateOf": null,
+  "clusterId": "2609.30024v1",
+  "displayTitle": "Body-Grounded Replanning：让机器人按身体状态重规划动作",
+  "narrative": "今日 arxiv cs.RO 上 Body-Grounded Replanning 论文指出当前 manipulation 任务只关心外部环境，忽略了机器人自身物理状态——一个动作在几何上仍然可行，但关节负载增加 / 关节活动度下降后就不应该再执行。论文提出把机器人物理状态接入 replanning 决策，让动作选择对\"机器人的身体状态\"敏感。对所有做长期部署的机器人公司是利好——机器人老化、负载变化是真实痛点；对人形机器人是结构性利好——人形机器人的负载 / 关节数都远高于工业机械臂，\"按身体状态重规划\"的需求更强；对 NVIDIA / 国产 GPU 厂商是中性——计算负载会增加但可控。这是一篇把\"机器人自我感知\"做深的论文。"
+}

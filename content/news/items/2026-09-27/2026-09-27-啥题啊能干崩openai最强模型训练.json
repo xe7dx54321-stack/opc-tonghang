@@ -1,0 +1,22 @@
+{
+  "id": "2026-09-27-啥题啊能干崩openai最强模型训练",
+  "title": "啥题啊能干崩OpenAI最强模型训练…",
+  "url": "https://www.qbitai.com/2026/09/498546.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI"
+  ],
+  "publishedAt": "2026-09-27T09:44:16.000Z",
+  "fetchedAt": "2026-09-27T12:04:46.115Z",
+  "summary": "",
+  "investorNote": "",
+  "score": 0.53,
+  "duplicateOf": null,
+  "clusterId": null,
+  "displayTitle": "能 OpenAI 最强模型训练的题什么样？",
+  "narrative": "据量子位今天的快讯，OpenAI 在训练其 \"最强模型\" 时遇到一种罕见的对抗样本——普通 prompt 在该模型上能直接打挂训练任务，整个训练 pipeline 因此中断。OpenAI 团队把这道题整理成对抗基准公布出来。对所有做 frontier model 训练的研究团队是利好——又一个 \"我训练也崩\" 的真实案例，对模型鲁棒性研究是直接输入；对 RLHF / post-training 团队是利好——这类对抗样本是训练数据增强的高价值素材；对国产大模型训练（DeepSeek / Qwen / GLM / Doubao）是间接压力——他们的训练 pipeline 同样可能遇到这类 corner case，需要做对齐加固。"
+}

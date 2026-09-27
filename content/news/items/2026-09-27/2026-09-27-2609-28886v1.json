@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-27-2609-28886v1",
+  "title": "Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature",
+  "url": "http://arxiv.org/abs/2609.28886v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Characterizing LLM",
+    "Based Family Education",
+    "Lens",
+    "Activity Theory",
+    "Scoping Review",
+    "HCI Literature Large",
+    "LLMs",
+    "HCI",
+    "This",
+    "Using",
+    "AODM",
+    "We",
+    "AI",
+    "The",
+    "Evidence",
+    "LLM"
+  ],
+  "publishedAt": "2026-09-24T01:03:00.000Z",
+  "fetchedAt": "2026-09-27T12:04:09.588Z",
+  "summary": "Large language models (LLMs) are increasingly involved in family education, yet HCI has not systematically explained the educational interactions that emerge around them. This scoping review analyzes 53 HCI studies from 6,540 records across 19 venues. Using activity theory and AODM, it relates participants and educational objects to mediation, labour, and rules. We find that the literature centers on child--parent interaction and on language, AI literacy, and relational learning. The introductio",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.28886v1",
+  "displayTitle": "Characterizing LLM-Based Family Education through the Lens o",
+  "narrative": "Large language models (LLMs) are increasingly involved in family education, yet HCI has not systematically explained the educational interactions that emerge around them. This scoping review analyzes 53 HCI studies from 6,540 records across 19 venues"
+}

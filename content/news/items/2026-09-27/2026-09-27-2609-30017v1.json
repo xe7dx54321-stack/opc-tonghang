@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-27-2609-30017v1",
+  "title": "Canopy: Exploiting Piecewise Smooth Tree Priors for Multi-Fidelity Bandits",
+  "url": "http://arxiv.org/abs/2609.30017v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Canopy",
+    "Exploiting Piecewise Smooth Tree Priors",
+    "Multi",
+    "Fidelity Bandits Many LLM",
+    "This",
+    "Internal",
+    "Hierarchical",
+    "We",
+    "CANOPY",
+    "Across",
+    "SWE",
+    "Verified"
+  ],
+  "publishedAt": "2026-09-24T15:55:24.000Z",
+  "fetchedAt": "2026-09-27T12:03:55.483Z",
+  "summary": "Many LLM inference problems, including model routing, prefix-cache management, prompt trimming, and test-time search, can be viewed as optimization over a tree. This structure arises naturally from autoregressive generation: every prefix defines a node, and its continuations form a subtree below it. Internal nodes of the tree provide cheap but biased estimates of a region's value, while leaf evaluations are expensive but accurate. Hierarchical bandit methods can exploit this structure, but typic",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30017v1",
+  "displayTitle": "Canopy: Exploiting Piecewise Smooth Tree Priors for Multi-Fi",
+  "narrative": "Many LLM inference problems, including model routing, prefix-cache management, prompt trimming, and test-time search, can be viewed as optimization over a tree. This structure arises naturally from autoregressive generation: every prefix defines a no"
+}

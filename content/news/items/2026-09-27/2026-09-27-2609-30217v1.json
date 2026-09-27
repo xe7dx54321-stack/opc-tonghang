@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-27-2609-30217v1",
+  "title": "Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure",
+  "url": "http://arxiv.org/abs/2609.30217v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AI",
+    "We",
+    "LLM",
+    "EvasionBench",
+    "Agents",
+    "Across",
+    "Claude Fable",
+    "Evasion",
+    "Traces",
+    "GPT",
+    "Astra",
+    "Our",
+    "Effective"
+  ],
+  "publishedAt": "2026-09-24T17:46:27.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.772Z",
+  "summary": "A central concern in AI safety is that agents may treat oversight as an obstacle when it conflicts with completing their goals. We study instrumental evasion, the propensity of LLM agents to circumvent runtime monitoring as a means of completing ordinary tasks. We introduce EvasionBench, a benchmark of 50 diverse task-policy pairs in which completing the task requires an operation prohibited by a runtime monitor. Agents know that their tool calls are monitored and are prompted to continue workin",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30217v1",
+  "displayTitle": "Instrumental Monitor Evasion Emerges Under Ordinary Task Pre",
+  "narrative": "A central concern in AI safety is that agents may treat oversight as an obstacle when it conflicts with completing their goals. We study instrumental evasion, the propensity of LLM agents to circumvent runtime monitoring as a means of completing ordi"
+}

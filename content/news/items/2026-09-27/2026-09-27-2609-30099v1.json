@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-27-2609-30099v1",
+  "title": "Compiler and Hardware Co-Design for Accelerator Architectures",
+  "url": "http://arxiv.org/abs/2609.30099v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Compiler",
+    "Hardware Co",
+    "Design",
+    "Accelerator Architectures Heterogeneous",
+    "However",
+    "We",
+    "EAAC",
+    "Extensible Accelerator Architecture",
+    "By",
+    "MLIR",
+    "And",
+    "GEMM",
+    "RISC",
+    "EAAC MLIR",
+    "On"
+  ],
+  "publishedAt": "2026-09-24T16:44:09.000Z",
+  "fetchedAt": "2026-09-27T12:04:13.721Z",
+  "summary": "Heterogeneous accelerator architectures offer an efficient path to performance for compute-intensive workloads. However, full-stack integration remains difficult. We present EAAC (Extensible Accelerator Architecture), a flexible and extensible compiler and hardware architecture designed to lower the overhead of hardware-compiler co-development for rapid prototyping of hardware accelerators. EAAC targets static data-flow workloads with predictable memory access patterns. By using MLIR, we enable ",
+  "investorNote": "",
+  "score": 0.663,
+  "duplicateOf": null,
+  "clusterId": "2609.30099v1",
+  "displayTitle": "EAAC：可扩展加速器的编译-硬件协同设计框架",
+  "narrative": "今日 arxiv cs.AR 上 EAAC（Extensible Accelerator Architecture）论文提出一种异构加速器架构 + 配套编译器的协同设计框架，重点解决 \"full-stack integration 难\" 这件事——硬件加速器性能再好，软件栈不完整也跑不出真实负载。论文给出一套硬件-软件协同方法，让新加速器从原型到 production 的时间显著缩短。对 NVIDIA 是中性——他们的软件栈仍是护城河；对 Tenstorrent / Cerebras / Groq / SambaNova / 国产 AI 芯片是直接利好——他们最缺的就是软件栈成熟度，EAAC 这种\"框架级\"工作会缩短他们的迭代周期；对 EDA 公司（Cadence / Synopsys）也是利好——加速器架构 + 协同设计工具链本来是 EDA 厂商要吃下的市场。这是一篇把\"加速器门槛\"削低的论文，长期看 AI 芯片创业生态会因此更繁荣。"
+}

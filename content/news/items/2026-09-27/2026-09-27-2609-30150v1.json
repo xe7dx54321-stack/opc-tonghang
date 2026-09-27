@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-27-2609-30150v1",
+  "title": "Graph-Based Inference and Topology-Aware Multi-Agent Reinforcement Learning for Large-Scale Railway Network Management",
+  "url": "http://arxiv.org/abs/2609.30150v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Graph",
+    "Based Inference",
+    "Topology",
+    "Aware Multi",
+    "Agent Reinforcement Learning",
+    "Large",
+    "Scale Railway Network Management Modern",
+    "While",
+    "Centralized",
+    "To",
+    "First",
+    "Bayesian",
+    "Gaussian Process",
+    "Swiss Federal Railways",
+    "Second",
+    "Multi",
+    "MARL",
+    "Transformers",
+    "Numerical"
+  ],
+  "publishedAt": "2026-09-24T17:12:39.000Z",
+  "fetchedAt": "2026-09-27T12:03:55.482Z",
+  "summary": "Modern infrastructure asset management constitutes a complex sequential decision-making problem, characterized by long planning horizons and system-level interactions, such as spatial deterioration correlations and economies of scale. While deep reinforcement learning has shown promise in optimizing maintenance policies, scaling to real-world networks remains challenging. Centralized approaches become computationally intractable in large-scale systems, whereas decentralized approaches often fail",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30150v1",
+  "displayTitle": "Graph-Based Inference and Topology-Aware Multi-Agent Reinfor",
+  "narrative": "Modern infrastructure asset management constitutes a complex sequential decision-making problem, characterized by long planning horizons and system-level interactions, such as spatial deterioration correlations and economies of scale. While deep rein"
+}

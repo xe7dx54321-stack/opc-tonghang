@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-27-2609-30249v1",
+  "title": "RAPID: Robot Agentic Programming from Demonstrations",
+  "url": "http://arxiv.org/abs/2609.30249v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "RAPID",
+    "Robot Agentic Programming",
+    "Demonstrations Coding",
+    "To",
+    "Demonstrations",
+    "The",
+    "We",
+    "LIBERO",
+    "Pro",
+    "Franka",
+    "In",
+    "Website"
+  ],
+  "publishedAt": "2026-09-24T17:58:21.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.772Z",
+  "summary": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which automatically generates, verifies, and refines robot programs, given a single visual human demonstration. The iterative agentic loop of code refinement requires several key ingredients: (i) a testable task specification, (ii) action primitives for robot execution, and (iii) an int",
+  "investorNote": "",
+  "score": 0.71,
+  "duplicateOf": null,
+  "clusterId": "2609.30249v1",
+  "displayTitle": "RAPID：从示教视频自动生成机器人 Agent 程序",
+  "narrative": "今日 arxiv cs.RO 上 RAPID（Robot Agentic Programming from Demonstrations）提出一个 pipeline——给定单个视觉示教，自动生成、验证、refine 机器人程序，把当前\"coding agent 在编程任务上极强\"的范式接到 robot systems 上。论文展示了从示教到可执行机器人代码的端到端流程。对具身 AI 创业是利好——机器人 + LLM Agent 的融合是被验证的方向；对工业机器人（ABB / KUKA / 发那科 / 越疆 / 节卡）是中性偏冲击——\"示教 → 自动代码\"这条路径一旦成熟，传统示教编程的工时优势会被快速压缩；对国内 VLA 玩家（智元 / 银河通用）是结构性利好——Agent + VLA 的耦合是下一代机器人的方向。这是一篇把\"代码生成 Agent 红利\"接到 robot 上的代表论文。"
+}

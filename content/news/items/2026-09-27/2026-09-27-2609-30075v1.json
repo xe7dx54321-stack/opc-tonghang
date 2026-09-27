@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-27-2609-30075v1",
+  "title": "A Native-Reference Phone-Class Geometry for Second-Language Pronunciation Analysis",
+  "url": "http://arxiv.org/abs/2609.30075v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Native",
+    "Reference Phone",
+    "Class Geometry",
+    "Second",
+    "We",
+    "Given",
+    "SVD",
+    "For",
+    "Dev",
+    "Speak",
+    "Improve Corpus",
+    "Spearman",
+    "English Read",
+    "Japanese Students",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T16:28:45.000Z",
+  "fetchedAt": "2026-09-27T12:03:50.281Z",
+  "summary": "Automatic speaking assessment systems can provide holistic proficiency scores, but often lack interpretable measures that characterize pronunciation quality. We propose a native-reference phone-class geometry for measuring second language (L2) pronunciation deviation without requiring pronunciation labels, read-aloud prompts, or matched recordings of the same text from native and L2 speakers. Given a native speech corpus, we average frame-level self-supervised representations for each context-de",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30075v1",
+  "displayTitle": "A Native-Reference Phone-Class Geometry for Second-Language ",
+  "narrative": "Automatic speaking assessment systems can provide holistic proficiency scores, but often lack interpretable measures that characterize pronunciation quality. We propose a native-reference phone-class geometry for measuring second language (L2) pronun"
+}

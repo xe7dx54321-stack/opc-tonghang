@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-27-2609-29928v1",
+  "title": "Cultural Divergence Preservation: Diagnosing Flattening and Caricature in LLM-Simulated Survey Populations",
+  "url": "http://arxiv.org/abs/2609.29928v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Cultural Divergence Preservation",
+    "Diagnosing Flattening",
+    "Caricature",
+    "LLM",
+    "Simulated Survey Populations Large",
+    "LLMs",
+    "In",
+    "However",
+    "Jensen",
+    "Shannon",
+    "JSD",
+    "To",
+    "CDP",
+    "World Values Survey",
+    "WVS",
+    "Big Five Personality Test",
+    "The",
+    "Controlled",
+    "DeepPersona",
+    "Inspired"
+  ],
+  "publishedAt": "2026-09-24T14:59:06.000Z",
+  "fetchedAt": "2026-09-27T12:03:50.283Z",
+  "summary": "Large language models (LLMs) are increasingly used as synthetic survey respondents to estimate population response distributions. In cross-cultural survey simulation, evaluations should assess not only distributional fidelity within countries but also whether differences across countries are preserved. However, existing distance-based metrics such as Jensen--Shannon divergence (JSD) do not directly capture such cross-country differences. To address this limitation, we introduce Cultural Divergen",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.29928v1",
+  "displayTitle": "Cultural Divergence Preservation: Diagnosing Flattening and ",
+  "narrative": "Large language models (LLMs) are increasingly used as synthetic survey respondents to estimate population response distributions. In cross-cultural survey simulation, evaluations should assess not only distributional fidelity within countries but als"
+}

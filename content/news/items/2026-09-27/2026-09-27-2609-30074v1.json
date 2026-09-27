@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-27-2609-30074v1",
+  "title": "How Reproducible Are Evaluation Conclusions? A Self-Audit of LLM-Inferred Prompt Structure",
+  "url": "http://arxiv.org/abs/2609.30074v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Self",
+    "Audit",
+    "LLM",
+    "Inferred Prompt Structure Evaluations",
+    "We",
+    "The",
+    "Identical",
+    "Jaccard",
+    "Auditing",
+    "Under",
+    "Two",
+    "Checking",
+    "And",
+    "Small"
+  ],
+  "publishedAt": "2026-09-24T16:28:15.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.775Z",
+  "summary": "Evaluations of LLM systems routinely average over small prompt sets and report models as a ranked table. We ask how much confidence such a table deserves, using LLM-based prompt-structure inference as the case study: eight open model variants across five families and 8B to 675B parameters, caching disabled, 293 raw intermediate representations persisted. The measured phenomenon is unstable to begin with. Identical calls do not reliably recover identical structure, with mean node-set Jaccard from",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30074v1",
+  "displayTitle": "How Reproducible Are Evaluation Conclusions? A Self-Audit of",
+  "narrative": "Evaluations of LLM systems routinely average over small prompt sets and report models as a ranked table. We ask how much confidence such a table deserves, using LLM-based prompt-structure inference as the case study: eight open model variants across "
+}

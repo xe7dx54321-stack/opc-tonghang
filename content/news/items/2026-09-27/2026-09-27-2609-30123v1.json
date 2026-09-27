@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-27-2609-30123v1",
+  "title": "HEXIS: Compiling Skills into Extended Finite State Machines",
+  "url": "http://arxiv.org/abs/2609.30123v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "HEXIS",
+    "Compiling Skills",
+    "Extended Finite State Machines Agent",
+    "This",
+    "We",
+    "Skill",
+    "The",
+    "Our",
+    "It",
+    "These",
+    "Updates",
+    "Across",
+    "ReAct"
+  ],
+  "publishedAt": "2026-09-24T16:58:18.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.774Z",
+  "summary": "Agent skills provide reusable knowledge and instructions, yet agents must repeatedly infer how to apply them and which operation should follow. This couples task reasoning with control decisions, allowing prescribed steps to be omitted or applied incorrectly. We introduce HEXIS, which compiles agent skills into extended finite state machines that separate knowledge from control flow. Skill knowledge is incorporated into local instructions that guide reasoning and generation within states. The ma",
+  "investorNote": "",
+  "score": 0.72,
+  "duplicateOf": null,
+  "clusterId": "2609.30123v1",
+  "displayTitle": "HEXIS：把 Agent Skill 编译成扩展有限状态机",
+  "narrative": "今日 arxiv 一篇 cs.AI 新作 HEXIS 提出把 Agent 的可复用技能编译成扩展有限状态机（EFSM），用静态化、可验证的控制流替代每轮 LLM 重新推理\"该调用哪个 skill\"。研究者指出当前 Agent 框架的核心缺陷是把\"任务推理\"和\"控制决策\"耦合，导致预设步骤被跳过或顺序错乱；HEXIS 用 deterministic compiler 把 skill 注入成可执行的 EFSM，保留 LLM 做高层决策、把低层控制交给 EFSM。对开发者是直接利好：Agent 系统的可观测性、可调试性、版本管理都会显著改善；对 LangChain / LlamaIndex / CrewAI 是中长期挑战——它们当前\"一切靠 LLM 串起来\"的范式在企业级部署里越来越不可控。这条工作预示 2026 年 Agent infra 的一个明确方向——把 Skill 编译成结构化 artifact，会催生一批 \"Skill compiler\" 工具链。"
+}

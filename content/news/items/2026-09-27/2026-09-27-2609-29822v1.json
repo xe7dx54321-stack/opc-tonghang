@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-27-2609-29822v1",
+  "title": "Self-Supervised Anchoring of Fingertip Sensing to Proprioception and Proactive Actions for Robot Imitation Learning",
+  "url": "http://arxiv.org/abs/2609.29822v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Self",
+    "Supervised Anchoring",
+    "Fingertip Sensing",
+    "Proprioception",
+    "Proactive Actions",
+    "Robot Imitation Learning Robotic",
+    "We",
+    "The",
+    "However",
+    "PROprioceptive",
+    "PRoactive Anchoring",
+    "PROPRA",
+    "This",
+    "Experiments",
+    "Representation",
+    "Please"
+  ],
+  "publishedAt": "2026-09-24T13:55:10.000Z",
+  "fetchedAt": "2026-09-27T12:04:05.225Z",
+  "summary": "Robotic imitation learning often relies on external cameras, yet local interaction cues such as object proximity, contact onset, and grasp state are difficult to observe near the fingertips because of occlusion and limited temporal resolution. We study how to effectively incorporate complementary fingertip sensing into imitation learning using pressure-sensitive tactile and reflective proximity sensors, along with pretrained sensor encoders. The two modalities provide information at different ma",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.29822v1",
+  "displayTitle": "Self-Supervised Anchoring of Fingertip Sensing to Propriocep",
+  "narrative": "Robotic imitation learning often relies on external cameras, yet local interaction cues such as object proximity, contact onset, and grasp state are difficult to observe near the fingertips because of occlusion and limited temporal resolution. We stu"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-27-2609-30177v1",
+  "title": "Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search",
+  "url": "http://arxiv.org/abs/2609.30177v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Search",
+    "Aware Reinforcement Learning",
+    "Multi",
+    "Component Query Understanding",
+    "Roblox Game Search Query",
+    "QU",
+    "While",
+    "LLMs",
+    "We",
+    "RL",
+    "Teacher",
+    "SFT",
+    "The RL",
+    "Experiments",
+    "Roblox",
+    "NDCG"
+  ],
+  "publishedAt": "2026-09-24T17:26:46.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.774Z",
+  "summary": "Query understanding (QU) plays a critical role in production search systems, translating raw user queries into search execution plans that drive downstream retrieval and ranking. While large language models (LLMs) have enabled QU to be framed as a structured multi-task generation problem (e.g., intent classification, query expansion), optimizing such models to produce search-engine-coupled outputs remains challenging: static, label-based supervision fails to capture how each component actually i",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30177v1",
+  "displayTitle": "Search-Aware Reinforcement Learning for Multi-Component Quer",
+  "narrative": "Query understanding (QU) plays a critical role in production search systems, translating raw user queries into search execution plans that drive downstream retrieval and ranking. While large language models (LLMs) have enabled QU to be framed as a st"
+}

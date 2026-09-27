@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-27-2609-30184v1",
+  "title": "ARGUS: Role-Aware Event Knowledge Graphs for U.S. Employment-Discrimination Complaints",
+  "url": "http://arxiv.org/abs/2609.30184v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "ARGUS",
+    "Role",
+    "Aware Event Knowledge Graphs",
+    "Employment",
+    "Discrimination Complaints",
+    "We",
+    "LLM",
+    "Event Knowledge Graphs",
+    "EKGs",
+    "CourtListener",
+    "QA",
+    "The",
+    "EKG",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T17:29:40.000Z",
+  "fetchedAt": "2026-09-27T12:03:50.280Z",
+  "summary": "U.S. employment-discrimination complaints describe complex event sequences that are not explicitly captured by lexical or embedding-based representations alone. We present ARGUS, a source-grounded pipeline that combines a 5W1H-inspired schema, legal-domain models, and LLM-based structured generation to construct document-level Event Knowledge Graphs (EKGs) from CourtListener complaints. ARGUS extracts fact-bearing statements, builds chunk-level event graphs with participant, temporal, and causal",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30184v1",
+  "displayTitle": "ARGUS: Role-Aware Event Knowledge Graphs for U.S. Employment",
+  "narrative": "U.S. employment-discrimination complaints describe complex event sequences that are not explicitly captured by lexical or embedding-based representations alone. We present ARGUS, a source-grounded pipeline that combines a 5W1H-inspired schema, legal-"
+}

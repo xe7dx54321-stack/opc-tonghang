@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-27-2609-30245v1",
+  "title": "Towards Practical Compression of 3D Gaussian Splatting",
+  "url": "http://arxiv.org/abs/2609.30245v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Towards Practical Compression",
+    "Gaussian Splatting",
+    "Existing",
+    "Meanwhile",
+    "To",
+    "COSA",
+    "GS",
+    "Specifically",
+    "The",
+    "We",
+    "Gaussian",
+    "Further",
+    "Experiments",
+    "Code"
+  ],
+  "publishedAt": "2026-09-24T17:57:56.000Z",
+  "fetchedAt": "2026-09-27T12:04:00.353Z",
+  "summary": "3D Gaussian Splatting (3DGS) enables high-quality novel-view synthesis but requires substantial storage. Existing compression methods often rely on spatial context modeling over irregular 3D representations, increasing the complexity of training and coding. Meanwhile, floating-point context inference can introduce numerical inconsistencies across platforms, causing entropy-decoding failures. To address these practical challenges, we propose COSA-GS, which constructs context without spatial aggre",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30245v1",
+  "displayTitle": "Towards Practical Compression of 3D Gaussian Splatting",
+  "narrative": "3D Gaussian Splatting (3DGS) enables high-quality novel-view synthesis but requires substantial storage. Existing compression methods often rely on spatial context modeling over irregular 3D representations, increasing the complexity of training and "
+}

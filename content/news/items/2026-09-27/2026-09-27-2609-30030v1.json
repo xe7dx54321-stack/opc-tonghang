@@ -1,0 +1,30 @@
+{
+  "id": "2026-09-27-2609-30030v1",
+  "title": "Artificial Societies Benchmark: A Validation Framework for Synthetic Research",
+  "url": "http://arxiv.org/abs/2609.30030v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "Artificial Societies Benchmark",
+    "Validation Framework",
+    "Synthetic Research",
+    "We",
+    "The",
+    "It",
+    "Importantly",
+    "Models"
+  ],
+  "publishedAt": "2026-09-24T16:03:28.000Z",
+  "fetchedAt": "2026-09-27T12:03:50.282Z",
+  "summary": "A synthetic survey can reproduce the average answer while misrepresenting how people differ, how their answers relate to one another, or how they respond to changes in conditions. We introduce the Artificial Societies Benchmark to help researchers assess whether synthetic populations support their intended analyses. The framework combines eleven tests across internal, construct, and external validity, drawing on twenty human sources and comparing nine language models. It connects each research u",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30030v1",
+  "displayTitle": "Artificial Societies Benchmark: A Validation Framework for S",
+  "narrative": "A synthetic survey can reproduce the average answer while misrepresenting how people differ, how their answers relate to one another, or how they respond to changes in conditions. We introduce the Artificial Societies Benchmark to help researchers as"
+}

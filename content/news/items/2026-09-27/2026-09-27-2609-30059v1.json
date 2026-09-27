@@ -1,0 +1,42 @@
+{
+  "id": "2026-09-27-2609-30059v1",
+  "title": "KernelOPT: Dispatch-Aware Agentic Search for GPU Kernel Optimization",
+  "url": "http://arxiv.org/abs/2609.30059v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "KernelOPT",
+    "Dispatch",
+    "Aware Agentic Search",
+    "GPU Kernel Optimization Deep",
+    "GPU",
+    "Modern",
+    "PyTorch Inductor",
+    "Recent LLM",
+    "We",
+    "It",
+    "Triton",
+    "LLM",
+    "If",
+    "The",
+    "PyTorch",
+    "Modules",
+    "Helion",
+    "Evaluated",
+    "KernelBench",
+    "Level"
+  ],
+  "publishedAt": "2026-09-24T16:17:52.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.775Z",
+  "summary": "Deep learning inference and training performance depends critically on GPU kernel efficiency. Modern compilers such as PyTorch Inductor automatically generate GPU kernels from high-level model code, but frequently underperform expert-written implementations by wide margins. Recent LLM-assisted kernel optimizers can close this gap for standalone kernels, yet treat compiled models as black boxes, generally optimizing individual standalone kernels without respecting the compiler's structural decisi",
+  "investorNote": "",
+  "score": 0.755,
+  "duplicateOf": null,
+  "clusterId": "2609.30059v1",
+  "displayTitle": "KernelOPT：用 Agent 搜索自动优化 GPU Kernel",
+  "narrative": "今日 arxiv（cs.AR + cs.LG 跨类）一篇 KernelOPT 论文把 GPU Kernel 优化这件事直接接到 LLM Agent 搜索上：现代编译器（PyTorch Inductor / Triton）生成的 Kernel 在很多实际负载上比专家手写实现差出几个数量级，KernelOPT 用 dispatch-aware 的 Agentic Search 让 LLM 在候选 kernel 配置空间里做策略性探索、并在调度器粒度做代价评估。论文显示在多个真实深度学习工作负载上 KernelOPT 能显著缩小与 cuDNN / cuBLAS 手写实现的差距。对 NVIDIA 是利好但有限——Triton + Inductor 的护城河仍然在；对中国 AI 芯片 / 国产 NPU 是结构性利好——当 Agent 可以\"自己调 kernel\"时，自研芯片配套软件栈的门槛显著降低；对 MLPerf / 推理框架厂商（vLLM / SGLang）是中性偏利好，他们可以把这套 Agentic kernel search 集成到生产 pipeline。短期看，这是\"AI 优化 AI infra\"的代表案例；长期看是 GPU 编译器自动化的明确趋势——未来 2-3 年 kernel tuning 会从手写 / 半自动变成 Agent 主导。"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-27-2609-30131v1",
+  "title": "Enhancing Word-Level Property Directed Reachability with LLM-Driven Semantic Guidance",
+  "url": "http://arxiv.org/abs/2609.30131v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Enhancing Word",
+    "Level Property Directed Reachability",
+    "LLM",
+    "PDR",
+    "However",
+    "While",
+    "We",
+    "LLM4PDR",
+    "Large Language Models",
+    "LLMs",
+    "Predicate Generation",
+    "Clause Generation",
+    "Assertion Generation",
+    "Pono",
+    "HLS",
+    "RTL",
+    "HWMCC",
+    "Results",
+    "The",
+    "AVR"
+  ],
+  "publishedAt": "2026-09-24T17:04:24.000Z",
+  "fetchedAt": "2026-09-27T12:04:13.721Z",
+  "summary": "Property Directed Reachability (PDR) is a prominent algorithm for hardware formal verification. However, bit-level PDR often struggles with datapath-heavy designs because bit-blasting obscures high-level semantics. While word-level PDR addresses this by reasoning over bit-vector and array theories, its performance remains bottlenecked by discovering proof-relevant word-level relations. We propose LLM4PDR, a framework leveraging Large Language Models (LLMs) to guide word-level PDR search through ",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30131v1",
+  "displayTitle": "Enhancing Word-Level Property Directed Reachability with LLM",
+  "narrative": "Property Directed Reachability (PDR) is a prominent algorithm for hardware formal verification. However, bit-level PDR often struggles with datapath-heavy designs because bit-blasting obscures high-level semantics. While word-level PDR addresses this"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-27-2609-29431v1",
+  "title": "Calibrating LLM Judges for Human and AI Conversations",
+  "url": "http://arxiv.org/abs/2609.29431v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Calibrating LLM Judges",
+    "Human",
+    "AI Conversations Measuring",
+    "We",
+    "LLMs",
+    "CANDOR",
+    "Since",
+    "Voice Arena Goal Dataset",
+    "VA",
+    "AI",
+    "Using VA"
+  ],
+  "publishedAt": "2026-09-24T11:50:28.000Z",
+  "fetchedAt": "2026-09-27T12:04:09.587Z",
+  "summary": "Measuring how successful a conversation is remains difficult, even for humans judging spoken dialogue. We evaluate state-of-the-art LLMs as pointwise and pairwise judges of conversational success on CANDOR, finding pointwise scoring correlates moderately with human ratings, while pairwise comparison suffers from long transcripts and positional bias. Since this leaves judge scores incomparable across models, we propose a small anchor set and a calibration function that calibrates any judge onto a",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.29431v1",
+  "displayTitle": "Calibrating LLM Judges for Human and AI Conversations",
+  "narrative": "Measuring how successful a conversation is remains difficult, even for humans judging spoken dialogue. We evaluate state-of-the-art LLMs as pointwise and pairwise judges of conversational success on CANDOR, finding pointwise scoring correlates modera"
+}

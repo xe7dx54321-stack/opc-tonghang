@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-27-2609-30094v1",
+  "title": "PrivDrift: Auditing User-Secret Leakage Under Topic Drift in Active LLM Conversations",
+  "url": "http://arxiv.org/abs/2609.30094v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "PrivDrift",
+    "Auditing User",
+    "Secret Leakage Under Topic Drift",
+    "Active LLM Conversations Large",
+    "When",
+    "We",
+    "Across",
+    "LLMs",
+    "Within",
+    "LLM"
+  ],
+  "publishedAt": "2026-09-24T16:39:18.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.774Z",
+  "summary": "Large language models increasingly operate as persistent assistants in user-facing, shared-session, and tool-augmented settings. When users disclose sensitive information during an active conversation, that information may remain behaviorally recoverable through later prompts even after the dialogue shifts to unrelated topics. We introduce \\textbf{PrivDrift}, a benchmark for auditing whether user-disclosed secrets remain recoverable after conversational topic drift and persuasion-based probing. ",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30094v1",
+  "displayTitle": "PrivDrift: Auditing User-Secret Leakage Under Topic Drift in",
+  "narrative": "Large language models increasingly operate as persistent assistants in user-facing, shared-session, and tool-augmented settings. When users disclose sensitive information during an active conversation, that information may remain behaviorally recover"
+}

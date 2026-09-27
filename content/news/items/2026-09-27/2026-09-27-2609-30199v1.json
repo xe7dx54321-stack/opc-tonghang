@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-27-2609-30199v1",
+  "title": "ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds",
+  "url": "http://arxiv.org/abs/2609.30199v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "ExplorationBench",
+    "Measuring AI Systems",
+    "Exploration",
+    "Verifiable Alien Worlds Scientific",
+    "There",
+    "AI",
+    "However",
+    "To",
+    "Alien Worlds",
+    "The",
+    "AlienCode",
+    "AlienLogic",
+    "Each",
+    "Systems",
+    "We"
+  ],
+  "publishedAt": "2026-09-24T17:37:14.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.774Z",
+  "summary": "Scientific discovery begins where known problems end. There, AI systems must engage in exploration: framing hypotheses, designing experiments, and iterating on the results. However, evaluating this ability is difficult: (1) how to verify whether a genuinely new hypothesis holds, and (2) how to determine whether a system has discovered it through exploration or merely recalled related knowledge from pre-training data. To this end, we introduce ExplorationBench, which turns the wicked problem of e",
+  "investorNote": "",
+  "score": 0.64,
+  "duplicateOf": null,
+  "clusterId": "2609.30199v1",
+  "displayTitle": "ExplorationBench：衡量 AI 系统在未知世界里的探索能力",
+  "narrative": "今日 arxiv（cs.AI）上 ExplorationBench 想要解决一个长期困扰科学发现 AI 的问题——怎么度量一个 AI 系统在陌生环境里的\"探索能力\"：它能否自主形成可验证的新假设、设计实验、迭代优化结果。论文给出一套 verifiable alien worlds 评测协议，让 ground truth 可以被独立验证，从而把\"看似有进展\"和\"真的有进展\"区分开来。对 AI for Science 赛道（DeepMind GNoME / Isomorphic Labs / 国内深势科技）是直接利好——它提供了一个跨团队的统一比较框架；对 Auto-GPT / Devin / 通用 Agent 创业潮是一个冷静信号——\"探索能力\"被显式量化之后，大家会发现当前 Agent 的真实天花板远低于营销话术。论文价值在方法而非算法，长期看 ExplorationBench 有可能成为\"AI Scientist / AI Researcher\"这类项目的标配测试集。"
+}

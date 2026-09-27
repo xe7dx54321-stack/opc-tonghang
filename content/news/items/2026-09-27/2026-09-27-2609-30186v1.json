@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-27-2609-30186v1",
+  "title": "Jev-Mobile: Jev as an Executor for Mobile GUI Agents",
+  "url": "http://arxiv.org/abs/2609.30186v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Jev",
+    "Mobile",
+    "Executor",
+    "Mobile GUI Agents Vision",
+    "VLMs",
+    "GUI",
+    "VLM",
+    "We",
+    "This",
+    "On",
+    "AndroidWorld",
+    "SeeAct",
+    "Step",
+    "Among",
+    "API",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T17:30:32.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.774Z",
+  "summary": "Vision-language models (VLMs) have become a common foundation for autonomous mobile GUI agents, but most existing systems rely on the VLM for both planning and action grounding at nearly every interaction step, leading to substantial latency and model-serving cost. We introduce Jev-Mobile, which shifts this paradigm to low-frequency VLM planning and high-frequency lightweight execution: the VLM specifies local goals, the accessibility tree defines a structured executable action space, and Jev, a",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30186v1",
+  "displayTitle": "Jev-Mobile: Jev as an Executor for Mobile GUI Agents",
+  "narrative": "Vision-language models (VLMs) have become a common foundation for autonomous mobile GUI agents, but most existing systems rely on the VLM for both planning and action grounding at nearly every interaction step, leading to substantial latency and mode"
+}

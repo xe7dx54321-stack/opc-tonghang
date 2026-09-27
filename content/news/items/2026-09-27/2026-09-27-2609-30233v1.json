@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-27-2609-30233v1",
+  "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+  "url": "http://arxiv.org/abs/2609.30233v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Coding Agents",
+    "Generalized Task",
+    "Motion Planning Problems Task",
+    "TAMP",
+    "Generalized TAMP",
+    "However",
+    "We",
+    "Given",
+    "The",
+    "Claude Code",
+    "Opus",
+    "Codex",
+    "GPT",
+    "Sol",
+    "Astra",
+    "KinDER",
+    "PDDLStream",
+    "Across",
+    "Overall",
+    "LLM"
+  ],
+  "publishedAt": "2026-09-24T17:53:35.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.772Z",
+  "summary": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic constraints. Generalized TAMP addresses this difficulty by exploiting regularities across problem instances to reduce planning effort on new instances. However, existing methods require substantial TAMP-specific engineering. We investigate whether coding agents can automate this process by synthesizing",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30233v1",
+  "displayTitle": "Coding Agents for Generalized Task and Motion Planning Probl",
+  "narrative": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic constraints. Generalized TAMP addresses this difficul"
+}

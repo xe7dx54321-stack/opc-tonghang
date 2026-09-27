@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-27-2609-30036v1",
+  "title": "Aim Short to Reach Far: Your Frozen World Model Can Plan Better Than You Think",
+  "url": "http://arxiv.org/abs/2609.30036v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Aim Short",
+    "Reach Far",
+    "We",
+    "With",
+    "LeWM",
+    "Cube",
+    "PushT",
+    "Reacher",
+    "TwoRoom",
+    "Learned",
+    "Anchored Planning",
+    "The",
+    "Without",
+    "Additional",
+    "Lower",
+    "Success",
+    "Changing"
+  ],
+  "publishedAt": "2026-09-24T16:05:02.000Z",
+  "fetchedAt": "2026-09-27T12:03:55.483Z",
+  "summary": "Planners built on visual world models commonly score each predicted outcome by its distance to the encoded goal image. We show that this target can limit control even with exact dynamics and globally optimal short-horizon search: reaching a goal may require actions that initially move away from it. With frozen LeWM models, intermediate targets substantially improve action synthesis and recorded-action ranking on Cube, PushT, Reacher, and TwoRoom. Learned targets and targets drawn from observed e",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30036v1",
+  "displayTitle": "Aim Short to Reach Far: Your Frozen World Model Can Plan Bet",
+  "narrative": "Planners built on visual world models commonly score each predicted outcome by its distance to the encoded goal image. We show that this target can limit control even with exact dynamics and globally optimal short-horizon search: reaching a goal may "
+}

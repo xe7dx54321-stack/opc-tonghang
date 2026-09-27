@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-27-google-tests-buying-from-walmart-owned-flipkart-through-gemi",
+  "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+  "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Google",
+    "Walmart",
+    "Flipkart",
+    "Gemini",
+    "AI Mode",
+    "India"
+  ],
+  "publishedAt": "2026-09-27T01:30:00.000Z",
+  "fetchedAt": "2026-09-27T12:04:37.021Z",
+  "summary": "",
+  "investorNote": "",
+  "score": 0.665,
+  "duplicateOf": null,
+  "clusterId": null,
+  "displayTitle": "Google 在印度测试用 Gemini + AI Mode 直连 Flipkart 下单",
+  "narrative": "据 TechCrunch AI 今天的报道，Google 在印度市场开始测试把 Gemini 与 AI Mode 直接接到 Walmart 旗下 Flipkart 电商，用户可在 AI Mode 内完成\"搜索 → 比价 → 下单\"的端到端流程。这是 Google 在 agentic commerce（AI 代为下单）上的首次规模化试点之一，验证点放在\"高复杂度品类（家电 / 时尚）+ 移动支付 + 多语种\"组合上。对 OpenAI / Anthropic 是直接挑战——他们各自有 Instant Checkout / 浏览器代购类 agent 计划，Google 这一手把\"AI + 电商\"落到 Google Search + Flipkart 真实流量上，是 agentic commerce 的真正竞争起点；对印度本地电商（Flipkart / Amazon India / Meesho）是利好——AI Mode 流量是新的高意图入口；对 Shopify / 国内淘宝 / 京东的中长期影响是结构性——\"AI Mode 直连电商\"会成为 2026 H2 - 2027 H1 的标配。值得长期跟：印度市场是 Google 验证 agentic commerce 完整 pipeline 的首选，结论会决定 OpenAI 在国内 / 美国推行的策略。"
+}

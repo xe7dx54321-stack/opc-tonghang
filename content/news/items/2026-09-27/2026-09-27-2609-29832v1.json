@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-27-2609-29832v1",
+  "title": "System Identification of an Octocopter in Hover using Full-Harmonic Orthogonal Multisine Inputs",
+  "url": "http://arxiv.org/abs/2609.29832v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor",
+    "embodied-ai"
+  ],
+  "entities": [
+    "System Identification",
+    "Octocopter",
+    "Hover",
+    "Full",
+    "Harmonic Orthogonal Multisine Inputs",
+    "The",
+    "Orthogonality",
+    "An",
+    "Electrical"
+  ],
+  "publishedAt": "2026-09-24T14:03:41.000Z",
+  "fetchedAt": "2026-09-27T12:04:05.224Z",
+  "summary": "A new method for multi-input flight maneuver design for system identification is presented. The method consists of injecting \"full-harmonic\" orthogonal multisine signals into the flight control system. Orthogonality is achieved by repeating maneuvers with changing multisine polarities. The multisines can contain the same frequency content, which can simplify frequency response estimation and allow for long flight maneuvers to be split into several shorter maneuvers while maintaining the same fre",
+  "investorNote": "",
+  "score": 0.533,
+  "duplicateOf": null,
+  "clusterId": "2609.29832v1",
+  "displayTitle": "System Identification of an Octocopter in Hover using Full-H",
+  "narrative": "A new method for multi-input flight maneuver design for system identification is presented. The method consists of injecting \"full-harmonic\" orthogonal multisine signals into the flight control system. Orthogonality is achieved by repeating maneuvers"
+}

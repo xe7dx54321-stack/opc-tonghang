@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-27-2609-29939v1",
+  "title": "Safe Formation Control of Open Multi-Robot Systems with Connectivity-Preserving Reconfiguration",
+  "url": "http://arxiv.org/abs/2609.29939v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Safe Formation Control",
+    "Open Multi",
+    "Robot Systems",
+    "Connectivity",
+    "Preserving Reconfiguration We",
+    "OMRS",
+    "The",
+    "We",
+    "Lyapunov",
+    "To",
+    "Finally",
+    "Gazebo"
+  ],
+  "publishedAt": "2026-09-24T15:03:53.000Z",
+  "fetchedAt": "2026-09-27T12:04:18.046Z",
+  "summary": "We address the formation control problem for open multi-robot systems (OMRS), i.e., systems in which robots may join or leave the team during operation and new interaction links are established over time, subject to inter-robot collision-avoidance and connectivity-maintenance constraints. The robots are modeled by double integrators, and interact over a dynamic undirected graph. We design a distributed controller based on the gradient of a barrier-Lyapunov function. To enable team reconfiguratio",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.29939v1",
+  "displayTitle": "Safe Formation Control of Open Multi-Robot Systems with Conn",
+  "narrative": "We address the formation control problem for open multi-robot systems (OMRS), i.e., systems in which robots may join or leave the team during operation and new interaction links are established over time, subject to inter-robot collision-avoidance an"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-09-27-2609-30226v1",
+  "title": "PoEM: Predicting RL Outcomes from Existing Policies",
+  "url": "http://arxiv.org/abs/2609.30226v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "PoEM",
+    "Predicting RL Outcomes",
+    "Existing Policies Foundation",
+    "RL",
+    "This",
+    "We",
+    "First",
+    "Surprisingly",
+    "To"
+  ],
+  "publishedAt": "2026-09-24T17:50:25.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.772Z",
+  "summary": "Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is computationally intensive, sometimes unstable, and has to be run from scratch every time the reward model changes or when we want to combine multiple rewards. We hence ask: given a new reward function, is it possible to predict the RL outcomes without actually running RL on it? We answer this in the affirma",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30226v1",
+  "displayTitle": "PoEM: Predicting RL Outcomes from Existing Policies",
+  "narrative": "Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is computationally intensive, sometimes unstable, and has to "
+}

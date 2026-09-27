@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-27-2609-29913v1",
+  "title": "MILO: Efficient Many-shot In-Context Learning with Block-wise Low-rank Compression",
+  "url": "http://arxiv.org/abs/2609.29913v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "MILO",
+    "Efficient Many",
+    "In",
+    "Context Learning",
+    "Block",
+    "Low",
+    "Compression Many",
+    "ICL",
+    "LLMs",
+    "KV",
+    "Due",
+    "To",
+    "Specifically",
+    "Furthermore",
+    "Experimental"
+  ],
+  "publishedAt": "2026-09-24T14:52:24.000Z",
+  "fetchedAt": "2026-09-27T12:03:50.283Z",
+  "summary": "Many-shot in-context learning (ICL) enables large language models (LLMs) to adapt to complex tasks by conditioning on thousands of demonstration examples, but this paradigm shifts the inference efficiency bottleneck to the key-value (KV) cache memory. Due to the linear scaling behavior of the KV cache, storing these intermediate tensors has become a paramount challenge for both online serving and on-device deployment. To address this issue, we propose a novel compression framework, termed MILO, ",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.29913v1",
+  "displayTitle": "MILO: Efficient Many-shot In-Context Learning with Block-wis",
+  "narrative": "Many-shot in-context learning (ICL) enables large language models (LLMs) to adapt to complex tasks by conditioning on thousands of demonstration examples, but this paradigm shifts the inference efficiency bottleneck to the key-value (KV) cache memory"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-27-2609-29977v1",
+  "title": "Accelerating Branch MPC with Two-Level Parallel Direct Solves on GPUs",
+  "url": "http://arxiv.org/abs/2609.29977v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor",
+    "embodied-ai"
+  ],
+  "entities": [
+    "Accelerating Branch MPC",
+    "Two",
+    "Level Parallel Direct Solves",
+    "GPUs Branch",
+    "We",
+    "GPU",
+    "MPC",
+    "By",
+    "The",
+    "Cholesky",
+    "Numerical",
+    "PARDISO"
+  ],
+  "publishedAt": "2026-09-24T15:30:19.000Z",
+  "fetchedAt": "2026-09-27T12:04:18.046Z",
+  "summary": "Branch model predictive control optimizes multiple future trajectories coupled through shared decisions, with computational demands increasing as the number of scenarios and prediction horizon grow. We present a GPU-accelerated direct linear solver for branch MPC formulations in which all trajectories share a single root decision node and evolve independently thereafter. By operating at the linear-algebra level, the solver provides a reusable backend for multiple optimization algorithms whose re",
+  "investorNote": "",
+  "score": 0.533,
+  "duplicateOf": null,
+  "clusterId": "2609.29977v1",
+  "displayTitle": "Accelerating Branch MPC with Two-Level Parallel Direct Solve",
+  "narrative": "Branch model predictive control optimizes multiple future trajectories coupled through shared decisions, with computational demands increasing as the number of scenarios and prediction horizon grow. We present a GPU-accelerated direct linear solver f"
+}

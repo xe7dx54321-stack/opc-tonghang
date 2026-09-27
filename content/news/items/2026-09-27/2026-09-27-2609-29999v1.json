@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-27-2609-29999v1",
+  "title": "GHOST-Q: Towards Studying Grounding Hallucinations Overlooked Under Same-score TradeOffs in Quantized VLMS",
+  "url": "http://arxiv.org/abs/2609.29999v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "GHOST",
+    "TradeOffs",
+    "Quantized VLMS Post",
+    "VLMs",
+    "We",
+    "VLM",
+    "FP16",
+    "INT8",
+    "NF4",
+    "Rather",
+    "Five",
+    "MMStar",
+    "Same",
+    "Finally",
+    "AMBER",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T15:44:33.000Z",
+  "fetchedAt": "2026-09-27T12:04:00.354Z",
+  "summary": "Post-training quantization of vision--language models (VLMs) is typically assessed through aggregate task accuracy and memory savings, but preserving a headline score does not guarantee preservation of visual grounding behavior. We present GHOST-Q, a cross-precision controlled evaluation of three 8B VLM families under FP16, INT8, and NF4 across utility and hallucination-sensitive benchmarks. Rather than comparing only aggregate accuracy, we pair FP16 and quantized predictions item by-item to qua",
+  "investorNote": "",
+  "score": 0.533,
+  "duplicateOf": null,
+  "clusterId": "2609.29999v1",
+  "displayTitle": "GHOST-Q: Towards Studying Grounding Hallucinations Overlooke",
+  "narrative": "Post-training quantization of vision--language models (VLMs) is typically assessed through aggregate task accuracy and memory savings, but preserving a headline score does not guarantee preservation of visual grounding behavior. We present GHOST-Q, a"
+}

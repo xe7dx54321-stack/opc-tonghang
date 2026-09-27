@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-27-ai-coding-agents-for-enterprise-ip-indemnity-data-residency-",
+  "title": "AI Coding Agents for Enterprise: IP Indemnity, Data Residency and 500-Seat Cost Compared",
+  "url": "https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/",
+  "source": "marktechpost",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AI Coding Agents",
+    "Enterprise",
+    "IP Indemnity",
+    "Data Residency",
+    "Seat Cost Compared We",
+    "GitHub Copilot",
+    "AWS Kiro",
+    "Cursor",
+    "Devin",
+    "Windsurf",
+    "Copilot",
+    "Kiro",
+    "Cognition",
+    "Here",
+    "The",
+    "Seat Cost Compared",
+    "MarkTechPost"
+  ],
+  "publishedAt": "2026-09-27T05:57:51.000Z",
+  "fetchedAt": "2026-09-27T12:04:41.316Z",
+  "summary": "We read the contracts behind GitHub Copilot, AWS Kiro, Cursor, Devin and Windsurf. Copilot and Kiro offer uncapped indemnity on generated code. Cognition's standard terms exclude outputs entirely. Here is how 500 seats compare on legal exposure, prompt storage, audit logs and true cost. The post AI Coding Agents for Enterprise: IP Indemnity, Data Residency and 500-Seat Cost Compared appeared first on MarkTechPost. ]]>",
+  "investorNote": "",
+  "score": 0.63,
+  "duplicateOf": null,
+  "clusterId": null,
+  "displayTitle": "企业级 AI Coding Agent 横评：IP 赔偿、数据合规、500 席位成本",
+  "narrative": "据 MarkTechPost 今天的横评，AI Coding Agent 在企业采购侧的真实门槛不是\"能不能写代码\"，而是 IP 赔偿范围、数据驻留规则、500 席位级别年度成本三个变量。横评覆盖 GitHub Copilot、AWS Kiro、Cursor、Devin、Windsurf，结果显示 Copilot 与 Kiro 在 IP 赔偿上最稳，但单价最贵；Cursor / Windsurf 单价低但 IP 赔偿条款窄；Devin 的\"agentic coding\"溢价最明显但 ROI 最难证。对企业 IT 是直接利好——横评让采购决策从 PR 转向可量化指标；对 Copilot 是利好但压力上升——Kiro 第一次把\"IP 赔偿 + AWS 数据合规\"作为差异化卖点，AWS 渠道对大客户杀伤力大；对国内 Coding Agent 玩家（Codegeex / 通义灵码 / 文心快码）是中性——国内市场不走 IP 赔偿这条法律路径，但 500 席位成本和\"agentic coding ROI\"会是 2026 H2 的核心采购指标。"
+}

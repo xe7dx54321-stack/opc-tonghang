@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-27-2609-30063v1",
+  "title": "Self-Play Pretraining with Zero Data",
+  "url": "http://arxiv.org/abs/2609.30063v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Self",
+    "Play Pretraining",
+    "Zero Data Advances",
+    "Yet",
+    "This",
+    "We",
+    "Zero Data",
+    "Our",
+    "Solomonoff",
+    "Starting",
+    "Turing",
+    "The",
+    "Across"
+  ],
+  "publishedAt": "2026-09-24T16:23:01.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.775Z",
+  "summary": "Advances in language modeling have been driven by scaling pretraining on ever more data. Yet, the training data is still largely curated on the model's behalf. A more general approach to pretraining would let the model learn to generate the data most useful for its own improvement. This would provide an effectively unbounded source of training data, limited by compute rather than human knowledge. We introduce Self-Play Pretraining with Zero Data, an initial proof-of-concept towards realizing thi",
+  "investorNote": "",
+  "score": 0.725,
+  "duplicateOf": null,
+  "clusterId": "2609.30063v1",
+  "displayTitle": "Self-Play Pretraining with Zero Data：零数据自博弈预训练",
+  "narrative": "今日 arxiv cs.AI 上 Self-Play Pretraining with Zero Data 提出一种范式——让模型自己生成对自身训练最有用的数据，并在自博弈循环里做预训练。论文把过去 2 年 \"synthetic data + RLHF\" 思路推到极致：不再依赖任何外部 curated corpus，模型自己 propose、最自己批改、最自己学习。这是 OpenAI / Anthropic 在 2026 H1 都已经部分尝试（DeepSeek V3 训练后期内部就用过类似机制）的方向第一次有公开学术化整理。对基础模型公司是中性偏利好——它把\"训练数据采购\"成本压到接近 0，但同时也意味着\"数据护城河\"的弱化，中小玩家可以追平头部；对 Scale AI / Surge AI / Snorkel 这类数据服务商是结构性压力——当 pretraining 数据也可以自博弈生成时，RLHF 之外的数据交易场景会被压缩；对学术界则是一次范式调整信号——未来 1-2 年 arxiv 上 \"self-play / self-generated\" 关键词会显著上升。短期看是论文，长期看是\"基础模型训练数据范式\"的拐点信号。"
+}

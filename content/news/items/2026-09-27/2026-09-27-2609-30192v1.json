@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-27-2609-30192v1",
+  "title": "SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance",
+  "url": "http://arxiv.org/abs/2609.30192v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "SAGE",
+    "Mitigating Long",
+    "Horizon Reasoning Biases",
+    "Topological Guidance Long",
+    "LLMs",
+    "We",
+    "Symbolic Closure Analysis",
+    "SCA",
+    "Motivated",
+    "Structural Admissibility",
+    "Guided Exploration",
+    "Across",
+    "In",
+    "Andrews",
+    "Curtis",
+    "Code"
+  ],
+  "publishedAt": "2026-09-24T17:33:29.000Z",
+  "fetchedAt": "2026-09-27T12:03:45.774Z",
+  "summary": "Long-horizon reasoning remains a central challenge for large language models (LLMs) under sparse-reward regimes. We argue that this brittleness arises from two biases induced by complex reasoning spaces: an exploration bias, where models are drawn toward locally plausible but structurally unstable branches, and a compounding bias, where small local deviations accumulate across depth and suppress rare rewards. We introduce Symbolic Closure Analysis (SCA) as a theoretical lens characterizing how b",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.30192v1",
+  "displayTitle": "SAGE: Mitigating Long-Horizon Reasoning Biases via Topologic",
+  "narrative": "Long-horizon reasoning remains a central challenge for large language models (LLMs) under sparse-reward regimes. We argue that this brittleness arises from two biases induced by complex reasoning spaces: an exploration bias, where models are drawn to"
+}

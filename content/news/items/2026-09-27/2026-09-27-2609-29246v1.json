@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-27-2609-29246v1",
+  "title": "HBF-Sim: An Extensible HBF Simulator for Large-scale GPU Memory Systems",
+  "url": "http://arxiv.org/abs/2609.29246v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "HBF",
+    "Sim",
+    "An Extensible HBF Simulator",
+    "Large",
+    "GPU Memory Systems High",
+    "NAND",
+    "GPU",
+    "HBM",
+    "NVMe SSD",
+    "Its",
+    "To",
+    "SSD",
+    "We",
+    "GPUs",
+    "It",
+    "MSHR",
+    "Validation"
+  ],
+  "publishedAt": "2026-09-24T08:51:37.000Z",
+  "fetchedAt": "2026-09-27T12:04:13.722Z",
+  "summary": "High-bandwidth flash (HBF) is introduced to address the memory wall, which can co-package a dense NAND stack with the GPU, targeting the performance gap between near-accelerator bandwidth and flash density. HBF, however, is neither a large HBM nor a fast NVMe SSD. Its usable bandwidth depends on how GPU cache-line requests map onto NAND pages, how concurrency spreads across channel-affine die sets, and how media management interacts with the GPU memory pipeline. To our knowledge, existing GPU, S",
+  "investorNote": "",
+  "score": 0.635,
+  "duplicateOf": null,
+  "clusterId": "2609.29246v1",
+  "displayTitle": "HBF-Sim：大规模 GPU 内存系统的高带宽闪存模拟器",
+  "narrative": "今日 arxiv cs.AR 上 HBF-Sim 论文针对业界新提出的 \"High-Bandwidth Flash（HBF）\"——一种把密集 NAND stack 与 GPU co-package 的内存扩展方案——给出可扩展模拟器。HBF 既不是大容量 HBM 也不是快 NVMe SSD，其可用带宽取决于 GPU 如何调度，模拟器就成为评估 HBF 在真实 LLM 推理 / 训练负载下表现的关键工具。对 NVIDIA / AMD 是中性偏利好——HBF 一旦成熟，GPU 可用 memory pool 会从 80GB 跃升到 TB 级，是 LLM 推理成本曲线的下一个拐点；对国内存储芯片（长江存储 / 长鑫存储 / 兆易创新）是结构性利好——HBF 把 NAND 推到 GPU 旁边，是 NAND 价值链的纵向升级机会。短期看是论文 + 开源工具，长期看 HBF 模拟生态成熟度会决定 HBF 何时进入大规模量产。"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-27-2609-28883v1",
+  "title": "Direct and Indirect Data-Driven Control with Prior Information about the Equilibrium Manifold",
+  "url": "http://arxiv.org/abs/2609.28883v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Direct",
+    "Indirect Data",
+    "Driven Control",
+    "Prior Information",
+    "Equilibrium Manifold By",
+    "In",
+    "For",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T01:00:50.000Z",
+  "fetchedAt": "2026-09-27T12:04:18.048Z",
+  "summary": "By hinging on the assumption that a system to be controlled is fully unknown, many data-driven control approaches do not leverage available or readily inferable priors. In contrast to this viewpoint, this paper analyzes the impact of using the system's equilibrium subspace to inform direct and indirect linear quadratic regulation. For the indirect case, we show how including a constraint on the equilibrium subspace in the identification problem changes the statistical properties of the learned m",
+  "investorNote": "",
+  "score": 0.51,
+  "duplicateOf": null,
+  "clusterId": "2609.28883v1",
+  "displayTitle": "Direct and Indirect Data-Driven Control with Prior Informati",
+  "narrative": "By hinging on the assumption that a system to be controlled is fully unknown, many data-driven control approaches do not leverage available or readily inferable priors. In contrast to this viewpoint, this paper analyzes the impact of using the system"
+}
