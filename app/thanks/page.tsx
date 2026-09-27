@@ -15,6 +15,7 @@ export default function ThanksPage({ searchParams }: SearchParams) {
   const type = searchParams.type === 'harness' ? 'harness' : 'newsletter'
   const harnessSlug = searchParams.slug
   const harnessTitle = searchParams.title
+  const isDownloadableHarness = harnessSlug === 'primary-market-research'
 
   return (
     <section className="hero-glow relative isolate overflow-hidden border-b border-hair pb-16 pt-16">
@@ -32,11 +33,21 @@ export default function ThanksPage({ searchParams }: SearchParams) {
         {type === 'harness' ? (
           <>
             <p className="mt-4 text-lg leading-relaxed text-ink-2">
-              <span className="text-ink">{harnessTitle}</span> 上线 / 开放内测时，
-              我会第一时间通过邮件告诉你。
+              {isDownloadableHarness ? (
+                <>
+                  <span className="text-ink">{harnessTitle}</span> 的后续版本发布时，
+                  我会通过邮件告诉你。当前版本已可在详情页体验模拟支付并下载。
+                </>
+              ) : (
+                <>
+                  <span className="text-ink">{harnessTitle}</span> 上线 / 开放内测时，
+                  我会第一时间通过邮件告诉你。
+                </>
+              )}
             </p>
             <p className="mt-3 text-sm text-ink-3">
-              同时欢迎订阅月报，每月三件事（一份我看过的项目、一段当前市场判断、两条 AI 工作流实战）。
+              同时欢迎订阅月报，每月三件事（一份我看过的项目、一段当前市场判断、两条 AI
+              工作流实战）。
             </p>
           </>
         ) : (
@@ -80,15 +91,10 @@ export default function ThanksPage({ searchParams }: SearchParams) {
         </div>
 
         <div className="mt-10 rounded-lg border border-hair bg-bg-alt p-5 text-sm text-ink-2">
-          <span className="font-num text-[10px] uppercase tracking-[0.18em] text-accent">
-            /ps
-          </span>
+          <span className="font-num text-[10px] uppercase tracking-[0.18em] text-accent">/ps</span>
           <span className="ml-3">
             一人一公司，工具即武器。如果你也在做类似的事，欢迎{' '}
-            <a
-              href="mailto:hello@tonghanglab.com"
-              className="text-accent hover:underline"
-            >
+            <a href="mailto:hello@tonghanglab.com" className="text-accent hover:underline">
               邮件聊聊
             </a>
             。
@@ -100,10 +106,7 @@ export default function ThanksPage({ searchParams }: SearchParams) {
             ← 回到首页
           </Link>
           {harnessSlug && (
-            <Link
-              href={`/harness/${harnessSlug}/`}
-              className="text-ink-3 hover:text-accent"
-            >
+            <Link href={`/harness/${harnessSlug}/`} className="text-ink-3 hover:text-accent">
               回到 Harness 详情 →
             </Link>
           )}

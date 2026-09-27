@@ -9,25 +9,23 @@ export default function Projects() {
     <>
       {/* Hero */}
       <section className="border-b border-hair pb-10 pt-12">
-        <div className="font-num text-[11px] uppercase tracking-[0.22em] text-accent">
-          /harness
-        </div>
-        <h1 className="mt-3 text-brand-gradient text-4xl font-bold tracking-tight sm:text-5xl">
+        <div className="font-num text-[11px] uppercase tracking-[0.22em] text-accent">/harness</div>
+        <h1 className="text-brand-gradient mt-3 text-4xl font-bold tracking-tight sm:text-5xl">
           Harness 工具
         </h1>
         <p className="mt-4 max-w-2xl text-lg leading-relaxed text-ink-2">
-          每一件 Harness 都来自我真实跑过的项目。可以订阅，可以一次性买断。
-          不做二道贩子——只做经过实战验证的那一招。
+          把投研方法、工作流和证据规则装进可复用的本地工作区。第一套「一级市场行业与项目研究
+          Harness」现可查看详情、体验本地模拟支付并下载。
         </p>
         <div className="mt-6 flex flex-wrap gap-2 text-xs">
           <span className="rounded-md border border-hair bg-bg-card px-3 py-1.5 text-ink-2">
-            月付订阅 · 任意用
+            首款上架 · ¥49
           </span>
           <span className="rounded-md border border-hair bg-bg-card px-3 py-1.5 text-ink-2">
-            单件买断 · 永久用
+            ZIP 下载 · 本地运行
           </span>
           <span className="rounded-md border border-hair bg-bg-card px-3 py-1.5 text-ink-2">
-            团队授权 · 联系定制
+            支付流程 · 本地演示
           </span>
         </div>
       </section>
@@ -42,6 +40,11 @@ export default function Projects() {
               description={d.description}
               imgSrc={d.imgSrc}
               href={d.href}
+              code={d.code}
+              tag={d.tag}
+              status={d.status}
+              details={d.details}
+              price={d.price}
             />
           ))}
         </div>
@@ -49,9 +52,7 @@ export default function Projects() {
 
       {/* 价值主张 */}
       <section className="mt-8 rounded-2xl border border-hair bg-bg-card p-8 sm:p-12">
-        <div className="font-num text-[11px] uppercase tracking-[0.22em] text-accent">
-          /why
-        </div>
+        <div className="font-num text-[11px] uppercase tracking-[0.22em] text-accent">/why</div>
         <h2 className="mt-3 text-2xl font-bold tracking-tight text-ink sm:text-3xl">
           为什么这些 Harness 值得付费？
         </h2>

@@ -10,12 +10,14 @@ export default function robots(): MetadataRoute.Robots {
         userAgent: '*',
         allow: '/',
         // 屏蔽后台 / 内部路由
-        disallow: ['/api/', '/thanks', '/thanks/'],
-      },
-      // 暂屏蔽 Harness 详情页（等 Stripe 接入后再开放）
-      {
-        userAgent: '*',
-        disallow: ['/harness', '/harness/'],
+        disallow: [
+          '/api/',
+          '/thanks',
+          '/thanks/',
+          '/harness/oneliner-comp/',
+          '/harness/research-digest/',
+          '/harness/signal-radar/',
+        ],
       },
     ],
     sitemap: `${siteMetadata.siteUrl}/sitemap.xml`,

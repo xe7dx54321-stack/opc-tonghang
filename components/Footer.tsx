@@ -41,7 +41,7 @@ export default function Footer() {
             <Link href="/" className="hover:text-ink-2">
               首页
             </Link>
-            <Link href="/blog" className="hover:text-ink-2">
+            <Link href="/research" className="hover:text-ink-2">
               研究
             </Link>
             <Link href="/projects" className="hover:text-ink-2">

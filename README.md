@@ -60,6 +60,12 @@ npm run dev
 > 注意：在 WeSight / Electron 环境下，默认 `node` 是 Electron 壳（Team ID 与 SWC 不匹配），
 > 必须用 `/usr/local/bin/node`（系统 Node 24+）。`dev.sh` 已自动处理。
 
+### 研究板块
+
+`/research/` 展示两条独立内容线：每周人工确认的赛道研究、周一和周五自动筛选的信号追踪。源文件分别在相邻的 `industry-research-harness/content/published/` 和 `signal-research-harness/content/published/`；`scripts/sync-research.mjs` 只把已发布且通过元数据检查的文章复制到 `content/research/`。本地 `npm run dev` / `npm run build` 会自动同步；单独运行可用 `npm run sync-research`。自用 Wiki、项目资料、选题计划和草稿不会进入网站快照。
+
+赛道研究的两次用户确认由自己的 Harness 状态机控制。信号追踪的 macOS 定时任务定义在 `../signal-research-harness/launchd/`；生产 `/research/` 页面可访问之前，安装脚本会拒绝启用自动推送。
+
 ## 目录结构
 
 ```

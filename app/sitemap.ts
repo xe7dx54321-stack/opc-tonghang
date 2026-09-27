@@ -2,6 +2,7 @@ import { MetadataRoute } from 'next'
 import { allBlogs } from 'contentlayer/generated'
 import siteMetadata from '@/data/siteMetadata'
 import { NEWS_TOPICS, listDaily, listResearch } from '@/lib/news'
+import { listResearchArticles } from '@/lib/research'
 
 export const dynamic = 'force-static'
 
@@ -25,21 +26,36 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: `${siteUrl}/news/research/${e.slug}`,
     lastModified: e.meta.generatedAt ?? today,
   }))
+  const newResearchRoutes = listResearchArticles().map((article) => ({
+    url: `${siteUrl}/research/${article.channel}/${article.id}`,
+    lastModified: article.publishedAt ?? article.date,
+  }))
   // 新闻 topic 聚合页
   const topicRoutes = NEWS_TOPICS.map((topic) => ({
     url: `${siteUrl}/news/topic/${topic.slug}`,
     lastModified: today,
   }))
 
-  const staticRoutes = ['', 'blog', 'projects', 'tags', 'news', 'news/archive', 'news/research'].map((route) => ({
+  const staticRoutes = [
+    '',
+    'blog',
+    'research',
+    'projects',
+    'tags',
+    'news',
+    'news/archive',
+    'news/research',
+  ].map((route) => ({
     url: `${siteUrl}/${route}`,
     lastModified: today,
   }))
 
   return [
     ...staticRoutes,
+    { url: `${siteUrl}/harness/primary-market-research`, lastModified: today },
     ...newsRoutes,
     ...researchRoutes,
+    ...newResearchRoutes,
     ...topicRoutes,
     ...blogRoutes,
   ]

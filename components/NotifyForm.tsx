@@ -8,6 +8,7 @@ interface NotifyFormProps {
   harnessTitle: string
   className?: string
   cta?: string
+  hint?: string
 }
 
 export default function NotifyForm({
@@ -15,6 +16,7 @@ export default function NotifyForm({
   harnessTitle,
   className = '',
   cta = '预约内测 / 上线通知',
+  hint = 'Harness 上线 / 开放内测时第一时间通知你。',
 }: NotifyFormProps) {
   const router = useRouter()
   const [email, setEmail] = useState('')
@@ -71,15 +73,13 @@ export default function NotifyForm({
         <button
           type="submit"
           disabled={status === 'loading' || status === 'success'}
-          className="inline-flex items-center justify-center gap-2 rounded-md bg-brand-gradient px-5 py-2.5 text-sm font-semibold text-bg transition hover:brightness-110 disabled:opacity-60"
+          className="bg-brand-gradient inline-flex items-center justify-center gap-2 rounded-md px-5 py-2.5 text-sm font-semibold text-bg transition hover:brightness-110 disabled:opacity-60"
         >
           {status === 'loading' ? '提交中...' : status === 'success' ? '✓ 已记录' : cta}
         </button>
       </div>
       {status === 'error' && <p className="mt-2 text-xs text-danger">{errorMsg}</p>}
-      <p className="mt-2 text-xs text-ink-3">
-        Harness 上线 / 开放内测时第一时间通知你。
-      </p>
+      <p className="mt-2 text-xs text-ink-3">{hint}</p>
     </form>
   )
 }

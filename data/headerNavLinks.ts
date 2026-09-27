@@ -1,6 +1,6 @@
 const headerNavLinks = [
   { href: '/', title: '首页' },
-  { href: '/blog', title: '研究' },
+  { href: '/research', title: '研究' },
   { href: '/projects', title: 'Harness 工具' },
   { href: '/news', title: '新闻' },
   { href: '/uses', title: '工具栈' },

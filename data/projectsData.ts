@@ -6,17 +6,25 @@ interface Project {
   code?: string
   tag?: string
   status?: 'live' | 'beta' | 'soon'
+  details?: string[]
+  price?: string
 }
 
 const projectsData: Project[] = [
   {
     code: 'TX-001',
-    title: '尽调骨架 · DD-Skeleton',
+    title: '一级市场行业与项目研究 Harness',
     description:
-      '把一份 BP 在 30 分钟内拆成技术 / 商业 / 财务 / 团队四个可对比的卡片，附带 50 个常见红旗问题清单。',
-    imgSrc: '/static/images/harness-dd.svg',
-    href: '/harness/dd-skeleton',
-    tag: 'Pre-Seed → A',
+      '一套可直接在 Codex 中运行的一级市场投研工作区。从 BP 和访谈材料出发，依次完成行业定位、细分筛选、行业与项目深研、尽调设计及投资判断；每一步保留证据、假设与反证。',
+    details: [
+      '15 个 Skills + 3 个研究/复核 Agent',
+      '内含工作流、证据标准、报告模板与行业 Wiki',
+      '下载 ZIP，解压后按 SETUP.md 在本地使用',
+    ],
+    price: '¥49 · 一次性下载',
+    imgSrc: '/static/images/harness-primary-market.svg',
+    href: '/harness/primary-market-research',
+    tag: 'PE / VC 投研',
     status: 'live',
   },
   {

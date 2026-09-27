@@ -39,9 +39,10 @@ function computeFeaturedTags(posts: Post[], topN = 6): string[] {
 const HARNESS_CARDS = [
   {
     code: 'TX-001',
-    name: '尽调骨架 · DD-Skeleton',
-    desc: '把一份 BP 在 30 分钟内拆成技术 / 商业 / 财务 / 团队四个可对比的卡片。',
-    tag: 'Pre-Seed → A',
+    name: '一级市场行业与项目研究 Harness',
+    desc: '从行业定位到尽调与投资判断的完整本地工作区，15 个 Skills、3 个 Agent，¥49 下载。',
+    tag: '已上架',
+    href: '/harness/primary-market-research',
   },
   {
     code: 'TX-002',
@@ -73,8 +74,8 @@ export default function Main({ posts, latestNews = null }: Props) {
         <div className="bg-grid-faint absolute inset-0 -z-10 opacity-60" />
         <div className="relative">
           {/* 顶部元信息行 */}
-          <div className="mb-10 flex flex-wrap items-center gap-3 font-num text-[11px] uppercase tracking-[0.22em] text-ink-3">
-            <span className="inline-flex items-center gap-2 rounded-full border border-hair bg-glass-strong px-3 py-1">
+          <div className="font-num mb-10 flex flex-wrap items-center gap-3 text-[11px] uppercase tracking-[0.22em] text-ink-3">
+            <span className="bg-glass-strong inline-flex items-center gap-2 rounded-full border border-hair px-3 py-1">
               <span className="relative flex h-2 w-2">
                 <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-success opacity-60" />
                 <span className="relative inline-flex h-2 w-2 rounded-full bg-success" />
@@ -88,7 +89,7 @@ export default function Main({ posts, latestNews = null }: Props) {
           </div>
 
           {/* 主标题 */}
-          <h1 className="text-brand-gradient font-bold tracking-tight text-[36px] leading-[1.1] sm:text-5xl md:text-6xl lg:text-7xl">
+          <h1 className="text-brand-gradient text-[36px] font-bold leading-[1.1] tracking-tight sm:text-5xl md:text-6xl lg:text-7xl">
             和同行的人
             <br />
             走得更深一点。
@@ -96,22 +97,22 @@ export default function Main({ posts, latestNews = null }: Props) {
 
           {/* 副标题 */}
           <p className="mt-6 max-w-2xl text-lg leading-relaxed text-ink-2 sm:text-xl">
-            同行实验室是一个由 PE/VC 投资人独立运营的研究与工具实验室。
-            聚焦 <span className="text-ink">AI、半导体、新能源、机器人</span> 等硬科技方向，
-            把经过实战验证的投资方法论、AI 工作流、以及真正能跑通的 Harness 工具开源出来。
+            同行实验室是一个由 PE/VC 投资人独立运营的研究与工具实验室。 聚焦{' '}
+            <span className="text-ink">AI、半导体、新能源、机器人</span> 等硬科技方向，
+            把投研方法论、AI 工作流和可执行的 Harness 工具整理成可复用的内容与本地工作区。
           </p>
 
           {/* CTA 行 */}
           <div className="mt-10 flex flex-wrap items-center gap-3">
             <Link
-              href="/blog"
-              className="inline-flex items-center gap-2 rounded-md bg-brand-gradient px-5 py-2.5 text-sm font-semibold text-bg shadow-[0_0_0_1px_rgba(0,224,199,0.4),0_8px_24px_-8px_rgba(0,224,199,0.6)] transition hover:brightness-110"
+              href="/research"
+              className="bg-brand-gradient inline-flex items-center gap-2 rounded-md px-5 py-2.5 text-sm font-semibold text-bg shadow-[0_0_0_1px_rgba(0,224,199,0.4),0_8px_24px_-8px_rgba(0,224,199,0.6)] transition hover:brightness-110"
             >
               阅读最新研究 →
             </Link>
             <Link
               href="/projects"
-              className="inline-flex items-center gap-2 rounded-md border border-hair-2 bg-bg-card px-5 py-2.5 text-sm font-semibold text-ink transition hover:border-accent hover:text-accent"
+              className="border-hair-2 inline-flex items-center gap-2 rounded-md border bg-bg-card px-5 py-2.5 text-sm font-semibold text-ink transition hover:border-accent hover:text-accent"
             >
               试用 Harness 工具
             </Link>
@@ -129,7 +130,7 @@ export default function Main({ posts, latestNews = null }: Props) {
               { k: '10+', v: '年 PE/VC 经验' },
               { k: '8', v: '个硬科技细分赛道' },
               { k: '30+', v: '被投企业 + 跟踪标的' },
-              { k: '4', v: '可交付 Harness' },
+              { k: '1', v: '已上架 Harness' },
             ].map((s) => (
               <div key={s.v} className="flex flex-col">
                 <div className="font-num text-2xl font-bold tracking-tight text-ink sm:text-3xl">
@@ -145,11 +146,9 @@ export default function Main({ posts, latestNews = null }: Props) {
       {/* ============ BENTO GRID ============ */}
       <section className="mt-16 grid grid-cols-1 gap-4 md:grid-cols-3">
         {/* 现在在做什么 */}
-        <div className="rounded-xl border border-hair bg-bg-card p-6 transition hover:border-hair-2 md:col-span-2">
+        <div className="hover:border-hair-2 rounded-xl border border-hair bg-bg-card p-6 transition md:col-span-2">
           <div className="flex items-center justify-between">
-            <div className="font-num text-[11px] uppercase tracking-[0.18em] text-accent">
-              /now
-            </div>
+            <div className="font-num text-[11px] uppercase tracking-[0.18em] text-accent">/now</div>
             <div className="font-num text-[11px] text-ink-3">Updated · 2026-09</div>
           </div>
           <h3 className="mt-3 text-lg font-semibold text-ink">当前在做什么</h3>
@@ -169,17 +168,17 @@ export default function Main({ posts, latestNews = null }: Props) {
               </span>
             </li>
             <li className="flex gap-3">
-              <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-warning" />
+              <span className="bg-warning mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full" />
               <span>
-                <span className="text-ink">正在搭：</span>Harness 工具集的第一个 SaaS 化页面（Stripe
-                Checkout + 邮箱交付）。
+                <span className="text-ink">已上线：</span>一级市场投研 Harness
+                的本地下载与模拟支付体验。
               </span>
             </li>
           </ul>
         </div>
 
         {/* 关于我 */}
-        <div className="rounded-xl border border-hair bg-bg-card p-6 transition hover:border-hair-2">
+        <div className="hover:border-hair-2 rounded-xl border border-hair bg-bg-card p-6 transition">
           <div className="font-num text-[11px] uppercase tracking-[0.18em] text-accent">/about</div>
           <h3 className="mt-3 text-lg font-semibold text-ink">在做这件事的人</h3>
           <p className="mt-3 text-sm leading-relaxed text-ink-2">
@@ -195,7 +194,7 @@ export default function Main({ posts, latestNews = null }: Props) {
         </div>
 
         {/* Harness 工具（占满整行） */}
-        <div className="rounded-xl border border-hair bg-bg-card p-6 transition hover:border-hair-2 md:col-span-3">
+        <div className="hover:border-hair-2 rounded-xl border border-hair bg-bg-card p-6 transition md:col-span-3">
           <div className="flex items-center justify-between">
             <div className="font-num text-[11px] uppercase tracking-[0.18em] text-accent">
               /harness
@@ -209,12 +208,16 @@ export default function Main({ posts, latestNews = null }: Props) {
           </div>
           <h3 className="mt-3 text-lg font-semibold text-ink">可执行的 Harness 工具</h3>
           <p className="mt-2 text-sm text-ink-2">
-            把投研流程拆成可独立运行的 Harness。每一件都来自我真实跑过的项目，可订阅、可一次性买断。
+            第一套一级市场投研 Harness 已开放本地模拟支付与 ZIP 下载，其他工具可继续查看详情。
           </p>
           <div className="mt-5 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
             {HARNESS_CARDS.map((h) => (
-              <div
+              <Link
                 key={h.code}
+                href={
+                  h.href ||
+                  `/harness/${h.code === 'TX-002' ? 'oneliner-comp' : h.code === 'TX-003' ? 'research-digest' : 'signal-radar'}`
+                }
                 className="group rounded-lg border border-hair bg-bg p-4 transition hover:border-accent/40 hover:bg-bg-alt"
               >
                 <div className="flex items-center justify-between">
@@ -227,13 +230,13 @@ export default function Main({ posts, latestNews = null }: Props) {
                 </div>
                 <div className="mt-3 text-sm font-semibold text-ink">{h.name}</div>
                 <div className="mt-2 text-xs leading-relaxed text-ink-3">{h.desc}</div>
-              </div>
+              </Link>
             ))}
           </div>
         </div>
 
         {/* 关注的标签云 */}
-        <div className="rounded-xl border border-hair bg-bg-card p-6 transition hover:border-hair-2 md:col-span-1">
+        <div className="hover:border-hair-2 rounded-xl border border-hair bg-bg-card p-6 transition md:col-span-1">
           <div className="font-num text-[11px] uppercase tracking-[0.18em] text-accent">
             /topics
           </div>
@@ -257,22 +260,17 @@ export default function Main({ posts, latestNews = null }: Props) {
         </div>
 
         {/* 订阅 */}
-        <div className="rounded-xl border border-hair bg-card-gradient p-6">
+        <div className="bg-card-gradient rounded-xl border border-hair p-6">
           <div className="font-num text-[11px] uppercase tracking-[0.18em] text-accent">
             /newsletter
           </div>
           <h3 className="mt-3 text-lg font-semibold text-ink">每月一封研究月报</h3>
           <p className="mt-2 text-sm text-ink-2">
-            一份我看过的项目、一段当前市场判断、两条 AI 工作流实战。
-            不发广告，可随时退订。
+            一份我看过的项目、一段当前市场判断、两条 AI 工作流实战。 不发广告，可随时退订。
           </p>
-          <NewsletterForm
-            source="home-newsletter-card"
-            cta="免费订阅"
-            className="mt-4"
-          />
+          <NewsletterForm source="home-newsletter-card" cta="免费订阅" className="mt-4" />
           <Link
-            href="/blog/"
+            href="/research"
             className="mt-4 inline-flex items-center gap-1 text-sm font-medium text-accent hover:underline"
           >
             先看最近研究 →
@@ -292,7 +290,7 @@ export default function Main({ posts, latestNews = null }: Props) {
             </h2>
           </div>
           <Link
-            href="/blog"
+            href="/research"
             className="font-num text-[11px] uppercase tracking-[0.18em] text-ink-3 hover:text-accent"
           >
             All Posts →
@@ -315,10 +313,7 @@ export default function Main({ posts, latestNews = null }: Props) {
                   </dl>
                   <div className="col-span-12 sm:col-span-9">
                     <h3 className="text-lg font-semibold tracking-tight text-ink">
-                      <Link
-                        href={`/blog/${slug}`}
-                        className="transition group-hover:text-accent"
-                      >
+                      <Link href={`/blog/${slug}`} className="transition group-hover:text-accent">
                         {title}
                       </Link>
                     </h3>
@@ -326,7 +321,9 @@ export default function Main({ posts, latestNews = null }: Props) {
                       <p className="mt-2 text-sm leading-relaxed text-ink-2">{summary}</p>
                     )}
                     <div className="mt-3 flex flex-wrap gap-1.5">
-                      {tags?.map((t) => <Tag key={t} text={t} />)}
+                      {tags?.map((t) => (
+                        <Tag key={t} text={t} />
+                      ))}
                     </div>
                   </div>
                 </article>
@@ -354,13 +351,13 @@ export default function Main({ posts, latestNews = null }: Props) {
           <div className="flex flex-col gap-3 md:items-end">
             <a
               href={`mailto:${siteMetadata.email}`}
-              className="inline-flex items-center justify-center gap-2 rounded-md bg-brand-gradient px-5 py-2.5 text-sm font-semibold text-bg transition hover:brightness-110"
+              className="bg-brand-gradient inline-flex items-center justify-center gap-2 rounded-md px-5 py-2.5 text-sm font-semibold text-bg transition hover:brightness-110"
             >
               {siteMetadata.email} →
             </a>
             <Link
               href="/projects"
-              className="inline-flex items-center justify-center gap-2 rounded-md border border-hair-2 bg-bg-card px-5 py-2.5 text-sm font-semibold text-ink transition hover:border-accent hover:text-accent"
+              className="border-hair-2 inline-flex items-center justify-center gap-2 rounded-md border bg-bg-card px-5 py-2.5 text-sm font-semibold text-ink transition hover:border-accent hover:text-accent"
             >
               查看 Harness
             </Link>

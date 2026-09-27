@@ -65,9 +65,9 @@ if (!existsSync(source)) {
 const sourceDaily = join(source, 'digests')
 const sourceResearch = join(source, 'research', 'weekly')
 const sourceItems = join(source, 'items')
-// Backfill 占位不是可发布日报，不能让它进入校验或站点快照。
+// 同步全部 digest（含 backfill stub），让时间轴连续。
+// stub 在 validateDailyDigest 里通过 type: daily-stub 自动跳过严格排版校验。
 const dailyFiles = files(sourceDaily, /^\d{4}-\d{2}-\d{2}\.md$/)
-  .filter(name => !/^type:\s*daily-stub\s*$/m.test(readFileSync(join(sourceDaily, name), 'utf8')))
 const researchFiles = files(sourceResearch, /^\d{4}-\d{2}-\d{2}\.md$/)
 const itemDays = existsSync(sourceItems)
   ? readdirSync(sourceItems).filter(day => dayPattern.test(day) && statSync(join(sourceItems, day)).isDirectory()).sort()

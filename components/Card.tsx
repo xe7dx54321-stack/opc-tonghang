@@ -9,6 +9,8 @@ interface CardProps {
   code?: string
   tag?: string
   status?: 'live' | 'beta' | 'soon'
+  details?: string[]
+  price?: string
 }
 
 const STATUS_STYLES: Record<string, string> = {
@@ -23,7 +25,17 @@ const STATUS_LABELS: Record<string, string> = {
   soon: '○ Soon',
 }
 
-const Card = ({ title, description, imgSrc, href, code, tag, status }: CardProps) => (
+const Card = ({
+  title,
+  description,
+  imgSrc,
+  href,
+  code,
+  tag,
+  status,
+  details,
+  price,
+}: CardProps) => (
   <div className="max-w-[544px] p-4 md:w-1/2">
     <div className="h-full overflow-hidden rounded-xl border border-hair bg-bg-card transition hover:border-accent/40">
       {imgSrc && (
@@ -49,7 +61,7 @@ const Card = ({ title, description, imgSrc, href, code, tag, status }: CardProps
           )}
           {status && (
             <div
-              className={`absolute right-3 top-3 rounded-md border px-2 py-1 font-num text-[10px] uppercase tracking-[0.18em] backdrop-blur-md ${STATUS_STYLES[status]}`}
+              className={`font-num absolute right-3 top-3 rounded-md border px-2 py-1 text-[10px] uppercase tracking-[0.18em] backdrop-blur-md ${STATUS_STYLES[status]}`}
             >
               {STATUS_LABELS[status]}
             </div>
@@ -69,7 +81,7 @@ const Card = ({ title, description, imgSrc, href, code, tag, status }: CardProps
             </div>
           )}
         </div>
-        <h2 className="mt-3 mb-3 text-xl font-bold leading-7 tracking-tight text-ink">
+        <h2 className="mb-3 mt-3 text-xl font-bold leading-7 tracking-tight text-ink">
           {href ? (
             <Link href={href} aria-label={`Link to ${title}`} className="hover:text-accent">
               {title}
@@ -79,13 +91,24 @@ const Card = ({ title, description, imgSrc, href, code, tag, status }: CardProps
           )}
         </h2>
         <p className="mb-4 max-w-none text-sm leading-relaxed text-ink-2">{description}</p>
+        {details && (
+          <ul className="mb-5 space-y-2 text-sm leading-relaxed text-ink-2">
+            {details.map((detail) => (
+              <li key={detail} className="flex gap-2">
+                <span className="text-accent">✓</span>
+                <span>{detail}</span>
+              </li>
+            ))}
+          </ul>
+        )}
+        {price && <p className="mb-4 text-base font-semibold text-accent">{price}</p>}
         {href && (
           <Link
             href={href}
             className="text-sm font-medium text-accent hover:underline"
             aria-label={`Link to ${title}`}
           >
-            查看详情 →
+            {price ? '查看详情与获取方式 →' : '查看详情 →'}
           </Link>
         )}
       </div>

@@ -5,7 +5,7 @@ export const runtime = 'nodejs'
 export const dynamic = 'force-dynamic'
 
 const VALID_HARNESS_SLUGS = new Set([
-  'dd-skeleton',
+  'primary-market-research',
   'oneliner-comp',
   'research-digest',
   'signal-radar',
