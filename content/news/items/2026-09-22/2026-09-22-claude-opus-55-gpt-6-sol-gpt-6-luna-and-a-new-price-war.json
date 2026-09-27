@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-22-claude-opus-55-gpt-6-sol-gpt-6-luna-and-a-new-price-war",
+  "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+  "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Claude Opus",
+    "GPT",
+    "Sol",
+    "Luna",
+    "Yesterday",
+    "Grok",
+    "MiMo",
+    "Flash",
+    "Pro",
+    "Today Anthropic",
+    "OpenAI",
+    "It"
+  ],
+  "publishedAt": "2026-09-22T23:46:41.000Z",
+  "fetchedAt": "2026-09-27T12:43:04.780Z",
+  "summary": "&lt;p&gt;Yesterday was &lt;a href=\"https://x.ai/news/grok-4-7\"&gt;Grok 4.7&lt;/a&gt; (&lt;a href=\"https://news.ycombinator.com/item?id=49788838#49790209\"&gt;pelicans&lt;/a&gt;) and &lt;a href=\"https://mimo.xiaomi.com/mimo-v2-6\"&gt;MiMo v2.6 Flash/Pro&lt;/a&gt; (&lt;a href=\"https://news.ycombinator.com/item?id=49792730#49793480\"&gt;more pelicans&lt;/a&gt;). Today Anthropic &lt;a href=\"https://www.anthropic.com/claude-opus-5-5\"&gt;released Claude Opus 5.5&lt;/a&gt;, and around an hour later OpenAI",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": "",
+    "lang": "en"
+  }
+}

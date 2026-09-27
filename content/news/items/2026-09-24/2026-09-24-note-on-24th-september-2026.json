@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-24-note-on-24th-september-2026",
+  "title": "Note on 24th September 2026",
+  "url": "https://simonwillison.net/2026/Sep/24/harder/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Note",
+    "September",
+    "The",
+    "We",
+    "Tags"
+  ],
+  "publishedAt": "2026-09-24T23:31:08.000Z",
+  "fetchedAt": "2026-09-27T12:43:04.780Z",
+  "summary": "&lt;p&gt;The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.&lt;/p&gt; &lt;p&gt;We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.&lt;/p&gt; &lt;p&gt;Tags: &lt;a href=\"https://simonwillison.net/tags/coding-agents\"&gt;coding-agents&lt;/a&gt;, &lt;a href=\"https://simonwillison.net/tags/ai\"&gt;ai&lt;/a&gt;, &lt;a href=\"https://simonwillison.net/tags/llms\"&gt;ll",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": "",
+    "lang": "en"
+  }
+}

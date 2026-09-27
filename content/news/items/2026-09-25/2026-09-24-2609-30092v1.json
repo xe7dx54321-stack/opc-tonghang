@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-24-2609-30092v1",
+  "title": "Self-Adaptive VLA for Robust Robot Deployment",
+  "url": "http://arxiv.org/abs/2609.30092v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Self",
+    "Adaptive VLA",
+    "Robust Robot Deployment While Vision",
+    "Language",
+    "Action",
+    "VLA",
+    "Enabling",
+    "In",
+    "To",
+    "We",
+    "Next",
+    "This",
+    "AdaLN",
+    "Furthermore",
+    "Extensive",
+    "Moreover",
+    "Our",
+    "See"
+  ],
+  "publishedAt": "2026-09-24T16:37:46.000Z",
+  "fetchedAt": "2026-09-27T12:51:17.112Z",
+  "summary": "While Vision-Language-Action (VLA) models demonstrate impressive capabilities in robotic manipulation, their memoryless nature renders them brittle to test-time environment shifts, particularly hardware shifts caused by wear or imperfect calibration. Enabling these models to self-adapt during deployment without requiring continuous on-site recalibration remains a critical bottleneck for real-world scalability. In this work, we introduce Self-Adaptive VLA, a novel post-training recipe that enable",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30092v1",
+  "raw": {
+    "arxivId": "2609.30092v1",
+    "category": "cs.CV"
+  }
+}

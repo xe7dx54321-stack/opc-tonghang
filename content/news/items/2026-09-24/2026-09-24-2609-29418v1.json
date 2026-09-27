@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-24-2609-29418v1",
+  "title": "Controlling Backchannels in Streamable Full-duplex Models",
+  "url": "http://arxiv.org/abs/2609.29418v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Controlling Backchannels",
+    "Streamable Full",
+    "Models Backchannels",
+    "We",
+    "Once",
+    "Attached",
+    "PersonaPlex",
+    "Actor",
+    "Probing",
+    "Human"
+  ],
+  "publishedAt": "2026-09-24T11:38:40.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.870Z",
+  "summary": "Backchannels, brief acknowledgements like \"uh-huh\" produced while the other party may still be talking, are central to natural conversation, but full-duplex spoken dialogue models rarely model them explicitly. We introduce a lightweight backchannel head that predicts, from a full-duplex model's own hidden states, when a backchannel should begin. Once this probability crosses a tunable threshold, a backchannel is force-decoded. Attached to both a 7B (PersonaPlex) and a 1B (F-Actor) model, it gene",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29418v1",
+  "raw": {
+    "arxivId": "2609.29418v1",
+    "category": "cs.HC"
+  }
+}

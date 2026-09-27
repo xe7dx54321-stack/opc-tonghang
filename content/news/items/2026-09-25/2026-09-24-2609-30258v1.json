@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-24-2609-30258v1",
+  "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
+  "url": "http://arxiv.org/abs/2609.30258v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Temporal Gradient Inversion",
+    "Private Trajectory Reconstruction",
+    "Yet",
+    "We",
+    "Temporal Reconstruction Attack",
+    "Consecutive Encodings",
+    "TRACE",
+    "The",
+    "On",
+    "PSNR",
+    "Further",
+    "Defense"
+  ],
+  "publishedAt": "2026-09-24T17:59:18.000Z",
+  "fetchedAt": "2026-09-27T12:51:13.448Z",
+  "summary": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal structure can amplify this leakage beyond single-frame attacks. We introduce Temporal Reconstruction Attack on Consecutive Encodings (TRACE), an amortized temporal gradient-inversion attack that autoregressively reconstructs the sequence of private observation-action trajectories from per-step policy-le",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30258v1",
+  "raw": {
+    "arxivId": "2609.30258v1",
+    "category": "cs.LG"
+  }
+}

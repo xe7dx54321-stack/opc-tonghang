@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-24-2609-30099v1",
+  "title": "Compiler and Hardware Co-Design for Accelerator Architectures",
+  "url": "http://arxiv.org/abs/2609.30099v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Compiler",
+    "Hardware Co",
+    "Design",
+    "Accelerator Architectures Heterogeneous",
+    "However",
+    "We",
+    "EAAC",
+    "Extensible Accelerator Architecture",
+    "By",
+    "MLIR",
+    "And",
+    "GEMM",
+    "RISC",
+    "EAAC MLIR",
+    "On"
+  ],
+  "publishedAt": "2026-09-24T16:44:09.000Z",
+  "fetchedAt": "2026-09-27T12:51:33.090Z",
+  "summary": "Heterogeneous accelerator architectures offer an efficient path to performance for compute-intensive workloads. However, full-stack integration remains difficult. We present EAAC (Extensible Accelerator Architecture), a flexible and extensible compiler and hardware architecture designed to lower the overhead of hardware-compiler co-development for rapid prototyping of hardware accelerators. EAAC targets static data-flow workloads with predictable memory access patterns. By using MLIR, we enable ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30099v1",
+  "raw": {
+    "arxivId": "2609.30099v1",
+    "category": "cs.AR"
+  }
+}

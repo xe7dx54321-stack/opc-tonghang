@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-24-2609-29406v1",
+  "title": "Evaluating the Effect of the Order of Optimization Passes in Quantum Circuit Optimization",
+  "url": "http://arxiv.org/abs/2609.29406v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Evaluating",
+    "Effect",
+    "Order",
+    "Optimization Passes",
+    "Quantum Circuit Optimization Quantum",
+    "Quantum",
+    "The",
+    "This",
+    "Using Qiskit",
+    "Our",
+    "In",
+    "Experiments",
+    "We"
+  ],
+  "publishedAt": "2026-09-24T11:30:57.000Z",
+  "fetchedAt": "2026-09-27T12:50:44.402Z",
+  "summary": "Quantum circuit optimization is critical for mitigating the noise inherent in current quantum hardware. Quantum compilers typically sequentially apply multiple optimizations (also called ``optimization passes'') to improve the circuit. The impact of the order in which these passes are executed has yet been largely unexplored. This paper investigates the significance of the order of optimization passes within quantum circuit compilation, specifically analyzing interactions between different optim",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29406v1",
+  "raw": {
+    "arxivId": "2609.29406v1",
+    "category": "cs.PF"
+  }
+}

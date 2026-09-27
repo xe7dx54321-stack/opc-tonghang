@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-24-2609-29246v1",
+  "title": "HBF-Sim: An Extensible HBF Simulator for Large-scale GPU Memory Systems",
+  "url": "http://arxiv.org/abs/2609.29246v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "HBF",
+    "Sim",
+    "An Extensible HBF Simulator",
+    "Large",
+    "GPU Memory Systems High",
+    "NAND",
+    "GPU",
+    "HBM",
+    "NVMe SSD",
+    "Its",
+    "To",
+    "SSD",
+    "We",
+    "GPUs",
+    "It",
+    "MSHR",
+    "Validation"
+  ],
+  "publishedAt": "2026-09-24T08:51:37.000Z",
+  "fetchedAt": "2026-09-27T12:50:36.529Z",
+  "summary": "High-bandwidth flash (HBF) is introduced to address the memory wall, which can co-package a dense NAND stack with the GPU, targeting the performance gap between near-accelerator bandwidth and flash density. HBF, however, is neither a large HBM nor a fast NVMe SSD. Its usable bandwidth depends on how GPU cache-line requests map onto NAND pages, how concurrency spreads across channel-affine die sets, and how media management interacts with the GPU memory pipeline. To our knowledge, existing GPU, S",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29246v1",
+  "raw": {
+    "arxivId": "2609.29246v1",
+    "category": "cs.AR"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-24-2609-29850v1",
+  "title": "BeyondRetarget: Learning Executable Humanoid Motions Directly from Monocular Video",
+  "url": "http://arxiv.org/abs/2609.29850v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "BeyondRetarget",
+    "Monocular Video Learning",
+    "However",
+    "Although",
+    "Furthermore",
+    "We",
+    "RGB",
+    "Discarding",
+    "To",
+    "Experiments"
+  ],
+  "publishedAt": "2026-09-24T14:15:04.000Z",
+  "fetchedAt": "2026-09-27T12:50:28.758Z",
+  "summary": "Learning executable motions from human videos offers a scalable solution for humanoid robots to acquire demonstration motions. However, existing pipelines typically first construct an explicit human motion representation and then convert it into robot motions via motion retargeting. Although such methods can effectively leverage large volumes of existing human data for training, the substantial differences between humans and humanoid robots in locomotion mechanisms and joint degree-of-freedom co",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29850v1",
+  "raw": {
+    "arxivId": "2609.29850v1",
+    "category": "cs.RO"
+  }
+}

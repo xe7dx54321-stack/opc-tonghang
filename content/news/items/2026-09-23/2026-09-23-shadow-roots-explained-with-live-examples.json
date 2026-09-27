@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-23-shadow-roots-explained-with-live-examples",
+  "title": "Shadow roots, explained with live examples",
+  "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Shadow",
+    "Tool",
+    "Prompt",
+    "Fable",
+    "Medium",
+    "Build",
+    "CSS",
+    "Tags"
+  ],
+  "publishedAt": "2026-09-23T16:37:18.000Z",
+  "fetchedAt": "2026-09-27T12:43:04.780Z",
+  "summary": "&lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=\"https://tools.simonwillison.net/shadow-roots\"&gt;Shadow roots, explained with live examples&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Prompt to Fable 5.1 Medium:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;code&gt;Build an artifact to explain shadow roots in CSS with interactive examples&lt;/code&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Tags: &lt;a href=\"https://simonwillison.net/tags/css\"&gt;css&lt;/a&gt;&lt;/p&gt;",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": "",
+    "lang": "en"
+  }
+}

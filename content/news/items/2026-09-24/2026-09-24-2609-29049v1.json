@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-24-2609-29049v1",
+  "title": "Bearing-Only Formation Tracking Control for Euler-Lagrange Multi-Agent Systems Without Inter-Agent Communication",
+  "url": "http://arxiv.org/abs/2609.29049v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Bearing",
+    "Only Formation Tracking Control",
+    "Euler",
+    "Lagrange Multi",
+    "Agent Systems Without Inter",
+    "Agent Communication This",
+    "Lagrange",
+    "Distinct",
+    "In",
+    "The",
+    "Moreover",
+    "EL",
+    "Furthermore",
+    "Via",
+    "Filippov",
+    "Lyapunov",
+    "As"
+  ],
+  "publishedAt": "2026-09-24T05:31:10.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.098Z",
+  "summary": "This paper investigates communication-free bearing-only formation tracking control for multi-agent systems governed by Euler-Lagrange dynamics. Distinct from existing results that can only stabilize a stationary formation, this work considers a scenario where the leaders move with time-varying velocities while the inter-agent communication is absent. In this setup, the leaders' states (position and velocity) are unavailable to all followers and cannot be estimated via distributed observers. A no",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29049v1",
+  "raw": {
+    "arxivId": "2609.29049v1",
+    "category": "eess.SY"
+  }
+}

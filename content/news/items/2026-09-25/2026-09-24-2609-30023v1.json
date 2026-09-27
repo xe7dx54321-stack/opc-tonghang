@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-24-2609-30023v1",
+  "title": "Res-HIL: Human-Guided Residual Reinforcement Learning for Sample-Efficient Dexterous Manipulation",
+  "url": "http://arxiv.org/abs/2609.30023v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Res",
+    "HIL",
+    "Human",
+    "Guided Residual Reinforcement Learning",
+    "Sample",
+    "We",
+    "Each",
+    "With",
+    "An"
+  ],
+  "publishedAt": "2026-09-24T16:00:02.000Z",
+  "fetchedAt": "2026-09-27T12:51:25.345Z",
+  "summary": "Imitation learning enables robots to acquire manipulation skills from demonstrations, but the resulting policies can fail outside the training data, while collecting more demonstrations requires substantial human effort. Human-in-the-loop reinforcement learning uses corrective feedback during online training, but typically learns the complete task policy rather than refining a pretrained imitation policy. We introduce Res-HIL, a human-in-the-loop residual reinforcement learning framework that le",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30023v1",
+  "raw": {
+    "arxivId": "2609.30023v1",
+    "category": "cs.RO"
+  }
+}

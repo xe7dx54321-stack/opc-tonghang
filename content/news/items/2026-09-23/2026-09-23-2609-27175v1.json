@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-23-2609-27175v1",
+  "title": "Self-Evolving Multimedia Verification through Memory Consolidation of Contestation Experiences",
+  "url": "http://arxiv.org/abs/2609.27175v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Self",
+    "Evolving Multimedia Verification",
+    "Memory Consolidation",
+    "Contestation Experiences Multimedia",
+    "Existing",
+    "We",
+    "SEMV",
+    "QBAF",
+    "On COSMOS",
+    "Verified",
+    "On CTR",
+    "MV2026",
+    "Grand Challenge",
+    "These"
+  ],
+  "publishedAt": "2026-09-23T00:18:36.000Z",
+  "fetchedAt": "2026-09-27T12:49:28.679Z",
+  "summary": "Multimedia verification requires not only accurate decisions but also traceable evidence, reliable human correction, and safe reuse of prior experience. Existing systems often lack explicit mechanisms for revising intermediate reasoning or preventing harmful knowledge transfer. We present SEMV (Self-Evolving Multimedia Verification), a self-evolving multi-agent framework that treats provenance-bearing arguments as the interface between evidence, reasoning, human contestation, and memory. SEMV co",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27175v1",
+  "raw": {
+    "arxivId": "2609.27175v1",
+    "category": "cs.MA"
+  }
+}

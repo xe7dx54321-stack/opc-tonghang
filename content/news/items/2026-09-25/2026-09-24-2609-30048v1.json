@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-24-2609-30048v1",
+  "title": "Style, Not Self: Surface Cues Explain Zero-Shot Code Attribution by Large Language Models",
+  "url": "http://arxiv.org/abs/2609.30048v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Style",
+    "Not Self",
+    "Surface Cues Explain Zero",
+    "Shot Code Attribution",
+    "Large Language Models If",
+    "We",
+    "Five LLMs",
+    "MBPP",
+    "HumanEval",
+    "DS",
+    "In",
+    "Attribution",
+    "Pass",
+    "Claude Haiku"
+  ],
+  "publishedAt": "2026-09-24T16:11:21.000Z",
+  "fetchedAt": "2026-09-27T12:51:09.848Z",
+  "summary": "If a language model can recognize code it wrote, it may favor that code as a judge, and instances of one model monitoring each other could collude. We test this zero-shot on current commercial models. Five LLMs generate solutions to MBPP, HumanEval, and DS-1000, seven more to MBPP, and models act as evaluators in four tasks: picking their own solution from a pair, judging whether a single solution is their own, identifying which of two solutions a named model wrote, and judging quality blind. In",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30048v1",
+  "raw": {
+    "arxivId": "2609.30048v1",
+    "category": "cs.CL"
+  }
+}

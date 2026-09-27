@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-24-2609-30151v1",
+  "title": "Does a model's stated reason for rejecting a candidate do any work?",
+  "url": "http://arxiv.org/abs/2609.30151v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Does",
+    "Asked",
+    "That",
+    "We",
+    "Two",
+    "In",
+    "Holm",
+    "The",
+    "Repair",
+    "Every"
+  ],
+  "publishedAt": "2026-09-24T17:13:35.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.224Z",
+  "summary": "Asked to choose between candidates and explain the choice, a language model often rejects a rival by naming a fact its profile lacks: no director, no date of death. That sentence is a claim about the text in front of the model, and it can be tested without any judge. We insert a real corpus sentence stating the named fact into the rival's profile and ask again under greedy decoding. Two controls separate content from placement: a length-matched irrelevant sentence at the same profile, and the sa",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30151v1",
+  "raw": {
+    "arxivId": "2609.30151v1",
+    "category": "cs.AI"
+  }
+}

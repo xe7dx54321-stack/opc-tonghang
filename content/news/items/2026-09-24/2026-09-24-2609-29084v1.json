@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-24-2609-29084v1",
+  "title": "A Rapid Pipeline for Training and Deploying ML Models on WeBe Band",
+  "url": "http://arxiv.org/abs/2609.29084v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Rapid Pipeline",
+    "Training",
+    "Deploying ML Models",
+    "WeBe Band Developing",
+    "In",
+    "ML",
+    "WeBe Band",
+    "The",
+    "WeBe",
+    "AutoML",
+    "Piccolo AI",
+    "OTA",
+    "Experimental",
+    "Rather",
+    "Although"
+  ],
+  "publishedAt": "2026-09-24T06:10:59.000Z",
+  "fetchedAt": "2026-09-27T12:50:44.402Z",
+  "summary": "Developing optimized machine-learning algorithms for edge devices with limited computational and memory resources is challenging, time-consuming, and highly dependent on device-specific constraints. In this work, we streamline an edge ML workflow to enable rapid development, optimization, and deployment of machine-learning (ML) models directly on the WeBe Band, a wrist-worn wearable device designed for multimodal physiological data monitoring. The proposed system automatically generates hardware",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29084v1",
+  "raw": {
+    "arxivId": "2609.29084v1",
+    "category": "cs.PF"
+  }
+}

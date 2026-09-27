@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-30115v1",
+  "title": "Orbital Error Dynamics: Self-Organized Criticality, Ephemeral Parameter Resonance, and Non-Linear Biological Ontologies in Zero-Storage Neural Synthesis",
+  "url": "http://arxiv.org/abs/2609.30115v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Orbital Error Dynamics",
+    "Self",
+    "Organized Criticality",
+    "Ephemeral Parameter Resonance",
+    "Non",
+    "Linear Biological Ontologies",
+    "Zero",
+    "Storage Neural Synthesis Modern",
+    "Von Neumann",
+    "We",
+    "OED",
+    "Bent Sine Wave Hypothesis",
+    "Observer Horizon Geometry",
+    "To",
+    "Biomimetic Perturbed Jump Operator",
+    "Dual",
+    "Brain",
+    "CD4",
+    "Multi",
+    "Two"
+  ],
+  "publishedAt": "2026-09-24T16:55:06.000Z",
+  "fetchedAt": "2026-09-27T12:51:13.449Z",
+  "summary": "Modern deep neural networks treat parameters as static floating-point matrices stored in physical memory, incurring Von Neumann memory bottlenecks and representation collapse. We formulate Orbital Error Dynamics (OED), an analytical framework wherein synaptic weights are not stored masses (O(W)), but transient topological resonances (O(1)) derived procedurally from the complex quadratic polynomial map z_{n+1} = z_n^2 + c. We introduce the Bent Sine Wave Hypothesis, demonstrating that non-equilib",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30115v1",
+  "raw": {
+    "arxivId": "2609.30115v1",
+    "category": "cs.LG"
+  }
+}

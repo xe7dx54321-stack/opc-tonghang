@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-23-2609-27437v1",
+  "title": "Mamba-Family State-Space Model Kernels on a Programmable CGLA",
+  "url": "http://arxiv.org/abs/2609.27437v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Mamba",
+    "Family State",
+    "Space Model Kernels",
+    "Programmable CGLA Edge",
+    "SSD",
+    "This",
+    "IMAX",
+    "CPU",
+    "Grounded Linear Array",
+    "CGLA",
+    "Projection",
+    "SSD Step",
+    "GEMV",
+    "These",
+    "CGLAs"
+  ],
+  "publishedAt": "2026-09-23T06:58:32.000Z",
+  "fetchedAt": "2026-09-27T12:49:39.988Z",
+  "summary": "Edge and embedded inference is constrained by power and data movement. Mamba-family state-space models replace attention with sequence-linear recurrence, but their inference path combines dense projections, short-reduction SSD kernels, and recurrent-state updates. This paper maps these kernel groups onto IMAX, a programmable CPU-Grounded Linear Array (CGLA), and measures them from kernel execution to token-level integration. Projection kernels match the long-reduction IMAX pipeline, whereas SSD ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27437v1",
+  "raw": {
+    "arxivId": "2609.27437v1",
+    "category": "cs.AR"
+  }
+}

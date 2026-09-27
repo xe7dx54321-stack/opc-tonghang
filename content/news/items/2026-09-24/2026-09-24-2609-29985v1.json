@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-24-2609-29985v1",
+  "title": "OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning",
+  "url": "http://arxiv.org/abs/2609.29985v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OceanXL",
+    "Large",
+    "Underwater",
+    "Gaussian Splatting",
+    "Block Partitioning",
+    "Adaptive Pruning Underwater",
+    "While",
+    "We",
+    "Together",
+    "Experiments",
+    "Controlled",
+    "SeaThru",
+    "NeRF"
+  ],
+  "publishedAt": "2026-09-24T15:35:08.000Z",
+  "fetchedAt": "2026-09-27T12:50:21.275Z",
+  "summary": "Underwater 3D reconstruction is critical for marine exploration, ecological monitoring, and subsea infrastructure inspection, yet remains challenging at large scale due to light attenuation, scattering, and limited capture coverage. While 3D Gaussian Splatting (3DGS) enables high-quality real-time rendering, its application to large underwater scenes is constrained by high memory consumption and inefficient optimization over extensive areas. We propose OceanXL, a fast and scalable 3DGS-based fra",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29985v1",
+  "raw": {
+    "arxivId": "2609.29985v1",
+    "category": "cs.CV"
+  }
+}

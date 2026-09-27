@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-22-the-future-is-fanless-100-heat-capture-for-liquid-cooled-ai-",
+  "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
+  "url": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
+  "source": "ieee-spectrum-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "The Future Is Fanless",
+    "Heat Capture",
+    "Liquid Cooled AI Servers This",
+    "CoolIT",
+    "Ecolab Company",
+    "Beyond",
+    "At",
+    "The",
+    "Liquid",
+    "Processor",
+    "TDP",
+    "This",
+    "Cool",
+    "That",
+    "As TDP"
+  ],
+  "publishedAt": "2026-09-22T12:22:50.000Z",
+  "fetchedAt": "2026-09-27T12:43:14.821Z",
+  "summary": "This article is brought to you by CoolIT, an Ecolab Company.Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load. The air cooling system needed to move it brings cost and complexity few operators will accept. The answer is near-total heat capture. Liquid takes effectively all the heat, air falls below 1 percent of the load, allowing the server to run fanless.CoolIT builds these loops today fr",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "ieee-spectrum-ai",
+    "author": "CoolIT, an Ecolab Company",
+    "lang": "en"
+  }
+}

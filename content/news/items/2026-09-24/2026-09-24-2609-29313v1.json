@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-24-2609-29313v1",
+  "title": "Equivalent Flux Compensation for SPMSM Sensorless Control under Parameter Mismatch",
+  "url": "http://arxiv.org/abs/2609.29313v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Equivalent Flux Compensation",
+    "SPMSM Sensorless Control",
+    "Parameter Mismatch Parameter",
+    "SPMSMs",
+    "To",
+    "EFC",
+    "First",
+    "Second",
+    "Additionally",
+    "Lyapunov",
+    "Finally"
+  ],
+  "publishedAt": "2026-09-24T09:47:41.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.098Z",
+  "summary": "Parameter mismatch is the main source of rotor position estimation error in sensorless control of surface-permanent magnet synchronous motors (SPMSMs). To this end, this paper proposes a simple yet efficient equivalent flux compensation (EFC) method that directly estimates the equivalent flux disturbance caused by parameter mismatches in real time. First, the equivalent flux disturbance caused by parameter mismatches is derived from a nonlinear flux observer. Second, a flux update law is propose",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29313v1",
+  "raw": {
+    "arxivId": "2609.29313v1",
+    "category": "eess.SY"
+  }
+}

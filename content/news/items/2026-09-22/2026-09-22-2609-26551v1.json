@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-22-2609-26551v1",
+  "title": "Toki: Profiling HBM Performance on FPGA Systems with RISC-V Soft Cores and PCIe Host DMA Traffic",
+  "url": "http://arxiv.org/abs/2609.26551v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Toki",
+    "Profiling HBM Performance",
+    "FPGA Systems",
+    "RISC",
+    "Soft Cores",
+    "PCIe Host DMA Traffic Programmable RISC",
+    "FPGA",
+    "HBM",
+    "DMA",
+    "PCIe",
+    "Extensive",
+    "AMD Alveo",
+    "HBM2",
+    "Results"
+  ],
+  "publishedAt": "2026-09-22T15:06:43.000Z",
+  "fetchedAt": "2026-09-27T12:48:44.048Z",
+  "summary": "Programmable RISC-V soft cores are becoming more widespread in data-center scenarios, making it crucial to design efficient systems that deploy them on FPGA chips with HBM memory. Toki, released as open source, is the first hardware-software framework that enables profiling the performance of HBM on FPGA accelerator cards by jointly considering (i) the execution of workloads on RISC-V soft cores instantiated on the FPGA and (ii) the injection of memory traffic from the host system via DMA over P",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.26551v1",
+  "raw": {
+    "arxivId": "2609.26551v1",
+    "category": "cs.AR"
+  }
+}

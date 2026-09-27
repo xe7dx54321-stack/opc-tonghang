@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-23-gemini-38-tts-playground",
+  "title": "Gemini 3.8 TTS Playground",
+  "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Gemini",
+    "TTS Playground",
+    "Tool",
+    "Google",
+    "They",
+    "GPT",
+    "Astra",
+    "CORS",
+    "Gemini API"
+  ],
+  "publishedAt": "2026-09-23T17:12:27.000Z",
+  "fetchedAt": "2026-09-27T12:43:04.780Z",
+  "summary": "&lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=\"https://tools.simonwillison.net/gemini-tts-playground\"&gt;Gemini 3.8 TTS Playground&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Google &lt;a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/\"&gt;released two new Gemini text-to-speech models&lt;/a&gt; today - &lt;code&gt;gemini-3.8-flash-tts&lt;/code&gt; and &lt;code&gt;gemini-3.8-flash-lite-tts&lt;/code&gt;.&lt;/p&gt; &lt;p&gt;They come with a library",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": "",
+    "lang": "en"
+  }
+}

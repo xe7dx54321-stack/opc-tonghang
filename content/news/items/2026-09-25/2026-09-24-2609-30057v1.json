@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-24-2609-30057v1",
+  "title": "KREX: Concurrent Kernel Benchmarking on Shared GPUs via Region-Granular Exclusivity",
+  "url": "http://arxiv.org/abs/2609.30057v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "KREX",
+    "Concurrent Kernel Benchmarking",
+    "Shared GPUs",
+    "Region",
+    "Granular Exclusivity LLM",
+    "GPU",
+    "GPUs",
+    "Existing",
+    "However",
+    "Sharing GPUs",
+    "We",
+    "The",
+    "To",
+    "CPU",
+    "NVIDIA",
+    "AMD GPUs",
+    "Compared"
+  ],
+  "publishedAt": "2026-09-24T16:14:04.000Z",
+  "fetchedAt": "2026-09-27T12:51:36.841Z",
+  "summary": "LLM agents automate GPU kernel optimization by repeatedly composing candidates and measuring their duration on real GPUs. Existing systems preserve measurement fidelity by reserving a GPU for an entire agent session or benchmarking command. However, this results in poor utilization because only a small fraction of command execution requires exclusive GPU access. Sharing GPUs could recover this idle capacity, but introduces contention that compromises measurement fidelity and misdirects the agent",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30057v1",
+  "raw": {
+    "arxivId": "2609.30057v1",
+    "category": "cs.DC"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-22-llm-typesafe-01a0",
+  "title": "llm-typesafe 0.1a0",
+  "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Release",
+    "LLM",
+    "Sep",
+    "TypeSafe AI",
+    "Jev",
+    "Install",
+    "Then",
+    "API",
+    "Paste",
+    "And",
+    "Please",
+    "Does",
+    "Output"
+  ],
+  "publishedAt": "2026-09-22T15:54:16.000Z",
+  "fetchedAt": "2026-09-27T12:43:04.780Z",
+  "summary": "&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/simonw/llm-typesafe/releases/tag/0.1a0\"&gt;llm-typesafe 0.1a0&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I built this new plugin for &lt;a href=\"https://llm.datasette.io/\"&gt;LLM&lt;/a&gt; to add support for &lt;a href=\"https://simonwillison.net/2026/Sep/21/jev/\"&gt;TypeSafe AI's new Jev model&lt;/a&gt;. Install it like this:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;llm install llm-typesafe &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;Then set an API",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": "",
+    "lang": "en"
+  }
+}

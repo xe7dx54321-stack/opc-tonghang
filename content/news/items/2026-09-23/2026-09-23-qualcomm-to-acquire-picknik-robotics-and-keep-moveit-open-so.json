@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-23-qualcomm-to-acquire-picknik-robotics-and-keep-moveit-open-so",
+  "title": "Qualcomm to acquire PickNik Robotics and keep MoveIt open-source",
+  "url": "https://www.therobotreport.com/qualcomm-acquires-picknik-robotics-keep-moveit-open-source/",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Qualcomm",
+    "PickNik Robotics",
+    "MoveIt",
+    "Dragonwing",
+    "Arduino",
+    "The",
+    "The Robot Report"
+  ],
+  "publishedAt": "2026-09-23T11:29:32.000Z",
+  "fetchedAt": "2026-09-27T12:43:14.665Z",
+  "summary": "Qualcomm plans to integrate the Dragonwing and Arduino platforms with the MoveIt open-source manipulation framework. The post Qualcomm to acquire PickNik Robotics and keep MoveIt open-source appeared first on The Robot Report. ]]>",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "robot-report",
+    "author": "<![CDATA[The Robot Report Staff]]>",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-26",
+  "itemCount": 22,
+  "bySource": {
+    "simon-willison": 1,
+    "techcrunch-ai": 3,
+    "ars-technica": 1,
+    "techcrunch": 3,
+    "theinformation": 3,
+    "qbitai": 6,
+    "marktechpost": 4,
+    "robot-report": 1
+  },
+  "byTopic": {
+    "ai": 21,
+    "semiconductor": 1,
+    "embodied-ai": 7
+  },
+  "generatedBy": "backfill"
+}

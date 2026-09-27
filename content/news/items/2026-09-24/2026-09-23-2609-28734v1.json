@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-23-2609-28734v1",
+  "title": "Iterative Learning Control of the Cooling Rate in a Dual-Laser Powder Bed Fusion Process",
+  "url": "http://arxiv.org/abs/2609.28734v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Iterative Learning Control",
+    "Cooling Rate",
+    "Dual",
+    "Laser Powder Bed Fusion Process The",
+    "LPBF",
+    "We",
+    "The",
+    "Results"
+  ],
+  "publishedAt": "2026-09-23T19:22:44.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.099Z",
+  "summary": "The thermal history of the melt pool in laser powder bed fusion (LPBF) additive manufacturing processes governs the solidification microstructure and the mechanical properties of the resulting 3D-printed parts. Dual-laser systems offer additional degrees of freedom to control the cooling profile by reheating material behind the melt pool, but calibrating process parameters is challenging due to the complex physics of the process. We present an optimization-based iterative learning controller tha",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28734v1",
+  "raw": {
+    "arxivId": "2609.28734v1",
+    "category": "eess.SY"
+  }
+}

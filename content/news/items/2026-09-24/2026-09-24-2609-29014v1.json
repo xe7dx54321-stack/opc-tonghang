@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-24-2609-29014v1",
+  "title": "AlphaDiverse: Post-Training Local Quantitative Research Agents for Diverse Exploration in Alpha Factor Mining",
+  "url": "http://arxiv.org/abs/2609.29014v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AlphaDiverse",
+    "Post",
+    "Diverse Exploration",
+    "Alpha Factor Mining Large",
+    "LLM",
+    "APIs",
+    "Long",
+    "To",
+    "We",
+    "Using",
+    "Planner",
+    "Realizer",
+    "Then",
+    "GRPO",
+    "Research",
+    "Experiments",
+    "Chinese"
+  ],
+  "publishedAt": "2026-09-24T04:29:37.000Z",
+  "fetchedAt": "2026-09-27T12:50:25.005Z",
+  "summary": "Large language model (LLM)-based multi-agent systems can automate alpha factor mining, but their reliance on external APIs limits control over cost, availability, and confidentiality. Long research loops also tend to revisit a few successful economic mechanisms that lead to research path collapse. To address these limitations, we propose AlphaDiverse, a framework that integrates a multi-agent alpha research system, diverse research path collection, and post-training for local agents. We let the ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29014v1",
+  "raw": {
+    "arxivId": "2609.29014v1",
+    "category": "cs.MA"
+  }
+}

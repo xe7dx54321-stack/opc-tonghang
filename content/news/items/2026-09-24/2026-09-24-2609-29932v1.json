@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-24-2609-29932v1",
+  "title": "It's the Geometry, Not the Model: Effective Rank and Subspace Alignment in Functional Connectivity Classification",
+  "url": "http://arxiv.org/abs/2609.29932v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "It",
+    "Geometry",
+    "Not",
+    "Model",
+    "Effective Rank",
+    "Subspace Alignment",
+    "FC",
+    "Most",
+    "We",
+    "Across",
+    "HCP",
+    "ABIDE",
+    "ADHD",
+    "Projection",
+    "In ABIDE",
+    "Controlled",
+    "These",
+    "This"
+  ],
+  "publishedAt": "2026-09-24T15:00:11.000Z",
+  "fetchedAt": "2026-09-27T12:50:21.275Z",
+  "summary": "Resting-state functional connectivity (FC) is widely used to classify brain phenotypes and disorders. Most pipelines use the full connectome and seek gains through model design. We instead examine how FC geometry constrains classification and cross-site transfer. Across-subject FC variation concentrates in a small effective subspace, suggesting substantial redundancy in nominal dimensions. Across cohorts, these subspaces may differ in orientation even when their effective ranks are comparable, p",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29932v1",
+  "raw": {
+    "arxivId": "2609.29932v1",
+    "category": "cs.CV"
+  }
+}

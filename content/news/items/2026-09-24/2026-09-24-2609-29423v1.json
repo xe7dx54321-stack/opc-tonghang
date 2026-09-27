@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-24-2609-29423v1",
+  "title": "Temperament Engineering: Designing Strategic Behavioural Diversity in Robot Swarms",
+  "url": "http://arxiv.org/abs/2609.29423v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Temperament Engineering",
+    "Robot Swarms No",
+    "In",
+    "This",
+    "It",
+    "The",
+    "Behavioural",
+    "Engineered"
+  ],
+  "publishedAt": "2026-09-24T11:45:17.000Z",
+  "fetchedAt": "2026-09-27T12:50:25.005Z",
+  "summary": "No two robots are truly identical: calibration, battery state, sensor drift and wear give every swarm a distribution of behaviour rather than a single point, usually treated as an imperfection to be minimised. In animal collectives the reverse holds: consistent individual differences in behaviour ('temperament') are shaped by natural selection and often decisive for group performance. This perspective proposes 'temperament engineering', a bio-inspired framework that treats the swarm's distributi",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29423v1",
+  "raw": {
+    "arxivId": "2609.29423v1",
+    "category": "cs.MA"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-24-2609-30218v1",
+  "title": "Minimally Invasive Steering of Language Models",
+  "url": "http://arxiv.org/abs/2609.30218v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Minimally Invasive Steering",
+    "Language Models Pre",
+    "Unregularized",
+    "We",
+    "MISVO",
+    "KL",
+    "The",
+    "Fisher",
+    "For",
+    "Across",
+    "Best"
+  ],
+  "publishedAt": "2026-09-24T17:46:46.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.223Z",
+  "summary": "Pre-logit steering adapts a frozen language model to a test-time reward by adding vectors to its final hidden states. Unregularized reward optimization can substantially alter the output distribution and degrade generation quality. We propose Minimally Invasive Steering Vector Optimization (MISVO), which penalizes interventions using the local KL geometry of the induced token distribution. The resulting Fisher quadratic measures distributional sensitivity and admits an analytic gradient computed",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30218v1",
+  "raw": {
+    "arxivId": "2609.30218v1",
+    "category": "cs.AI"
+  }
+}

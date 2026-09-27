@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-24-2609-30198v1",
+  "title": "Beyond Compression: Training Latent Representations for Stable Long-Horizon Rollout in Neural Surrogate Solvers",
+  "url": "http://arxiv.org/abs/2609.30198v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Beyond Compression",
+    "Training Latent Representations",
+    "Stable Long",
+    "Horizon Rollout",
+    "Neural Surrogate Solvers Latent",
+    "In",
+    "We",
+    "Koopman",
+    "Hamming",
+    "Interventions",
+    "Collectively",
+    "GPU",
+    "Applied",
+    "More"
+  ],
+  "publishedAt": "2026-09-24T17:36:46.000Z",
+  "fetchedAt": "2026-09-27T12:51:13.449Z",
+  "summary": "Latent neural surrogate solvers, or latent dynamics models, accelerate simulations of time-dependent physical systems by evolving a compressed latent space rather than resolving full-resolution fields directly. In principle this reduces computational cost and simplifies learning, but in practice errors often accumulate rapidly during long autoregressive rollouts, limiting predictive utility. We show that this instability does not stem from the latent representation itself, but arises when it is ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30198v1",
+  "raw": {
+    "arxivId": "2609.30198v1",
+    "category": "cs.LG"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-23-2609-27538v1",
+  "title": "Backstitch: Restoring Request Causality Across a Production Microservice Fleet",
+  "url": "http://arxiv.org/abs/2609.27538v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Backstitch",
+    "Restoring Request Causality Across",
+    "Production Microservice Fleet",
+    "At",
+    "Such",
+    "Repairs"
+  ],
+  "publishedAt": "2026-09-23T08:30:37.000Z",
+  "fetchedAt": "2026-09-27T12:49:43.708Z",
+  "summary": "A major video platform runs on thousands of microservices, each request propagating a context so downstream work can be traced and governed. At handoffs outside instrumented paths, e.g., custom queues and callbacks, the payload continues but the context does not, and the request still succeeds under existing tests. Such breaks are silent and widespread: 673 of 1,133 services carried at least one. Backstitch, a specialized agentic system, repairs them using the surviving execution as its referenc",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27538v1",
+  "raw": {
+    "arxivId": "2609.27538v1",
+    "category": "cs.DC"
+  }
+}

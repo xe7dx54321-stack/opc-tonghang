@@ -1,0 +1,30 @@
+{
+  "id": "2026-09-24-2609-30078v1",
+  "title": "Nuclear Norm-Regularized Bayesian Matrix Completion",
+  "url": "http://arxiv.org/abs/2609.30078v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Nuclear Norm",
+    "Many",
+    "Bayesian",
+    "Unfortunately",
+    "We",
+    "Our",
+    "This"
+  ],
+  "publishedAt": "2026-09-24T16:29:25.000Z",
+  "fetchedAt": "2026-09-27T12:51:13.449Z",
+  "summary": "Matrix completion, the problem of estimating missing entries in a matrix from noisily observed ones, underlies a diverse array of problems such as recommender systems and counterfactual outcome estimation in panel data. Many algorithms address the problem using regularized least squares, often with the nuclear norm as a regularizer, but this method yields a point estimate with no built-in uncertainty quantification. A Bayesian formulation is a natural alternative, and if the noise variance is kn",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30078v1",
+  "raw": {
+    "arxivId": "2609.30078v1",
+    "category": "cs.LG"
+  }
+}

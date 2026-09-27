@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-24-2609-30247v1",
+  "title": "Rolling-WAM: World Action Models with Rolling Imagination",
+  "url": "http://arxiv.org/abs/2609.30247v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Rolling",
+    "WAM",
+    "World Action Models",
+    "Rolling Imagination World Action Models",
+    "WAMs",
+    "However",
+    "We",
+    "Our",
+    "At",
+    "As",
+    "This",
+    "Evaluations",
+    "LIBERO",
+    "RoboTwin",
+    "Unitree",
+    "By"
+  ],
+  "publishedAt": "2026-09-24T17:58:03.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.223Z",
+  "summary": "World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, completing the joint video-action denoising process at each replanning cycle incurs substantial latency, delaying action updates and limiting closed-loop responsiveness. We present Rolling-WAM, a formulation that distributes joint denoising across successive replanning cycles. Our method maintains a sliding window of video-action chunks at staggered noise levels. At each step, a r",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30247v1",
+  "raw": {
+    "arxivId": "2609.30247v1",
+    "category": "cs.AI"
+  }
+}

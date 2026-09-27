@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-24-one-of-tethers-bank-partners-caught-up-in-assets-seizure",
+  "title": "One of Tether’s Bank Partners Caught Up in Assets Seizure",
+  "url": "https://www.theinformation.com/articles/one-tethers-bank-partners-caught-assets-seizure",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "One",
+    "Tether",
+    "Bank Partners Caught Up",
+    "Assets Seizure",
+    "On",
+    "It",
+    "Treasury",
+    "Cantor Fitzgerald",
+    "Secretary",
+    "Commerce Howard Lutnick",
+    "But",
+    "Sacramento",
+    "Calif",
+    "And"
+  ],
+  "publishedAt": "2026-09-24T17:52:15.000Z",
+  "fetchedAt": "2026-09-27T12:43:08.053Z",
+  "summary": "&lt;p&gt;On the surface, Tether, the largest stablecoin issuer in the world, might appear to be a formidable force in global finance. It owns more than $100 billion in U.S. Treasury bills, mostly held at Cantor Fitzgerald, the investment bank formerly led by U.S. Secretary of Commerce Howard Lutnick.&lt;/p&gt; &lt;p&gt;But a U.S. government seizure of bank accounts held in the name of an obscure company based in Sacramento, Calif., in recent weeks shows how Tether still relies on a web of someti",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "theinformation",
+    "author": "Yueqi Yang",
+    "lang": "en"
+  }
+}

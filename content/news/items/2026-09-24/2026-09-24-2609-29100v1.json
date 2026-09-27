@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-24-2609-29100v1",
+  "title": "Variable-Horizon Model Predictive Control for Switched Systems",
+  "url": "http://arxiv.org/abs/2609.29100v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Variable",
+    "Horizon Model Predictive Control",
+    "Switched Systems This",
+    "MPC",
+    "By",
+    "Furthermore",
+    "To",
+    "Simulations"
+  ],
+  "publishedAt": "2026-09-24T06:28:56.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.098Z",
+  "summary": "This paper investigates model predictive control (MPC) for switched systems subject to control and state constraints. A variable-horizon switched MPC approach is proposed. By steering the system state into a well-designed switching feasible set, the proposed method structurally decouples the dwell-time conditions from the MPC constraints, thereby relaxing the dwell-time requirements to match those of the unconstrained switched systems. Furthermore, algorithms are developed to construct this swit",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29100v1",
+  "raw": {
+    "arxivId": "2609.29100v1",
+    "category": "eess.SY"
+  }
+}

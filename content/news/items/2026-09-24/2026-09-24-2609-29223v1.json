@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-29223v1",
+  "title": "TrafficFab: An Autonomic Edge-Cloud Testbed Fabric forAI-Driven Traffic Management",
+  "url": "http://arxiv.org/abs/2609.29223v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "TrafficFab",
+    "An Autonomic Edge",
+    "Cloud Testbed Fabric",
+    "Driven Traffic Management Traffic",
+    "CCTV",
+    "We",
+    "AI",
+    "RTSP",
+    "DNNs",
+    "Spatio",
+    "Temporal Graph Neural Network",
+    "ST",
+    "GNN",
+    "FM",
+    "Federated Learning",
+    "FL",
+    "Its",
+    "DNN",
+    "Bangalore",
+    "Raspberry Pis"
+  ],
+  "publishedAt": "2026-09-24T08:31:44.000Z",
+  "fetchedAt": "2026-09-27T12:50:40.564Z",
+  "summary": "Traffic management in emerging megacities requires real-time analytics over thousands of CCTV video streams under latency, bandwidth, compute and energy constraints. We present TrafficFab, an autonomic edge--cloud testbed for AI-driven traffic management, designed to validate a representative slice of a megacity deployment. TrafficFab combines RTSP stream emulation, heterogeneous edge inference using DNNs, cloud-based nowcasting and forecasting using Spatio-Temporal Graph Neural Network (ST-GNN)",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29223v1",
+  "raw": {
+    "arxivId": "2609.29223v1",
+    "category": "cs.DC"
+  }
+}

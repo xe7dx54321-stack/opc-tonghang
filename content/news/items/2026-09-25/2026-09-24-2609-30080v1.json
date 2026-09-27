@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-30080v1",
+  "title": "Can Frozen Hyperspherical Features Guide the Selection of Pseudo Masks?",
+  "url": "http://arxiv.org/abs/2609.30080v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Can Frozen Hyperspherical Features Guide",
+    "Selection",
+    "Pseudo Masks",
+    "Foundation",
+    "SAM",
+    "Choosing",
+    "We",
+    "Normalized",
+    "DINOv2",
+    "Based",
+    "SphereTrust",
+    "On",
+    "SAM3",
+    "Dice",
+    "These",
+    "DSS",
+    "UCOD",
+    "MKD",
+    "Which",
+    "The"
+  ],
+  "publishedAt": "2026-09-24T16:30:39.000Z",
+  "fetchedAt": "2026-09-27T12:51:17.112Z",
+  "summary": "Foundation segmenters such as SAM return several plausible masks for an unlabeled image, and a student trained on the wrong one inherits its errors. Choosing among them means querying a second large model or fitting a quality head to annotated masks. We show that a candidate can be judged by what it does to a frozen self-supervised backbone's features. Normalized DINOv2 patch features lie on a hypersphere, and a candidate mask splits that sphere in two. Based on this reading, we introduce Sphere",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30080v1",
+  "raw": {
+    "arxivId": "2609.30080v1",
+    "category": "cs.CV"
+  }
+}

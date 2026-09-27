@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-24-2609-30076v1",
+  "title": "Beyond Driving: Envisioning Activities in Future Autonomous Vehicles through Experience-Centered Design",
+  "url": "http://arxiv.org/abs/2609.30076v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Beyond Driving",
+    "Envisioning Activities",
+    "Future Autonomous Vehicles",
+    "Experience",
+    "Centered Design Autonomous",
+    "AVs",
+    "NDRAs",
+    "However",
+    "FAVs",
+    "Traditional",
+    "This",
+    "ECD",
+    "Through",
+    "MR",
+    "Our",
+    "The",
+    "Ultimately"
+  ],
+  "publishedAt": "2026-09-24T16:28:49.000Z",
+  "fetchedAt": "2026-09-27T12:51:29.010Z",
+  "summary": "Autonomous vehicles (AVs) are poised to fundamentally alter personal transportation, offering occupants the freedom to engage in various non-driving-related activities (NDRAs). However, our current understanding of how people might actually use this time in fully autonomous vehicles (FAVs) is limited. Traditional research methods often struggle to capture the influence of diverse travel circumstances and purposes when exploring future scenarios. This paper introduces experience-centered design (",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30076v1",
+  "raw": {
+    "arxivId": "2609.30076v1",
+    "category": "cs.HC"
+  }
+}

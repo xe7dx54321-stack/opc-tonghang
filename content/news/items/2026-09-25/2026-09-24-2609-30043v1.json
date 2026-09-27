@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-24-2609-30043v1",
+  "title": "ConPro: Contrast Projection Pretraining for Label-Efficient Vessel Segmentation in DSA Sequences",
+  "url": "http://arxiv.org/abs/2609.30043v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "ConPro",
+    "Contrast Projection Pretraining",
+    "Label",
+    "Efficient Vessel Segmentation",
+    "DSA Sequences Dense",
+    "DSA",
+    "Semi",
+    "We",
+    "On DIAS",
+    "DSCA",
+    "Controlled",
+    "UniMatch",
+    "Dice",
+    "DIAS"
+  ],
+  "publishedAt": "2026-09-24T16:09:30.000Z",
+  "fetchedAt": "2026-09-27T12:51:17.112Z",
+  "summary": "Dense vessel annotation in digital subtraction angiography (DSA) is labor-intensive, yet every unlabeled sequence records how contrast passes through the vessels. Semi-supervised methods take their targets from the current model, and generic self-supervised pretexts reconstruct static appearance, so this signal goes unused. We propose ConPro, a self-supervised pretraining scheme whose target is a contrast projection, the normalized drop of every pixel below its temporal median over the sequence.",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30043v1",
+  "raw": {
+    "arxivId": "2609.30043v1",
+    "category": "cs.CV"
+  }
+}

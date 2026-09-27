@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-24-2609-30087v1",
+  "title": "Return or Revise? Learning When Revision Helps Retrieval-Augmented QA",
+  "url": "http://arxiv.org/abs/2609.30087v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Return",
+    "Revise",
+    "Learning When Revision Helps Retrieval",
+    "Augmented QA We",
+    "Draft",
+    "For",
+    "We",
+    "On",
+    "Llama",
+    "The",
+    "When",
+    "RAG",
+    "OLMo",
+    "Recoverability"
+  ],
+  "publishedAt": "2026-09-24T16:35:54.000Z",
+  "fetchedAt": "2026-09-27T12:51:09.847Z",
+  "summary": "We consider the decision of whether to return an existing draft answer or revise it using retrieved evidence, as in answer-revision systems. Draft confidence estimates whether the current answer is correct, but the decision requires estimating the effect of a specified revision. For offline training and evaluation, we grade both the returned draft and its candidate revision under the same correctness judge, which makes repair, harm, and the gap to an oracle observable. We call this paired effect",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30087v1",
+  "raw": {
+    "arxivId": "2609.30087v1",
+    "category": "cs.CL"
+  }
+}

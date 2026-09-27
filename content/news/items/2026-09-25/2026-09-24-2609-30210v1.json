@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-24-2609-30210v1",
+  "title": "The Alignment Illusion in Multimodal Large Language Models",
+  "url": "http://arxiv.org/abs/2609.30210v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "The Alignment Illusion",
+    "Multimodal Large Language Models Layer",
+    "Multimodal Large Language Models",
+    "MLLMs",
+    "This",
+    "To",
+    "Across",
+    "Gaussian",
+    "CKA",
+    "SVCCA",
+    "MIR",
+    "We",
+    "MLP",
+    "Because",
+    "PA",
+    "Under",
+    "Internal"
+  ],
+  "publishedAt": "2026-09-24T17:42:29.000Z",
+  "fetchedAt": "2026-09-27T12:51:13.449Z",
+  "summary": "Layer-wise visual-text similarity in Multimodal Large Language Models (MLLMs) is widely interpreted as evidence that the language model progressively integrates visual content into a shared representation space. This reading rests on the assumption that scalar alignment scores reflect content-level cross-modal interaction. To test this assumption, we apply controlled interventions to the visual stream. Across 13 MLLMs from five families spanning 0.5B to 72B parameters, replacing projector-output",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30210v1",
+  "raw": {
+    "arxivId": "2609.30210v1",
+    "category": "cs.LG"
+  }
+}

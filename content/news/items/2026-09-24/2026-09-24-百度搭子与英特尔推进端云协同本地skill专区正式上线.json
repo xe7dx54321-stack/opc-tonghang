@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-24-百度搭子与英特尔推进端云协同本地skill专区正式上线",
+  "title": "百度搭子与英特尔推进端云协同，本地Skill专区正式上线",
+  "url": "https://www.leiphone.com/category/industrynews/BKGiXySS7fLi7SaE.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "entities": [
+    "Skill",
+    "Intel Connection",
+    "Ultra",
+    "PC",
+    "AI",
+    "API"
+  ],
+  "publishedAt": "2026-09-24T08:37:00.000Z",
+  "fetchedAt": "2026-09-27T12:43:07.882Z",
+  "summary": "记者从2026 Intel Connection大会获悉，百度搭子上线面向英特尔机型的本地Skill专区，并推出混合Skill调度能力。用户提出需求后，系统可根据任务类型和电脑算力，在本地与云端之间自动选择处理方式。过去，智能体处理语音、文档和图片，通常需要将文件上传至云端；直接调用电脑算力，则需要安装模型、配置环境，对普通用户门槛较高。 本地Skill专区让电脑自身算力可以直接处理具体任务。基于英特尔®酷睿™Ultra智能体PC，语音识别、文生图、文档和图片解析等工作可直接在本地完成，联网检索和复杂分析则由云端处理。百度搭子会根据任务特点自动选择处理方式，用户无需了解背后的模型和技术配置，即可进行能力使用。此前发布的AI产品榜显示，百度搭子月活达到674.30万，环比增长1063.79％，位列AI办公智能体增速第一。在硬件端，百度搭子已开放标准化API，支持能力、任务和记忆在不同设备间同步，小度家庭硬件和因时科技具身智能设备已完成接入。 据介绍，百度搭子与英特尔将继续适配更多个人电脑和工作站，并增加长文档处理、图文音视频分析、代码开发等本地Skill。百度搭子还将通过标准化API接入",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "leiphone",
+    "author": "",
+    "lang": "zh"
+  }
+}

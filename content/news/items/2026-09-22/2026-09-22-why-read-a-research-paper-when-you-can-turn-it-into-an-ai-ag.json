@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-22-why-read-a-research-paper-when-you-can-turn-it-into-an-ai-ag",
+  "title": "Why Read a Research Paper When You Can Turn It Into an AI Agent?",
+  "url": "https://spectrum.ieee.org/paper2agent-ai-agents-research-papers",
+  "source": "ieee-spectrum-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Why Read",
+    "Research Paper When You Can Turn It Into",
+    "AI Agent",
+    "Have",
+    "Science",
+    "Nature",
+    "Man",
+    "Well",
+    "Say",
+    "AI",
+    "Give",
+    "The",
+    "Google",
+    "NotebookLM",
+    "Gemini Notebook",
+    "But",
+    "Rather"
+  ],
+  "publishedAt": "2026-09-22T15:00:05.000Z",
+  "fetchedAt": "2026-09-27T12:43:14.821Z",
+  "summary": "Have you ever read a paper in Science or Nature and thought, “Man, that research was so cool. I wish I could try that method on my own data,” only to spend a week wrestling with someone else’s undocumented repo, broken dependencies, and half-finished readme.txt?Well, now you can, more or less.Say hello to Paper2Agent, a new open-source framework that transforms academic reports into interactive AI agents you can talk to. Give it a paper, along with the accompanying codebase, data, or other suppl",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "ieee-spectrum-ai",
+    "author": "Elie Dolgin",
+    "lang": "en"
+  }
+}

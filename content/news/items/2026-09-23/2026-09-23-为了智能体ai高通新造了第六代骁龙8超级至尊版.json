@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-23-为了智能体ai高通新造了第六代骁龙8超级至尊版",
+  "title": "为了智能体AI，高通「新造」了第六代骁龙8超级至尊版",
+  "url": "https://www.leiphone.com/category/chips/DWpfJx2HNekZmlQK.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "entities": [
+    "AI",
+    "PC",
+    "CEO",
+    "App",
+    "CPU",
+    "NPU",
+    "GPU",
+    "Chris Patrick",
+    "Matrix Cores",
+    "MoE",
+    "SoC",
+    "KV",
+    "Oryon CPU",
+    "Oryon FlexCache"
+  ],
+  "publishedAt": "2026-09-23T23:08:00.000Z",
+  "fetchedAt": "2026-09-27T12:43:07.883Z",
+  "summary": "“我们正在从以手机为中心的模式，转向以智能体为中心的新体验。手机、PC、眼镜、可穿戴设备以及汽车，都将成为智能体的终端入口。”2026骁龙峰会上，高通公司总裁兼CEO安蒙说。过去二十年，智能手机围绕App运转。智能体则需要持续感知、理解上下文、调用工具，并在用户没有操作手机时代表用户执行任务。“这是一次令人兴奋的技术变革，智能体AI会创造一种全新的终端工作流程。”安蒙表示，“我们需要重新思考计算引擎的设计。CPU需要更强的性能来完成智能体编排，NPU加速器负责高效的AI推理，GPU负责高度并行的计算，连接能力也比以往任何时候都更加重要。”高通为智能体AI首次同时推出两款2nm制程移动旗舰平台——第六代骁龙8超级至尊版和第六代骁龙8至尊版。高通技术公司高级副总裁兼手机业务总经理Chris Patrick解释说：“单一标准，已经无法定义旗舰。保持领导力需要不止一条前进道路。”两款平台共享多项核心技术，第六代骁龙8超级至尊版位于产品组合顶端，拥有高通最顶级的配置，包括业界首个最高主频达到5GHz的移动CPU、GPU中首次加入的Matrix Cores（矩阵核心），以及可以运行300亿参数Mo",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "leiphone",
+    "author": "",
+    "lang": "zh"
+  }
+}

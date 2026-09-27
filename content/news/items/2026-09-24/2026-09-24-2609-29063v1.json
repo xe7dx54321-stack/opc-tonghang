@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-24-2609-29063v1",
+  "title": "A Procedure for Classifying Attachments and Affective Social Bonds in Human-Robot Dyads",
+  "url": "http://arxiv.org/abs/2609.29063v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Procedure",
+    "Classifying Attachments",
+    "Affective Social Bonds",
+    "Human",
+    "Robot Dyads Human",
+    "HRI",
+    "Without",
+    "To",
+    "We",
+    "Finally",
+    "By"
+  ],
+  "publishedAt": "2026-09-24T05:52:28.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.870Z",
+  "summary": "Human-robot interaction (HRI) claims that people form attachments and social bonds with artificial agents, yet the terms are often applied without the behavioural and physiological criteria that give them content in their source disciplines. Without this empirical grounding, studies deploy widely divergent methods, frequently producing expansive relational claims that far outstrip their underlying evidence. To address this, we propose a standardised four-question procedure, grounded in criteria ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29063v1",
+  "raw": {
+    "arxivId": "2609.29063v1",
+    "category": "cs.HC"
+  }
+}

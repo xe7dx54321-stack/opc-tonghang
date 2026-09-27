@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-23-2609-28724v1",
+  "title": "The Canonical Parallel Form as a Substrate for Parallelizing Compilers and Agentic Optimizers",
+  "url": "http://arxiv.org/abs/2609.28724v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "The Canonical Parallel Form",
+    "Substrate",
+    "Parallelizing Compilers",
+    "Agentic Optimizers Imperative",
+    "We",
+    "Canonical Parallel Form",
+    "CPF",
+    "SMT",
+    "Heuristics",
+    "Across",
+    "AMD",
+    "MI300A",
+    "Numba",
+    "Zen",
+    "CDNA",
+    "GPU",
+    "Against",
+    "CPU",
+    "DaCe",
+    "Pluto"
+  ],
+  "publishedAt": "2026-09-23T19:06:14.000Z",
+  "fetchedAt": "2026-09-27T12:50:44.403Z",
+  "summary": "Imperative code fixes an execution order the computation does not require, and a parallelizing compiler must prove which parts of that order it can remove. We introduce the Canonical Parallel Form (CPF), a device-neutral program state from which every ordering constraint our analyses prove unnecessary has been removed. CPF is reached by output-preserving normalization, by lifting semantic operations such as tensor contractions, and by deriving parallelism in three levels ordered by decidability:",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28724v1",
+  "raw": {
+    "arxivId": "2609.28724v1",
+    "category": "cs.PF"
+  }
+}

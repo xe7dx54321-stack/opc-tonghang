@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-24-2609-30107v1",
+  "title": "Smartphone-Based Method for Automated Speed Enforcement",
+  "url": "http://arxiv.org/abs/2609.30107v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Smartphone",
+    "Based Method",
+    "Automated Speed Enforcement Smartphone",
+    "CV",
+    "This",
+    "The CV",
+    "Brazil",
+    "UFPR",
+    "ALPR",
+    "Code",
+    "Austin",
+    "Texas",
+    "RGB",
+    "Prediction"
+  ],
+  "publishedAt": "2026-09-24T16:49:18.000Z",
+  "fetchedAt": "2026-09-27T12:51:17.112Z",
+  "summary": "Smartphone cameras and computer vision (CV) hold significant promise in assisting public agencies with enforcing traffic laws and enhancing road safety. This work designs and tests a smartphone-based method for automated speed estimation and vehicle identification (license plate, make/model, and color recognition) via an automated pipeline to assist enforcement agencies in reliably identifying speeders. The CV code accurately recognizes nearly half (46%) of the license plates' text on 1,800 imag",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30107v1",
+  "raw": {
+    "arxivId": "2609.30107v1",
+    "category": "cs.CV"
+  }
+}

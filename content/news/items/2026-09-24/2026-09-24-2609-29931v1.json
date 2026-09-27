@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-29931v1",
+  "title": "Improving Calibration of Black-Box Radiology AI Using Test-Time Augmentation",
+  "url": "http://arxiv.org/abs/2609.29931v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Improving Calibration",
+    "Black",
+    "Box Radiology AI Using Test",
+    "Time Augmentation Radiology AI",
+    "For",
+    "Many",
+    "MC Dropout",
+    "Deep Ensembles",
+    "However",
+    "AI",
+    "To",
+    "TTA",
+    "Our",
+    "CT",
+    "Across",
+    "DualTTA",
+    "Expected Calibration Error",
+    "Additionally",
+    "Temperature Scaling",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T15:00:01.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.869Z",
+  "summary": "Radiology AI systems increasingly inform clinical decisions such as triage, follow-up imaging, and treatment planning. For these decisions to be made safely, model outputs must be well calibrated, meaning predicted probabilities accurately reflect true risk. Many standard techniques for improving calibration, such as MC Dropout and Deep Ensembles, require access to model parameters or retraining. However, proprietary clinical AI systems operate as black boxes, preventing access to the model's in",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29931v1",
+  "raw": {
+    "arxivId": "2609.29931v1",
+    "category": "cs.HC"
+  }
+}

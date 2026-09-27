@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-24-2609-29375v1",
+  "title": "Free-Init: Scan-Free, Motion-Free, and Correspondence-Free Initialization for Doppler LiDAR-Inertial Systems",
+  "url": "http://arxiv.org/abs/2609.29375v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Free",
+    "Init",
+    "Scan",
+    "Motion",
+    "Correspondence",
+    "Free Initialization",
+    "Doppler LiDAR",
+    "Inertial Systems Robust",
+    "In",
+    "LiDAR",
+    "The",
+    "FMCW Doppler LiDAR",
+    "Doppler",
+    "By",
+    "Comprehensive"
+  ],
+  "publishedAt": "2026-09-24T10:56:38.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.098Z",
+  "summary": "Robust initialization is crucial for online systems. In the letter, a high-frequency and resilient initialization framework is designed for LiDAR-inertial systems, leveraging both inertial sensors and Doppler LiDAR. The innovative FMCW Doppler LiDAR opens up a novel avenue for robotic sensing by capturing not only point range but also Doppler velocity via the intrinsic Doppler effect. By fusing point-wise Doppler velocity with inertial measurements under non-inertial kinematics, the proposed fra",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29375v1",
+  "raw": {
+    "arxivId": "2609.29375v1",
+    "category": "eess.SY"
+  }
+}

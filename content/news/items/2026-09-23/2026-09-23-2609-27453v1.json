@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-23-2609-27453v1",
+  "title": "Implementation and Evaluation of BitNet Inference on a CGLA by Signed-Int4 Instructions",
+  "url": "http://arxiv.org/abs/2609.27453v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Implementation",
+    "Evaluation",
+    "BitNet Inference",
+    "CGLA",
+    "Signed",
+    "Instructions Large",
+    "LLM",
+    "BitNet",
+    "However",
+    "We",
+    "CPU",
+    "Grounded Linear Array",
+    "ASIC",
+    "The",
+    "Each",
+    "Frequency",
+    "MHz FPGA",
+    "MHz"
+  ],
+  "publishedAt": "2026-09-23T07:19:39.000Z",
+  "fetchedAt": "2026-09-27T12:49:39.988Z",
+  "summary": "Large language model (LLM) inference transfers model weights and activations for every generated token, making memory traffic and its energy cost part of the decode path. BitNet b1.58 represents its low-bit weights by ternary values and uses integer activations. However, this arithmetic does not match conventional int8 or floating-point general matrix multiplication, and existing BitNet accelerators implement it in specialized datapaths. We instead map this operation to a CPU-Grounded Linear Arr",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27453v1",
+  "raw": {
+    "arxivId": "2609.27453v1",
+    "category": "cs.AR"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-24-2609-29930v1",
+  "title": "EndoFSA: Endoscopic Few-Shot Image Generation via Rank-Constrained Parameter Adaptation",
+  "url": "http://arxiv.org/abs/2609.29930v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "EndoFSA",
+    "Endoscopic Few",
+    "Shot Image Generation",
+    "Rank",
+    "Constrained Parameter Adaptation WCE",
+    "SDG",
+    "However",
+    "Addressing",
+    "This",
+    "GAN",
+    "Shot",
+    "Adaptation",
+    "WCE",
+    "By",
+    "Importantly EndoFSA",
+    "Evaluation",
+    "Moreover"
+  ],
+  "publishedAt": "2026-09-24T14:59:29.000Z",
+  "fetchedAt": "2026-09-27T12:50:21.275Z",
+  "summary": "WCE produces large-scale gastrointestinal image data yet pathological findings remain significantly underrepresented limiting the generalization performance of deep-learning based abnormality detection systems. SDG methods offer a practical solution to mitigate this imbalance. However their training directly on scarce abnormal samples often results in instability overfitting and structural distortions. Addressing these challenges requires controlled adaptation mechanisms that preserve anatomical",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29930v1",
+  "raw": {
+    "arxivId": "2609.29930v1",
+    "category": "cs.CV"
+  }
+}

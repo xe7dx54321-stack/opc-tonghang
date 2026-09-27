@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-24-2609-30215v1",
+  "title": "A Nearly Quadratic Lower Bound for Linear Optimization over Convex Bodies in the Membership Oracle Model",
+  "url": "http://arxiv.org/abs/2609.30215v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Nearly Quadratic Lower Bound",
+    "Linear Optimization",
+    "Convex Bodies",
+    "Membership Oracle Model We",
+    "For",
+    "Our"
+  ],
+  "publishedAt": "2026-09-24T17:45:58.000Z",
+  "fetchedAt": "2026-09-27T12:51:13.449Z",
+  "summary": "We prove nearly quadratic lower bounds for randomized algorithms for linear optimization and uniform sampling over convex bodies in the membership oracle model. For linear optimization, this matches the known nearly quadratic upper bound up to a polylog factor in the dimension. For uniform sampling, this improves on the previous linear lower bound. Our construction also implies the same lower bound for volume estimation.",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30215v1",
+  "raw": {
+    "arxivId": "2609.30215v1",
+    "category": "cs.LG"
+  }
+}

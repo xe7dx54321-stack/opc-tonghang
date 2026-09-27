@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-22-2609-26763v1",
+  "title": "SARA: SLO-Aware Resource Allocation for Disaggregated Agentic LLM Services",
+  "url": "http://arxiv.org/abs/2609.26763v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "SARA",
+    "SLO",
+    "Aware Resource Allocation",
+    "LLMs",
+    "Existing",
+    "LLM",
+    "In",
+    "Service",
+    "SLOs",
+    "By",
+    "KV",
+    "The",
+    "HBM",
+    "With",
+    "These",
+    "Finally",
+    "Simulation"
+  ],
+  "publishedAt": "2026-09-22T17:42:35.000Z",
+  "fetchedAt": "2026-09-27T12:49:47.392Z",
+  "summary": "Recent advances in large language models (LLMs) are driving the emergence of multi-modal and agentic services for mobile users through cloud and edge infrastructures, where long-context workloads pose daunting challenges for inference latency. Existing disaggregated LLM serving systems largely rely on hardware profiling, configuration enumeration, or heuristic scheduling, offering limited analytical guidance for cost-efficient resource allocation. In this paper, we propose SARA, a Service level ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.26763v1",
+  "raw": {
+    "arxivId": "2609.26763v1",
+    "category": "cs.PF"
+  }
+}

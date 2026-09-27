@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-22-llm-036",
+  "title": "llm 0.36",
+  "url": "https://simonwillison.net/2026/Sep/22/llm/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Release",
+    "New OpenAI",
+    "GPT",
+    "Sol",
+    "Luna",
+    "Model",
+    "False",
+    "LLM",
+    "ConversationNotSupported",
+    "See"
+  ],
+  "publishedAt": "2026-09-22T18:48:37.000Z",
+  "fetchedAt": "2026-09-27T12:43:04.780Z",
+  "summary": "&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/simonw/llm/releases/tag/0.36\"&gt;llm 0.36&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;ul&gt; &lt;li&gt;New OpenAI models: &lt;code&gt;gpt-6-sol&lt;/code&gt; for &lt;a href=\"https://developers.openai.com/api/docs/models/gpt-6-sol\"&gt;GPT-6 Sol&lt;/a&gt; and &lt;code&gt;gpt-6-luna&lt;/code&gt; for &lt;a href=\"https://developers.openai.com/api/docs/models/gpt-6-luna\"&gt;GPT-6 Luna&lt;/a&gt;. &lt;a href=\"https://github.com/",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": "",
+    "lang": "en"
+  }
+}

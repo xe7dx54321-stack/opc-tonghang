@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-24-2609-29965v1",
+  "title": "An Open-Source Standard-Cell Library for IHP 130nm Developed by Students",
+  "url": "http://arxiv.org/abs/2609.29965v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "An Open",
+    "Source Standard",
+    "Cell Library",
+    "IHP",
+    "Developed",
+    "Students Standard",
+    "VLSI",
+    "This",
+    "ETH Zurich",
+    "SG13G2",
+    "In",
+    "EZ130",
+    "We",
+    "For",
+    "The",
+    "ETH Zurich VLSI"
+  ],
+  "publishedAt": "2026-09-24T15:20:39.000Z",
+  "fetchedAt": "2026-09-27T12:50:36.529Z",
+  "summary": "Standard-cell libraries form the critical interface between transistor-level circuit design and automated digital design flows, yet their design and characterization are rarely covered in depth in digital VLSI courses. This paper presents VLSI 5, a graduate-level course at ETH Zurich in which students design, lay out, characterize, and integrate their own standard cells using IHP's open-source 130nm SG13G2 process design kit. In the first course offering, 19 students developed EZ130 8T, an open-",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29965v1",
+  "raw": {
+    "arxivId": "2609.29965v1",
+    "category": "cs.AR"
+  }
+}

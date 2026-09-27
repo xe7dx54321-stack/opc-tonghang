@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-24-2609-28900v1",
+  "title": "Codetta: High-Capacity, Keyless, and Undetectable Multi-Agent Collusion",
+  "url": "http://arxiv.org/abs/2609.28900v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Codetta",
+    "High",
+    "Capacity",
+    "Keyless",
+    "Undetectable Multi",
+    "Agent Collusion Multi",
+    "LLMs",
+    "The",
+    "Existing",
+    "LLM",
+    "We",
+    "It",
+    "Across",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T01:27:47.000Z",
+  "fetchedAt": "2026-09-27T12:50:25.005Z",
+  "summary": "Multi-agent systems built on large language models (LLMs) are increasingly deployed in high-stakes settings such as finance, healthcare, and software engineering, where agents coordinate through natural-language messages. The same channels, however, let colluding agents exfiltrate confidential information or coordinate unauthorized actions, and steganography can hide such communication inside outputs that look ordinary to an auditor reading the transcript. Existing provably undetectable LLM steg",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28900v1",
+  "raw": {
+    "arxivId": "2609.28900v1",
+    "category": "cs.MA"
+  }
+}

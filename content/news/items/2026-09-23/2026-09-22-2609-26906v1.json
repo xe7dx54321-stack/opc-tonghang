@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-22-2609-26906v1",
+  "title": "Impact-Time Guidance via Normal Contraction to a Time-to-Go Isochron",
+  "url": "http://arxiv.org/abs/2609.26906v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Impact",
+    "Time Guidance",
+    "Normal Contraction",
+    "Time",
+    "Go Isochron We",
+    "The",
+    "We",
+    "To"
+  ],
+  "publishedAt": "2026-09-22T18:03:46.000Z",
+  "fetchedAt": "2026-09-27T12:49:28.679Z",
+  "summary": "We develop a contraction-based perspective on impact-time guidance that augments a baseline homing command with a timing bias. The proposed perspective treats the prescribed schedule as a moving time-to-go isochron and regulates motion normal to that set through velocity-normal lateral acceleration while the interceptor's speed remains constant. We derive a transport equation that characterizes homing-compatible time-to-go coordinates and define a predictor defect that quantifies the mismatch of",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.26906v1",
+  "raw": {
+    "arxivId": "2609.26906v1",
+    "category": "cs.MA"
+  }
+}

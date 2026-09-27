@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-24-2609-30243v1",
+  "title": "JevOut: Natural Context Can Flip Decision Models",
+  "url": "http://arxiv.org/abs/2609.30243v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "JevOut",
+    "Jev",
+    "Yet",
+    "We",
+    "To",
+    "Within",
+    "Across",
+    "Taken",
+    "Because"
+  ],
+  "publishedAt": "2026-09-24T17:57:07.000Z",
+  "fetchedAt": "2026-09-27T12:51:09.846Z",
+  "summary": "Dedicated decision models such as Jev map unstructured language to probability distributions over finite choices, allowing their outputs to directly route requests, select tools, and trigger actions. Yet real-world inputs rarely arrive in isolation: they come with background details and surrounding context. We find that short additions that fit naturally into this context can nevertheless redirect an otherwise correct decision, even when the correct answer remains unchanged. To study this behavi",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30243v1",
+  "raw": {
+    "arxivId": "2609.30243v1",
+    "category": "cs.CL"
+  }
+}

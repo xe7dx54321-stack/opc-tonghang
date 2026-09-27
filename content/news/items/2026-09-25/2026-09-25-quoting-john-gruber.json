@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-25-quoting-john-gruber",
+  "title": "Quoting John Gruber",
+  "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Quoting John Gruber",
+    "Muse",
+    "Linux VM",
+    "Meta",
+    "It",
+    "AI",
+    "But",
+    "If",
+    "Mac"
+  ],
+  "publishedAt": "2026-09-25T17:22:01.000Z",
+  "fetchedAt": "2026-09-27T12:43:04.779Z",
+  "summary": "&lt;blockquote cite=\"https://daringfireball.net/linked/2026/09/25/aten-muse\"&gt;&lt;p&gt;Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) &lt;em&gt;and&lt;/em&gt; because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as &lt;a href=\"https://daringfireball.net/linked/2026/09/24/song-meta-muse-cute\"&gt;a cute mascot&lt;/a&gt;. It’s the first",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": "",
+    "lang": "en"
+  }
+}

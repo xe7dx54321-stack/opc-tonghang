@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-29067v1",
+  "title": "TileBench: A Controlled Benchmark for Performance Evaluation and Bottleneck Diagnosis of Tile-Based Programming Models",
+  "url": "http://arxiv.org/abs/2609.29067v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "TileBench",
+    "Controlled Benchmark",
+    "Performance Evaluation",
+    "Bottleneck Diagnosis",
+    "Tile",
+    "Based Programming Models Tile",
+    "Triton",
+    "We",
+    "NVIDIA",
+    "GPUs",
+    "AI",
+    "Each",
+    "PyTorch",
+    "Our",
+    "Tensor",
+    "Core",
+    "TMA",
+    "LLM",
+    "Deep",
+    "Learning"
+  ],
+  "publishedAt": "2026-09-24T05:54:49.000Z",
+  "fetchedAt": "2026-09-27T12:50:44.403Z",
+  "summary": "Tile-based programming models, such as Triton and cuTile, aim to simplify high-performance kernel development, but their practical performance, tuning behavior, and usability remain difficult to compare systematically. We present TileBench, a controlled benchmark for evaluating Triton and cuTile on NVIDIA B200 GPUs under matched operator semantics and comparable implementation structures. TileBench contains 45 operators covering diverse AI-kernel patterns and memory/computation behaviors. Each t",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29067v1",
+  "raw": {
+    "arxivId": "2609.29067v1",
+    "category": "cs.PF"
+  }
+}

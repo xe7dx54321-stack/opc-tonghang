@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-23-2609-28358v1",
+  "title": "MicroQonv: Reshaping Convolution Tensors for Efficient Microscaling in Training and Inference",
+  "url": "http://arxiv.org/abs/2609.28358v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "MicroQonv",
+    "Reshaping Convolution Tensors",
+    "Efficient Microscaling",
+    "Training",
+    "Inference Microscaling",
+    "However",
+    "Additional",
+    "We",
+    "It",
+    "This",
+    "YOLOV8nano",
+    "YOLOV26nano"
+  ],
+  "publishedAt": "2026-09-23T16:30:48.000Z",
+  "fetchedAt": "2026-09-27T12:50:36.529Z",
+  "summary": "Microscaling quantization techniques are increasingly used to represent neural network parameters with 8 bits or fewer while preserving near-full precision accuracy. However, applying these methods efficiently in convolutional layers is not straightforward. A naive approach transfers full-precision weights and activations to processing units and quantizes each tensor twice, resulting in much more memory movement than expected. Additional overhead comes from the activation tensors, whose sizes gr",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28358v1",
+  "raw": {
+    "arxivId": "2609.28358v1",
+    "category": "cs.AR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-24-commit-rewriter-02",
+  "title": "commit-rewriter 0.2",
+  "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Release",
+    "Support",
+    "Use",
+    "Tags"
+  ],
+  "publishedAt": "2026-09-24T20:06:53.000Z",
+  "fetchedAt": "2026-09-27T12:43:04.780Z",
+  "summary": "&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/simonw/commit-rewriter/releases/tag/0.2\"&gt;commit-rewriter 0.2&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Support for branches other than the default branch. Use &lt;code&gt;uvx commit-rewriter --branch other&lt;/code&gt; to run against another branch. &lt;a href=\"https://github.com/simonw/commit-rewriter/issues/3\"&gt;#3&lt;/a&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Tags: &lt;a href=\"https://simonwillison.net/",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": "",
+    "lang": "en"
+  }
+}

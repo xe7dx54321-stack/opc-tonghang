@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-23-2609-27636v1",
+  "title": "Multi-Agent AI Architecture for Regulated Insurers: A generic AI framework under Solvency II and the AI Act in Austria and Germany",
+  "url": "http://arxiv.org/abs/2609.27636v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Multi",
+    "Agent AI Architecture",
+    "Regulated Insurers",
+    "AI",
+    "Solvency II",
+    "AI Act",
+    "Austria",
+    "Germany This",
+    "The",
+    "Arrow",
+    "Nash",
+    "Principal",
+    "Agent",
+    "ESG",
+    "Germany",
+    "Human",
+    "An",
+    "Insurance Distribution Directive",
+    "Protocol",
+    "Model Context Protocol"
+  ],
+  "publishedAt": "2026-09-23T10:00:16.000Z",
+  "fetchedAt": "2026-09-27T12:49:28.678Z",
+  "summary": "This paper proposes a formal multi-agent architecture for implementing enterprise AI in regulated insurance firms, integrating economic theory with institutional design. The framework synthesises three core theoretical perspectives: Arrow's risk pooling theory to formalise risk transformation under uncertainty, Nash equilibrium to model strategic interactions between decision agents, and Principal-Agent theory to address incentive alignment under information asymmetry. The insurer is modelled as",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27636v1",
+  "raw": {
+    "arxivId": "2609.27636v1",
+    "category": "cs.MA"
+  }
+}

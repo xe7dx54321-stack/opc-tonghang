@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-24-2609-29290v1",
+  "title": "Temporal Regression-Based Model-Free Sensorless Control of Permanent Magnet Synchronous Motor",
+  "url": "http://arxiv.org/abs/2609.29290v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Temporal Regression",
+    "Based Model",
+    "Free Sensorless Control",
+    "Permanent Magnet Synchronous Motor To",
+    "SPMSM",
+    "TFC",
+    "First",
+    "Second",
+    "Meanwhile",
+    "This",
+    "By",
+    "Finally"
+  ],
+  "publishedAt": "2026-09-24T09:27:04.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.098Z",
+  "summary": "To address the widespread sensitivity of surface-mounted permanent magnet synchronous motor (SPMSM) sensorless control to motor parameters, this paper proposes a temporal regression-based model-free sensorless control (TFC) method. First, voltage integrals and current increments over consecutive short intervals are stacked to construct a finite window regression, in which the unknown stator inductance appears as a common scalar coefficient. Second, a projection operator constructed from the stac",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29290v1",
+  "raw": {
+    "arxivId": "2609.29290v1",
+    "category": "eess.SY"
+  }
+}

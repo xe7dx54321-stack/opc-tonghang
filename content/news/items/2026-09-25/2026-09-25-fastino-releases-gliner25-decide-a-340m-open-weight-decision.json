@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-25-fastino-releases-gliner25-decide-a-340m-open-weight-decision",
+  "title": "Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That Runs on CPU",
+  "url": "https://www.marktechpost.com/2026/09/24/fastino-releases-gliner2-5-decide-a-340m-open-weight-decision-model-that-runs-on-cpu/",
+  "source": "marktechpost",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Fastino Releases",
+    "GLiNER2",
+    "Decide",
+    "Open",
+    "Weight Decision Model That Runs",
+    "CPU Fastino Labs",
+    "It",
+    "Each",
+    "Is",
+    "Yes",
+    "The",
+    "CPU",
+    "MarkTechPost"
+  ],
+  "publishedAt": "2026-09-25T04:46:38.000Z",
+  "fetchedAt": "2026-09-27T12:43:09.453Z",
+  "summary": "Fastino Labs has released GLiNER2.5-Decide, a 340M-parameter open-weight decision model. It takes text and a schema of typed questions and returns structured answers. Each answer comes with a probability distribution, a confidence score, and constraint-feasibility metadata. It targets the frequent judgment calls inside agent pipelines: routing, triage, tool selection, and guardrails. Is it deployable? Yes, [&#8230;] The post Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model Th",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "marktechpost",
+    "author": "<![CDATA[Sana Hassan]]>",
+    "lang": "en"
+  }
+}

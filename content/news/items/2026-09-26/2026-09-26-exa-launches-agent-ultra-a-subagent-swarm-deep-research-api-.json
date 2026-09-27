@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-26-exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-",
+  "title": "Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building",
+  "url": "https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/",
+  "source": "marktechpost",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Exa Launches Agent Ultra",
+    "Subagent Swarm Deep Research API Built",
+    "Exhaustive List Building Exa",
+    "Agent Ultra",
+    "Exa Agent API",
+    "It",
+    "Exa",
+    "Opus",
+    "GPT",
+    "Astra",
+    "Perplexity Agent",
+    "WANDR",
+    "The",
+    "Exhaustive List Building",
+    "MarkTechPost"
+  ],
+  "publishedAt": "2026-09-26T08:04:08.000Z",
+  "fetchedAt": "2026-09-27T12:43:09.452Z",
+  "summary": "Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It coordinates subagents across thousands of sources for list building and entity enrichment. Exa reports it beats Opus 5.5, GPT-6 Astra, and Perplexity Agent on 4 benchmarks, including 81.4% soft recall on WANDR. The post Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building appeared first on MarkTechPost. ]]>",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "marktechpost",
+    "author": "<![CDATA[Michal Sutter]]>",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-24-2609-30266v1",
+  "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+  "url": "http://arxiv.org/abs/2609.30266v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "These",
+    "LLM",
+    "We",
+    "Claude Code",
+    "Codex",
+    "Antigravity",
+    "Open Code",
+    "Grok Build",
+    "All",
+    "Muse Code",
+    "Finally",
+    "Overall"
+  ],
+  "publishedAt": "2026-09-24T17:59:54.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.223Z",
+  "summary": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces. We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary. All tested harnesses, except Muse Code, allowed agents to delete their traces when asked, without triggering monitor guardrails. We also validate that exte",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30266v1",
+  "raw": {
+    "arxivId": "2609.30266v1",
+    "category": "cs.AI"
+  }
+}

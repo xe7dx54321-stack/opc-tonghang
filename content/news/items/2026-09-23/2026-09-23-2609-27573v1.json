@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-23-2609-27573v1",
+  "title": "Agent-Based Modeling of Systems of Systems",
+  "url": "http://arxiv.org/abs/2609.27573v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Agent",
+    "Based Modeling",
+    "Systems",
+    "Systems This",
+    "SoSs",
+    "The",
+    "SoS",
+    "In",
+    "Group",
+    "Role",
+    "Functional",
+    "Multilevel",
+    "Influence Reaction Model",
+    "Multilevel Simulation",
+    "IRM4MLS",
+    "Models",
+    "They",
+    "All",
+    "Intelligent Autonomous Vehicles",
+    "Intelligent Transportation"
+  ],
+  "publishedAt": "2026-09-23T08:52:54.000Z",
+  "fetchedAt": "2026-09-27T12:49:28.678Z",
+  "summary": "This paper deals with the generic modeling of systems of systems (SoSs) using agent-based modeling. SoSs are large-scale systems, including numerous-possibly heterogeneous-interacting component systems evolving in a dynamic environment. The aim of this paper is to provide generic formalism allowing to represent and control the whole complexity of a SoS using agent-based simulations. In particular, organizational aspects of SoSs are managed with the Agent-Group-Role model. Functional aspects, gui",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27573v1",
+  "raw": {
+    "arxivId": "2609.27573v1",
+    "category": "cs.MA"
+  }
+}

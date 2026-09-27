@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-29160v1",
+  "title": "Cross-Model Autoscaling for Shared LLM Serving",
+  "url": "http://arxiv.org/abs/2609.29160v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Cross",
+    "Model Autoscaling",
+    "Shared LLM Serving Multi",
+    "LLM",
+    "MaaS",
+    "GPU",
+    "SLO",
+    "Existing LLM",
+    "We",
+    "Token",
+    "Rebalancing Engine",
+    "TRE",
+    "Token Service Share",
+    "TSS",
+    "Guided",
+    "Kubernetes",
+    "Across",
+    "KV",
+    "The",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T07:34:35.000Z",
+  "fetchedAt": "2026-09-27T12:50:40.564Z",
+  "summary": "Multi-model LLM serving is moving toward shared MaaS clusters, where co-hosted models compete for a fixed GPU budget while each model experiences time-varying demand and must satisfy its own latency SLO. Existing LLM autoscalers remain largely model-local: their signals expose local runtime activity or delayed latency outcomes, and their scale-up or provisioning decisions do not directly determine how shared capacity should be allocated across competing models. We present the Token-service-share",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29160v1",
+  "raw": {
+    "arxivId": "2609.29160v1",
+    "category": "cs.DC"
+  }
+}

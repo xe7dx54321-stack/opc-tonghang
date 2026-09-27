@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-25-perplexity-trains-its-computer-agent-on-real-mistakes-with-h",
+  "title": "Perplexity Trains Its Computer Agent on Real Mistakes With Hint-Guided Self-Distillation",
+  "url": "https://www.marktechpost.com/2026/09/25/perplexity-trains-its-computer-agent-on-real-mistakes-with-hint-guided-self-distillation/",
+  "source": "marktechpost",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Perplexity Trains Its Computer Agent",
+    "Real Mistakes With Hint",
+    "Guided Self",
+    "Distillation Perplexity Research",
+    "It",
+    "Perplexity Computer",
+    "The",
+    "In",
+    "Perplexity",
+    "Distillation",
+    "MarkTechPost"
+  ],
+  "publishedAt": "2026-09-25T14:30:26.000Z",
+  "fetchedAt": "2026-09-27T12:43:09.453Z",
+  "summary": "Perplexity Research published a new post-training study. It trains a model inside Perplexity Computer on real user sessions, including failed ones. The method pairs rejection sampling fine-tuning with hint-guided self-distillation. In a live A/B test, tool-call failures fell from 2.24% to 1.77% between 2 trained checkpoints. Perplexity team reports this as a statistically significant 21.2% [&#8230;] The post Perplexity Trains Its Computer Agent on Real Mistakes With Hint-Guided Self-Distillation",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "marktechpost",
+    "author": "<![CDATA[Michal Sutter]]>",
+    "lang": "en"
+  }
+}

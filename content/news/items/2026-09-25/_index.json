@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-25",
+  "itemCount": 152,
+  "bySource": {
+    "arxiv": 83,
+    "simon-willison": 2,
+    "techcrunch-ai": 16,
+    "ars-technica": 15,
+    "techcrunch": 3,
+    "leiphone": 3,
+    "theinformation": 11,
+    "qbitai": 3,
+    "stratechery": 1,
+    "marktechpost": 4,
+    "semiconductor-engineering": 2,
+    "eetimes": 2,
+    "robot-report": 4,
+    "semiwiki": 2,
+    "ieee-spectrum-robotics": 1
+  },
+  "byTopic": {
+    "ai": 129,
+    "embodied-ai": 19,
+    "semiconductor": 25
+  },
+  "generatedBy": "backfill"
+}

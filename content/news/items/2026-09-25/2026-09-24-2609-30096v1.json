@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-24-2609-30096v1",
+  "title": "Accelerating Video Diffusion via Training-Free Trajectory Routing",
+  "url": "http://arxiv.org/abs/2609.30096v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Accelerating Video Diffusion",
+    "Training",
+    "Free Trajectory Routing Video",
+    "Even",
+    "We",
+    "TRACK",
+    "TRajectory",
+    "Aware Capacity",
+    "The",
+    "Then",
+    "Both",
+    "Aggregating",
+    "Inference",
+    "Across Wan",
+    "Cosmos",
+    "TurboDiffusion",
+    "FastVideo"
+  ],
+  "publishedAt": "2026-09-24T16:39:47.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.224Z",
+  "summary": "Video diffusion is computationally expensive, as it requires executing a large model across many denoising steps. Even with step-distillation, inference remains expensive because every distilled step still requires a costly model evaluation. We present TRACK: TRajectory-Aware Capacity routing via top-K selection, a heterogeneous denoising strategy that switches between compatible large and small models at selected steps, reducing the average cost per denoising evaluation. The switching steps are",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30096v1",
+  "raw": {
+    "arxivId": "2609.30096v1",
+    "category": "cs.AI"
+  }
+}

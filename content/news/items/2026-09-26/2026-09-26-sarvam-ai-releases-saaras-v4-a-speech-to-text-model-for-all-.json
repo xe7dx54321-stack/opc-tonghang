@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-26-sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-",
+  "title": "Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English",
+  "url": "https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-languages-and-global-english/",
+  "source": "marktechpost",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Sarvam AI Releases Saaras",
+    "Speech",
+    "Text Model",
+    "All",
+    "Indian Languages",
+    "Global English Sarvam AI",
+    "Saaras",
+    "Indian",
+    "English",
+    "It",
+    "Sarvam",
+    "API",
+    "The",
+    "Global English",
+    "MarkTechPost"
+  ],
+  "publishedAt": "2026-09-26T21:56:23.000Z",
+  "fetchedAt": "2026-09-27T12:43:09.452Z",
+  "summary": "Sarvam AI's Saaras V4 is a speech-to-text model covering all 22 Indian languages plus global English. It pairs an audio encoder with a 3B hybrid state-space decoder. It adds keyterm prompting for up to 50 terms, 5 output modes from 1 model, and streaming with first-token latency under 150 ms. It is available today through Sarvam's API at ₹30 per hour. The post Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English appeared first on MarkTechPost. ]]>",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "marktechpost",
+    "author": "<![CDATA[Asif Razzaq]]>",
+    "lang": "en"
+  }
+}

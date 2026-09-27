@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-24-2609-29321v1",
+  "title": "Inverse Linear Quadratic Gaussian Games: Constrained Setting and Transferability",
+  "url": "http://arxiv.org/abs/2609.29321v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Inverse Linear Quadratic Gaussian Games",
+    "Constrained Setting",
+    "Transferability This",
+    "Gaussian",
+    "In",
+    "Nash",
+    "This",
+    "Through"
+  ],
+  "publishedAt": "2026-09-24T10:00:06.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.098Z",
+  "summary": "This work addresses finite-horizon inverse linear quadratic Gaussian games. In a constrained setting, we characterize the set of cost parameters and optimal dual values that generate a given generalized Nash equilibrium, and we propose an algorithm to compute these parameters. In an unconstrained setting, we address transferability, namely, we bound the cost value perturbation between two policies: one induced by the identified cost parameters, the other by the expert parameters, under a set of ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29321v1",
+  "raw": {
+    "arxivId": "2609.29321v1",
+    "category": "eess.SY"
+  }
+}

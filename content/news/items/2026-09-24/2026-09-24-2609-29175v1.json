@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-24-2609-29175v1",
+  "title": "A Human-Like Pedestrian Model for Automated Driving Simulations",
+  "url": "http://arxiv.org/abs/2609.29175v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Human",
+    "Like Pedestrian Model",
+    "Automated Driving Simulations Automated",
+    "Although",
+    "While",
+    "Here",
+    "Our",
+    "Markov",
+    "POMDP",
+    "It",
+    "When",
+    "RL",
+    "We",
+    "Together"
+  ],
+  "publishedAt": "2026-09-24T07:45:47.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.870Z",
+  "summary": "Automated vehicles must be able to interact with pedestrians safely and efficiently across diverse traffic situations. Although driving simulators offer a scalable testbed for learning such capabilities, existing theory-inspired pedestrian models are narrow in scope and limited to go/no-go crossing decisions in single-lane settings. While data-driven approaches can predict pedestrian behavior in complex situations, they lack sufficient observations in rare, safety-critical scenarios. Here, we pr",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29175v1",
+  "raw": {
+    "arxivId": "2609.29175v1",
+    "category": "cs.HC"
+  }
+}

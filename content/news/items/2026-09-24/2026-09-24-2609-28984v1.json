@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-24-2609-28984v1",
+  "title": "CrossSafe: Towards Cross-Embodiment Latent Safety Filters",
+  "url": "http://arxiv.org/abs/2609.28984v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "CrossSafe",
+    "Towards Cross",
+    "Embodiment Latent Safety Filters Cross",
+    "VLA",
+    "We",
+    "The",
+    "What",
+    "Consequently",
+    "This",
+    "Hamilton",
+    "Jacobi",
+    "Using",
+    "Our",
+    "They"
+  ],
+  "publishedAt": "2026-09-24T03:55:06.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.098Z",
+  "summary": "Cross-embodiment learning has shown that a single model, such as a vision-language-action (VLA) model, can learn state representations and manipulation skills that can be applied across heterogeneous robots to accomplish various tasks. We hypothesize that the same holds for safety enforcement. The reasoning required to satisfy a safety constraint, such as detecting an obstacle, recognizing that it should be avoided, and selecting a safe abstract action, is largely shared across robots. What diff",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28984v1",
+  "raw": {
+    "arxivId": "2609.28984v1",
+    "category": "eess.SY"
+  }
+}

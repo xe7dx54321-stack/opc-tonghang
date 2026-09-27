@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-23-2609-28715v1",
+  "title": "Understanding Creative Design Practices among Data Artists",
+  "url": "http://arxiv.org/abs/2609.28715v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Understanding Creative Design Practices",
+    "Data Artists Creative",
+    "We",
+    "Inspiration",
+    "Sketches",
+    "Designers",
+    "Their",
+    "These",
+    "AI"
+  ],
+  "publishedAt": "2026-09-23T18:54:37.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.871Z",
+  "summary": "Creative and artistic data visualizations communicate stories and invite engagement, yet how designers develop their expressive forms remains poorly understood. We investigate the design process of data artists through three complementary studies: an analysis of 40 public project accounts, artifact-anchored interviews with seven experienced data artists, and a design task-based study with eight data artists. We find that stories and visual forms develop together through data exploration, referen",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28715v1",
+  "raw": {
+    "arxivId": "2609.28715v1",
+    "category": "cs.HC"
+  }
+}

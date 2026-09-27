@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-24-2609-30123v1",
+  "title": "HEXIS: Compiling Skills into Extended Finite State Machines",
+  "url": "http://arxiv.org/abs/2609.30123v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "HEXIS",
+    "Compiling Skills",
+    "Extended Finite State Machines Agent",
+    "This",
+    "We",
+    "Skill",
+    "The",
+    "Our",
+    "It",
+    "These",
+    "Updates",
+    "Across",
+    "ReAct"
+  ],
+  "publishedAt": "2026-09-24T16:58:18.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.224Z",
+  "summary": "Agent skills provide reusable knowledge and instructions, yet agents must repeatedly infer how to apply them and which operation should follow. This couples task reasoning with control decisions, allowing prescribed steps to be omitted or applied incorrectly. We introduce HEXIS, which compiles agent skills into extended finite state machines that separate knowledge from control flow. Skill knowledge is incorporated into local instructions that guide reasoning and generation within states. The ma",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30123v1",
+  "raw": {
+    "arxivId": "2609.30123v1",
+    "category": "cs.AI"
+  }
+}

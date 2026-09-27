@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-23-2609-28672v1",
+  "title": "Available but Not Usable: Dark Patterns and Interaction Cost in Social Media Privacy and Safety Settings for Teens",
+  "url": "http://arxiv.org/abs/2609.28672v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Available",
+    "Not Usable",
+    "Dark Patterns",
+    "Interaction Cost",
+    "Social Media Privacy",
+    "Safety Settings",
+    "Teens Social",
+    "Platforms",
+    "We",
+    "TikTok",
+    "Instagram",
+    "Snapchat",
+    "YouTube",
+    "Interaction",
+    "Recurring",
+    "Protective"
+  ],
+  "publishedAt": "2026-09-23T18:13:34.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.871Z",
+  "summary": "Social media platforms are central to teenagers' lives, and their designs can expose users to privacy, safety, and wellbeing harms. Platforms increasingly offer protective settings, though the presence of a control reveals little about whether teenagers can find, use, and benefit from it over time. We paired an expert evaluation of six privacy and safety tasks across TikTok, Instagram, Snapchat, and YouTube with moderated think aloud sessions in which 11 teenagers aged 14 to 17 attempted the tas",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28672v1",
+  "raw": {
+    "arxivId": "2609.28672v1",
+    "category": "cs.HC"
+  }
+}

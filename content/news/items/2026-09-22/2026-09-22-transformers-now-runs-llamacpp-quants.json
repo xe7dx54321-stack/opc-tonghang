@@ -1,0 +1,25 @@
+{
+  "id": "2026-09-22-transformers-now-runs-llamacpp-quants",
+  "title": "Transformers now runs llama.cpp quants",
+  "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+  "source": "hugging-face-blog",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Transformers"
+  ],
+  "publishedAt": "2026-09-22T00:00:00.000Z",
+  "fetchedAt": "2026-09-27T12:43:10.844Z",
+  "summary": "",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "hugging-face-blog",
+    "author": "",
+    "lang": "en"
+  }
+}

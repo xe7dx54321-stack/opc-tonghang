@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-24-2609-29975v1",
+  "title": "Sluice: Global Invariant, Local Enforcement for Pooled Payment-Channel Liquidity",
+  "url": "http://arxiv.org/abs/2609.29975v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Sluice",
+    "Global Invariant",
+    "Local Enforcement",
+    "Pooled Payment",
+    "Channel Liquidity",
+    "Lightning Network",
+    "Pooling",
+    "On",
+    "Lightning",
+    "Two",
+    "Re"
+  ],
+  "publishedAt": "2026-09-24T15:26:42.000Z",
+  "fetchedAt": "2026-09-27T12:50:40.564Z",
+  "summary": "A routing node on the Lightning Network holds its liquidity in separate channels, so a payment can fail at a channel whose outbound balance is exhausted while the node's other channels still hold balance. Pooling the channels into one reserve fixes this only if the node's draws across all channels stay within the reserve: a global invariant that each counterparty must enforce from its own channel, with no shared counter that off-chain draws can update. A node must therefore split the reserve int",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29975v1",
+  "raw": {
+    "arxivId": "2609.29975v1",
+    "category": "cs.DC"
+  }
+}

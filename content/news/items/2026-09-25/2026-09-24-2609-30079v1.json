@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-30079v1",
+  "title": "Reachability-Based Formal Verification of Graph Neural Networks with Node and Edge Features",
+  "url": "http://arxiv.org/abs/2609.30079v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Reachability",
+    "Based Formal Verification",
+    "Graph Neural Networks",
+    "Node",
+    "Edge Features Graph",
+    "GNNs",
+    "PF",
+    "OPF",
+    "CFA",
+    "Despite",
+    "GNN",
+    "We",
+    "NNV",
+    "GraphStar",
+    "Star",
+    "This",
+    "ReLU",
+    "GCN",
+    "GINE",
+    "GNNV"
+  ],
+  "publishedAt": "2026-09-24T16:29:32.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.224Z",
+  "summary": "Graph neural networks (GNNs) have become a prominent approach for developing fast, topology-aware surrogates in electric power systems, supporting tasks such as power flow (PF) analysis, optimal power flow (OPF) estimation, and cascading failure analysis (CFA). Despite this growing use, formally verifying GNN-based models remains challenging, with existing methods limited in scope. We extend the neural network verification (NNV) framework to graph-structured inputs through GraphStar sets, a gene",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30079v1",
+  "raw": {
+    "arxivId": "2609.30079v1",
+    "category": "cs.AI"
+  }
+}

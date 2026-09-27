@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-24-2609-29929v1",
+  "title": "Pairwise Approximation Can Select the Wrong Multi-Robot Plan",
+  "url": "http://arxiv.org/abs/2609.29929v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Pairwise Approximation Can Select",
+    "Wrong Multi",
+    "Robot Plan Multi",
+    "We",
+    "For",
+    "From",
+    "Ranking",
+    "Switching",
+    "The"
+  ],
+  "publishedAt": "2026-09-24T14:59:20.000Z",
+  "fetchedAt": "2026-09-27T12:50:25.004Z",
+  "summary": "Multi-robot coordination methods often score a joint plan from singleton and pairwise terms, leaving out the terms that involve three or more robots. We measure the plan-selection regret of two pairwise approximations to delivered coverage using frozen multi-robot trajectories. For each four-robot plan on an indoor exploration benchmark, replaying all 16 robot subsets gives the exact delivered-coverage set function $F$. From the same subset values we compute two pairwise scores: the exact order-",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29929v1",
+  "raw": {
+    "arxivId": "2609.29929v1",
+    "category": "cs.MA"
+  }
+}

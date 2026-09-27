@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-24-2609-28943v1",
+  "title": "Dependency- and Layer-Aware Microservice Workflow Offloading and Service Image Caching for Edge Environments",
+  "url": "http://arxiv.org/abs/2609.28943v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Dependency",
+    "Layer",
+    "Aware Microservice Workflow Offloading",
+    "Service Image Caching",
+    "Edge Environments The",
+    "As",
+    "In",
+    "This",
+    "Unfortunately",
+    "To",
+    "We",
+    "GitHub",
+    "Extensive"
+  ],
+  "publishedAt": "2026-09-24T02:48:38.000Z",
+  "fetchedAt": "2026-09-27T12:50:40.564Z",
+  "summary": "The microservice architecture has been applied broadly in many mainstream computing environments. As one of the most prevalent environments, edge computing also widely employs microservices to handle diverse requests and tasks. In practical scenarios, microservices usually constitute workflows that are built based on service dependencies to execute tasks. This offers an opportunity to explore the offloading technology to better harness resources and accelerate task execution. Unfortunately, this",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28943v1",
+  "raw": {
+    "arxivId": "2609.28943v1",
+    "category": "cs.DC"
+  }
+}

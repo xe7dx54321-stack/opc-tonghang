@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-24-2609-30213v1",
+  "title": "ReVAMP: Vector-Accelerated Motion Planning for Kinematically-Constrained Systems via Reparameterization",
+  "url": "http://arxiv.org/abs/2609.30213v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "ReVAMP",
+    "Vector",
+    "Accelerated Motion Planning",
+    "Kinematically",
+    "Constrained Systems",
+    "Reparameterization Robots",
+    "When",
+    "For",
+    "IK",
+    "Despite",
+    "We",
+    "This",
+    "Furthermore"
+  ],
+  "publishedAt": "2026-09-24T17:45:26.000Z",
+  "fetchedAt": "2026-09-27T12:51:25.345Z",
+  "summary": "Robots often must satisfy one or more constraints during motion planning for real-world tasks. When such constraints reduce the valid configuration space to a measure-zero subset, sampling based planning algorithms require modifications to draw feasible samples. For many common end-effector constraints, parameterizations built on inverse kinematics (IK) provide an alternate formulation where the constraints are satisfied by construction, allowing directly sampling the feasible set. Despite their",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30213v1",
+  "raw": {
+    "arxivId": "2609.30213v1",
+    "category": "cs.RO"
+  }
+}

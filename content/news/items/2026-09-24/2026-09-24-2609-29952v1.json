@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-24-2609-29952v1",
+  "title": "Augur: A Synthetic Decision Lab for Rehearsing Reactions to Product and Policy Changes",
+  "url": "http://arxiv.org/abs/2609.29952v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Augur",
+    "Synthetic Decision Lab",
+    "Rehearsing Reactions",
+    "Product",
+    "Policy Changes Before",
+    "We",
+    "Gold",
+    "Our",
+    "First",
+    "LoRA",
+    "SFT",
+    "Second",
+    "McNemar",
+    "Holm",
+    "Third",
+    "Separately",
+    "The"
+  ],
+  "publishedAt": "2026-09-24T15:10:29.000Z",
+  "fetchedAt": "2026-09-27T12:50:13.583Z",
+  "summary": "Before a product or policy change ships, the question that matters is how people will react to it. Augur rehearses that reaction offline: it builds a typed knowledge graph from the change documents, populates a grounded persona market, simulates the interaction, and returns an auditable decision memo recommending one of five actions. We assemble Gold-50, fifty real product and policy episodes whose real-world outcome is known, adjudicated against the public record, and score the five-way release",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29952v1",
+  "raw": {
+    "arxivId": "2609.29952v1",
+    "category": "cs.CL"
+  }
+}

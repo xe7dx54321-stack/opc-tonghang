@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-22-2609-26616v1",
+  "title": "Seeking Cost-Optimal Infrastructure Size for Distributed Filesystems: A Ceph Case Study",
+  "url": "http://arxiv.org/abs/2609.26616v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Seeking Cost",
+    "Optimal Infrastructure Size",
+    "Distributed Filesystems",
+    "Ceph Case Study Distributed Filesystems",
+    "DFS",
+    "However",
+    "In",
+    "Ceph",
+    "We",
+    "CPU",
+    "RAM",
+    "To",
+    "Linux",
+    "Cgroups",
+    "Our",
+    "This"
+  ],
+  "publishedAt": "2026-09-22T15:50:14.000Z",
+  "fetchedAt": "2026-09-27T12:48:51.521Z",
+  "summary": "Distributed Filesystems (DFS) are a crucial component of modern computing environments, and their performance is critical to the success of all the facilities that rely on them. However, predicting the DFS I/O performance solely based on the storage system hardware is not trivial. In this paper, we address this challenge by presenting an empirical method that tries to quantitatively assess how hardware configuration choices influence the performance of a DFS using Ceph as a case study. We invest",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.26616v1",
+  "raw": {
+    "arxivId": "2609.26616v1",
+    "category": "cs.PF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-24-2609-28862v1",
+  "title": "pytest-gpu-proof: Enabling Cloud-CPU Continuous Integration for GPU Code with Local GPU Attestation",
+  "url": "http://arxiv.org/abs/2609.28862v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Enabling Cloud",
+    "CPU Continuous Integration",
+    "GPU Code",
+    "Local GPU Attestation GPU",
+    "GPU",
+    "CI",
+    "We",
+    "Tests",
+    "CPU CI",
+    "GitHub Actions",
+    "The",
+    "PyPI"
+  ],
+  "publishedAt": "2026-09-24T00:06:11.000Z",
+  "fetchedAt": "2026-09-27T12:50:40.564Z",
+  "summary": "GPU acceleration is now routine across robotics, but cloud-hosted GPU continuous integration (CI) runners are expensive, resulting in severe under-testing of GPU-accelerated code. We present pytest-gpu-proof, an open-source pytest plugin offering a practical middle ground. Tests can be run on a local machine, signed with a receipt of exactly what ran and what it produced, and integrated into standard CPU CI workflows (e.g., GitHub Actions). The tool is open source and on PyPI, and we are activel",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28862v1",
+  "raw": {
+    "arxivId": "2609.28862v1",
+    "category": "cs.DC"
+  }
+}

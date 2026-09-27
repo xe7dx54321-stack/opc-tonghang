@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-23-2609-27994v1",
+  "title": "Compliant with Local Controls, Collectively Discriminatory. A Governance Architecture for Multi-Agent AI in Regulated Finance",
+  "url": "http://arxiv.org/abs/2609.27994v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Compliant",
+    "Local Controls",
+    "Collectively Discriminatory",
+    "Governance Architecture",
+    "Multi",
+    "Agent AI",
+    "Regulated Finance Financial",
+    "Governance",
+    "That",
+    "We",
+    "ARIA",
+    "It",
+    "Two",
+    "The",
+    "EU AI Act"
+  ],
+  "publishedAt": "2026-09-23T12:25:37.000Z",
+  "fetchedAt": "2026-09-27T12:49:28.678Z",
+  "summary": "Financial institutions are beginning to deploy agentic workflows in credit, fraud, collections, compliance, and operational control. Governance remains largely component-centric: each model or agent is specified, tested, authorized, and monitored locally. That is insufficient when institutional risk arises from the joint behavior of many locally acceptable components. We call this gap constitutional non-compositionality: local compliance checks need not compose into acceptable collective outcome",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27994v1",
+  "raw": {
+    "arxivId": "2609.27994v1",
+    "category": "cs.MA"
+  }
+}

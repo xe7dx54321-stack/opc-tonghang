@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-24-2609-30056v1",
+  "title": "M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis",
+  "url": "http://arxiv.org/abs/2609.30056v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Multi",
+    "Modal Multi",
+    "View Geometric Diffusion",
+    "Camera",
+    "LiDAR Novel View Synthesis Robotic",
+    "NVS",
+    "LiDAR",
+    "We",
+    "On",
+    "GrandTour",
+    "RGB",
+    "Ablations",
+    "Deployment",
+    "Euler"
+  ],
+  "publishedAt": "2026-09-24T16:14:00.000Z",
+  "fetchedAt": "2026-09-27T12:51:17.112Z",
+  "summary": "Robotic novel view synthesis (NVS) must recover both visual appearance and metric 3D structure, yet most generative NVS methods rely only on images, overlooking LiDAR, a complementary sensor common on robotic platforms. We present M3GD, a Camera--LiDAR multimodal representation for generative NVS that composes independently pretrained 2D image and 3D point-cloud foundation models without separately pretraining a cross-modal translator. We show that, after camera projection, frozen LiDAR and imag",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30056v1",
+  "raw": {
+    "arxivId": "2609.30056v1",
+    "category": "cs.CV"
+  }
+}

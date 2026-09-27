@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-24-2609-30134v1",
+  "title": "Training-free Behavior Cloning",
+  "url": "http://arxiv.org/abs/2609.30134v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Training",
+    "Behavior Cloning Neural",
+    "Retrieval",
+    "We",
+    "Behavior Predictive Control",
+    "BPC",
+    "Hankel",
+    "Inspired",
+    "Across",
+    "GPUs",
+    "Hz",
+    "Jetson Orin Nano",
+    "The",
+    "Retaining"
+  ],
+  "publishedAt": "2026-09-24T17:05:58.000Z",
+  "fetchedAt": "2026-09-27T12:51:25.345Z",
+  "summary": "Neural behavior cloning compresses demonstrations into large models, making individual actions difficult to trace and policy updates costly. Retrieval policies retain access to demonstrations but struggle with mismatch between recorded and live behavior. We introduce Behavior Predictive Control (BPC), which synthesizes policies without end-to-end policy training by combining an action-aware retrieval metric, a Hankel-based action-continuation prior, and a closed-form one-step residual correction",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30134v1",
+  "raw": {
+    "arxivId": "2609.30134v1",
+    "category": "cs.RO"
+  }
+}

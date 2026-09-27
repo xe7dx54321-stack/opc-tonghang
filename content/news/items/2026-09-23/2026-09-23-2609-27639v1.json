@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-23-2609-27639v1",
+  "title": "Agent-based Modeling: Equilibrium, Echo Chambers, and Efficiency in Hybrid Coevolutionary Opinion Games",
+  "url": "http://arxiv.org/abs/2609.27639v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Agent",
+    "Modeling",
+    "Equilibrium",
+    "Echo Chambers",
+    "Efficiency",
+    "Analytical",
+    "LLM",
+    "We",
+    "Hybrid Coevolutionary Opinion Game",
+    "COG",
+    "Friedkin",
+    "Johnsen",
+    "Type",
+    "Phi",
+    "Reddit",
+    "The",
+    "RoBERTa",
+    "All",
+    "Under Type",
+    "Price"
+  ],
+  "publishedAt": "2026-09-23T10:01:12.000Z",
+  "fetchedAt": "2026-09-27T12:49:28.678Z",
+  "summary": "Opinion formation in online networks involves changes in both beliefs and social ties. Analytical models make it possible to study equilibrium and social cost, but usually represent communication as a fixed numerical update. LLM-driven agents offer a language-based alternative, yet their convergence and collective efficiency remain unclear. We develop the Hybrid Coevolutionary Opinion Game (H-COG), combining cost-minimizing Friedkin-Johnsen agents (Type-C) and Phi-4 language agents (Type-L) in a",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27639v1",
+  "raw": {
+    "arxivId": "2609.27639v1",
+    "category": "cs.MA"
+  }
+}

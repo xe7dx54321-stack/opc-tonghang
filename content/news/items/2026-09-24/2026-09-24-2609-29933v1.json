@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-29933v1",
+  "title": "An Empirical Study of VLM Pipelines for Long-Document QA",
+  "url": "http://arxiv.org/abs/2609.29933v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "An Empirical Study",
+    "VLM Pipelines",
+    "Long",
+    "Document QA Vision",
+    "Language Models",
+    "VLMs",
+    "Deploying",
+    "We",
+    "QA",
+    "API",
+    "First",
+    "MMLongBench",
+    "Doc",
+    "VLM",
+    "Sonnet",
+    "On LongDocURL",
+    "Its",
+    "LongDocURL",
+    "Second",
+    "LLM"
+  ],
+  "publishedAt": "2026-09-24T15:00:18.000Z",
+  "fetchedAt": "2026-09-27T12:50:13.583Z",
+  "summary": "Vision-Language Models (VLMs) are increasingly used for long-document processing, where the inputs combine text with charts, tables, figures, and complex layouts. Deploying them means choosing how to feed the document to the model, which retriever to use when only a subset of pages is sent, and whether to run the model agentically or as a static pipeline. We study these choices on two long-document QA benchmarks with both frontier API and open-weight VLMs. First, on MMLongBench-Doc our six-tool ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29933v1",
+  "raw": {
+    "arxivId": "2609.29933v1",
+    "category": "cs.CL"
+  }
+}

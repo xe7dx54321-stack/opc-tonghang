@@ -1,0 +1,42 @@
+{
+  "id": "2026-09-23-2609-28801v1",
+  "title": "The Interface Is Downstream: Designing the Terms of Human-Agent Collaboration",
+  "url": "http://arxiv.org/abs/2609.28801v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "The Interface Is Downstream",
+    "Designing",
+    "Terms",
+    "Human",
+    "Agent Collaboration Before",
+    "Memory",
+    "Evidence",
+    "Permissions",
+    "Learning",
+    "The",
+    "Alicia",
+    "January",
+    "It",
+    "In",
+    "Five",
+    "These",
+    "Humorphism",
+    "This",
+    "Correction"
+  ],
+  "publishedAt": "2026-09-23T21:27:21.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.871Z",
+  "summary": "Before an agent responds or acts, much of the experience has already been designed. Memory and retrieval shape what it notices. Evidence rules shape what it may claim. Permissions shape what it can do. Learning rules shape what it carries into the next encounter. The argument comes from Alicia, a personal agent I've built and used since January 2026. A fine-tuning pilot produced no defensible model-performance result. It exposed a provenance failure: Alicia repeated an interpretation from a retr",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28801v1",
+  "raw": {
+    "arxivId": "2609.28801v1",
+    "category": "cs.HC"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-23-2609-28296v1",
+  "title": "Talk2Escape: Conversational Grounding for Vision-and-Language Navigation",
+  "url": "http://arxiv.org/abs/2609.28296v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Conversational Grounding",
+    "Vision",
+    "Language Navigation While Vision",
+    "Language Navigation",
+    "VLN",
+    "In",
+    "To",
+    "At",
+    "Upon",
+    "Extensive",
+    "CE",
+    "RxR",
+    "VLNVerse",
+    "Empirically",
+    "Success Rate",
+    "We",
+    "Unitree"
+  ],
+  "publishedAt": "2026-09-23T15:41:54.000Z",
+  "fetchedAt": "2026-09-27T12:49:36.350Z",
+  "summary": "While Vision-and-Language Navigation (VLN) has demonstrated remarkable success, the prevailing single-turn paradigm exposes a fundamental vulnerability: agents operate in a strictly open-loop manner. In practice, factors such as perceptual aliasing, sensor noise, and odometry drift can cause minor deviations to accumulate over time, often leading to catastrophic mission failures with no built-in mechanism for error recovery. To address this, we introduce \\textit{Talk2Escape}, a proactive and mod",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28296v1",
+  "raw": {
+    "arxivId": "2609.28296v1",
+    "category": "cs.HC"
+  }
+}

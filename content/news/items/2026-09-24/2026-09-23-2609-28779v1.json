@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-23-2609-28779v1",
+  "title": "Where Does Streaming State Cost Go? A Reproducible Comparison of Flink and Kafka Streams on Kafka",
+  "url": "http://arxiv.org/abs/2609.28779v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Where Does Streaming State Cost Go",
+    "Reproducible Comparison",
+    "Flink",
+    "Kafka Streams",
+    "Kafka This",
+    "Kafka",
+    "Apache Flink",
+    "The",
+    "CI",
+    "Further",
+    "Failure",
+    "JVM",
+    "Accordingly"
+  ],
+  "publishedAt": "2026-09-23T20:48:06.000Z",
+  "fetchedAt": "2026-09-27T12:50:40.564Z",
+  "summary": "This paper presents a controlled comparison of exactly-once Kafka pipelines implemented with Apache Flink and Kafka Streams, two engines with different state-management architectures. The state management in Flink occurs through checkpoints in external storage, whereas Kafka Streams restores local state by replaying broker changelogs. The experiments evaluate the effects of the two designs on latency, resource consumption, configuration sensitivity, and recover from injected failures. The engine",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28779v1",
+  "raw": {
+    "arxivId": "2609.28779v1",
+    "category": "cs.DC"
+  }
+}

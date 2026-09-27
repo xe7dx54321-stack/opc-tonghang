@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-24-2609-29804v1",
+  "title": "REAT: A Reflective Experience-Augmented Tutoring Framework for Multi-turn Mathematical Instruction",
+  "url": "http://arxiv.org/abs/2609.29804v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "REAT",
+    "Reflective Experience",
+    "Augmented Tutoring Framework",
+    "Multi",
+    "LLMs",
+    "While",
+    "LLM",
+    "To",
+    "Augmented Tutoring",
+    "Driven",
+    "Observer",
+    "Critic",
+    "Mentor",
+    "OCM",
+    "During",
+    "Experiments",
+    "SFT",
+    "Crucially"
+  ],
+  "publishedAt": "2026-09-24T13:40:19.000Z",
+  "fetchedAt": "2026-09-27T12:50:25.005Z",
+  "summary": "Current Large Language Models (LLMs) excel at solving complex mathematical problems, yet this proficiency does not inherently translate into effective tutoring. While advanced LLM tutors may leverage multi-agent frameworks or fine-tuning, most still lack a mechanism to systematically accumulate and reuse pedagogical experience over time, limiting their adaptability to diverse student needs during fluid, multi-turn interactions. To bridge this gap, we propose the Reflective Experience-Augmented T",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29804v1",
+  "raw": {
+    "arxivId": "2609.29804v1",
+    "category": "cs.MA"
+  }
+}

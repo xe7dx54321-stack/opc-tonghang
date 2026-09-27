@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-23-2609-27386v1",
+  "title": "From Intents to Algorithms: Verified Algorithm Discovery for Transport Networks",
+  "url": "http://arxiv.org/abs/2609.27386v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "From Intents",
+    "Algorithms",
+    "Verified Algorithm Discovery",
+    "Transport Networks Intent",
+    "Large",
+    "LLMs",
+    "We",
+    "VERA",
+    "TN",
+    "The",
+    "LLM",
+    "AST",
+    "Across",
+    "TEFNET24-derived",
+    "Holm",
+    "MILP",
+    "Eight",
+    "These"
+  ],
+  "publishedAt": "2026-09-23T05:38:07.000Z",
+  "fetchedAt": "2026-09-27T12:49:28.678Z",
+  "summary": "Intent-based networking decouples desired outcomes from device-level configuration, but most systems still map intents to parameters of an algorithm selected in advance. Large language models (LLMs) create an opportunity to automate algorithm design, yet unrestricted generated code is unsuitable for transport-network control because feasibility, reproducibility, and robustness must be enforced independently of the model. We present VERA-TN, a verification-guided framework that compiles a network",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27386v1",
+  "raw": {
+    "arxivId": "2609.27386v1",
+    "category": "cs.MA"
+  }
+}

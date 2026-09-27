@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-29861v1",
+  "title": "GPT-6-Astra Lights Up Embodied Navigation: Evaluation in Zero-Shot Vision-and-Language Navigation in Continuous Environments",
+  "url": "http://arxiv.org/abs/2609.29861v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "GPT",
+    "Astra Lights Up Embodied Navigation",
+    "Evaluation",
+    "Zero",
+    "Shot Vision",
+    "Language Navigation",
+    "Continuous Environments We",
+    "Astra",
+    "Our",
+    "VLN",
+    "CE",
+    "Codex",
+    "Using",
+    "RGB",
+    "First",
+    "On",
+    "Second",
+    "Third",
+    "Plausible",
+    "Fourth"
+  ],
+  "publishedAt": "2026-09-24T14:21:26.000Z",
+  "fetchedAt": "2026-09-27T12:50:28.758Z",
+  "summary": "We investigate whether GPT-6-Astra, a general-purpose foundation model, can navigate unfamiliar environments using its own perception, reasoning, and decision-making capabilities. Our evaluation focues on zero-shot vision-and-language navigation in continuous environments (VLN-CE) through a minimal interface in the Codex harness, aiming to unleash GPT-6-Astra's full potential for navigation. Using monocular RGB, GPT-6-Astra decides when to observe, how to move, and when to stop, without navigati",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29861v1",
+  "raw": {
+    "arxivId": "2609.29861v1",
+    "category": "cs.RO"
+  }
+}

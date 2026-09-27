@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-23-2609-28812v1",
+  "title": "Signals of AI Hallucination: Designing Hallucination-Aware Cues for Embodied Conversational Agents in VR",
+  "url": "http://arxiv.org/abs/2609.28812v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Signals",
+    "AI Hallucination",
+    "Designing Hallucination",
+    "Aware Cues",
+    "Embodied Conversational Agents",
+    "VR LLM",
+    "CAs",
+    "In",
+    "Virtual Reality",
+    "VR",
+    "ECAs",
+    "We",
+    "ECA",
+    "Our",
+    "Embodied",
+    "This",
+    "AI",
+    "It"
+  ],
+  "publishedAt": "2026-09-23T21:46:51.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.871Z",
+  "summary": "LLM-powered conversational agents (CAs) often present uncertainty and provenance cues alongside their responses to help users assess response reliability and identify potential hallucinations. In immersive environments such as Virtual Reality (VR), CAs often take the form of speech-based embodied conversational agents (ECAs), where uncertainty and provenance cues cannot rely on persistent inline text and may be missed or disrupt comprehension when delivered through speech. We conducted a within-",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28812v1",
+  "raw": {
+    "arxivId": "2609.28812v1",
+    "category": "cs.HC"
+  }
+}

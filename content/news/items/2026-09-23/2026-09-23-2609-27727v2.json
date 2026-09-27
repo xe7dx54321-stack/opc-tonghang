@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-23-2609-27727v2",
+  "title": "Sovereign Grassroots Currencies: A CBDC Architecture for Credit and Monetary Policy (Full Version)",
+  "url": "http://arxiv.org/abs/2609.27727v2",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Sovereign Grassroots Currencies",
+    "CBDC Architecture",
+    "Credit",
+    "Monetary Policy",
+    "Full Version",
+    "Central Bank Digital Currency",
+    "CBDC",
+    "Leading",
+    "Here",
+    "The",
+    "Money",
+    "Liquidity",
+    "Interest",
+    "We",
+    "Sovereign"
+  ],
+  "publishedAt": "2026-09-23T11:41:20.000Z",
+  "fetchedAt": "2026-09-27T12:49:28.678Z",
+  "summary": "A Central Bank Digital Currency (CBDC) is central-bank money in digital form, held by the public. Leading designs have two limitations: conversion from bank deposits into CBDC can accelerate deposit flight, requiring safeguards, and the CBDC stays outside credit creation and monetary-policy operations. Here we present a CBDC architecture based on grassroots currencies that overcomes these limitations. The architecture has three components: (1) Money: sovereign grassroots coins, which are digital",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27727v2",
+  "raw": {
+    "arxivId": "2609.27727v2",
+    "category": "cs.MA"
+  }
+}

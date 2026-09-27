@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-25-federal-court-sides-with-pentagon-in-anthropic-dispute",
+  "title": "Federal Court Sides With Pentagon in Anthropic Dispute",
+  "url": "https://www.theinformation.com/briefings/federal-court-sides-pentagon-anthropic-dispute",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Federal Court Sides With Pentagon",
+    "Anthropic Dispute",
+    "Department",
+    "Defense",
+    "Anthropic",
+    "In",
+    "Judge Gregory Katsas",
+    "Washington",
+    "Circuit Court",
+    "President Trump"
+  ],
+  "publishedAt": "2026-09-25T16:48:02.000Z",
+  "fetchedAt": "2026-09-27T12:43:08.053Z",
+  "summary": "&lt;p&gt;A federal court ruled in favor of the Department of Defense in a lawsuit over the Department’s decision to label Anthropic a supply-chain risk earlier this year. In a split 2-1 decision, Judge Gregory Katsas of the Washington D.C. Circuit Court, an appointee of President Trump, wrote for the ...&lt;/p&gt;",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "theinformation",
+    "author": "Leo Schwartz",
+    "lang": "en"
+  }
+}

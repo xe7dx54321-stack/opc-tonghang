@@ -1,0 +1,30 @@
+{
+  "id": "2026-09-24-2609-29869v1",
+  "title": "Costly Voting in the Hotelling-Downs Model",
+  "url": "http://arxiv.org/abs/2609.29869v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Costly Voting",
+    "Hotelling",
+    "Downs Model We",
+    "Downs",
+    "Voters",
+    "Under",
+    "We"
+  ],
+  "publishedAt": "2026-09-24T14:26:15.000Z",
+  "fetchedAt": "2026-09-27T12:50:25.004Z",
+  "summary": "We study a partial-participation variation of the Hotelling-Downs model. Voters each have a cost to vote, and only vote when the comparative gain from their preferred candidate exceeds the cost. Under this model the median voter theorem breaks, and we study the extent of polarization under equilibria in different voters and cost distributions. We find that the main predictor of polarization is the reverse-hazard-rate of the cost distribution, indicating that the driver of polarization under our ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29869v1",
+  "raw": {
+    "arxivId": "2609.29869v1",
+    "category": "cs.MA"
+  }
+}

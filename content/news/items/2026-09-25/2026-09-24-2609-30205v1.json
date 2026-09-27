@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-24-2609-30205v1",
+  "title": "A Living Benchmark for Information Retrieval from Electronic Health Records",
+  "url": "http://arxiv.org/abs/2609.30205v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Living Benchmark",
+    "Information Retrieval",
+    "Electronic Health Records Large",
+    "LLM",
+    "EHR",
+    "Their",
+    "We",
+    "Nineteen",
+    "Benchmark",
+    "Retrieving Information",
+    "EHRs",
+    "BRIE",
+    "Across",
+    "LLMs",
+    "Because",
+    "Our"
+  ],
+  "publishedAt": "2026-09-24T17:41:16.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.224Z",
+  "summary": "Large language model (LLM)-based clinical assistants are increasingly being integrated into electronic health record (EHR) systems, transforming how clinicians retrieve and synthesize information from patient records. Their safety and utility depend on rigorous evaluation, yet existing benchmarks are manually curated, costly to update, and rapidly become obsolete with evolving technological advancements. We present a scalable framework that automatically generates question--answer pairs from lon",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30205v1",
+  "raw": {
+    "arxivId": "2609.30205v1",
+    "category": "cs.AI"
+  }
+}

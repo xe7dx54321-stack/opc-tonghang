@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-24-2609-29731v1",
+  "title": "Reusing Spare Vehicle Computing Capacity: Is It Viable, Profitable and Sustainable?",
+  "url": "http://arxiv.org/abs/2609.29731v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Reusing Spare Vehicle Computing Capacity",
+    "Is It Viable",
+    "Profitable",
+    "Sustainable",
+    "Vehicular Cloud Computing",
+    "VCC",
+    "Despite",
+    "Simulation",
+    "Urban MObility",
+    "SUMO",
+    "Rome",
+    "CO2",
+    "Vehicles"
+  ],
+  "publishedAt": "2026-09-24T12:46:27.000Z",
+  "fetchedAt": "2026-09-27T12:50:40.564Z",
+  "summary": "Vehicular Cloud Computing (VCC) exploits computing hardware already embedded in vehicles for purposes unrelated to offloading and puts its idle cycles to work executing end-users' offloaded tasks, avoiding the deployment of new computation infrastructure. Despite its conceptual appeal, adoption is hindered by the lack of quantitative evidence that sharing spare vehicular capacity is viable, profitable and sustainable. A management scheme for task offloading sustains deadline-constrained executio",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29731v1",
+  "raw": {
+    "arxivId": "2609.29731v1",
+    "category": "cs.DC"
+  }
+}

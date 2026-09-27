@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-24-2609-29374v1",
+  "title": "FMCW-LIO: A Doppler LiDAR-Inertial Odometry",
+  "url": "http://arxiv.org/abs/2609.29374v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "FMCW",
+    "LIO",
+    "Doppler LiDAR",
+    "Inertial Odometry Conventional LiDAR",
+    "SLAM",
+    "LiDARs",
+    "From",
+    "Frequency Modulated Continuous Wave",
+    "Doppler LiDARs",
+    "FMCW Doppler LiDARs",
+    "Doppler",
+    "In",
+    "To",
+    "Then",
+    "Extensive"
+  ],
+  "publishedAt": "2026-09-24T10:56:21.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.098Z",
+  "summary": "Conventional LiDAR-inertial odometry (LIO) or simultaneous localization and mapping (SLAM) methods heavily rely on geometric features of environments, as LiDARs primarily provide range measurements instead of motion measurements. From now on, however, the situation changes thanks to the novel Frequency Modulated Continuous Wave (FMCW) Doppler LiDARs. FMCW Doppler LiDARs not only offer the point range with high resolution but also capture the instant point Doppler velocity through the Doppler eff",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29374v1",
+  "raw": {
+    "arxivId": "2609.29374v1",
+    "category": "eess.SY"
+  }
+}

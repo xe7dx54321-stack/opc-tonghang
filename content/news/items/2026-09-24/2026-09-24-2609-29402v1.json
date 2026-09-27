@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-24-2609-29402v1",
+  "title": "Resource-Aware Model Selection for Scalable Indoor Localization on HPC Platforms",
+  "url": "http://arxiv.org/abs/2609.29402v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Resource",
+    "Aware Model Selection",
+    "Scalable Indoor Localization",
+    "HPC Platforms Large",
+    "Such",
+    "Modular",
+    "However",
+    "This",
+    "WiFi",
+    "The",
+    "To",
+    "Hierarchical Candidate Pruning",
+    "Trajectory",
+    "Aware Pruning",
+    "Experiments",
+    "Compared"
+  ],
+  "publishedAt": "2026-09-24T11:27:24.000Z",
+  "fetchedAt": "2026-09-27T12:50:40.564Z",
+  "summary": "Large-scale indoor localization is increasingly needed in campuses, smart buildings, factories, and digital-twin infrastructures, where wireless conditions, access-point deployments, and spatial layouts evolve over time. Such systems must be accurate, extendable, and maintainable, allowing new buildings, floors, rooms, and service areas to be added without retraining a monolithic model. Modular learning-based localization supports this goal by assigning independent models to buildings, floors, a",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29402v1",
+  "raw": {
+    "arxivId": "2609.29402v1",
+    "category": "cs.DC"
+  }
+}

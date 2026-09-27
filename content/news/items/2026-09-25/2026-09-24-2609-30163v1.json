@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-24-2609-30163v1",
+  "title": "Steelhead: Interleaving Partially Synchronous and Asynchronous Commit Rules on a Shared DAG",
+  "url": "http://arxiv.org/abs/2609.30163v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Steelhead",
+    "Interleaving Partially Synchronous",
+    "Asynchronous Commit Rules",
+    "Shared DAG Dual",
+    "We",
+    "DAG",
+    "Every",
+    "It",
+    "Mysticeti",
+    "Mahi",
+    "BlueBottle",
+    "Lean",
+    "In"
+  ],
+  "publishedAt": "2026-09-24T17:18:49.000Z",
+  "fetchedAt": "2026-09-27T12:51:36.841Z",
+  "summary": "Dual-mode consensus protocols are fast when the network is partially synchronous and remain live under asynchrony. We introduce Steelhead, a dual-mode mechanism that composes a partially synchronous and an asynchronous commit rule over one DAG: every k-th round is decided by the asynchronous rule, whose leader a common coin reveals after the votes, and all other rounds by the partially synchronous rule. Every interval, validators replay the committed DAG under each candidate period, adopt the on",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30163v1",
+  "raw": {
+    "arxivId": "2609.30163v1",
+    "category": "cs.DC"
+  }
+}

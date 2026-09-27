@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-23-2609-27249v1",
+  "title": "From PyTorch to the NPU: LLM-Agent-Driven Model Conversion Across Heterogeneous Inference Runtimes",
+  "url": "http://arxiv.org/abs/2609.27249v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "From PyTorch",
+    "NPU",
+    "LLM",
+    "Agent",
+    "While",
+    "Qualcomm AI Runtime",
+    "Intel OpenVINO",
+    "Rockchip RKNN",
+    "NVIDIA TensorRT",
+    "ONNX Runtime",
+    "This",
+    "AIPC",
+    "AI Porting Conversion",
+    "AI",
+    "We",
+    "Using",
+    "PyTorch",
+    "OpenVINO",
+    "RKNN",
+    "RK3588"
+  ],
+  "publishedAt": "2026-09-23T02:34:21.000Z",
+  "fetchedAt": "2026-09-27T12:49:43.708Z",
+  "summary": "Edge AI model deployment is a multi-stage engineering process involving model conversion, operator compatibility handling, runtime integration, and precision verification. While prior work has demonstrated agent-based automation for Qualcomm AI Runtime, the broader edge inference runtime ecosystem, including Intel OpenVINO, Rockchip RKNN, NVIDIA TensorRT, and ONNX Runtime, presents distinct toolchains and optimization strategies. This paper extends AIPC (AI Porting Conversion, an LLM agent-drive",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27249v1",
+  "raw": {
+    "arxivId": "2609.27249v1",
+    "category": "cs.DC"
+  }
+}

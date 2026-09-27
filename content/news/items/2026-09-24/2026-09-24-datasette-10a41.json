@@ -1,0 +1,30 @@
+{
+  "id": "2026-09-24-datasette-10a41",
+  "title": "datasette 1.0a41",
+  "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Release",
+    "Alec Garcia",
+    "OpenTelemetry",
+    "Datasette",
+    "Web Component",
+    "Tags"
+  ],
+  "publishedAt": "2026-09-24T19:15:23.000Z",
+  "fetchedAt": "2026-09-27T12:43:04.780Z",
+  "summary": "&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/simonw/datasette/releases/tag/1.0a41\"&gt;datasette 1.0a41&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Alec Garcia added &lt;a href=\"https://docs.datasette.io/en/latest/internals.html#internals-telemetry\"&gt;support for OpenTelemetry&lt;/a&gt; to Datasette in this release.&lt;/p&gt; &lt;p&gt;I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now &lt;a href=\"https://docs.datasette.io/en/latest/jav",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": "",
+    "lang": "en"
+  }
+}

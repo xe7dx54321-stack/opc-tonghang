@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-24-2609-29856v1",
+  "title": "A Block Decomposed QUBO Workflow for Chromosome-Y Phylogeny Reconstruction",
+  "url": "http://arxiv.org/abs/2609.29856v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Block Decomposed QUBO Workflow",
+    "Chromosome",
+    "Phylogeny Reconstruction This",
+    "Variant Call Format",
+    "VCF",
+    "Single Nucleotide Polymorphisms",
+    "SNP",
+    "The",
+    "QUBO",
+    "Alternating Direction Method",
+    "Multipliers",
+    "ADMM",
+    "Digitized Counter",
+    "Diabatic Quantum Optimization",
+    "DCQO",
+    "The DCQO",
+    "PhyloTree",
+    "Nexus"
+  ],
+  "publishedAt": "2026-09-24T14:19:29.000Z",
+  "fetchedAt": "2026-09-27T12:50:40.564Z",
+  "summary": "This paper sets out a computational workflow that reconstructs the phylogeny of human Y-chromosome populations from a Variant Call Format (VCF) file of biallelic Single Nucleotide Polymorphisms (SNP). The two classical phylogenetic decisions - topology selection and root placement - are cast as Quadratic Unconstrained Binary Optimisation (QUBO) problems. The workflow combines two QUBO formulations with an Alternating Direction Method of Multipliers (ADMM) decomposition strategy and a plug-in Dig",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29856v1",
+  "raw": {
+    "arxivId": "2609.29856v1",
+    "category": "cs.DC"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-24-2609-30222v1",
+  "title": "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations",
+  "url": "http://arxiv.org/abs/2609.30222v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "TrackEverything",
+    "Long Horizon Dense Tracking",
+    "De",
+    "Duplicating",
+    "Scene Representations Existing",
+    "We",
+    "Grounded",
+    "Our",
+    "First",
+    "Second",
+    "Third",
+    "WAFT",
+    "To",
+    "GB",
+    "GPU",
+    "On TAPVid",
+    "APD"
+  ],
+  "publishedAt": "2026-09-24T17:48:20.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.223Z",
+  "summary": "Existing point tracking models face a fundamental tradeoff: they can either track a sparse set of query points over long horizons, or track all points across only short clips. We introduce TrackEverything, a 3D point tracker that breaks this trade-off by representing videos as persistent 3D scene tracks in world coordinates. Grounded in the insight that videos are 2D projections of an underlying 3D world, TrackEverything decouples model complexity from video duration, allowing it to scale with u",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30222v1",
+  "raw": {
+    "arxivId": "2609.30222v1",
+    "category": "cs.AI"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-23-2609-27456v1",
+  "title": "Precision and resource scaling of real-time flux distortion compensation for superconducting quantum control",
+  "url": "http://arxiv.org/abs/2609.27456v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Precision",
+    "Real",
+    "However",
+    "The",
+    "IIR",
+    "FIR",
+    "Look",
+    "FPGA",
+    "Two",
+    "Pauli",
+    "Numerical",
+    "Extending",
+    "LUT",
+    "DSP",
+    "This"
+  ],
+  "publishedAt": "2026-09-23T07:23:12.000Z",
+  "fetchedAt": "2026-09-27T12:49:39.988Z",
+  "summary": "Real-time waveform generation supports dynamic quantum circuits without pre-storing complete waveforms for every execution path. However, long-lived distortions in flux-control lines degrade gate fidelity, requiring compensation to account for the actual pulse history. A frequency-domain inversion and time-domain fitting method is proposed for resource-efficient real-time flux distortion compensation. The method fits the reconstructed compensation impulse response with a compact hybrid infinite ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27456v1",
+  "raw": {
+    "arxivId": "2609.27456v1",
+    "category": "cs.AR"
+  }
+}

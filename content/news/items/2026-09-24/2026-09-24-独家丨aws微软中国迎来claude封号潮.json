@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-24-独家丨aws微软中国迎来claude封号潮",
+  "title": "独家丨AWS、微软中国迎来「Claude封号潮」",
+  "url": "https://www.leiphone.com/category/industrynews/YiaSUnx4DXphNl93.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "entities": [
+    "AWS",
+    "Claude",
+    "Anthropic"
+  ],
+  "publishedAt": "2026-09-24T08:52:00.000Z",
+  "fetchedAt": "2026-09-27T12:43:07.882Z",
+  "summary": "雷峰网获悉，上周，Anthropic启动新一轮合规清查，导致大批AWS和微软大中华区客户的Claude账号被封停。多名知情人士称，这一轮的封号范围比此前更广。此前外资云中国销售曾找非洲、美洲等区域的人帮忙开设海外账户，以绕开地域限制；然而此次Anthropic加大识别力度，只要实际使用方是某些特定国家和地区，大概率就会被封。而最近正值月末付款节点，上述人士透露，已有客户因账号无法使用而不打算付款。若真如此，那本轮封号给两家外资云大中华区带来的营收损失或将达到数亿美金。更多细节内幕欢迎添加作者微信xf123a交流。雷峰网雷峰网]]>",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "leiphone",
+    "author": "",
+    "lang": "zh"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-25-aikido-security-releases-altar-1-an-open-weight-security-mod",
+  "title": "Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB",
+  "url": "https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/",
+  "source": "marktechpost",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Aikido Security Releases Altar",
+    "An Open",
+    "Weight Security Model Pruned From GLM",
+    "GB Aikido Security",
+    "Altar",
+    "It",
+    "AI",
+    "GLM",
+    "Aikido Machine",
+    "Is",
+    "Yes",
+    "Hugging Face",
+    "The",
+    "GB",
+    "MarkTechPost"
+  ],
+  "publishedAt": "2026-09-25T15:14:45.000Z",
+  "fetchedAt": "2026-09-27T12:43:09.453Z",
+  "summary": "Aikido Security has released Altar-1, its first open-weight security model. It is a compressed version of Z.AI&#8217;s GLM-5.3, built to run inside infrastructure the customer controls. Altar-1 powers Aikido Machine, the company&#8217;s autonomous pentesting appliance for on-prem and air-gapped networks. Is it deployable? Yes, the weights are public on Hugging Face and run with vLLM [&#8230;] The post Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB a",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "marktechpost",
+    "author": "<![CDATA[Asif Razzaq]]>",
+    "lang": "en"
+  }
+}

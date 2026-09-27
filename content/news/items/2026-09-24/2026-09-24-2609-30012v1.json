@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-24-2609-30012v1",
+  "title": "Low-Cost Assays for Measuring Model Behavior Across Vendors and Releases",
+  "url": "http://arxiv.org/abs/2609.30012v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Low",
+    "Cost Assays",
+    "Measuring Model Behavior Across Vendors",
+    "Releases Language",
+    "Measuring",
+    "To",
+    "Each",
+    "LLM",
+    "Run",
+    "Convergence",
+    "Resistance",
+    "House",
+    "Account",
+    "Re"
+  ],
+  "publishedAt": "2026-09-24T15:51:17.000Z",
+  "fetchedAt": "2026-09-27T12:50:13.583Z",
+  "summary": "Language models advise people, keep them company, and write software while they sleep. Measuring what they do is hard: behavior has to be sampled repeatedly across models, prompts and releases, most of it lives in unstructured text that has to be coded before it can be counted, and the result has to be legible and rigorous enough to meaningfully compare models and vendors. To address these constraints, we present a simple, cheap, scalable, and replicable model for studying model behavior. Each s",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30012v1",
+  "raw": {
+    "arxivId": "2609.30012v1",
+    "category": "cs.CL"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-24-2609-29173v1",
+  "title": "Through Human Eyes and Machine Eyes: Understanding View Mismatch in Video See-Through Extended Reality",
+  "url": "http://arxiv.org/abs/2609.29173v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Through Human Eyes",
+    "Machine Eyes",
+    "Understanding View Mismatch",
+    "Video See",
+    "Through Extended Reality Video",
+    "VST XR",
+    "However",
+    "This",
+    "We",
+    "Meta Quest",
+    "Building",
+    "XR",
+    "Through",
+    "Our",
+    "AI"
+  ],
+  "publishedAt": "2026-09-24T07:44:12.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.870Z",
+  "summary": "Video see-through extended reality (VST XR) systems commonly use headset screenshots or captured frames as proxies for the user's first-person visual context. However, the system-captured view and the user's effective visible field do not necessarily coincide: a screenshot records a rectangular machine-readable frame, whereas the user's effective visible region can be more constrained and non-rectangular. This paper studies this human-system view mismatch in VST XR. We formalize the relationship",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29173v1",
+  "raw": {
+    "arxivId": "2609.29173v1",
+    "category": "cs.HC"
+  }
+}

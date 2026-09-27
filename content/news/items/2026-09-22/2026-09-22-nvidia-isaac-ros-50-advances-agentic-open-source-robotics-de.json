@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-22-nvidia-isaac-ros-50-advances-agentic-open-source-robotics-de",
+  "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+  "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "NVIDIA Isaac ROS",
+    "Advances Agentic",
+    "Open Source Robotics Development"
+  ],
+  "publishedAt": "2026-09-22T12:00:41.000Z",
+  "fetchedAt": "2026-09-27T12:43:12.006Z",
+  "summary": "",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "nvidia-blog",
+    "author": "<![CDATA[Katie Washabaugh]]>",
+    "lang": "en"
+  }
+}

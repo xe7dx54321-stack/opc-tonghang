@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-24-2609-29914v1",
+  "title": "High-Voltage Optocoupler Amplifier for Electrostatic Actuators",
+  "url": "http://arxiv.org/abs/2609.29914v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "High",
+    "Voltage Optocoupler Amplifier",
+    "Electrostatic Actuators Many",
+    "As",
+    "The",
+    "Hz",
+    "By",
+    "PWM",
+    "This"
+  ],
+  "publishedAt": "2026-09-24T14:52:40.000Z",
+  "fetchedAt": "2026-09-27T12:50:28.758Z",
+  "summary": "Many electrostatic actuators require multi-kilovolt drive voltages at sub-milliamp currents, a task poorly suited for conventional switching devices. As an alternative, we demonstrate a high-voltage amplifier using optocouplers as active elements. The amplifier produces a 20-kV peak-to-peak output with up to 500 Hz bandwidth while maintaining a minimal component count. By using optocouplers as linear devices in feedback, lower harmonic distortion and higher bandwidth are achieved than offered by",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29914v1",
+  "raw": {
+    "arxivId": "2609.29914v1",
+    "category": "cs.RO"
+  }
+}

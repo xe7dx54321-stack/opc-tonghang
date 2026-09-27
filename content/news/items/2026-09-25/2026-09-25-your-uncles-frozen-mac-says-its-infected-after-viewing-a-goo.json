@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-25-your-uncles-frozen-mac-says-its-infected-after-viewing-a-goo",
+  "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+  "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+  "source": "ars-technica",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "Your",
+    "Mac",
+    "Google",
+    "Now"
+  ],
+  "publishedAt": "2026-09-25T19:38:59.000Z",
+  "fetchedAt": "2026-09-27T12:43:07.503Z",
+  "summary": "",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "ars-technica",
+    "author": "\n                    <![CDATA[Dan Goodin]]>\n                ",
+    "lang": "en"
+  }
+}

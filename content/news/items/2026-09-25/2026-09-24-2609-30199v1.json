@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-24-2609-30199v1",
+  "title": "ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds",
+  "url": "http://arxiv.org/abs/2609.30199v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "ExplorationBench",
+    "Measuring AI Systems",
+    "Exploration",
+    "Verifiable Alien Worlds Scientific",
+    "There",
+    "AI",
+    "However",
+    "To",
+    "Alien Worlds",
+    "The",
+    "AlienCode",
+    "AlienLogic",
+    "Each",
+    "Systems",
+    "We"
+  ],
+  "publishedAt": "2026-09-24T17:37:14.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.224Z",
+  "summary": "Scientific discovery begins where known problems end. There, AI systems must engage in exploration: framing hypotheses, designing experiments, and iterating on the results. However, evaluating this ability is difficult: (1) how to verify whether a genuinely new hypothesis holds, and (2) how to determine whether a system has discovered it through exploration or merely recalled related knowledge from pre-training data. To this end, we introduce ExplorationBench, which turns the wicked problem of e",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30199v1",
+  "raw": {
+    "arxivId": "2609.30199v1",
+    "category": "cs.AI"
+  }
+}

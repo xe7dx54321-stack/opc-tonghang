@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-22",
+  "itemCount": 28,
+  "bySource": {
+    "arxiv": 12,
+    "hacker-news": 1,
+    "simon-willison": 5,
+    "stratechery": 1,
+    "hugging-face-blog": 3,
+    "nvidia-blog": 1,
+    "robot-report": 2,
+    "ieee-spectrum-ai": 2,
+    "ieee-spectrum-robotics": 1
+  },
+  "byTopic": {
+    "semiconductor": 13,
+    "ai": 13,
+    "embodied-ai": 3
+  },
+  "generatedBy": "backfill"
+}

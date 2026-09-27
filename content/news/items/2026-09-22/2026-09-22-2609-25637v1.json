@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-22-2609-25637v1",
+  "title": "SLED-IFV: Solver-Validated LLM-Guided Decomposition for Scalable Hardware Information-Flow Verification",
+  "url": "http://arxiv.org/abs/2609.25637v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "SLED",
+    "IFV",
+    "Solver",
+    "Validated LLM",
+    "Guided Decomposition",
+    "Scalable Hardware Information",
+    "Flow Verification Formal",
+    "RTL",
+    "We",
+    "To",
+    "LLM",
+    "Given",
+    "The",
+    "Across"
+  ],
+  "publishedAt": "2026-09-22T03:48:28.000Z",
+  "fetchedAt": "2026-09-27T12:48:44.049Z",
+  "summary": "Formal hardware information-flow verification (IFV) provides strong guarantees against secret-dependent timing and control behavior, but often scales poorly on realistic RTL. We identify two recurring proof barriers in self-composed IFV: implementation complexity, where proof-hard datapath logic dominates even though the property needs only a compact boundary relation, and relational inductive complexity, where the proof depends on cross-copy public-control facts that the backend prover does not",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.25637v1",
+  "raw": {
+    "arxivId": "2609.25637v1",
+    "category": "cs.AR"
+  }
+}

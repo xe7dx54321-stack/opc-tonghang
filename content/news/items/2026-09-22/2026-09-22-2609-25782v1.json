@@ -1,0 +1,42 @@
+{
+  "id": "2026-09-22-2609-25782v1",
+  "title": "Hot-Cold Tiering of HBM and High Bandwidth Flash for Agentic LLM Serving",
+  "url": "http://arxiv.org/abs/2609.25782v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Hot",
+    "Cold Tiering",
+    "HBM",
+    "High Bandwidth Flash",
+    "Agentic LLM Serving Large",
+    "LLM",
+    "Limited GPU",
+    "KV",
+    "To",
+    "HBF",
+    "NAND",
+    "However",
+    "Fortunately",
+    "Exploiting",
+    "GPU",
+    "On",
+    "Coder",
+    "TBT",
+    "By"
+  ],
+  "publishedAt": "2026-09-22T07:18:00.000Z",
+  "fetchedAt": "2026-09-27T12:48:44.049Z",
+  "summary": "Large language model (LLM) serving is increasingly agentic, with multi-turn sessions that idle between actions yet must retain their full context. Limited GPU memory capacity forces inactive KV states to be evicted, so resuming a session incurs either costly recomputation or slow interconnect transfers. To address this, high bandwidth flash (HBF)-an on-package 3D-NAND memory offering orders-of-magnitude greater capacity than high bandwidth memory (HBM) at comparable read bandwidth-has emerged as",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.25782v1",
+  "raw": {
+    "arxivId": "2609.25782v1",
+    "category": "cs.AR"
+  }
+}

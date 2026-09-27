@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-23-2609-28830v1",
+  "title": "Adaptive State Estimation Under Topological Uncertainty in Unobservable Primary Distribution Systems Using Strategically Placed Sensors",
+  "url": "http://arxiv.org/abs/2609.28830v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "These",
+    "To",
+    "TI",
+    "DSSE",
+    "SMDs",
+    "SMD",
+    "DNN",
+    "The",
+    "Gaussian"
+  ],
+  "publishedAt": "2026-09-23T22:34:32.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.098Z",
+  "summary": "The rapid integration of distributed energy resources is fundamentally altering power flow patterns in primary distribution networks and intensifying operational uncertainty. These problems are further compounded by lack of real-time situational awareness and frequent topology changes. To address these problems, this paper proposes an integrated deep learning framework for simultaneous topology identification (TI) and distribution system state estimation (DSSE) in real-time unobservable primary ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28830v1",
+  "raw": {
+    "arxivId": "2609.28830v1",
+    "category": "eess.SY"
+  }
+}

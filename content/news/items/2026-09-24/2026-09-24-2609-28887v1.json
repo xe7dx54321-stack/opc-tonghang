@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-24-2609-28887v1",
+  "title": "Fly, Drive, Reconfigure: A Modular Reconfigurable Aerial-Ground Platform for Field Operations",
+  "url": "http://arxiv.org/abs/2609.28887v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Fly",
+    "Drive",
+    "Reconfigure",
+    "Modular Reconfigurable Aerial",
+    "Ground Platform",
+    "Field Operations Heterogeneous",
+    "We",
+    "HARP",
+    "Heterogeneous Aerial Robotic",
+    "Platform",
+    "Scouts",
+    "Rover",
+    "Motivated",
+    "Greenland Ice Sheet"
+  ],
+  "publishedAt": "2026-09-24T01:03:10.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.098Z",
+  "summary": "Heterogeneous robot teams distribute complementary capabilities across specialized agents, but their physical roles and capacities typically remain fixed throughout a mission. We present HARP, a Heterogeneous Aerial Robotic modules Platform in which independently deployable aerial robots physically reconfigure to compose their capabilities for field operations. HARP comprises sensor-equipped scouts, flydrive rover modules, and task-specific payload modules. Scouts map the environment and inform ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28887v1",
+  "raw": {
+    "arxivId": "2609.28887v1",
+    "category": "eess.SY"
+  }
+}

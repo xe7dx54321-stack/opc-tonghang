@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-26-kkp-party",
+  "title": "Kākāpō Party",
+  "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Party",
+    "Tool",
+    "As",
+    "Dec",
+    "STAR",
+    "For",
+    "Claude Opus",
+    "So",
+    "Kakapo",
+    "Google",
+    "Claude",
+    "Here"
+  ],
+  "publishedAt": "2026-09-26T23:39:06.000Z",
+  "fetchedAt": "2026-09-27T12:43:04.779Z",
+  "summary": "&lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=\"https://tools.simonwillison.net/kakapo-party\"&gt;Kākāpō Party&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I presented a closing keynote for the &lt;a href=\"https://www.wearedevelopers.com/world-congress-north-america\"&gt;WeAreDevelopers World Congress North America&lt;/a&gt; yesterday. As &lt;a href=\"https://simonwillison.net/2019/Dec/10/better-presentations/\"&gt;a STAR moment&lt;/a&gt; I decided to weave in references to the record breaking &lt;a href=\"h",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "simon-willison",
+    "author": "",
+    "lang": "en"
+  }
+}

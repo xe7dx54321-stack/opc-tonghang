@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-24-donald-ducks-uncle-was-partly-based-on-wernher-von-braun",
+  "title": "Donald Duck's uncle was partly based on Wernher von Braun",
+  "url": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
+  "source": "ars-technica",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "Donald Duck",
+    "Wernher",
+    "Braun"
+  ],
+  "publishedAt": "2026-09-24T21:40:07.000Z",
+  "fetchedAt": "2026-09-27T12:43:07.503Z",
+  "summary": "",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "ars-technica",
+    "author": "\n                    <![CDATA[Robert Pearlman]]>\n                ",
+    "lang": "en"
+  }
+}

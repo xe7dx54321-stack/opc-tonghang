@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-24-databricks-acquires-microsoft-excel-competitor-row-zero",
+  "title": "Databricks Acquires Microsoft Excel Competitor Row Zero",
+  "url": "https://www.theinformation.com/briefings/databricks-acquires-microsoft-excel-competitor-row-zero",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Databricks",
+    "Row Zero",
+    "Microsoft Excel",
+    "The",
+    "Genie"
+  ],
+  "publishedAt": "2026-09-24T21:38:22.000Z",
+  "fetchedAt": "2026-09-27T12:43:08.053Z",
+  "summary": "&lt;p&gt;Databricks is &lt;a href=\"https://www.databricks.com/company/newsroom/press-releases/databricks-acquires-row-zero-bringing-live-governed-spreadsheets\"&gt;acquiring&lt;/a&gt; Row Zero, a five-year-old Microsoft Excel competitor that sells spreadsheet software that’s designed for analyzing massive amounts of data.&lt;/p&gt; &lt;p&gt;The deal could help Databricks attract more non-technical users to Genie, a chatbot it launched last summer that lets business ...&lt;/p&gt;",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "theinformation",
+    "author": "Kevin McLaughlin",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-24-2609-29921v1",
+  "title": "Who Holds the Pen? Let Specifications, Not Agents, Sign Off",
+  "url": "http://arxiv.org/abs/2609.29921v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Who Holds",
+    "Pen",
+    "Let Specifications",
+    "Not Agents",
+    "Sign Off Large",
+    "Although",
+    "We",
+    "The",
+    "On SkillsBench",
+    "Across",
+    "Agents",
+    "SpecHarness",
+    "Verifiable",
+    "Experiments"
+  ],
+  "publishedAt": "2026-09-24T14:55:14.000Z",
+  "fetchedAt": "2026-09-27T12:50:25.004Z",
+  "summary": "Large language model agents increasingly combine generation, decision-making, execution, and self-evaluation within a single agentic loop. Although they operate under external specifications such as task instructions, guidelines, output schemas, and reusable skills, these specifications typically remain context for the same model that acts and declares completion, leaving no independent specification authority boundary. We identify two resulting gaps. The understanding--execution gap arises when",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29921v1",
+  "raw": {
+    "arxivId": "2609.29921v1",
+    "category": "cs.MA"
+  }
+}

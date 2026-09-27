@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-24-2609-29315v1",
+  "title": "A Multi-Stage Linear Programming Framework for Three-Phase State Estimation in Low-Voltage Distribution Grids",
+  "url": "http://arxiv.org/abs/2609.29315v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Multi",
+    "Stage Linear Programming Framework",
+    "Three",
+    "Phase State Estimation",
+    "Low",
+    "Voltage Distribution Grids Low",
+    "LV",
+    "This",
+    "MSLP",
+    "The",
+    "To",
+    "Danish LV",
+    "Compared"
+  ],
+  "publishedAt": "2026-09-24T09:49:05.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.098Z",
+  "summary": "Low-voltage (LV) distribution feeders are increasingly difficult to monitor because real-time load data are unavailable, historical measurements are sparsely sampled, and high-rate voltage sensors cover only a few nodes. This paper proposes a multi-stage linear programming (MSLP) estimator for three-phase unbalanced LV grids that reconstructs per-phase nodal voltages under such limited observability. The estimator linearises the three-phase power flow through voltage-to-power sensitivity matrice",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29315v1",
+  "raw": {
+    "arxivId": "2609.29315v1",
+    "category": "eess.SY"
+  }
+}

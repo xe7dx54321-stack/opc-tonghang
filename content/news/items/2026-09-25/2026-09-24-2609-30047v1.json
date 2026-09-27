@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-24-2609-30047v1",
+  "title": "From Processing to Functionality: Engineering Accessible Material States in Cu-Embedded SiO$_x$ Memristive Devices",
+  "url": "http://arxiv.org/abs/2609.30047v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "From Processing",
+    "Functionality",
+    "Engineering Accessible Material States",
+    "Cu",
+    "Embedded SiO",
+    "Memristive Devices Resistive",
+    "Here",
+    "SiO",
+    "By",
+    "Data",
+    "This",
+    "Furthermore",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T16:10:55.000Z",
+  "fetchedAt": "2026-09-27T12:51:13.449Z",
+  "summary": "Resistive switching in oxide-based devices is widely governed by stochastic defect processes, yet a predictive link between fabrication conditions and functional behavior remains elusive. Here, we establish a multiscale framework connecting plasma-defined deposition conditions to macroscopic device functionality in sputtered SiO$_x$/Cu/SiO$_x$-based systems. By combining large-scale statistical analysis of more than 50,000 experimentally characterized devices with physics-based plasma and atomis",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30047v1",
+  "raw": {
+    "arxivId": "2609.30047v1",
+    "category": "cs.LG"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-29412v1",
+  "title": "System Strength-Constrained Scheduling with Switchable Grid-Forming and Grid-Following Generation Resources",
+  "url": "http://arxiv.org/abs/2609.29412v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "System Strength",
+    "Constrained Scheduling",
+    "Switchable Grid",
+    "Forming",
+    "Grid",
+    "Following Generation Resources Inverter",
+    "IBRs",
+    "At",
+    "GFM",
+    "GFL",
+    "Such",
+    "This",
+    "IBR",
+    "We",
+    "LMI",
+    "Then",
+    "MISDP",
+    "Rayleigh Cut",
+    "MILP",
+    "Case"
+  ],
+  "publishedAt": "2026-09-24T11:34:23.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.097Z",
+  "summary": "Inverter-based resources (IBRs) are increasingly dominating modern power systems, posing significant challenges to cost-effectively maintain system strength for stability. At the same time, the operating behaviors of IBRs are software-defined, including both their steady-state power outputs and control modes, e.g. grid-forming (GFM) and grid-following (GFL). Such flexibility has not been fully explored to efficiently operate future power systems. This paper develops a novel framework that simult",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29412v1",
+  "raw": {
+    "arxivId": "2609.29412v1",
+    "category": "eess.SY"
+  }
+}

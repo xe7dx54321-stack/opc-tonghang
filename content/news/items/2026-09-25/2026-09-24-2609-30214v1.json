@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-24-2609-30214v1",
+  "title": "Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage",
+  "url": "http://arxiv.org/abs/2609.30214v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Underwater",
+    "JEPA",
+    "An Object",
+    "Centric Cross",
+    "View World Model",
+    "ROV Salvage We",
+    "ROV",
+    "Without",
+    "RGB",
+    "Weak",
+    "SIGReg",
+    "Experiments",
+    "The",
+    "MPC",
+    "Validation"
+  ],
+  "publishedAt": "2026-09-24T17:45:42.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.223Z",
+  "summary": "We present Underwater C$^{3}$-JEPA (cross-view, control-conditioned, context-extended), an object-centric multi-view predictive world model for near-field heavy-load underwater ROV salvage. Without contact sensors, it predicts in latent space how the task-object state evolves through contact interaction and under the hydrodynamic lag of the vehicle, from synchronized multi-view RGB observations and vehicle control signals. C$^{3}$-JEPA encodes multi-camera observations into task-object and conte",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30214v1",
+  "raw": {
+    "arxivId": "2609.30214v1",
+    "category": "cs.AI"
+  }
+}

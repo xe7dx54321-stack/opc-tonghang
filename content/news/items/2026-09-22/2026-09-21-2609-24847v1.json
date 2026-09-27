@@ -1,0 +1,42 @@
+{
+  "id": "2026-09-21-2609-24847v1",
+  "title": "SPECTRA: Adaptive Execution of Speculative Decoding on a Runtime-Reconfigurable Tiled Architecture",
+  "url": "http://arxiv.org/abs/2609.24847v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "SPECTRA",
+    "Adaptive Execution",
+    "Speculative Decoding",
+    "Runtime",
+    "Reconfigurable Tiled Architecture LLM",
+    "Speculative",
+    "However",
+    "GEMV",
+    "GEMM",
+    "We",
+    "Within",
+    "GEMMs",
+    "GEMVs",
+    "Across",
+    "Both",
+    "Evaluated",
+    "FPGA",
+    "Pythia",
+    "GPT"
+  ],
+  "publishedAt": "2026-09-21T16:25:24.000Z",
+  "fetchedAt": "2026-09-27T12:48:44.049Z",
+  "summary": "LLM inference on edge devices is constrained by computational and memory resources, making efficient autoregressive decoding challenging. Speculative decoding alleviates this bottleneck by generating tokens with a smaller draft model and verifying multiple tokens in parallel with a batched target model pass. However, verification introduces a runtime-dependent intermediate regime between memory-bound general matrix-vector (GEMV) operations in decoding and compute-bound general matrix-matrix (GEM",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24847v1",
+  "raw": {
+    "arxivId": "2609.24847v1",
+    "category": "cs.AR"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-30059v1",
+  "title": "KernelOPT: Dispatch-Aware Agentic Search for GPU Kernel Optimization",
+  "url": "http://arxiv.org/abs/2609.30059v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "KernelOPT",
+    "Dispatch",
+    "Aware Agentic Search",
+    "GPU Kernel Optimization Deep",
+    "GPU",
+    "Modern",
+    "PyTorch Inductor",
+    "Recent LLM",
+    "We",
+    "It",
+    "Triton",
+    "LLM",
+    "If",
+    "The",
+    "PyTorch",
+    "Modules",
+    "Helion",
+    "Evaluated",
+    "KernelBench",
+    "Level"
+  ],
+  "publishedAt": "2026-09-24T16:17:52.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.224Z",
+  "summary": "Deep learning inference and training performance depends critically on GPU kernel efficiency. Modern compilers such as PyTorch Inductor automatically generate GPU kernels from high-level model code, but frequently underperform expert-written implementations by wide margins. Recent LLM-assisted kernel optimizers can close this gap for standalone kernels, yet treat compiled models as black boxes, generally optimizing individual standalone kernels without respecting the compiler's structural decisi",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30059v1",
+  "raw": {
+    "arxivId": "2609.30059v1",
+    "category": "cs.AI"
+  }
+}

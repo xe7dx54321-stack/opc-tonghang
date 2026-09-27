@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-23-2609-28777v1",
+  "title": "Data Patching",
+  "url": "http://arxiv.org/abs/2609.28777v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Data Patching To",
+    "However",
+    "Terming",
+    "Bangladeshi",
+    "We",
+    "AI",
+    "Citizen",
+    "Cross",
+    "Data Audit",
+    "CCDA",
+    "HCI"
+  ],
+  "publishedAt": "2026-09-23T20:41:57.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.871Z",
+  "summary": "To provide data-driven quality services to their citizens, every institution determines the acceptability of the citizen data and datafied mechanisms through institutional protocols, including preset standards and policies. However, data meeting standards at one institution might fail to meet a different institution's standards in subsequent phases of the intended citizen services due to mismatched protocols, leading to data devaluation in the citizen service ecosystem. Terming this phenomenon c",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28777v1",
+  "raw": {
+    "arxivId": "2609.28777v1",
+    "category": "cs.HC"
+  }
+}

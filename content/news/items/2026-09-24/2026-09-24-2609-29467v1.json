@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-24-2609-29467v1",
+  "title": "Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing",
+  "url": "http://arxiv.org/abs/2609.29467v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Hierarchical Edge Computing",
+    "SAGSIN",
+    "Multi",
+    "Layer Network Architecture",
+    "Things",
+    "IoT",
+    "However",
+    "This",
+    "MLNA",
+    "Level Information Processing",
+    "MLIP",
+    "We",
+    "Open"
+  ],
+  "publishedAt": "2026-09-24T12:24:54.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.097Z",
+  "summary": "Maritime Internet of Things (IoT) deployments increasingly rely on the space-air-ground-sea integrated network (SAGSIN) to connect underwater sensors with terrestrial and space backbones. However, the heterogeneous links along this path, ranging from bandwidth-limited and energy-hungry underwater acoustic channels to high-capacity optical links above the sea, make the transport of massive raw sensing data costly in both latency and energy, and difficult to sustain for unattended, battery-powered",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29467v1",
+  "raw": {
+    "arxivId": "2609.29467v1",
+    "category": "eess.SY"
+  }
+}

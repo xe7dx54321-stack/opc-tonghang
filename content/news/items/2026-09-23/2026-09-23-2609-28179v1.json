@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-23-2609-28179v1",
+  "title": "GLASS: Architecture-Tuned, Composable, Device-Side Linear Algebra for Edge Robotics and Beyond",
+  "url": "http://arxiv.org/abs/2609.28179v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "GLASS",
+    "Architecture",
+    "Tuned",
+    "Composable",
+    "Device",
+    "Side Linear Algebra",
+    "Edge Robotics",
+    "Beyond GPU",
+    "CPU",
+    "To",
+    "GPU Linear Algebra Simple Subroutines",
+    "CUDA",
+    "NVIDIA",
+    "API",
+    "This",
+    "Jetson AGX Orin",
+    "RTX",
+    "AGX Xavier",
+    "These",
+    "PyTorch"
+  ],
+  "publishedAt": "2026-09-23T14:23:39.000Z",
+  "fetchedAt": "2026-09-27T12:49:43.707Z",
+  "summary": "GPU robotics lacks the reusable numerical infrastructure of mature CPU stacks, instead relying on compiler frameworks that introduce overhead or repeatedly reimplementing numerical libraries. To address this, we introduce GLASS (GPU Linear Algebra Simple Subroutines), a header-only CUDA C++ library that provides thread-, warp-, block-, and NVIDIA-backed implementations of robotics-scale linear algebra and geometric computations under one composable device API. GLASS treats implementation choice,",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28179v1",
+  "raw": {
+    "arxivId": "2609.28179v1",
+    "category": "cs.DC"
+  }
+}

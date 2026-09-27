@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-30238v1",
+  "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
+  "url": "http://arxiv.org/abs/2609.30238v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "SemMSA",
+    "Latent Semantic",
+    "Incomplete Data Recent",
+    "Multimodal Sentiment Analysis",
+    "MSA",
+    "Most",
+    "However",
+    "To",
+    "LLMs",
+    "It",
+    "Cross",
+    "Semantic Refinement",
+    "CSR",
+    "Spectral Alignment",
+    "CSA",
+    "Specifically",
+    "LLM",
+    "Next",
+    "Gram",
+    "This"
+  ],
+  "publishedAt": "2026-09-24T17:55:31.000Z",
+  "fetchedAt": "2026-09-27T12:51:09.846Z",
+  "summary": "Recent research on Multimodal Sentiment Analysis (MSA) has focused on learning from language, visual, and acoustic modalities with incomplete data to infer human sentiment. Most studies typically compensate for missing information by reconstructing modality features or designing complicated fusion mechanisms. However, these methods still suffer from spurious generation and noisy guidance due to the lack of high-level semantic grounding in partially observed multimodal evidence. To address these ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30238v1",
+  "raw": {
+    "arxivId": "2609.30238v1",
+    "category": "cs.CL"
+  }
+}

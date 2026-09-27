@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-24-2609-30085v1",
+  "title": "Residual Correlation as a Diagnostic for Joint-Uncertainty Gains from GP Coregionalisation",
+  "url": "http://arxiv.org/abs/2609.30085v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Residual Correlation",
+    "Diagnostic",
+    "Joint",
+    "Uncertainty Gains",
+    "GP Coregionalisation In",
+    "Gaussian",
+    "GP",
+    "ICM",
+    "In",
+    "Across",
+    "Raw",
+    "We",
+    "NLL",
+    "GPs",
+    "ICM NLL",
+    "Residual",
+    "The"
+  ],
+  "publishedAt": "2026-09-24T16:33:59.000Z",
+  "fetchedAt": "2026-09-27T12:51:13.449Z",
+  "summary": "In multi-target regression, correlated targets are often coupled through multi-output Gaussian processes with an intrinsic model of coregionalisation (GP-ICM), assuming that sharing statistical strength improves overall performance. In practice, the benefits are inconsistent. Across the settings studied, we find that the main benefit of coregionalisation is joint uncertainty quantification rather than point prediction. Raw target correlation does not predict when coupling helps; in the separable",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30085v1",
+  "raw": {
+    "arxivId": "2609.30085v1",
+    "category": "cs.LG"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-24-2609-29836v1",
+  "title": "SplatLabel: Pseudo-Labelling through 4D Gaussian Splatting",
+  "url": "http://arxiv.org/abs/2609.29836v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "SplatLabel",
+    "Pseudo",
+    "Labelling",
+    "Gaussian Splatting While",
+    "Vision Foundation Models",
+    "We",
+    "Gaussian",
+    "LiDAR",
+    "At",
+    "This",
+    "To",
+    "Finally",
+    "Experiments",
+    "SemanticKITTI"
+  ],
+  "publishedAt": "2026-09-24T14:05:59.000Z",
+  "fetchedAt": "2026-09-27T12:50:28.758Z",
+  "summary": "While 2D Vision Foundation Models offer a pathway to automate 3D semantic pseudo-labelling, translating these priors into robust 3D representations typically requires complex heuristics or multi-model ensembles. We introduce SplatLabel, an automated pipeline that leverages a 4D Gaussian representation to extract LiDAR segmentation with predictive confidence, as well as semantic occupancy grids at arbitrary voxel resolutions. At its core, SplatLabel handles dynamic environments through an explici",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29836v1",
+  "raw": {
+    "arxivId": "2609.29836v1",
+    "category": "cs.RO"
+  }
+}

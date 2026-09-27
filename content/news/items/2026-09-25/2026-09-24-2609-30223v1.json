@@ -1,0 +1,42 @@
+{
+  "id": "2026-09-24-2609-30223v1",
+  "title": "BiCC: Bidirectional Connected-Component Loss for Instance-Aware Segmentation",
+  "url": "http://arxiv.org/abs/2609.30223v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "BiCC",
+    "Bidirectional Connected",
+    "Component Loss",
+    "Instance",
+    "Aware Segmentation Common",
+    "However",
+    "CC",
+    "DiceCE",
+    "This",
+    "We",
+    "By",
+    "The",
+    "Across",
+    "Net",
+    "It",
+    "Code",
+    "TIO",
+    "IKIM",
+    "Loss"
+  ],
+  "publishedAt": "2026-09-24T17:48:31.000Z",
+  "fetchedAt": "2026-09-27T12:51:17.111Z",
+  "summary": "Common segmentation losses aggregate errors voxel-wise, so lesions influence the objective in proportion to their volume, giving small but clinically critical lesions disproportionately little weight. Instance-aware losses aim to address this mismatch by assigning each lesion its own term. However, blob loss and CC-DiceCE derive their regions solely from annotations, so false-positive components receive no instance-level term. This matters in computer-assisted review, where each false-positive c",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30223v1",
+  "raw": {
+    "arxivId": "2609.30223v1",
+    "category": "cs.CV"
+  }
+}

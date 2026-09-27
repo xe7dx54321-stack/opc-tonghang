@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-24-2609-29452v1",
+  "title": "Voice Agents under Acoustic Stress: From Signal Degradation to Interaction and Action",
+  "url": "http://arxiv.org/abs/2609.29452v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Voice Agents",
+    "Acoustic Stress",
+    "From Signal Degradation",
+    "Interaction",
+    "Action Voice",
+    "Evaluating",
+    "This",
+    "We",
+    "TRACE",
+    "Finally"
+  ],
+  "publishedAt": "2026-09-24T12:09:23.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.869Z",
+  "summary": "Voice agents must complete users' tasks despite noise, reverberation, and competing speech. Evaluating agents' robustness therefore requires following how acoustic conditions affect the conversation and the actions taken on the user's behalf. This overview examines what existing benchmarks reveal about agents' ability to complete tasks under acoustic stress and where further task-based evaluation is required. We then introduce TRACE, a practical workflow for designing, running, and interpreting ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29452v1",
+  "raw": {
+    "arxivId": "2609.29452v1",
+    "category": "cs.HC"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-24-2609-30157v1",
+  "title": "Learning and interpreting policies for simultaneous entanglement requests in quantum networks",
+  "url": "http://arxiv.org/abs/2609.30157v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Learning",
+    "Future",
+    "In",
+    "We",
+    "Markov Decision Process",
+    "DQN",
+    "Message Passing Neural Networks",
+    "MPNNs",
+    "The",
+    "Finally",
+    "LLM"
+  ],
+  "publishedAt": "2026-09-24T17:16:00.000Z",
+  "fetchedAt": "2026-09-27T12:51:13.449Z",
+  "summary": "Future quantum networks will make use of entanglement to perform numerous tasks, such as sending quantum information over long distances, distributed quantum computing, and quantum sensing. In general, these tasks will need to be performed simultaneously in various regions of a network, while minimizing resources and latency. We will thus require policies for scheduling link-level entanglement resources, and using the link-level entanglement to create various forms of multipartite entanglement r",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30157v1",
+  "raw": {
+    "arxivId": "2609.30157v1",
+    "category": "cs.LG"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-21-2609-24991v1",
+  "title": "Who Pays for the KV Cache? Attributing Shared AI Inference Spend Across Kubernetes and LLM Provider Bills",
+  "url": "http://arxiv.org/abs/2609.24991v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Who Pays",
+    "KV Cache",
+    "LLM Provider Bills Organizations",
+    "AI",
+    "Kubernetes",
+    "API",
+    "We",
+    "OpenCost",
+    "LiteLLM",
+    "OpenAI",
+    "Anthropic",
+    "Five",
+    "KV",
+    "PyTorch",
+    "CLI",
+    "APIs",
+    "At",
+    "LeaderWorkerSet",
+    "GPU",
+    "Helm"
+  ],
+  "publishedAt": "2026-09-21T17:57:40.000Z",
+  "fetchedAt": "2026-09-27T12:48:51.522Z",
+  "summary": "Organizations pay for AI through disconnected ledgers: Kubernetes allocations for self-hosted inference, gateway logs, and per-token bills from API providers. We present unalloc, an open-source tool that joins OpenCost, LiteLLM, OpenAI and Anthropic cost data into one exact ledger and reports the share of spend with no owner, and use it to study where attribution breaks at the seams between these systems. Five case studies run inference for real or simulate it: a vLLM-style serving simulator wit",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24991v1",
+  "raw": {
+    "arxivId": "2609.24991v1",
+    "category": "cs.PF"
+  }
+}

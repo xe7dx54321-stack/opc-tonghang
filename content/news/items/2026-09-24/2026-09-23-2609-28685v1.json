@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-23-2609-28685v1",
+  "title": "\"A Necessary Evil\": Teenagers' Sensemaking of Privacy and Safety Settings on Social Media",
+  "url": "http://arxiv.org/abs/2609.28685v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Necessary Evil",
+    "Teenagers",
+    "Sensemaking",
+    "Privacy",
+    "Safety Settings",
+    "Social Media Social",
+    "Previous",
+    "We",
+    "Instagram",
+    "TikTok",
+    "Snapchat",
+    "YouTube"
+  ],
+  "publishedAt": "2026-09-23T18:26:39.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.871Z",
+  "summary": "Social media platforms are embedded in teenagers' daily lives, supporting friendship and identity while exposing teenagers to unwanted contact and privacy harms. Previous scholarship has documented how attention capture strategies and dark patterns shape social media use, and we extend this work to better understand platform settings that ostensibly provide privacy and safety protection. We report on think-aloud sessions with 11 teenagers aged 14 to 17 who completed six privacy and safety tasks ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28685v1",
+  "raw": {
+    "arxivId": "2609.28685v1",
+    "category": "cs.HC"
+  }
+}

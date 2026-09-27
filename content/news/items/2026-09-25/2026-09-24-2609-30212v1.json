@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-24-2609-30212v1",
+  "title": "Anchored Extra-Proximal Methods: Optimal Higher-Order Methods for Monotone Inclusion Problems",
+  "url": "http://arxiv.org/abs/2609.30212v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anchored Extra",
+    "Proximal Methods",
+    "Optimal Higher",
+    "Order Methods",
+    "Monotone Inclusion Problems We",
+    "We",
+    "Proximal",
+    "AEP",
+    "The",
+    "Fast Extragradient",
+    "Taylor",
+    "For",
+    "Lipschitz",
+    "This",
+    "Thus"
+  ],
+  "publishedAt": "2026-09-24T17:43:45.000Z",
+  "fetchedAt": "2026-09-27T12:51:13.449Z",
+  "summary": "We study the deterministic oracle complexity of finding approximate solutions to composite monotone inclusion problems, formed by the sum of a smooth single-valued monotone operator and a maximally monotone set-valued operator, under the tangent-residual criterion. We introduce the Anchored Extra-Proximal (AEP) framework, which combines an anchored extrapolation step with an inexact anchored proximal update satisfying a relative-error condition. The framework recovers the composite Fast Extragra",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30212v1",
+  "raw": {
+    "arxivId": "2609.30212v1",
+    "category": "cs.LG"
+  }
+}

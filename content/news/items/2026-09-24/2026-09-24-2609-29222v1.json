@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-24-2609-29222v1",
+  "title": "Security Limits of Mining Before Validation in Nakamoto Consensus",
+  "url": "http://arxiv.org/abs/2609.29222v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Security Limits",
+    "Mining Before Validation",
+    "Nakamoto Consensus Mining",
+    "This",
+    "We",
+    "Nakamoto",
+    "When",
+    "Combined",
+    "The"
+  ],
+  "publishedAt": "2026-09-24T08:30:40.000Z",
+  "fetchedAt": "2026-09-27T12:50:40.564Z",
+  "summary": "Mining before validation allows miners to extend a newly received block before completing its validity checks, giving them a head start in the race for the next block reward. This head start, however, comes with a security risk: rejecting one invalid block also discards the honest work built on it, an effect missed when validation is treated as instantaneous. We quantify this risk in a model of Nakamoto consensus with bounded network delay and a validation-time bound independent of processing lo",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29222v1",
+  "raw": {
+    "arxivId": "2609.29222v1",
+    "category": "cs.DC"
+  }
+}

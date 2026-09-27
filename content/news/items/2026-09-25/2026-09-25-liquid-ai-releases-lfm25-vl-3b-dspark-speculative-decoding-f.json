@@ -1,0 +1,42 @@
+{
+  "id": "2026-09-25-liquid-ai-releases-lfm25-vl-3b-dspark-speculative-decoding-f",
+  "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
+  "url": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
+  "source": "marktechpost",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Liquid AI Releases",
+    "LFM2",
+    "VL",
+    "DSpark",
+    "Speculative Decoding",
+    "Vision",
+    "Language Models With Up",
+    "Faster Decoding Liquid AI",
+    "It",
+    "Apple",
+    "Max",
+    "Support",
+    "MLX",
+    "VLM",
+    "SGLang",
+    "The",
+    "Faster Decoding",
+    "MarkTechPost"
+  ],
+  "publishedAt": "2026-09-25T23:11:59.000Z",
+  "fetchedAt": "2026-09-27T12:43:09.452Z",
+  "summary": "Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that brings speculative decoding to its LFM2.5-VL-3B vision-language model. It delivers up to 3.13x faster decoding on Apple M5 Max and 2.66x on H100, with identical output under greedy decoding. Support ships in llama.cpp, MLX-VLM, and SGLang. The post Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding appeared first on MarkTechPost. ]]>",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "marktechpost",
+    "author": "<![CDATA[Asif Razzaq]]>",
+    "lang": "en"
+  }
+}

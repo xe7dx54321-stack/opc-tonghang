@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-25-fireworks-fal-consider-new-rounds-as-inference-demand-soars",
+  "title": "Fireworks, Fal Consider New Rounds as Inference Demand Soars",
+  "url": "https://www.theinformation.com/articles/fireworks-fal-consider-new-rounds-inference-demand-soars",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Fireworks",
+    "Fal Consider New Rounds",
+    "Inference Demand Soars",
+    "Startups",
+    "Fal",
+    "Fireworks AI",
+    "AI",
+    "Google",
+    "Nano Banana",
+    "Talks"
+  ],
+  "publishedAt": "2026-09-25T22:59:19.000Z",
+  "fetchedAt": "2026-09-27T12:43:08.052Z",
+  "summary": "&lt;p&gt;Startups such as Fal and Fireworks AI that sell access to AI models and servers have been ringing up sales as developers use them to run models quickly, sparking a new investor rush to pour money into them.&lt;/p&gt; &lt;p&gt;Fal, which specializes in providing such inference services for video and image generation models such as Google’s Nano Banana models, has spoken to investors about raising new funding at a $15 billion valuation, according to two people familiar with the discussion",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "theinformation",
+    "author": "Valida Pau",
+    "lang": "en"
+  }
+}

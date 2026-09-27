@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-28933v1",
+  "title": "A Field-Deployable GNSS-based Navigation Stack for Outdoor Mobile Robots",
+  "url": "http://arxiv.org/abs/2609.28933v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Field",
+    "Deployable GNSS",
+    "Navigation Stack",
+    "Outdoor Mobile Robots Outdoor",
+    "This",
+    "ROS",
+    "GNSS",
+    "IMU",
+    "Both",
+    "East",
+    "North",
+    "Up",
+    "PID",
+    "NMPC",
+    "The",
+    "Independent",
+    "MAE",
+    "These",
+    "YiyuanLinXX",
+    "PPBv2"
+  ],
+  "publishedAt": "2026-09-24T02:35:08.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.098Z",
+  "summary": "Outdoor robots require more than an accurate receiver and a path-tracking law: the navigation system must preserve geometric consistency from geographic waypoints to actuator commands, expose measurement validity and timing, and respond to invalid or stale state information. This work presents a ROS~2 navigation stack with interchangeable single-GNSS--IMU and dual-antenna-GNSS localization front ends. Both provide a common local East--North--Up state interface for pure pursuit, virtual-point cro",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28933v1",
+  "raw": {
+    "arxivId": "2609.28933v1",
+    "category": "eess.SY"
+  }
+}

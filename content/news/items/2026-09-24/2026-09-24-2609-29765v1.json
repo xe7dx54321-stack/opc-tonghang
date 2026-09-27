@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-29765v1",
+  "title": "Dense Matrices Are Alike; Sparse Matrices Are Sparse in Their Own Way: A Structure-Adaptive Tile Cholesky Factorization",
+  "url": "http://arxiv.org/abs/2609.29765v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Dense Matrices Are Alike",
+    "Sparse Matrices Are Sparse",
+    "Their Own Way",
+    "Structure",
+    "Cholesky",
+    "We",
+    "Before",
+    "Dense",
+    "BLAS",
+    "The",
+    "Laplace",
+    "INLA",
+    "SPD",
+    "MUMPS",
+    "PaStiX",
+    "CHOLMOD",
+    "Intel",
+    "PARDISO",
+    "Intel Xeon",
+    "AMD EPYC"
+  ],
+  "publishedAt": "2026-09-24T13:14:04.000Z",
+  "fetchedAt": "2026-09-27T12:50:44.402Z",
+  "summary": "Sparse direct Cholesky solvers fix one data structure for an entire matrix, but symmetric positive definite systems range from nearly dense to irregular, sometimes mixing both within one matrix. We let the data structure follow the sparsity structure, across matrices and across tiles within a matrix. Before numerical work starts, a lightweight selector captures the sparsity pattern of the Cholesky factor and routes the matrix, on one static shared-memory schedule, to one of three regimes: dense,",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29765v1",
+  "raw": {
+    "arxivId": "2609.29765v1",
+    "category": "cs.PF"
+  }
+}

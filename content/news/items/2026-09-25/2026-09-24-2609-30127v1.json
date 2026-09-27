@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-30127v1",
+  "title": "Faster Visuomotor Policy Learning on Action Manifolds via Riemannian MeanFlow",
+  "url": "http://arxiv.org/abs/2609.30127v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Faster Visuomotor Policy Learning",
+    "Action Manifolds",
+    "Riemannian MeanFlow Visuomotor",
+    "Policies",
+    "Diffusion",
+    "Flow Matching",
+    "This",
+    "Furthermore",
+    "Here",
+    "Riemannian MeanFlow Policy",
+    "RMFP",
+    "Our",
+    "Riemannian Conditional Flow Matching",
+    "The",
+    "We",
+    "LASA",
+    "Push",
+    "Tool Hang",
+    "Transport",
+    "Robomimic"
+  ],
+  "publishedAt": "2026-09-24T17:00:57.000Z",
+  "fetchedAt": "2026-09-27T12:51:25.345Z",
+  "summary": "Visuomotor policies learn a direct map from raw sensory observations to robot action sequences. Policies based on Diffusion and Flow Matching capture the multimodal distribution over action sequences in an end-to-end manner. This expressivity comes at the cost of multi-step numerical integration of the learned vector field for action generation, which can be expensive and time-consuming, impeding fast control rates required in robotics applications. Furthermore, robot action sequences are usuall",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30127v1",
+  "raw": {
+    "arxivId": "2609.30127v1",
+    "category": "cs.RO"
+  }
+}

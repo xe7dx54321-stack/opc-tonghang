@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-23-2609-27482v1",
+  "title": "CerebroSim: Scalable Whole-Brain Simulator at 100-Trillion-Synapse Scale on the LineShine Supercomputer",
+  "url": "http://arxiv.org/abs/2609.27482v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "CerebroSim",
+    "Scalable Whole",
+    "Brain Simulator",
+    "Trillion",
+    "Synapse Scale",
+    "LineShine Supercomputer Building",
+    "Human",
+    "We",
+    "Delay",
+    "Spike Broadcast",
+    "DSB",
+    "Race",
+    "Synaptic Dynamics Computation",
+    "RSDC",
+    "HBM",
+    "Sparse Synapse Storage Compression",
+    "Using",
+    "LineShine Supercomputer",
+    "PFlop",
+    "This"
+  ],
+  "publishedAt": "2026-09-23T07:44:38.000Z",
+  "fetchedAt": "2026-09-27T12:49:43.708Z",
+  "summary": "Building executable brain models is essential for moving neuroscience from description to mechanism and prediction. Human-brain-scale spiking simulation is constrained by highly irregular communication, multithreaded spike delivery, and the memory cost of sparse connectivity. We present CerebroSim, a scalable framework for whole-brain simulation. CerebroSim combines Delay-aware Spike Broadcast (DSB) for aggregated delay-aware communication, Race-free Synaptic Dynamics Computation (RSDC) for lock",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27482v1",
+  "raw": {
+    "arxivId": "2609.27482v1",
+    "category": "cs.DC"
+  }
+}

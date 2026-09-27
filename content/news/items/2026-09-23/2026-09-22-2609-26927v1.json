@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-22-2609-26927v1",
+  "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
+  "url": "http://arxiv.org/abs/2609.26927v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Building Socio",
+    "Affective Artificial Intelligence",
+    "Interactive Multi",
+    "Agent Simulations The",
+    "This",
+    "AI",
+    "AGI",
+    "Given",
+    "In",
+    "AGIMUD",
+    "These",
+    "MUDs",
+    "Find"
+  ],
+  "publishedAt": "2026-09-22T18:21:08.000Z",
+  "fetchedAt": "2026-09-27T12:49:28.679Z",
+  "summary": "The objective of this article is to provide design principles and a software architecture for enabling interaction between humans and multiple agents in simulated dynamic worlds. This connects the current era of general artificial intelligence (AI/AGI) with the proliferation of transformer-based conversational agents and the increased computational capabilities. Given an overview of current and previous multi-agent theories of mind (socially and affectively-aware agents), the existence of an int",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.26927v1",
+  "raw": {
+    "arxivId": "2609.26927v1",
+    "category": "cs.MA"
+  }
+}

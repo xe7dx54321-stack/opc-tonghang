@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-24-2609-29015v1",
+  "title": "MeshHeal: Two-Timescale Self-Healing for Gray Failures in Decentralized LLM Agent Networks",
+  "url": "http://arxiv.org/abs/2609.29015v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "MeshHeal",
+    "Two",
+    "Timescale Self",
+    "Healing",
+    "Gray Failures",
+    "Such",
+    "We",
+    "At",
+    "To",
+    "Model",
+    "Backed MAS Evaluation",
+    "Across BBH",
+    "MATH",
+    "MMLU",
+    "Pro",
+    "Symphony",
+    "Under"
+  ],
+  "publishedAt": "2026-09-24T04:29:37.000Z",
+  "fetchedAt": "2026-09-27T12:50:40.564Z",
+  "summary": "Decentralized LLM-based multi-agent systems coordinate through local interactions, but an agent can remain responsive while its task-solving quality persistently degrades. Such gray failures require protecting current tasks before sufficient evidence exists to alter future routing, while still allowing recovered agents to rejoin. We introduce MeshHeal, a fully decentralized self-healing framework that couples ability-matched peer review across two timescales. At the fast timescale, an adaptive h",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29015v1",
+  "raw": {
+    "arxivId": "2609.29015v1",
+    "category": "cs.DC"
+  }
+}

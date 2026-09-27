@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-24-2609-29312v1",
+  "title": "When No One Owns the Judgment: Accountability Under Contribution Dissolution in Human-AI Collaboration",
+  "url": "http://arxiv.org/abs/2609.29312v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "When No One Owns",
+    "Judgment",
+    "Human",
+    "AI Collaboration Communities",
+    "AI",
+    "Was AI",
+    "Was",
+    "Can",
+    "These",
+    "Evaluations",
+    "We",
+    "The"
+  ],
+  "publishedAt": "2026-09-24T09:46:53.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.870Z",
+  "summary": "Communities often respond to potentially AI-assisted work by asking three questions: Was AI used? Was that use disclosed? Can hidden use be detected? These questions place AI use itself at the center of accountability while overlooking a deeper problem: unowned judgment. Evaluations, claims, decisions, and creative directions can be shaped by AI with no accountable human or institution prepared to stand behind them. We develop this argument through two illustrative cases: AI-assisted peer review",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29312v1",
+  "raw": {
+    "arxivId": "2609.29312v1",
+    "category": "cs.HC"
+  }
+}

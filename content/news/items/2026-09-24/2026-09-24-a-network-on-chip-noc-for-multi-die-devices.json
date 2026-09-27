@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-24-a-network-on-chip-noc-for-multi-die-devices",
+  "title": "A Network-on-Chip (NoC) For Multi-Die Devices",
+  "url": "https://semiengineering.com/a-network-on-chip-noc-for-multi-die-devices/",
+  "source": "semiconductor-engineering",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Network",
+    "Chip",
+    "NoC",
+    "For Multi",
+    "Die Devices Transporting",
+    "The",
+    "Die Devices",
+    "Semiconductor Engineering"
+  ],
+  "publishedAt": "2026-09-24T07:07:06.000Z",
+  "fetchedAt": "2026-09-27T12:43:12.860Z",
+  "summary": "Transporting the native packetized traffic of the NoC directly across die boundaries using a stable, invariant interface. The post A Network-on-Chip (NoC) For Multi-Die Devices appeared first on Semiconductor Engineering. ]]>",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "semiconductor-engineering",
+    "author": "<![CDATA[Ashley Stevens]]>",
+    "lang": "en"
+  }
+}

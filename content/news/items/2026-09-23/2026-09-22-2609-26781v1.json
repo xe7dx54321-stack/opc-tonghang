@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-22-2609-26781v1",
+  "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
+  "url": "http://arxiv.org/abs/2609.26781v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Agensh",
+    "Scaling Organizational Intelligence",
+    "Agents",
+    "Several",
+    "However",
+    "To",
+    "The",
+    "ProgramBench",
+    "GPT",
+    "Scaling",
+    "Larger",
+    "On",
+    "Worker",
+    "These"
+  ],
+  "publishedAt": "2026-09-22T17:56:25.000Z",
+  "fetchedAt": "2026-09-27T12:49:28.679Z",
+  "summary": "A multi-agent system can reduce latency on complex tasks by executing work concurrently. Several pioneering harness frameworks support multi-agent systems. However, the scalability of current multi-agent harnesses is often constrained by a central orchestrator's capacity to allocate tasks and coordinate workers. To address this limitation, we introduce Agensh, a scalable self-organized multi-agent harness without a central orchestrator: concurrent workers execute a multi-agent cooperation loop, ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.26781v1",
+  "raw": {
+    "arxivId": "2609.26781v1",
+    "category": "cs.MA"
+  }
+}

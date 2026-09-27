@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-23-2609-28361v1",
+  "title": "Flamingo: On Load Balancing in DAG-based Consensus Protocols",
+  "url": "http://arxiv.org/abs/2609.28361v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Flamingo",
+    "On Load Balancing",
+    "DAG",
+    "Consensus Protocols Distributed",
+    "Byzantine Fault",
+    "Tolerant",
+    "BFT",
+    "However",
+    "This",
+    "At",
+    "Byzantine",
+    "Built",
+    "Narwhal",
+    "Tusk"
+  ],
+  "publishedAt": "2026-09-23T16:33:07.000Z",
+  "fetchedAt": "2026-09-27T12:50:40.565Z",
+  "summary": "Distributed data management systems deployed in untrusted environments rely on Byzantine Fault-Tolerant (BFT) consensus protocols to tolerate malicious failures. DAG-based BFT protocols improve throughput by letting validators disseminate transactions concurrently and by scaling execution across multiple workers. However, imbalances in workload or resource capacity can still degrade performance significantly. This paper presents Flamingo, a load-balancing protocol for certified DAG-based BFT pro",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28361v1",
+  "raw": {
+    "arxivId": "2609.28361v1",
+    "category": "cs.DC"
+  }
+}

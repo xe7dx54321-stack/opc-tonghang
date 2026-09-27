@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-24-2609-30026v1",
+  "title": "Training-Free Hold-Usage Detection in Sport Climbing with Foundation Pose Models",
+  "url": "http://arxiv.org/abs/2609.30026v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Training",
+    "Free Hold",
+    "Usage Detection",
+    "Sport Climbing",
+    "Foundation Pose Models Detecting",
+    "Existing",
+    "We",
+    "Sapiens",
+    "On",
+    "The Way Up",
+    "Under",
+    "YOLOv8-pose",
+    "ViTPose",
+    "An",
+    "Finally",
+    "Pearson"
+  ],
+  "publishedAt": "2026-09-24T16:00:51.000Z",
+  "fetchedAt": "2026-09-27T12:51:17.112Z",
+  "summary": "Detecting which holds a climber uses, and when, underpins automated scoring, movement analysis, and assistive systems for sport climbing. Existing approaches train task-specific models or repurpose 2D pose estimators whose hand keypoint sits at the wrist and foot keypoint at the ankle i.e. offset from the fingertips and toes that actually contact the holds, and whose hands are occluded in roughly half of all frames. We show that a frozen, off-the-shelf pose foundation model is sufficient: using ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30026v1",
+  "raw": {
+    "arxivId": "2609.30026v1",
+    "category": "cs.CV"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-24-2609-29998v1",
+  "title": "Planning electric bus systems with solar photovoltaic integration using open transit data: A case study of the Dakar BRT",
+  "url": "http://arxiv.org/abs/2609.29998v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Planning",
+    "Dakar BRT Electrification",
+    "However",
+    "Such",
+    "To",
+    "GTFS4EV",
+    "General Transit Feed Specification",
+    "GTFS",
+    "The",
+    "It",
+    "We",
+    "Dakar Bus Rapid Transit",
+    "Depot",
+    "Terminal",
+    "PV",
+    "Results",
+    "MW",
+    "Moreover"
+  ],
+  "publishedAt": "2026-09-24T15:44:32.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.097Z",
+  "summary": "Electrification of urban bus systems is expected to accelerate due to its clear environmental benefits. However, effective electric bus deployment requires planning tools that can support decision-making on electrification strategies while balancing operational feasibility, costs, environmental benefits, and impacts on the local electricity grid. Such planning depends on the availability of detailed transit data, which remain scarce in many cities, particularly in developing countries. To addres",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29998v1",
+  "raw": {
+    "arxivId": "2609.29998v1",
+    "category": "eess.SY"
+  }
+}

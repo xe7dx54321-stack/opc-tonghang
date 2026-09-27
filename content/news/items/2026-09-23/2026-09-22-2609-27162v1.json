@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-22-2609-27162v1",
+  "title": "Agentic-IC3: Enabling Semantic Proof Search in IC3 Model Checking",
+  "url": "http://arxiv.org/abs/2609.27162v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Agentic",
+    "IC3",
+    "Enabling Semantic Proof Search",
+    "Model Checking",
+    "Its",
+    "However",
+    "Those",
+    "We",
+    "Pono",
+    "RTL",
+    "The",
+    "Across",
+    "SAT",
+    "UNSAT",
+    "Beyond",
+    "On",
+    "IC3Bits"
+  ],
+  "publishedAt": "2026-09-22T23:48:12.000Z",
+  "fetchedAt": "2026-09-27T12:49:39.988Z",
+  "summary": "IC3 is a state-of-the-art algorithm for hardware model checking that proves safety properties by incrementally constructing an inductive invariant consisting of a set of lemmas. Its effectiveness depends on generalization heuristics that identify useful lemmas and guide proof search. However, many leading IC3 hardware model checkers operate on lowered, bit-level representations, where high-level design relationships are difficult to exploit for generalization. Those operating at a higher level r",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27162v1",
+  "raw": {
+    "arxivId": "2609.27162v1",
+    "category": "cs.AR"
+  }
+}

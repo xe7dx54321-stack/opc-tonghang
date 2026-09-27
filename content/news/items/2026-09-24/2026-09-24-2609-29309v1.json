@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-24-2609-29309v1",
+  "title": "DocuTeam: Mixed-Initiative Multi-Agent Discussions around Evolving Documents",
+  "url": "http://arxiv.org/abs/2609.29309v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "DocuTeam",
+    "Mixed",
+    "Initiative Multi",
+    "Agent Discussions",
+    "Evolving Documents In",
+    "While AI",
+    "We",
+    "Agents",
+    "In",
+    "Rather"
+  ],
+  "publishedAt": "2026-09-24T09:43:33.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.870Z",
+  "summary": "In open-ended problem solving, collaborators often rely on discussion to surface concerns, challenge perspectives, and refine shared work as it evolves. While AI agents are increasingly used as discussion partners, existing multi-agent systems place a heavy burden on users to initiate and carefully orchestrate the discussions. We present DocuTeam, a mixed-initiative multi-agent discussion system in which both users and agents can initiate and steer conversations. Agents monitor document changes ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29309v1",
+  "raw": {
+    "arxivId": "2609.29309v1",
+    "category": "cs.HC"
+  }
+}

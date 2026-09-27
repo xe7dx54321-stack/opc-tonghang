@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-24-2609-29963v1",
+  "title": "ADATEX4D: adaptive texture capacity allocation for 4D gaussian splatting",
+  "url": "http://arxiv.org/abs/2609.29963v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "ADATEX4D",
+    "Textured Gaussians",
+    "We",
+    "Gaussian Splatting",
+    "Each Gaussian",
+    "RGBA",
+    "Experiments",
+    "PanopticSports",
+    "Under",
+    "These",
+    "Gaussian"
+  ],
+  "publishedAt": "2026-09-24T15:19:23.000Z",
+  "fetchedAt": "2026-09-27T12:50:21.275Z",
+  "summary": "Textured Gaussians improve local appearance capacity, but assigning the same texture resolution to every primitive wastes storage on low-detail or weakly visible regions. We introduce AdaTex4D, an adaptive texture-capacity module for deformation-based 4D Gaussian Splatting. Each Gaussian carries packed RGBA triplanes whose two axes grow independently according to visibility normalized screen-space gradients and deformed local scales. Experiments on N3DV and PanopticSports show that AdaTex4D redu",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29963v1",
+  "raw": {
+    "arxivId": "2609.29963v1",
+    "category": "cs.CV"
+  }
+}

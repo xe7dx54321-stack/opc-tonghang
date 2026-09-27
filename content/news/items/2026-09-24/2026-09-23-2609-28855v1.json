@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-23-2609-28855v1",
+  "title": "Distributed Service Orchestration in Edge-Cloud Continuum for Digital Healthcare",
+  "url": "http://arxiv.org/abs/2609.28855v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Distributed Service Orchestration",
+    "Edge",
+    "Cloud Continuum",
+    "Digital Healthcare Today",
+    "Cloud",
+    "However",
+    "Consequently",
+    "To",
+    "DockerHub",
+    "MEC",
+    "LAN",
+    "The"
+  ],
+  "publishedAt": "2026-09-23T23:55:16.000Z",
+  "fetchedAt": "2026-09-27T12:50:40.564Z",
+  "summary": "Today's digital healthcare services rely on various applications and functions that must be continuously accessible. Cloud computing enables global access to these services through public networks, which often also introduce increased latency, higher bandwidth consumption, and additional security risks compared to local operation. Edge computing mitigates these challenges by deploying cloud services closer to the end users and data sources, thereby improving resilience to network disruptions and",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28855v1",
+  "raw": {
+    "arxivId": "2609.28855v1",
+    "category": "cs.DC"
+  }
+}

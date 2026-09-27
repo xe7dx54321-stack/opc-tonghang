@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-22-2609-25873v1",
+  "title": "AgenticSizing: A Large Language Model-based Multi-Agent Framework for Analog Circuit Sizing",
+  "url": "http://arxiv.org/abs/2609.25873v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "AgenticSizing",
+    "Large Language Model",
+    "Multi",
+    "Agent Framework",
+    "Analog Circuit Sizing Analog",
+    "Although",
+    "LLM",
+    "This",
+    "The",
+    "It",
+    "Based",
+    "Notably",
+    "LDO",
+    "Further"
+  ],
+  "publishedAt": "2026-09-22T08:39:05.000Z",
+  "fetchedAt": "2026-09-27T12:48:44.049Z",
+  "summary": "Analog circuit sizing remains a challenging and time-consuming task due to the large design space, strong performance trade-offs, and increasing circuit complexity in scaled technologies. Although recent large language model (LLM)-based methods show promise in improving sample efficiency and interpretability, existing approaches often lack explicit circuit-topology understanding and are mainly evaluated on relatively simple analog building blocks. This paper presents a multi-agent LLM-based fram",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.25873v1",
+  "raw": {
+    "arxivId": "2609.25873v1",
+    "category": "cs.AR"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-23-2609-27535v1",
+  "title": "KITE: Scaling Jev Population Experiments with Sparse Flagship Calibration",
+  "url": "http://arxiv.org/abs/2609.27535v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "KITE",
+    "Scaling Jev Population Experiments",
+    "Sparse Flagship Calibration KITE",
+    "An",
+    "Measured",
+    "Population",
+    "Monte Carlo",
+    "On Epstein",
+    "MAE",
+    "On",
+    "The",
+    "Shared",
+    "This",
+    "Property"
+  ],
+  "publishedAt": "2026-09-23T08:28:15.000Z",
+  "fetchedAt": "2026-09-27T12:49:28.678Z",
+  "summary": "KITE queries a typed behavioral kernel once per unique state, then executes populations of any size from the table with event-keyed randomness and common random numbers. An expensive flagship model is reserved for sparse paired anchors that estimate intervention effects. Measured human-model discrepancy is propagated as shared error into every conclusion. Population-experiment cost thus scales with unique states and anchors, while uncertainty is governed by evidence about people rather than Mont",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27535v1",
+  "raw": {
+    "arxivId": "2609.27535v1",
+    "category": "cs.MA"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-24-2609-29319v1",
+  "title": "Safe Learning-Based Adaptive Augmentation Control for Fixed-Wing UAV under Uncertainty",
+  "url": "http://arxiv.org/abs/2609.29319v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Safe Learning",
+    "Based Adaptive Augmentation Control",
+    "Fixed",
+    "Wing UAV",
+    "Uncertainty This",
+    "In",
+    "RL",
+    "Domain",
+    "To",
+    "Based",
+    "PCH",
+    "The"
+  ],
+  "publishedAt": "2026-09-24T09:57:47.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.098Z",
+  "summary": "This paper presents a learning-based adaptive augmentation control concept inspired by the adaptation mechanisms of conventional adaptive control, while not being restricted to their specific parametric adaptation structures. In contrast to augmenting a reinforcement learning (RL) baseline controller with classical adaptive control to account for the simulation-to-reality gap, the proposed approach uses RL-based adaptive augmentation to address the limitations of conventional adaptive control. D",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29319v1",
+  "raw": {
+    "arxivId": "2609.29319v1",
+    "category": "eess.SY"
+  }
+}

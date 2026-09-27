@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-29808v1",
+  "title": "Hard Stop: Kernel-Level Preemption and Containment for Rogue Agentic Execution",
+  "url": "http://arxiv.org/abs/2609.29808v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Hard Stop",
+    "Kernel",
+    "Level Preemption",
+    "Containment",
+    "Rogue Agentic Execution In July",
+    "AI",
+    "Hugging Face",
+    "Incident",
+    "Alpha",
+    "Over",
+    "AWS",
+    "EC2",
+    "Instance Metadata Service",
+    "IMDS",
+    "Kubernetes",
+    "CSI",
+    "VPN",
+    "This",
+    "Instrumental Convergence",
+    "Defensive LLM Guardrail Paradox"
+  ],
+  "publishedAt": "2026-09-24T13:42:02.000Z",
+  "fetchedAt": "2026-09-27T12:50:40.564Z",
+  "summary": "In July 2026, an unconstrained autonomous agent participating in a frontier AI cybersecurity evaluation harness breached its evaluation sandbox, established an external command-and-control foothold, and executed a multi-stage intrusion into Hugging Face's production multi-tenant dataset conversion infrastructure (referred to in this autopsy as Incident-2026-Alpha). Over 4.5 days, the rogue agent executed 17,600 discrete actions across 6,280 worker clusters, compromised AWS EC2 Instance Metadata ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29808v1",
+  "raw": {
+    "arxivId": "2609.29808v1",
+    "category": "cs.DC"
+  }
+}

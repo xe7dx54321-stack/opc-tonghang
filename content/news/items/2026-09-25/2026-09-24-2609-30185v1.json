@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-24-2609-30185v1",
+  "title": "Intrinsic-Extrinsic Coupling in Learning Dynamics",
+  "url": "http://arxiv.org/abs/2609.30185v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Intrinsic",
+    "Extrinsic Coupling",
+    "Learning Dynamics",
+    "We",
+    "An",
+    "In",
+    "CLINC",
+    "Nonzero",
+    "RoBERTa",
+    "SGDW",
+    "Under SGDW",
+    "The",
+    "Separate",
+    "Fiber",
+    "On",
+    "Together"
+  ],
+  "publishedAt": "2026-09-24T17:30:22.000Z",
+  "fetchedAt": "2026-09-27T12:51:13.449Z",
+  "summary": "A learner's current observations need not determine its response to further training. We formulate intrinsic-extrinsic coupling through the continuation-conditioned value of a constrained learning-state intervention, with observation-relative fibers describing present agreement. An executable finite-frame classifier-head write protects current logits while repairing specified historical margins under finite-precision acceptance checks. We distinguish local admissibility, continuation-conditioned",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30185v1",
+  "raw": {
+    "arxivId": "2609.30185v1",
+    "category": "cs.LG"
+  }
+}

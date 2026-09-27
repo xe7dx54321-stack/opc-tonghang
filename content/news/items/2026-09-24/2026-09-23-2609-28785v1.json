@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-23-2609-28785v1",
+  "title": "Optimal Measurement Selection for Certifiable Voltage Monitoring in Power Distribution Systems",
+  "url": "http://arxiv.org/abs/2609.28785v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Optimal Measurement Selection",
+    "Certifiable Voltage Monitoring",
+    "Power Distribution Systems Maintaining",
+    "Rising",
+    "Operators",
+    "This",
+    "We",
+    "Building",
+    "Numerical",
+    "SCE"
+  ],
+  "publishedAt": "2026-09-23T21:03:03.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.099Z",
+  "summary": "Maintaining consumer-end voltages within mandated limits is a central task in operating power distribution systems. Rising penetration of distributed generation, electric vehicles, and flexible loads complicates this task, while a scarcity of real-time measurements leaves distribution networks largely unobservable. Operators commonly monitor a few bellwether meters, which indicate operational health but certify nothing about the unmeasured buses. This work asks how to select measurements that ar",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28785v1",
+  "raw": {
+    "arxivId": "2609.28785v1",
+    "category": "eess.SY"
+  }
+}

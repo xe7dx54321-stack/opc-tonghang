@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-25-inside-the-drama-behind-a-biology-contest-that-pits-openai-a",
+  "title": "Inside the Drama Behind a Biology Contest That Pits OpenAI Agents Against Humans",
+  "url": "https://www.theinformation.com/articles/inside-drama-behind-biology-contest-pits-openai-agents-humans",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Inside",
+    "Drama Behind",
+    "For",
+    "Jason Kelly",
+    "CEO",
+    "Ginkgo Bioworks",
+    "His",
+    "OpenAI",
+    "Kelly",
+    "Boston",
+    "Ginkgo",
+    "Michael Jewett",
+    "Stanford University",
+    "AI",
+    "Jewett",
+    "He"
+  ],
+  "publishedAt": "2026-09-25T17:00:19.000Z",
+  "fetchedAt": "2026-09-27T12:43:08.053Z",
+  "summary": "&lt;p&gt;For months, Jason Kelly, co-founder and CEO of Ginkgo Bioworks, has been planning what was billed as a fun, attention-grabbing science competition. His idea was to pit a top scientist against OpenAI’s latest models in designing a variety of proteins using a technique in which they are grown in test tubes faster than they would be in cells. Kelly’s company, which builds autonomous labs, would supply the venue&amp;mdash;a 15,000-square-foot, robot-filled lab at its Boston headquarters. Gi",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "theinformation",
+    "author": "Amy Dockser Marcus",
+    "lang": "en"
+  }
+}

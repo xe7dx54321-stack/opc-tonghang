@@ -1,0 +1,40 @@
+{
+  "id": "2026-09-22-2609-25624v1",
+  "title": "Accelerating the Mitigation of LLM Inference Nondeterminism Across GPU Architectures",
+  "url": "http://arxiv.org/abs/2609.25624v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Accelerating",
+    "Mitigation",
+    "LLM",
+    "GPUs",
+    "The",
+    "Inference",
+    "Existing",
+    "We",
+    "GEMM",
+    "FP32",
+    "IEEE",
+    "SM",
+    "By",
+    "GPU",
+    "NVIDIA Ampere",
+    "Ada",
+    "Hopper GPUs"
+  ],
+  "publishedAt": "2026-09-22T03:32:40.000Z",
+  "fetchedAt": "2026-09-27T12:48:44.049Z",
+  "summary": "Large language model (LLM) outputs are expected to be reproducible under greedy decoding, yet in practice the same model, prompt, and software stack produce different outputs on different GPUs. The root cause is floating-point non-associativity combined with hardware-dependent kernel selection. Inference frameworks select different matrix-multiplication kernels on each architecture, with different parallel reduction orders and unspecified tensor-core arithmetic, and the resulting rounding differ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.25624v1",
+  "raw": {
+    "arxivId": "2609.25624v1",
+    "category": "cs.AR"
+  }
+}

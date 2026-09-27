@@ -1,0 +1,37 @@
+{
+  "id": "2026-09-24-2609-30160v1",
+  "title": "A Training Criterion with Token-Level Tolerance to Transcription Ambiguity for Automatic Speech Recognition",
+  "url": "http://arxiv.org/abs/2609.30160v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Training Criterion",
+    "Token",
+    "Level Tolerance",
+    "Transcription Ambiguity",
+    "Automatic Speech Recognition Automatic",
+    "Omni",
+    "Classification",
+    "OTC",
+    "CTC",
+    "We",
+    "Across",
+    "Combining",
+    "WER",
+    "Independent"
+  ],
+  "publishedAt": "2026-09-24T17:17:55.000Z",
+  "fetchedAt": "2026-09-27T12:51:09.847Z",
+  "summary": "Automatic speech recognition is typically trained assuming that the reference transcript is the only valid labeling of an utterance, yet even nominally verbatim transcripts contain localized differences in pronunciation, spelling, or lexical realization that the acoustics do not uniquely determine. Omni-temporal Classification (OTC) tolerates such noise by adding wildcard paths to the connectionist temporal classification (CTC) alignment graph, but its word-level arcs are too coarse, since bypas",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30160v1",
+  "raw": {
+    "arxivId": "2609.30160v1",
+    "category": "cs.CL"
+  }
+}

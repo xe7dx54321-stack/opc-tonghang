@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-23-2609-27706v1",
+  "title": "MVP: A Motion-Predictive Speculative Vision Pipeline with Non-Blocking Drift Correction",
+  "url": "http://arxiv.org/abs/2609.27706v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "MVP",
+    "Motion",
+    "Predictive Speculative Vision Pipeline",
+    "Non",
+    "CV",
+    "Modern CV SoC",
+    "Prior",
+    "We",
+    "Instead",
+    "Image Signal Processor",
+    "ISP",
+    "It"
+  ],
+  "publishedAt": "2026-09-23T11:24:24.000Z",
+  "fetchedAt": "2026-09-27T12:49:39.988Z",
+  "summary": "Continuous Vision (CV) systems underpin real-time applications such as autonomous driving and augmented reality, where latency, throughput, and energy are tightly constrained on mobile platforms. Modern CV SoC pipelines, however, still serialize image capture and processing, leading to high end-to-end latency. Prior work reduces this latency by predicting future frames and running pixel-domain backend inference speculatively, but incorrect predictions force re-execution on real frames, increasin",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.27706v1",
+  "raw": {
+    "arxivId": "2609.27706v1",
+    "category": "cs.AR"
+  }
+}

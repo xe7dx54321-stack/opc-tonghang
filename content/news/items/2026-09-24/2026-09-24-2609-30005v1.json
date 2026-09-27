@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-24-2609-30005v1",
+  "title": "VietPrism: A large-scale Vietnamese speech and deepfake corpus with diverse dialects and code-switching",
+  "url": "http://arxiv.org/abs/2609.30005v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "VietPrism",
+    "Vietnamese",
+    "We",
+    "To",
+    "English",
+    "Every",
+    "Zero",
+    "EER",
+    "DFA",
+    "Dialect",
+    "By"
+  ],
+  "publishedAt": "2026-09-24T15:48:23.000Z",
+  "fetchedAt": "2026-09-27T12:50:13.583Z",
+  "summary": "Vietnamese speech research is constrained by resources that isolate automatic speech recognition from speaker, dialect, code-switching, and deepfake analysis. We introduce VietPrism, an open, multi-domain corpus that brings these dimensions together at scale: 993.4 hours and 403,941 bona fide utterances from 1,262 verified speakers across 8,388 real-world videos. To our knowledge, it is the first large-scale Vietnamese corpus to jointly provide transcripts, consistent speaker identities, five di",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30005v1",
+  "raw": {
+    "arxivId": "2609.30005v1",
+    "category": "cs.CL"
+  }
+}

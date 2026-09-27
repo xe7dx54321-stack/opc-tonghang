@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-22-2609-26952v1",
+  "title": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
+  "url": "http://arxiv.org/abs/2609.26952v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Escaping Python Dependency Hell",
+    "Hybrid Replay",
+    "Repair Pipeline",
+    "Python Dependency Resolution Dependency",
+    "Python",
+    "This",
+    "PLLM",
+    "HG2",
+    "LLM",
+    "AST",
+    "PyPI",
+    "When",
+    "Proposer",
+    "Critic",
+    "On",
+    "It",
+    "Most",
+    "These"
+  ],
+  "publishedAt": "2026-09-22T18:44:36.000Z",
+  "fetchedAt": "2026-09-27T12:49:28.679Z",
+  "summary": "Dependency conflicts in Python ecosystems arise from incompatible version constraints, missing packages, and undocumented compatibility relationships, causing many real-world code snippets to fail at execution. This paper presents PLLM+, a hybrid dependency-repair pipeline evaluated on the HG2.9K benchmark of 2,891 dependency-failing snippets. PLLM+ prioritizes inexpensive deterministic steps before invoking LLM-based repair: static AST-based interpreter inference, replay of historically success",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.26952v1",
+  "raw": {
+    "arxivId": "2609.26952v1",
+    "category": "cs.MA"
+  }
+}

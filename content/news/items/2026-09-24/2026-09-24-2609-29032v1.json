@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-29032v1",
+  "title": "Paging the Experts: A Reproducible Characterization of Flash-Backed MoE Inference on iPhone",
+  "url": "http://arxiv.org/abs/2609.29032v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Paging",
+    "Experts",
+    "Reproducible Characterization",
+    "Flash",
+    "Backed MoE Inference",
+    "Sparse",
+    "We",
+    "Routide",
+    "Swift",
+    "MLX",
+    "Across",
+    "MiB LRU",
+    "The",
+    "Same",
+    "Mac",
+    "In",
+    "Python",
+    "Two",
+    "GiB",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T05:05:28.000Z",
+  "fetchedAt": "2026-09-27T12:50:44.403Z",
+  "summary": "Sparse activation reduces mixture-of-experts computation without eliminating the need to store all experts. We present Routide, a Swift/MLX runtime that executes the text path of a pinned public Qwen3.6-35B-A3B quantized checkpoint while keeping expert weights in iPhone storage and a byte-budgeted subset in memory. We characterize cache-policy sensitivity, numerical comparison boundaries, and measurement limits. Across five recorded 128-token workloads, fixed-route replay gives 0.00% demand hits",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29032v1",
+  "raw": {
+    "arxivId": "2609.29032v1",
+    "category": "cs.PF"
+  }
+}

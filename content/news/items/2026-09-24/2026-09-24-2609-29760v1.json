@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-24-2609-29760v1",
+  "title": "PolyUMI: Accessible Visual-Tactile-Audio Data Collection for Object Inference and Manipulation",
+  "url": "http://arxiv.org/abs/2609.29760v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "PolyUMI",
+    "Accessible Visual",
+    "Tactile",
+    "Audio Data Collection",
+    "Object Inference",
+    "Manipulation Humans",
+    "Providing",
+    "Most",
+    "We",
+    "Its",
+    "The",
+    "To",
+    "VisTA",
+    "Experiments",
+    "Together",
+    "Project Page"
+  ],
+  "publishedAt": "2026-09-24T13:09:50.000Z",
+  "fetchedAt": "2026-09-27T12:50:28.758Z",
+  "summary": "Humans typically rely on vision, touch, hearing, and proprioception to perceive contact and adapt their actions during manipulation. Providing robots with comparable responsiveness therefore requires hardware that can retain and use these complementary sensory signals. Most imitation-learning systems, however, observe demonstrations primarily through vision and proprioception, limiting access to contact information that is difficult to infer visually. We present PolyUMI, an open-source platform ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29760v1",
+  "raw": {
+    "arxivId": "2609.29760v1",
+    "category": "cs.RO"
+  }
+}

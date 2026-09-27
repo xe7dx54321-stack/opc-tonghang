@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-30219v1",
+  "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
+  "url": "http://arxiv.org/abs/2609.30219v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Requirement",
+    "Bound Verified Commissioning",
+    "Frozen Four",
+    "Billion",
+    "Parameter Local Model",
+    "Candidate Generator",
+    "External Acceptance Layer",
+    "Verification",
+    "Release Authority An",
+    "Candidate",
+    "Requirements",
+    "Plans",
+    "One",
+    "The",
+    "Three",
+    "First",
+    "Fabricated",
+    "Second",
+    "Clopper",
+    "Pearson"
+  ],
+  "publishedAt": "2026-09-24T17:46:53.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.223Z",
+  "summary": "An acceptance protocol is developed for sensor-coordinate and polarity binding in mechatronic commissioning. Candidate generation is separated from release authority. Requirements unsupported by a deterministic parser are routed to a frozen local language model with four billion parameters. Plans are released only when both facts can be derived by an external gate under a sealed grammar. One canonical answer is requested from a gold-standard user when eligible. The protocol was evaluated once un",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30219v1",
+  "raw": {
+    "arxivId": "2609.30219v1",
+    "category": "cs.AI"
+  }
+}

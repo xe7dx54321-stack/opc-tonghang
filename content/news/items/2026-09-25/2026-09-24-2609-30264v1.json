@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-24-2609-30264v1",
+  "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
+  "url": "http://arxiv.org/abs/2609.30264v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AD",
+    "WM",
+    "Action",
+    "Discriminative World Models",
+    "MPC",
+    "We",
+    "Both",
+    "On OGBench",
+    "Cube",
+    "LeWM",
+    "Planning",
+    "CEM",
+    "With",
+    "JEPA",
+    "DROID",
+    "Franka",
+    "These",
+    "More"
+  ],
+  "publishedAt": "2026-09-24T17:59:41.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.223Z",
+  "summary": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low factual prediction error yet poorly distinguish candidate actions. We introduce AD-WM, an action-discriminative joint-embedding world model for counterfactual MPC. AD-WM combines residual latent dynamics with predictor-level action-recovery regularization, using inverse dynamics and a normalized re",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30264v1",
+  "raw": {
+    "arxivId": "2609.30264v1",
+    "category": "cs.AI"
+  }
+}

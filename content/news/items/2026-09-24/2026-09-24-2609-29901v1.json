@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-24-2609-29901v1",
+  "title": "Working with Agentic `Teammates': When a New Organizational Actor Collides with the Human Ecosystem of Work",
+  "url": "http://arxiv.org/abs/2609.29901v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Working",
+    "Agentic",
+    "Teammates",
+    "When",
+    "New Organizational Actor Collides",
+    "Human Ecosystem",
+    "Work Enterprise AI",
+    "In",
+    "AI",
+    "Our",
+    "We"
+  ],
+  "publishedAt": "2026-09-24T14:44:52.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.869Z",
+  "summary": "Enterprise AI is transitioning from single-user, reactive tools toward proactive, multi-user 'teammates,' but our empirical understanding of this transition is limited. In this paper, we present an in-situ qualitative study of a persistent, proactive AI agent 'teammate' deployed across multiple teams in a large technology company. Our findings reveal the boundaries of the human-agent workplace are actively in flux, triggering breakdowns and negotiations across: 1) tacit rules of collaborative hu",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29901v1",
+  "raw": {
+    "arxivId": "2609.29901v1",
+    "category": "cs.HC"
+  }
+}

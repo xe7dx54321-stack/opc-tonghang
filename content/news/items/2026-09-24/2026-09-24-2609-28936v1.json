@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-24-2609-28936v1",
+  "title": "AnomaSense: Anomaly-based Sensor Activation for Fine-Grained Human Activity Recognition",
+  "url": "http://arxiv.org/abs/2609.28936v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "AnomaSense",
+    "Anomaly",
+    "Sensor Activation",
+    "Fine",
+    "Grained Human Activity Recognition Audio",
+    "However",
+    "Human Activity Recognition",
+    "HAR",
+    "We",
+    "IMU",
+    "The",
+    "With IMU",
+    "With",
+    "On",
+    "Our"
+  ],
+  "publishedAt": "2026-09-24T02:38:25.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.870Z",
+  "summary": "Audio carries rich cues about human activities, and microphones are already built into most wearable devices. However, microphones also capture speech, and this privacy risk limits their use in Human Activity Recognition (HAR). We present AnomaSense, a sensor activation approach for wrist wearables that keeps the microphone off by default and turns it on for at most one second when an unsupervised anomaly detector flags an IMU segment that is likely to produce sound. The captured audio is furthe",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28936v1",
+  "raw": {
+    "arxivId": "2609.28936v1",
+    "category": "cs.HC"
+  }
+}

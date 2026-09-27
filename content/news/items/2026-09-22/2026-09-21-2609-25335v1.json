@@ -1,0 +1,42 @@
+{
+  "id": "2026-09-21-2609-25335v1",
+  "title": "GRADE-RTL: Evaluating LLM-Generated RTL Beyond Compilation",
+  "url": "http://arxiv.org/abs/2609.25335v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "GRADE",
+    "RTL",
+    "Evaluating LLM",
+    "Generated RTL Beyond Compilation Large",
+    "LLMs",
+    "This",
+    "LLM",
+    "Using",
+    "Port Signature",
+    "Compilation",
+    "Elaboration",
+    "Module Completeness",
+    "Functional Equivalence",
+    "With",
+    "We",
+    "End",
+    "FPGA",
+    "ASIC",
+    "PID"
+  ],
+  "publishedAt": "2026-09-21T19:27:47.000Z",
+  "fetchedAt": "2026-09-27T12:48:44.049Z",
+  "summary": "Large language models (LLMs) can generate register-transfer-level (RTL) code from natural-language specifications, but compilation alone does not establish structural completeness, functional correctness, or implementation efficiency. This paper presents a framework for evaluating LLM-generated RTL beyond compilation, which we named GRADE-RTL. Using fixed prompts and validation settings, GRADE-RTL applies five checks, such as Port Signature, Compilation, Elaboration, Module Completeness, and Fun",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.25335v1",
+  "raw": {
+    "arxivId": "2609.25335v1",
+    "category": "cs.AR"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2026-09-22-2609-25869v1",
+  "title": "Decoupling Logical Masks from GPU Execution for Dynamic Block-Sparse Attention",
+  "url": "http://arxiv.org/abs/2609.25869v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Decoupling Logical Masks",
+    "GPU Execution",
+    "Dynamic Block",
+    "Sparse Attention Attention",
+    "Block",
+    "BSA",
+    "However",
+    "GPUs",
+    "We",
+    "Tessera",
+    "GPU",
+    "Its",
+    "Finally",
+    "CUDA",
+    "NVIDIA GPU",
+    "Evaluated"
+  ],
+  "publishedAt": "2026-09-22T08:33:32.000Z",
+  "fetchedAt": "2026-09-27T12:48:44.049Z",
+  "summary": "Attention computation makes inference expensive in video diffusion transformers (vDiTs), which generate videos through iterative denoising. Block-sparse attention (BSA) reduces this cost by computing only blocks selected by a logical mask, which specifies attention interactions to compute. However, coupling logical block geometry to execution choices limits adaptation to varying masks and graphics processing units (GPUs), while runtime kernel specialization can incur preparation overhead that ou",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.25869v1",
+  "raw": {
+    "arxivId": "2609.25869v1",
+    "category": "cs.AR"
+  }
+}

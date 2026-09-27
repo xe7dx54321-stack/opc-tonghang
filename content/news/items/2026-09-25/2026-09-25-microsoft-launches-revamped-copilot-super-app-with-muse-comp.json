@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-25-microsoft-launches-revamped-copilot-super-app-with-muse-comp",
+  "title": "Microsoft Launches Revamped Copilot ‘Super App’ with Muse Competitor",
+  "url": "https://www.theinformation.com/briefings/microsoft-launches-revamped-copilot-super-app-muse-competitor",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Microsoft Launches Revamped Copilot",
+    "Super App",
+    "Muse Competitor",
+    "Microsoft",
+    "Friday",
+    "Copilot",
+    "AI",
+    "Office",
+    "Autopilot",
+    "Meta",
+    "Muse",
+    "The"
+  ],
+  "publishedAt": "2026-09-25T12:50:48.000Z",
+  "fetchedAt": "2026-09-27T12:43:08.053Z",
+  "summary": "&lt;p&gt;Microsoft on Friday launched a revamped version of its Copilot app that combines features that had previously been sold separately, including AI coding tools, features that automate tasks in Office 365, and an always-on “Autopilot” agent similar to Meta’s Muse.&lt;/p&gt; &lt;p&gt;The overhaul is meant to make ...&lt;/p&gt;",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "theinformation",
+    "author": "Aaron Holmes",
+    "lang": "en"
+  }
+}

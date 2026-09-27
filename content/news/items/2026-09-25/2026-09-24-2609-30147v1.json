@@ -1,0 +1,43 @@
+{
+  "id": "2026-09-24-2609-30147v1",
+  "title": "GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI",
+  "url": "http://arxiv.org/abs/2609.30147v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "GRASP",
+    "Generating",
+    "Revising",
+    "Assessing",
+    "Strategic Planning",
+    "Agentic AI Large Language Models",
+    "LLMs",
+    "We",
+    "GenPlan",
+    "RevPlan",
+    "VerPlan",
+    "Empirical",
+    "LLM",
+    "Natural Plan Calendar Scheduling",
+    "ZebraLogic",
+    "SciBench Math",
+    "Crucially",
+    "In",
+    "Furthermore",
+    "GPT"
+  ],
+  "publishedAt": "2026-09-24T17:11:35.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.224Z",
+  "summary": "Large Language Models (LLMs) typically exhibit a performance profile where reliability degrades as task complexity increases. We address the challenge of generating high-quality natural language executable plans for complex tasks by introducing $\\textbf{GRASP}$, a strategy-aware, multi-stage planning framework. GRASP decouples the planning pipeline across specialized, context-isolated modules: it pre-compiles global macro-guidelines (GenPlan), explores alternative localized strategies within iso",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30147v1",
+  "raw": {
+    "arxivId": "2609.30147v1",
+    "category": "cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-09-24-2609-30024v1",
+  "title": "Body-Grounded Replanning for Physically Adaptive Manipulation",
+  "url": "http://arxiv.org/abs/2609.30024v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Body",
+    "Grounded Replanning",
+    "We",
+    "LLM",
+    "Our",
+    "Additional",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T16:00:09.000Z",
+  "fetchedAt": "2026-09-27T12:51:25.345Z",
+  "summary": "Manipulation requires not only reasoning about the external environment, but also about the robot's physical condition. A strategy may remain geometrically feasible while becoming physically unsuitable due to increased joint load or limited mobility, yet internal physical state is typically used only for low-level control. We propose body-grounded high-level replanning, which uses internal physical state to adapt manipulation strategies during execution. Body-state events trigger strategy replan",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30024v1",
+  "raw": {
+    "arxivId": "2609.30024v1",
+    "category": "cs.RO"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-24-2609-30130v1",
+  "title": "Multimodal Thinking with Renderable Programs",
+  "url": "http://arxiv.org/abs/2609.30130v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Multimodal Thinking",
+    "Renderable Programs Current",
+    "VLMs",
+    "Though Omnimodal",
+    "We",
+    "SVGLM",
+    "SVG",
+    "Experiments",
+    "Our"
+  ],
+  "publishedAt": "2026-09-24T17:03:44.000Z",
+  "fetchedAt": "2026-09-27T12:51:09.847Z",
+  "summary": "Current vision-language models (VLMs) excel at visual content understanding and text-based reasoning, yet their structure limits the advancement of incorporating images into the reasoning chain. Though Omnimodal models have made efforts in unifying text and image generation, they focus on visual tasks in the open-domain, lacking tractability due to rasterized or latent representations of images. We introduce SVGLM, a framework that uses scalable vector graphics (SVG) primitives to connect text a",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30130v1",
+  "raw": {
+    "arxivId": "2609.30130v1",
+    "category": "cs.CL"
+  }
+}

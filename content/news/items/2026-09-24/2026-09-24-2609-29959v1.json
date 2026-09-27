@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-24-2609-29959v1",
+  "title": "Not All Confusion Is Equal: A Source-Aware Uncertainty Diagnosis for Fine-Grained Aircraft Detection",
+  "url": "http://arxiv.org/abs/2609.29959v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Not All Confusion Is Equal",
+    "Source",
+    "Aware Uncertainty Diagnosis",
+    "Fine",
+    "Grained Aircraft Detection Fine",
+    "We",
+    "Each",
+    "On",
+    "After"
+  ],
+  "publishedAt": "2026-09-24T15:17:34.000Z",
+  "fetchedAt": "2026-09-27T12:50:21.275Z",
+  "summary": "Fine-grained object detectors are commonly evaluated with confusion matrices, which show where the model is confused but not why, nor whether the confusion can be reduced. We argue that confusion can be attributed to distinct, separable sources, each quantitatively measurable, turning a passive measurement into actionable guidance. We present $A^2E^2$, a diagnostic tool that decomposes the sources of confusion along two axes, $\\{$aleatoric, epistemic$\\} \\times \\{$within-class, between-class$\\}$,",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29959v1",
+  "raw": {
+    "arxivId": "2609.29959v1",
+    "category": "cs.CV"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2026-09-24-2609-29940v1",
+  "title": "Mind What Matters for Reasoning: Aligning Cross-Modal Attention via Selective Probability Mass Concentration",
+  "url": "http://arxiv.org/abs/2609.29940v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Mind What Matters",
+    "Reasoning",
+    "Aligning Cross",
+    "Modal Attention",
+    "MLLMs",
+    "Existing",
+    "In",
+    "Motivated",
+    "We",
+    "Selective Probability Mass Concentration",
+    "Adaptive Head Selection",
+    "Across",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T15:05:22.000Z",
+  "fetchedAt": "2026-09-27T12:50:21.275Z",
+  "summary": "Multimodal large language models (MLLMs) achieve strong performance on visual reasoning tasks, yet remain prone to hallucinations and over-reliance on language priors, often generating answers without adequately using task-relevant visual evidence. Existing approaches primarily improve reasoning through reasoning-oriented supervision or inference-time strategies. In this work, we study a complementary question: can multimodal reasoning be improved by strengthening implicit visual grounding witho",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29940v1",
+  "raw": {
+    "arxivId": "2609.29940v1",
+    "category": "cs.CV"
+  }
+}

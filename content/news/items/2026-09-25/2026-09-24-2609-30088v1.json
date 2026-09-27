@@ -1,0 +1,41 @@
+{
+  "id": "2026-09-24-2609-30088v1",
+  "title": "AT-SKM-Net: An Accelerated Trainable Sampling Kaczmarz-Motzkin Framework for Linear Hard-Constraint Feasibility on Dynamic Graphs",
+  "url": "http://arxiv.org/abs/2609.30088v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AT",
+    "SKM",
+    "Net",
+    "Motzkin Framework",
+    "Linear Hard",
+    "Constraint Feasibility",
+    "Dynamic Graphs Graph",
+    "While",
+    "Trainable Sampling Kaczmarz",
+    "Motzkin Net",
+    "To",
+    "Accelerated Trainable",
+    "GNN",
+    "Cholesky Update",
+    "Experiments",
+    "Security",
+    "Constrained DC",
+    "OPF"
+  ],
+  "publishedAt": "2026-09-24T16:36:49.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.224Z",
+  "summary": "Graph-structured optimization with linear constraints is fundamental to critical infrastructure but faces scalability limits due to massive strict hard constraints and high dimensionality. While recent projection-based methods such as Trainable Sampling Kaczmarz-Motzkin Net (T-SKM-Net) guarantee feasibility, they face high computational costs in dynamic environments by processing the entire constraint set and requiring expensive matrix factorizations. To bridge this gap, we propose the Accelerat",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30088v1",
+  "raw": {
+    "arxivId": "2609.30088v1",
+    "category": "cs.AI"
+  }
+}

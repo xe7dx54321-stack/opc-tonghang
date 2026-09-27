@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-26-谷歌tpu跑kimi比英伟达gpu快57用的还是deepseek推理框架",
+  "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+  "url": "https://www.qbitai.com/2026/09/497425.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "entities": [
+    "TPU",
+    "Kimi",
+    "GPU",
+    "DeepSeek"
+  ],
+  "publishedAt": "2026-09-26T07:12:05.000Z",
+  "fetchedAt": "2026-09-27T12:43:08.089Z",
+  "summary": "",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "feedName": "qbitai",
+    "author": "<![CDATA[听雨]]>",
+    "lang": "zh"
+  }
+}

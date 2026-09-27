@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-24-2609-29108v1",
+  "title": "Functional Architecture of European Electricity Trading Markets: Requirements for AI Supported Trading Systems under Regulatory Constraints",
+  "url": "http://arxiv.org/abs/2609.29108v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Functional Architecture",
+    "European Electricity Trading Markets",
+    "Requirements",
+    "AI Supported Trading Systems",
+    "Regulatory Constraints European",
+    "EU",
+    "This",
+    "AI",
+    "REMIT",
+    "MiFID II",
+    "MiFIR",
+    "EMIR",
+    "The",
+    "Nominated Electricity Market Operator",
+    "NEMO"
+  ],
+  "publishedAt": "2026-09-24T06:39:15.000Z",
+  "fetchedAt": "2026-09-27T12:50:48.098Z",
+  "summary": "European electricity trading in the EU operates as a constrained multi-layer system in which legal design, exchange microstructure, and network physics are executed jointly across forward, day-ahead, intraday, and balancing horizons. This paper develops a functional architecture for AI-supported trading that is aligned with market-coupling mechanics, cross-zonal transfer constraints, and compliance obligations under REMIT, MiFID II, MiFIR, and EMIR. The contribution is a formal system specificat",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29108v1",
+  "raw": {
+    "arxivId": "2609.29108v1",
+    "category": "eess.SY"
+  }
+}

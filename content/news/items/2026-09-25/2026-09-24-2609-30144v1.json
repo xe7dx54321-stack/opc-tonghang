@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-24-2609-30144v1",
+  "title": "EnigmaForge: The Question Is Hidden in the Story",
+  "url": "http://arxiv.org/abs/2609.30144v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "EnigmaForge",
+    "The Question Is Hidden",
+    "Story Most",
+    "Buried",
+    "SAT",
+    "Because",
+    "The",
+    "Twenty",
+    "Intuition",
+    "Several"
+  ],
+  "publishedAt": "2026-09-24T17:10:03.000Z",
+  "fetchedAt": "2026-09-27T12:51:05.224Z",
+  "summary": "Most benchmarks hand the model a question. EnigmaForge hands it a stack of old documents and no question at all. Buried in the letters, receipts, and logbook margins is a small logic puzzle whose solution is unique - proved by a SAT solver at generation time, with an ablation certificate showing every clue is load-bearing. Because instances are generated rather than collected, the corpus renews forever. The headline measure is intuition: task success when handed only the story, with world recons",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.30144v1",
+  "raw": {
+    "arxivId": "2609.30144v1",
+    "category": "cs.AI"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-09-24-2609-29395v1",
+  "title": "Concurrent Split Learning Through Stable Client Clustering",
+  "url": "http://arxiv.org/abs/2609.29395v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "We",
+    "Global Clustered Parallel Split Learning",
+    "GCPSL",
+    "Parallel Split Learning",
+    "Global Sampling",
+    "GPSL",
+    "In",
+    "CIFAR",
+    "Within",
+    "GPU",
+    "These"
+  ],
+  "publishedAt": "2026-09-24T11:23:50.000Z",
+  "fetchedAt": "2026-09-27T12:50:40.564Z",
+  "summary": "Training with a fixed global batch limits how many distributed clients can provide examples in any one step. We examine a way to use additional server workers without increasing the batch processed by an individual workload. Global Clustered Parallel Split Learning (GCPSL) assigns clients to fixed clusters, executes a Parallel Split Learning with Global Sampling (GPSL) workload for each cluster concurrently, and periodically fuses the client and server model segments. In simulations with 256 log",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29395v1",
+  "raw": {
+    "arxivId": "2609.29395v1",
+    "category": "cs.DC"
+  }
+}

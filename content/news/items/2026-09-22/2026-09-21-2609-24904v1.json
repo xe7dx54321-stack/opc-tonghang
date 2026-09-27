@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-21-2609-24904v1",
+  "title": "Toward Multi-kW Power Delivery Methodologies for Advanced 3D Heterogeneous Integration",
+  "url": "http://arxiv.org/abs/2609.24904v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Toward Multi",
+    "Power Delivery Methodologies",
+    "Advanced",
+    "Heterogeneous Integration The",
+    "AI",
+    "The",
+    "Such",
+    "This"
+  ],
+  "publishedAt": "2026-09-21T17:09:47.000Z",
+  "fetchedAt": "2026-09-27T12:48:44.049Z",
+  "summary": "The demands of modern applications require the construction of ever more complex integrated systems, with AI applications in particular serving as a significant driver for increased system size, potentially going beyond the trilliontransistor mark. The path to building these systems requires the use of advanced packaging, with heterogeneous integrated 2D and 3D chiplets placed atop a substrate. Such computationally powerful systems require significant power for computation: reliable and robust p",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.24904v1",
+  "raw": {
+    "arxivId": "2609.24904v1",
+    "category": "cs.AR"
+  }
+}

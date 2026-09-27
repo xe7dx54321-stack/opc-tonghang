@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-24-2609-28918v1",
+  "title": "HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving",
+  "url": "http://arxiv.org/abs/2609.28918v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "HelpCoach",
+    "Scaffolding Targeted AI Help",
+    "Seeking During Problem",
+    "Solving Students",
+    "AI",
+    "To",
+    "However",
+    "We",
+    "Whereas",
+    "In"
+  ],
+  "publishedAt": "2026-09-24T01:56:12.000Z",
+  "fetchedAt": "2026-09-27T12:50:32.870Z",
+  "summary": "Students increasingly turn to AI for help with problem-solving, yet too much AI support can undermine learning itself. To benefit from AI, students need to specify the necessary knowledge and scaffold type in their questions. However, they struggle to formulate such targeted questions because they lack metacognitive skills to recognize and select effective help options. We developed HelpCoach, an add-on for chat interfaces that helps students formulate knowledge- and scaffold-specific questions ",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.28918v1",
+  "raw": {
+    "arxivId": "2609.28918v1",
+    "category": "cs.HC"
+  }
+}

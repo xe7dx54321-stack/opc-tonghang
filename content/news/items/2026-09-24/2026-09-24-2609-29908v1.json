@@ -1,0 +1,38 @@
+{
+  "id": "2026-09-24-2609-29908v1",
+  "title": "MorphIK: Morphology-Conditioned Neural Inverse Kinematics for Unknown Robots",
+  "url": "http://arxiv.org/abs/2609.29908v1",
+  "source": "arxiv",
+  "sourceTier": 1,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "MorphIK",
+    "Morphology",
+    "Conditioned Neural Inverse Kinematics",
+    "Unknown Robots Neural",
+    "We",
+    "The",
+    "This",
+    "Trained",
+    "Degrees",
+    "Freedom",
+    "For",
+    "Prior",
+    "Damped Least Squares",
+    "Building",
+    "Thus"
+  ],
+  "publishedAt": "2026-09-24T14:48:33.000Z",
+  "fetchedAt": "2026-09-27T12:50:28.758Z",
+  "summary": "Neural models can learn to generate various solutions to the inverse kinematics problem from data, but are usually limited to a single robot. We present MorphIK, a flow-matching model that solves inverse kinematics for revolute-joint-based kinematic chains it has never seen during training. The model uses a transformer architecture to encode the robot's morphology along with the target pose. This encoding then conditions a flow-matching head that generates poses from noise. Trained on purely syn",
+  "investorNote": "",
+  "score": 0,
+  "duplicateOf": null,
+  "clusterId": "2609.29908v1",
+  "raw": {
+    "arxivId": "2609.29908v1",
+    "category": "cs.RO"
+  }
+}
