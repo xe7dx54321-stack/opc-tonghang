@@ -106,6 +106,13 @@ for (const day of itemDays) {
       const publishable = name !== '_index.json' && !item.duplicateOf &&
         /^https?:\/\//i.test(item.url ?? '') && Array.isArray(item.topic) && item.topic.length &&
         typeof item.score === 'number' && item.score >= 0.4
+      if (requiredDays.has(day) && publishable) {
+        const published = Date.parse(item.publishedAt ?? '')
+        const windowEnd = Date.parse(`${day}T07:30:00+08:00`)
+        if (!Number.isFinite(published) || published < windowEnd - 86_400_000 || published >= windowEnd) {
+          throw new Error('publishable item falls outside the fixed 07:30-to-07:30 Beijing news window')
+        }
+      }
       // v0.5 写 skill 要求 items 带 displayTitle / narrative 字段。
       // 旧版 / 来自 fetcher 直接的 items 只有 title / summary（英文）。
       // 这里做兜底：缺 displayTitle → title；缺 narrative → summary。
