@@ -45,6 +45,7 @@ function validateDailyDigest(day, content) {
   })) {
     fail(`Daily digest ${day} has a story without a Chinese heading and normal-weight body`)
   }
+  return stories.length
 }
 
 if (requireDate && !dayPattern.test(requireDate)) fail('Invalid --require-date value')
@@ -93,10 +94,11 @@ if (requireDate && !dailyFiles.includes(`${requireDate}.md`)) fail(`Missing dail
 for (const day of requiredDays) {
   if (!itemDays.includes(day)) fail(`Missing item directory for new daily digest ${day}`)
 }
+const storyCounts = new Map()
 for (const name of dailyFiles) {
   const content = readFileSync(join(sourceDaily, name), 'utf8')
   if (!content.trim()) fail(`Empty digest: ${name}`)
-  if (requiredDays.has(name.slice(0, 10))) validateDailyDigest(name.slice(0, 10), content)
+  if (requiredDays.has(name.slice(0, 10))) storyCounts.set(name.slice(0, 10), validateDailyDigest(name.slice(0, 10), content))
 }
 for (const name of researchFiles) {
   if (!readFileSync(join(sourceResearch, name), 'utf8').trim()) fail(`Empty research report: ${name}`)
@@ -147,12 +149,15 @@ for (const day of itemDays) {
       if (requiredDays.has(day) && publishable && (!hasUsableDisplay || !hasUsableNarrative)) {
         throw new Error(`item lacks both displayTitle/narrative and fallback title/summary (displayTitle=${displayTitle.length}ch, narrative=${narrative.length}ch)`)
       }
-      if (publishable && hasUsableDisplay && hasUsableNarrative) displayReady++
+      if (publishable && /[\u3400-\u9fff]/.test(item.displayTitle ?? '') &&
+          /[\u3400-\u9fff]/.test(item.narrative ?? '') && hasUsableDisplay && hasUsableNarrative) displayReady++
     } catch (error) {
       fail(`Invalid item ${day}/${name}: ${error.message}`)
     }
   }
-  if (requiredDays.has(day) && displayReady === 0) fail(`No display-ready Chinese news items for ${day}`)
+  if (requiredDays.has(day) && displayReady < (storyCounts.get(day) ?? 1)) {
+    fail(`Only ${displayReady} Chinese display-ready items for ${day}, but the digest contains ${storyCounts.get(day) ?? 1} stories`)
+  }
 }
 
 let changed = 0
