@@ -1,0 +1,23 @@
+{
+  "id": "2026-09-28-mixx-optical-interconnect",
+  "title": "CEO Interview with Vivek Raghuraman of Mixx Technologies",
+  "displayTitle": "Mixx 把光互连从单个器件做成一整条链",
+  "url": "https://semiwiki.com/ceo-interviews/373738-ceo-interview-with-vivek-raghuraman-of-mixx-technologies/",
+  "source": "semiwiki",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [],
+  "publishedAt": "2026-09-27T17:00:46.000Z",
+  "fetchedAt": "2026-09-28T01:38:50.372527Z",
+  "summary": "SemiWiki 9 月 27 日刊发对 Mixx Technologies CEO Vivek Raghuraman 的访谈。Mixx 介绍，自己在做面向超大规模 AI 基础设施的光连接系统：光芯粒、连接器、链路管理软件和封装一起设计，而不是分别采购再拼装。公司说，其首款 SxC 连接器本月已在 SEMICON Taiwan 亮相；创始人此前在 Intel 和 Broadcom 做过硅光及共封装光学产品。",
+  "investorNote": "光互连的规模化价值需要在整条连接链和客户环境中验证。",
+  "narrative": "SemiWiki 9 月 27 日刊发对 Mixx Technologies CEO Vivek Raghuraman 的访谈。Mixx 介绍，自己在做面向超大规模 AI 基础设施的光连接系统：光芯粒、连接器、链路管理软件和封装一起设计，而不是分别采购再拼装。公司说，其首款 SxC 连接器本月已在 SEMICON Taiwan 亮相；创始人此前在 Intel 和 Broadcom 做过硅光及共封装光学产品。",
+  "score": 0.62,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "evidence": "original article or RSS excerpt checked before publication"
+  }
+}

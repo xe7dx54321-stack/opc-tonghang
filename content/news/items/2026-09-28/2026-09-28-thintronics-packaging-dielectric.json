@@ -1,0 +1,23 @@
+{
+  "id": "2026-09-28-thintronics-packaging-dielectric",
+  "title": "CEO Interview with Dr. Stefan Pastine of Thintronics",
+  "displayTitle": "Thintronics 提醒：芯片之间的绝缘材料也会卡住 AI 算力",
+  "url": "https://semiwiki.com/ceo-interviews/373713-ceo-interview-with-dr-stefan-pastine-of-thintronics/",
+  "source": "semiwiki",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [],
+  "publishedAt": "2026-09-27T15:00:39.000Z",
+  "fetchedAt": "2026-09-28T01:38:50.372527Z",
+  "summary": "另一篇 SemiWiki 9 月 27 日的访谈，主角是先进封装材料公司 Thintronics。CEO Stefan Pastine 认为，随着高速连接向 224G、448G 推进，封装基板里的介电材料会越来越明显地影响信号损耗、散热和功耗。Thintronics 主张从分子层设计低损耗材料，再把它放到芯片封装和高速网络的系统指标里验证。",
+  "investorNote": "介电材料的真实性能要看量产封装中的损耗、良率与热表现。",
+  "narrative": "另一篇 SemiWiki 9 月 27 日的访谈，主角是先进封装材料公司 Thintronics。CEO Stefan Pastine 认为，随着高速连接向 224G、448G 推进，封装基板里的介电材料会越来越明显地影响信号损耗、散热和功耗。Thintronics 主张从分子层设计低损耗材料，再把它放到芯片封装和高速网络的系统指标里验证。",
+  "score": 0.61,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "evidence": "original article or RSS excerpt checked before publication"
+  }
+}

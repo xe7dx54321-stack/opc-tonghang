@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-28",
+  "itemCount": 8,
+  "bySource": {
+    "robot-report": 1,
+    "semiwiki": 2,
+    "techcrunch": 1,
+    "techcrunch-ai": 2,
+    "theinformation": 1,
+    "web-search": 1
+  },
+  "byTopic": {
+    "ai": 3,
+    "semiconductor": 3,
+    "embodied-ai": 2
+  },
+  "byScore": {
+    "major": 3,
+    "normal": 5
+  },
+  "clusterCount": 8,
+  "files": [
+    "2026-09-28-openai-agent-pause.json",
+    "2026-09-28-anthropic-white-house-dinner.json",
+    "2026-09-28-nvidia-china-chip-purchases.json",
+    "2026-09-28-meta-muse-trust.json",
+    "2026-09-28-mixx-optical-interconnect.json",
+    "2026-09-28-thintronics-packaging-dielectric.json",
+    "2026-09-28-av-commercial-paths.json",
+    "2026-09-28-robot-safety-principles.json"
+  ]
+}

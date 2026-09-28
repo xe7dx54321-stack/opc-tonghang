@@ -1,0 +1,23 @@
+{
+  "id": "2026-09-28-av-commercial-paths",
+  "title": "TechCrunch Mobility: AV companies pick their lanes",
+  "displayTitle": "自动驾驶开始分三种规模化路径",
+  "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [],
+  "publishedAt": "2026-09-27T16:02:00.000Z",
+  "fetchedAt": "2026-09-28T01:38:50.372527Z",
+  "summary": "TechCrunch 9 月 27 日的 Mobility 专栏把近期自动驾驶商业化拆成几条不同路线。Wayve 与 Mercedes-Benz 的合作，计划在未来两年内把其技术用于至少一款车型，但现阶段描述的是 L2 辅助驾驶：驾驶员仍须参与，不等同于无人驾驶。Waymo 走的是运营车队路线；专栏根据车辆注册数据估算，其约 4000 辆 Robotaxi 中，约八成目前集中在加州和得州。Aurora 聚焦无人卡车，并提出到 2030 年运营超过 3 万辆的目标——这是公司目标，尚非已交付规模。",
+  "investorNote": "L2 辅助驾驶、Robotaxi 与无人卡车是不同商业路线，不能只比车辆规模。",
+  "narrative": "TechCrunch 9 月 27 日的 Mobility 专栏把近期自动驾驶商业化拆成几条不同路线。Wayve 与 Mercedes-Benz 的合作，计划在未来两年内把其技术用于至少一款车型，但现阶段描述的是 L2 辅助驾驶：驾驶员仍须参与，不等同于无人驾驶。Waymo 走的是运营车队路线；专栏根据车辆注册数据估算，其约 4000 辆 Robotaxi 中，约八成目前集中在加州和得州。Aurora 聚焦无人卡车，并提出到 2030 年运营超过 3 万辆的目标——这是公司目标，尚非已交付规模。",
+  "score": 0.6,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "evidence": "original article or RSS excerpt checked before publication"
+  }
+}

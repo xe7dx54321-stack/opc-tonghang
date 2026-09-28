@@ -1,0 +1,23 @@
+{
+  "id": "2026-09-28-robot-safety-principles",
+  "title": "Asimov’s laws are not enough to keep robotics and AI safe",
+  "displayTitle": "机器人安全讨论：写下原则，和落实控制是两回事",
+  "url": "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [],
+  "publishedAt": "2026-09-27T12:26:44.000Z",
+  "fetchedAt": "2026-09-28T01:38:50.372527Z",
+  "summary": "《The Robot Report》9 月 27 日刊发评论，以阿西莫夫的“机器人三定律”切入 AI 与机器人安全。文章的价值不在于提出了新的算法或标准，而是提醒读者：抽象的“不伤害人”原则，不能代替现实系统里的权限、测试、停机和责任划分。文章部分论述属于作者观点，不能视作行业已形成的技术共识。",
+  "investorNote": "这是一篇评论文章，适合作为安全实践的讨论线索，不代表新的技术标准。",
+  "narrative": "《The Robot Report》9 月 27 日刊发评论，以阿西莫夫的“机器人三定律”切入 AI 与机器人安全。文章的价值不在于提出了新的算法或标准，而是提醒读者：抽象的“不伤害人”原则，不能代替现实系统里的权限、测试、停机和责任划分。文章部分论述属于作者观点，不能视作行业已形成的技术共识。",
+  "score": 0.47,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "evidence": "original article or RSS excerpt checked before publication"
+  }
+}

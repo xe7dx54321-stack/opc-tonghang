@@ -1,0 +1,23 @@
+{
+  "id": "2026-09-28-nvidia-china-chip-purchases",
+  "title": "China Weighs Allowing Purchases of New Nvidia Chips by ByteDance, Alibaba",
+  "displayTitle": "中国或允许部分企业采购英伟达新芯片，尚不是正式放行",
+  "url": "https://www.theinformation.com/articles/china-weighs-allowing-purchases-new-nvidia-chips-bytedance-alibaba",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [],
+  "publishedAt": "2026-09-27T15:00:59.000Z",
+  "fetchedAt": "2026-09-28T01:38:50.372527Z",
+  "summary": "The Information 9 月 27 日援引两位知情人士称，中国政府已释放信号，可能允许部分本土企业购买英伟达一款面向高端专业计算机的新芯片。报道标题提到字节跳动和阿里巴巴；公开可读的导语只明确说“部分国内企业”，并解释了背景：AI 公司需要更多算力来运行聊天机器人和 Agent。",
+  "investorNote": "报道只说明政策可能变化，采购许可与实际交付仍需核实。",
+  "narrative": "The Information 9 月 27 日援引两位知情人士称，中国政府已释放信号，可能允许部分本土企业购买英伟达一款面向高端专业计算机的新芯片。报道标题提到字节跳动和阿里巴巴；公开可读的导语只明确说“部分国内企业”，并解释了背景：AI 公司需要更多算力来运行聊天机器人和 Agent。",
+  "score": 0.76,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "evidence": "original article or RSS excerpt checked before publication"
+  }
+}

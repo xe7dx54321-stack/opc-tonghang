@@ -1,0 +1,23 @@
+{
+  "id": "2026-09-28-meta-muse-trust",
+  "title": "Can Muse overcome Meta’s trust issues?",
+  "displayTitle": "Meta 把 Muse 推向消费者，难题是用户肯交出多少信息",
+  "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [],
+  "publishedAt": "2026-09-27T19:57:30.000Z",
+  "fetchedAt": "2026-09-28T01:38:50.372527Z",
+  "summary": "TechCrunch 9 月 27 日的讨论回顾了 Meta 在 Connect 活动上推出的个人 Agent Muse。与集中争夺企业编码、办公预算的前沿模型公司相比，Meta 选择把 Agent 放进普通用户的日常场景，并展示了一款面向成年人的宠物式 AI 设备。报道中的记者试用 Muse 后，认可它完成了寻找未领取款项等具体任务，但认为这还不像一个足以支撑长期使用的理由。",
+  "investorNote": "个人 Agent 的长期使用取决于明确收益和用户对数据权限的信任。",
+  "narrative": "TechCrunch 9 月 27 日的讨论回顾了 Meta 在 Connect 活动上推出的个人 Agent Muse。与集中争夺企业编码、办公预算的前沿模型公司相比，Meta 选择把 Agent 放进普通用户的日常场景，并展示了一款面向成年人的宠物式 AI 设备。报道中的记者试用 Muse 后，认可它完成了寻找未领取款项等具体任务，但认为这还不像一个足以支撑长期使用的理由。",
+  "score": 0.66,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "evidence": "original article or RSS excerpt checked before publication"
+  }
+}

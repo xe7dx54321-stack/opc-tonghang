@@ -1,0 +1,30 @@
+{
+  "id": "2026-09-28-anthropic-white-house-dinner",
+  "title": "Anthropic’s CEO is about to have dinner with President Trump",
+  "displayTitle": "Amodei 将与 Trump 单独会面，Anthropic 与政府的关系进入新阶段",
+  "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [],
+  "publishedAt": "2026-09-27T20:34:28.000Z",
+  "fetchedAt": "2026-09-28T01:38:50.372527Z",
+  "summary": "TechCrunch 9 月 27 日报道，Anthropic CEO Dario Amodei 计划在白宫与美国总统 Donald Trump 共进晚餐。Axios 首先披露了这一安排，TechCrunch 又向知情人士核实。报道说，这将是两人第一次一对一会面。The Information 同日也刊发了相关简报。",
+  "investorNote": "这次会面值得关注，但不能把会面本身当成政策或合同结果。",
+  "narrative": "TechCrunch 9 月 27 日报道，Anthropic CEO Dario Amodei 计划在白宫与美国总统 Donald Trump 共进晚餐。Axios 首先披露了这一安排，TechCrunch 又向知情人士核实。报道说，这将是两人第一次一对一会面。The Information 同日也刊发了相关简报。",
+  "score": 0.74,
+  "duplicateOf": null,
+  "clusterId": null,
+  "raw": {
+    "evidence": "original article or RSS excerpt checked before publication"
+  },
+  "crossSources": [
+    {
+      "source": "theinformation",
+      "url": "https://www.theinformation.com/briefings/anthropics-amodei-dine-trump-white-house",
+      "title": "Anthropic’s Amodei to Dine With Trump at White House"
+    }
+  ]
+}
