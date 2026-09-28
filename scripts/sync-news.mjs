@@ -17,9 +17,6 @@ const target = process.env.NEWS_WEB_CONTENT || join(webDir, 'content', 'news')
 const dryRun = process.argv.includes('--dry-run')
 const requireDate = process.argv.find(arg => arg.startsWith('--require-date='))?.split('=')[1]
 const dayPattern = /^\d{4}-\d{2}-\d{2}$/
-const hasChinese = value => typeof value === 'string' && /[\u3400-\u9fff]/.test(value.trim())
-const hasSingleParagraph = value => typeof value === 'string' && !/[\r\n]/.test(value) &&
-  !/(?:研究判断|判断[：:]|事实[：:])/.test(value)
 
 function fail(message) {
   console.error('[sync-news] ERROR:', message)
@@ -36,13 +33,7 @@ function sameFile(a, b) {
 
 function validateDailyDigest(day, content) {
   const sections = content.trim().split(/\n\s*---\s*\n/).map(section => section.trim()).filter(Boolean)
-  // backfill stub（占位 digest，未经过 LLM 写作）只需有内容即可，跳过严格排版校验
-  // 由 content/digests/YYYY-MM-DD.md 的 frontmatter `type: daily-stub` 或 `generatedBy: backfill` 标记
-  const isStub = /^type:\s*daily-stub/m.test(content) || /^generatedBy:\s*backfill/m.test(content)
-  if (isStub) {
-    if (sections.length < 1) fail(`Daily digest ${day} (stub) is empty`)
-    return
-  }
+  if (isStubDigest(content)) fail(`Daily digest ${day} is an unpublished backfill stub`)
   if (sections.length < 2 || /^\*\*[\s\S]+\*\*$/.test(sections[0])) {
     fail(`Daily digest ${day} needs a normal-weight introduction and titled stories`)
   }
@@ -65,9 +56,16 @@ if (!existsSync(source)) {
 const sourceDaily = join(source, 'digests')
 const sourceResearch = join(source, 'research', 'weekly')
 const sourceItems = join(source, 'items')
-// 同步全部 digest（含 backfill stub），让时间轴连续。
-// stub 在 validateDailyDigest 里通过 type: daily-stub 自动跳过严格排版校验。
+// Backfill placeholders are raw-data records, not reader editions.
+function isStubDigest(content) {
+  return /^type:\s*daily-stub\s*$/m.test(content) || /^generatedBy:\s*backfill\s*$/m.test(content)
+}
 const dailyFiles = files(sourceDaily, /^\d{4}-\d{2}-\d{2}\.md$/)
+  .filter(name => !isStubDigest(readFileSync(join(sourceDaily, name), 'utf8')))
+if (requireDate && existsSync(join(sourceDaily, `${requireDate}.md`)) &&
+    isStubDigest(readFileSync(join(sourceDaily, `${requireDate}.md`), 'utf8'))) {
+  fail(`Required daily digest ${requireDate} is only a backfill stub`)
+}
 const researchFiles = files(sourceResearch, /^\d{4}-\d{2}-\d{2}\.md$/)
 const itemDays = existsSync(sourceItems)
   ? readdirSync(sourceItems).filter(day => dayPattern.test(day) && statSync(join(sourceItems, day)).isDirectory()).sort()
@@ -128,6 +126,15 @@ for (const day of itemDays) {
 }
 
 let changed = 0
+
+// Remove old placeholders that earlier versions mistakenly published.
+for (const name of files(join(target, 'daily'), /^\d{4}-\d{2}-\d{2}\.md$/)) {
+  const path = join(target, 'daily', name)
+  if (isStubDigest(readFileSync(path, 'utf8'))) {
+    changed++
+    if (!dryRun) rmSync(path)
+  }
+}
 
 function syncFile(src, dst) {
   if (sameFile(src, dst)) return

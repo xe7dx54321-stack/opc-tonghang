@@ -191,6 +191,7 @@ function parseFile(path: string, type: 'daily' | 'weekly'): NewsEntry | null {
   try {
     const raw = readFileSync(path, 'utf8')
     const parsed = matter(raw)
+    if (type === 'daily' && (parsed.data.type === 'daily-stub' || parsed.data.generatedBy === 'backfill')) return null
     const slug = basenameOf(path)
     return {
       slug,

@@ -1,19 +1,19 @@
 import type { NewsItem } from '@/lib/news'
 
 export default function NewsTimeline({ items }: { items: NewsItem[] }) {
-  const days = Array.from(new Set(items.map(item => item.publishedDate)))
+  const days = Array.from(new Set(items.map(item => item.date)))
   return (
     <div className="max-w-4xl">
       {days.map(date => (
         <section key={date} className="relative grid gap-4 pb-10 sm:grid-cols-[125px_1fr] sm:gap-8">
-          <div className="font-num text-xs text-ink-3 sm:pt-2">{date}</div>
+          <div className="font-num text-xs text-ink-3 sm:pt-2">{date} 收录</div>
           <div className="relative border-l border-hair-2 pl-6 sm:pl-8">
             <span className="absolute -left-[5px] top-2 h-[9px] w-[9px] rounded-full border-2 border-accent bg-bg" aria-hidden="true" />
             <div className="space-y-4">
-              {items.filter(item => item.publishedDate === date).map(item => (
+              {items.filter(item => item.date === date).map(item => (
                 <article key={item.id} className="rounded-xl border border-hair bg-bg-card p-5 transition hover:border-hair-2 sm:p-6">
                   <div className="flex flex-wrap items-center gap-x-3 gap-y-1 font-num text-[10px] uppercase tracking-[0.08em] text-ink-3">
-                    <time dateTime={item.publishedAt}>{formatTime(item.publishedAt)}</time>
+                    <time dateTime={item.publishedAt}>{item.publishedDate} · {formatTime(item.publishedAt)}</time>
                     <span className="h-1 w-1 rounded-full bg-accent" aria-hidden="true" />
                     <span>{sourceLabel(item.source)}</span>
                   </div>

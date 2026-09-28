@@ -4,11 +4,7 @@ import { NEWS_TOPICS, listNewsItemsByTopic, type NewsTopic } from '@/lib/news'
 import { notFound } from 'next/navigation'
 import { genPageMetadata } from 'app/seo'
 
-export const dynamicParams = false
-
-export function generateStaticParams() {
-  return NEWS_TOPICS.map(topic => ({ tag: topic.slug }))
-}
+export const dynamic = 'force-dynamic'
 
 export async function generateMetadata({ params }: { params: { tag: string } }) {
   const topic = NEWS_TOPICS.find(topic => topic.slug === params.tag)

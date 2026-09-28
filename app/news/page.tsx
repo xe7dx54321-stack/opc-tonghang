@@ -2,6 +2,8 @@ import Link from '@/components/Link'
 import { NEWS_TOPICS, listDaily, listNewsItems } from '@/lib/news'
 import { genPageMetadata } from 'app/seo'
 
+export const dynamic = 'force-dynamic'
+
 export const metadata = genPageMetadata({
   title: '新闻动态',
   description: '同行实验室新闻动态：按人工智能、半导体、具身智能分类阅读，每条新闻用一段文字呈现事件与分析。',

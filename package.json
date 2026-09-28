@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "start": "next dev",
-    "predev": "node ./scripts/sync-news.mjs && node ./scripts/sync-research.mjs",
+    "predev": "node ./scripts/sync-news.mjs && (test ! -f ./scripts/sync-research.mjs || node ./scripts/sync-research.mjs)",
     "dev": "next dev",
-    "prebuild": "node ./scripts/sync-news.mjs && node ./scripts/sync-research.mjs",
+    "prebuild": "node ./scripts/sync-news.mjs && (test ! -f ./scripts/sync-research.mjs || node ./scripts/sync-research.mjs)",
     "build": "next build",
     "postbuild": "node ./scripts/postbuild.mjs",
     "serve": "next start",

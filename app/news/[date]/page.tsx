@@ -8,11 +8,7 @@ import Link from '@/components/Link'
 import JsonLd, { newsArticleSchema } from '@/components/JsonLd'
 import { genPageMetadata } from 'app/seo'
 
-export const dynamicParams = false  // 未知日期返回 404，不 fallback
-
-export function generateStaticParams() {
-  return listDaily().map(e => ({ date: e.slug }))
-}
+export const dynamic = 'force-dynamic'
 
 export async function generateMetadata({ params }: { params: { date: string } }) {
   const e = getDaily(params.date)

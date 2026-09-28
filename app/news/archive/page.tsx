@@ -3,6 +3,8 @@ import NewsList from '@/components/news/NewsList'
 import { listDaily } from '@/lib/news'
 import { genPageMetadata } from 'app/seo'
 
+export const dynamic = 'force-dynamic'
+
 export const metadata = genPageMetadata({
   title: '每日综述归档',
   description: '同行实验室新闻每日综述归档。',
