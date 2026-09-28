@@ -1,0 +1,23 @@
+{
+  "id": "2026-09-29-aurora-truck-business-model",
+  "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+  "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Aurora",
+    "David Maday"
+  ],
+  "publishedAt": "2026-09-28T22:58:35.000Z",
+  "fetchedAt": "2026-09-28T23:30:03.026Z",
+  "summary": "TechCrunch 9月28日采访 Aurora CFO，解释计划从自有车队按英里收费转向客户购买车辆、Aurora 提供自动驾驶技术订阅的模式。",
+  "investorNote": "客户购车与按英里订阅决定轻资产扩张能否成立，2030年车队和收入目标仍属预测。",
+  "score": 0.66,
+  "duplicateOf": null,
+  "clusterId": "2026-09-29-aurora-truck-business-model",
+  "displayTitle": "Aurora 解释 3 万辆卡车目标，关键是把车辆移出资产负债表",
+  "narrative": "TechCrunch 9 月 28 日采访 Aurora CFO David Maday。公司上周提出到 2030 年运营超过 3 万辆自动驾驶卡车、年收入 50 亿美元的目标；今天的采访进一步解释了实现路径。Aurora 目前拥有并运营车辆，向客户按英里收费。公司计划从 2027 年起转向由客户购买卡车、Aurora 提供自动驾驶技术订阅的模式，以减少自身持有车队的资本负担。公司预计 2026 年末有约 200 辆无人卡车，明年末超过 1000 辆；这些都仍是公司预测。 前一期日报已经提过 3 万辆目标，今天新增的投资判断依据是收费与资产归属方式。若客户真愿意买车并按英里付费，Aurora 的扩张不必完全靠自己融资买车；若客户采购或线路运营跟不上，2030 年目标仍会落空。先看 2027 年客户购车规模和每英里订阅收入，而不是只看远期车队数量。"
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-29",
+  "itemCount": 9,
+  "bySource": {
+    "theverge": 1,
+    "semiwiki": 1,
+    "techcrunch": 2,
+    "hugging-face-blog": 1,
+    "leiphone": 2,
+    "tomshardware": 1,
+    "nvidia-blog": 1
+  },
+  "byTopic": {
+    "ai": 3,
+    "semiconductor": 3,
+    "embodied-ai": 4
+  },
+  "byScore": {
+    "major": 7,
+    "normal": 2,
+    "filtered": 0
+  },
+  "clusterCount": 9,
+  "files": [
+    "2026-09-29-amd-world-labs-deal.json",
+    "2026-09-29-nvidia-open-agent-safety.json",
+    "2026-09-29-synopsys-agentengineer-autopilot.json",
+    "2026-09-29-sima-ai-series-c.json",
+    "2026-09-29-holo4-computer-use.json",
+    "2026-09-29-sharpa-iros-tactile-system.json",
+    "2026-09-29-shutu-tactile-funding.json",
+    "2026-09-29-openai-jalapeno-internal.json",
+    "2026-09-29-aurora-truck-business-model.json"
+  ]
+}

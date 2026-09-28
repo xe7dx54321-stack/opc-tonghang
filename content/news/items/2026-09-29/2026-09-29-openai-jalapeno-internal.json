@@ -1,0 +1,24 @@
+{
+  "id": "2026-09-29-openai-jalapeno-internal",
+  "title": "OpenAI's custom Jalapeno AI inference ASIC is for internal use, with a wider rollout still possible",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-custom-jalapeno-ai-inference-asic-is-for-openais-internal-use-but-company-leaves-the-door-open-to-broader-rollout-firm-says-it-will-have-its-hands-full-with-jalapeno-for-a-good-long-time",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "OpenAI",
+    "Jalapeño",
+    "Richard Ho"
+  ],
+  "publishedAt": "2026-09-28T15:45:00.000Z",
+  "fetchedAt": "2026-09-28T23:30:10.943Z",
+  "summary": "Tom’s Hardware 9月28日采访 OpenAI 硬件负责人 Richard Ho；他表示 Jalapeño 推理ASIC目前优先供应OpenAI内部算力需求，未承诺外部销售。",
+  "investorNote": "自研芯片当前主要服务内部推理效率和容量，外部芯片市场竞争仍属远期可能。",
+  "score": 0.68,
+  "duplicateOf": null,
+  "clusterId": "2026-09-29-openai-jalapeno-internal",
+  "displayTitle": "OpenAI 自研推理芯片先供内部，暂不以外售为目标",
+  "narrative": "Tom's Hardware 9 月 28 日刊发对 OpenAI 硬件负责人 Richard Ho 的采访。Jalapeño 推理 ASIC 已在 8 月 Hot Chips 活动亮相；今天的新信息是 Ho 对商业边界的解释：芯片首先满足 OpenAI 自身持续增长的算力需求，短期内团队仍会忙于内部供给。他说架构原则上也可运行其他模型，并未排除日后外部使用，但这不是当前承诺。 Ho 把设计目标归结为有限数据中心电力下的推理效率。这比把自研芯片简单理解为“要卖芯片挑战 NVIDIA”更贴近现阶段的供需关系：OpenAI 首先要控制自身推理成本与容量。采访提到的对比基准来自此前发布会，不能由此推断大规模部署的成本优势已经被第三方证明。"
+}

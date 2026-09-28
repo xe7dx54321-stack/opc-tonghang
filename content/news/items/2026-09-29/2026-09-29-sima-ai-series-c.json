@@ -1,0 +1,25 @@
+{
+  "id": "2026-09-29-sima-ai-series-c",
+  "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+  "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "embodied-ai"
+  ],
+  "entities": [
+    "SiMa.ai",
+    "Fidelity",
+    "Amplify"
+  ],
+  "publishedAt": "2026-09-28T15:29:21.000Z",
+  "fetchedAt": "2026-09-28T23:30:03.026Z",
+  "summary": "TechCrunch 9月28日报道，SiMa.ai 获得1.5亿美元C轮融资、估值14.5亿美元，资金支持其面向机器人等设备的端侧AI芯片与软件。",
+  "investorNote": "融资说明端侧物理AI受到资本追捧，但客户量产、功耗与开发迁移成本仍须验证。",
+  "score": 0.79,
+  "duplicateOf": null,
+  "clusterId": "2026-09-29-sima-ai-series-c",
+  "displayTitle": "SiMa.ai 融资 1.5 亿美元，端侧 AI 芯片进入机器人估值叙事",
+  "narrative": "TechCrunch 9 月 28 日报道，SiMa.ai 完成 1.5 亿美元 C 轮融资，估值 14.5 亿美元，由 Fidelity Management & Research 和 Amplify 共同领投。公司做芯片与软件，让机器人、无人机和摄像头在设备本地运行 AI，减少数据往返云端的需求。报道说公司累计融资已超过 5 亿美元，上一轮在 2025 年的估值为 9.6 亿美元。 这轮融资说明投资人愿意把“Physical AI”负载纳入端侧芯片市场预期，但估值上升不等于机器人芯片已经形成大规模收入。真正要验证的是客户量产、功耗和延迟在真实机器人任务中的表现，以及软件栈能否让开发者避开昂贵的迁移成本。媒体提到公司希望以比 NVIDIA GPU 更低的成本切入，这是公司目标，尚不是经独立比较确认的优势。"
+}

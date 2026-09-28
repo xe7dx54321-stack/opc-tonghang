@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-29-amd-world-labs-deal",
+  "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+  "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AMD",
+    "World Labs",
+    "李飞飞"
+  ],
+  "publishedAt": "2026-09-28T21:31:35.000Z",
+  "fetchedAt": "2026-09-28T23:30:03.263Z",
+  "summary": "World Labs 9月28日确认已与 AMD 签署收购协议，李飞飞将加入 AMD 担任执行副总裁兼首席科学家；The Verge 报道交易约82亿美元，年底交割仍需满足监管等条件。",
+  "investorNote": "AMD 将空间模型研发纳入软硬件协同；交易价格是媒体报道，真正效果还要看交割与后续产品。",
+  "score": 0.93,
+  "duplicateOf": null,
+  "clusterId": "2026-09-29-amd-world-labs-deal",
+  "displayTitle": "AMD 签约收购 World Labs，把空间模型研发纳入芯片体系",
+  "narrative": "World Labs 在 9 月 28 日的官方声明中确认，已签署加入 AMD 的最终协议。双方从去年开始合作，在 AMD GPU 上优化模型训练与推理。交易完成后，李飞飞将出任 AMD 执行副总裁兼首席科学家，向 CEO Lisa Su 汇报；World Labs 的 Justin Johnson 与 Ben Mildenhall 将继续参与团队领导。公司说交易仍需监管批准等条件，预计 2026 年底完成。The Verge 报道这是一笔约 82 亿美元的全股票交易；这一金额来自媒体报道，World Labs 的公告并未披露价格。",
+  "crossSources": [
+    {
+      "source": "World Labs",
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "title": "World Labs Is Joining AMD"
+    }
+  ]
+}

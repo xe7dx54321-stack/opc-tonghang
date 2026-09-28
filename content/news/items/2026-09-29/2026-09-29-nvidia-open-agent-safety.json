@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-29-nvidia-open-agent-safety",
+  "title": "Nvidia Open Agent Safety Platform",
+  "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "NVIDIA",
+    "OpenShell",
+    "Sentry"
+  ],
+  "publishedAt": "2026-09-28T08:56:55.000Z",
+  "fetchedAt": "2026-09-28T23:30:12.756Z",
+  "summary": "NVIDIA 9月28日发布 Open Agent Safety Platform，OpenShell 提供 Agent 沙箱和权限策略，Sentry 借助 BlueField DPU 在 Agent 外部执行监测与控制。",
+  "investorNote": "安全控制层的价值取决于企业实际隔离效果、可审计性和故障处置，而非产品发布口号。",
+  "score": 0.88,
+  "duplicateOf": null,
+  "clusterId": "2026-09-29-nvidia-open-agent-safety",
+  "displayTitle": "NVIDIA 发布 Agent 安全平台，把限制放到模型之外",
+  "narrative": "NVIDIA 9 月 28 日发布 Open Agent Safety Platform：OpenShell 在运行时把 Agent 放进沙箱，并由操作者定义可访问的文件、网络、工具、进程和凭证；Sentry 则借助 BlueField 硬件提供独立监测与控制。官方说明特别强调，安全规则要在 Agent 之外执行，避免只依赖模型遵守提示词。OpenShell 以 Apache 2.0 开源；整套方案也可与非 NVIDIA 硬件系统兼容，但针对 Vera CPU 和 BlueField DPU 做了优化。 这与前一日 OpenAI 暂停部分训练的事件不同，今天新增的是可部署的控制层产品。企业采购 Agent 时，关键问题会从“模型是否保证安全”转向“谁能设置权限、记录动作并中断越界行为”。NVIDIA 的文章给出了架构和能力描述，尚未给出跨客户环境的故障率或独立评测，因此不能把“能隔离”直接写成“已解决 Agent 安全”。",
+  "crossSources": [
+    {
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platform/",
+      "title": "NVIDIA Launches Open Agent Safety Platform: OpenShell Sandboxes Agents on Vera CPUs While Sentry on BlueField-4 Quarantines Them in Milliseconds"
+    }
+  ]
+}

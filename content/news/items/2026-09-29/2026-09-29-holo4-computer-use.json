@@ -1,0 +1,23 @@
+{
+  "id": "2026-09-29-holo4-computer-use",
+  "title": "Holo4: powering generalist computer-use agents",
+  "url": "https://huggingface.co/blog/Hcompany/holo4",
+  "source": "hugging-face-blog",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "H Company",
+    "Holo4"
+  ],
+  "publishedAt": "2026-09-28T09:44:05.300Z",
+  "fetchedAt": "2026-09-28T23:30:06.946Z",
+  "summary": "H Company 9月28日发布 Holo4 27B 和35B-A3B两款 Agent 模型，宣称同一模型可跨桌面、网页、Android、代码和API操作，并公布OSWorld 2.0自测成绩。",
+  "investorNote": "多界面任务能力可降低企业流程集成难度，但基准成绩与真实场景可靠性需分开验证。",
+  "score": 0.77,
+  "duplicateOf": null,
+  "clusterId": "2026-09-29-holo4-computer-use",
+  "displayTitle": "H Company 发布 Holo4，一个模型跨 GUI、代码与 API 操作",
+  "narrative": "H Company 9 月 28 日在 Hugging Face 发布 Holo4，包含 27B 稠密模型与 35B-A3B MoE 模型，均已提供 H Models API。官方称同一模型可在桌面、网页、Android、代码沙箱和业务 API 间使用，不需按界面单独换模型。它给出的 OSWorld 2.0 成绩是 27B 版本 61.7%、35B-A3B 版本 30.9%，而公告引用的 Opus 5.5 为 81.8%；这些数字来自公司使用的评测设置，跨模型成本和任务覆盖仍需独立复核。 值得看的不是“又多一个电脑操作模型”，而是把 GUI、代码、MCP 和 API 放在同一条任务链里。真实企业流程通常有些环节有 API，有些只剩网页；多界面切换若能稳定完成，Agent 才能跨系统交付任务。当前公告展示的是基准与 API 可用性，企业里的权限管理、失败恢复和成本仍要看实测。"
+}

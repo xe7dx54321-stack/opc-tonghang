@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-29-synopsys-agentengineer-autopilot",
+  "title": "Synopsys Announces AgentEngineer Solutions and Autopilot Platform for Autonomous Engineering",
+  "url": "https://semiwiki.com/artificial-intelligence/374114-synopsys-announces-agentengineer-solutions-and-autopilot-platform-for-autonomous-engineering/",
+  "source": "semiwiki",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Synopsys",
+    "AgentEngineer",
+    "Autopilot"
+  ],
+  "publishedAt": "2026-09-28T13:00:18.000Z",
+  "fetchedAt": "2026-09-28T23:30:10.621Z",
+  "summary": "Synopsys 9月28日发布 AgentEngineer 与 Autopilot 平台，覆盖芯片设计和验证工作流。官方称已有50多个客户合作项目，计划2026年底全面供货。",
+  "investorNote": "芯片设计 Agent 的商业价值要看其进入正式设计签核流程后的可靠性与客户续用，而非试点数量。",
+  "score": 0.85,
+  "duplicateOf": null,
+  "clusterId": "2026-09-29-synopsys-agentengineer-autopilot",
+  "displayTitle": "Synopsys 推出芯片设计 Agent 平台，年底才计划全面供货",
+  "narrative": "Synopsys 9 月 28 日宣布 AgentEngineer 产品组合及 Autopilot 平台，覆盖验证、系统验证、实现、模拟设计、制造和仿真分析等工作流。平台提供编排、记忆、遥测和治理能力，让 Agent 可以跟进跨多步、长时间的工程任务。官方称已有50 多个客户合作项目在进行，计划 2026 年底全面供货。富士通在公告中表示，使用其验证 Agent 的部分 RTL 代码生成工作，生产率提高 10% 至 30%；这是特定客户场景的反馈，不能当成所有芯片设计任务的通用提升幅度。 EDA 工具的门槛从“会不会生成代码”转向“能否在几天甚至几周的设计流程里可靠地保持状态，并在人类可审计的边界内推进任务”。这也解释了为什么平台同时强调遥测和治理。投资层面更值得跟的，是年底供货后客户是否把它用进正式签核流程，而非只停留在试点数量。",
+  "crossSources": [
+    {
+      "source": "Synopsys",
+      "url": "https://news.synopsys.com/2026-09-28-Synopsys-Powers-Autonomous-Engineering-with-a-Broad-Portfolio-of-Long-Horizon-Agents-and-Autopilot-Platform",
+      "title": "Synopsys Powers Autonomous Engineering"
+    }
+  ]
+}

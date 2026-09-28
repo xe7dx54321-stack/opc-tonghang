@@ -1,0 +1,25 @@
+{
+  "id": "2026-09-29-sharpa-iros-tactile-system",
+  "title": "三箭齐发！Sharpa三大新品IROS全球首秀，三位一体再次刷新灵巧操作上限",
+  "url": "https://www.leiphone.com/category/robot/PD6wmXBcwh6pLqU5.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Sharpa",
+    "D01",
+    "W02",
+    "AE01"
+  ],
+  "publishedAt": "2026-09-28T06:42:00.000Z",
+  "fetchedAt": "2026-09-28T23:30:02.989Z",
+  "summary": "雷锋网9月28日报道，Sharpa 在 IROS 发布 D01 触觉感知机器人、W02 灵巧手和 AE01 触感数据手套，覆盖操作执行与数据采集。",
+  "investorNote": "三款设备构成触觉操作闭环，但跨任务迁移、稳定运行与客户交付仍待验证。",
+  "score": 0.73,
+  "duplicateOf": null,
+  "clusterId": "2026-09-29-sharpa-iros-tactile-system",
+  "displayTitle": "Sharpa 在 IROS 发布机器人、灵巧手和触感数据手套",
+  "narrative": "雷锋网 9 月 28 日刊载 Sharpa 在 IROS 发布的三款产品：触觉感知机器人 D01、灵巧手 W02、外骨骼触感数据手套 AE01。它们分别对应动作执行、精细接触与遥操作数据采集。报道列出的 D01 末端执行器速度、触觉采样率等指标来自公司展示，尚缺少可供横向比较的第三方测试。 把三件设备放在一起，Sharpa 的重点更像是在建立触觉数据到机器人操作的闭环，而不是单卖一只灵巧手。难点在于手套采集的动作与接触信息，能否迁移到真实机器人、不同物体和长时任务。演示视频可以证明某些动作做得出来，稳定交付还得看连续运行、维护成本和客户场景。"
+}
