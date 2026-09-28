@@ -129,6 +129,12 @@ for (const day of itemDays) {
         if (day === requireDate && previousReaderUrls.has(String(item.url).replace(/\/$/, ''))) {
           throw new Error('publishable item repeats a reader-visible URL from an earlier edition')
         }
+        if (item.source === 'hacker-news') {
+          const originalPublished = Date.parse(item.raw?.originalPublishedAt ?? '')
+          if (!Number.isFinite(originalPublished) || originalPublished < windowEnd - 86_400_000 || originalPublished >= windowEnd) {
+            throw new Error('Hacker News submission time is not proof of original article publication time')
+          }
+        }
       }
       // v0.5 写 skill 要求 items 带 displayTitle / narrative 字段。
       // 旧版 / 来自 fetcher 直接的 items 只有 title / summary（英文）。
