@@ -32,7 +32,8 @@ function sameFile(a, b) {
 }
 
 function validateDailyDigest(day, content) {
-  const sections = content.trim().split(/\n\s*---\s*\n/).map(section => section.trim()).filter(Boolean)
+  const body = content.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, '')
+  const sections = body.trim().split(/\n\s*---\s*\n/).map(section => section.trim()).filter(Boolean)
   if (isStubDigest(content)) fail(`Daily digest ${day} is an unpublished backfill stub`)
   if (sections.length < 2 || /^\*\*[\s\S]+\*\*$/.test(sections[0])) {
     fail(`Daily digest ${day} needs a normal-weight introduction and titled stories`)
@@ -73,6 +74,19 @@ const itemDays = existsSync(sourceItems)
 const newDailyDays = dailyFiles.map(name => name.slice(0, 10))
   .filter(day => !existsSync(join(target, 'daily', `${day}.md`)))
 const requiredDays = new Set([...newDailyDays, ...(requireDate ? [requireDate] : [])])
+const previousReaderUrls = new Set()
+for (const day of itemDays) {
+  if (requireDate && day >= requireDate) continue
+  for (const name of files(join(sourceItems, day), /\.json$/).filter(name => name !== '_index.json')) {
+    try {
+      const item = JSON.parse(readFileSync(join(sourceItems, day, name), 'utf8'))
+      if (item.score >= 0.4 && !item.duplicateOf && /[\u3400-\u9fff]/.test(item.displayTitle ?? '') &&
+          /[\u3400-\u9fff]/.test(item.narrative ?? '') && /^https?:\/\//i.test(item.url ?? '')) {
+        previousReaderUrls.add(String(item.url).replace(/\/$/, ''))
+      }
+    } catch { /* malformed prior raw data is checked separately below */ }
+  }
+}
 
 // 先校验，再写入，避免发布到一半才发现源文件损坏。
 if (requireDate && !dailyFiles.includes(`${requireDate}.md`)) fail(`Missing daily digest for ${requireDate}`)
@@ -111,6 +125,9 @@ for (const day of itemDays) {
         const windowEnd = Date.parse(`${day}T07:30:00+08:00`)
         if (!Number.isFinite(published) || published < windowEnd - 86_400_000 || published >= windowEnd) {
           throw new Error('publishable item falls outside the fixed 07:30-to-07:30 Beijing news window')
+        }
+        if (day === requireDate && previousReaderUrls.has(String(item.url).replace(/\/$/, ''))) {
+          throw new Error('publishable item repeats a reader-visible URL from an earlier edition')
         }
       }
       // v0.5 写 skill 要求 items 带 displayTitle / narrative 字段。
