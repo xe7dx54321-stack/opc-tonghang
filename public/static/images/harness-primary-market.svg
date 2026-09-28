@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1088" height="612" viewBox="0 0 1088 612" role="img" aria-label="一级市场研究工作流示意">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0A0A0A"/><stop offset="1" stop-color="#132027"/></linearGradient>
+    <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#00E0C7"/><stop offset="1" stop-color="#00A85A"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#284048" stroke-width="1" opacity=".35"/></pattern>
+  </defs>
+  <rect width="1088" height="612" fill="url(#bg)"/>
+  <rect width="1088" height="612" fill="url(#grid)"/>
+  <circle cx="806" cy="300" r="270" fill="#00E0C7" opacity=".035"/>
+  <text x="72" y="86" fill="#00E0C7" font-family="monospace" font-size="22" letter-spacing="4">TX-001 / PRIMARY MARKET</text>
+  <text x="72" y="144" fill="#E8ECEF" font-family="sans-serif" font-size="40" font-weight="700">一级市场行业与项目研究</text>
+  <text x="72" y="184" fill="#A8B0B8" font-family="sans-serif" font-size="19">从初始材料到可追溯的投资判断</text>
+  <path d="M142 339H946" stroke="url(#accent)" stroke-width="3" stroke-dasharray="6 8" opacity=".7"/>
+  <g font-family="sans-serif">
+    <g transform="translate(72 252)"><rect width="208" height="168" rx="16" fill="#121C21" stroke="#2C454D"/><circle cx="32" cy="34" r="15" fill="#183931"/><text x="25" y="40" fill="#00E0C7" font-size="16" font-weight="700">1</text><text x="24" y="88" fill="#E8ECEF" font-size="22" font-weight="700">项目材料</text><text x="24" y="120" fill="#A8B0B8" font-size="15">BP · 访谈 · 资料</text></g>
+    <g transform="translate(317 252)"><rect width="208" height="168" rx="16" fill="#121C21" stroke="#2C454D"/><circle cx="32" cy="34" r="15" fill="#183931"/><text x="25" y="40" fill="#00E0C7" font-size="16" font-weight="700">2</text><text x="24" y="88" fill="#E8ECEF" font-size="22" font-weight="700">行业筛选</text><text x="24" y="120" fill="#A8B0B8" font-size="15">定位 · 细分 · 优先级</text></g>
+    <g transform="translate(562 252)"><rect width="208" height="168" rx="16" fill="#121C21" stroke="#2C454D"/><circle cx="32" cy="34" r="15" fill="#183931"/><text x="25" y="40" fill="#00E0C7" font-size="16" font-weight="700">3</text><text x="24" y="88" fill="#E8ECEF" font-size="22" font-weight="700">深研与尽调</text><text x="24" y="120" fill="#A8B0B8" font-size="15">证据 · 反证 · 复核</text></g>
+    <g transform="translate(807 252)"><rect width="208" height="168" rx="16" fill="#121C21" stroke="#00E0C7"/><circle cx="32" cy="34" r="15" fill="#183931"/><text x="25" y="40" fill="#00E0C7" font-size="16" font-weight="700">4</text><text x="24" y="88" fill="#E8ECEF" font-size="22" font-weight="700">投资判断</text><text x="24" y="120" fill="#A8B0B8" font-size="15">建议 · 报告 · 结论</text></g>
+  </g>
+  <path d="M72 492H1016" stroke="#2C454D"/>
+  <text x="72" y="539" fill="#00E0C7" font-family="monospace" font-size="21" font-weight="700">15 SKILLS</text>
+  <text x="289" y="539" fill="#00E0C7" font-family="monospace" font-size="21" font-weight="700">3 AGENTS</text>
+  <text x="504" y="539" fill="#A8B0B8" font-family="monospace" font-size="19">LOCAL WORKSPACE  ·  ZIP DELIVERY</text>
+</svg>
