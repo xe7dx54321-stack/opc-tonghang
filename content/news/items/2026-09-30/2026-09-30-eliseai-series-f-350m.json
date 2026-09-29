@@ -1,0 +1,24 @@
+{
+  "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+  "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "publishedAt": "2026-09-29T21:51:36.000Z",
+  "fetchedAt": "2026-09-29T23:30:03.719Z",
+  "id": "2026-09-30-eliseai-series-f-350m",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "EliseAI",
+    "Andreessen Horowitz",
+    "Bessemer Ventures"
+  ],
+  "summary": "TechCrunch 9 月 29 日报道，EliseAI 宣布融资 3.5 亿美元、估值 40 亿美元，由 Andreessen Horowitz 和 Bessemer Ventures 联合领投。公司为住房和医疗机构自动化行政流程，并自称今年夏天年度经常性收入超过 2 亿美元。",
+  "investorNote": "垂直 AI 公司若掌握完整业务流程，其收入规模可能比通用对话应用更早得到验证，但用户渗透数据仍需尽调。",
+  "displayTitle": "EliseAI 融资 3.5 亿美元，住房与医疗流程软件估值 40 亿美元",
+  "narrative": "EliseAI 宣布融资 3.5 亿美元，估值 40 亿美元；TechCrunch 报道由 a16z 与 Bessemer 联合领投。公司把 AI 用在租赁、维修、续约及医疗行政流程，自称今年夏天 ARR 已超过 2 亿美元。这里的重点是流程覆盖：一家垂直软件公司若能替客户连续处理多个高频环节，收入基础比单一聊天入口更清晰。估值和收入是报道及公司披露口径，仍需用续费、毛利和客户集中度验证。",
+  "score": 0.75,
+  "duplicateOf": null,
+  "clusterId": "2026-09-30-eliseai-series-f-350m"
+}

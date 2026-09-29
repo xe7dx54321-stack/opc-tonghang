@@ -1,0 +1,23 @@
+{
+  "title": "Moores Lab AI: Applying Agentic AI Across Chip Design",
+  "url": "https://semiengineering.com/moores-law-ai-applying-agentic-ai-across-chip-design/",
+  "source": "semiconductor-engineering",
+  "sourceTier": 2,
+  "publishedAt": "2026-09-29T07:01:00.000Z",
+  "fetchedAt": "2026-09-29T23:30:09.047Z",
+  "id": "2026-09-30-moores-lab-ai-eda-interview",
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "Moores Lab AI"
+  ],
+  "summary": "Semiconductor Engineering 9 月 29 日刊发对 Moores Lab AI 创始人的采访。公司称当前产品优先处理验证、调试和覆盖率，并已在约 10 处部署；其负责人同时承认，芯片规范的细节很难仅靠通用大模型完整理解。",
+  "investorNote": "EDA Agent 的商用验证应以可复核的调试时间和最终签核质量衡量，单纯演示从规格生成设计不足以证明可靠性。",
+  "displayTitle": "Moores Lab AI 谈芯片设计 Agent：先从验证与调试切入",
+  "narrative": "Semiconductor Engineering 当日采访 Moores Lab AI。公司称其 Agent 先处理验证、调试和覆盖率，已在约 10 个场景部署；创始人同时承认，通用模型读芯片规范时会漏掉关键细节。这个自我限定反而说明切入点：先在可检查的调试环节节省工程时间，再谈端到端设计。报道中的部署和效率口径均来自公司，正式流片前仍要看错误率、可追溯性与客户复用。",
+  "score": 0.59,
+  "duplicateOf": null,
+  "clusterId": "2026-09-30-moores-lab-ai-eda-interview"
+}

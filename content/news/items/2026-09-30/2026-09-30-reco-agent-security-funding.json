@@ -1,0 +1,22 @@
+{
+  "title": "Reco raises $55M as AI agent security startups crowd the market",
+  "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "publishedAt": "2026-09-29T12:30:00.000Z",
+  "fetchedAt": "2026-09-29T23:30:02.750Z",
+  "id": "2026-09-30-reco-agent-security-funding",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Reco"
+  ],
+  "summary": "TechCrunch 9 月 29 日报道 Reco 新获 5500 万美元融资；公司今年 2 月曾融资 3000 万美元，累计融资额达 1.4 亿美元。Reco 将原有 SaaS 安全产品扩展为连接 Agent、应用、用户和权限的上下文图，号称已接入 280 多个应用。",
+  "investorNote": "Agent 安全供应商正从单点拦截转向跨应用资产发现与权限关系管理，需验证真实部署和误报成本。",
+  "displayTitle": "Reco 获 5500 万美元融资，Agent 安全转向权限关系图",
+  "narrative": "TechCrunch 报道，Reco 新融资 5500 万美元，累计融资额达到 1.4 亿美元。公司原本做 SaaS 安全，如今把 Agent、应用、用户和权限连接成上下文图，并称已支持 280 多个应用。资金涌向这一方向，说明企业开始担心 Agent 数量增长快于资产盘点；但“看见所有 Agent”只是第一步。能否在不打断业务的情况下准确限制访问，是这类产品下一轮竞争的实证问题。",
+  "score": 0.73,
+  "duplicateOf": null,
+  "clusterId": "2026-09-30-reco-agent-security-funding"
+}

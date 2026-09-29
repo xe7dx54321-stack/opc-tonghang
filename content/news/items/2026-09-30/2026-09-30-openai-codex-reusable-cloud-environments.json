@@ -1,0 +1,23 @@
+{
+  "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+  "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "publishedAt": "2026-09-29T17:15:00.000Z",
+  "fetchedAt": "2026-09-29T23:30:03.720Z",
+  "id": "2026-09-30-openai-codex-reusable-cloud-environments",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "Codex"
+  ],
+  "summary": "TechCrunch 9 月 29 日现场报道，OpenAI 为 Codex 增加可复用的云开发环境，可跨电脑、手机和云端访问；同时发布语音控制的 CLI、代码审查体验和仓库安全扫描工具。",
+  "investorNote": "开发 Agent 的竞争点延伸到团队共享环境、权限配置和代码审查，而不只是模型生成速度。",
+  "displayTitle": "Codex 增加可复用云开发环境，团队配置跨设备延续",
+  "narrative": "OpenAI 在 DevDay 更新 Codex：云端开发环境可以复用，团队能够带着预设配置和权限在电脑、手机及云端继续工作。TechCrunch 同时记录了 CLI 语音控制、代码审查和仓库安全扫描等更新。此前每次云任务像一次性沙箱；可复用环境把产品推进到团队工作台。对企业而言，接下来更要看环境隔离、凭证管理和审查记录是否足以进入正式开发流程。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "2026-09-30-openai-codex-reusable-cloud-environments"
+}

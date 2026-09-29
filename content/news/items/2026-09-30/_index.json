@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-30",
+  "itemCount": 11,
+  "bySource": {
+    "techcrunch": 4,
+    "techcrunch-ai": 1,
+    "marktechpost": 1,
+    "hugging-face-blog": 1,
+    "chips-and-cheese": 1,
+    "semiconductor-engineering": 1,
+    "qbitai": 1,
+    "web-search": 1
+  },
+  "byTopic": {
+    "ai": 8,
+    "semiconductor": 2,
+    "embodied-ai": 2
+  },
+  "byScore": {
+    "major": 8,
+    "normal": 3,
+    "filtered": 0
+  },
+  "clusterCount": 11,
+  "files": [
+    "2026-09-30-openai-gpt-6-1-sol.json",
+    "2026-09-30-openai-dots-agents.json",
+    "2026-09-30-openai-codex-reusable-cloud-environments.json",
+    "2026-09-30-reco-agent-security-funding.json",
+    "2026-09-30-eliseai-series-f-350m.json",
+    "2026-09-30-liquid-ai-d1-decision-model.json",
+    "2026-09-30-nvidia-kumo-tabular-model.json",
+    "2026-09-30-qualcomm-x2-elite-interconnect-analysis.json",
+    "2026-09-30-moores-lab-ai-eda-interview.json",
+    "2026-09-30-knowin-robotics-new-financing.json",
+    "2026-09-30-idc-humanoid-shipments-h1.json"
+  ]
+}

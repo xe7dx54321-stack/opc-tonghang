@@ -1,0 +1,23 @@
+{
+  "title": "Qualcomm’s System Level Architecture in the Snapdragon X2 Elite",
+  "url": "https://chipsandcheese.com/p/qualcomms-system-level-architecture",
+  "source": "chips-and-cheese",
+  "sourceTier": 2,
+  "publishedAt": "2026-09-29T16:07:30.000Z",
+  "fetchedAt": "2026-09-29T23:30:08.262Z",
+  "id": "2026-09-30-qualcomm-x2-elite-interconnect-analysis",
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Qualcomm",
+    "Snapdragon X2 Elite"
+  ],
+  "summary": "Chips and Cheese 9 月 29 日发表 Snapdragon X2 Elite Extreme 系统架构分析，实测讨论 CPU 核心分簇、共享缓存、DRAM 带宽与跨簇延迟；文章指出跨簇访问存在代价，但较上一代 X Elite 明显改善。",
+  "investorNote": "笔记本 SoC 竞争逐步取决于缓存与互连架构能否让 CPU、GPU 同时争用内存时保持可预测性能。",
+  "displayTitle": "Snapdragon X2 Elite 互连实测：核心分簇仍可控制延迟",
+  "narrative": "Chips and Cheese 9 月 29 日公布 Snapdragon X2 Elite Extreme 的系统架构测试。高通把核心分簇处理，降低系统互连要直接管理的核心数量；作者测得 LPDDR5X 场景下约 115 纳秒的 DRAM 延迟，并认为跨簇延迟较上一代 X Elite 收敛。它没有宣称新芯片今天发布，价值在于说明移动 SoC 的瓶颈已从单核峰值转向 CPU、GPU 共享内存时的互连表现。",
+  "score": 0.62,
+  "duplicateOf": null,
+  "clusterId": "2026-09-30-qualcomm-x2-elite-interconnect-analysis"
+}

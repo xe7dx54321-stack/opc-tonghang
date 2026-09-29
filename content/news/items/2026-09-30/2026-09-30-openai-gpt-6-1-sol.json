@@ -1,0 +1,23 @@
+{
+  "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+  "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "publishedAt": "2026-09-29T17:15:00.000Z",
+  "fetchedAt": "2026-09-29T23:30:03.720Z",
+  "id": "2026-09-30-openai-gpt-6-1-sol",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "GPT-6.1 Sol"
+  ],
+  "summary": "OpenAI 在 9 月 29 日 DevDay 展示 GPT-6.1 Sol。TechCrunch 当日现场报道转述公司说法：该模型面向编程、电脑操作及多步工作流，标准输入和输出 token 价格约为 GPT-6 Astra 的五分之一，已向部分 ChatGPT Work 与 Codex 用户开放。",
+  "investorNote": "公司把模型能力与价格同时下探，企业采购应比较完成任务的总成本，而不只看单次 token 报价。",
+  "displayTitle": "OpenAI 发布 GPT-6.1 Sol，把旗舰级任务能力压进较低价位",
+  "narrative": "OpenAI 在 9 月 29 日 DevDay 展示 GPT-6.1 Sol。TechCrunch 转述公司说法称，它在编程、电脑操作和专业工作上的能力接近 GPT-6 Astra，标准输入及输出 token 价格约为后者的五分之一；现已面向部分 ChatGPT Work 和 Codex 用户开放。这是模型分层的竞争：企业真正要核算的是一个任务的成功率、重试次数与最终成本，不能只凭公司展示的能力和单价推定实际节省。",
+  "score": 0.93,
+  "duplicateOf": null,
+  "clusterId": "2026-09-30-openai-gpt-6-1-sol"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "OpenAI launches Dots, its bubbly agentic avatar",
+  "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "publishedAt": "2026-09-29T17:17:15.000Z",
+  "fetchedAt": "2026-09-29T23:30:03.720Z",
+  "id": "2026-09-30-openai-dots-agents",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "Dots"
+  ],
+  "summary": "OpenAI 在 9 月 29 日 DevDay 宣布 Dots。TechCrunch 当日原文报道，这是一种由 GPT-6 Astra 驱动的常驻个人 Agent，可从 ChatGPT 或 Codex 启动，在已连接的工具中持续执行任务，先面向符合条件市场的 Pro 和 Business Premium 用户。",
+  "investorNote": "常驻执行把 Agent 的商业价值从单次回答转向持续任务交付，同时使权限边界和失败恢复成为采购门槛。",
+  "displayTitle": "OpenAI 推出 Dots，常驻 Agent 进入 ChatGPT 与 Codex",
+  "narrative": "OpenAI 在 DevDay 发布 Dots：用户可从 ChatGPT 或 Codex 启动常驻 Agent，让它在连接的应用中持续处理指定目标。TechCrunch 报道称，首批面向符合条件市场的 Pro 与 Business Premium 用户；公司还设想为不同任务配置独立身份、凭证和工具。真正的新门槛是持续任务的权限和复核机制：助手离开对话框后，能否被审计、暂停与纠错，比卡通形象更决定企业能否部署。",
+  "score": 0.86,
+  "duplicateOf": null,
+  "clusterId": "2026-09-30-openai-dots-agents"
+}

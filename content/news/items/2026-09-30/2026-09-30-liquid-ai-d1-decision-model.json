@@ -1,0 +1,23 @@
+{
+  "title": "Liquid AI Releases d1: A Decision Model That Returns Calibrated Probabilities With Zero Output Tokens",
+  "url": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
+  "source": "marktechpost",
+  "sourceTier": 2,
+  "publishedAt": "2026-09-29T21:47:09.000Z",
+  "fetchedAt": "2026-09-29T23:30:06.235Z",
+  "id": "2026-09-30-liquid-ai-d1-decision-model",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Liquid AI",
+    "d1"
+  ],
+  "summary": "MarkTechPost 9 月 29 日报道 Liquid AI 发布 d1 决策模型；Liquid 官方文档显示其接收状态和预定义选项，直接返回各选项概率，用于分类、路由和评分，API 响应不生成文本 token，目前为托管 API。",
+  "investorNote": "专用决策模型切入高频分类与路由，商业价值要看校准质量、延迟和总调用费用，不宜把零输出 token 等同于零成本。",
+  "displayTitle": "Liquid AI 发布 d1，用概率输出处理分类与路由任务",
+  "narrative": "Liquid AI 的 d1 把分类、路由和评分做成直接返回概率的 API，而不是先生成一段解释文本。MarkTechPost 当日报道发布，Liquid 官方文档确认它接受预定义选项并返回概率，响应中的生成文本 token 为零，当前只提供托管 API。对高频工作流，专用模型的价值在可设置信心阈值和人工复核区间；但零输出 token 不等于零费用，部署前仍要测校准误差、延迟与总体调用成本。",
+  "score": 0.72,
+  "duplicateOf": null,
+  "clusterId": "2026-09-30-liquid-ai-d1-decision-model"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+  "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+  "source": "hugging-face-blog",
+  "sourceTier": 2,
+  "publishedAt": "2026-09-29T15:30:38.000Z",
+  "fetchedAt": "2026-09-29T23:30:06.532Z",
+  "id": "2026-09-30-nvidia-kumo-tabular-model",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Kumo Tabular"
+  ],
+  "summary": "NVIDIA 9 月 29 日在 Hugging Face 发布 Kumo Tabular。官方介绍称，模型面向表格分类和回归，在有标签行数据上通过一次前向计算预测新行，无须针对任务训练或特征工程；提供 2800 万至 2.15 亿参数的三个规模。",
+  "investorNote": "表格基础模型若在多行业数据上稳定泛化，可能改变企业机器学习项目的特征工程成本，但跨数据分布表现仍需复核。",
+  "displayTitle": "NVIDIA 开放 Kumo Tabular，表格任务尝试免训练推断",
+  "narrative": "NVIDIA 在 Hugging Face 发布 Kumo Tabular，提供 2800 万至 2.15 亿参数的三种规模。官方称，给定带标签的表格行后，模型可一次前向计算完成分类或回归，无须为每个任务重新训练和设计特征，并公布多个基准的领先成绩。企业表格数据量大、场景碎片化，免训练推断若能稳定成立，会改变传统 AutoML 的项目成本；但这些成绩来自发布方，面对偏斜类别、时间漂移和缺失字段时仍要独立测试。",
+  "score": 0.76,
+  "duplicateOf": null,
+  "clusterId": "2026-09-30-nvidia-kumo-tabular-model"
+}
