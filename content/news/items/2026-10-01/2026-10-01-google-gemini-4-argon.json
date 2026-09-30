@@ -1,0 +1,23 @@
+{
+  "id": "2026-10-01-google-gemini-4-argon",
+  "title": "Gemini 4 Argon: our next era of frontier intelligence",
+  "displayTitle": "Google 发布 Gemini 4 Argon，先向可信网络防御者开放",
+  "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+  "source": "deepmind",
+  "sourceTier": 2,
+  "publishedAt": "2026-09-30T20:00:00.000Z",
+  "fetchedAt": "2026-09-30T23:44:22.935060Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Google DeepMind",
+    "Gemini 4 Argon"
+  ],
+  "summary": "Google 9月30日发布 Gemini 4 Argon，先通过 Fairwind Program 向部分可信网络防御团队开放；更广泛的开发者、企业和消费者访问尚未开始。公司公布每百万输入 token 2 美元、输出 token 10 美元的初始定价，及自测的网络漏洞修复成绩。",
+  "investorNote": "先限定高风险网络能力的使用者，再公布商业报价，表明前沿模型的可得性会直接影响客户采购时点。",
+  "narrative": "Google 9 月 30 日发布 Gemini 4 Argon，首批通过 Fairwind Program 向可信网络防御者开放，开发者和普通用户暂时拿不到。公司公布每百万输入 token 2 美元、输出 token 10 美元的初始价格，并称模型在漏洞修复测试中表现领先；这仍是发布方口径。对企业采购来说，今天可核实的是产品定位、受限访问和报价计划，尚不能把公告中的能力直接换算成生产环境的成本优势。",
+  "score": 0.91,
+  "duplicateOf": null,
+  "clusterId": "2026-10-01-google-gemini-4-argon"
+}

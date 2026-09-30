@@ -1,0 +1,24 @@
+{
+  "id": "2026-10-01-restate-20m-series-a",
+  "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+  "displayTitle": "Restate 获 2000 万美元 A 轮，押注 Agent 工作流容错",
+  "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "publishedAt": "2026-09-30T14:27:11.000Z",
+  "fetchedAt": "2026-09-30T23:44:22.935060Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Restate",
+    "Singular",
+    "Temporal"
+  ],
+  "summary": "TechCrunch 9月30日报道，Restate完成由Singular领投的2000万美元A轮。公司最初面向多步骤工作流构建可持久执行引擎，现将崩溃恢复和任务重试能力用于Agent流程；创始人称近月拿到多份六至七位数合同，属于公司自述。",
+  "investorNote": "Agent 工作时间变长后，崩溃恢复和幂等执行会从工程细节变成采购条件；合同规模仍须独立核对。",
+  "narrative": "TechCrunch 9 月 30 日报道，Restate 完成 Singular 领投的 2000 万美元 A 轮。它的可持久执行引擎原为普通多步骤工作流设计，如今用于处理 Agent 长时间运行中的中断、重试和状态恢复。创始人称近月签下多份六至七位数合同，但这仍是公司口径。Agent 基建的竞争焦点开始从“能接工具”延伸到失败后能否可靠续跑。",
+  "score": 0.64,
+  "duplicateOf": null,
+  "clusterId": "2026-10-01-restate-20m-series-a"
+}

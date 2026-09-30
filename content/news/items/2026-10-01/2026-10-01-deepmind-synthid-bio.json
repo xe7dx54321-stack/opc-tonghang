@@ -1,0 +1,24 @@
+{
+  "id": "2026-10-01-deepmind-synthid-bio",
+  "title": "Introducing SynthID Bio",
+  "displayTitle": "DeepMind 推出 SynthID Bio，为 AI 设计蛋白加入可检验水印",
+  "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+  "source": "deepmind",
+  "sourceTier": 2,
+  "publishedAt": "2026-09-30T15:00:00.000Z",
+  "fetchedAt": "2026-09-30T23:44:22.935060Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Google DeepMind",
+    "SynthID Bio",
+    "AlphaProteo"
+  ],
+  "summary": "Google DeepMind 9月30日公布 SynthID Bio 原型，试图在AI设计的蛋白序列及结构中嵌入可检测水印。公司称在三种目标蛋白的湿实验里，水印设计与对照组的命中率、结合亲和力和序列多样性相当，并指出对刻意篡改的稳健性仍待改进。",
+  "investorNote": "生成生物设计的可追溯性有了实验依据，但水印需与合成订单审核结合，尚不能独立承担生物安全防线。",
+  "narrative": "Google DeepMind 9 月 30 日介绍 SynthID Bio：在 AI 设计的蛋白序列或结构中嵌入可检测标记。公司称三类目标蛋白的湿实验显示，水印设计仍保持与未加水印样本相近的功能指标。这是原型级证据，团队也承认还要提高抵抗刻意篡改的能力；短期用途更像给 DNA 合成筛查增加来源线索，而不是替代现有审核。",
+  "score": 0.7,
+  "duplicateOf": null,
+  "clusterId": "2026-10-01-deepmind-synthid-bio"
+}

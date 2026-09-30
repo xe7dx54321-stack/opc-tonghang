@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-01",
+  "itemCount": 7,
+  "bySource": {
+    "deepmind": 2,
+    "leiphone": 1,
+    "web-search": 1,
+    "techcrunch": 2,
+    "techcrunch-ai": 1
+  },
+  "byTopic": {
+    "ai": 7,
+    "semiconductor": 2
+  },
+  "byScore": {
+    "major": 4,
+    "normal": 3,
+    "filtered": 0
+  },
+  "clusterCount": 7,
+  "files": [
+    "2026-10-01-google-gemini-4-argon.json",
+    "2026-10-01-deepseek-ascend-950-kernels.json",
+    "2026-10-01-openai-asic-eda-interview.json",
+    "2026-10-01-deepmind-synthid-bio.json",
+    "2026-10-01-elevenlabs-22b-tender.json",
+    "2026-10-01-restate-20m-series-a.json",
+    "2026-10-01-flow-engineering-50m-series-b.json"
+  ]
+}

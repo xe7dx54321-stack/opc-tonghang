@@ -1,0 +1,24 @@
+{
+  "id": "2026-10-01-elevenlabs-22b-tender",
+  "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+  "displayTitle": "ElevenLabs 员工股权交易估值 220 亿美元",
+  "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "publishedAt": "2026-09-30T18:23:57.000Z",
+  "fetchedAt": "2026-09-30T23:44:22.935060Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "ElevenLabs",
+    "Wellington",
+    "T. Rowe Price"
+  ],
+  "summary": "TechCrunch 9月30日报道，ElevenLabs允许员工通过3亿美元的老股交易出售部分已归属股权，交易估值220亿美元；Wellington与T. Rowe Price共同领衔。该估值较公司2月融资时的110亿美元翻倍，但这是一笔员工流动性交易，不是公司新增3亿美元融资。",
+  "investorNote": "二级交易价提供估值信号，却不能替代新一轮一级融资对收入和增长的完整验证。",
+  "narrative": "TechCrunch 9 月 30 日报道，ElevenLabs 开放员工出售部分已归属股权，3 亿美元交易对应 220 亿美元估值，较今年 2 月融资估值翻倍。Wellington 与 T. Rowe Price 领衔这笔交易。资金主要用于员工流动性，不能写成公司新获 3 亿美元融资；它显示投资者愿意为语音 AI 报更高价格，但仍需用收入与续约验证估值。",
+  "score": 0.68,
+  "duplicateOf": null,
+  "clusterId": "2026-10-01-elevenlabs-22b-tender"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2026-10-01-flow-engineering-50m-series-b",
+  "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+  "displayTitle": "Flow Engineering 融资 5000 万美元，将 AI Agent 用于硬件设计流程",
+  "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "publishedAt": "2026-09-30T21:07:40.000Z",
+  "fetchedAt": "2026-09-30T23:44:22.935060Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Flow Engineering",
+    "Sequoia Capital",
+    "Valar Equity Partners"
+  ],
+  "summary": "TechCrunch 9月30日报道，Flow Engineering完成5000万美元B轮，交易估值7.5亿美元，由Valar Equity Partners与Atreides Management相关投资人共同领投，Sequoia参投。其Agent主要把CAD图纸与产品要求、仿真和测试结果对齐，报道列举Anduril、Rivian等客户。",
+  "investorNote": "硬件设计Agent若能减少需求到测试之间的反复核对，就能切入高价值工程软件预算；客户名单不等于已验证部署规模。",
+  "narrative": "TechCrunch 9 月 30 日报道，Flow Engineering 以 7.5 亿美元估值完成 5000 万美元 B 轮。公司用 AI Agent 对齐 CAD 图纸、产品要求、仿真和测试结果，报道列举 Anduril、Rivian 等客户。它切入的不是自动生成一张设计图，而是硬件团队反复核对版本与约束的流程；现阶段客户名单仍不足以推算真实部署深度。",
+  "score": 0.65,
+  "duplicateOf": null,
+  "clusterId": "2026-10-01-flow-engineering-50m-series-b"
+}

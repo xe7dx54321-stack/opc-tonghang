@@ -1,0 +1,37 @@
+{
+  "id": "2026-10-01-deepseek-ascend-950-kernels",
+  "title": "DeepSeek 开源算子工具大礼包，联手华为昇腾，手撕 CUDA 绑定！",
+  "displayTitle": "DeepSeek 算子库适配昇腾 950，国产训练栈向底层推进",
+  "url": "https://www.leiphone.com/category/yanxishe/UUIfK7eeFE9Ws1JI.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "publishedAt": "2026-09-30T10:58:00.000Z",
+  "fetchedAt": "2026-09-30T23:44:22.935060Z",
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "DeepSeek",
+    "Huawei Ascend 950",
+    "TileLang"
+  ],
+  "summary": "雷峰网9月30日报道 DeepSeek 的算子与通信工具适配华为昇腾950。TileLang、DeepGEMM、DeepEP及FlashMLA仓库可见当日Ascend支持公告或说明，但公开仓库尚不足以证明所有芯片可无修改运行，也不足以证实与CUDA生态性能全面持平。",
+  "investorNote": "开发栈能否让模型团队少写专有算子，比单卡峰值指标更直接决定国产算力的迁移成本。",
+  "narrative": "雷峰网 9 月 30 日报道 DeepSeek 工具链对昇腾 950 的适配。TileLang、DeepGEMM、DeepEP 和 FlashMLA 的公开仓库都能看到相关支持信息，其中 TileLang 与 DeepGEMM 标出当日更新。它降低了开发者从 CUDA 路线迁移时重写算子的门槛；不过公开资料还不能证明所有模型代码可直接迁移，更不能把个别算子性能推成整套训练或推理系统的表现。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "2026-10-01-deepseek-ascend-950-kernels",
+  "crossSources": [
+    {
+      "source": "github",
+      "url": "https://github.com/tile-ai/tilelang",
+      "title": "TileLang 仓库"
+    },
+    {
+      "source": "github",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "title": "DeepGEMM 仓库"
+    }
+  ]
+}

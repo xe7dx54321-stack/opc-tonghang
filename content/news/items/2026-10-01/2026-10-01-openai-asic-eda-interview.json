@@ -1,0 +1,25 @@
+{
+  "id": "2026-10-01-openai-asic-eda-interview",
+  "title": "Interview with Richard Ho, OpenAI",
+  "displayTitle": "OpenAI 芯片负责人谈 AI 辅助设计：最终签核仍靠 EDA",
+  "url": "https://morethanmoore.substack.com/p/interview-with-richard-ho-openai",
+  "source": "web-search",
+  "sourceTier": 3,
+  "publishedAt": "2026-09-30T13:05:01.000Z",
+  "fetchedAt": "2026-09-30T23:44:22.935060Z",
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "OpenAI",
+    "Richard Ho",
+    "Jalapeño"
+  ],
+  "summary": "More Than Moore 9月30日刊发对OpenAI硬件负责人Richard Ho的专访。Ho说团队用内部模型协助芯片设计，但仍使用标准EDA流程做最终签核；他也表示不愿仅因AI而缩减现有硬件团队。访谈主要提供既有Jalapeño芯片项目的设计方法新解释，并非当日新芯片发布。",
+  "investorNote": "AI可加速探索与优化，但芯片签核对错误率的容忍度极低；EDA供应商的确定性验证仍有位置。",
+  "narrative": "More Than Moore 9 月 30 日刊发对 OpenAI 硬件负责人 Richard Ho 的专访。他说内部模型参与 Jalapeño 芯片设计，但团队仍用标准 EDA 流程做最终签核，并明确表示短期内模型不会替代 EDA 工具。这是对既有芯片项目设计方法的新解释，并非发布新芯片；它提醒芯片设计 Agent 的买方区分探索效率与可签核的正确性。",
+  "score": 0.71,
+  "duplicateOf": null,
+  "clusterId": "2026-10-01-openai-asic-eda-interview"
+}
