@@ -1,0 +1,23 @@
+{
+  "id": "2026-10-02-boston-dynamics-atlas-new-hand",
+  "title": "Atlas Robot’s New Hand May Outperform Humanlike Designs",
+  "displayTitle": "Boston Dynamics 重做 Atlas 灵巧手，优先考虑量产与维修",
+  "url": "https://spectrum.ieee.org/robust-robot-hand",
+  "source": "ieee-spectrum-robotics",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Boston Dynamics",
+    "Atlas"
+  ],
+  "publishedAt": "2026-10-01T14:40:12Z",
+  "fetchedAt": "2026-10-01T23:30:13.597Z",
+  "summary": "IEEE Spectrum 10 月 1 日采访 Boston Dynamics 工程负责人，报道 Atlas 新手采用三根手指加拇指、13 个自由度，可张开手指抓握带扳机工具。团队把可制造性、可靠性和便于更换的关节执行器置于拟人外形之前；文中能力仍主要来自公司展示与访谈。",
+  "investorNote": "灵巧手竞争正从自由度数量转向任务覆盖、维修成本与稳定量产。",
+  "narrative": "Boston Dynamics 为 Atlas 重做灵巧手，采用三指加拇指、13 个自由度，并让执行器模块便于更换。IEEE Spectrum 采访显示，团队放弃更拟人的五指外形，是为抓握常见工具、提高可靠性和控制制造成本。当前仍需用长时间任务成功率与维修数据验证；自由度更多并不自动等于更可用。",
+  "score": 0.84,
+  "duplicateOf": null,
+  "clusterId": "boston-dynamics-atlas-new-hand"
+}

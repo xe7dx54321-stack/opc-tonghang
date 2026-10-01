@@ -1,0 +1,22 @@
+{
+  "id": "2026-10-02-photon-agent-messaging-seed",
+  "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+  "displayTitle": "Photon 获 450 万美元种子轮，押注消息渠道里的 Agent",
+  "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Photon"
+  ],
+  "publishedAt": "2026-10-01T14:00:00Z",
+  "fetchedAt": "2026-10-01T23:30:03.376Z",
+  "summary": "TechCrunch 10 月 1 日报道，Photon 获得 450 万美元种子轮，提供统一 API、渠道框架、CLI 和可观测性工具，帮助开发者在 iMessage、WhatsApp、短信、邮件等渠道部署 Agent。公司声称吸引逾 4 万名开发者，但其开源版本仍占绝大多数使用。",
+  "investorNote": "消息入口能省去新应用获客步骤，商业验证重点是开源使用能否转为付费托管。",
+  "narrative": "Photon 获 450 万美元种子轮，向开发者提供跨 iMessage、WhatsApp、短信与邮件的 Agent 工具。公司称已有逾 4 万开发者，但报道指出使用量绝大部分仍在开源版。渠道覆盖解决分发问题的一部分，是否能形成可持续收入，要看托管服务的付费转化，而不能从开发者数直接推算。",
+  "score": 0.62,
+  "duplicateOf": null,
+  "clusterId": "photon-agent-messaging-seed"
+}

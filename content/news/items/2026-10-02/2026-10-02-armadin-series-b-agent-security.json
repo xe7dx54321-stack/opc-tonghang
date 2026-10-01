@@ -1,0 +1,23 @@
+{
+  "id": "2026-10-02-armadin-series-b-agent-security",
+  "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+  "displayTitle": "Armadin 融资 2.555 亿美元，用 Agent 群持续测试企业防线",
+  "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Armadin",
+    "Kevin Mandia"
+  ],
+  "publishedAt": "2026-10-01T21:55:22Z",
+  "fetchedAt": "2026-10-01T23:30:03.375Z",
+  "summary": "TechCrunch 10 月 1 日报道，Mandiant 创始人 Kevin Mandia 的新公司 Armadin 完成 2.555 亿美元 B 轮，公司称估值超过 25 亿美元，由 a16z 与 Accel 领投。其产品以持续运行的 Agent 群模拟攻击链，帮助企业识别并修补安全漏洞。",
+  "investorNote": "高估值反映资本押注持续攻防测试，但客户留存和实际发现漏洞能力仍比融资额更关键。",
+  "narrative": "TechCrunch 报道，Kevin Mandia 创办的 Armadin 获得 2.555 亿美元 B 轮，公司披露估值超过 25 亿美元。它用持续运行的 Agent 群测试企业防线，试图把周期性渗透测试变成常态化服务。资金与估值证明融资热度，产品能否建立壁垒还要看误报率、可复现漏洞和客户续约。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "armadin-series-b-agent-security"
+}

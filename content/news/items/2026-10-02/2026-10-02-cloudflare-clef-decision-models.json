@@ -1,0 +1,23 @@
+{
+  "id": "2026-10-02-cloudflare-clef-decision-models",
+  "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+  "displayTitle": "Cloudflare 发布 Clef 决策模型，把 Agent 路由做成专门层",
+  "url": "https://blog.cloudflare.com/clef-decision-models/",
+  "source": "hnrss-frontpage",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Cloudflare",
+    "Clef"
+  ],
+  "publishedAt": "2026-10-01T15:34:02.111Z",
+  "fetchedAt": "2026-10-01T23:30:12.218Z",
+  "summary": "Cloudflare 10 月 1 日发布 Clef 与 Clef-flash 决策模型，托管于 Workers AI，并以 Apache 2.0 许可开放权重。模型针对给定选项输出带概率的结构化判断；配套的强化学习微调服务先由工程师协助，后续计划自助化。",
+  "investorNote": "Agent 工作流中的高频分类与路由可能独立成模，但公司基准仍需在客户任务中复测。",
+  "narrative": "Cloudflare 发布 Clef 和 Clef-flash，让 Agent 在给定选项间输出概率，用于工单分流等高频决策；权重已按 Apache 2.0 开放，服务接入 Workers AI。它把通用模型的部分路由工作拆给专门模型。公司公布的速度与质量优势仍是自测，采购方要以自己的误判成本和延迟复核。",
+  "score": 0.86,
+  "duplicateOf": null,
+  "clusterId": "cloudflare-clef-decision-models"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2026-10-02-shopify-canvas-sidekick",
+  "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+  "displayTitle": "Shopify 推出 Canvas，让 Sidekick 直接改写店铺主题文件",
+  "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Shopify",
+    "Canvas",
+    "Sidekick"
+  ],
+  "publishedAt": "2026-10-01T16:44:35Z",
+  "fetchedAt": "2026-10-01T23:30:03.376Z",
+  "summary": "TechCrunch 10 月 1 日报道 Shopify 推出 Canvas：商户与 Sidekick 对话生成及修改店铺，画布实时渲染实际主题代码，可直接测试交互。当前是桌面端产品，尚不支持第三方主题、应用块、多市场与翻译等功能。",
+  "investorNote": "电商建站 Agent 的壁垒更可能来自平台数据和可执行编辑权限，而非自然语言界面本身。",
+  "narrative": "Shopify 的 Canvas 让商户对话式修改网店，Sidekick 直接操作主题文件，画布展示的是可交互的实际页面。相较只给静态预览的生成工具，它更接近完整建站流程；但首版仍限桌面端，第三方主题、应用扩展及多市场能力尚未覆盖。平台内建工具对独立建站 Agent 形成分发压力。",
+  "score": 0.75,
+  "duplicateOf": null,
+  "clusterId": "shopify-canvas-sidekick"
+}

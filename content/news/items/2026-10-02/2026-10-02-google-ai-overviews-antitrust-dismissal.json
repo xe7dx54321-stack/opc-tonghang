@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-02-google-ai-overviews-antitrust-dismissal",
+  "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+  "displayTitle": "美国法官驳回 Chegg 与 Penske 针对 Google AI 搜索的反垄断诉讼",
+  "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Google",
+    "Chegg",
+    "Penske"
+  ],
+  "publishedAt": "2026-10-01T17:12:21Z",
+  "fetchedAt": "2026-10-01T23:30:03.804Z",
+  "summary": "The Verge 10 月 1 日报道，美国联邦法官 Amit Mehta 驳回 Chegg 和 Penske Media 关于 Google AI Overviews 抽走网站流量的反垄断诉讼。裁决称出版商预期得到搜索流量不构成与 Google 的协议；法官同时承认出版商可能受损，但认为现有反垄断法不能处理该问题。",
+  "investorNote": "这次驳回收窄了反垄断诉讼路径，但并未解决内容补偿与流量分配的商业争议。",
+  "narrative": "美国联邦法官驳回 Chegg 与 Penske Media 针对 Google AI 搜索的反垄断诉讼：出版商希望获得搜索流量，并不等于与 Google 有可主张的协议。法官承认出版商受到的损害值得重视，但认为这项反垄断主张不成立。对内容方而言，流量与补偿争议仍在，现有诉讼路径的胜算则受到限制。",
+  "score": 0.71,
+  "duplicateOf": null,
+  "clusterId": "google-ai-overviews-antitrust-dismissal",
+  "crossSources": [
+    {
+      "source": "ars-technica",
+      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search"
+    }
+  ]
+}

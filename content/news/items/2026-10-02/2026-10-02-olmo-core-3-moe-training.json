@@ -1,0 +1,23 @@
+{
+  "id": "2026-10-02-olmo-core-3-moe-training",
+  "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+  "displayTitle": "Ai2 开源 Olmo-core 3，将 MoE 训练扩至万亿参数级",
+  "url": "https://huggingface.co/blog/allenai/olmocore3",
+  "source": "hugging-face-blog",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Ai2",
+    "Olmo-core 3"
+  ],
+  "publishedAt": "2026-10-01T15:01:43.018Z",
+  "fetchedAt": "2026-10-01T23:30:08.507Z",
+  "summary": "Ai2 10 月 1 日发布 Olmo-core 3 开源训练框架，重构 MoE 专家并行与分布式训练。其披露的测试中，47B 参数配置相较旧 FSDP 实现吞吐约 2.7 倍；1.2 万亿参数规模是在 512 张 B300 上做的系统基准，并非完成模型训练。",
+  "investorNote": "开源模型竞争延伸到可复现的训练系统；比较价值要看持续训练吞吐，而非单次规模峰值。",
+  "narrative": "Ai2 开源 Olmo-core 3，重构 MoE 的专家驻留与数据路由。团队称 47B 参数配置在八张 B300 上较旧实现吞吐约增至 2.7 倍；更大的万亿参数测试展示的是系统扩展能力，并非已训练出新模型。开源训练栈能否进入更多团队，关键仍是跨硬件复现和长时稳定性。",
+  "score": 0.88,
+  "duplicateOf": null,
+  "clusterId": "olmo-core-3-moe-training"
+}

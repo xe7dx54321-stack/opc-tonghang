@@ -1,0 +1,23 @@
+{
+  "id": "2026-10-02-aws-strands-decider-2b",
+  "title": "Amazon releases its own Jev clone as decision models flood the web",
+  "displayTitle": "AWS 推出 Strands Decider 2B，加入 Agent 决策模型竞争",
+  "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AWS",
+    "Strands Decider 2B"
+  ],
+  "publishedAt": "2026-10-01T16:49:22Z",
+  "fetchedAt": "2026-10-01T23:30:03.376Z",
+  "summary": "TechCrunch 10 月 1 日报道，AWS Strands Labs 发布开源 Strands Decider 2B，用于在预先定义的选项中做低延迟选择并返回置信度。报道援引项目负责人称，模型基于 Qwen3.5-2B，可在本地运行，瞄准 Agent 流程中不需要完整大模型生成的步骤。",
+  "investorNote": "同日多家供应商进入决策模型赛道，差异化将落在可校准程度、部署成本与工作流集成。",
+  "narrative": "AWS Strands Labs 发布开源 Strands Decider 2B，针对 Agent 流程中的有限选项决策输出置信度。TechCrunch 报道称其基于 Qwen3.5-2B，可本地运行。与通用大模型逐字生成相比，这类模型试图降低高频路由成本；实际优势要用客户自己的分类错误率与端到端耗时衡量。",
+  "score": 0.74,
+  "duplicateOf": null,
+  "clusterId": "aws-strands-decider-2b"
+}
