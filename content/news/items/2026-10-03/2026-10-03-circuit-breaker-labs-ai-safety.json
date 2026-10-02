@@ -1,0 +1,21 @@
+{
+  "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+  "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-02T17:00:00.000Z",
+  "fetchedAt": "2026-10-02T23:30:02.525Z",
+  "id": "2026-10-03-circuit-breaker-labs-ai-safety",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Circuit Breaker Labs"
+  ],
+  "summary": "TechCrunch 采访 Circuit Breaker Labs 创始人：该初创公司用模拟不同年龄、语言和表达方式的用户 Agent，对聊天模型进行长期对话红队测试，重点发现可能造成心理伤害的交互。",
+  "investorNote": "判断：高风险 AI 应用的安全测试正从单轮违规提示转向连续互动评估，但仍需真实客户和可复现的误报、漏报数据。",
+  "displayTitle": "Circuit Breaker Labs 用模拟用户测试聊天机器人的心理风险",
+  "narrative": "TechCrunch 10 月 3 日凌晨采访了 AI 安全初创公司 Circuit Breaker Labs。公司称，它让模拟不同年龄、语言习惯与俚语的 Agent 持续和聊天模型互动，寻找多轮对话中可能出现的心理风险，而非只测单条危险提问。团队目前只有五人，正在服务心理支持等高风险应用，但未公开客户名单或独立测试结果。我的判断是，这类评估若要进入企业采购，关键证据会是**可复现的问题发现率和误报成本**，不能只看每天运行多少次模拟对话。",
+  "score": 0.58,
+  "clusterId": "2026-10-03-circuit-breaker-labs-ai-safety"
+}

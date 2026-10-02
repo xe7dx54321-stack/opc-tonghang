@@ -1,0 +1,30 @@
+{
+  "title": "Meta open sources code to let you make Muse AI gadgets",
+  "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+  "source": "theverge",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-02T21:08:37.000Z",
+  "fetchedAt": "2026-10-02T23:30:03.080Z",
+  "id": "2026-10-03-meta-muse-gadget-sdk",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Meta",
+    "Muse",
+    "Muse Gadget SDK"
+  ],
+  "summary": "Meta 开源 Muse Gadget SDK，允许开发者把 Muse Agent 接入电子墨水屏、HDMI 设备及 Raspberry Pi 等自制硬件；GitHub 仓库创建于 2026 年 10 月 2 日 18:21 UTC。",
+  "investorNote": "判断：开放设备接入可扩大 Agent 的触点，但硬件生态是否形成，要看第三方应用和持续维护，而非示例装置数量。",
+  "displayTitle": "Meta 开源 Muse Gadget SDK，开放 Agent 的自制硬件入口",
+  "narrative": "Meta 10 月 3 日凌晨开放 Muse Gadget SDK；其 GitHub 仓库创建于北京时间 10 月 3 日 02:21。开发者可将 Muse 接入电子墨水屏、HDMI 显示设备或 Raspberry Pi 等硬件，Meta 给出提醒屏和小型触屏等示例。这次开放的是**设备接入代码**，不是证明 Muse 已形成成熟硬件生态。对 Agent 平台而言，把对话能力带到更多终端能增加使用场景，但能否留住开发者，取决于接口稳定性、设备体验和第三方项目能否持续运行。",
+  "score": 0.71,
+  "clusterId": "2026-10-03-meta-muse-gadget-sdk",
+  "crossSources": [
+    {
+      "source": "Meta GitHub",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "title": "Muse Gadget SDK"
+    }
+  ]
+}

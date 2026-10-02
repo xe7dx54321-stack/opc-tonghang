@@ -1,0 +1,30 @@
+{
+  "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+  "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+  "source": "ars-technica",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-02T18:39:36.000Z",
+  "fetchedAt": "2026-10-02T23:30:02.964Z",
+  "id": "2026-10-03-us-nvidia-server-smuggling-indictment",
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Earthmade Computer",
+    "Greg Lui"
+  ],
+  "summary": "美国司法部 10 月 1 日发布公告称，Earthmade Computer 负责人 Greg Lui 因涉嫌将价值超过 3 亿美元、含受出口管制 GPU 的服务器走私至中国而被捕并被起诉；案件仍属指控，尚未定罪。",
+  "investorNote": "判断：该案凸显第三国转运和终端用户核查仍是高端算力供应链的合规风险，但起诉事实不能当作已证实的走私规模。",
+  "displayTitle": "美国起诉涉嫌转运 NVIDIA 服务器至中国的公司负责人",
+  "narrative": "美国司法部在本期窗口内发布公告：Earthmade Computer 负责人 Greg Lui 被捕，面临通过第三国和虚假文件向中国转运受出口管制 GPU 服务器的指控，涉案服务器价值据检方称**超过 3 亿美元**。这仍是起诉阶段，相关指控尚未经法院认定。案件说明高端 AI 算力交易的风险不只落在芯片型号上，货运文件、实际终端用户和转运链条也会被追查。对供应链参与者，合规审核的成本与可追溯性会成为交易的一部分。",
+  "score": 0.78,
+  "clusterId": "2026-10-03-us-nvidia-server-smuggling-indictment",
+  "crossSources": [
+    {
+      "source": "美国司法部",
+      "url": "https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china",
+      "title": "California Man Arrested for Smuggling More Than $300 Million in Export-Controlled Computer Servers to China"
+    }
+  ]
+}

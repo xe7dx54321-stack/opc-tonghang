@@ -1,0 +1,23 @@
+{
+  "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+  "url": "https://huggingface.co/blog/allenai/astabrief",
+  "source": "hugging-face-blog",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-02T15:19:50.000Z",
+  "fetchedAt": "2026-10-02T23:30:06.051Z",
+  "id": "2026-10-03-allenai-astabrief-8b",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Allen Institute for AI",
+    "AstaBrief",
+    "Qwen3-8B"
+  ],
+  "summary": "Ai2 发布并开源 AstaBrief 8B 及训练数据，用于把研究问题和检索到的文献片段写成带引文的报告；Asta 的 Fast 模式平均耗时 51.1 秒，Claude 驱动的 Thinking 模式为 178.5 秒。",
+  "investorNote": "判断：专用小模型加检索流程可以显著压缩科研综述的等待时间，但引文是否真正支持结论仍要独立核验。",
+  "displayTitle": "Ai2 开源 AstaBrief 8B，把科研报告生成压至约 51 秒",
+  "narrative": "Ai2 10 月 2 日开源 AstaBrief 8B 和训练数据。模型接收研究问题及检索到的文献片段，一次生成带引文的报告，已接入 Asta 的 Fast 模式。团队在自家完整流程中测得平均 **51.1 秒/份**，对照 Claude 驱动的 Thinking 模式为 178.5 秒，约快 3.5 倍；这不是跨产品通用速度排名。技术上更值得看的是团队把真实研究问题、引文过滤和偏好训练结合起来，让 8B 模型承担一项边界清楚的工作。投资判断是科研 Agent 会先在可检索、可复核的环节找到成本优势，而报告文字流畅并不能证明引文支持每个结论。",
+  "score": 0.77,
+  "clusterId": "2026-10-03-allenai-astabrief-8b"
+}

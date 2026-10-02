@@ -1,0 +1,24 @@
+{
+  "title": "Amazon and Synopsys ink multi-year billion-dollar deal in multi-year IP agreement to accelerate AI chip design efforts",
+  "url": "https://www.tomshardware.com/tech-industry/amazon-and-synopsys-ink-multi-year-billion-dollar-deal-in-multi-year-ip-agreement-to-accelerate-ai-chip-design-efforts-synopsys-to-adopt-amazon-bedrock-to-deploy-ai-agents-harnessing-aws-compute-and-storage-capabilities",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-02T13:50:00.000Z",
+  "fetchedAt": "2026-10-02T23:30:12.309Z",
+  "id": "2026-10-03-amazon-synopsys-ai-chip-design",
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Amazon",
+    "AWS",
+    "Synopsys",
+    "Trainium"
+  ],
+  "summary": "Tom’s Hardware 报道 Amazon 与 Synopsys 扩大多年合作：Amazon 将增加使用 Synopsys 芯片 IP 和 EDA 工具，Synopsys 将优化其方案以适配 Trainium 和 Graviton，并使用 AWS 服务。报道所称十亿美元交易额仍属估计。",
+  "investorNote": "判断：云厂商自研芯片进入设计工具与 IP 的协同阶段，合作效果仍要以新芯片设计周期及成本衡量。",
+  "displayTitle": "Amazon 与 Synopsys 扩大合作，芯片设计工具深入 Trainium 生态",
+  "narrative": "Tom’s Hardware 10 月 2 日报道，Amazon 将扩大使用 Synopsys 的芯片 IP 与 EDA 工具，Synopsys 则计划围绕 Trainium、Graviton 优化部分方案，并使用 AWS 算力、存储和 Bedrock。报道把这项多年合作与 AI 芯片设计联系起来，但**没有公布新芯片的交付时间**；文中十亿美元量级也仍是估计，不应当作已确认合同金额。对云厂商自研芯片，EDA 和 IP 的深度协同有助于缩短设计迭代，真正要观察的是后续产品节点与设计效率，而不是合作公告本身。",
+  "score": 0.73,
+  "clusterId": "2026-10-03-amazon-synopsys-ai-chip-design"
+}

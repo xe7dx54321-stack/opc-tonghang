@@ -1,0 +1,25 @@
+{
+  "title": "OpenAI’s Jalapeño ASICs are deployed alongside AMD EPYC ‘Turin’ CPUs as hosts, not Nvidia's Vera",
+  "url": "https://www.tomshardware.com/pc-components/cpus/openais-jalapeno-asics-are-deployed-alongside-amd-epyc-turin-cpus-as-hosts-hardware-vp-says-nvidias-vera-standalone-is-a-little-bit-behind-on-that-maturity-level",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-02T12:40:00.000Z",
+  "fetchedAt": "2026-10-02T23:30:12.309Z",
+  "id": "2026-10-03-openai-jalapeno-amd-turin-hosts",
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "OpenAI",
+    "AMD",
+    "Jalapeño",
+    "EPYC Turin",
+    "NVIDIA Vera"
+  ],
+  "summary": "Tom’s Hardware 采访 OpenAI 硬件负责人 Richard Ho：其 Jalapeño ASIC 机架部署选择 AMD EPYC Turin 作为主机 CPU，原因是设计速度、既有合作经验和降低执行风险；Ho 认为独立 Vera CPU 的成熟度稍逊。",
+  "investorNote": "判断：自研加速器的系统选型首先受交付风险与软件成熟度约束，CPU 与 GPU 的供应商关系未必捆绑。",
+  "displayTitle": "OpenAI 自研 Jalapeño 芯片选择 AMD Turin 作主机 CPU",
+  "narrative": "Tom’s Hardware 10 月 2 日刊出对 OpenAI 硬件负责人 Richard Ho 的采访：Jalapeño ASIC 的内部部署搭配 AMD EPYC Turin 主机 CPU。Ho 称这是为了快速完成设计并降低风险，团队与合作伙伴已有相关经验；他认为 NVIDIA Vera 作为独立 CPU 的成熟度当时稍落后。这里能确认的是**这代系统的主机选型**，不能据此推断 OpenAI 放弃 NVIDIA 算力。对自研加速器项目，系统集成与交付确定性可以压过单一芯片的纸面性能，后续值得看软件栈和整机吞吐。",
+  "score": 0.72,
+  "clusterId": "2026-10-03-openai-jalapeno-amd-turin-hosts"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-03",
+  "itemCount": 7,
+  "bySource": {
+    "nvidia-blog": 1,
+    "hugging-face-blog": 1,
+    "theverge": 1,
+    "techcrunch": 1,
+    "tomshardware": 2,
+    "ars-technica": 1
+  },
+  "byTopic": {
+    "ai": 4,
+    "semiconductor": 3
+  },
+  "byScore": {
+    "major": 6,
+    "normal": 1,
+    "filtered": 0
+  },
+  "clusterCount": 7,
+  "files": [
+    "2026-10-03-gpt-6-astra-ultrafast-blackwell.json",
+    "2026-10-03-allenai-astabrief-8b.json",
+    "2026-10-03-meta-muse-gadget-sdk.json",
+    "2026-10-03-circuit-breaker-labs-ai-safety.json",
+    "2026-10-03-amazon-synopsys-ai-chip-design.json",
+    "2026-10-03-openai-jalapeno-amd-turin-hosts.json",
+    "2026-10-03-us-nvidia-server-smuggling-indictment.json"
+  ]
+}
