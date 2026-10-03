@@ -1,0 +1,24 @@
+{
+  "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+  "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+  "source": "theverge",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-03T16:49:10.000Z",
+  "fetchedAt": "2026-10-03T23:30:03.511Z",
+  "id": "2026-10-04-capcom-re-engine-ai-workflow",
+  "displayTitle": "Capcom 谈 RE Engine 的 AI 开发工作流，暂不主张把生成资产直接放进游戏",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Capcom",
+    "RE Engine"
+  ],
+  "score": 0.52,
+  "summary": "The Verge 10月3日报道，Capcom 程序员 Satoshi Ishida 在 RE Engine 技术演讲中提出逐步把AI整合进游戏开发工作流。报道同时说明，Capcom 此前表示不会在游戏中直接使用AI生成资产。",
+  "investorNote": "当前可确认的方向是研发流程提效，而非玩家可见内容生成；需看实际工具上线和开发周期数据。",
+  "narrative": "The Verge 10月3日援引 Capcom 关于 RE Engine 的技术演讲：程序员 Satoshi Ishida 提出逐步将 AI 融入大型游戏的开发工作流，以减轻制作中耗时的重复任务。报道也指出，Capcom 此前表示不会把 AI 生成资产直接放进游戏。**眼下可确认的是开发流程方向**，不是一款已交付的 AI 游戏引擎；工具是否真正缩短项目周期，还要看落地后的制作数据。",
+  "clusterId": "capcom-re-engine-ai-workflow",
+  "crossSources": [],
+  "duplicateOf": null
+}

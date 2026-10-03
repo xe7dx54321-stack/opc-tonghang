@@ -1,0 +1,30 @@
+{
+  "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+  "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-03T16:30:01.000Z",
+  "fetchedAt": "2026-10-03T23:30:02.803Z",
+  "id": "2026-10-04-openai-david-robinson-resigns",
+  "displayTitle": "OpenAI 安全报告负责人离职，公开批评公司安全文化",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "David Robinson"
+  ],
+  "score": 0.73,
+  "summary": "David Robinson于10月3日在《大西洋月刊》发表第一人称文章，称自己已从OpenAI离职，此前负责主要产品发布时的安全报告写作。他批评依赖出错后再修补的部署文化，认为系统能力上升会扩大失败的代价。TechCrunch当日跟进报道。",
+  "investorNote": "这是前员工的明确观点，不等于独立调查结论；但模型厂商安全报告的编制与部署问责值得持续观察。",
+  "narrative": "曾负责 OpenAI 主要产品发布安全报告写作的 David Robinson 于10月3日在《大西洋月刊》撰文，称自己已离职，并批评公司依靠上线后发现问题再补救的文化。**这是前员工的第一人称评价**，不能直接写成独立审计结论。他把争议指向组织如何决定何时部署、发生问题后如何承担责任；对企业客户，安全报告的制作流程及事件披露机制因此比原则性承诺更需要核对。",
+  "clusterId": "openai-david-robinson-resignation",
+  "crossSources": [
+    {
+      "source": "the-atlantic",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+      "title": "I Quit OpenAI Because Its Culture Is Broken"
+    }
+  ],
+  "duplicateOf": null
+}

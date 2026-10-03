@@ -1,0 +1,24 @@
+{
+  "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+  "url": "https://www.qbitai.com/2026/10/501381.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-03T07:54:43.000Z",
+  "fetchedAt": "2026-10-03T23:30:04.407Z",
+  "id": "2026-10-04-deepseek-elastic-compute-hiring",
+  "displayTitle": "DeepSeek 扩招弹性计算团队，Agent 沙盒基础设施成为招聘重点",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "DeepSeek",
+    "DSec"
+  ],
+  "score": 0.67,
+  "summary": "量子位10月3日报道，DeepSeek弹性计算团队再次招聘，尤其希望吸引资深工程师；报道引用DeepSeek的DSec技术分享，介绍其用于Agent训练、评测和数据处理的沙盒基础设施。",
+  "investorNote": "招聘信号表明Agent训练的运行环境与资源调度正成为模型团队的工程投入点，尚不能据此推断新模型性能。",
+  "narrative": "量子位10月3日报道，DeepSeek弹性计算团队继续招聘，尤其面向资深工程师。报道援引团队的 DSec 技术分享：Agent 训练需要大量可持续保存状态的沙盒，环境创建、镜像复用和资源调度会影响实验吞吐。**新增的是招聘动向**，技术分享中的规模数据不能当作今天新发布的性能成绩。对基础设施团队，值得看的是这类负载能否以可控成本稳定运行。",
+  "clusterId": "deepseek-elastic-compute-hiring",
+  "crossSources": [],
+  "duplicateOf": null
+}

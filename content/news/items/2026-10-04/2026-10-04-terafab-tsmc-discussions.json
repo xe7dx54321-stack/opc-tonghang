@@ -1,0 +1,36 @@
+{
+  "title": "Elon Musk confirms discussions with TSMC about Terafab chipmaking collaboration",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-03T14:50:50.000Z",
+  "fetchedAt": "2026-10-03T23:30:11.798Z",
+  "id": "2026-10-04-terafab-tsmc-discussions",
+  "displayTitle": "马斯克确认 Terafab 与台积电洽谈，合作方案尚未敲定",
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Terafab",
+    "TSMC",
+    "Elon Musk"
+  ],
+  "score": 0.75,
+  "summary": "Culpium于10月2日披露台积电正在探讨参与Terafab德州晶圆厂的方式；马斯克于10月3日的X帖确认双方正在讨论，并称“只是讨论，但可能有结果”。台积电未公开确认投资、产能或工艺安排。",
+  "investorNote": "对潜在晶圆代工与资本开支格局，这是合作线索而非落地订单；应等待双方正式披露厂址、股权和产能承诺。",
+  "narrative": "Culpium 在本期窗口内报道台积电正探索参与 Terafab 德州晶圆厂的方式；马斯克随后在 X 上确认双方“只是讨论，但可能有结果”。Tom’s Hardware 10月3日跟进，列出由台积电运营、Terafab提供资本或采购承诺等可能结构，但**这些都不是已签协议**，台积电也未披露投资和产能计划。对于产业链，目前只能把这看成潜在合作信号，不能据此计算新增晶圆产能。",
+  "clusterId": "terafab-tsmc-discussions",
+  "crossSources": [
+    {
+      "source": "culpium",
+      "url": "https://www.culpium.com/p/exclusive-tsmc-exploring-plans-to",
+      "title": "TSMC exploring plans to work with Terafab"
+    },
+    {
+      "source": "x",
+      "url": "https://x.com/elonmusk/status/2106290920605790717",
+      "title": "Elon Musk confirms discussions"
+    }
+  ],
+  "duplicateOf": null
+}

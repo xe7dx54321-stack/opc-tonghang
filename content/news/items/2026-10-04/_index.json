@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-04",
+  "itemCount": 5,
+  "bySource": {
+    "theverge": 1,
+    "qbitai": 1,
+    "techcrunch": 1,
+    "tomshardware": 1,
+    "leiphone": 1
+  },
+  "byTopic": {
+    "ai": 4,
+    "semiconductor": 1
+  },
+  "byScore": {
+    "major": 2,
+    "normal": 3,
+    "filtered": 0
+  },
+  "clusterCount": 5,
+  "files": [
+    "2026-10-04-capcom-re-engine-ai-workflow.json",
+    "2026-10-04-deepseek-elastic-compute-hiring.json",
+    "2026-10-04-openai-david-robinson-resigns.json",
+    "2026-10-04-terafab-tsmc-discussions.json",
+    "2026-10-04-iqiyi-aigc-revenue-milestone.json"
+  ]
+}
