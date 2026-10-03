@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T23:44:55.758Z",
+  "generatedAt": "2026-10-03T22:11:09.008Z",
   "daily": [
     {
       "file": "2026-10-03.md",
@@ -68,13 +68,17 @@
   ],
   "research": [
     {
+      "file": "2026-10-04.md",
+      "date": "2026-10-04"
+    },
+    {
       "file": "2026-09-22.md",
       "date": "2026-09-22"
     }
   ],
   "totals": {
     "daily": 16,
-    "research": 1,
+    "research": 2,
     "items": 774
   }
 }
