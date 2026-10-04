@@ -1,0 +1,25 @@
+{
+  "title": "Trump unveils his new Super Intelligence Force",
+  "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-04T15:15:10.000Z",
+  "fetchedAt": "2026-10-04T23:30:05.383Z",
+  "id": "2026-10-05-us-super-intelligence-force",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Super Intelligence Force",
+    "Donald Trump",
+    "Jay Clayton"
+  ],
+  "score": 0.74,
+  "clusterId": "us-super-intelligence-force",
+  "displayTitle": "美国宣布成立“超级智能特遣队”，由 Jay Clayton 牵头",
+  "summary": "TechCrunch 10月4日报道，特朗普在 Truth Social 宣布成立 Super Intelligence Force，并称该机构由国家情报总监 Jay Clayton 及政府成员牵头，负责协调联邦政府在超级智能领域的工作。报道援引《华尔街日报》称，特遣队章程要求其就 AI 风险与机遇提交报告。",
+  "investorNote": "判断：这是联邦 AI 治理协调机制的新动作；对企业的实际约束仍取决于报告及后续正式政策。",
+  "narrative": "TechCrunch 10月4日报道，特朗普宣布成立由国家情报总监 Jay Clayton 牵头的“超级智能特遣队”，任务是协调联邦政府在这一领域的工作。报道援引《华尔街日报》称，特遣队将评估 AI 的风险与机遇。**目前确定的是组织架构和政策方向**；对模型公司或算力供应商会产生什么具体约束，要看后续报告与正式政策。",
+  "duplicateOf": null,
+  "crossSources": []
+}

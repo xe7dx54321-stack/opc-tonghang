@@ -1,0 +1,24 @@
+{
+  "title": "最火AI岗位FDE：月薪5万，都干这些…",
+  "url": "https://www.qbitai.com/2026/10/501506.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-04T06:05:35.000Z",
+  "fetchedAt": "2026-10-04T23:30:06.129Z",
+  "id": "2026-10-05-fde-enterprise-ai-deployment",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "FDE",
+    "Forward Deployed Engineer"
+  ],
+  "score": 0.52,
+  "clusterId": "fde-enterprise-ai-deployment",
+  "displayTitle": "量子位采访六位 FDE：企业 AI 落地的工作重心转向梳理业务",
+  "summary": "量子位10月4日发表对六位前线部署工程师的采访。文章描述了需求沟通与现场工程实施两类分工，并指出企业 AI 项目往往需要先整理业务对象、数据和权限，再将模型接入实际流程。这是一篇当日原创采访，而非某家公司发布新产品。",
+  "investorNote": "判断：企业 AI 的实施成本不能只看模型调用价格，还要看梳理业务流程与客户现场交付所需的人力。",
+  "narrative": "量子位 10 月 4 日采访六位前线部署工程师（FDE），发现这个岗位在不同企业里的分工并不统一：有人负责理解客户业务和设计方案，有人接数据、写代码并交付。文章里反复出现的难点是先弄清企业的对象、流程和权限，再让 AI 执行任务。**模型能力之外，现场实施仍是成本项**；评估企业 AI 公司时，客户上线需要多少人、多久，比单看演示效果更能说明交付效率。",
+  "duplicateOf": null,
+  "crossSources": []
+}

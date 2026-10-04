@@ -1,0 +1,25 @@
+{
+  "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+  "url": "https://www.qbitai.com/2026/10/501451.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-04T00:53:29.000Z",
+  "fetchedAt": "2026-10-04T23:30:06.129Z",
+  "id": "2026-10-05-meshy-3d-generation-comparison",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "GPT-6 Astra",
+    "Meshy",
+    "Blender"
+  ],
+  "score": 0.48,
+  "clusterId": "meshy-3d-generation-comparison",
+  "displayTitle": "量子位对比通用模型与 Meshy 的 3D 建模结果",
+  "summary": "量子位10月4日刊文，展示 GPT-6 Astra 配合 Blender 制作可漫游场景的例子，并以同一参考图对比通用模型与 Meshy 生成角色资产的效果。文章观察到 Meshy 样例在发丝、五官和服饰细节上更完整；这是媒体单次样例比较，不是标准化基准测试。",
+  "investorNote": "判断：通用模型擅长串起建模工作流，专业 3D 工具的价值仍需通过资产质量和可用性检验；单次样例不足以证明长期优势。",
+  "narrative": "量子位 10 月 4 日展示了 GPT-6 Astra 调用 Blender 建场景的例子，又用同一张角色参考图对比它与 Meshy 的生成结果：在这组样例里，Meshy 的发丝、面部和服饰细节更完整。这个对比提示两类产品的能力边界不同：通用模型能串起工具流程，专业模型更聚焦具体资产的质量。**这只是一次媒体样例**，不能据此推断整体胜率或商业规模；投资判断仍需看可重复的资产质量与交付使用率。",
+  "duplicateOf": null,
+  "crossSources": []
+}

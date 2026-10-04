@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-05",
+  "itemCount": 3,
+  "bySource": {
+    "techcrunch": 1,
+    "qbitai": 2
+  },
+  "byTopic": {
+    "ai": 3
+  },
+  "byScore": {
+    "major": 1,
+    "normal": 2,
+    "filtered": 0
+  },
+  "clusterCount": 3,
+  "files": [
+    "2026-10-05-us-super-intelligence-force.json",
+    "2026-10-05-fde-enterprise-ai-deployment.json",
+    "2026-10-05-meshy-3d-generation-comparison.json"
+  ]
+}
