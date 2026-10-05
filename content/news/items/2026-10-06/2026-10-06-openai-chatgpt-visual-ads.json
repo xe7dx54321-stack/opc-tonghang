@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-06-openai-chatgpt-visual-ads",
+  "title": "OpenAI launches visual ads that appear alongside image generation results",
+  "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "ChatGPT Ads"
+  ],
+  "publishedAt": "2026-10-05T15:14:24.000Z",
+  "fetchedAt": "2026-10-05T23:30:02.646Z",
+  "summary": "OpenAI 10 月 5 日宣布新的可视广告格式，计划本月晚些时候先在美国与首批广告主测试。广告在图像生成期间展示，带标识且与生成图片分开。公司同时扩大转化数据接入、归因和品牌适配评估合作。",
+  "investorNote": "判断：归因与品牌安全能力同步建设，说明 OpenAI 在让广告产品进入可评估预算的阶段。",
+  "score": 0.74,
+  "duplicateOf": null,
+  "clusterId": "openai-chatgpt-visual-ads",
+  "displayTitle": "OpenAI 将在 ChatGPT 图像生成旁测试可视广告",
+  "narrative": "OpenAI 计划本月晚些时候在美国测试 ChatGPT 图像生成旁的可视广告，承诺明确标识并与生成图片分开，同时扩充转化归因与品牌适配评估工具。广告位本身只是入口，衡量效果的基础设施才决定广告主能否持续投放；现有公告尚不能证明收入规模。",
+  "crossSources": [
+    {
+      "source": "company",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement/",
+      "title": "Building advertising for the way people use AI"
+    }
+  ]
+}

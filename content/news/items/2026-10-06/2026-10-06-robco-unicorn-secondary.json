@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-06-robco-unicorn-secondary",
+  "title": "RobCo hits $1B valuation as Sequoia, Lightspeed back Munich robotics maker",
+  "url": "https://dealroom.co/news/159891-robco-hits-1b-valuation-as-sequoia-lightspeed-back-munich-robotics-maker/",
+  "source": "web-search",
+  "sourceTier": 3,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "RobCo",
+    "Alfie",
+    "Sequoia",
+    "Lightspeed"
+  ],
+  "publishedAt": "2026-10-05T09:59:00Z",
+  "summary": "RobCo 10 月 5 日新闻稿称，一笔包括新资金与员工老股出售的交易令估值超过 10 亿美元，未披露总额。Dealroom 09:59 UTC 的当日报道核对交易；公司计划于 2027 年 3 月商业发布 Alfie 工业机器人。",
+  "investorNote": "判断：估值先于 Alfie 商业交付，需跟踪工厂部署密度和任务重复完成率。",
+  "score": 0.72,
+  "duplicateOf": null,
+  "clusterId": "robco-unicorn-secondary",
+  "fetchedAt": "2026-10-05T23:39:40.095843Z",
+  "displayTitle": "RobCo 估值超过 10 亿美元，交易包含员工老股",
+  "narrative": "RobCo 10 月 5 日披露交易使估值超过 10 亿美元，包含新资金和员工老股出售，未披露总额。下一款 Alfie 工业机器人计划在 2027 年 3 月商业发布。员工流动性与美国扩张已发生，但新产品尚待交付，估值兑现仍要看工厂里的持续部署。",
+  "crossSources": [
+    {
+      "source": "company",
+      "url": "https://www.rob.co/resources/news/press/robco-becomes-a-unicorn",
+      "title": "The next frontier for AI is physical: RobCo becomes a unicorn and offers employees liquidity"
+    }
+  ]
+}

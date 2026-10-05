@@ -1,0 +1,23 @@
+{
+  "id": "2026-10-06-etched-funding-offers",
+  "title": "Etched fields funding offers at $40B+ valuation, sources say",
+  "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Etched"
+  ],
+  "publishedAt": "2026-10-05T20:24:09.000Z",
+  "fetchedAt": "2026-10-05T23:30:02.645Z",
+  "summary": "TechCrunch 10 月 5 日援引知情人士报道，AI 芯片公司 Etched 正评估估值约 400 亿至 500 亿美元的投资意向。谈判仍处早期、条款可能变化，Etched 拒绝评论；这不是已完成的融资。",
+  "investorNote": "判断：资本对推理芯片潜力提前定价，但仍需用系统交付和客户续单检验估值。",
+  "score": 0.65,
+  "duplicateOf": null,
+  "clusterId": "etched-funding-offers",
+  "displayTitle": "Etched 据报收到 400 亿至 500 亿美元估值融资意向",
+  "narrative": "TechCrunch 援引知情人士称，Etched 正评估估值约 400 亿至 500 亿美元的融资意向；公司拒绝评论，谈判仍处早期。这个数字是报价，不是已完成的新一轮估值。推理芯片吸引资金的同时，量产、交付和客户续单仍是把意向变成业务的关键。",
+  "crossSources": []
+}

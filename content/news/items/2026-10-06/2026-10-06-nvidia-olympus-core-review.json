@@ -1,0 +1,25 @@
+{
+  "id": "2026-10-06-nvidia-olympus-core-review",
+  "title": "NVIDIA’s Olympus Core: Pushing Server Single Threaded Performance Boundaries",
+  "url": "https://chipsandcheese.com/p/nvidias-olympus-core-pushing-server",
+  "source": "chips-and-cheese",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Nvidia",
+    "Olympus",
+    "Vera"
+  ],
+  "publishedAt": "2026-10-05T22:49:26.000Z",
+  "fetchedAt": "2026-10-05T23:30:08.216Z",
+  "summary": "Chips and Cheese 10 月 5 日发表对 Nvidia Olympus CPU 核心的独立微基准及 SPEC 分析，指出单线程性能接近测试中的部分桌面 CPU，并通过第二线程提高吞吐。作者说明 Olympus 测试系统采用 64 KB 页面、其他对照系统采用 4 KB 页面，跨平台比较有局限。",
+  "investorNote": "判断：服务器 CPU 应同时考察低并发响应和吞吐，跨平台基准需连同测试环境解读。",
+  "score": 0.57,
+  "duplicateOf": null,
+  "clusterId": "nvidia-olympus-core-review",
+  "displayTitle": "Olympus 当日实测：Nvidia 服务器 CPU 逼近桌面单核表现",
+  "narrative": "Chips and Cheese 对 Nvidia Olympus CPU 核心做当日独立实测，观察到单线程表现接近部分桌面处理器，并且第二线程可提高吞吐。这是新分析，不是当日新品发布；作者也提醒 Olympus 测试机的 64 KB 页面与对照系统的 4 KB 页面不同。结果提示服务器 CPU 的低并发能力值得看，但不能直接换算成云端成本优势。",
+  "crossSources": []
+}

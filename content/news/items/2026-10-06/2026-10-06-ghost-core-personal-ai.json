@@ -1,0 +1,25 @@
+{
+  "id": "2026-10-06-ghost-core-personal-ai",
+  "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+  "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Ghost",
+    "Core",
+    "Andreessen Horowitz"
+  ],
+  "publishedAt": "2026-10-05T18:07:07.000Z",
+  "fetchedAt": "2026-10-05T23:30:02.646Z",
+  "summary": "TechCrunch 10 月 5 日采访 Ghost 创始团队，公司宣布由 Andreessen Horowitz 领投的 1100 万美元种子轮。首款 Core 售价 3499 美元，内含 Nvidia RTX Pro 4000 SFF Blackwell GPU，开放预购，计划 10 月最后一周发货。",
+  "investorNote": "判断：个人 Agent 硬件要证明本地数据与权限管理的价值，交付和用户留存比预购更关键。",
+  "score": 0.59,
+  "duplicateOf": null,
+  "clusterId": "ghost-core-personal-ai",
+  "displayTitle": "Ghost 获 1100 万美元种子轮，推出本地个人 Agent 设备",
+  "narrative": "Ghost 宣布 1100 万美元种子轮，并开放售价 3499 美元的 Core 设备预购，计划 10 月最后一周发货。公司希望在本地长期运行模型和个人 Agent；关于加密和权限保护的描述仍是创始人说法。硬件能否成为个人 Agent 入口，要看实际交付后用户是否愿意把数据和操作权限交给它。",
+  "crossSources": []
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-06",
+  "itemCount": 8,
+  "bySource": {
+    "techcrunch": 5,
+    "web-search": 2,
+    "chips-and-cheese": 1
+  },
+  "byTopic": {
+    "ai": 4,
+    "semiconductor": 2,
+    "embodied-ai": 2
+  },
+  "byScore": {
+    "major": 4,
+    "normal": 4,
+    "filtered": 0
+  },
+  "clusterCount": 8,
+  "files": [
+    "2026-10-06-reflection-beam.json",
+    "2026-10-06-openai-eu-text-watermark.json",
+    "2026-10-06-openai-chatgpt-visual-ads.json",
+    "2026-10-06-etched-funding-offers.json",
+    "2026-10-06-ghost-core-personal-ai.json",
+    "2026-10-06-robco-unicorn-secondary.json",
+    "2026-10-06-nvidia-olympus-core-review.json",
+    "2026-10-06-agility-project-meridian.json"
+  ]
+}

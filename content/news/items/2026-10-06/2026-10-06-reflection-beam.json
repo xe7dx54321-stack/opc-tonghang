@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-06-reflection-beam",
+  "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+  "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Reflection AI",
+    "Beam"
+  ],
+  "publishedAt": "2026-10-05T19:33:53.000Z",
+  "fetchedAt": "2026-10-05T23:30:02.646Z",
+  "summary": "Reflection AI 10 月 5 日宣布 Beam，是总参数 5010 亿、激活参数 230 亿的 MoE 模型，面向编程、推理和 Agent 任务。公司称权重、技术报告及 model card 将在本月晚些时候发布；TechCrunch 指出性能主张尚未独立核验。",
+  "investorNote": "判断：开放模型的实际竞争力要等权重与技术报告交付后，才能复核部署成本和性能。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "reflection-beam-launch",
+  "displayTitle": "Reflection 发布 Beam，开放权重仍待本月交付",
+  "narrative": "Reflection AI 发布面向编程、推理和 Agent 的 Beam，称其总参数 5010 亿、每次激活 230 亿。公司目前仍在最终安全测试，权重与技术报告计划在本月晚些时候发布；性能比较尚未独立核验。企业部署价值应等公开权重后再按实际成本和任务表现评估。",
+  "crossSources": [
+    {
+      "source": "company",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "title": "Introducing Beam: Reflection’s 501B open-weight model"
+    }
+  ]
+}

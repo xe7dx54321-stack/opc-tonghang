@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-06-agility-project-meridian",
+  "title": "Agility Robotics CEO Peggy Johnson Selected to Join Project Meridian",
+  "url": "https://www.prnewswire.com/news-releases/agility-robotics-ceo-peggy-johnson-selected-to-join-project-meridian-302897930.html",
+  "source": "web-search",
+  "sourceTier": 3,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Agility Robotics",
+    "Peggy Johnson",
+    "MITRE"
+  ],
+  "publishedAt": "2026-10-05T11:00:00Z",
+  "summary": "Agility 经 PRNewswire 于 10 月 5 日 07:00 ET 宣布，CEO Peggy Johnson 将以个人顾问身份加入 MITRE 牵头的 Project Meridian，为长期防务能力研究提供商用人形机器人经验；该参与独立于 Agility 商业运营，没有披露采购合同。",
+  "investorNote": "判断：这提供与公共部门需求对话的入口，但还不能算机器人订单或部署。",
+  "score": 0.44,
+  "duplicateOf": null,
+  "clusterId": "agility-project-meridian",
+  "fetchedAt": "2026-10-05T23:39:40.096043Z",
+  "displayTitle": "Agility CEO 以个人顾问身份加入 MITRE 防务研究项目",
+  "narrative": "Agility 宣布 CEO Peggy Johnson 将以个人顾问身份参与 MITRE 牵头的 Project Meridian，讨论长期防务能力与商用人形机器人经验。公司明确称此事独立于商业运营；公告没有采购或部署信息，因此只能视作需求交流的早期信号。",
+  "crossSources": [
+    {
+      "source": "company",
+      "url": "https://www.agilityrobotics.com/content/agility-robotics-ceo-peggy-johnson-selected-to-join-project-meridian",
+      "title": "Agility Robotics CEO Peggy Johnson Selected to Join Project Meridian"
+    }
+  ]
+}
