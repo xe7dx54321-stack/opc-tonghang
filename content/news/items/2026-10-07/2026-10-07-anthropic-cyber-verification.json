@@ -1,0 +1,31 @@
+{
+  "title": "Anthropic Expands Cyberdefenders’ Access to Top Models",
+  "url": "https://www.theinformation.com/briefings/anthropic-expands-cyberdefenders-access-top-models",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-06T19:06:20.000Z",
+  "summary": "Anthropic 10 月 6 日宣布扩展 Cyber Verification Program，向符合资格的安全团队提供分级访问及较少拦截的模型能力。The Information 于 19:06 UTC 报道；公司披露的漏洞发现数量为自述，不能外推为客户防护效果。",
+  "id": "2026-10-07-anthropic-cyber-verification",
+  "entities": [
+    "Anthropic",
+    "Claude",
+    "Cyber Verification Program"
+  ],
+  "score": 0.73,
+  "clusterId": "anthropic-cyber-verification-expansion",
+  "displayTitle": "Anthropic 扩大安全团队使用高能力模型的通道",
+  "investorNote": "判断：高风险模型能力正通过资格审核和访问分层进入安全工作流，实际防护价值仍要看可复现案例。",
+  "narrative": "Anthropic 扩展 Cyber Verification Program，把防御与授权红队工作分为不同访问层级，让经审核的安全团队在较少拦截下使用 Claude。公司称既有项目发现了大量漏洞，但这些是其与合作方披露的结果，不能直接换算为普遍防护收益。这次变化的重点是**把模型能力与使用资格绑定**，企业采购时需看审核、日志和责任边界。",
+  "crossSources": [
+    {
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "title": "Expanding the Cyber Verification Program"
+    }
+  ],
+  "fetchedAt": "2026-10-06T23:37:02.321520Z",
+  "duplicateOf": null
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Introducing Mistral Large 4: Le Chonk",
+  "url": "https://mistral.ai/news/mistral-large-4/",
+  "source": "web-search",
+  "sourceTier": 3,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-06T12:00:27Z",
+  "summary": "Mistral 10 月 6 日 12:00 UTC 发布 Large 4 公开预览，称其为总参数约 1 万亿、激活参数 490 亿的多模态 MoE 模型。API 已开放，权重计划 10 月底发布；性能比较仍是公司自报。",
+  "fetchedAt": "2026-10-06T23:37:02.318169Z",
+  "id": "2026-10-07-mistral-large-4",
+  "entities": [
+    "Mistral AI",
+    "Mistral Large 4"
+  ],
+  "score": 0.88,
+  "clusterId": "mistral-large-4-preview",
+  "displayTitle": "Mistral Large 4 开放预览，权重计划月底发布",
+  "investorNote": "判断：目前能检验的是 API 表现，开放部署成本和可复现性能须等权重发布后再评估。",
+  "narrative": "Mistral 发布 Large 4 公开预览版，称模型总参数约 1 万亿、每次激活 490 亿；API 已开放，权重计划 10 月底交付。公司宣称其在编程和多模态任务上有竞争力，但基准成绩尚属自报。对考虑私有部署的买家，今天可试接口，许可条件、实际推理成本和可复现性能仍需等权重落地。",
+  "crossSources": [
+    {
+      "source": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals"
+    }
+  ],
+  "duplicateOf": null
+}

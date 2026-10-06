@@ -1,0 +1,31 @@
+{
+  "title": "Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO",
+  "url": "https://www.therobotreport.com/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-new-ceo/",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "publishedAt": "2026-10-06T21:00:30.000Z",
+  "summary": "Boston Dynamics 10 月 6 日宣布 Rohit Prasad 出任 CEO，10 月 7 日生效。公司原文说明其曾负责 Alexa 与 Amazon Nova；The Robot Report 原报道于 21:00 UTC 发出。此举是管理层调整，不是新机器人交付。",
+  "id": "2026-10-07-boston-dynamics-rohit-prasad",
+  "entities": [
+    "Boston Dynamics",
+    "Rohit Prasad",
+    "Atlas"
+  ],
+  "score": 0.71,
+  "clusterId": "boston-dynamics-ceo-prasad",
+  "displayTitle": "Boston Dynamics 任命前 Amazon AI 负责人为 CEO",
+  "investorNote": "判断：任命显示公司要把基础模型经验带入机器人商业化，但效果要用 Atlas 等产品的客户部署验证。",
+  "narrative": "Boston Dynamics 宣布由曾负责 Alexa 和 Amazon Nova 的 Rohit Prasad 接任 CEO，10 月 7 日生效。公司把任命与 Physical AI 商业化联系起来，但人事变化本身不代表 Atlas 已有新订单或自主能力突破。后续应看模型团队与机器人团队能否把现场部署速度和任务可靠性真正拉起来。",
+  "crossSources": [
+    {
+      "source": "Boston Dynamics",
+      "url": "https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/",
+      "title": "Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer"
+    }
+  ],
+  "fetchedAt": "2026-10-06T23:37:02.322578Z",
+  "duplicateOf": null
+}

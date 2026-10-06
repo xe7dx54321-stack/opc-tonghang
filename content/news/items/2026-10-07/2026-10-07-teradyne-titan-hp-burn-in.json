@@ -1,0 +1,24 @@
+{
+  "title": "Teradyne Introduces Titan HP Platform with Burn-In Capabilities for Advanced AI Data Center Devices",
+  "url": "https://investors.teradyne.com/news-events/press-releases/detail/452/teradyne-introduces-titan-hp-platform-with-burn-in-capabilities-for-advanced-ai-data-center-devices",
+  "source": "web-search",
+  "sourceTier": 3,
+  "topic": [
+    "semiconductor"
+  ],
+  "publishedAt": "2026-10-06T13:00:00Z",
+  "summary": "Teradyne 投资者关系页记录 10 月 6 日 09:00 EDT 发布：Titan HP 平台新增在真实工作负载下控制单颗芯片结温的 burn-in 功能，可与系统级测试共用平台。公司称新能力已在生产部署。",
+  "fetchedAt": "2026-10-06T23:37:02.318346Z",
+  "id": "2026-10-07-teradyne-titan-hp-burn-in",
+  "entities": [
+    "Teradyne",
+    "Titan HP"
+  ],
+  "score": 0.72,
+  "clusterId": "teradyne-titan-hp-burn-in",
+  "displayTitle": "Teradyne 为 Titan HP 加入 AI 芯片老化测试能力",
+  "investorNote": "判断：高功率 AI 芯片的可靠性测试正从独立烘箱向可记录单颗器件负载与温度的系统级测试靠拢。",
+  "narrative": "Teradyne 在既有 Titan HP 平台上加入 burn-in 能力：芯片运行工作负载时，系统按单颗器件控制结温并记录压力测试历史。公司称功能已投入生产，意在减少独立烘箱与系统级测试之间的设备和搬运环节。**新的是老化测试能力，并非 Titan HP 首次发布**；能否降低客户成本，仍需看实际产线良率与吞吐数据。",
+  "crossSources": [],
+  "duplicateOf": null
+}

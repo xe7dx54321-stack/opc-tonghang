@@ -1,0 +1,35 @@
+{
+  "title": "OpenAI drops another batch of mathematical breakthroughs",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-06T23:26:38.000Z",
+  "summary": "OpenAI 10 月 6 日官方文章称，将内部模型生成的数学结果放在 GitHub，并公开部分 Lean 形式化证明、求解过程摘要与算力统计。The Verge 于 23:26 UTC 报道这次发布；数学结论仍须学界逐项审阅。",
+  "id": "2026-10-07-openai-math-results",
+  "entities": [
+    "OpenAI",
+    "Lean"
+  ],
+  "score": 0.71,
+  "clusterId": "openai-math-results-release",
+  "displayTitle": "OpenAI 公开模型生成的数学成果及部分 Lean 证明",
+  "investorNote": "判断：可检查的证明材料比单纯宣称解决难题更有价值，但发布数量不能直接等同已获独立确认的发现。",
+  "narrative": "OpenAI 将一批内部模型生成的数学结果放入 GitHub，附上部分 Lean 形式化证明、修订与引用规则，以及求解过程和算力信息。公开材料给同行检查提供了入口，**并不等于所有结果已获独立验证**。真正值得跟踪的是证明能否被复核、错误如何修订，而非一次公布的稿件数量。",
+  "crossSources": [
+    {
+      "source": "OpenAI",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "title": "Sharing AI progress in mathematics"
+    },
+    {
+      "source": "GitHub",
+      "url": "https://github.com/openai/math",
+      "title": "OpenAI mathematics repository"
+    }
+  ],
+  "fetchedAt": "2026-10-06T23:37:02.320975Z",
+  "duplicateOf": null
+}

@@ -1,0 +1,30 @@
+{
+  "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+  "source": "web-search",
+  "sourceTier": 3,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-06T16:00:00Z",
+  "summary": "Google 10 月 6 日 16:00 UTC 发布 7.4 亿参数的 EmbeddingGemma 2。官方称其在统一向量空间处理文本、代码、图片、音频和视频，基于 Gemma 4，采用 Apache 2.0 许可，定位端侧检索。",
+  "fetchedAt": "2026-10-06T23:37:02.318329Z",
+  "id": "2026-10-07-embeddinggemma-2",
+  "entities": [
+    "Google DeepMind",
+    "EmbeddingGemma 2"
+  ],
+  "score": 0.74,
+  "clusterId": "embeddinggemma-2-release",
+  "displayTitle": "Google 发布 EmbeddingGemma 2，把多模态检索压到端侧",
+  "investorNote": "判断：端侧多模态检索的竞争焦点会落在真实设备延迟和跨模态召回，而非单项模型榜单。",
+  "narrative": "Google 将 EmbeddingGemma 从文本扩展到文本、代码、图片、音频和视频的统一嵌入模型。EmbeddingGemma 2 有 7.4 亿参数，采用 Apache 2.0 许可，面向端侧检索。它降低了在设备上建跨模态搜索的模型门槛；是否真正替代云端检索，还要看手机和边缘硬件上的延迟、内存占用与召回质量。",
+  "crossSources": [
+    {
+      "source": "deepmind",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model"
+    }
+  ],
+  "duplicateOf": null
+}

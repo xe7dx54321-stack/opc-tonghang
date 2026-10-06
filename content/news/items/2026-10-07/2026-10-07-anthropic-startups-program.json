@@ -1,0 +1,24 @@
+{
+  "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+  "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-06T16:00:00.000Z",
+  "summary": "TechCrunch 于 10 月 6 日 16:00 UTC 报道 Anthropic 扩大 Claude for Startups：合资格公司可获一年的 Claude Team、最多 5 个高级席位及 1000 美元 API 额度，另可接入 Claude Marketplace。",
+  "id": "2026-10-07-anthropic-startups-program",
+  "entities": [
+    "Anthropic",
+    "Claude Team"
+  ],
+  "score": 0.52,
+  "clusterId": "anthropic-startups-program-expansion",
+  "displayTitle": "Anthropic 扩大初创公司计划，提供团队席位和 API 额度",
+  "investorNote": "判断：补贴将模型使用和应用分发一起推给初创团队，留存与付费转换比领取额度更能说明渠道效果。",
+  "narrative": "Anthropic 扩大 Claude for Startups，向合资格团队提供一年的 Claude Team、最多五个高级席位和 1000 美元 API 额度，并开放 Marketplace 入口。补贴既降低试用门槛，也把应用分发留在 Claude 生态内。它是否形成稳定开发者渠道，要看优惠结束后的付费留存，而不是申请数量。",
+  "crossSources": [],
+  "fetchedAt": "2026-10-06T23:37:02.322048Z",
+  "duplicateOf": null
+}

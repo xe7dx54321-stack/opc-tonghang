@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-07",
+  "itemCount": 9,
+  "bySource": {
+    "web-search": 4,
+    "theverge": 1,
+    "theinformation": 1,
+    "techcrunch": 1,
+    "robot-report": 2
+  },
+  "byTopic": {
+    "ai": 6,
+    "semiconductor": 1,
+    "embodied-ai": 3
+  },
+  "byScore": {
+    "major": 6,
+    "normal": 3,
+    "filtered": 0
+  },
+  "clusterCount": 9,
+  "files": [
+    "2026-10-07-mistral-large-4.json",
+    "2026-10-07-embeddinggemma-2.json",
+    "2026-10-07-openai-math-results.json",
+    "2026-10-07-anthropic-cyber-verification.json",
+    "2026-10-07-anthropic-startups-program.json",
+    "2026-10-07-teradyne-titan-hp-burn-in.json",
+    "2026-10-07-boston-dynamics-rohit-prasad.json",
+    "2026-10-07-twelvelabs-pegasus-1-6.json",
+    "2026-10-07-minerva-humanoids-seed.json"
+  ]
+}

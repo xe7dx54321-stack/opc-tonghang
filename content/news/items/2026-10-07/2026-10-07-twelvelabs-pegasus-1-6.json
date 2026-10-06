@@ -1,0 +1,31 @@
+{
+  "title": "Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs",
+  "url": "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "publishedAt": "2026-10-06T20:07:48.000Z",
+  "summary": "TwelveLabs 10 月 6 日发布 Pegasus 1.6，加入第一视角视频理解、静态图片分析及更稳定的实体识别。The Robot Report 于 20:07 UTC 报道；官方强调可用于机器人数据标注，但未宣称模型能直接控制机器人。",
+  "id": "2026-10-07-twelvelabs-pegasus-1-6",
+  "entities": [
+    "TwelveLabs",
+    "Pegasus 1.6"
+  ],
+  "score": 0.61,
+  "clusterId": "twelvelabs-pegasus-1-6",
+  "displayTitle": "TwelveLabs 升级 Pegasus，支持机器人第一视角视频理解",
+  "investorNote": "判断：对具身团队的直接价值在训练数据检索与标注，离端到端动作策略仍有距离。",
+  "narrative": "TwelveLabs 的 Pegasus 1.6 新增第一视角视频理解和静态图片分析，可把机器人机载或遥操作录像转成可搜索的描述与事件标签。公司面向机器人团队强调数据整理用途，**这不是直接输出动作的 VLA 模型**。对具身研发而言，近期价值在降低录像筛选与标注成本，仍需用具体数据集验证错误率。",
+  "crossSources": [
+    {
+      "source": "TwelveLabs",
+      "url": "https://www.twelvelabs.io/blog/what%E2%80%99s-new-pegasus-1.6",
+      "title": "What’s New: Pegasus 1.6"
+    }
+  ],
+  "fetchedAt": "2026-10-06T23:37:02.323095Z",
+  "duplicateOf": null
+}

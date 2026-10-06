@@ -1,0 +1,25 @@
+{
+  "title": "Minerva Humanoids Emerges From Stealth With $10M Pre-Seed Round",
+  "url": "https://www.globenewswire.com/news-release/2026/10/06/3375277/0/en/minerva-humanoids-emerges-from-stealth-with-10m-pre-seed-round-led-by-general-catalyst-to-build-humanoid-robots-for-the-world-s-most-dangerous-jobs.html",
+  "source": "web-search",
+  "sourceTier": 3,
+  "topic": [
+    "embodied-ai"
+  ],
+  "publishedAt": "2026-10-06T10:10:26Z",
+  "summary": "Minerva 10 月 6 日 10:10 UTC 新闻稿称完成约 1000 万美元 pre-seed，由 General Catalyst 领投；半自主机器人 Roger 面向能源与公共安全危险场景，计划于秋季启动首批付费试点。当前证据为公司自述。",
+  "fetchedAt": "2026-10-06T23:37:02.318361Z",
+  "id": "2026-10-07-minerva-humanoids-seed",
+  "entities": [
+    "Minerva Humanoids",
+    "Roger",
+    "General Catalyst"
+  ],
+  "score": 0.59,
+  "clusterId": "minerva-humanoids-preseed",
+  "displayTitle": "Minerva 获约千万美元融资，试点危险作业机器人",
+  "investorNote": "判断：付费试点比概念展示更关键，但仍需核实作业安全、远程控制效率与合同续签。",
+  "narrative": "Minerva 披露约 1000 万美元 pre-seed 融资，由 General Catalyst 领投，并展示面向危险作业的半自主机器人 Roger。公司称秋季启动首批付费试点，重点是让专家远程操作，不是宣称机器人已能独立完成复杂任务。融资验证了早期资本兴趣；商业价值仍要看现场安全记录、人工介入比例和试点转正式订单的情况。",
+  "crossSources": [],
+  "duplicateOf": null
+}
