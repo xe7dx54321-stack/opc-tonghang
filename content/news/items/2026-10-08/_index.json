@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-08",
+  "itemCount": 9,
+  "bySource": {
+    "hnrss-frontpage": 2,
+    "nvidia-blog": 1,
+    "theinformation": 2,
+    "techcrunch": 1,
+    "hugging-face-blog": 1,
+    "tomshardware": 1,
+    "waymo-blog": 1
+  },
+  "byTopic": {
+    "ai": 6,
+    "semiconductor": 2,
+    "embodied-ai": 3
+  },
+  "byScore": {
+    "major": 6,
+    "normal": 3,
+    "filtered": 0
+  },
+  "clusterCount": 9,
+  "files": [
+    "2026-10-08-gpt-6-intelligent-ui.json",
+    "2026-10-08-claude-haiku-5-5.json",
+    "2026-10-08-nvidia-rtx-spark-windows.json",
+    "2026-10-08-us-outbound-investment-penalty.json",
+    "2026-10-08-nous-hermes-enterprise-funding.json",
+    "2026-10-08-liquid-open-d1-decision-models.json",
+    "2026-10-08-intelligent-machines-industrial-robots.json",
+    "2026-10-08-intel-terafab-tsmc-clarification.json",
+    "2026-10-08-waymo-incident-exercise-framework.json"
+  ]
+}

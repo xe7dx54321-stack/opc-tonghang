@@ -1,0 +1,23 @@
+{
+  "url": "https://waymo.com/blog/2026/10/incident-management-exercises",
+  "source": "waymo-blog",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-07T00:00:00.000Z",
+  "fetchedAt": "2026-10-07T23:30:16.288Z",
+  "id": "2026-10-08-waymo-incident-exercise-framework",
+  "title": "Preparing for the Unexpected: A New Framework for AV Incident Management Exercises",
+  "displayTitle": "Waymo 发布自动驾驶车队突发事件演练框架",
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Waymo",
+    "AV incident management"
+  ],
+  "summary": "Waymo 10 月 7 日发布自动驾驶车辆突发事件管理演练框架，借鉴美国联邦应急管理实践，覆盖桌面推演、功能演练和全流程演练，并提出车企、运营方、急救人员与公共安全机构协作的评估方式。该文件属于流程框架，不是新城市上线或安全事故率实测。",
+  "investorNote": "判断：无人驾驶规模化需要把跨机构应急响应做成可演练能力，后续应看实际演练记录和监管采用情况。",
+  "narrative": "Waymo 10 月 7 日发布自动驾驶车队突发事件演练框架，把自然灾害和复杂交通事件下的响应拆成桌面推演、功能演练及全流程演练，并强调运营方、急救人员和公共安全机构协作。这是安全运营方法的公开化，没有给出新的事故率结果；商业化车队扩大后，跨机构响应能否被反复验证会更重要。",
+  "score": 0.63,
+  "duplicateOf": null,
+  "clusterId": "waymo-incident-exercise-framework"
+}

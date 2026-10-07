@@ -1,0 +1,33 @@
+{
+  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-07T18:45:28.000Z",
+  "fetchedAt": "2026-10-07T23:30:12.914Z",
+  "id": "2026-10-08-nvidia-rtx-spark-windows",
+  "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+  "displayTitle": "英伟达与微软把 RTX Spark 和受控 Agent 带到 Windows PC",
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Microsoft",
+    "RTX Spark",
+    "Surface Laptop Ultra"
+  ],
+  "summary": "英伟达 10 月 7 日发布的活动报道确认 RTX Spark 芯片进入 Surface Laptop Ultra 等 Windows 笔记本和小型桌面机。官方称最高支持 128GB 统一内存、约 1 PFLOP FP4 AI 算力，笔记本当日开放预订、10 月 16 日上市；微软同时宣布 Microsoft Execution Containers 正式可用，用于管理后台 Agent 运行。",
+  "investorNote": "判断：大统一内存和 Windows 原生隔离执行环境一起降低本地大模型部署门槛；性能与商业需求仍要看独立测试和实际软件适配。",
+  "narrative": "英伟达与微软 10 月 7 日展示 RTX Spark Windows 设备，Surface Laptop Ultra 最高配置 128GB 统一内存，英伟达标称约 1 PFLOP FP4 AI 算力。笔记本开始预订，计划 10 月 16 日上市；微软的 Microsoft Execution Containers 同日宣布正式可用，用于在操作系统内管理 Agent。硬件容量与受控执行环境同时落地，让本地模型从演示走向可部署产品，但推理速度和企业采购价值仍需实测。",
+  "score": 0.86,
+  "duplicateOf": null,
+  "clusterId": "nvidia-rtx-spark-windows",
+  "crossSources": [
+    {
+      "source": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "title": "Microsoft releases new Nvidia-chip AI PCs"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-07T20:48:45.000Z",
+  "fetchedAt": "2026-10-07T23:30:06.928Z",
+  "id": "2026-10-08-nous-hermes-enterprise-funding",
+  "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+  "displayTitle": "Nous Research 融资 9000 万美元，推出企业版 Hermes Agent",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Nous Research",
+    "Hermes Agent",
+    "Hermes for Businesses"
+  ],
+  "summary": "TechCrunch 10 月 7 日报道，Nous Research 完成 9000 万美元 B 轮融资，估值 15 亿美元，并推出面向企业的 Hermes for Businesses，以定制 Agent 执行多步工作流。报道列出 Robot Ventures 领投及 Nvidia 等参投；克隆量和 token 用量属于公司估计，不能视为独立使用数据。",
+  "investorNote": "判断：融资支持开源 Agent 向企业部署销售转型，但估值和下载量并不等于企业端留存，需要跟踪实际付费客户。",
+  "narrative": "TechCrunch 10 月 7 日报道，Nous Research 完成 9000 万美元 B 轮融资，估值 15 亿美元，同时推出 Hermes for Businesses，让企业部署定制 Agent 处理多步流程。开源社区的传播已帮它建立开发者入口，但报道中的克隆量和 token 占比来自公司估计。投资上更关键的验证点是企业是否持续付费，以及定制部署能否稳定交付。",
+  "score": 0.81,
+  "duplicateOf": null,
+  "clusterId": "nous-hermes-enterprise-funding"
+}

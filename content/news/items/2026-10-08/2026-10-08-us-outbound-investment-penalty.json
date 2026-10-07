@@ -1,0 +1,33 @@
+{
+  "url": "https://www.theinformation.com/briefings/u-s-treasury-issues-first-fine-outbound-investments-chinas-tech-sector",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-07T20:42:39.000Z",
+  "fetchedAt": "2026-10-07T23:30:07.935Z",
+  "id": "2026-10-08-us-outbound-investment-penalty",
+  "title": "U.S. Treasury Issues First Fine Over Outbound Investments in China’s Tech Sector",
+  "displayTitle": "美国财政部公开首笔对外投资处罚，涉及中国具身智能企业",
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "entities": [
+    "U.S. Treasury",
+    "Amidi",
+    "Noematrix",
+    "Plug and Play"
+  ],
+  "summary": "美国财政部 10 月 7 日公告称，已于 2026 年 7 月对 Amidi, LLC 作出 20 万美元民事处罚，原因是其受控中国基金在 2025 年 4 月投资约 92,478 美元于上海琼彻智能科技（Noematrix）后未按规定申报。Amidi 是 Plug and Play Tech Center 的母公司；财政部称被投企业涉及 AI、机器人和具身智能。",
+  "investorNote": "判断：处罚金额不是重点；这是该对外投资规则首次执法的公开案例，跨境基金需要检查受控实体交易的申报责任。",
+  "narrative": "美国财政部 10 月 7 日披露：它在今年 7 月对 Amidi 作出 20 万美元处罚，原因是其受控中国基金投资上海具身智能企业 Noematrix 后未按规则申报。投资约 9.25 万美元，Amidi 同时是 Plug and Play Tech Center 的母公司。处罚并非今天才作出，今天的新事实是官方公开了首个执法案例；跨境基金由此有了可对照的受控实体申报样本。",
+  "score": 0.84,
+  "duplicateOf": null,
+  "clusterId": "us-outbound-investment-penalty",
+  "crossSources": [
+    {
+      "source": "U.S. Treasury",
+      "url": "https://home.treasury.gov/news/press-releases/sb0652/",
+      "title": "Treasury Announces Enforcement Penalty for Violation of Outbound Program"
+    }
+  ]
+}

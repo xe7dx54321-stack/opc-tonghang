@@ -1,0 +1,25 @@
+{
+  "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "source": "hugging-face-blog",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-07T16:54:33.000Z",
+  "fetchedAt": "2026-10-07T23:30:11.230Z",
+  "id": "2026-10-08-liquid-open-d1-decision-models",
+  "title": "Multimodal open d1 decision models for the edge",
+  "displayTitle": "Liquid AI 开放 d1 决策模型，主攻端侧高频判断",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Liquid AI",
+    "d1-3B",
+    "d1-omni-600M",
+    "NVIDIA"
+  ],
+  "summary": "Liquid AI 10 月 7 日在 Hugging Face 发布开放权重 d1-3B 和实验性的 d1-omni-600M。两者以单次前向传播输出结构化决策，而非生成文本 token；官方报告 d1-3B 在测试设备单问题推理低于 50 毫秒，但未报告 d1-omni-600M 速度，也未给公开视觉或音频基准。",
+  "investorNote": "判断：这类专用分类模型有机会替代部分高频生成式调用，但公开指标仍不足以证明跨模态业务场景的准确率。",
+  "narrative": "Liquid AI 10 月 7 日开放 d1-3B 与实验性的 d1-omni-600M：模型不生成长文本，而以一次前向传播给出结构化判断，面向端侧分类和路由。官方测得 d1-3B 在所列设备单问题推理低于 50 毫秒；d1-omni-600M 还没有速度数据，视觉与音频也没有公开基准。它瞄准的是高频小决策的成本与延迟，业务准确率仍待实测。",
+  "score": 0.76,
+  "duplicateOf": null,
+  "clusterId": "liquid-open-d1-decision-models"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/musk-rejects-rumors-of-tsmc-takeover-of-terafab-intel-reaffirms-14a-node-deal-as-musk-floats-cleanroom-sublease",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-07T15:20:00.000Z",
+  "fetchedAt": "2026-10-07T23:30:15.858Z",
+  "id": "2026-10-08-intel-terafab-tsmc-clarification",
+  "title": "Musk rejects rumors of TSMC takeover of Terafab — Intel reaffirms 14A node deal",
+  "displayTitle": "Intel 重申参与 Terafab，台积电分租仍只是设想",
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Intel",
+    "Terafab",
+    "TSMC",
+    "Elon Musk"
+  ],
+  "summary": "Tom’s Hardware 10 月 7 日报道称，Intel CEO 陈立武当日对记者确认 Intel 将继续参与 Terafab；马斯克在 X 发文表示 Terafab 将自行建设和运营晶圆厂，台积电分租部分空间只是他提出的可能安排。报道没有确认台积电达成协议，也没有披露 Intel 14A 具体技术授权条件。",
+  "investorNote": "判断：这次是对合作边界的澄清，不应把台积电参与或产能落地当成已签约事实。",
+  "narrative": "Tom’s Hardware 10 月 7 日报道称，Intel CEO 陈立武重申公司会继续参与 Terafab；马斯克同时表示晶圆厂将由 Terafab 自行建设和运营，提到台积电分租空间也只是设想。现有信息没有台积电签约、Intel 14A 授权条款或投产计划的确认，因此这条消息更新的是合作边界，尚不是新增产能。",
+  "score": 0.65,
+  "duplicateOf": null,
+  "clusterId": "intel-terafab-tsmc-clarification"
+}

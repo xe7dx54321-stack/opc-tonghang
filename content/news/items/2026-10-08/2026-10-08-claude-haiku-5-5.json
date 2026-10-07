@@ -1,0 +1,31 @@
+{
+  "url": "https://www.anthropic.com/claude-haiku-5-5",
+  "source": "hnrss-frontpage",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-07T18:01:32.000Z",
+  "fetchedAt": "2026-10-07T23:30:14.958Z",
+  "id": "2026-10-08-claude-haiku-5-5",
+  "title": "Claude Haiku 5.5",
+  "displayTitle": "Anthropic 发布 Haiku 5.5，短任务成本再降一档",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude Haiku 5.5",
+    "Claude Sonnet 5.5"
+  ],
+  "summary": "Anthropic 10 月 7 日发布 Claude Haiku 5.5，面向摘要、分类、浏览器使用和编程子代理等高频任务。官方价格表显示不超过 10 万 token 的输入、输出分别为每百万 token 0.10、0.50 美元；超过 10 万 token 则分别为 0.50、2.50 美元。公司同时将 Sonnet 5.5 缓存读取价格减半。",
+  "investorNote": "判断：Haiku 降价和 Sonnet 缓存降价共同压低 agent 工作流边际成本，但官方 benchmark 和客户样本不能替代具体任务的质量评估。",
+  "narrative": "Anthropic 10 月 7 日发布 Claude Haiku 5.5，面向摘要、分类和编程子代理等高频调用。官方列出的不超过 10 万 token 提示词价格为每百万输入 0.10 美元、输出 0.50 美元，长提示词另有更高档位；Sonnet 5.5 的缓存读取价格也减半。对运行大量短任务的 agent 产品，成本结构比单次峰值分数更重要，但模型质量仍需在真实工作流里核验。",
+  "score": 0.91,
+  "duplicateOf": null,
+  "clusterId": "claude-haiku-5-5",
+  "crossSources": [
+    {
+      "source": "simon-willison",
+      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+      "title": "Claude Haiku 5.5"
+    }
+  ]
+}

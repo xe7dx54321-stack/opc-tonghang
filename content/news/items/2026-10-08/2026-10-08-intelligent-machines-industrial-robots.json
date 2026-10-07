@@ -1,0 +1,24 @@
+{
+  "url": "https://www.theinformation.com/articles/former-tesla-optimus-lead-launching-industrial-robot-startup",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-07T14:01:29.000Z",
+  "fetchedAt": "2026-10-07T23:30:07.935Z",
+  "id": "2026-10-08-intelligent-machines-industrial-robots",
+  "title": "Former Tesla Optimus Lead is Launching an Industrial Robot Startup",
+  "displayTitle": "前 Tesla Optimus AI 负责人创办非人形工业机器人公司",
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Ashish Kumar",
+    "Tesla Optimus",
+    "Intelligent Machines"
+  ],
+  "summary": "The Information 10 月 7 日独家报道，前 Tesla Optimus AI 负责人 Ashish Kumar 共同创办旧金山公司 Intelligent Machines，研发面向制造与航空航天熟练工任务的非人形机器人。报道援引两名直接知情人士，公开摘录显示团队招聘了其他前 Optimus 成员；融资细节在公开内容中无法完整核实。",
+  "investorNote": "判断：从人形团队转向具体工业技能场景值得跟踪，但目前没有可核实的订单、产品性能或融资规模。",
+  "narrative": "据 The Information 10 月 7 日援引两名直接知情人士报道，前 Tesla Optimus AI 负责人 Ashish Kumar 共同创办 Intelligent Machines，方向是制造和航空航天场景的非人形机器人，并招募了部分前 Optimus 成员。报道能确认的是团队和目标场景，尚无可核实的订单或性能数据；值得跟的是它如何把模型能力变成具体工种的稳定作业。",
+  "score": 0.66,
+  "duplicateOf": null,
+  "clusterId": "intelligent-machines-industrial-robots"
+}

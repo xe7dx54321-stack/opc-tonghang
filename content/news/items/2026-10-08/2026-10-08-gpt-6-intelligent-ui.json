@@ -1,0 +1,32 @@
+{
+  "url": "https://openai.com/index/gpt-6-for-everyone/",
+  "source": "hnrss-frontpage",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-07T18:00:58.000Z",
+  "fetchedAt": "2026-10-07T23:30:14.958Z",
+  "id": "2026-10-08-gpt-6-intelligent-ui",
+  "title": "GPT‑6 and Intelligent UI for everyone",
+  "displayTitle": "OpenAI 扩推 GPT‑6，让 ChatGPT 即时生成交互界面",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "GPT-6",
+    "ChatGPT",
+    "Intelligent UI"
+  ],
+  "summary": "OpenAI 于 10 月 7 日宣布把 GPT‑6 扩展到 ChatGPT 更多用户，并发布 Intelligent UI。模型可在回复中组合图表、表单、按钮和其他交互组件；Plus、Pro、Business、Enterprise 当日开始推送，Free 和 Go 次日开始。此前首批 GPT‑6 模型已于上月面向付费用户推出。",
+  "investorNote": "判断：新变化主要是答案界面与分发范围，不能把它写成 GPT‑6 模型首次发布；开发者应关注交互体验能否带来更高任务完成率。",
+  "narrative": "OpenAI 10 月 7 日把 GPT‑6 进一步推向 ChatGPT 用户，同时推出 Intelligent UI：回答可逐步生成图表、表单、按钮等可操作界面。付费层当天开始推送，Free 和 Go 次日跟进。GPT‑6 的首批模型上月已推出，今天的关键变化是分发扩大和对话界面变成可交互的任务工具；实际收益还要看用户能否更快完成具体任务。",
+  "score": 0.94,
+  "duplicateOf": null,
+  "clusterId": "gpt-6-intelligent-ui",
+  "crossSources": [
+    {
+      "source": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "title": "ChatGPT is getting a lot more visual"
+    }
+  ]
+}
