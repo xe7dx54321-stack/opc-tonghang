@@ -9,9 +9,10 @@ import {
   statSync, copyFileSync, renameSync, rmSync,
 } from 'node:fs'
 import { join, dirname } from 'node:path'
-import { fileURLToPath } from 'node:url'
+import { fileURLToPath, pathToFileURL } from 'node:url'
 
-const webDir = join(dirname(fileURLToPath(import.meta.url)), '..')
+const scriptRoot = join(dirname(fileURLToPath(import.meta.url)), '..')
+const webDir = existsSync(join(scriptRoot, 'HARNESS.md')) ? join(scriptRoot, '../web') : scriptRoot
 const source = process.env.NEWS_HARNESS_CONTENT || join(webDir, '..', 'news-harness', 'content')
 const target = process.env.NEWS_WEB_CONTENT || join(webDir, 'content', 'news')
 const dryRun = process.argv.includes('--dry-run')
@@ -100,6 +101,17 @@ for (const name of dailyFiles) {
   if (!content.trim()) fail(`Empty digest: ${name}`)
   if (requiredDays.has(name.slice(0, 10))) storyCounts.set(name.slice(0, 10), validateDailyDigest(name.slice(0, 10), content))
 }
+// New editions carry a self-contained proof manifest. Legacy published editions keep their format.
+const contractDays = dailyFiles.map(name => name.slice(0, 10)).filter(day =>
+  existsSync(join(source, 'editions', `${day}.json`)) || /^harnessVersion:\s*2\s*$/m.test(readFileSync(join(sourceDaily, `${day}.md`), 'utf8')))
+if (contractDays.length) {
+  const validator = join(source, '..', 'scripts/lib/publication.mjs')
+  if (!existsSync(validator)) fail('V2 publication validator is missing from harness checkout')
+  const { validatePublication } = await import(pathToFileURL(validator).href)
+  for (const day of contractDays) {
+    try { validatePublication(source, day) } catch (error) { fail(`V2 edition ${day}: ${error.message}`) }
+  }
+}
 for (const name of researchFiles) {
   if (!readFileSync(join(sourceResearch, name), 'utf8').trim()) fail(`Empty research report: ${name}`)
 }
@@ -132,7 +144,7 @@ for (const day of itemDays) {
           throw new Error('publishable item repeats a reader-visible URL from an earlier edition')
         }
         if (item.source === 'hacker-news') {
-          const originalPublished = Date.parse(item.raw?.originalPublishedAt ?? '')
+          const originalPublished = Date.parse(item.verification?.originalPublishedAt ?? item.raw?.originalPublishedAt ?? '')
           if (!Number.isFinite(originalPublished) || originalPublished < windowEnd - 86_400_000 || originalPublished >= windowEnd) {
             throw new Error('Hacker News submission time is not proof of original article publication time')
           }
@@ -188,16 +200,17 @@ function syncFile(src, dst) {
 for (const name of dailyFiles) syncFile(join(sourceDaily, name), join(target, 'daily', name))
 for (const name of researchFiles) syncFile(join(sourceResearch, name), join(target, 'research', name))
 
-for (const day of itemDays) {
-  const srcDir = join(sourceItems, day)
-  const dstDir = join(target, 'items', day)
+function syncDayDirectory(kind, day) {
+  const srcDir = join(source, kind, day)
+  const dstDir = join(target, kind, day)
+  if (!existsSync(srcDir)) return
   const srcNames = files(srcDir, /\.json$/)
   const dstNames = files(dstDir, /\.json$/)
   const identical = srcNames.length === dstNames.length &&
     srcNames.every((name, i) => name === dstNames[i] && sameFile(join(srcDir, name), join(dstDir, name)))
-  if (identical) continue
+  if (identical) return
   changed += srcNames.length + Math.max(0, dstNames.length - srcNames.length)
-  if (dryRun) continue
+  if (dryRun) return
   mkdirSync(dirname(dstDir), { recursive: true })
   const staging = `${dstDir}.sync-${process.pid}`
   const backup = `${dstDir}.backup-${process.pid}`
@@ -214,6 +227,8 @@ for (const day of itemDays) {
     if (existsSync(staging)) rmSync(staging, { recursive: true })
   }
 }
+for (const day of itemDays) for (const kind of ['items', 'evidence', 'events']) syncDayDirectory(kind, day)
+for (const day of contractDays) syncFile(join(source, 'editions', `${day}.json`), join(target, 'editions', `${day}.json`))
 
 if (!dryRun && (changed > 0 || !existsSync(join(target, '_index.json')))) {
   const getEntries = (subdir) => files(join(target, subdir), /^\d{4}-\d{2}-\d{2}\.md$/)
