@@ -25,8 +25,9 @@ export default function NewsDayPage({ params }: { params: { date: string } }) {
 
   const all = listDaily()
   const idx = all.findIndex(e => e.slug === params.date)
-  const newer = all[idx + 1]   // older in date order? all is desc, so idx+1 is older
-  const older = all[idx - 1]   // newer
+  const older = all[idx + 1]
+  const newer = all[idx - 1]
+  const readingMinutes = Math.max(1, Math.round(entry.body.replace(/[#*`>\-\s]/g, '').length / 500))
 
   return (
     <>
@@ -51,6 +52,7 @@ export default function NewsDayPage({ params }: { params: { date: string } }) {
           {entry.meta.itemCount != null
             ? `本日入选 ${entry.meta.itemCount} 条（重大 ${entry.meta.majorCount ?? '?'}）`
             : '本日要闻速读'}
+          <span className="ml-2 text-ink-3">· 约 {readingMinutes} 分钟阅读</span>
           {entry.meta.topics && entry.meta.topics.length > 0 && (
             <span className="ml-2 text-ink-3">
               · {entry.meta.topics.join(' / ')}

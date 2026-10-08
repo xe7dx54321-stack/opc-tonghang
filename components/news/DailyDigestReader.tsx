@@ -44,9 +44,18 @@ export default function DailyDigestReader({ body }: { body: string }) {
         </section>
       )}
 
+      {stories.length > 1 && <nav aria-label="本期目录" className="mt-8 rounded-xl border border-hair bg-bg-card px-5 py-5 sm:px-8">
+        <div className="font-num text-[11px] tracking-[0.16em] text-accent">本期目录</div>
+        <ol className="mt-4 grid gap-2 sm:grid-cols-2">
+          {stories.map((story, index) => <li key={`${index}-${story.title}`}>
+            <a href={`#story-${index + 1}`} className="text-sm leading-6 text-ink-2 hover:text-accent">{String(index + 1).padStart(2, '0')} · {story.title}</a>
+          </li>)}
+        </ol>
+      </nav>}
+
       <div className="mt-9 space-y-5">
         {stories.map((story, index) => (
-          <section key={`${index}-${story.title}`} className="rounded-2xl border border-hair bg-bg-card px-5 py-6 sm:px-8 sm:py-7">
+          <section id={`story-${index + 1}`} key={`${index}-${story.title}`} className="scroll-mt-24 rounded-2xl border border-hair bg-bg-card px-5 py-6 sm:px-8 sm:py-7">
             <div className="flex items-start gap-4">
               <span className="font-num pt-1 text-xs text-accent">{String(index + 1).padStart(2, '0')}</span>
               <h2 className="text-lg font-semibold leading-snug text-ink sm:text-xl">{story.title}</h2>

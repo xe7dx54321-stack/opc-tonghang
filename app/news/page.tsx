@@ -1,5 +1,6 @@
 import Link from '@/components/Link'
 import { NEWS_TOPICS, listDaily, listNewsItems } from '@/lib/news'
+import { listNewsEvents } from '@/lib/news-events'
 import { genPageMetadata } from 'app/seo'
 
 export const dynamic = 'force-dynamic'
@@ -13,6 +14,7 @@ export default function NewsIndex() {
   const items = listNewsItems()
   const latestDate = items.reduce((latest, item) => item.date > latest ? item.date : latest, '')
   const daily = listDaily()
+  const events = listNewsEvents()
 
   return (
     <>
@@ -35,6 +37,13 @@ export default function NewsIndex() {
           )}
         </div>
       </section>
+
+      {daily[0] && <section className="mt-10 rounded-2xl border border-hair-2 bg-bg-card p-6 sm:p-8">
+        <div className="font-num text-[11px] uppercase tracking-[0.18em] text-accent">最新日报 · {daily[0].slug}</div>
+        <h2 className="mt-3 text-2xl font-semibold text-ink">最新一期值得关注的变化</h2>
+        <p className="mt-3 max-w-2xl text-sm leading-7 text-ink-2">完整阅读当天的重点事件、背景与判断。</p>
+        <Link href={`/news/${daily[0].slug}`} className="mt-5 inline-block text-sm font-medium text-accent hover:underline">阅读日报 →</Link>
+      </section>}
 
       <section className="py-11 sm:py-14">
         <div className="mb-7 flex items-end justify-between gap-4">
@@ -79,6 +88,20 @@ export default function NewsIndex() {
           })}
         </div>
       </section>
+
+      {events.length > 0 && <section className="mb-12">
+        <div className="mb-5 flex items-end justify-between">
+          <h2 className="text-2xl font-semibold text-ink">持续追踪</h2>
+          <Link href="/news/events" className="text-sm text-accent hover:underline">全部事件 →</Link>
+        </div>
+        <div className="grid gap-4 md:grid-cols-3">
+          {events.slice(0, 3).map(event => <Link key={event.id} href={`/news/events/${event.id}`} className="rounded-xl border border-hair bg-bg-card p-5 transition hover:border-accent">
+            <div className="font-num text-xs text-ink-3">最近 {event.lastSeen}</div>
+            <h3 className="mt-3 text-base font-semibold leading-7 text-ink">{event.title}</h3>
+            <p className="mt-2 text-xs text-ink-2">{event.occurrences.length} 次进展</p>
+          </Link>)}
+        </div>
+      </section>}
 
       <section className="mb-16 rounded-xl border border-hair bg-bg-card px-6 py-6 sm:flex sm:items-center sm:justify-between sm:gap-8">
         <div>
