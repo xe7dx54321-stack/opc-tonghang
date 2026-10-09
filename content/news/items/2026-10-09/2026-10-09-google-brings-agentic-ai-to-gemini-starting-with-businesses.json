@@ -1,0 +1,62 @@
+{
+  "id": "2026-10-09-google-brings-agentic-ai-to-gemini-starting-with-businesses",
+  "title": "Google brings agentic AI to Gemini, starting with businesses",
+  "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Google",
+    "AI",
+    "Gemini",
+    "The"
+  ],
+  "publishedAt": "2026-10-08T18:18:00+00:00",
+  "fetchedAt": "2026-10-08T18:40:13.869Z",
+  "summary": "Google 在 Cloud 活动上推出可规划任务、连接企业系统并执行工作的 Gemini Enterprise 统一代理，首先面向企业，随后再考虑消费者。",
+  "investorNote": "企业 Agent 的竞争焦点正在从聊天入口转到权限、审计、系统连接和任务交付。",
+  "score": 0.9,
+  "duplicateOf": null,
+  "clusterId": "event-e4ee739803923cf5897aaf95",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Google",
+    "action": "推出",
+    "object": "Gemini Enterprise 统一代理",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "71464ead794bddd492326963156f5660ba78ccd0dc3d624b7b8099e8ddd31407",
+    "originalUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "originalPublishedAt": "2026-10-08T18:18:00+00:00",
+    "checkedAt": "2026-10-08T23:33:49.162Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "71464ead794bddd492326963156f5660ba78ccd0dc3d624b7b8099e8ddd31407",
+      "kind": "fact",
+      "quote": "At a\nGoogle Cloud event\non Thursday, the company\nannounced\nit’s bringing its Gemini AI into the agentic age, with the launch of a unified agent that can not only answer questions but also get things done on the user’s behalf, all from a single interface."
+    },
+    {
+      "snapshotId": "71464ead794bddd492326963156f5660ba78ccd0dc3d624b7b8099e8ddd31407",
+      "kind": "condition",
+      "quote": "Given Gemini’s adoption in the corporate world, Google will initially focus on bringing the agent to businesses before later rolling it out to consumers."
+    }
+  ],
+  "displayTitle": "Google 推出 Gemini Enterprise 统一代理，先向企业开放",
+  "narrative": "Google 推出可接收目标、规划任务并调用企业工具的 Gemini Enterprise 统一代理，先在企业场景推出。报道指出它可连接 Workspace、Microsoft 365、Slack、Jira、数据库及 MCP 服务，并留下归属代理的审计记录。商业关键不只是模型能力：能否管理权限、追溯动作和控制成本，决定企业是否敢把真实流程交给代理。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次是统一代理发布，历史候选无相同具体发布。"
+  },
+  "eventId": "event-e4ee739803923cf5897aaf95",
+  "occurrenceId": "occ-e4ee739803923cf5897aaf95",
+  "relatedItems": []
+}

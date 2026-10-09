@@ -1,0 +1,66 @@
+{
+  "id": "2026-10-09-chinas-manus-raises-over-500m-in-first-funding-round-since-s",
+  "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+  "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "China",
+    "Manus",
+    "Meta Boyu Capital",
+    "IDG Capital",
+    "Tencent",
+    "HSG",
+    "Sequoia China",
+    "ZhenFund"
+  ],
+  "publishedAt": "2026-10-08T13:20:32+00:00",
+  "fetchedAt": "2026-10-08T15:04:12.058Z",
+  "summary": "Manus 母公司 Butterfly Effect 宣布融资超过 5 亿美元，由博裕资本和 IDG 资本领投；公司未披露本轮估值。",
+  "investorNote": "该融资显示大型 Agent 公司仍能获得资本支持，但估值传闻不能当作本轮确认值。",
+  "score": 0.83,
+  "duplicateOf": null,
+  "clusterId": "event-aef38c093fbe92ed4767fdf6",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Butterfly Effect（Manus 母公司）",
+    "action": "宣布完成",
+    "object": "逾5亿美元融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "9db6ff5968844bae3f97b183964d447b276b0a8a9cfa1d577b1ab29dc3b34edb",
+    "originalUrl": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+    "originalPublishedAt": "2026-10-08T13:20:32+00:00",
+    "checkedAt": "2026-10-08T23:33:49.184Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "9db6ff5968844bae3f97b183964d447b276b0a8a9cfa1d577b1ab29dc3b34edb",
+      "kind": "fact",
+      "quote": "Chinese AI lab Manus’ parent company, Butterfly Effect, said on Thursday\nin a WeChat post\nthat it has raised more than $500 million, the company’s first funding round since Meta was forced to call off its $2 billion acquisition of the startup."
+    },
+    {
+      "snapshotId": "9db6ff5968844bae3f97b183964d447b276b0a8a9cfa1d577b1ab29dc3b34edb",
+      "kind": "condition",
+      "quote": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated. The AI company said it will continue hiring both at home and abroad."
+    }
+  ],
+  "displayTitle": "Manus 母公司宣布融资逾 5 亿美元，重启独立扩张",
+  "narrative": "Manus 母公司 Butterfly Effect 宣布融得超过 5 亿美元，博裕资本和 IDG 资本领投，腾讯、HSG 等既有股东参与。公司没有披露估值；此前流传的 40 亿美元估值是融资洽谈消息，不能写成已成交价格。对投资人更有用的是观察新资金是否带来企业付费、产品留存和跨市场交付能力，而不只看融资规模。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本轮融资是新动作，和历史 Manus 产品及人员动态不同。"
+  },
+  "eventId": "event-aef38c093fbe92ed4767fdf6",
+  "occurrenceId": "occ-aef38c093fbe92ed4767fdf6",
+  "relatedItems": []
+}

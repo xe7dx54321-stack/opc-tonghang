@@ -1,0 +1,63 @@
+{
+  "id": "2026-10-09-robot-data-startup-mecka-ai-nabs-60m-from-sequoia",
+  "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+  "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [
+    "Robot",
+    "Mecka AI",
+    "Sequoia Mecka AI",
+    "The"
+  ],
+  "publishedAt": "2026-10-07T23:36:57+00:00",
+  "fetchedAt": "2026-10-08T15:04:12.092Z",
+  "summary": "Mecka AI 宣布获红杉领投的 6000 万美元 B 轮，用人体传感器和手机采集日常动作数据，用于人形及其他机器人训练。",
+  "investorNote": "机器人数据采集正形成独立融资赛道，但数据规模之外还需检验动作质量和跨本体迁移。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "event-f5a93c01bdda0b79a1eb8afa",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Mecka AI",
+    "action": "宣布完成",
+    "object": "6000万美元 B 轮融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "adafee75addc8c1ff25967d9e16bd14322f8b8146ccab34a5d816b7c8931d2d3",
+    "originalUrl": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+    "originalPublishedAt": "2026-10-07T23:36:57+00:00",
+    "checkedAt": "2026-10-08T23:33:49.206Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "adafee75addc8c1ff25967d9e16bd14322f8b8146ccab34a5d816b7c8931d2d3",
+      "kind": "fact",
+      "quote": "Mecka AI, a startup that collects and analyzes human motion data to train humanoid robots and other kinds of robots, announced it has raised a\n$60 million Series B\nround led by Sequoia, with participation from Nvidia, Microsoft’s venture fund M12, and others."
+    },
+    {
+      "snapshotId": "adafee75addc8c1ff25967d9e16bd14322f8b8146ccab34a5d816b7c8931d2d3",
+      "kind": "condition",
+      "quote": "Founded in 2024, the startup intends to do for robotics what Scale AI, Mercor, Surge, and other data-labeling companies have done for LLMs. Those companies supply the human-generated data these systems learn from. Mecka pays people to record themselves doing everyday tasks, like making coffee or fixing cars, while wearing body sensors and using smartphones."
+    }
+  ],
+  "displayTitle": "Mecka AI 获 6000 万美元 B 轮，机器人训练数据平台继续获投",
+  "narrative": "Mecka AI 宣布完成红杉领投的 6000 万美元 B 轮，NVIDIA 和微软风投 M12 等参与。公司让参与者佩戴传感器、使用手机记录咖啡制作、修车等动作，供机器人训练。融资表明具身智能的数据层有独立商业机会；真正的壁垒仍需通过数据标注质量、可复用性及对不同机器人任务的效果来验证。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "这是 Mecka AI 新融资，历史候选无同次发生。"
+  },
+  "eventId": "event-f5a93c01bdda0b79a1eb8afa",
+  "occurrenceId": "occ-f5a93c01bdda0b79a1eb8afa",
+  "relatedItems": []
+}

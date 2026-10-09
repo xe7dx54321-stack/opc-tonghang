@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-7407a09c41cbb9edf4bbd780",
+  "title": "Anthropic 开放 OSS Scanner，免费扫描开源仓库但报告未经人工复核",
+  "firstSeen": "2026-10-09",
+  "editionDate": "2026-10-09",
+  "occurrences": [
+    {
+      "id": "occ-7407a09c41cbb9edf4bbd780",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "推出",
+        "object": "开源项目 OSS Scanner",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-09",
+      "reports": [
+        {
+          "ref": "2026-10-09/2026-10-09-anthropic-launches-free-ai-security-scans-for-open-source-pr",
+          "itemId": "2026-10-09-anthropic-launches-free-ai-security-scans-for-open-source-pr",
+          "editionDate": "2026-10-09",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-10-08T21:53:51+00:00",
+          "title": "Anthropic 开放 OSS Scanner，免费扫描开源仓库但报告未经人工复核"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-09"
+}

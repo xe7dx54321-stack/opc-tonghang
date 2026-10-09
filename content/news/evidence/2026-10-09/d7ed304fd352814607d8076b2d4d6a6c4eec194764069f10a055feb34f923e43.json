@@ -1,0 +1,13 @@
+{
+  "snapshotId": "d7ed304fd352814607d8076b2d4d6a6c4eec194764069f10a055feb34f923e43",
+  "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+  "publishedAt": "2026-10-08T13:28:39+00:00",
+  "publishedAtQuote": "2026-10-08T13:28:39+00:00",
+  "retrievedAt": "2026-10-08T23:33:49.271Z",
+  "method": "agent-tool",
+  "contentHash": "85ac62b20f0d1f00e8daef828971f53c81b7e866641eba36c539c7be11c89423",
+  "quotations": [
+    "Earlier in April, Google released\nan AI-powered dictation tool that worked with local models\n. Now, the same team has released a new competitor to the AI note-taker Granola and others, which it calls\nGoogle AI Edge Foresight",
+    "The Mac app can work completely offline, utilizing the on-device EmbeddingGemma 2 model, with 740 million parameters, to capture meeting notes across apps, including those from in-person meetings."
+  ]
+}

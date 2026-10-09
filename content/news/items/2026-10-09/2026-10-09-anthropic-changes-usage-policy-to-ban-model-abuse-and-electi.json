@@ -1,0 +1,61 @@
+{
+  "id": "2026-10-09-anthropic-changes-usage-policy-to-ban-model-abuse-and-electi",
+  "title": "Anthropic changes usage policy to ban model abuse and election interference",
+  "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude",
+    "The"
+  ],
+  "publishedAt": "2026-10-08T18:16:24+00:00",
+  "fetchedAt": "2026-10-08T18:40:13.869Z",
+  "summary": "Anthropic 更新使用政策，加入对选举干预、武器软件、监控及长期恶意辱骂模型的限制；公司称普通挫折表达、测试和研究不在新限制范围。",
+  "investorNote": "模型公司正把抽象安全原则写成可执行的使用边界，执行尺度是下一步观察点。",
+  "score": 0.66,
+  "duplicateOf": null,
+  "clusterId": "event-d775f42f8c0a11740168b42b",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "更新",
+    "object": "Claude 使用政策",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "4bdcc2f2f55e1b73a72cc920e943f9da77b28165cb070682e7e1a30390e920c8",
+    "originalUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "originalPublishedAt": "2026-10-08T18:16:24+00:00",
+    "checkedAt": "2026-10-08T23:33:49.292Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "4bdcc2f2f55e1b73a72cc920e943f9da77b28165cb070682e7e1a30390e920c8",
+      "kind": "fact",
+      "quote": "Anthropic\nupdated its usage policy on Thursday\n, codifying new prohibitions on election interference, weapons software, and surveillance. But perhaps the most attention-getting change is a new prohibition against prolonged verbal abuse of the model, which is now expressly forbidden."
+    },
+    {
+      "snapshotId": "4bdcc2f2f55e1b73a72cc920e943f9da77b28165cb070682e7e1a30390e920c8",
+      "kind": "condition",
+      "quote": "“The policy update is meant to apply only in extreme cases, where users repeatedly act cruelly toward our models, with no discernible purpose,” the post explains. “It does not apply to common versions of user frustration, pushback, dark creative themes, or model testing and research.”"
+    }
+  ],
+  "displayTitle": "Anthropic 更新使用政策，明确禁止选举干预与极端模型辱骂",
+  "narrative": "Anthropic 更新 Claude 使用政策，明确禁止选举干预、武器软件、监控以及持续性恶意辱骂模型。公司解释，辱骂条款针对无明显目的的极端反复行为，不涵盖普通挫折表达、批评或模型研究。投资人应关注政策如何执行及申诉机制，因为条款措辞与实际封号标准之间仍有差距。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当日政策修订是独立动作，不等同于此前模型对话中止功能。"
+  },
+  "eventId": "event-d775f42f8c0a11740168b42b",
+  "occurrenceId": "occ-d775f42f8c0a11740168b42b",
+  "relatedItems": []
+}

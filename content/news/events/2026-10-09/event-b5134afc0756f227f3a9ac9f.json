@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-b5134afc0756f227f3a9ac9f",
+  "title": "Anthropic 推出 Claude 实时仪表盘和动画说明工具测试版",
+  "firstSeen": "2026-10-09",
+  "editionDate": "2026-10-09",
+  "occurrences": [
+    {
+      "id": "occ-b5134afc0756f227f3a9ac9f",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "推出",
+        "object": "Claude Dashboards 与 Motion 测试版",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-09",
+      "reports": [
+        {
+          "ref": "2026-10-09/2026-10-09-claude-can-now-generate-animated-explainer-videos-and-live-d",
+          "itemId": "2026-10-09-claude-can-now-generate-animated-explainer-videos-and-live-d",
+          "editionDate": "2026-10-09",
+          "url": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-10-08T19:17:22+00:00",
+          "title": "Anthropic 推出 Claude 实时仪表盘和动画说明工具测试版"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-09"
+}

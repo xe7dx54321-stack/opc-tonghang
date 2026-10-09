@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-d775f42f8c0a11740168b42b",
+  "title": "Anthropic 更新使用政策，明确禁止选举干预与极端模型辱骂",
+  "firstSeen": "2026-10-09",
+  "editionDate": "2026-10-09",
+  "occurrences": [
+    {
+      "id": "occ-d775f42f8c0a11740168b42b",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "更新",
+        "object": "Claude 使用政策",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-09",
+      "reports": [
+        {
+          "ref": "2026-10-09/2026-10-09-anthropic-changes-usage-policy-to-ban-model-abuse-and-electi",
+          "itemId": "2026-10-09-anthropic-changes-usage-policy-to-ban-model-abuse-and-electi",
+          "editionDate": "2026-10-09",
+          "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-08T18:16:24+00:00",
+          "title": "Anthropic 更新使用政策，明确禁止选举干预与极端模型辱骂"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-09"
+}

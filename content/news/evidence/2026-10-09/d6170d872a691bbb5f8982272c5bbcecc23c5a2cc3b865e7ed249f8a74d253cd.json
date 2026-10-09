@@ -1,0 +1,13 @@
+{
+  "snapshotId": "d6170d872a691bbb5f8982272c5bbcecc23c5a2cc3b865e7ed249f8a74d253cd",
+  "url": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/",
+  "publishedAt": "2026-10-08T19:17:22+00:00",
+  "publishedAtQuote": "2026-10-08T19:17:22+00:00",
+  "retrievedAt": "2026-10-08T23:33:49.227Z",
+  "method": "agent-tool",
+  "contentHash": "6a51a56e323e8c29d805ea1df87d13ae06deb14afa5f730150b2b4ad9b4232ff",
+  "quotations": [
+    "Anthropic launched two new beta features for Claude.\nDashboards connects data sources like BigQuery, Databricks, Snowflake, or Salesforce and turns them into auto-updating live dashboards via text prompt.",
+    "Dashboards is available for paid users, Motion for Team and Enterprise plans. Docs, Slides, and Design are leaving beta and now work across all plans, including free accounts."
+  ]
+}

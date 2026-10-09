@@ -1,0 +1,63 @@
+{
+  "id": "2026-10-09-anthropic-launches-free-ai-security-scans-for-open-source-pr",
+  "title": "Anthropic launches free AI security scans for open-source projects",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "AI",
+    "OSS Scanner",
+    "It",
+    "That"
+  ],
+  "publishedAt": "2026-10-08T21:53:51+00:00",
+  "fetchedAt": "2026-10-08T22:12:20.951Z",
+  "summary": "Anthropic 推出自愿加入的 OSS Scanner，以模型周期性扫描开源仓库，免费提供漏洞报告；报告完全由模型生成，可能出现误报。",
+  "investorNote": "AI 安全扫描开始作为公共服务供给，但无人工复核意味着维护者的筛选成本仍需计入。",
+  "score": 0.7,
+  "duplicateOf": null,
+  "clusterId": "event-7407a09c41cbb9edf4bbd780",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "推出",
+    "object": "开源项目 OSS Scanner",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "a91f415ba27d1e55242d38d27e656916be12d9b647470d8d06e99fa7363d2293",
+    "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "originalPublishedAt": "2026-10-08T21:53:51+00:00",
+    "checkedAt": "2026-10-08T23:33:49.249Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "a91f415ba27d1e55242d38d27e656916be12d9b647470d8d06e99fa7363d2293",
+      "kind": "fact",
+      "quote": "Anthropic’s offering to help open-source projects track down security vulnerabilities with a new service called\nOSS Scanner"
+    },
+    {
+      "snapshotId": "a91f415ba27d1e55242d38d27e656916be12d9b647470d8d06e99fa7363d2293",
+      "kind": "condition",
+      "quote": "The outputs of this opt-in vulnerability scanner will be fully model-generated, without human review or triage. This will enable faster and more frequent scanning, but means that it is possible reports will be incorrect or invalid."
+    }
+  ],
+  "displayTitle": "Anthropic 开放 OSS Scanner，免费扫描开源仓库但报告未经人工复核",
+  "narrative": "Anthropic 推出自愿加入的 OSS Scanner，向开源项目免费提供周期性漏洞扫描。其报告完全由模型生成，没有人工审核或分流，官方提醒结果可能错误。免费扩大覆盖面有价值，但项目维护者仍要花时间复现、判定与修复；衡量服务价值应看有效漏洞发现率和误报负担，而不只是扫描次数。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "新服务推出，历史候选无同次发生。"
+  },
+  "eventId": "event-7407a09c41cbb9edf4bbd780",
+  "occurrenceId": "occ-7407a09c41cbb9edf4bbd780",
+  "relatedItems": []
+}

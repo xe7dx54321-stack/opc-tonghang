@@ -1,0 +1,13 @@
+{
+  "snapshotId": "a91f415ba27d1e55242d38d27e656916be12d9b647470d8d06e99fa7363d2293",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+  "publishedAt": "2026-10-08T21:53:51+00:00",
+  "publishedAtQuote": "2026-10-08T21:53:51+00:00",
+  "retrievedAt": "2026-10-08T23:33:49.249Z",
+  "method": "agent-tool",
+  "contentHash": "70684972bb113d0782a8c3c443d5efc4cfcc1e4677fdba106273a07e95a2029c",
+  "quotations": [
+    "Anthropic’s offering to help open-source projects track down security vulnerabilities with a new service called\nOSS Scanner",
+    "The outputs of this opt-in vulnerability scanner will be fully model-generated, without human review or triage. This will enable faster and more frequent scanning, but means that it is possible reports will be incorrect or invalid."
+  ]
+}

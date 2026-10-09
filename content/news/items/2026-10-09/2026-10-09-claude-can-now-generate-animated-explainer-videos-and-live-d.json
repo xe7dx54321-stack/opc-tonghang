@@ -1,0 +1,69 @@
+{
+  "id": "2026-10-09-claude-can-now-generate-animated-explainer-videos-and-live-d",
+  "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
+  "url": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Claude",
+    "Anthropic",
+    "Dashboards",
+    "BigQuery",
+    "Snowflake",
+    "Motion",
+    "Docs",
+    "Slides",
+    "Design",
+    "The",
+    "The Decoder"
+  ],
+  "publishedAt": "2026-10-08T19:17:22+00:00",
+  "fetchedAt": "2026-10-08T19:40:52.191Z",
+  "summary": "Anthropic 为 Claude 推出 Dashboards 和 Motion 测试功能：前者连接数据源生成持续更新的图表，后者生成可编辑并导出 MP4 的动画说明。",
+  "investorNote": "生成式办公产品把数据查询与表达连接起来，但订阅门槛和查询可追溯性决定采用范围。",
+  "score": 0.74,
+  "duplicateOf": null,
+  "clusterId": "event-b5134afc0756f227f3a9ac9f",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "推出",
+    "object": "Claude Dashboards 与 Motion 测试版",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d6170d872a691bbb5f8982272c5bbcecc23c5a2cc3b865e7ed249f8a74d253cd",
+    "originalUrl": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/",
+    "originalPublishedAt": "2026-10-08T19:17:22+00:00",
+    "checkedAt": "2026-10-08T23:33:49.227Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d6170d872a691bbb5f8982272c5bbcecc23c5a2cc3b865e7ed249f8a74d253cd",
+      "kind": "fact",
+      "quote": "Anthropic launched two new beta features for Claude.\nDashboards connects data sources like BigQuery, Databricks, Snowflake, or Salesforce and turns them into auto-updating live dashboards via text prompt."
+    },
+    {
+      "snapshotId": "d6170d872a691bbb5f8982272c5bbcecc23c5a2cc3b865e7ed249f8a74d253cd",
+      "kind": "condition",
+      "quote": "Dashboards is available for paid users, Motion for Team and Enterprise plans. Docs, Slides, and Design are leaving beta and now work across all plans, including free accounts."
+    }
+  ],
+  "displayTitle": "Anthropic 推出 Claude 实时仪表盘和动画说明工具测试版",
+  "narrative": "Claude Dashboards 可连接 BigQuery、Databricks、Snowflake 或 Salesforce，把自然语言问题变成随数据更新的仪表盘；Motion 则用可编辑代码生成动画说明并导出 MP4。Dashboards 面向付费用户测试，Motion 限 Team 和 Enterprise。公司还将 Docs、Slides、Design 移出测试版。对企业而言，每个数字可查看查询语句，比单纯自动出图更接近可审计的工作流。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "这是当日两个测试功能的同次发布，与旧版 Claude 模型发布不同。"
+  },
+  "eventId": "event-b5134afc0756f227f3a9ac9f",
+  "occurrenceId": "occ-b5134afc0756f227f3a9ac9f",
+  "relatedItems": []
+}

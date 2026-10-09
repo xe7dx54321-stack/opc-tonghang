@@ -1,0 +1,62 @@
+{
+  "id": "2026-10-09-google-releases-a-new-local-first-granola-competitor",
+  "title": "Google releases a new local-first Granola competitor",
+  "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Google",
+    "Granola",
+    "AI Edge Foresight",
+    "AI"
+  ],
+  "publishedAt": "2026-10-08T13:28:39+00:00",
+  "fetchedAt": "2026-10-08T15:04:12.058Z",
+  "summary": "Google 推出 AI Edge Foresight，可在 Apple Silicon Mac 上离线记录会议并结合本地模型整理笔记，支持文件构建知识库。",
+  "investorNote": "端侧办公 AI 的差异化从转写质量延伸到隐私、离线和企业知识检索。",
+  "score": 0.63,
+  "duplicateOf": null,
+  "clusterId": "event-127ddab24f7feaf58b6e0e2d",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Google",
+    "action": "发布",
+    "object": "本地会议笔记应用 AI Edge Foresight",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d7ed304fd352814607d8076b2d4d6a6c4eec194764069f10a055feb34f923e43",
+    "originalUrl": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+    "originalPublishedAt": "2026-10-08T13:28:39+00:00",
+    "checkedAt": "2026-10-08T23:33:49.271Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d7ed304fd352814607d8076b2d4d6a6c4eec194764069f10a055feb34f923e43",
+      "kind": "fact",
+      "quote": "Earlier in April, Google released\nan AI-powered dictation tool that worked with local models\n. Now, the same team has released a new competitor to the AI note-taker Granola and others, which it calls\nGoogle AI Edge Foresight"
+    },
+    {
+      "snapshotId": "d7ed304fd352814607d8076b2d4d6a6c4eec194764069f10a055feb34f923e43",
+      "kind": "condition",
+      "quote": "The Mac app can work completely offline, utilizing the on-device EmbeddingGemma 2 model, with 740 million parameters, to capture meeting notes across apps, including those from in-person meetings."
+    }
+  ],
+  "displayTitle": "Google 推出离线会议笔记应用 Foresight，运行于 Mac 本地",
+  "narrative": "Google 发布 AI Edge Foresight，报道显示它能在 Apple Silicon Mac 上完全离线工作，记录会议并让用户与笔记和上传文档对话。它使用端侧 EmbeddingGemma 2 等模型；目前更像本地模型能力展示，尚不能据此推断 Google 已取得会议工具市场份额。对敏感会议场景，离线处理是比通用摘要更明确的产品切口。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "这是新应用发布，与此前本地听写工具属独立产品。"
+  },
+  "eventId": "event-127ddab24f7feaf58b6e0e2d",
+  "occurrenceId": "occ-127ddab24f7feaf58b6e0e2d",
+  "relatedItems": []
+}

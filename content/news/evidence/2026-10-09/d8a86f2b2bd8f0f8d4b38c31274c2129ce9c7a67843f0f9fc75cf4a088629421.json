@@ -1,0 +1,13 @@
+{
+  "snapshotId": "d8a86f2b2bd8f0f8d4b38c31274c2129ce9c7a67843f0f9fc75cf4a088629421",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion",
+  "publishedAt": "2026-10-08T18:23:28Z",
+  "publishedAtQuote": "2026-10-08T18:23:28Z",
+  "retrievedAt": "2026-10-08T23:33:49.141Z",
+  "method": "agent-tool",
+  "contentHash": "3e53b94ddb53ffe50ed9b15638f0929752df2e82db8c4a0103664ab38e1d97f5",
+  "quotations": [
+    "GlobalFoundries and TSMC have entered into a five-year manufacturing agreement valued at $2 billion under which GlobalFoundries will produce silicon interposers for TSMC's CoWoS advanced packaging technology. The arrangement will establish a U.S.-based manufacturing source for these components, which will enable TSMC's clients to brand their products as completely made and packaged in America. Volume production is scheduled to ramp up in the first half of 2028.",
+    "Under the agreement, GlobalFoundries will expand manufacturing capacity at its fabrication facility in Malta, NY, to produce silicon interposers used in TSMC's CoWoS-S packaging ecosystem. Such interposers are custom pieces of silicon that provide high-density connections between logic chiplets and high-bandwidth memory (HBM) stacks and enable the creation of complex multi-die processors for artificial intelligence (AI) and high-performance computing (HPC) applications. The companies have not disclosed the production capacity to be installed, but the agreement provides a framework for additional expansion depending on demand."
+  ]
+}

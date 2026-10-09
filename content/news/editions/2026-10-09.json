@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-09",
+  "window": {
+    "start": 1791415800000,
+    "end": 1791502200000
+  },
+  "digestHash": "1acc30f73743d8e20e6b48b18651abe8877e5616b5dc48e504aefe6149dd3464",
+  "stories": [
+    {
+      "heading": "Google 推出 Gemini Enterprise 统一代理，先向企业开放",
+      "itemId": "2026-10-09-google-brings-agentic-ai-to-gemini-starting-with-businesses",
+      "eventId": "event-e4ee739803923cf5897aaf95",
+      "occurrenceId": "occ-e4ee739803923cf5897aaf95"
+    },
+    {
+      "heading": "Waymo 完成 50 亿美元首笔债务融资，商业化资金结构转向信贷",
+      "itemId": "2026-10-09-waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotax",
+      "eventId": "event-d80bef1743111503e327dd79",
+      "occurrenceId": "occ-d80bef1743111503e327dd79"
+    },
+    {
+      "heading": "GlobalFoundries 与台积电签 20 亿美元协议，在美国制造 CoWoS 中介层",
+      "itemId": "2026-10-09-globalfoundries-to-produce-silicon-interposers-for-tsmcs-cow",
+      "eventId": "event-a61951d7e3b156a8fb2f43c5",
+      "occurrenceId": "occ-a61951d7e3b156a8fb2f43c5"
+    },
+    {
+      "heading": "Manus 母公司宣布融资逾 5 亿美元，重启独立扩张",
+      "itemId": "2026-10-09-chinas-manus-raises-over-500m-in-first-funding-round-since-s",
+      "eventId": "event-aef38c093fbe92ed4767fdf6",
+      "occurrenceId": "occ-aef38c093fbe92ed4767fdf6"
+    },
+    {
+      "heading": "Mecka AI 获 6000 万美元 B 轮，机器人训练数据平台继续获投",
+      "itemId": "2026-10-09-robot-data-startup-mecka-ai-nabs-60m-from-sequoia",
+      "eventId": "event-f5a93c01bdda0b79a1eb8afa",
+      "occurrenceId": "occ-f5a93c01bdda0b79a1eb8afa"
+    },
+    {
+      "heading": "Anthropic 推出 Claude 实时仪表盘和动画说明工具测试版",
+      "itemId": "2026-10-09-claude-can-now-generate-animated-explainer-videos-and-live-d",
+      "eventId": "event-b5134afc0756f227f3a9ac9f",
+      "occurrenceId": "occ-b5134afc0756f227f3a9ac9f"
+    },
+    {
+      "heading": "Anthropic 开放 OSS Scanner，免费扫描开源仓库但报告未经人工复核",
+      "itemId": "2026-10-09-anthropic-launches-free-ai-security-scans-for-open-source-pr",
+      "eventId": "event-7407a09c41cbb9edf4bbd780",
+      "occurrenceId": "occ-7407a09c41cbb9edf4bbd780"
+    },
+    {
+      "heading": "Google 推出离线会议笔记应用 Foresight，运行于 Mac 本地",
+      "itemId": "2026-10-09-google-releases-a-new-local-first-granola-competitor",
+      "eventId": "event-127ddab24f7feaf58b6e0e2d",
+      "occurrenceId": "occ-127ddab24f7feaf58b6e0e2d"
+    },
+    {
+      "heading": "Anthropic 更新使用政策，明确禁止选举干预与极端模型辱骂",
+      "itemId": "2026-10-09-anthropic-changes-usage-policy-to-ban-model-abuse-and-electi",
+      "eventId": "event-d775f42f8c0a11740168b42b",
+      "occurrenceId": "occ-d775f42f8c0a11740168b42b"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-09-anthropic-changes-usage-policy-to-ban-model-abuse-and-electi.json": "c553c0a95f8100afa72b359e0f036d4cb27c0531157d50a9274d0c9812abcb8e",
+    "2026-10-09-anthropic-launches-free-ai-security-scans-for-open-source-pr.json": "b155527ded00f6b54d3f37bf7c3bf9db99c58b0e2657c5ea210578eb74a97cf0",
+    "2026-10-09-chinas-manus-raises-over-500m-in-first-funding-round-since-s.json": "d05d1c06fd3bd55141da2404ef66032574294e972158123b47ba67bd08982a6f",
+    "2026-10-09-claude-can-now-generate-animated-explainer-videos-and-live-d.json": "57ae4c49e26aad81ba789c6aa5ca0056736779a983615a4e739fb493a4be17e6",
+    "2026-10-09-globalfoundries-to-produce-silicon-interposers-for-tsmcs-cow.json": "54f0638a2a790fff605a7dd6a647366e1174ae6f91802df8bacd8761b5e43c9c",
+    "2026-10-09-google-brings-agentic-ai-to-gemini-starting-with-businesses.json": "910ab99e4465040468ffb8dfff8c9505c340a39dc4efdcda135d5d46064f65d2",
+    "2026-10-09-google-releases-a-new-local-first-granola-competitor.json": "7d5f3b67c9f72cb1193cea2496f01ab09c321127ec9603fcdc5ac65ad6156a18",
+    "2026-10-09-robot-data-startup-mecka-ai-nabs-60m-from-sequoia.json": "ec24d2810565c9a71a6925c3d638118f08073ceb9efa6ac467675eaba99257f7",
+    "2026-10-09-waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotax.json": "553e73fcb54c13108c6dcf801316d2df6a6d479a3aebf8d52c40673dae8d0d9d"
+  },
+  "evidenceHashes": {
+    "4bdcc2f2f55e1b73a72cc920e943f9da77b28165cb070682e7e1a30390e920c8.json": "c68da8a7a9bb69b41e18105f5eeafc152a905894afce162290c3e4f3be1603e5",
+    "71464ead794bddd492326963156f5660ba78ccd0dc3d624b7b8099e8ddd31407.json": "6ae35b0ab80e2811621f37165d2b5e22121b9c7415adffa78483b66ab30086a0",
+    "9db6ff5968844bae3f97b183964d447b276b0a8a9cfa1d577b1ab29dc3b34edb.json": "23e38dfd4751e7857fb614fa249df774e524fd8e84ccb972aec4e92a9ecd13af",
+    "a91f415ba27d1e55242d38d27e656916be12d9b647470d8d06e99fa7363d2293.json": "a8c1abc2065ec43cc5ef142f816ec2a3924569b372ad533d1b8a99db97f6a51d",
+    "adafee75addc8c1ff25967d9e16bd14322f8b8146ccab34a5d816b7c8931d2d3.json": "29e6a7d0f5586b10ce44281ffcd3f1c986f32b2c5684738f20af232ace061b35",
+    "d6170d872a691bbb5f8982272c5bbcecc23c5a2cc3b865e7ed249f8a74d253cd.json": "5356ec6c03b666c1e9c97fefaeeafe6e7bc762ddba8eb07280e1496751da355b",
+    "d7ed304fd352814607d8076b2d4d6a6c4eec194764069f10a055feb34f923e43.json": "85d83ec68a5495981a8855e97400797cc749c5029df07fc044af9b00a7568474",
+    "d8a86f2b2bd8f0f8d4b38c31274c2129ce9c7a67843f0f9fc75cf4a088629421.json": "0e9582216d56fd6a887951d9ab9157e332adfc21a8ed4af44e346d11caf40f40",
+    "de84aa59e64c182b51ee3dd72959df853853010da40fcaf0f9579d03f8b02e27.json": "efc5dd5d676e23a8eb101e73b74a5f6ce99de98754e7c769005355cc2ee44d52"
+  },
+  "eventsHashes": {
+    "event-127ddab24f7feaf58b6e0e2d.json": "771ef6959341354614a25e92fc8c6b8829f4d0c6184fb9ad91db3253e3481a8a",
+    "event-7407a09c41cbb9edf4bbd780.json": "cdc0afc4da7851d4e3c5dfaff522d011270623b15eeb8170eaeb1da4300e4b7e",
+    "event-a61951d7e3b156a8fb2f43c5.json": "7d7b974c7aa98ef02db04a7708e30ab686e788d8a28f8a10a7efcb5b2f7056e1",
+    "event-aef38c093fbe92ed4767fdf6.json": "aef1658bf0bb2a82947fa1dc2ae5cabd7d0055ddc837c536f6935ef752e9a31d",
+    "event-b5134afc0756f227f3a9ac9f.json": "abf78555e18b7cf425be4067dd5fba6b3979fcb82e6ba612f7257767a2f9e80c",
+    "event-d775f42f8c0a11740168b42b.json": "a634c3852256d770d0e9b6f066b114b109bf99d559150ec5fce2de7905153848",
+    "event-d80bef1743111503e327dd79.json": "c056fce94d5d0ef2aa893867927917fc01d04e42293157e19d266771e21d8c52",
+    "event-e4ee739803923cf5897aaf95.json": "02b9e07e28008e6444943fc715c60999f597e83e2c639477d01b5e5833a7fd4e",
+    "event-f5a93c01bdda0b79a1eb8afa.json": "114798e06c98fcfe2096857c79739fcf22dcfc3ce7a6b02a5c06313518671b07"
+  }
+}

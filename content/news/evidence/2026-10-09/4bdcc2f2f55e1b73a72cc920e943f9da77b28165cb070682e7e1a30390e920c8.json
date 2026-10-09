@@ -1,0 +1,13 @@
+{
+  "snapshotId": "4bdcc2f2f55e1b73a72cc920e943f9da77b28165cb070682e7e1a30390e920c8",
+  "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+  "publishedAt": "2026-10-08T18:16:24+00:00",
+  "publishedAtQuote": "2026-10-08T18:16:24+00:00",
+  "retrievedAt": "2026-10-08T23:33:49.292Z",
+  "method": "agent-tool",
+  "contentHash": "3fcdfb6bfd8c350c2a72da406690509bbb2f9a78b5d2d5f908375effa8d2d5cc",
+  "quotations": [
+    "Anthropic\nupdated its usage policy on Thursday\n, codifying new prohibitions on election interference, weapons software, and surveillance. But perhaps the most attention-getting change is a new prohibition against prolonged verbal abuse of the model, which is now expressly forbidden.",
+    "“The policy update is meant to apply only in extreme cases, where users repeatedly act cruelly toward our models, with no discernible purpose,” the post explains. “It does not apply to common versions of user frustration, pushback, dark creative themes, or model testing and research.”"
+  ]
+}

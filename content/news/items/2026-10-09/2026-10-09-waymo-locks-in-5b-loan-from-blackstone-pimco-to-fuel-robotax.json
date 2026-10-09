@@ -1,0 +1,63 @@
+{
+  "id": "2026-10-09-waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotax",
+  "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
+  "url": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Waymo",
+    "Blackstone",
+    "PIMCO",
+    "This",
+    "Alphabet"
+  ],
+  "publishedAt": "2026-10-08T14:16:56+00:00",
+  "fetchedAt": "2026-10-08T15:04:12.092Z",
+  "summary": "Waymo 完成由 PIMCO、Blackstone 和 Sixth Street 等参与的 50 亿美元贷款。这是其首次债务融资，资金用于现有城市扩张和美国、欧洲、日本新市场。",
+  "investorNote": "债务工具首次进入 Waymo 融资结构；后续应看车队扩张和运营现金流能否支撑偿债。",
+  "score": 0.89,
+  "duplicateOf": null,
+  "clusterId": "event-d80bef1743111503e327dd79",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Waymo",
+    "action": "完成",
+    "object": "50亿美元首笔债务融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "de84aa59e64c182b51ee3dd72959df853853010da40fcaf0f9579d03f8b02e27",
+    "originalUrl": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
+    "originalPublishedAt": "2026-10-08T14:16:56+00:00",
+    "checkedAt": "2026-10-08T23:33:49.118Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "de84aa59e64c182b51ee3dd72959df853853010da40fcaf0f9579d03f8b02e27",
+      "kind": "fact",
+      "quote": "Waymo, the autonomous vehicle technology company under Google parent Alphabet, closed a $5 billion loan from a series of high-profile lenders, including PIMCO, Blackstone, and Sixth Street."
+    },
+    {
+      "snapshotId": "de84aa59e64c182b51ee3dd72959df853853010da40fcaf0f9579d03f8b02e27",
+      "kind": "condition",
+      "quote": "The debt financing — Waymo’s first — comes as the company accelerates its commercial expansion within existing cities while pushing into new markets in the United States, Europe, and Japan."
+    }
+  ],
+  "displayTitle": "Waymo 完成 50 亿美元首笔债务融资，商业化资金结构转向信贷",
+  "narrative": "Waymo 完成 50 亿美元贷款，领衔贷款方包括 PIMCO、Blackstone 和 Sixth Street，这是公司的首笔债务融资。它此前主要依靠母公司和股权投资；如今在扩张既有城市并进入新市场时引入债务，说明融资问题开始从研发资本转为商业运营资本。贷款成立不等于单城运营已盈利，判断规模化质量仍要看利用率、事故与监管数据。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "Waymo 本次完成首次债务融资，与此前突发事件演练框架属不同动作。"
+  },
+  "eventId": "event-d80bef1743111503e327dd79",
+  "occurrenceId": "occ-d80bef1743111503e327dd79",
+  "relatedItems": []
+}

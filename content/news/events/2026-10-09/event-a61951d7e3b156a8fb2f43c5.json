@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a61951d7e3b156a8fb2f43c5",
+  "title": "GlobalFoundries 与台积电签 20 亿美元协议，在美国制造 CoWoS 中介层",
+  "firstSeen": "2026-10-09",
+  "editionDate": "2026-10-09",
+  "occurrences": [
+    {
+      "id": "occ-a61951d7e3b156a8fb2f43c5",
+      "fact": {
+        "subject": "GlobalFoundries 与 TSMC",
+        "action": "签订",
+        "object": "美国 CoWoS 中介层制造协议",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-09",
+      "reports": [
+        {
+          "ref": "2026-10-09/2026-10-09-globalfoundries-to-produce-silicon-interposers-for-tsmcs-cow",
+          "itemId": "2026-10-09-globalfoundries-to-produce-silicon-interposers-for-tsmcs-cow",
+          "editionDate": "2026-10-09",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion",
+          "source": "tomshardware",
+          "owner": "Tom's Hardware",
+          "role": "observer",
+          "publishedAt": "2026-10-08T18:23:28Z",
+          "title": "GlobalFoundries 与台积电签 20 亿美元协议，在美国制造 CoWoS 中介层"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-09"
+}

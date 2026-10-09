@@ -1,0 +1,66 @@
+{
+  "id": "2026-10-09-globalfoundries-to-produce-silicon-interposers-for-tsmcs-cow",
+  "title": "GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US — Five-year agreement valued at $2 billion",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "GlobalFoundries",
+    "TSMC",
+    "CoWoS",
+    "US",
+    "Five",
+    "AI",
+    "HPC"
+  ],
+  "publishedAt": "2026-10-08T18:23:28Z",
+  "fetchedAt": "2026-10-08T18:40:22.075Z",
+  "summary": "GlobalFoundries 与台积电签订为期五年、价值 20 亿美元的制造协议，前者将在纽约 Malta 工厂为 CoWoS-S 生产硅中介层，计划 2028 年上半年放量。",
+  "investorNote": "美国先进封装供应链补上关键部件，但中介层产能并不自动转化为封装成品产能。",
+  "score": 0.88,
+  "duplicateOf": null,
+  "clusterId": "event-a61951d7e3b156a8fb2f43c5",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "GlobalFoundries 与 TSMC",
+    "action": "签订",
+    "object": "美国 CoWoS 中介层制造协议",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom's Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d8a86f2b2bd8f0f8d4b38c31274c2129ce9c7a67843f0f9fc75cf4a088629421",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion",
+    "originalPublishedAt": "2026-10-08T18:23:28Z",
+    "checkedAt": "2026-10-08T23:33:49.141Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d8a86f2b2bd8f0f8d4b38c31274c2129ce9c7a67843f0f9fc75cf4a088629421",
+      "kind": "fact",
+      "quote": "GlobalFoundries and TSMC have entered into a five-year manufacturing agreement valued at $2 billion under which GlobalFoundries will produce silicon interposers for TSMC's CoWoS advanced packaging technology. The arrangement will establish a U.S.-based manufacturing source for these components, which will enable TSMC's clients to brand their products as completely made and packaged in America. Volume production is scheduled to ramp up in the first half of 2028."
+    },
+    {
+      "snapshotId": "d8a86f2b2bd8f0f8d4b38c31274c2129ce9c7a67843f0f9fc75cf4a088629421",
+      "kind": "condition",
+      "quote": "Under the agreement, GlobalFoundries will expand manufacturing capacity at its fabrication facility in Malta, NY, to produce silicon interposers used in TSMC's CoWoS-S packaging ecosystem. Such interposers are custom pieces of silicon that provide high-density connections between logic chiplets and high-bandwidth memory (HBM) stacks and enable the creation of complex multi-die processors for artificial intelligence (AI) and high-performance computing (HPC) applications. The companies have not disclosed the production capacity to be installed, but the agreement provides a framework for additional expansion depending on demand."
+    }
+  ],
+  "displayTitle": "GlobalFoundries 与台积电签 20 亿美元协议，在美国制造 CoWoS 中介层",
+  "narrative": "GlobalFoundries 将在纽约工厂为台积电 CoWoS-S 体系制造硅中介层。协议为期五年、价值 20 亿美元，计划在 2028 年上半年提高产量。中介层连接逻辑芯粒与 HBM；这让 GF 能参与 AI 芯片供应链，却不意味着它转向先进逻辑晶圆制造。封装、测试产能和最终客户导入仍是协议兑现的后续关口。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "这是新签制造协议，历史候选无同次发生。"
+  },
+  "eventId": "event-a61951d7e3b156a8fb2f43c5",
+  "occurrenceId": "occ-a61951d7e3b156a8fb2f43c5",
+  "relatedItems": []
+}
