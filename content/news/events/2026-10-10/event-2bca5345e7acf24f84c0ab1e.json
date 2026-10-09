@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-2bca5345e7acf24f84c0ab1e",
+  "title": "Claude Managed Agents 加入动态工作流，可并行调度子代理",
+  "firstSeen": "2026-10-10",
+  "editionDate": "2026-10-10",
+  "occurrences": [
+    {
+      "id": "occ-2bca5345e7acf24f84c0ab1e",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "增加动态工作流",
+        "object": "Claude Managed Agents 多智能体编排",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-10",
+      "reports": [
+        {
+          "ref": "2026-10-10/2026-10-10-anthropic-managed-agents-dynamic",
+          "itemId": "2026-10-10-anthropic-managed-agents-dynamic",
+          "editionDate": "2026-10-10",
+          "url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "relayer",
+          "publishedAt": "2026-10-09T18:28:25+00:00",
+          "title": "Claude Managed Agents 加入动态工作流，可并行调度子代理"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-10"
+}

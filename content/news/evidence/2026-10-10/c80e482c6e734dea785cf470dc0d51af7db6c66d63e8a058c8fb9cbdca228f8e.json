@@ -1,0 +1,14 @@
+{
+  "snapshotId": "c80e482c6e734dea785cf470dc0d51af7db6c66d63e8a058c8fb9cbdca228f8e",
+  "url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
+  "publishedAt": "2026-10-09T18:28:25+00:00",
+  "publishedAtQuote": "article:published_time: 2026-10-09T18:28:25+00:00",
+  "retrievedAt": "2026-10-09T23:35:19.077Z",
+  "method": "agent-tool",
+  "contentHash": "f308c61caec6660ee25d79bf0157337c4eaf38625c999ad8ca6e2e74a09d8fcd",
+  "quotations": [
+    "Anthropic is adding dynamic workflows to its Claude Managed Agents, bringing multi-agent orchestration to the platform. The managed agent infrastructure has been around for a while, but dynamic workflows are new. A lead agent creates a plan, distributes tasks to sub-agents, ",
+    "Up to 1,000 agents can run in parallel per execution. Whether this is cost-effective seems debatable. A senior OpenAI engineer recently called agent swarms a massive waste of tokens , but Anthropic points to its own testing: The team hid 70 bugs in a 116,000-line codeba",
+    "Because these workflows can burn through \"a lot of tokens,\" Anthropic recommends starting small. You can get going "
+  ]
+}

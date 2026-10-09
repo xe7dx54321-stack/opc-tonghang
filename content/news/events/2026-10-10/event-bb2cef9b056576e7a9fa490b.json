@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-bb2cef9b056576e7a9fa490b",
+  "title": "Jev 开发商 TypeSafe AI 融资 8.7 亿美元，估值 75 亿美元",
+  "firstSeen": "2026-10-10",
+  "editionDate": "2026-10-10",
+  "occurrences": [
+    {
+      "id": "occ-bb2cef9b056576e7a9fa490b",
+      "fact": {
+        "subject": "TypeSafe AI",
+        "action": "完成融资",
+        "object": "Jev 决策模型开发商 8.7 亿美元融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-10",
+      "reports": [
+        {
+          "ref": "2026-10-10/2026-10-10-typesafe-series-a-jev",
+          "itemId": "2026-10-10-typesafe-series-a-jev",
+          "editionDate": "2026-10-10",
+          "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-09T21:41:29+00:00",
+          "title": "Jev 开发商 TypeSafe AI 融资 8.7 亿美元，估值 75 亿美元"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-10"
+}

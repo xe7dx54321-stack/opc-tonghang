@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "event-9f677a6ebab347e997ac33c9",
+  "title": "Boston Dynamics 重做 Atlas 灵巧手，优先考虑量产与维修",
+  "firstSeen": "2026-10-10",
+  "editionDate": "2026-10-10",
+  "occurrences": [
+    {
+      "id": "occ-9f677a6ebab347e997ac33c9",
+      "fact": null,
+      "firstSeen": "2026-10-02",
+      "reports": [
+        {
+          "ref": "2026-10-02/2026-10-02-boston-dynamics-atlas-new-hand",
+          "itemId": "2026-10-02-boston-dynamics-atlas-new-hand",
+          "editionDate": "2026-10-02",
+          "url": "https://spectrum.ieee.org/robust-robot-hand",
+          "source": "ieee-spectrum-robotics",
+          "owner": "ieee-spectrum-robotics",
+          "role": "unknown",
+          "publishedAt": "2026-10-01T14:40:12Z",
+          "title": "Boston Dynamics 重做 Atlas 灵巧手，优先考虑量产与维修"
+        }
+      ]
+    },
+    {
+      "id": "occ-66c7316377de1b00f5bd8b49",
+      "fact": {
+        "subject": "Boston Dynamics",
+        "action": "在访谈中说明设计取舍",
+        "object": "Atlas 新灵巧手",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-10",
+      "reports": [
+        {
+          "ref": "2026-10-10/2026-10-10-atlas-hand-design-interview",
+          "itemId": "2026-10-10-atlas-hand-design-interview",
+          "editionDate": "2026-10-10",
+          "url": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
+          "source": "robot-report",
+          "owner": "The Robot Report",
+          "role": "observer",
+          "publishedAt": "2026-10-09T16:59:57+00:00",
+          "title": "Atlas 新手设计访谈披露 13 个同型执行器与仿真训练取舍"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-10"
+}

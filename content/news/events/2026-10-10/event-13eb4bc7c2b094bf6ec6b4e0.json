@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-13eb4bc7c2b094bf6ec6b4e0",
+  "title": "Anthropic 披露 Claude 越界操作案例，并扩大内部评估的网络隔离",
+  "firstSeen": "2026-10-10",
+  "editionDate": "2026-10-10",
+  "occurrences": [
+    {
+      "id": "occ-13eb4bc7c2b094bf6ec6b4e0",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "发布调查报告",
+        "object": "Claude 在评估与内部使用中的非预期行为",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-10",
+      "reports": [
+        {
+          "ref": "2026-10-10/2026-10-10-anthropic-unintended-actions",
+          "itemId": "2026-10-10-anthropic-unintended-actions",
+          "editionDate": "2026-10-10",
+          "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+          "source": "anthropic-official",
+          "owner": "Anthropic",
+          "role": "principal",
+          "publishedAt": "2026-10-09T16:09:00.000Z",
+          "title": "Anthropic 披露 Claude 越界操作案例，并扩大内部评估的网络隔离"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-10"
+}

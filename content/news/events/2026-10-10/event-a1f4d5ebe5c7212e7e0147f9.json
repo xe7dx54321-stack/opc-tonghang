@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a1f4d5ebe5c7212e7e0147f9",
+  "title": "TRAE 合并 Code 与 Work，统一 Agent 工作台和 IDE",
+  "firstSeen": "2026-10-10",
+  "editionDate": "2026-10-10",
+  "occurrences": [
+    {
+      "id": "occ-a1f4d5ebe5c7212e7e0147f9",
+      "fact": {
+        "subject": "TRAE",
+        "action": "整合",
+        "object": "TraeCode 与 TraeWork 双端",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-10",
+      "reports": [
+        {
+          "ref": "2026-10-10/2026-10-10-trae-code-work-unified",
+          "itemId": "2026-10-10-trae-code-work-unified",
+          "editionDate": "2026-10-10",
+          "url": "https://www.qbitai.com/2026/10/502426.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "observer",
+          "publishedAt": "2026-10-09T17:19:57+08:00",
+          "title": "TRAE 合并 Code 与 Work，统一 Agent 工作台和 IDE"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-10"
+}

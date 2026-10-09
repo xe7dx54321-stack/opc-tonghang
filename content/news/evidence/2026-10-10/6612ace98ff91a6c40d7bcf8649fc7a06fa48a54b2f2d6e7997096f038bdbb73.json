@@ -1,0 +1,14 @@
+{
+  "snapshotId": "6612ace98ff91a6c40d7bcf8649fc7a06fa48a54b2f2d6e7997096f038bdbb73",
+  "url": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
+  "publishedAt": "2026-10-09T16:59:57+00:00",
+  "publishedAtQuote": "article:published_time: 2026-10-09T16:59:57+00:00",
+  "retrievedAt": "2026-10-09T23:35:19.078Z",
+  "method": "agent-tool",
+  "contentHash": "c0501ead3181c7e9c58de2853805513c471d40ab1a7e7e3ed75d9dde9281b885",
+  "quotations": [
+    "To learn more about the new hand, The Robot Report spoke with Alberto Rodriguez , the director of robot behavior for Atlas at Boston Dynamics. What did Boston Dynamics learn from its humanoid trials that it applied to the new hand? Rodriguez: Having a product roadmap for Atlas has been a key enabler when it came to making hard decisions l",
+    "It is built out of 13 identical actuators, all completely encapsulated, with no fragile cables crossing joints, which is already paying off. We have also learned, for example, that the earlier hands were strong enough to lift 100 lb.-plus heavy objects, so we did not ne",
+    "Last week, Boston Dynamics Inc. gave a look at its new humanoid robot hand. The four-fingered hand has 13 degrees of freedom, or DoF, and is directly actuated. The c"
+  ]
+}

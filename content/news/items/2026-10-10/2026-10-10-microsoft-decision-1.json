@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-10-microsoft-decision-1",
+  "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+  "publishedAt": "2026-10-09T18:35:51+00:00",
+  "fact": {
+    "subject": "Microsoft",
+    "action": "推出",
+    "object": "Microsoft-Decision-1 决策评分模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Microsoft",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e776ef0db094e214281a12e5f39451403ebdec58394d08ac121952fedbc467c2",
+    "originalUrl": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+    "originalPublishedAt": "2026-10-09T18:35:51+00:00",
+    "checkedAt": "2026-10-09T23:35:19.076Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e776ef0db094e214281a12e5f39451403ebdec58394d08ac121952fedbc467c2",
+      "kind": "fact",
+      "quote": "Today we’re introducing Microsoft-Decision-1 , our new model for fast decision-scoring, available in Microsoft Foundry and through OpenRouter . This model is designed for routing, classification, prioritization, verification, and workflow control, making it easier to incorporate decision intelligence into exi"
+    },
+    {
+      "snapshotId": "e776ef0db094e214281a12e5f39451403ebdec58394d08ac121952fedbc467c2",
+      "kind": "fact",
+      "quote": "Microsoft-Decision-1 achieved the highest accuracy in our 36-benchmark comparison, spanning nearly 150,000 questions across benchmarks kept blind from training. And in our benchmarking, it was the fastest measured: 4.5 times quicker than Quyet-1.0-Large, the runner-up, "
+    },
+    {
+      "snapshotId": "e776ef0db094e214281a12e5f39451403ebdec58394d08ac121952fedbc467c2",
+      "kind": "condition",
+      "quote": "To build Microsoft-Decision-1, we post trained Qwen3.5-9B for fast, single-pass decision scoring and will soon rebase it on other models, including Microsoft AI (MAI) and OpenAI. When given a fixed set of answer opt"
+    }
+  ],
+  "title": "Microsoft-Decision-1, our model for fast decision-making",
+  "source": "hnrss-newest",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Microsoft",
+    "Microsoft-Decision-1",
+    "Qwen"
+  ],
+  "fetchedAt": "2026-10-09T18:58:27.500Z",
+  "summary": "微软发布 Microsoft-Decision-1，用于路由、分类、优先级和验证等结构化决策，在 Microsoft Foundry 与 OpenRouter 提供；模型基于 Qwen3.5-9B 后训练，速度与准确率数据来自微软自测。",
+  "investorNote": "专用决策模型若能控制推理成本，会改变 Agent 工作流中大量小判断对通用大模型的依赖。",
+  "displayTitle": "微软推出 Decision-1，把 Agent 路由与分类做成专用评分模型",
+  "narrative": "微软推出 Microsoft-Decision-1，将路由、分类、优先级判断等任务交给输出概率分数的专用模型，已在 Foundry 与 OpenRouter 提供。它由 Qwen3.5-9B 后训练而来；微软报告的速度和准确率优势来自自建评测。值得跟踪的是实际 Agent 工作流的总成本和错误率，而不只是单次决策延迟。",
+  "score": 0.87,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周历史条目相比，为当前独立动作或首次记录；无同一次发生的目标"
+  },
+  "eventId": "event-48a5270e4727d36177e53ef2",
+  "occurrenceId": "occ-48a5270e4727d36177e53ef2",
+  "clusterId": "event-48a5270e4727d36177e53ef2",
+  "duplicateOf": null,
+  "relatedItems": []
+}

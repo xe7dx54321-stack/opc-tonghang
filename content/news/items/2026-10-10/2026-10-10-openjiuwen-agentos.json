@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-10-openjiuwen-agentos",
+  "url": "https://www.qbitai.com/2026/10/502106.html",
+  "publishedAt": "2026-10-09T10:37:22+08:00",
+  "fact": {
+    "subject": "openJiuwen",
+    "action": "发布并开源",
+    "object": "企业级 Jiuwen AgentOS",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "5c4fd01a7d85ab9b240e124648d0d1c813c708a513a039dde313b02dc99790a2",
+    "originalUrl": "https://www.qbitai.com/2026/10/502106.html",
+    "originalPublishedAt": "2026-10-09T10:37:22+08:00",
+    "checkedAt": "2026-10-09T23:35:19.077Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "5c4fd01a7d85ab9b240e124648d0d1c813c708a513a039dde313b02dc99790a2",
+      "kind": "fact",
+      "quote": "由华为2012实验室、华为云、计算、终端、算力先遣队等团队联合高校、企业等广大开发者构建的开源AI Agent平台openJiuwen，发布并开源了企业级AgentOS ，将多智能体协同、自演进、算力亲和与企业级安全可靠能力融入统一底座，并通过插件化架构与开放生态，连接上层智能体应用与底层模型、算力资源。 △Jiuwen AgentOS整体架构图 多智能体原生 ，让复杂任务有序协作。通过蜂群协同与工作流编排，AgentOS支持任务拆解、角色分工和并行执行，将调研、分析、撰写等不同环节组织起来，并支持人在关键环节参与判断，让智能体团队的协作过程更加可控。 自演进原生 ，让任务经验持续积累。依托执行轨迹、用户反馈与记忆机制，AgentOS支持智能体优化技能"
+    },
+    {
+      "snapshotId": "5c4fd01a7d85ab9b240e124648d0d1c813c708a513a039dde313b02dc99790a2",
+      "kind": "condition",
+      "quote": "通过多租户隔离、安全沙箱、权限管理及安全护栏，约束数据访问和工具调用，并以故障恢复等机制支撑任务高可靠持续运行。 插件化AgentOS架构与开放的北向生态 ，让能力按需组合、行业经验持续复用。AgentOS将模型调用、工具调用、记忆管理等能力插件化，支持按需加载和自定义扩展。在面向应用与开发者的北向生态中，技能、连接器、插件、专家和专家团五类资产可灵活组合，并通过Agentic Hub发布、获取和共享。伙伴既可以复用"
+    }
+  ],
+  "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "openJiuwen",
+    "华为",
+    "Jiuwen AgentOS"
+  ],
+  "fetchedAt": "2026-10-09T03:46:34.406Z",
+  "summary": "量子位报道，华为相关团队与开发者社区构建的 openJiuwen 发布并开源企业级 AgentOS，整合多智能体编排、插件、权限隔离与故障恢复，并与一体机方案衔接；性能及部署速度仍属发布方主张。",
+  "investorNote": "企业 Agent 底座价值取决于权限、隔离、运维和系统接入是否比单个演示更稳定。",
+  "displayTitle": "openJiuwen 开源企业级 AgentOS，瞄准多代理协同与私有部署",
+  "narrative": "openJiuwen 发布并开源企业级 Jiuwen AgentOS，强调多代理编排、插件化能力、权限隔离及故障恢复。报道还将其与华为一体机方案联系起来，但小时级部署等效能属于发布方说法。对企业采购而言，核心问题是现有业务系统接入、可审计权限和持续运维，开源代码本身不足以证明规模落地。",
+  "score": 0.75,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周历史条目相比，为当前独立动作或首次记录；无同一次发生的目标"
+  },
+  "eventId": "event-534987a26f2adf858b0cf932",
+  "occurrenceId": "occ-534987a26f2adf858b0cf932",
+  "clusterId": "event-534987a26f2adf858b0cf932",
+  "duplicateOf": null,
+  "relatedItems": []
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-e9d7a9c30370702efaba6698",
+  "title": "铠侠推出 LD4 数据中心 SSD，122.88TB 仍属已验证架构",
+  "firstSeen": "2026-10-10",
+  "editionDate": "2026-10-10",
+  "occurrences": [
+    {
+      "id": "occ-e9d7a9c30370702efaba6698",
+      "fact": {
+        "subject": "Kioxia",
+        "action": "介绍",
+        "object": "LD4 系列 E1.L 数据中心 SSD",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-10",
+      "reports": [
+        {
+          "ref": "2026-10-10/2026-10-10-kioxia-ld4-ssd",
+          "itemId": "2026-10-10-kioxia-ld4-ssd",
+          "editionDate": "2026-10-10",
+          "url": "https://www.tomshardware.com/pc-components/ssds/kioxia-unveils-e1-l-ssds-for-hyperscalers-with-up-to-122-88tb-capacity-extreme-density-meets-compact-form-factor",
+          "source": "tomshardware",
+          "owner": "Tom's Hardware",
+          "role": "observer",
+          "publishedAt": "2026-10-09T10:30:00+00:00",
+          "title": "铠侠推出 LD4 数据中心 SSD，122.88TB 仍属已验证架构"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-10"
+}

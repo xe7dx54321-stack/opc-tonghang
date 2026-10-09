@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-534987a26f2adf858b0cf932",
+  "title": "openJiuwen 开源企业级 AgentOS，瞄准多代理协同与私有部署",
+  "firstSeen": "2026-10-10",
+  "editionDate": "2026-10-10",
+  "occurrences": [
+    {
+      "id": "occ-534987a26f2adf858b0cf932",
+      "fact": {
+        "subject": "openJiuwen",
+        "action": "发布并开源",
+        "object": "企业级 Jiuwen AgentOS",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-10",
+      "reports": [
+        {
+          "ref": "2026-10-10/2026-10-10-openjiuwen-agentos",
+          "itemId": "2026-10-10-openjiuwen-agentos",
+          "editionDate": "2026-10-10",
+          "url": "https://www.qbitai.com/2026/10/502106.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "relayer",
+          "publishedAt": "2026-10-09T10:37:22+08:00",
+          "title": "openJiuwen 开源企业级 AgentOS，瞄准多代理协同与私有部署"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-10"
+}

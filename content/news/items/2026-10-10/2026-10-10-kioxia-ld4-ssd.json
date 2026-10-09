@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-10-kioxia-ld4-ssd",
+  "url": "https://www.tomshardware.com/pc-components/ssds/kioxia-unveils-e1-l-ssds-for-hyperscalers-with-up-to-122-88tb-capacity-extreme-density-meets-compact-form-factor",
+  "publishedAt": "2026-10-09T10:30:00+00:00",
+  "fact": {
+    "subject": "Kioxia",
+    "action": "介绍",
+    "object": "LD4 系列 E1.L 数据中心 SSD",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom's Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "2da5b80818c7632a63728d8911c820cce3c0691acb0919ef13ebbb1293b666be",
+    "originalUrl": "https://www.tomshardware.com/pc-components/ssds/kioxia-unveils-e1-l-ssds-for-hyperscalers-with-up-to-122-88tb-capacity-extreme-density-meets-compact-form-factor",
+    "originalPublishedAt": "2026-10-09T10:30:00+00:00",
+    "checkedAt": "2026-10-09T23:35:19.079Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "2da5b80818c7632a63728d8911c820cce3c0691acb0919ef13ebbb1293b666be",
+      "kind": "fact",
+      "quote": "Kioxia introduced its LD4-series solid-state drives (SSDs) in an E1.L form factor with capacities up to 122.88TB designed for high-density storage deployments in hyperscale data centers on Friday. The new drives use proven BiCS8 3D QLC NAND and are aimed at read-intensive workloads like AI data repositories and object storage, according to the manufacturer. Tom's"
+    },
+    {
+      "snapshotId": "2da5b80818c7632a63728d8911c820cce3c0691acb0919ef13ebbb1293b666be",
+      "kind": "condition",
+      "quote": "While the company currently offers capacities of up to 30.72 TB, it has validated an architecture capable of supporting 122.88 TB drives, though it never revealed when such drives are set to be available, something not surprising in a world where 3D NAND memory is sold in advance. Interestingly, Kioxia did no"
+    },
+    {
+      "snapshotId": "2da5b80818c7632a63728d8911c820cce3c0691acb0919ef13ebbb1293b666be",
+      "kind": "condition",
+      "quote": "Interestingly, Kioxia did not disclose any actual performance characteristics of its LD4-series SSDs, including sequential read and write speeds, random read and write IOPS, or latency. The company also did not reveal their endurance rating"
+    }
+  ],
+  "title": "Kioxia unveils E1.L SSDs for hyperscalers with up to 122.88TB capacity",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Kioxia",
+    "LD4",
+    "BiCS8"
+  ],
+  "fetchedAt": "2026-10-09T10:52:02.518Z",
+  "summary": "Tom’s Hardware 报道铠侠介绍 LD4 系列 E1.L SSD，采用 BiCS8 QLC NAND，面向超大规模数据中心；目前容量产品最高 30.72TB，122.88TB 是已验证架构，上市时间及实际性能未披露。",
+  "investorNote": "密度路线对 AI 数据库和对象存储有价值，但采购判断仍需看量产容量、耐久度、功耗和价格。",
+  "displayTitle": "铠侠推出 LD4 数据中心 SSD，122.88TB 仍属已验证架构",
+  "narrative": "铠侠介绍面向数据中心的 LD4 系列 E1.L SSD，采用 BiCS8 QLC NAND。报道明确区分当前最高 30.72TB 的产品与已验证的 122.88TB 架构，后者上市时间未披露，性能、耐久度和功耗也缺少实测数据。对存储供应链而言，容量路线有吸引力，采购价值要等可交付规格和成本。",
+  "score": 0.76,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周历史条目相比，为当前独立动作或首次记录；无同一次发生的目标"
+  },
+  "eventId": "event-e9d7a9c30370702efaba6698",
+  "occurrenceId": "occ-e9d7a9c30370702efaba6698",
+  "clusterId": "event-e9d7a9c30370702efaba6698",
+  "duplicateOf": null,
+  "relatedItems": []
+}

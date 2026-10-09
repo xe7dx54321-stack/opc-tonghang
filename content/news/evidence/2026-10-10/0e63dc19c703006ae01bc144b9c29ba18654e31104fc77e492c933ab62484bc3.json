@@ -1,0 +1,13 @@
+{
+  "snapshotId": "0e63dc19c703006ae01bc144b9c29ba18654e31104fc77e492c933ab62484bc3",
+  "url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+  "publishedAt": "2026-10-09T20:33:17+00:00",
+  "publishedAtQuote": "article:published_time: 2026-10-09T20:33:17+00:00",
+  "retrievedAt": "2026-10-09T23:35:19.078Z",
+  "method": "agent-tool",
+  "contentHash": "f2b0fc76a0242cda9bba7c1011be1f642e4201e34464cf8cc82d8ae96323709f",
+  "quotations": [
+    "Alibaba’s Qwen team has released Qwen-Image-2.1-Turbo , an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model’s 40-step default . For developers, that means 5x fewer denoising steps on the same 7B architecture, plus a hosted API option. TL;DR Size: 7",
+    "Research license only, so commercial self-hosting needs separate permission. What is Q"
+  ]
+}

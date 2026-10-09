@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-10-trae-code-work-unified",
+  "url": "https://www.qbitai.com/2026/10/502426.html",
+  "publishedAt": "2026-10-09T17:19:57+08:00",
+  "fact": {
+    "subject": "TRAE",
+    "action": "整合",
+    "object": "TraeCode 与 TraeWork 双端",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "45f32bcc2059ca337915f3b16e7d7a45df29a2bc7351dd64e81dc698db32037f",
+    "originalUrl": "https://www.qbitai.com/2026/10/502426.html",
+    "originalPublishedAt": "2026-10-09T17:19:57+08:00",
+    "checkedAt": "2026-10-09T23:35:19.077Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "45f32bcc2059ca337915f3b16e7d7a45df29a2bc7351dd64e81dc698db32037f",
+      "kind": "fact",
+      "quote": "因为它俩今天已经正式 双端融合 ，统一升级成了 新的TRAE 。 新TRAE的一个亮点，就是它有Agent模式和IDE模式两种。 其中， Agent模式 主打的是 全局工作台 ，大家可以在一个窗口里管理项目，把不同工作分给多个Agent，写代码、出文档、准备交付材料都在这里推进。 IDE模式 里面依旧保留了SOLO和IDE两种玩法。两种模式的切换入口就在右上角，点一下就能过去。 例如前阵子让整个AI圈“卧槽”的 3D版鹈鹕骑自行车 ，在新TRAE里的“打开方式”可以是这样的。"
+    },
+    {
+      "snapshotId": "45f32bcc2059ca337915f3b16e7d7a45df29a2bc7351dd64e81dc698db32037f",
+      "kind": "fact",
+      "quote": "Agent模式 主打的是 全局工作台 ，大家可以在一个窗口里管理项目，把不同工作分给多个Agent，写代码、出文档、准备交付材料都在这里推进。 IDE模式 里面依旧保留了SOLO和IDE两种玩法。两种模式的切换入口就在右上角，点一下就能过去。 例如前阵子让整个AI圈“卧槽”的 3D版鹈鹕骑自行车 ，在新TRAE里的“打开方式”可以是这样的。 我们在同一个项目文件夹里，新建三个任务，三个Agent各司其职： Agent 1：写代码，把鹈鹕、自行车和场景做出来"
+    }
+  ],
+  "title": "TRAE终于把Code和Work合并了",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "TRAE",
+    "TraeCode",
+    "TraeWork"
+  ],
+  "fetchedAt": "2026-10-09T10:52:00.478Z",
+  "summary": "量子位报道，TRAE 于 10 月 9 日将 TraeCode 与 TraeWork 双端整合到新产品，在同一项目内切换 Agent 全局工作台与 IDE，并支持多任务协作和产物管理。",
+  "investorNote": "编程代理竞争开始从代码补全转向跨策划、开发、测试和交付的连续工作流。",
+  "displayTitle": "TRAE 合并 Code 与 Work，统一 Agent 工作台和 IDE",
+  "narrative": "TRAE 将 TraeCode 与 TraeWork 合并，提供可切换的 Agent 工作台与 IDE。量子位实测在同一项目里让多个 Agent 分工做策划、代码与测试，但也发现并行产出的规格会冲突。统一入口降低切换成本，真正的产品壁垒仍在任务交接和冲突收敛，而不是同时运行多少代理。",
+  "score": 0.76,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周历史条目相比，为当前独立动作或首次记录；无同一次发生的目标"
+  },
+  "eventId": "event-a1f4d5ebe5c7212e7e0147f9",
+  "occurrenceId": "occ-a1f4d5ebe5c7212e7e0147f9",
+  "clusterId": "event-a1f4d5ebe5c7212e7e0147f9",
+  "duplicateOf": null,
+  "relatedItems": []
+}

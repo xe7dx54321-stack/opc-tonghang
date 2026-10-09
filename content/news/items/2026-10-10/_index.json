@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-10",
+  "itemCount": 10,
+  "storyCount": 10,
+  "clusterCount": 10,
+  "files": [
+    "2026-10-10-anthropic-unintended-actions.json",
+    "2026-10-10-microsoft-decision-1.json",
+    "2026-10-10-typesafe-series-a-jev.json",
+    "2026-10-10-trae-code-work-unified.json",
+    "2026-10-10-openjiuwen-agentos.json",
+    "2026-10-10-anthropic-managed-agents-dynamic.json",
+    "2026-10-10-qwen-image-21-turbo.json",
+    "2026-10-10-atlas-hand-design-interview.json",
+    "2026-10-10-kioxia-ld4-ssd.json",
+    "2026-10-10-aether-cris0-robot-demo.json"
+  ],
+  "representatives": [
+    "2026-10-10-anthropic-unintended-actions",
+    "2026-10-10-microsoft-decision-1",
+    "2026-10-10-typesafe-series-a-jev",
+    "2026-10-10-trae-code-work-unified",
+    "2026-10-10-openjiuwen-agentos",
+    "2026-10-10-anthropic-managed-agents-dynamic",
+    "2026-10-10-qwen-image-21-turbo",
+    "2026-10-10-atlas-hand-design-interview",
+    "2026-10-10-kioxia-ld4-ssd",
+    "2026-10-10-aether-cris0-robot-demo"
+  ]
+}

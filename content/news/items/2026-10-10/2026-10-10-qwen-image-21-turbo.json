@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-10-qwen-image-21-turbo",
+  "url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+  "publishedAt": "2026-10-09T20:33:17+00:00",
+  "fact": {
+    "subject": "Alibaba Qwen",
+    "action": "发布",
+    "object": "Qwen-Image-2.1-Turbo 图像模型检查点",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "MarkTechPost",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "0e63dc19c703006ae01bc144b9c29ba18654e31104fc77e492c933ab62484bc3",
+    "originalUrl": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+    "originalPublishedAt": "2026-10-09T20:33:17+00:00",
+    "checkedAt": "2026-10-09T23:35:19.078Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "0e63dc19c703006ae01bc144b9c29ba18654e31104fc77e492c933ab62484bc3",
+      "kind": "fact",
+      "quote": "Alibaba’s Qwen team has released Qwen-Image-2.1-Turbo , an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model’s 40-step default . For developers, that means 5x fewer denoising steps on the same 7B architecture, plus a hosted API option. TL;DR Size: 7"
+    },
+    {
+      "snapshotId": "0e63dc19c703006ae01bc144b9c29ba18654e31104fc77e492c933ab62484bc3",
+      "kind": "condition",
+      "quote": "Research license only, so commercial self-hosting needs separate permission. What is Q"
+    }
+  ],
+  "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+  "source": "marktechpost",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "阿里巴巴",
+    "Qwen-Image-2.1-Turbo"
+  ],
+  "fetchedAt": "2026-10-09T20:59:26.576Z",
+  "summary": "MarkTechPost 报道，阿里 Qwen 发布 Qwen-Image-2.1-Turbo，在同一 7B 图像生成架构上将默认采样从 40 步降到 8 步，支持生成与编辑；模型使用研究许可，商业自托管需另行确认授权。",
+  "investorNote": "步数减少能缓解生成延迟，但应实测画质、显存和商用许可，不能直接等同于五倍端到端降本。",
+  "displayTitle": "Qwen 发布 Image 2.1 Turbo，图像生成降至八步采样",
+  "narrative": "Qwen-Image-2.1-Turbo 把报道所述的默认图像采样从 40 步降到 8 步，保留生成与编辑能力。八步意味着去噪环节减少，实际端到端速度和质量仍要独立比较。尤其需要看许可：报道标明研究用途，商业自托管不能直接按开放权重来部署。",
+  "score": 0.74,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周历史条目相比，为当前独立动作或首次记录；无同一次发生的目标"
+  },
+  "eventId": "event-94dd1e7cfddb1be40a47e2e1",
+  "occurrenceId": "occ-94dd1e7cfddb1be40a47e2e1",
+  "clusterId": "event-94dd1e7cfddb1be40a47e2e1",
+  "duplicateOf": null,
+  "relatedItems": []
+}

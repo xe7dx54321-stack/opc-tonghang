@@ -1,0 +1,14 @@
+{
+  "snapshotId": "e7caf7c7b3f2742f90c5600b353bb8a9e453736a007eb125b54edef1fe65a0f0",
+  "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+  "publishedAt": "2026-10-09T21:41:29+00:00",
+  "publishedAtQuote": "article:published_time: 2026-10-09T21:41:29+00:00",
+  "retrievedAt": "2026-10-09T23:35:19.076Z",
+  "method": "agent-tool",
+  "contentHash": "11bb835c0c0525f2fe99dd24a0e45192af63484b0a25e7fa1b586f07d5eab6fc",
+  "quotations": [
+    "TypeSafe AI, the developer of Jev, a new type of AI model that gained rapid popularity after launching just a few weeks ago, has raised $870 million at a $7.5 billion valuation. The round was led by Andreessen Horowitz, with participation from Sequoia and existing investor DCVC. The massive fundraise comes as",
+    "The startup claims that a third of Fortune 500 companies are already using the model, a remarkably swift adoption by enterprises. Jev is based on a tr",
+    "It doesn’t output text, but instead produces probabilities, or what the company calls “calibrated decisions.” What has users and large corporations so excited about Jev is TypeSafe"
+  ]
+}

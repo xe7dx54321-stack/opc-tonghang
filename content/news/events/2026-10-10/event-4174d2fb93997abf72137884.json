@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-4174d2fb93997abf72137884",
+  "title": "Aether AI 展示 CRIS-0 扰动恢复演示，真实泛化仍待验证",
+  "firstSeen": "2026-10-10",
+  "editionDate": "2026-10-10",
+  "occurrences": [
+    {
+      "id": "occ-4174d2fb93997abf72137884",
+      "fact": {
+        "subject": "Aether AI",
+        "action": "展示官方演示",
+        "object": "CRIS-0 机器人扰动恢复系统",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-10",
+      "reports": [
+        {
+          "ref": "2026-10-10/2026-10-10-aether-cris0-robot-demo",
+          "itemId": "2026-10-10-aether-cris0-robot-demo",
+          "editionDate": "2026-10-10",
+          "url": "https://www.qbitai.com/2026/10/502411.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "relayer",
+          "publishedAt": "2026-10-09T16:47:34+08:00",
+          "title": "Aether AI 展示 CRIS-0 扰动恢复演示，真实泛化仍待验证"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-10"
+}

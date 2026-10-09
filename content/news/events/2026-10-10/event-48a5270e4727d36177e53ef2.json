@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-48a5270e4727d36177e53ef2",
+  "title": "微软推出 Decision-1，把 Agent 路由与分类做成专用评分模型",
+  "firstSeen": "2026-10-10",
+  "editionDate": "2026-10-10",
+  "occurrences": [
+    {
+      "id": "occ-48a5270e4727d36177e53ef2",
+      "fact": {
+        "subject": "Microsoft",
+        "action": "推出",
+        "object": "Microsoft-Decision-1 决策评分模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-10",
+      "reports": [
+        {
+          "ref": "2026-10-10/2026-10-10-microsoft-decision-1",
+          "itemId": "2026-10-10-microsoft-decision-1",
+          "editionDate": "2026-10-10",
+          "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+          "source": "hnrss-newest",
+          "owner": "Microsoft",
+          "role": "principal",
+          "publishedAt": "2026-10-09T18:35:51+00:00",
+          "title": "微软推出 Decision-1，把 Agent 路由与分类做成专用评分模型"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-10"
+}

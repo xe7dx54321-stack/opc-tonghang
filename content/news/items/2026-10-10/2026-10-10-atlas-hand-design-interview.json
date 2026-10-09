@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-10-atlas-hand-design-interview",
+  "url": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
+  "publishedAt": "2026-10-09T16:59:57+00:00",
+  "fact": {
+    "subject": "Boston Dynamics",
+    "action": "在访谈中说明设计取舍",
+    "object": "Atlas 新灵巧手",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "6612ace98ff91a6c40d7bcf8649fc7a06fa48a54b2f2d6e7997096f038bdbb73",
+    "originalUrl": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
+    "originalPublishedAt": "2026-10-09T16:59:57+00:00",
+    "checkedAt": "2026-10-09T23:35:19.078Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "6612ace98ff91a6c40d7bcf8649fc7a06fa48a54b2f2d6e7997096f038bdbb73",
+      "kind": "fact",
+      "quote": "To learn more about the new hand, The Robot Report spoke with Alberto Rodriguez , the director of robot behavior for Atlas at Boston Dynamics. What did Boston Dynamics learn from its humanoid trials that it applied to the new hand? Rodriguez: Having a product roadmap for Atlas has been a key enabler when it came to making hard decisions l"
+    },
+    {
+      "snapshotId": "6612ace98ff91a6c40d7bcf8649fc7a06fa48a54b2f2d6e7997096f038bdbb73",
+      "kind": "fact",
+      "quote": "It is built out of 13 identical actuators, all completely encapsulated, with no fragile cables crossing joints, which is already paying off. We have also learned, for example, that the earlier hands were strong enough to lift 100 lb.-plus heavy objects, so we did not ne"
+    },
+    {
+      "snapshotId": "6612ace98ff91a6c40d7bcf8649fc7a06fa48a54b2f2d6e7997096f038bdbb73",
+      "kind": "background",
+      "quote": "Last week, Boston Dynamics Inc. gave a look at its new humanoid robot hand. The four-fingered hand has 13 degrees of freedom, or DoF, and is directly actuated. The c"
+    }
+  ],
+  "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Boston Dynamics",
+    "Atlas"
+  ],
+  "fetchedAt": "2026-10-09T17:57:56.950Z",
+  "summary": "The Robot Report 10 月 9 日采访 Atlas 机器人行为负责人，进一步披露此前发布的新手采用 13 个封装式同型执行器、避免脆弱跨关节线缆，并把可仿真性用于 sim-to-real 训练；手部发布本身发生于此前。",
+  "investorNote": "工业机器人手部的价值取决于可靠性、维修和训练数据采集速度，非手指外形的拟人程度。",
+  "displayTitle": "Atlas 新手设计访谈披露 13 个同型执行器与仿真训练取舍",
+  "narrative": "The Robot Report 对 Atlas 负责人进行后续访谈，披露此前发布的新手使用 13 个同型封装执行器，并避免脆弱线缆跨关节布置。团队把模块化与高保真仿真视作加快实验和 sim-to-real 训练的条件。这是旧产品的新设计说明，商业价值仍需通过长时间任务可靠性与维修数据验证。",
+  "score": 0.66,
+  "eventRelation": {
+    "type": "SAME_STORY",
+    "targetRef": "2026-10-02/2026-10-02-boston-dynamics-atlas-new-hand",
+    "reason": "同一 Atlas 新手的后续负责人访谈，非再次发布",
+    "newInformation": "披露 13 个封装式同型执行器、不跨关节铺设脆弱线缆及高保真仿真的设计取舍"
+  },
+  "eventId": "event-9f677a6ebab347e997ac33c9",
+  "occurrenceId": "occ-66c7316377de1b00f5bd8b49",
+  "clusterId": "event-9f677a6ebab347e997ac33c9",
+  "duplicateOf": null,
+  "relatedItems": []
+}

@@ -1,0 +1,14 @@
+{
+  "snapshotId": "2da5b80818c7632a63728d8911c820cce3c0691acb0919ef13ebbb1293b666be",
+  "url": "https://www.tomshardware.com/pc-components/ssds/kioxia-unveils-e1-l-ssds-for-hyperscalers-with-up-to-122-88tb-capacity-extreme-density-meets-compact-form-factor",
+  "publishedAt": "2026-10-09T10:30:00+00:00",
+  "publishedAtQuote": "article:published_time: 2026-10-09T10:30:00Z",
+  "retrievedAt": "2026-10-09T23:35:19.079Z",
+  "method": "agent-tool",
+  "contentHash": "70a0d7ba8e5720bf28965593f1b9e5de890c37feb3a5bef7c1bfd046f020b0bd",
+  "quotations": [
+    "Kioxia introduced its LD4-series solid-state drives (SSDs) in an E1.L form factor with capacities up to 122.88TB designed for high-density storage deployments in hyperscale data centers on Friday. The new drives use proven BiCS8 3D QLC NAND and are aimed at read-intensive workloads like AI data repositories and object storage, according to the manufacturer. Tom's",
+    "While the company currently offers capacities of up to 30.72 TB, it has validated an architecture capable of supporting 122.88 TB drives, though it never revealed when such drives are set to be available, something not surprising in a world where 3D NAND memory is sold in advance. Interestingly, Kioxia did no",
+    "Interestingly, Kioxia did not disclose any actual performance characteristics of its LD4-series SSDs, including sequential read and write speeds, random read and write IOPS, or latency. The company also did not reveal their endurance rating"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-10",
+  "window": {
+    "start": 1791502200000,
+    "end": 1791588600000
+  },
+  "digestHash": "aba17ca4481992882dc95ee204e14718959ae2d0d05ab5011140e73b4342279d",
+  "stories": [
+    {
+      "heading": "Anthropic 披露 Claude 越界操作案例，并扩大内部评估的网络隔离",
+      "itemId": "2026-10-10-anthropic-unintended-actions",
+      "eventId": "event-13eb4bc7c2b094bf6ec6b4e0",
+      "occurrenceId": "occ-13eb4bc7c2b094bf6ec6b4e0"
+    },
+    {
+      "heading": "微软推出 Decision-1，把 Agent 路由与分类做成专用评分模型",
+      "itemId": "2026-10-10-microsoft-decision-1",
+      "eventId": "event-48a5270e4727d36177e53ef2",
+      "occurrenceId": "occ-48a5270e4727d36177e53ef2"
+    },
+    {
+      "heading": "Jev 开发商 TypeSafe AI 融资 8.7 亿美元，估值 75 亿美元",
+      "itemId": "2026-10-10-typesafe-series-a-jev",
+      "eventId": "event-bb2cef9b056576e7a9fa490b",
+      "occurrenceId": "occ-bb2cef9b056576e7a9fa490b"
+    },
+    {
+      "heading": "TRAE 合并 Code 与 Work，统一 Agent 工作台和 IDE",
+      "itemId": "2026-10-10-trae-code-work-unified",
+      "eventId": "event-a1f4d5ebe5c7212e7e0147f9",
+      "occurrenceId": "occ-a1f4d5ebe5c7212e7e0147f9"
+    },
+    {
+      "heading": "openJiuwen 开源企业级 AgentOS，瞄准多代理协同与私有部署",
+      "itemId": "2026-10-10-openjiuwen-agentos",
+      "eventId": "event-534987a26f2adf858b0cf932",
+      "occurrenceId": "occ-534987a26f2adf858b0cf932"
+    },
+    {
+      "heading": "Claude Managed Agents 加入动态工作流，可并行调度子代理",
+      "itemId": "2026-10-10-anthropic-managed-agents-dynamic",
+      "eventId": "event-2bca5345e7acf24f84c0ab1e",
+      "occurrenceId": "occ-2bca5345e7acf24f84c0ab1e"
+    },
+    {
+      "heading": "Qwen 发布 Image 2.1 Turbo，图像生成降至八步采样",
+      "itemId": "2026-10-10-qwen-image-21-turbo",
+      "eventId": "event-94dd1e7cfddb1be40a47e2e1",
+      "occurrenceId": "occ-94dd1e7cfddb1be40a47e2e1"
+    },
+    {
+      "heading": "Atlas 新手设计访谈披露 13 个同型执行器与仿真训练取舍",
+      "itemId": "2026-10-10-atlas-hand-design-interview",
+      "eventId": "event-9f677a6ebab347e997ac33c9",
+      "occurrenceId": "occ-66c7316377de1b00f5bd8b49"
+    },
+    {
+      "heading": "铠侠推出 LD4 数据中心 SSD，122.88TB 仍属已验证架构",
+      "itemId": "2026-10-10-kioxia-ld4-ssd",
+      "eventId": "event-e9d7a9c30370702efaba6698",
+      "occurrenceId": "occ-e9d7a9c30370702efaba6698"
+    },
+    {
+      "heading": "Aether AI 展示 CRIS-0 扰动恢复演示，真实泛化仍待验证",
+      "itemId": "2026-10-10-aether-cris0-robot-demo",
+      "eventId": "event-4174d2fb93997abf72137884",
+      "occurrenceId": "occ-4174d2fb93997abf72137884"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-10-aether-cris0-robot-demo.json": "e98579ca061c24573eda478bdce69721e87217230be4e177158c8a8f47cc06a1",
+    "2026-10-10-anthropic-managed-agents-dynamic.json": "348f949ecbbdbcbbc151acd9c97550ed62c385ffef45f30f574c58e1e210b39e",
+    "2026-10-10-anthropic-unintended-actions.json": "f2c437a33186a1afacb2a6d728674545c074ee1709d1cc0c9cf1aedbdd385c68",
+    "2026-10-10-atlas-hand-design-interview.json": "bd071e4ba19e20225a5112df48c74efc33d942d8b729d46aa1c5f8a9d6b92e6b",
+    "2026-10-10-kioxia-ld4-ssd.json": "0d6dfd2865a3f8179d3f9e6700bf1c40c926de15746311614dce48d51e2fec08",
+    "2026-10-10-microsoft-decision-1.json": "1c34583af9a796f54c10c0c7580721eb49ad26c707db7c37680822055127539d",
+    "2026-10-10-openjiuwen-agentos.json": "8c5c6015680d40d6d4db5223c1792e61c54a12db5b1e261f4a6e514449ca7c35",
+    "2026-10-10-qwen-image-21-turbo.json": "42fab768f70d021aaeafa45017c44b2ace3a2d0ebc76bec604bc79454001c7bc",
+    "2026-10-10-trae-code-work-unified.json": "f9ed9f1f2ced90a6803bafdc4a93635c9f23d0229fb13996ab9f1c196e5b3458",
+    "2026-10-10-typesafe-series-a-jev.json": "af63e0b9966697bd4431817ed52b6d32f303445c4724c33355d7b3b78b66f9bc"
+  },
+  "evidenceHashes": {
+    "0e63dc19c703006ae01bc144b9c29ba18654e31104fc77e492c933ab62484bc3.json": "3f24e629fcaa9873887eda3cf1b13bd2f1f9b678803a4bd4628f1b41f93e23d1",
+    "2da5b80818c7632a63728d8911c820cce3c0691acb0919ef13ebbb1293b666be.json": "7af1a968c43359ea2b91ff82ab4533ed384a52890133ed193c6c95138a4b1826",
+    "45f32bcc2059ca337915f3b16e7d7a45df29a2bc7351dd64e81dc698db32037f.json": "c2680be51d996b8ceb78108866fc4995f718f4c688989fb715a1d33ffc0de561",
+    "4e035d7c7733afeeadc3459aa8965e01531fe726af167f990d31a58fb4ffe353.json": "a32dade84cd2df9952409bc26b9541040c0bd72ac520b098370c053cde14e127",
+    "5c4fd01a7d85ab9b240e124648d0d1c813c708a513a039dde313b02dc99790a2.json": "562bc28f6a82a6bda301f282ebfa6756dd542d3a233ccbdf2bc56d02623a80ce",
+    "6612ace98ff91a6c40d7bcf8649fc7a06fa48a54b2f2d6e7997096f038bdbb73.json": "7d9c7a7c2924ff81fdcd6003404127de4f9323857a24f3205c52b77e2f48856c",
+    "abff7fe5fa557dbc28361593e43a7124ca55dd9fc4c193af80ab62718bc84d79.json": "8164973710579bf9e0020535d357d12942a81ea3c88fd8641cd8693b8c68e50f",
+    "c80e482c6e734dea785cf470dc0d51af7db6c66d63e8a058c8fb9cbdca228f8e.json": "106279d3c43603c054ef7d9ce2c3ae273d87478f4276ad851ce6e3c69fb1be91",
+    "e776ef0db094e214281a12e5f39451403ebdec58394d08ac121952fedbc467c2.json": "df8748ebb81d1d1b97f934b812153865b3f25f2320e65f22122715068f640d4b",
+    "e7caf7c7b3f2742f90c5600b353bb8a9e453736a007eb125b54edef1fe65a0f0.json": "bfbc9c2252920fbd2f73e3cecd165bea0bb1d2d6544396b0cd6ae4a8baa4ed22"
+  },
+  "eventsHashes": {
+    "event-13eb4bc7c2b094bf6ec6b4e0.json": "0d9bf16383030d55d69cef610fbaa057291d6b83ce385bfb7966accd22d0e55a",
+    "event-2bca5345e7acf24f84c0ab1e.json": "fe821a2021c264e8c8c0b8f16c0744cad23d04b0e1129b7877360527bf4a5d14",
+    "event-4174d2fb93997abf72137884.json": "8dd632aae946e57992d9d7d08b94d06da4fbb26189832a997bf6abcae44690bf",
+    "event-48a5270e4727d36177e53ef2.json": "4670aa6ea5f9a923a57bb464b8510fc4948a440449d902576c3001f7afbdc3db",
+    "event-534987a26f2adf858b0cf932.json": "3c8a304b73975b2eca5308646947eb8b11bbbb107b997bbbd11b8eba6c2027fa",
+    "event-94dd1e7cfddb1be40a47e2e1.json": "d585f60a451285d94d5f998abbaaac1d229890feabb7dff35829a233569e6082",
+    "event-9f677a6ebab347e997ac33c9.json": "01b31f1f316eeda648b418bd5be174d019527736a488ae6d84f4ee3003dc1314",
+    "event-a1f4d5ebe5c7212e7e0147f9.json": "cb3c040c593e5445900d1e15e28633679981c7ad39fc93947958960a80782ae1",
+    "event-bb2cef9b056576e7a9fa490b.json": "67246b67c40ca161a561f07448736e0ce9ae2644722df0f7c913d16e2ca72412",
+    "event-e9d7a9c30370702efaba6698.json": "dedeb4849980200584415490ba31026dfe5b49497c44cbc47ed0ee2da85e80d4"
+  }
+}

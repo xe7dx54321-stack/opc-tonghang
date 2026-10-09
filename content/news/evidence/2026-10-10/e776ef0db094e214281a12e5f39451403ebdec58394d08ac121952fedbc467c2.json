@@ -1,0 +1,14 @@
+{
+  "snapshotId": "e776ef0db094e214281a12e5f39451403ebdec58394d08ac121952fedbc467c2",
+  "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+  "publishedAt": "2026-10-09T18:35:51+00:00",
+  "publishedAtQuote": "article:published_time: 2026-10-09T18:35:51+00:00",
+  "retrievedAt": "2026-10-09T23:35:19.076Z",
+  "method": "agent-tool",
+  "contentHash": "f1bf9b648d815c3dc7a2eaac3523697bcb4fd18000a2f76c0664cfd01242c4ab",
+  "quotations": [
+    "Today we’re introducing Microsoft-Decision-1 , our new model for fast decision-scoring, available in Microsoft Foundry and through OpenRouter . This model is designed for routing, classification, prioritization, verification, and workflow control, making it easier to incorporate decision intelligence into exi",
+    "Microsoft-Decision-1 achieved the highest accuracy in our 36-benchmark comparison, spanning nearly 150,000 questions across benchmarks kept blind from training. And in our benchmarking, it was the fastest measured: 4.5 times quicker than Quyet-1.0-Large, the runner-up, ",
+    "To build Microsoft-Decision-1, we post trained Qwen3.5-9B for fast, single-pass decision scoring and will soon rebase it on other models, including Microsoft AI (MAI) and OpenAI. When given a fixed set of answer opt"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "snapshotId": "abff7fe5fa557dbc28361593e43a7124ca55dd9fc4c193af80ab62718bc84d79",
+  "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+  "publishedAt": "2026-10-09T16:09:00.000Z",
+  "publishedAtQuote": "article:published_time: 2026-10-09T16:09:00.000Z",
+  "retrievedAt": "2026-10-09T23:35:19.075Z",
+  "method": "agent-tool",
+  "contentHash": "6b122ffab4e9c468cf972cd89d60c6cc4d4852b065819c2320e1c61e0ef9b78e",
+  "quotations": [
+    "This report describes examples of unintended model actions we’ve observed during evaluations and internal use of Claude. It is part of our effort to publish more frequent standalone reports on model behavior and alignment beyond our system cards, which we publish with each model release, and our risk reports, which we publish every three to six months as part of our Responsible",
+    "The cases we’ve identified to date in these categories had minimal real-world impact. We consid",
+    "we have now decided to expand that to include all our internal evaluations until we have confirmed that our security and monitoring measures (described in the remediation section o"
+  ]
+}
