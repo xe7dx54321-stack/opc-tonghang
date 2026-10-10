@@ -1,0 +1,14 @@
+{
+  "snapshotId": "eb8164d40be7f4d2a81dae9fe85da7a0135b0b54619c3190300c0bf8664c154e",
+  "url": "https://www.latent.space/p/standard-bots",
+  "publishedAt": "2026-10-10T14:04:11+00:00",
+  "publishedAtQuote": "2026-10-10T14:04:11+00:00",
+  "retrievedAt": "2026-10-10T23:34:32.517Z",
+  "method": "agent-tool",
+  "contentHash": "949217c324afe7a4d296e4e57cb6c702443c2119c785d34c8f272dca39e35a04",
+  "quotations": [
+    "We spoke to Evan Beard, co-founder and CEO, and Leif Jentoft, Head of AI, to find out more about Standard Bots’ AI stack and how its models work.",
+    "shared base model that customers adapt through demonstrations and fine-tuning. Jentoft added that Standard Bots runs a range of models, including a zero-shot perception system for machine tending.",
+    "Model training happens in the cloud but inference runs locally, said Beard.\nWhat does the model do exactly?\nI asked Jentoft what the learned model does in a typical robot routine, and which parts of the workflow use conventional programming?\nAs an example, he brought up its machine-tending solution for high-mix manufac"
+  ]
+}

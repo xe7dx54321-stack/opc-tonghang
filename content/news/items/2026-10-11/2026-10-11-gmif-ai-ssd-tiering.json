@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-11-gmif-ai-ssd-tiering",
+  "title": "GMIF 2026：日均140万亿Token调用，正在改变SSD的能力与分工",
+  "url": "https://www.leiphone.com/category/chips/OteTEIc4In9VoZg4.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "GMIF 2026",
+    "联芸",
+    "寅谱",
+    "SSD",
+    "NAND"
+  ],
+  "publishedAt": "2026-10-10T09:38:00+08:00",
+  "fetchedAt": "2026-10-10T04:03:52.851Z",
+  "fact": {
+    "subject": "GMIF 2026与会厂商",
+    "action": "展示推理负载下的存储方案",
+    "object": "AI SSD、NAND与分层调度",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "7ee4c3f73dbaff7cef461581e50c8ff20bd70774cab05da4b663fe1c344c3a9c",
+    "originalUrl": "https://www.leiphone.com/category/chips/OteTEIc4In9VoZg4.html",
+    "originalPublishedAt": "2026-10-10T09:38:00+08:00",
+    "checkedAt": "2026-10-10T23:34:32.657Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "7ee4c3f73dbaff7cef461581e50c8ff20bd70774cab05da4b663fe1c344c3a9c",
+      "kind": "fact",
+      "quote": "这是今年第五届GMIF2026全球存储器行业创新峰会释放的第一个明显信号。以全球云数据中心资本支出为例，摩根士丹利执行董事、大中华区半导体分析师颜志天指出，在未计入HBM的情况下，2026年存储占比接近五成，2027年预计进一步升至53%。"
+    },
+    {
+      "snapshotId": "7ee4c3f73dbaff7cef461581e50c8ff20bd70774cab05da4b663fe1c344c3a9c",
+      "kind": "fact",
+      "quote": "而联芸与寅谱联合推出的AI SSD方案则将这种分工落到了推理运行过程中。针对MoE模型参数，当前需要调用的专家权重留在CPU内存和GPU显存中，暂时不会被调用的权重则放入SSD。考虑到SSD访问速度更慢，系统还会预测下一阶段可能调用的专家，提前将相应模型和参数预取回来。"
+    },
+    {
+      "snapshotId": "7ee4c3f73dbaff7cef461581e50c8ff20bd70774cab05da4b663fe1c344c3a9c",
+      "kind": "condition",
+      "quote": "尽管两种方案都在试图补足传统NAND读取速度和带宽的短板，但仍需要解决如缩小阵列会牺牲部分存储密度、NAND的读取时延仍然偏高、有限的写入寿命难以承受KV Cache等数据的频繁更新等问题。"
+    }
+  ],
+  "displayTitle": "GMIF 2026聚焦推理存储：SSD开始承担模型权重与KV Cache分层",
+  "summary": "雷峰网10月10日发布GMIF 2026现场报道，梳理推理和Agent负载给SSD、NAND及存储调度带来的需求。现场披露联芸与寅谱的AI SSD方案：低频MoE专家权重置于SSD并预取，低频KV Cache也下沉到SSD。",
+  "investorNote": "推理基础设施的瓶颈不只在高带宽显存；能够按访问频率移动权重与缓存的控制器和软件栈，开始成为可比较的工程能力。",
+  "narrative": "雷峰网在GMIF 2026现场记录了多家厂商对推理存储的拆解。联芸与寅谱展示的AI SSD方案把暂不调用的MoE专家权重放在SSD，并预取可能用到的参数；KV Cache则按访问频率在内存和SSD之间分层。这里的关键变化不是宣称SSD替代HBM，而是**数据放置和预取策略**开始进入推理系统设计。报道同时列出NAND读取时延、写入寿命等限制，因此应把现场方案视为待规模验证的工程路径，而非已普遍落地的性能结论。",
+  "score": 0.73,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件核对后，本条是不同主体和动作，或当前窗口内独立的新采访、现场报道。"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-5ef2bd79058dccb5f7580271",
+  "eventId": "event-5ef2bd79058dccb5f7580271",
+  "occurrenceId": "occ-5ef2bd79058dccb5f7580271",
+  "relatedItems": []
+}

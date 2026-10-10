@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-57d1c6608f6da072bb4e80c4",
+  "title": "IROS访谈复盘WorldArena 2.0：世界模型评测走向真机",
+  "firstSeen": "2026-10-11",
+  "editionDate": "2026-10-11",
+  "occurrences": [
+    {
+      "id": "occ-57d1c6608f6da072bb4e80c4",
+      "fact": {
+        "subject": "雷峰网",
+        "action": "发表对WorldArena 2.0主办方的采访与赛事复盘",
+        "object": "在线交互与真机操作评测方法",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-11",
+      "reports": [
+        {
+          "ref": "2026-10-11/2026-10-11-worldarena-iros-interview",
+          "itemId": "2026-10-11-worldarena-iros-interview",
+          "editionDate": "2026-10-11",
+          "url": "https://www.leiphone.com/category/private/A0uKolgD2esWoUfT.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-10-10T13:30:00+08:00",
+          "title": "IROS访谈复盘WorldArena 2.0：世界模型评测走向真机"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-11"
+}

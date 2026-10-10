@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-11",
+  "window": {
+    "start": 1791588600000,
+    "end": 1791675000000
+  },
+  "digestHash": "cd7364421b21ca714abd43c48e0023e4ce899b228eee42fc5cffecd463820fa8",
+  "stories": [
+    {
+      "heading": "Nano Banana 2.1上新：4K直出与图像编辑进入同一模型",
+      "itemId": "2026-10-11-nano-banana-21-release",
+      "eventId": "event-8fb8b6bfcce54bed478d1602",
+      "occurrenceId": "occ-8fb8b6bfcce54bed478d1602"
+    },
+    {
+      "heading": "GMIF 2026聚焦推理存储：SSD开始承担模型权重与KV Cache分层",
+      "itemId": "2026-10-11-gmif-ai-ssd-tiering",
+      "eventId": "event-5ef2bd79058dccb5f7580271",
+      "occurrenceId": "occ-5ef2bd79058dccb5f7580271"
+    },
+    {
+      "heading": "Standard Bots拆解工厂机器人AI：模型管感知，常规程序管动作",
+      "itemId": "2026-10-11-standard-bots-factory-ai-interview",
+      "eventId": "event-cf5e31d2279abf6685bea2c1",
+      "occurrenceId": "occ-cf5e31d2279abf6685bea2c1"
+    },
+    {
+      "heading": "IROS访谈复盘WorldArena 2.0：世界模型评测走向真机",
+      "itemId": "2026-10-11-worldarena-iros-interview",
+      "eventId": "event-57d1c6608f6da072bb4e80c4",
+      "occurrenceId": "occ-57d1c6608f6da072bb4e80c4"
+    },
+    {
+      "heading": "FlexiTac在IROS披露开源进展：触觉传感走向复制与商用",
+      "itemId": "2026-10-11-flexitac-iros-ecosystem",
+      "eventId": "event-7453b178bab9b6cf2faada62",
+      "occurrenceId": "occ-7453b178bab9b6cf2faada62"
+    },
+    {
+      "heading": "Step 5 Preview登上OpenRouter增长榜，阶跃预告10月15日开源",
+      "itemId": "2026-10-11-step5-openrouter-ranking",
+      "eventId": "event-a59ca86db8287f88203217b2",
+      "occurrenceId": "occ-a59ca86db8287f88203217b2"
+    },
+    {
+      "heading": "纳德拉提出Agent“紧急刹车”：模型与控制层分开",
+      "itemId": "2026-10-11-nadella-ai-emergency-brake-techcrunch",
+      "eventId": "event-108a2f29c36944b3c2992fc8",
+      "occurrenceId": "occ-108a2f29c36944b3c2992fc8"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-11-flexitac-iros-ecosystem.json": "a147b9c2de82a744c3f40b93c554984fd525b3b01d115dd81cae593796b8fb5a",
+    "2026-10-11-gmif-ai-ssd-tiering.json": "df311f41a1e2cd4e87d1ad11533f89a219c0aac3504a66747ddbbe4740819125",
+    "2026-10-11-nadella-ai-emergency-brake-techcrunch.json": "36e92b26aea02e4c8e243c662e130383816d452494e62614d64e53809f82610d",
+    "2026-10-11-nadella-ai-emergency-brake-verge.json": "08896e44c0c7d064eeac3254fd5c70dcf543b3d28dd2c2a87b44c426800851d2",
+    "2026-10-11-nano-banana-21-release.json": "65cf50784eeb34d6ecce639b8d3cfd46ec90583c8bcab41e65608cb2e91da604",
+    "2026-10-11-standard-bots-factory-ai-interview.json": "b676651e3b59f05cc0d7ed6756919bf7a60f03f17fdae146c43f96b95a6467e9",
+    "2026-10-11-step5-openrouter-ranking.json": "2519c23d5b4e31951d7b5db648787719bd85c8819c7003b9dea6215737dd0e61",
+    "2026-10-11-worldarena-iros-interview.json": "dde96179d3c27c678b6547592b30737c1ae9e37f3d4956343af272b4e8523ddc"
+  },
+  "evidenceHashes": {
+    "1272d4d35321b1c634f0f176ae3380b92e8ae57d607facf7fdad8ea741b83cb5.json": "b8277ba4076d009d6ce8b360dbae3c70ea419b593015cdfefaee2b7c3e43708a",
+    "21f54c7de0066d0a872e67a2958d602f9da675fe748ad9408a46fa015f486647.json": "131eb642779737e5eca503b9e50273ae4e4dd78a3ae9c0ae028fd87322a96af6",
+    "26c3e8247a55d9133da04c2848277846268c9218dfca76f19c947620f1aa8927.json": "208efbceea4f9cf023d92434dcaebcc4258d0f167b332a4b08d3754d92ffe63b",
+    "7ee4c3f73dbaff7cef461581e50c8ff20bd70774cab05da4b663fe1c344c3a9c.json": "2e45b60ccd69d8e69084ac8a5bf473e03fa5ac9101d3d4db2c1505ef9a7458ef",
+    "b72181c8249b1214af5c29c2768a36026398bedcccb387ddd4e9397df32cdf3e.json": "e6239fa3e50afd4c2a714dcf92d80ae6364cd3734fd7749fb0ea16e2ebd5e4ce",
+    "d5465647ee95a997bdf844c55b3c5dc61b4ac1bc4d4ede8aa3e93c24eb3c7f52.json": "87dc181aa1f5999f178f16bc2f0003156a06ab3bf7a0c6b5b5df21ccc9bd5c24",
+    "dd408a299f520bd82fc89453e46b5ed707af4ddf44720df3f6e6cd020dac30f3.json": "c0f949021efedae82d4e907f40374cdabf889927d7e662966fb5ed99856c01ec",
+    "eb8164d40be7f4d2a81dae9fe85da7a0135b0b54619c3190300c0bf8664c154e.json": "04e961703d92586974862ffe2714bc7a865d6ad385ddabb842f7a78aa91b4aa5"
+  },
+  "eventsHashes": {
+    "event-108a2f29c36944b3c2992fc8.json": "59cfff521266ff13989f32251aa2e9c278cd2e531f16a0280377a9ce57fd7532",
+    "event-57d1c6608f6da072bb4e80c4.json": "97160466a67fd682d864eda94b06973fdff25fd8e06e3659910e64fd49ec2a0a",
+    "event-5ef2bd79058dccb5f7580271.json": "e04bfb6902626b4494c65d5ceac45901500734ca84bd35a7361c5b9081025ab3",
+    "event-7453b178bab9b6cf2faada62.json": "ec5bfc18a11cc48f087b6bd3ee8e06edb007a0e6953a5511cd0d84751b06a372",
+    "event-8fb8b6bfcce54bed478d1602.json": "58ee6ecf13c39244fef26219b9d2cc85c77bad85e0df61e70dee9b4b302739de",
+    "event-a59ca86db8287f88203217b2.json": "2dd8ea2212bbc7b4687da349202c1878f0fbb1e53833b0288bb165b60d20b396",
+    "event-cf5e31d2279abf6685bea2c1.json": "675922334c4851b39bfba816180d49a7123a2a0e15c47f8cf4e794fb1ff512f7"
+  }
+}

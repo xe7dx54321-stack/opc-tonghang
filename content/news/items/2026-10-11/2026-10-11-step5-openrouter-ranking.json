@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-11-step5-openrouter-ranking",
+  "title": "阶跃 Step 5 Preview 登上 OpenRouter 全球第一，10月15日开源！",
+  "url": "https://www.leiphone.com/category/industrynews/7iRgmb0q4JgVbmU8.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "阶跃星辰",
+    "Step 5 Preview",
+    "OpenRouter"
+  ],
+  "publishedAt": "2026-10-10T11:37:00+08:00",
+  "fetchedAt": "2026-10-10T06:05:45.330Z",
+  "fact": {
+    "subject": "雷峰网",
+    "action": "报道Step 5 Preview当前榜单表现与开源计划",
+    "object": "OpenRouter Trending与10月15日预定开源",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "dd408a299f520bd82fc89453e46b5ed707af4ddf44720df3f6e6cd020dac30f3",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/7iRgmb0q4JgVbmU8.html",
+    "originalPublishedAt": "2026-10-10T11:37:00+08:00",
+    "checkedAt": "2026-10-10T23:34:32.610Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "dd408a299f520bd82fc89453e46b5ed707af4ddf44720df3f6e6cd020dac30f3",
+      "kind": "fact",
+      "quote": "10 月 10 日消息，阶跃星辰最新旗舰基座模型 Step 5 Preview 登顶 OpenRouter Trending 榜，并位列日榜全球第二，成为近期全球开发者社区最受关注的旗舰模型之一。"
+    },
+    {
+      "snapshotId": "dd408a299f520bd82fc89453e46b5ed707af4ddf44720df3f6e6cd020dac30f3",
+      "kind": "condition",
+      "quote": "据官方消息，这款模型即将于 10 月 15 日正式开源。\n（OpenRouter LLM 排行榜 Trending 榜单最新结果）\n（OpenRouter LLM 排行榜日榜最新结果）\n作为面向全球开发者的大模型聚合平台，OpenRouter 的榜单反映了不同模型的真实使用情况。"
+    },
+    {
+      "snapshotId": "dd408a299f520bd82fc89453e46b5ed707af4ddf44720df3f6e6cd020dac30f3",
+      "kind": "fact",
+      "quote": "Trending 榜主要反映近期用量增长，日榜则按每日模型处理的 Token 总量排名。Step 5 Preview 在双榜位列全球前沿，展现出其在开发者群体中的强劲增长势头与领先的使用规模。"
+    }
+  ],
+  "displayTitle": "Step 5 Preview登上OpenRouter增长榜，阶跃预告10月15日开源",
+  "summary": "雷峰网10月10日报道，阶跃星辰Step 5 Preview位居OpenRouter Trending榜首、日榜第二，并引述官方消息称计划于10月15日开源。Trending反映近期用量增长，日榜按Token处理量排名；这些指标不是模型质量的直接证明。",
+  "investorNote": "榜单增长显示分发和使用动能，但开源许可、权重可得性、推理成本与真实任务表现才决定后续开发者留存。",
+  "narrative": "雷峰网10月10日称，Step 5 Preview在OpenRouter的Trending榜居首、按Token量计算的日榜列第二；阶跃预告**10月15日开源**，目前仍是预告而非已开源。报道也说明两个榜单分别衡量增长速度和处理量，不能直接解读为能力第一。开发者真正需要等开源权重、许可和推理价格落地，再对照编程任务的稳定性；今天能确认的是渠道用量信号和明确的下一日期。",
+  "score": 0.62,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件核对后，本条是不同主体和动作，或当前窗口内独立的新采访、现场报道。"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-a59ca86db8287f88203217b2",
+  "eventId": "event-a59ca86db8287f88203217b2",
+  "occurrenceId": "occ-a59ca86db8287f88203217b2",
+  "relatedItems": []
+}

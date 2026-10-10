@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-11-nadella-ai-emergency-brake-verge",
+  "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Microsoft",
+    "Satya Nadella"
+  ],
+  "publishedAt": "2026-10-10T22:10:17+00:00",
+  "fetchedAt": "2026-10-10T23:18:05.163Z",
+  "fact": {
+    "subject": "Satya Nadella",
+    "action": "公开提出AI系统安全架构主张",
+    "object": "模型与编排层分离、可追溯记录和人工紧急暂停",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d5465647ee95a997bdf844c55b3c5dc61b4ac1bc4d4ede8aa3e93c24eb3c7f52",
+    "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "originalPublishedAt": "2026-10-10T22:10:17+00:00",
+    "checkedAt": "2026-10-10T23:34:32.563Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d5465647ee95a997bdf844c55b3c5dc61b4ac1bc4d4ede8aa3e93c24eb3c7f52",
+      "kind": "fact",
+      "quote": "In a lengthy post on X, Microsoft’s CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a “set of nested black boxes” whose advice and actions we simply accept or reject. He calls for building a mor"
+    },
+    {
+      "snapshotId": "d5465647ee95a997bdf844c55b3c5dc61b4ac1bc4d4ede8aa3e93c24eb3c7f52",
+      "kind": "fact",
+      "quote": "Many of his recommendations align with what we’ve heard from others in the industry: timely incident disclosure, independent audits, verifiable data, and containment. It’s on that last point that he appears to go slightly farther than some others in the field, saying:\nWe must assume a model is compromised and contain i"
+    }
+  ],
+  "displayTitle": "The Verge报道纳德拉同一则Agent安全表态",
+  "summary": "The Verge于10月10日报道纳德拉同一则公开发文，强调模型应视作可能被攻破，需要可追溯记录、隔离和人工紧急停止。该报道与TechCrunch指向同一次发言。",
+  "investorNote": "Agent安全能力将向运行时控制、日志审计与人工接管转移；应关注具体实现和企业采购要求，而不是把CEO表态当成已经部署的控制功能。",
+  "narrative": "The Verge对纳德拉同一则公开发文的报道补充了模型预设受损、隔离与人工停止的表述，和TechCrunch所报道的是同一次安全架构主张。",
+  "score": 0.51,
+  "eventRelation": {
+    "type": "SAME_OCCURRENCE",
+    "targetRef": "2026-10-11/2026-10-11-nadella-ai-emergency-brake-techcrunch",
+    "reason": "两篇报道均逐句引用纳德拉10月10日同一则X发文，讨论模型隔离、可审计记录与紧急暂停。"
+  },
+  "duplicateOf": "2026-10-11-nadella-ai-emergency-brake-techcrunch",
+  "clusterId": "event-108a2f29c36944b3c2992fc8",
+  "eventId": "event-108a2f29c36944b3c2992fc8",
+  "occurrenceId": "occ-108a2f29c36944b3c2992fc8"
+}

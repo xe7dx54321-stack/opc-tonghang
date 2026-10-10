@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-11-nadella-ai-emergency-brake-techcrunch",
+  "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+  "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Microsoft",
+    "Satya Nadella"
+  ],
+  "publishedAt": "2026-10-10T21:47:51+00:00",
+  "fetchedAt": "2026-10-10T22:17:30.868Z",
+  "fact": {
+    "subject": "Satya Nadella",
+    "action": "公开提出AI系统安全架构主张",
+    "object": "模型与编排层分离、可追溯记录和人工紧急暂停",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "21f54c7de0066d0a872e67a2958d602f9da675fe748ad9408a46fa015f486647",
+    "originalUrl": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "originalPublishedAt": "2026-10-10T21:47:51+00:00",
+    "checkedAt": "2026-10-10T23:34:32.540Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "21f54c7de0066d0a872e67a2958d602f9da675fe748ad9408a46fa015f486647",
+      "kind": "fact",
+      "quote": "In a Saturday morning post on X, Nadella wrote that it’s time “to step back and assess the trust architecture” of AI."
+    },
+    {
+      "snapshotId": "21f54c7de0066d0a872e67a2958d602f9da675fe748ad9408a46fa015f486647",
+      "kind": "fact",
+      "quote": "means separating the model from the harness that orchestrates its work,” as well as “externalizing controls and safeguards."
+    },
+    {
+      "snapshotId": "21f54c7de0066d0a872e67a2958d602f9da675fe748ad9408a46fa015f486647",
+      "kind": "condition",
+      "quote": "We must assume a model is compromised and contain it from the start,” he said. “Think of it like an emergency brake."
+    }
+  ],
+  "displayTitle": "纳德拉提出Agent“紧急刹车”：模型与控制层分开",
+  "summary": "TechCrunch于10月10日报道，微软CEO纳德拉在当日公开发文，主张把模型与编排工作流的harness分开，对重要模型动作保存防篡改、可读的记录，并允许授权人员在任务中暂停或关闭模型。此为安全架构主张，而非微软新产品发布。",
+  "investorNote": "Agent安全能力将向运行时控制、日志审计与人工接管转移；应关注具体实现和企业采购要求，而不是把CEO表态当成已经部署的控制功能。",
+  "narrative": "据TechCrunch和The Verge对纳德拉同一则发文的报道，他提出把模型与编排它工作的控制层分开，对重要动作留存防篡改、可读记录，并让授权人员可以中途暂停或关闭任务。他用“紧急刹车”概括这一思路。这里是**架构主张，不是微软产品上线**；结合前一日Anthropic披露的内部评估越界案例看，企业Agent的采购问题正在从模型能否完成任务，延伸到故障时谁能看见、追溯并接管。",
+  "score": 0.57,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件核对后，本条是不同主体和动作，或当前窗口内独立的新采访、现场报道。"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-108a2f29c36944b3c2992fc8",
+  "eventId": "event-108a2f29c36944b3c2992fc8",
+  "occurrenceId": "occ-108a2f29c36944b3c2992fc8",
+  "relatedItems": []
+}

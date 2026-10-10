@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a59ca86db8287f88203217b2",
+  "title": "Step 5 Preview登上OpenRouter增长榜，阶跃预告10月15日开源",
+  "firstSeen": "2026-10-11",
+  "editionDate": "2026-10-11",
+  "occurrences": [
+    {
+      "id": "occ-a59ca86db8287f88203217b2",
+      "fact": {
+        "subject": "雷峰网",
+        "action": "报道Step 5 Preview当前榜单表现与开源计划",
+        "object": "OpenRouter Trending与10月15日预定开源",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-11",
+      "reports": [
+        {
+          "ref": "2026-10-11/2026-10-11-step5-openrouter-ranking",
+          "itemId": "2026-10-11-step5-openrouter-ranking",
+          "editionDate": "2026-10-11",
+          "url": "https://www.leiphone.com/category/industrynews/7iRgmb0q4JgVbmU8.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "relayer",
+          "publishedAt": "2026-10-10T11:37:00+08:00",
+          "title": "Step 5 Preview登上OpenRouter增长榜，阶跃预告10月15日开源"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-11"
+}

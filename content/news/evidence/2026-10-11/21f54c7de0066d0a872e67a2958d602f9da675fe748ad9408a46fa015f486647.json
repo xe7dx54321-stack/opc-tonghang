@@ -1,0 +1,14 @@
+{
+  "snapshotId": "21f54c7de0066d0a872e67a2958d602f9da675fe748ad9408a46fa015f486647",
+  "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+  "publishedAt": "2026-10-10T21:47:51+00:00",
+  "publishedAtQuote": "2026-10-10T21:47:51+00:00",
+  "retrievedAt": "2026-10-10T23:34:32.540Z",
+  "method": "agent-tool",
+  "contentHash": "1d287ab44c1905d79e991706f9fc36c7ccb58b02ee9e51c80200efbaf283f5bd",
+  "quotations": [
+    "In a Saturday morning post on X, Nadella wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "means separating the model from the harness that orchestrates its work,” as well as “externalizing controls and safeguards.",
+    "We must assume a model is compromised and contain it from the start,” he said. “Think of it like an emergency brake."
+  ]
+}

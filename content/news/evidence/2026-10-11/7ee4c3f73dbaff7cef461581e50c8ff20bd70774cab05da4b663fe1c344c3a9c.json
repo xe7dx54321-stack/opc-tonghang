@@ -1,0 +1,14 @@
+{
+  "snapshotId": "7ee4c3f73dbaff7cef461581e50c8ff20bd70774cab05da4b663fe1c344c3a9c",
+  "url": "https://www.leiphone.com/category/chips/OteTEIc4In9VoZg4.html",
+  "publishedAt": "2026-10-10T09:38:00+08:00",
+  "publishedAtQuote": "2026-10-10 09:38",
+  "retrievedAt": "2026-10-10T23:34:32.657Z",
+  "method": "agent-tool",
+  "contentHash": "aabec61f301833c699643829ab9d755cf3bf0bb1f55d0b168243f69e12eec04e",
+  "quotations": [
+    "这是今年第五届GMIF2026全球存储器行业创新峰会释放的第一个明显信号。以全球云数据中心资本支出为例，摩根士丹利执行董事、大中华区半导体分析师颜志天指出，在未计入HBM的情况下，2026年存储占比接近五成，2027年预计进一步升至53%。",
+    "而联芸与寅谱联合推出的AI SSD方案则将这种分工落到了推理运行过程中。针对MoE模型参数，当前需要调用的专家权重留在CPU内存和GPU显存中，暂时不会被调用的权重则放入SSD。考虑到SSD访问速度更慢，系统还会预测下一阶段可能调用的专家，提前将相应模型和参数预取回来。",
+    "尽管两种方案都在试图补足传统NAND读取速度和带宽的短板，但仍需要解决如缩小阵列会牺牲部分存储密度、NAND的读取时延仍然偏高、有限的写入寿命难以承受KV Cache等数据的频繁更新等问题。"
+  ]
+}

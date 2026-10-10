@@ -1,0 +1,14 @@
+{
+  "snapshotId": "1272d4d35321b1c634f0f176ae3380b92e8ae57d607facf7fdad8ea741b83cb5",
+  "url": "https://www.leiphone.com/category/private/A0uKolgD2esWoUfT.html",
+  "publishedAt": "2026-10-10T13:30:00+08:00",
+  "publishedAtQuote": "2026-10-10 13:30",
+  "retrievedAt": "2026-10-10T23:34:32.587Z",
+  "method": "agent-tool",
+  "contentHash": "5401da9af41d262669bfc43f1572505327f520b324017164991bebbd25251a0e",
+  "quotations": [
+    "围绕赛事定位、多机构协作、赛道设置与榜单结果，AI 科技评论还采访到了 WorldArena 2.0 Challenge 主办方清华团队。他们的回答，也进一步说明了这套评测在走向在线交互和真机执行时，如何设计、如何协作，又有哪些边界。",
+    "Track 2 进一步进入连续交互。世界模型需要作为强化学习环境，策略在其中反复执行动作、获得新的状态和奖励，再继续更新。训练完成后，策略还要回到 RoboTwin 2.0 中测试任务成功率，检验世界模型是否真正支持在线策略训练。",
+    "9 月 16 日，WorldArena 2.0 Challenge 全球终榜揭晓。三条赛道独立排名、独立评奖，按官网公布的奖项金额计算，总奖金为 7000 美元。▎Track 1：WorldIncept，不只赢在视频“好看”\nTrack 1 终榜共有 81 个模型获得最终成绩。"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-11-worldarena-iros-interview",
+  "title": "JEPA、空间智能路线正面交锋：WorldArena 2.0 挑战赛开考「能不能被机器人真正用起来」| IROS 2026",
+  "url": "https://www.leiphone.com/category/private/A0uKolgD2esWoUfT.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [
+    "WorldArena 2.0",
+    "RoboTwin 2.0"
+  ],
+  "publishedAt": "2026-10-10T13:30:00+08:00",
+  "fetchedAt": "2026-10-10T07:36:37.564Z",
+  "fact": {
+    "subject": "雷峰网",
+    "action": "发表对WorldArena 2.0主办方的采访与赛事复盘",
+    "object": "在线交互与真机操作评测方法",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "1272d4d35321b1c634f0f176ae3380b92e8ae57d607facf7fdad8ea741b83cb5",
+    "originalUrl": "https://www.leiphone.com/category/private/A0uKolgD2esWoUfT.html",
+    "originalPublishedAt": "2026-10-10T13:30:00+08:00",
+    "checkedAt": "2026-10-10T23:34:32.587Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "1272d4d35321b1c634f0f176ae3380b92e8ae57d607facf7fdad8ea741b83cb5",
+      "kind": "fact",
+      "quote": "围绕赛事定位、多机构协作、赛道设置与榜单结果，AI 科技评论还采访到了 WorldArena 2.0 Challenge 主办方清华团队。他们的回答，也进一步说明了这套评测在走向在线交互和真机执行时，如何设计、如何协作，又有哪些边界。"
+    },
+    {
+      "snapshotId": "1272d4d35321b1c634f0f176ae3380b92e8ae57d607facf7fdad8ea741b83cb5",
+      "kind": "fact",
+      "quote": "Track 2 进一步进入连续交互。世界模型需要作为强化学习环境，策略在其中反复执行动作、获得新的状态和奖励，再继续更新。训练完成后，策略还要回到 RoboTwin 2.0 中测试任务成功率，检验世界模型是否真正支持在线策略训练。"
+    },
+    {
+      "snapshotId": "1272d4d35321b1c634f0f176ae3380b92e8ae57d607facf7fdad8ea741b83cb5",
+      "kind": "condition",
+      "quote": "9 月 16 日，WorldArena 2.0 Challenge 全球终榜揭晓。三条赛道独立排名、独立评奖，按官网公布的奖项金额计算，总奖金为 7000 美元。▎Track 1：WorldIncept，不只赢在视频“好看”\nTrack 1 终榜共有 81 个模型获得最终成绩。"
+    }
+  ],
+  "displayTitle": "IROS访谈复盘WorldArena 2.0：世界模型评测走向真机",
+  "summary": "雷峰网10月10日刊出对WorldArena 2.0挑战赛主办方的采访与赛事复盘。该赛事终榜已于9月16日公布；本次文章解释新增的在线强化学习和真实机器人赛道，区分视频质量、可供策略训练的环境与真实操作结果。",
+  "investorNote": "世界模型评测若仍只看视频观感，会漏掉连续交互误差；面向机器人投资与研发，应优先追踪任务成功率和真机鲁棒性。",
+  "narrative": "雷峰网10月10日的主办方访谈复盘了WorldArena 2.0的方法设计。**终榜是在9月16日公布的**，并非今天新发布；这篇新采访的价值是讲清三层递进：视频质量、作为强化学习环境的连续交互，以及真实机器人操作。文中说Track 2会把策略放回RoboTwin 2.0测试成功率，Track 3加入视触觉任务。对世界模型团队的筛选，单张画面或短视频分数因此只能算前置指标，真机中的任务完成与受扰恢复才更接近产品门槛。",
+  "score": 0.61,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件核对后，本条是不同主体和动作，或当前窗口内独立的新采访、现场报道。"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-57d1c6608f6da072bb4e80c4",
+  "eventId": "event-57d1c6608f6da072bb4e80c4",
+  "occurrenceId": "occ-57d1c6608f6da072bb4e80c4",
+  "relatedItems": []
+}

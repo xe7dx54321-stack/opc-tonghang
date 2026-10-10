@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-cf5e31d2279abf6685bea2c1",
+  "title": "Standard Bots拆解工厂机器人AI：模型管感知，常规程序管动作",
+  "firstSeen": "2026-10-11",
+  "editionDate": "2026-10-11",
+  "occurrences": [
+    {
+      "id": "occ-cf5e31d2279abf6685bea2c1",
+      "fact": {
+        "subject": "Standard Bots",
+        "action": "接受深度访谈并解释工厂机器人AI架构",
+        "object": "现场演示、自适应训练与本地推理",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-11",
+      "reports": [
+        {
+          "ref": "2026-10-11/2026-10-11-standard-bots-factory-ai-interview",
+          "itemId": "2026-10-11-standard-bots-factory-ai-interview",
+          "editionDate": "2026-10-11",
+          "url": "https://www.latent.space/p/standard-bots",
+          "source": "latent-space",
+          "owner": "Latent Space",
+          "role": "observer",
+          "publishedAt": "2026-10-10T14:04:11+00:00",
+          "title": "Standard Bots拆解工厂机器人AI：模型管感知，常规程序管动作"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-11"
+}

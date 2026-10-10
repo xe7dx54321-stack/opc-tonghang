@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-11-nano-banana-21-release",
+  "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+  "url": "https://www.qbitai.com/2026/10/502484.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Google",
+    "Nano Banana 2.1",
+    "Gemini App",
+    "Google AI Studio"
+  ],
+  "publishedAt": "2026-10-10T16:52:16+08:00",
+  "fetchedAt": "2026-10-10T14:42:33.417Z",
+  "fact": {
+    "subject": "Google",
+    "action": "发布Nano Banana 2.1图像模型",
+    "object": "图像编辑、4K生成和API价格调整",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "26c3e8247a55d9133da04c2848277846268c9218dfca76f19c947620f1aa8927",
+    "originalUrl": "https://www.qbitai.com/2026/10/502484.html",
+    "originalPublishedAt": "2026-10-10T16:52:16+08:00",
+    "checkedAt": "2026-10-10T23:34:32.681Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "26c3e8247a55d9133da04c2848277846268c9218dfca76f19c947620f1aa8927",
+      "kind": "fact",
+      "quote": "凌晨，Google突然发布了新一代生图模型Nano Banana 2.1，围绕视觉设计、蒙版编辑、主体一致性和画面真实自然性实现了全面升级。\n它不仅能4K直出摄影级大片，还能自由修图，一键替换背景，精准治愈设计师们“改图改到崩溃”的烦恼：\n△画圈保留主体并无缝替换背景\n△下棋，图源推特@Fries\n战绩也相当能打。"
+    },
+    {
+      "snapshotId": "26c3e8247a55d9133da04c2848277846268c9218dfca76f19c947620f1aa8927",
+      "kind": "fact",
+      "quote": "目前，Nano Banana2.1已经上线GeminiAPP、Google AIStudio等平台（以Gemini 3.6 Flash为底层框架），每天赠送50积分，手痒的小伙伴们可以先去白嫖一波。"
+    },
+    {
+      "snapshotId": "26c3e8247a55d9133da04c2848277846268c9218dfca76f19c947620f1aa8927",
+      "kind": "condition",
+      "quote": "谷歌大手一挥，将Nano Banana 2.1 1K、2K图片的生成价格直接砍了半，4K也便宜了约25%。\n△AI生成\n大家忍不住感慨，Google家的香蕉真是越来越好吃了（doge）。"
+    }
+  ],
+  "displayTitle": "Nano Banana 2.1上新：4K直出与图像编辑进入同一模型",
+  "summary": "量子位10月10日报道，Google推出Nano Banana 2.1，覆盖4K图像生成、蒙版编辑和主体一致性等能力。报道列出Gemini App、Google AI Studio和付费API入口，并称1K、2K图片的API生成价格较上代减半，4K价格下降约四分之一。",
+  "investorNote": "图像模型的竞争正在从单次画质扩展到编辑工作流和API单位成本；价格与可用入口比单一榜单更接近开发者的采购决策。",
+  "narrative": "据量子位10月10日的原文，Google推出Nano Banana 2.1，覆盖4K生成、蒙版编辑与主体一致性。报道称模型已进入Gemini App、Google AI Studio和付费API，1K与2K图片的生成价格较上代减半，4K降约四分之一。Arena分数来自该文引用的第三方榜单，实际企业采购还需核对官方价格页、区域可用性和复杂编辑任务中的一致性；这次更值得看的是生成、修图与API成本能否形成连贯工作流。",
+  "score": 0.82,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件核对后，本条是不同主体和动作，或当前窗口内独立的新采访、现场报道。"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-8fb8b6bfcce54bed478d1602",
+  "eventId": "event-8fb8b6bfcce54bed478d1602",
+  "occurrenceId": "occ-8fb8b6bfcce54bed478d1602",
+  "relatedItems": []
+}

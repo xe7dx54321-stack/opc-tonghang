@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "event-108a2f29c36944b3c2992fc8",
+  "title": "纳德拉提出Agent“紧急刹车”：模型与控制层分开",
+  "firstSeen": "2026-10-11",
+  "editionDate": "2026-10-11",
+  "occurrences": [
+    {
+      "id": "occ-108a2f29c36944b3c2992fc8",
+      "fact": {
+        "subject": "Satya Nadella",
+        "action": "公开提出AI系统安全架构主张",
+        "object": "模型与编排层分离、可追溯记录和人工紧急暂停",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-11",
+      "reports": [
+        {
+          "ref": "2026-10-11/2026-10-11-nadella-ai-emergency-brake-techcrunch",
+          "itemId": "2026-10-11-nadella-ai-emergency-brake-techcrunch",
+          "editionDate": "2026-10-11",
+          "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-10T21:47:51+00:00",
+          "title": "纳德拉提出Agent“紧急刹车”：模型与控制层分开"
+        },
+        {
+          "ref": "2026-10-11/2026-10-11-nadella-ai-emergency-brake-verge",
+          "itemId": "2026-10-11-nadella-ai-emergency-brake-verge",
+          "editionDate": "2026-10-11",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-10-10T22:10:17+00:00",
+          "title": "The Verge报道纳德拉同一则Agent安全表态"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-11"
+}

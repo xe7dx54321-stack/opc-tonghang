@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-8fb8b6bfcce54bed478d1602",
+  "title": "Nano Banana 2.1上新：4K直出与图像编辑进入同一模型",
+  "firstSeen": "2026-10-11",
+  "editionDate": "2026-10-11",
+  "occurrences": [
+    {
+      "id": "occ-8fb8b6bfcce54bed478d1602",
+      "fact": {
+        "subject": "Google",
+        "action": "发布Nano Banana 2.1图像模型",
+        "object": "图像编辑、4K生成和API价格调整",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-11",
+      "reports": [
+        {
+          "ref": "2026-10-11/2026-10-11-nano-banana-21-release",
+          "itemId": "2026-10-11-nano-banana-21-release",
+          "editionDate": "2026-10-11",
+          "url": "https://www.qbitai.com/2026/10/502484.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "observer",
+          "publishedAt": "2026-10-10T16:52:16+08:00",
+          "title": "Nano Banana 2.1上新：4K直出与图像编辑进入同一模型"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-11"
+}

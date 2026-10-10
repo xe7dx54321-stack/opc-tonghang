@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-5ef2bd79058dccb5f7580271",
+  "title": "GMIF 2026聚焦推理存储：SSD开始承担模型权重与KV Cache分层",
+  "firstSeen": "2026-10-11",
+  "editionDate": "2026-10-11",
+  "occurrences": [
+    {
+      "id": "occ-5ef2bd79058dccb5f7580271",
+      "fact": {
+        "subject": "GMIF 2026与会厂商",
+        "action": "展示推理负载下的存储方案",
+        "object": "AI SSD、NAND与分层调度",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-11",
+      "reports": [
+        {
+          "ref": "2026-10-11/2026-10-11-gmif-ai-ssd-tiering",
+          "itemId": "2026-10-11-gmif-ai-ssd-tiering",
+          "editionDate": "2026-10-11",
+          "url": "https://www.leiphone.com/category/chips/OteTEIc4In9VoZg4.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-10-10T09:38:00+08:00",
+          "title": "GMIF 2026聚焦推理存储：SSD开始承担模型权重与KV Cache分层"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-11"
+}

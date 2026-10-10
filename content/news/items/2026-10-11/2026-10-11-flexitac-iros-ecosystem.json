@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-11-flexitac-iros-ecosystem",
+  "title": "让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026",
+  "url": "https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "FlexiTac",
+    "哥伦比亚大学",
+    "ADI",
+    "LeRobot"
+  ],
+  "publishedAt": "2026-10-10T11:25:00+08:00",
+  "fetchedAt": "2026-10-10T05:35:22.371Z",
+  "fact": {
+    "subject": "李昀烛团队",
+    "action": "在IROS报告FlexiTac开源后进展",
+    "object": "传感器应用、商业化合作与技术限制",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "b72181c8249b1214af5c29c2768a36026398bedcccb387ddd4e9397df32cdf3e",
+    "originalUrl": "https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html",
+    "originalPublishedAt": "2026-10-10T11:25:00+08:00",
+    "checkedAt": "2026-10-10T23:34:32.634Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "b72181c8249b1214af5c29c2768a36026398bedcccb387ddd4e9397df32cdf3e",
+      "kind": "fact",
+      "quote": "在本届 IROS 2026 的触觉专题研讨会上，李昀烛系统介绍了这一平台开源一年半后的进展与生态。FlexiTac 是一套低成本、开源、可扩展的压阻式柔性触觉传感器，团队同时开源了完整 BOM、详细组装说明以及用于读取触觉数据的软件。"
+    },
+    {
+      "snapshotId": "b72181c8249b1214af5c29c2768a36026398bedcccb387ddd4e9397df32cdf3e",
+      "kind": "fact",
+      "quote": "我们也在与亚德诺半导体（Analog Devices，ADI）展开合作，由他们开发这款传感器的商业化版本。 他们已经在多场会议上演示了商业化样机，其中就包括 GTC 大会，演示内容是一些很有代表性的机器人操作任务。"
+    },
+    {
+      "snapshotId": "b72181c8249b1214af5c29c2768a36026398bedcccb387ddd4e9397df32cdf3e",
+      "kind": "condition",
+      "quote": "压阻材料本身并不能直接测得剪切力。 但我们发现，如果传感器的空间分辨率、时间分辨率足够高，就可以对剪切力做近似估计。 我们亚德诺半导体的合作团队正在提升传感器分辨率，我记得目标分辨率至少是现有版本的 5‑7 倍。"
+    }
+  ],
+  "displayTitle": "FlexiTac在IROS披露开源进展：触觉传感走向复制与商用",
+  "summary": "雷峰网10月10日刊出李昀烛团队在IROS触觉研讨会的报告。FlexiTac平台已开源约一年半；此次报告回顾BOM、组装文档、LeRobot集成与多种应用，并谈及与ADI合作开发商业化版本。团队说明压阻材料不能直接测量剪切力。",
+  "investorNote": "具身操作的数据瓶颈不止相机；可复制、可维护的触觉硬件与数据格式，比单次演示更决定训练数据能否扩大规模。",
+  "narrative": "雷峰网记录了李昀烛团队在IROS对FlexiTac的进展说明。**传感器已开源约一年半**，本次并不是首次发布；报告新增的观察点是软硬件文档、机器人学习框架集成及与ADI开发商用版本的进展。团队也承认压阻材料无法直接测量剪切力，只能通过更高时空分辨率近似推断。对触觉赛道，投资判断需要从演示效果转向批次一致性、长期漂移和规模制造；这些指标决定视觉与触觉配对数据能否稳定积累。",
+  "score": 0.6,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件核对后，本条是不同主体和动作，或当前窗口内独立的新采访、现场报道。"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-7453b178bab9b6cf2faada62",
+  "eventId": "event-7453b178bab9b6cf2faada62",
+  "occurrenceId": "occ-7453b178bab9b6cf2faada62",
+  "relatedItems": []
+}

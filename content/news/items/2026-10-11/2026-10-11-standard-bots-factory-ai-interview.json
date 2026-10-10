@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-11-standard-bots-factory-ai-interview",
+  "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+  "url": "https://www.latent.space/p/standard-bots",
+  "source": "latent-space",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [
+    "Standard Bots",
+    "Latent Space"
+  ],
+  "publishedAt": "2026-10-10T14:04:11+00:00",
+  "fetchedAt": "2026-10-10T14:12:08.460Z",
+  "fact": {
+    "subject": "Standard Bots",
+    "action": "接受深度访谈并解释工厂机器人AI架构",
+    "object": "现场演示、自适应训练与本地推理",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Latent Space",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "eb8164d40be7f4d2a81dae9fe85da7a0135b0b54619c3190300c0bf8664c154e",
+    "originalUrl": "https://www.latent.space/p/standard-bots",
+    "originalPublishedAt": "2026-10-10T14:04:11+00:00",
+    "checkedAt": "2026-10-10T23:34:32.517Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "eb8164d40be7f4d2a81dae9fe85da7a0135b0b54619c3190300c0bf8664c154e",
+      "kind": "fact",
+      "quote": "We spoke to Evan Beard, co-founder and CEO, and Leif Jentoft, Head of AI, to find out more about Standard Bots’ AI stack and how its models work."
+    },
+    {
+      "snapshotId": "eb8164d40be7f4d2a81dae9fe85da7a0135b0b54619c3190300c0bf8664c154e",
+      "kind": "fact",
+      "quote": "shared base model that customers adapt through demonstrations and fine-tuning. Jentoft added that Standard Bots runs a range of models, including a zero-shot perception system for machine tending."
+    },
+    {
+      "snapshotId": "eb8164d40be7f4d2a81dae9fe85da7a0135b0b54619c3190300c0bf8664c154e",
+      "kind": "condition",
+      "quote": "Model training happens in the cloud but inference runs locally, said Beard.\nWhat does the model do exactly?\nI asked Jentoft what the learned model does in a typical robot routine, and which parts of the workflow use conventional programming?\nAs an example, he brought up its machine-tending solution for high-mix manufac"
+    }
+  ],
+  "displayTitle": "Standard Bots拆解工厂机器人AI：模型管感知，常规程序管动作",
+  "summary": "Latent Space于10月10日刊出对Standard Bots创始人和AI负责人的访谈。公司称基础模型可经示教和微调适配任务；机床上下料场景由模型定位与识别零件，运动和工作单元逻辑仍采用常规编程，训练在云端、推理在工厂本地。",
+  "investorNote": "制造场景强调周期、稳定性与可控性，模型承担感知等易变环节，常规控制维持确定性，可能比全端到端叙事更接近短期部署。",
+  "narrative": "Latent Space新访谈把Standard Bots的技术分工讲得很具体：机床上下料时，模型识别零件，传统程序负责运动与工作单元逻辑；客户可以通过示教和微调适配共享基础模型，训练放在云端，推理留在工厂现场。这是公司的自述，尚不能等同独立产线成效。它提示一个现实路径：工业机器人要先达到节拍与可靠性要求，模型未必需要接管整条控制链；感知、异常恢复和少量数据校正更可能先成为商业价值所在。",
+  "score": 0.69,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件核对后，本条是不同主体和动作，或当前窗口内独立的新采访、现场报道。"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-cf5e31d2279abf6685bea2c1",
+  "eventId": "event-cf5e31d2279abf6685bea2c1",
+  "occurrenceId": "occ-cf5e31d2279abf6685bea2c1",
+  "relatedItems": []
+}

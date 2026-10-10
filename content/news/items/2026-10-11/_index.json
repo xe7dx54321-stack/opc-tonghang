@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-11",
+  "itemCount": 8,
+  "storyCount": 7,
+  "clusterCount": 7,
+  "files": [
+    "2026-10-11-standard-bots-factory-ai-interview.json",
+    "2026-10-11-nadella-ai-emergency-brake-techcrunch.json",
+    "2026-10-11-nadella-ai-emergency-brake-verge.json",
+    "2026-10-11-worldarena-iros-interview.json",
+    "2026-10-11-step5-openrouter-ranking.json",
+    "2026-10-11-flexitac-iros-ecosystem.json",
+    "2026-10-11-gmif-ai-ssd-tiering.json",
+    "2026-10-11-nano-banana-21-release.json"
+  ],
+  "representatives": [
+    "2026-10-11-standard-bots-factory-ai-interview",
+    "2026-10-11-nadella-ai-emergency-brake-techcrunch",
+    "2026-10-11-worldarena-iros-interview",
+    "2026-10-11-step5-openrouter-ranking",
+    "2026-10-11-flexitac-iros-ecosystem",
+    "2026-10-11-gmif-ai-ssd-tiering",
+    "2026-10-11-nano-banana-21-release"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-7453b178bab9b6cf2faada62",
+  "title": "FlexiTac在IROS披露开源进展：触觉传感走向复制与商用",
+  "firstSeen": "2026-10-11",
+  "editionDate": "2026-10-11",
+  "occurrences": [
+    {
+      "id": "occ-7453b178bab9b6cf2faada62",
+      "fact": {
+        "subject": "李昀烛团队",
+        "action": "在IROS报告FlexiTac开源后进展",
+        "object": "传感器应用、商业化合作与技术限制",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-11",
+      "reports": [
+        {
+          "ref": "2026-10-11/2026-10-11-flexitac-iros-ecosystem",
+          "itemId": "2026-10-11-flexitac-iros-ecosystem",
+          "editionDate": "2026-10-11",
+          "url": "https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-10-10T11:25:00+08:00",
+          "title": "FlexiTac在IROS披露开源进展：触觉传感走向复制与商用"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-11"
+}
