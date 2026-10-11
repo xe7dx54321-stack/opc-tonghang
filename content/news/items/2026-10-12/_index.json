@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-12",
+  "itemCount": 3,
+  "storyCount": 3,
+  "clusterCount": 3,
+  "files": [
+    "2026-10-12-microsoft-ai-safety-rules.json",
+    "2026-10-12-yandex-vladimir-datacenter.json",
+    "2026-10-12-dac-2027-call.json"
+  ],
+  "representatives": [
+    "2026-10-12-microsoft-ai-safety-rules",
+    "2026-10-12-yandex-vladimir-datacenter",
+    "2026-10-12-dac-2027-call"
+  ]
+}

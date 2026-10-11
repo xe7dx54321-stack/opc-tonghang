@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-cd79c2790e08e30c14d98c7c",
+  "title": "微软总裁呼吁为 AI 智能体设立事故通报和外部评估规则",
+  "firstSeen": "2026-10-12",
+  "editionDate": "2026-10-12",
+  "occurrences": [
+    {
+      "id": "occ-cd79c2790e08e30c14d98c7c",
+      "fact": {
+        "subject": "Brad Smith",
+        "action": "在 BBC 采访中呼吁建立全球 AI 安全规则",
+        "object": "AI 事故报告、受害者通知与独立评估",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-12",
+      "reports": [
+        {
+          "ref": "2026-10-12/2026-10-12-microsoft-ai-safety-rules",
+          "itemId": "2026-10-12-microsoft-ai-safety-rules",
+          "editionDate": "2026-10-12",
+          "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
+          "source": "hnrss-newest",
+          "owner": "BBC",
+          "role": "observer",
+          "publishedAt": "2026-10-11T23:07:35.582Z",
+          "title": "微软总裁呼吁为 AI 智能体设立事故通报和外部评估规则"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-12"
+}

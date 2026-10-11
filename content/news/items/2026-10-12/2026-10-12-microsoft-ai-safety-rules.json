@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-12-microsoft-ai-safety-rules",
+  "title": "AI is less regulated than milk, says Microsoft president",
+  "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
+  "source": "hnrss-newest",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-11T23:07:35.582Z",
+  "fetchedAt": "2026-10-11T23:30:29.298Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "BBC 10 月 11 日刊出的采访中，微软总裁 Brad Smith 呼吁建立全球 AI 安全规则，提出在智能体失控或系统被侵入时要求企业编写事故报告并通知受影响者，并由独立评估者在产品发布前审查部分技术。他同时主张设置可暂停系统的“紧急刹车”；这些是政策倡议，并非已经生效的法规。",
+  "entities": [
+    "Microsoft",
+    "Brad Smith",
+    "BBC"
+  ],
+  "fact": {
+    "subject": "Brad Smith",
+    "action": "在 BBC 采访中呼吁建立全球 AI 安全规则",
+    "object": "AI 事故报告、受害者通知与独立评估",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "BBC",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "2a552f4e3769abc92205ccfa86fcabc4b6e5bb1ef4410d023087942609f32be1",
+    "originalUrl": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
+    "originalPublishedAt": "2026-10-11T23:07:35.582Z",
+    "checkedAt": "2026-10-11T23:35:54.755Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "2a552f4e3769abc92205ccfa86fcabc4b6e5bb1ef4410d023087942609f32be1",
+      "kind": "fact",
+      "quote": "Speaking to the BBC's Big Boss Interview, Smith called AI both a \"tool and a weapon\" that urgently needed to be regulated."
+    },
+    {
+      "snapshotId": "2a552f4e3769abc92205ccfa86fcabc4b6e5bb1ef4410d023087942609f32be1",
+      "kind": "fact",
+      "quote": "He also said there should be a legal requirement for firms to write \"incident reports\" and tell victims if the technology goes rogue.  He also suggested that independent government evaluators should vet new AI technology."
+    },
+    {
+      "snapshotId": "2a552f4e3769abc92205ccfa86fcabc4b6e5bb1ef4410d023087942609f32be1",
+      "kind": "condition",
+      "quote": "He said firms need \"emergency brakes\" – often known in the industry as 'kill switches' – to pause or slowdown AI if it got out of control in some way."
+    }
+  ],
+  "displayTitle": "微软总裁呼吁为 AI 智能体设立事故通报和外部评估规则",
+  "investorNote": "判断：企业级智能体的采购门槛会越来越落在事故响应、审计和停机控制上；微软的表态也体现平台商希望参与定义治理标准。",
+  "narrative": "BBC 采访中，微软总裁 Brad Smith 要求为 AI 建立跨国安全规则，具体包括智能体出问题后的事故报告、对受影响者的通知、产品上线前的独立评估，以及能暂停系统的“紧急刹车”。这仍是企业高管的政策主张，尚非落地法规。对企业级 Agent 市场而言，值得观察采购要求是否从模型能力延伸到可审计、可中止和可追责的运行控制。",
+  "score": 0.72,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "BBC 在本窗口刊出 Brad Smith 的独立采访，提出具体安全规则倡议；未发现可确认的历史同次采访。"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-cd79c2790e08e30c14d98c7c",
+  "eventId": "event-cd79c2790e08e30c14d98c7c",
+  "occurrenceId": "occ-cd79c2790e08e30c14d98c7c",
+  "relatedItems": []
+}

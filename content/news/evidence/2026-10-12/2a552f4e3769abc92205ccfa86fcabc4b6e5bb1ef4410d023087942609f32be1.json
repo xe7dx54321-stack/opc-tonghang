@@ -1,0 +1,14 @@
+{
+  "snapshotId": "2a552f4e3769abc92205ccfa86fcabc4b6e5bb1ef4410d023087942609f32be1",
+  "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
+  "publishedAt": "2026-10-11T23:07:35.582Z",
+  "publishedAtQuote": "2026-10-11T23:07:35.582Z",
+  "retrievedAt": "2026-10-11T23:35:54.755Z",
+  "method": "agent-tool",
+  "contentHash": "5cca7d094783f3206f0f23c2afb128d7658b64cb066f1aaad94c0aef181a53b7",
+  "quotations": [
+    "Speaking to the BBC's Big Boss Interview, Smith called AI both a \"tool and a weapon\" that urgently needed to be regulated.",
+    "He also said there should be a legal requirement for firms to write \"incident reports\" and tell victims if the technology goes rogue.  He also suggested that independent government evaluators should vet new AI technology.",
+    "He said firms need \"emergency brakes\" – often known in the industry as 'kill switches' – to pause or slowdown AI if it got out of control in some way."
+  ]
+}

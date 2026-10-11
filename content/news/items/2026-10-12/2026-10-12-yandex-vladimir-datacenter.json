@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-12-yandex-vladimir-datacenter",
+  "title": "Yandex: Ukraine strikes data centre in third attack on Russian tech giant",
+  "url": "https://www.bbc.com/news/articles/cw0k0g57mk3zo",
+  "source": "hnrss-newest",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-11T12:50:46.637Z",
+  "fetchedAt": "2026-10-11T20:03:53.568Z",
+  "topic": [
+    "ai",
+    "other"
+  ],
+  "summary": "BBC 10 月 11 日报道，Yandex 确认其俄罗斯 Vladimir 数据中心在乌克兰无人机袭击后受损并完全暂停运营，部分服务不可用，公司正在恢复连接。这是该公司一周内第三处遭袭的站点，但本条聚焦 Vladimir 当天的新增事件；BBC 未独立证实受影响服务的完整数量。",
+  "entities": [
+    "Yandex",
+    "Yandex Cloud",
+    "Vladimir"
+  ],
+  "fact": {
+    "subject": "Yandex",
+    "action": "确认 Vladimir 数据中心遭袭后暂停运营",
+    "object": "数据中心与部分服务",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "BBC",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "a743e7d747ef1fd5759567b6712bc6e44b995caf3c3aec35f7098b231fec3ae2",
+    "originalUrl": "https://www.bbc.com/news/articles/cw0k0g57mk3zo",
+    "originalPublishedAt": "2026-10-11T12:50:46.637Z",
+    "checkedAt": "2026-10-11T23:35:54.819Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "a743e7d747ef1fd5759567b6712bc6e44b995caf3c3aec35f7098b231fec3ae2",
+      "kind": "fact",
+      "quote": "Yandex has been forced to pause its operations at a data centre near Moscow after the facility was damaged in a Ukrainian drone strike - the third attack on the Russian tech giant's sites this week."
+    },
+    {
+      "snapshotId": "a743e7d747ef1fd5759567b6712bc6e44b995caf3c3aec35f7098b231fec3ae2",
+      "kind": "fact",
+      "quote": "Yandex confirmed on Telegram that its data centre in Vladimir had been damaged and that operations had been \"completely suspended\", although it said it was working to restore connectivity."
+    },
+    {
+      "snapshotId": "a743e7d747ef1fd5759567b6712bc6e44b995caf3c3aec35f7098b231fec3ae2",
+      "kind": "condition",
+      "quote": "The company - dubbed \"Russia's Google\" - said no one was injured at the centre in Vladimir, east of the capital, but some of its services were unavailable to users."
+    }
+  ],
+  "displayTitle": "Yandex 确认 Vladimir 数据中心遇袭停运，部分服务不可用",
+  "investorNote": "判断：集中式云与 AI 服务的物理站点风险被战争事件直接暴露，企业客户更需要检验跨区域容灾和关键接口降级能力。",
+  "narrative": "BBC 报道，Yandex 确认 Vladimir 数据中心在无人机袭击后受损，运营“完全暂停”，部分服务暂时不可用，公司正恢复连接。此前两处 Yandex 站点也在本周遇袭，但 Vladimir 是这次新增地点。对依赖单一云区域的企业，关键问题是故障是否会连带波及 AI 接口和业务系统；目前能够确认的是部分服务中断，具体受影响范围仍应以公司后续通报为准。",
+  "score": 0.76,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "Vladimir 数据中心在 10 月 11 日遭袭是不同于本周早些时候 Sasovo 与 Kaluga 两处设施的新发生；历史候选无可确认同次记录。"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-59bc5c731a5a991c08007ab9",
+  "eventId": "event-59bc5c731a5a991c08007ab9",
+  "occurrenceId": "occ-59bc5c731a5a991c08007ab9",
+  "relatedItems": []
+}

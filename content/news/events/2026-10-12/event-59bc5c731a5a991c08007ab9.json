@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-59bc5c731a5a991c08007ab9",
+  "title": "Yandex 确认 Vladimir 数据中心遇袭停运，部分服务不可用",
+  "firstSeen": "2026-10-12",
+  "editionDate": "2026-10-12",
+  "occurrences": [
+    {
+      "id": "occ-59bc5c731a5a991c08007ab9",
+      "fact": {
+        "subject": "Yandex",
+        "action": "确认 Vladimir 数据中心遭袭后暂停运营",
+        "object": "数据中心与部分服务",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-12",
+      "reports": [
+        {
+          "ref": "2026-10-12/2026-10-12-yandex-vladimir-datacenter",
+          "itemId": "2026-10-12-yandex-vladimir-datacenter",
+          "editionDate": "2026-10-12",
+          "url": "https://www.bbc.com/news/articles/cw0k0g57mk3zo",
+          "source": "hnrss-newest",
+          "owner": "BBC",
+          "role": "observer",
+          "publishedAt": "2026-10-11T12:50:46.637Z",
+          "title": "Yandex 确认 Vladimir 数据中心遇袭停运，部分服务不可用"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-12"
+}

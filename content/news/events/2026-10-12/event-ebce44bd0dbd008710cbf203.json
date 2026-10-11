@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-ebce44bd0dbd008710cbf203",
+  "title": "DAC 2027 征稿已开放，AI 与 EDA 成为重点议题",
+  "firstSeen": "2026-10-12",
+  "editionDate": "2026-10-12",
+  "occurrences": [
+    {
+      "id": "occ-ebce44bd0dbd008710cbf203",
+      "fact": {
+        "subject": "DAC",
+        "action": "开放 2027 年大会征稿",
+        "object": "芯片设计、EDA、AI 与系统工程议题",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-12",
+      "reports": [
+        {
+          "ref": "2026-10-12/2026-10-12-dac-2027-call",
+          "itemId": "2026-10-12-dac-2027-call",
+          "editionDate": "2026-10-12",
+          "url": "https://semiwiki.com/events/374512-dac-2027-opens-call-for-contributions-as-ai-reshapes-chip-design/",
+          "source": "semiwiki",
+          "owner": "SemiWiki",
+          "role": "observer",
+          "publishedAt": "2026-10-11T19:00:56+00:00",
+          "title": "DAC 2027 征稿已开放，AI 与 EDA 成为重点议题"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-12"
+}

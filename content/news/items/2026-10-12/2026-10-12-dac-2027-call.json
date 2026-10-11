@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-12-dac-2027-call",
+  "title": "DAC 2027 Opens Call for Contributions as AI Reshapes Chip Design",
+  "url": "https://semiwiki.com/events/374512-dac-2027-opens-call-for-contributions-as-ai-reshapes-chip-design/",
+  "source": "semiwiki",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-11T19:00:56+00:00",
+  "fetchedAt": "2026-10-11T19:33:39.942Z",
+  "topic": [
+    "semiconductor"
+  ],
+  "summary": "SemiWiki 10 月 11 日报道，Design Automation Conference 的 2027 年征稿已开放，会议安排在 2027 年 7 月 11—14 日于 San Jose 举行。征稿范围包括 AI、设计、电子设计自动化、安全与系统，接收研究论文、工程报告、专题讨论及教程等。原文没有明确征稿开放的具体时刻，故不写成当日首次启动。",
+  "entities": [
+    "DAC",
+    "EDA"
+  ],
+  "fact": {
+    "subject": "DAC",
+    "action": "开放 2027 年大会征稿",
+    "object": "芯片设计、EDA、AI 与系统工程议题",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "SemiWiki",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "a234df5e670c4f4a539f129c33a04372ef7acf3b25646158e054409690c6233d",
+    "originalUrl": "https://semiwiki.com/events/374512-dac-2027-opens-call-for-contributions-as-ai-reshapes-chip-design/",
+    "originalPublishedAt": "2026-10-11T19:00:56+00:00",
+    "checkedAt": "2026-10-11T23:35:54.875Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "a234df5e670c4f4a539f129c33a04372ef7acf3b25646158e054409690c6233d",
+      "kind": "fact",
+      "quote": "DAC, The Chips to Systems Conference, has opened its 2027 Call for Contributions, inviting researchers and industry practitioners to explore the technologies changing electronic design. Scheduled for July 11–14, 2027, at the San Jose Convention Center, the event will be DAC’s first gathering in San Jose."
+    },
+    {
+      "snapshotId": "a234df5e670c4f4a539f129c33a04372ef7acf3b25646158e054409690c6233d",
+      "kind": "condition",
+      "quote": "Contributions will span AI, Design, electronic design automation, Security and Systems. Participants can submit research papers, engineering presentations, panel proposals, special sessions, workshops and tutorials, alongside opportunities in the DAC Pavilion and Exhibitor Forum."
+    }
+  ],
+  "displayTitle": "DAC 2027 征稿已开放，AI 与 EDA 成为重点议题",
+  "investorNote": "判断：EDA 工具中的 Agent 能否进入工程流程，核心仍是验证、可追溯性和工程结果，而非自动化演示本身。",
+  "narrative": "SemiWiki 报道，DAC 2027 的征稿现已开放，大会将于明年 7 月 11—14 日在 San Jose 举行，议题覆盖 AI、芯片设计、EDA、安全和系统工程。原文没有说明征稿正式开放的具体日期，因此这里只记录当前开放状态。对于芯片设计工具公司，征稿方向提示一个可观察的验证场景：AI 进入设计工作流后，性能改进需要和验证可靠性一起接受工程检验。",
+  "score": 0.46,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "2027 年 DAC 征稿是独立会议事项，原文仅证实当前已开放，未与历史候选建立同次关系。"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-ebce44bd0dbd008710cbf203",
+  "eventId": "event-ebce44bd0dbd008710cbf203",
+  "occurrenceId": "occ-ebce44bd0dbd008710cbf203",
+  "relatedItems": []
+}
