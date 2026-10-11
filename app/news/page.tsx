@@ -1,7 +1,8 @@
 import Link from '@/components/Link'
 import { NEWS_TOPICS, listDaily, listNewsItems } from '@/lib/news'
 import { listNewsEvents } from '@/lib/news-events'
-import { listHeatEvents } from '@/lib/news-heat'
+import { listNewsHighlights } from '@/lib/news-highlights'
+import NewsHighlights from '@/components/news/NewsHighlights'
 import { genPageMetadata } from 'app/seo'
 
 export const dynamic = 'force-dynamic'
@@ -16,7 +17,7 @@ export default function NewsIndex() {
   const latestDate = items.reduce((latest, item) => item.date > latest ? item.date : latest, '')
   const daily = listDaily()
   const events = listNewsEvents()
-  const heatEvents = listHeatEvents()
+  const highlights = listNewsHighlights()
 
   return (
     <>
@@ -46,6 +47,8 @@ export default function NewsIndex() {
         <p className="mt-3 max-w-2xl text-sm leading-7 text-ink-2">完整阅读当天的重点事件、背景与判断。</p>
         <Link href={`/news/${daily[0].slug}`} className="mt-5 inline-block text-sm font-medium text-accent hover:underline">阅读日报 →</Link>
       </section>}
+
+      <NewsHighlights items={highlights} />
 
       <section className="py-11 sm:py-14">
         <div className="mb-7 flex items-end justify-between gap-4">
@@ -103,24 +106,6 @@ export default function NewsIndex() {
             <p className="mt-2 text-xs text-ink-2">{event.occurrences.length} 次进展</p>
           </Link>)}
         </div>
-      </section>}
-
-      {heatEvents.length > 0 && <section className="mb-12">
-        <div className="mb-5">
-          <h2 className="text-2xl font-semibold text-ink">多源关注</h2>
-          <p className="mt-2 text-sm leading-6 text-ink-2">几家媒体报道的同一件事，核对后放在一起，方便直接查看原始报道。</p>
-        </div>
-        <div className="grid gap-4 md:grid-cols-2">
-          {heatEvents.slice(0, 4).map(event => <article key={event.id} className="rounded-xl border border-hair bg-bg-card p-5 sm:p-6">
-            <div className="font-num text-xs text-ink-3">{event.snapshotDate} 收录 · {event.sourceCount} 家独立来源</div>
-            <h3 className="mt-3 text-lg font-semibold leading-7 text-ink">{event.title}</h3>
-            {event.summary && <p className="mt-3 text-sm leading-7 text-ink-2">{event.summary}</p>}
-            <div className="mt-5 flex flex-wrap gap-x-5 gap-y-2 border-t border-hair pt-4">
-              {event.sources.map(source => <a key={source.url} href={source.url} target="_blank" rel="noopener noreferrer" className="text-sm text-accent hover:underline">{source.name} ↗</a>)}
-            </div>
-          </article>)}
-        </div>
-        <p className="mt-3 text-xs text-ink-3">来源数量只反映报道覆盖度，不代表事实已独立证实或事件更重要。</p>
       </section>}
 
       <section className="mb-16 rounded-xl border border-hair bg-bg-card px-6 py-6 sm:flex sm:items-center sm:justify-between sm:gap-8">
