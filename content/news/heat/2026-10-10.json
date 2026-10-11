@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-10",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-9caa651d3ab09b37925e",
+      "title": "TRAE 整合 TraeCode 与 TraeWork，升级全链路开发平台",
+      "summary": "量子位与雷峰网报道了 TRAE 的双端融合。这里统计的是两家媒体对同一次产品升级的报道。",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "qbitai.com",
+          "url": "https://www.qbitai.com/2026/10/502426.html"
+        },
+        {
+          "name": "leiphone.com",
+          "url": "https://www.leiphone.com/category/industrynews/wmndjzo2jLJzOY0Z.html"
+        }
+      ]
+    }
+  ]
+}

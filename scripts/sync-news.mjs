@@ -59,6 +59,7 @@ if (!existsSync(source)) {
 const sourceDaily = join(source, 'digests')
 const sourceResearch = join(source, 'research', 'weekly')
 const sourceItems = join(source, 'items')
+const sourceHeat = join(source, 'heat')
 // Backfill placeholders are raw-data records, not reader editions.
 function isStubDigest(content) {
   return /^type:\s*daily-stub\s*$/m.test(content) || /^generatedBy:\s*backfill\s*$/m.test(content)
@@ -229,6 +230,12 @@ function syncDayDirectory(kind, day) {
 }
 for (const day of itemDays) for (const kind of ['items', 'evidence', 'events']) syncDayDirectory(kind, day)
 for (const day of contractDays) syncFile(join(source, 'editions', `${day}.json`), join(target, 'editions', `${day}.json`))
+// Only the small reviewed public export is mirrored. Raw snapshots and link caches stay private.
+for (const name of files(sourceHeat, /^\d{4}-\d{2}-\d{2}\.json$/)) {
+  const data = JSON.parse(readFileSync(join(sourceHeat, name), 'utf8'))
+  if (data.schemaVersion !== 1 || data.date !== name.slice(0, 10) || !Array.isArray(data.events)) fail(`Invalid public heat export: ${name}`)
+  syncFile(join(sourceHeat, name), join(target, 'heat', name))
+}
 
 if (!dryRun && (changed > 0 || !existsSync(join(target, '_index.json')))) {
   const getEntries = (subdir) => files(join(target, subdir), /^\d{4}-\d{2}-\d{2}\.md$/)

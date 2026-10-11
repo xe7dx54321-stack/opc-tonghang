@@ -1,6 +1,7 @@
 import Link from '@/components/Link'
 import { NEWS_TOPICS, listDaily, listNewsItems } from '@/lib/news'
 import { listNewsEvents } from '@/lib/news-events'
+import { listHeatEvents } from '@/lib/news-heat'
 import { genPageMetadata } from 'app/seo'
 
 export const dynamic = 'force-dynamic'
@@ -15,6 +16,7 @@ export default function NewsIndex() {
   const latestDate = items.reduce((latest, item) => item.date > latest ? item.date : latest, '')
   const daily = listDaily()
   const events = listNewsEvents()
+  const heatEvents = listHeatEvents()
 
   return (
     <>
@@ -101,6 +103,15 @@ export default function NewsIndex() {
             <p className="mt-2 text-xs text-ink-2">{event.occurrences.length} 次进展</p>
           </Link>)}
         </div>
+      </section>}
+
+      {heatEvents.length > 0 && <section className="mb-12 rounded-xl border border-hair bg-bg-card px-6 py-6 sm:flex sm:items-center sm:justify-between sm:gap-8">
+        <div>
+          <div className="font-num text-[11px] uppercase tracking-[0.18em] text-accent">/multi-source</div>
+          <h2 className="mt-2 text-lg font-semibold text-ink">多源关注 · 试运行</h2>
+          <p className="mt-1 text-sm text-ink-2">已核对的跨媒体同事件报道，附原始来源。</p>
+        </div>
+        <Link href="/news/heat" className="mt-5 inline-block shrink-0 text-sm text-accent hover:underline sm:mt-0">查看 {heatEvents.length} 件事件 →</Link>
       </section>}
 
       <section className="mb-16 rounded-xl border border-hair bg-bg-card px-6 py-6 sm:flex sm:items-center sm:justify-between sm:gap-8">

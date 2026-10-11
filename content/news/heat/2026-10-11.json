@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-11",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-3c54bf72c57fae827fb8",
+      "title": "纳德拉提出为 AI 模型设置“紧急刹车”",
+      "summary": "TechCrunch 与 The Verge 均报道了纳德拉关于模型隔离、审计记录和人工暂停的公开表态。",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "techcrunch.com",
+          "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake"
+        },
+        {
+          "name": "theverge.com",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+        }
+      ]
+    }
+  ]
+}
