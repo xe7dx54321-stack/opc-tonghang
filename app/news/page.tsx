@@ -105,13 +105,22 @@ export default function NewsIndex() {
         </div>
       </section>}
 
-      {heatEvents.length > 0 && <section className="mb-12 rounded-xl border border-hair bg-bg-card px-6 py-6 sm:flex sm:items-center sm:justify-between sm:gap-8">
-        <div>
-          <div className="font-num text-[11px] uppercase tracking-[0.18em] text-accent">/multi-source</div>
-          <h2 className="mt-2 text-lg font-semibold text-ink">多源关注 · 试运行</h2>
-          <p className="mt-1 text-sm text-ink-2">已核对的跨媒体同事件报道，附原始来源。</p>
+      {heatEvents.length > 0 && <section className="mb-12">
+        <div className="mb-5">
+          <h2 className="text-2xl font-semibold text-ink">多源关注</h2>
+          <p className="mt-2 text-sm leading-6 text-ink-2">几家媒体报道的同一件事，核对后放在一起，方便直接查看原始报道。</p>
         </div>
-        <Link href="/news/heat" className="mt-5 inline-block shrink-0 text-sm text-accent hover:underline sm:mt-0">查看 {heatEvents.length} 件事件 →</Link>
+        <div className="grid gap-4 md:grid-cols-2">
+          {heatEvents.slice(0, 4).map(event => <article key={event.id} className="rounded-xl border border-hair bg-bg-card p-5 sm:p-6">
+            <div className="font-num text-xs text-ink-3">{event.snapshotDate} 收录 · {event.sourceCount} 家独立来源</div>
+            <h3 className="mt-3 text-lg font-semibold leading-7 text-ink">{event.title}</h3>
+            {event.summary && <p className="mt-3 text-sm leading-7 text-ink-2">{event.summary}</p>}
+            <div className="mt-5 flex flex-wrap gap-x-5 gap-y-2 border-t border-hair pt-4">
+              {event.sources.map(source => <a key={source.url} href={source.url} target="_blank" rel="noopener noreferrer" className="text-sm text-accent hover:underline">{source.name} ↗</a>)}
+            </div>
+          </article>)}
+        </div>
+        <p className="mt-3 text-xs text-ink-3">来源数量只反映报道覆盖度，不代表事实已独立证实或事件更重要。</p>
       </section>}
 
       <section className="mb-16 rounded-xl border border-hair bg-bg-card px-6 py-6 sm:flex sm:items-center sm:justify-between sm:gap-8">
