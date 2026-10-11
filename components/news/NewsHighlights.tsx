@@ -3,7 +3,7 @@ import type { NewsHighlight } from '@/lib/news-highlights'
 
 export default function NewsHighlights({ items }: { items: NewsHighlight[] }) {
   if (!items.length) return null
-  return <section className="py-11 sm:py-14" aria-labelledby="news-highlights-title">
+  return <section className="pb-11 pt-8 sm:pb-14 sm:pt-10" aria-labelledby="news-highlights-title">
     <div className="mb-7 flex flex-wrap items-end justify-between gap-4">
       <div>
         <div className="font-num text-[11px] uppercase tracking-[0.2em] text-accent">editor's selection</div>

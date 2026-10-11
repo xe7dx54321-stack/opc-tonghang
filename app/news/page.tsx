@@ -41,14 +41,14 @@ export default function NewsIndex() {
         </div>
       </section>
 
-      {daily[0] && <section className="mt-10 rounded-2xl border border-hair-2 bg-bg-card p-6 sm:p-8">
+      <NewsHighlights items={highlights} />
+
+      {daily[0] && <section className="rounded-2xl border border-hair-2 bg-bg-card p-6 sm:p-8">
         <div className="font-num text-[11px] uppercase tracking-[0.18em] text-accent">最新日报 · {daily[0].slug}</div>
         <h2 className="mt-3 text-2xl font-semibold text-ink">最新一期值得关注的变化</h2>
         <p className="mt-3 max-w-2xl text-sm leading-7 text-ink-2">完整阅读当天的重点事件、背景与判断。</p>
         <Link href={`/news/${daily[0].slug}`} className="mt-5 inline-block text-sm font-medium text-accent hover:underline">阅读日报 →</Link>
       </section>}
-
-      <NewsHighlights items={highlights} />
 
       <section className="py-11 sm:py-14">
         <div className="mb-7 flex items-end justify-between gap-4">
