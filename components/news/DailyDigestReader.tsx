@@ -1,4 +1,5 @@
 import { renderInline } from './NewsReader'
+import NewsHeatBadge from './NewsHeatBadge'
 
 type DigestSection = { title: string; paragraphs: string[] }
 
@@ -60,7 +61,7 @@ export default function DailyDigestReader({ body, heatByTitle = {} }: { body: st
             <div className="flex items-start gap-4">
               <span className="font-num pt-1 text-xs text-accent">{String(index + 1).padStart(2, '0')}</span>
               <h2 className="flex-1 text-lg font-semibold leading-snug text-ink sm:text-xl">{story.title}</h2>
-              {heatByTitle[story.title] != null && <span className="shrink-0 rounded-full border border-accent/30 px-2.5 py-1 font-num text-xs text-accent" aria-label={`关注热度 ${heatByTitle[story.title]} 分`}>热度 {heatByTitle[story.title]}</span>}
+              {heatByTitle[story.title] != null && <NewsHeatBadge score={heatByTitle[story.title]} />}
             </div>
             <div className="mt-5 space-y-4 border-t border-hair pt-5">
               {story.paragraphs.map((paragraph, i) => (

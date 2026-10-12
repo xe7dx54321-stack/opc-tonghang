@@ -1,6 +1,7 @@
 import Link from '@/components/Link'
 import { NEWS_TOPICS, listDaily, listNewsItems } from '@/lib/news'
 import { listNewsEvents } from '@/lib/news-events'
+import NewsHeatBadge from '@/components/news/NewsHeatBadge'
 import { genPageMetadata } from 'app/seo'
 
 export const dynamic = 'force-dynamic'
@@ -78,6 +79,7 @@ export default function NewsIndex() {
                   <p className="mt-2 line-clamp-2 min-h-[42px] text-sm font-medium leading-relaxed text-ink">
                     {stories[0]?.displayTitle ?? '正在整理这个赛道的新闻'}
                   </p>
+                  {stories[0] && <div className="mt-3"><NewsHeatBadge score={stories[0].heat} /></div>}
                   <div className="mt-5 flex items-center justify-between text-xs text-ink-3">
                     <span className="font-num">{stories[0]?.publishedDate ?? '—'}</span>
                     <span className="text-accent transition-transform group-hover:translate-x-1">进入时间轴 →</span>

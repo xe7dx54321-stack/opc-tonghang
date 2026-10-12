@@ -1,4 +1,5 @@
 import type { NewsItem } from '@/lib/news'
+import NewsHeatBadge from './NewsHeatBadge'
 
 export default function NewsTimeline({ items }: { items: NewsItem[] }) {
   const days = Array.from(new Set(items.map(item => item.date)))
@@ -19,7 +20,7 @@ export default function NewsTimeline({ items }: { items: NewsItem[] }) {
                   </div>
                   <div className="mt-3 flex items-start justify-between gap-3">
                     <h3 className="text-lg font-semibold leading-snug text-ink sm:text-xl">{item.displayTitle}</h3>
-                    <span className="shrink-0 rounded-full border border-accent/30 px-2.5 py-1 font-num text-xs text-accent" aria-label={`关注热度 ${item.heat} 分`}>热度 {item.heat}</span>
+                    <NewsHeatBadge score={item.heat} />
                   </div>
                   <p className="mt-3 text-sm leading-7 text-ink-2">{item.narrative}</p>
                   <a href={item.url} target="_blank" rel="noopener noreferrer" className="mt-auto inline-flex pt-5 text-xs font-medium text-accent underline-offset-4 hover:underline">查看原文 ↗</a>
