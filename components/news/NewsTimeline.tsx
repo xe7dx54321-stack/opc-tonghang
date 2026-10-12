@@ -3,23 +3,26 @@ import type { NewsItem } from '@/lib/news'
 export default function NewsTimeline({ items }: { items: NewsItem[] }) {
   const days = Array.from(new Set(items.map(item => item.date)))
   return (
-    <div className="max-w-4xl">
+    <div className="w-full">
       {days.map(date => (
         <section key={date} className="relative grid gap-4 pb-10 sm:grid-cols-[125px_1fr] sm:gap-8">
           <div className="font-num text-xs text-ink-3 sm:pt-2">{date} 收录</div>
           <div className="relative border-l border-hair-2 pl-6 sm:pl-8">
             <span className="absolute -left-[5px] top-2 h-[9px] w-[9px] rounded-full border-2 border-accent bg-bg" aria-hidden="true" />
-            <div className="space-y-4">
+            <div className="grid gap-4 xl:grid-cols-2 xl:items-stretch">
               {items.filter(item => item.date === date).map(item => (
-                <article key={item.id} className="rounded-xl border border-hair bg-bg-card p-5 transition hover:border-hair-2 sm:p-6">
+                <article key={item.id} className="flex h-full flex-col rounded-xl border border-hair bg-bg-card p-5 transition hover:border-hair-2 sm:p-6">
                   <div className="flex flex-wrap items-center gap-x-3 gap-y-1 font-num text-[10px] uppercase tracking-[0.08em] text-ink-3">
                     <time dateTime={item.publishedAt}>{item.publishedDate} · {formatTime(item.publishedAt)}</time>
                     <span className="h-1 w-1 rounded-full bg-accent" aria-hidden="true" />
                     <span>{sourceLabel(item.source)}</span>
                   </div>
-                  <h3 className="mt-3 text-lg font-semibold leading-snug text-ink sm:text-xl">{item.displayTitle}</h3>
+                  <div className="mt-3 flex items-start justify-between gap-3">
+                    <h3 className="text-lg font-semibold leading-snug text-ink sm:text-xl">{item.displayTitle}</h3>
+                    <span className="shrink-0 rounded-full border border-accent/30 px-2.5 py-1 font-num text-xs text-accent" aria-label={`关注热度 ${item.heat} 分`}>热度 {item.heat}</span>
+                  </div>
                   <p className="mt-3 text-sm leading-7 text-ink-2">{item.narrative}</p>
-                  <a href={item.url} target="_blank" rel="noopener noreferrer" className="mt-5 inline-flex text-xs font-medium text-accent underline-offset-4 hover:underline">查看原文 ↗</a>
+                  <a href={item.url} target="_blank" rel="noopener noreferrer" className="mt-auto inline-flex pt-5 text-xs font-medium text-accent underline-offset-4 hover:underline">查看原文 ↗</a>
                 </article>
               ))}
             </div>

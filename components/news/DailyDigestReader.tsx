@@ -31,7 +31,7 @@ function parseDigest(body: string) {
   return { intro: intro.replace(/^##\s+[^\n]+\n+/, '').trim(), stories, footnotes }
 }
 
-export default function DailyDigestReader({ body }: { body: string }) {
+export default function DailyDigestReader({ body, heatByTitle = {} }: { body: string; heatByTitle?: Record<string, number> }) {
   const { intro, stories, footnotes } = parseDigest(body)
 
   return (
@@ -46,9 +46,10 @@ export default function DailyDigestReader({ body }: { body: string }) {
 
       {stories.length > 1 && <nav aria-label="本期目录" className="mt-8 rounded-xl border border-hair bg-bg-card px-5 py-5 sm:px-8">
         <div className="font-num text-[11px] tracking-[0.16em] text-accent">本期目录</div>
+        {Object.keys(heatByTitle).length > 0 && <p className="mt-2 text-xs leading-5 text-ink-3">热度为站内关注指数，结合编辑筛选和已核实的独立报道；并非全网阅读量。</p>}
         <ol className="mt-4 grid gap-2 sm:grid-cols-2">
           {stories.map((story, index) => <li key={`${index}-${story.title}`}>
-            <a href={`#story-${index + 1}`} className="text-sm leading-6 text-ink-2 hover:text-accent">{String(index + 1).padStart(2, '0')} · {story.title}</a>
+            <a href={`#story-${index + 1}`} className="flex items-start justify-between gap-2 text-sm leading-6 text-ink-2 hover:text-accent"><span>{String(index + 1).padStart(2, '0')} · {story.title}</span>{heatByTitle[story.title] != null && <span className="shrink-0 font-num text-accent">{heatByTitle[story.title]}</span>}</a>
           </li>)}
         </ol>
       </nav>}
@@ -58,7 +59,8 @@ export default function DailyDigestReader({ body }: { body: string }) {
           <section id={`story-${index + 1}`} key={`${index}-${story.title}`} className="scroll-mt-24 rounded-2xl border border-hair bg-bg-card px-5 py-6 sm:px-8 sm:py-7">
             <div className="flex items-start gap-4">
               <span className="font-num pt-1 text-xs text-accent">{String(index + 1).padStart(2, '0')}</span>
-              <h2 className="text-lg font-semibold leading-snug text-ink sm:text-xl">{story.title}</h2>
+              <h2 className="flex-1 text-lg font-semibold leading-snug text-ink sm:text-xl">{story.title}</h2>
+              {heatByTitle[story.title] != null && <span className="shrink-0 rounded-full border border-accent/30 px-2.5 py-1 font-num text-xs text-accent" aria-label={`关注热度 ${heatByTitle[story.title]} 分`}>热度 {heatByTitle[story.title]}</span>}
             </div>
             <div className="mt-5 space-y-4 border-t border-hair pt-5">
               {story.paragraphs.map((paragraph, i) => (

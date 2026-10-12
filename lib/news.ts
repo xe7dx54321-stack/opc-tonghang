@@ -4,6 +4,7 @@
 import { readdirSync, readFileSync, existsSync, statSync } from 'node:fs'
 import { join } from 'node:path'
 import matter from 'gray-matter'
+import { listHeatEvents } from './news-heat'
 
 const CONTENT_ROOT = join(process.cwd(), 'content', 'news')
 
@@ -106,6 +107,7 @@ export interface NewsItem {
   publishedDate: string
   narrative: string
   score: number
+  heat: number
 }
 
 /** 只发布经过中文编辑的逐条内容；较早的原始回填数据留在仓库供后续整理。 */
@@ -115,6 +117,14 @@ export function listNewsItems(): NewsItem[] {
 
   const seen = new Set<string>()
   const items: NewsItem[] = []
+  // Only editor-confirmed independent reporting can raise a story's heat.
+  const sourceCounts = new Map<string, number>()
+  for (const event of listHeatEvents()) {
+    for (const source of event.sources) {
+      const key = source.url.replace(/\/$/, '')
+      sourceCounts.set(key, Math.max(sourceCounts.get(key) ?? 1, event.sourceCount))
+    }
+  }
   const days = readdirSync(root).filter(day => /^\d{4}-\d{2}-\d{2}$/.test(day)).sort().reverse()
   for (const date of days) {
     const dir = join(root, date)
@@ -142,6 +152,8 @@ export function listNewsItems(): NewsItem[] {
           publishedDate: formatBeijingDate(raw.publishedAt) ?? date,
           narrative,
           score: raw.score,
+          // A comparative in-site attention index, not traffic or social reach.
+          heat: Math.min(99, Math.round(35 + 55 * raw.score + 8 * Math.min(2, Math.max(0, (sourceCounts.get(urlKey) ?? 1) - 1)))),
         })
       } catch {
         // 单条损坏不影响整页新闻。

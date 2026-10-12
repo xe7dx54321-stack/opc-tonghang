@@ -40,6 +40,7 @@ export default function TopicPage({ params }: { params: { tag: string } }) {
           <div>
             <div className="font-num text-[11px] uppercase tracking-[0.2em] text-accent">02 / timeline</div>
             <h2 className="mt-2 text-xl font-semibold tracking-tight text-ink">新闻时间轴</h2>
+            <p className="mt-2 max-w-xl text-xs leading-5 text-ink-3">热度为站内关注指数，结合编辑筛选和已核实的独立报道；并非全网阅读量。</p>
           </div>
           <span className="font-num text-xs text-ink-3">{items.length} 条收录</span>
         </div>

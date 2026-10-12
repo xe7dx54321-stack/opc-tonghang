@@ -2,7 +2,7 @@
 // dynamic route, generateStaticParams 列出所有已知日期
 
 import DailyDigestReader from '@/components/news/DailyDigestReader'
-import { getDaily, listDaily } from '@/lib/news'
+import { getDaily, listDaily, listNewsItems } from '@/lib/news'
 import { notFound } from 'next/navigation'
 import Link from '@/components/Link'
 import JsonLd, { newsArticleSchema } from '@/components/JsonLd'
@@ -28,6 +28,7 @@ export default function NewsDayPage({ params }: { params: { date: string } }) {
   const older = all[idx + 1]
   const newer = all[idx - 1]
   const readingMinutes = Math.max(1, Math.round(entry.body.replace(/[#*`>\-\s]/g, '').length / 500))
+  const heatByTitle = Object.fromEntries(listNewsItems().filter(item => item.date === params.date).map(item => [item.displayTitle, item.heat]))
 
   return (
     <>
@@ -74,7 +75,7 @@ export default function NewsDayPage({ params }: { params: { date: string } }) {
       </section>
 
       <section className="container py-12">
-        <DailyDigestReader body={entry.body} />
+        <DailyDigestReader body={entry.body} heatByTitle={heatByTitle} />
       </section>
     </>
   )
