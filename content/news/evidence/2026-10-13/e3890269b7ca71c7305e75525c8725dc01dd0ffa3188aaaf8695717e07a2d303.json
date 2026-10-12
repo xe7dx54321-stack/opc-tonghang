@@ -1,0 +1,14 @@
+{
+  "snapshotId": "e3890269b7ca71c7305e75525c8725dc01dd0ffa3188aaaf8695717e07a2d303",
+  "url": "https://www.tomshardware.com/pc-components/cpus/amd-debuts-helion-reference-design-for-agentic-ai-servers-with-up-to-32-768-zen-6-venice-cores-rack-design-ships-next-year-in-cpu-only-and-all-in-one-configurations",
+  "publishedAt": "2026-10-12T13:00:00Z",
+  "publishedAtQuote": "article:published_time 2026-10-12T13:00:00Z",
+  "retrievedAt": "2026-10-12T23:34:33.671Z",
+  "method": "agent-tool",
+  "contentHash": "6c5392253e7cbafa811d188fe468951d730a0785de2d6575e5b23b3a9589fd93",
+  "quotations": [
+    "AMD is bringing a new reference rack-scale design to the data center ecosystem with Helion. It’s a standardized, 21-inch rack reference design that will",
+    "Although AMD has renders of the design you can see in the presentation below, it won’t actually sell racks. This is a reference design that AMD is contributing to OCP, and OEMs and ODMs will actually bring that design to market. AMD didn’t share partners supporting Helion during a pre-briefing with the press. The company says CEO Lisa Su will announce partners during the lead keynote at the OCP Global Summit later today.",
+    "AMD originally said the Helion rack would ship in the first half of 2027, but it has revised the release date to November 2026. We've updated the headline and featured image. We also corrected an error where OpenU trays were marked as 21mm wide instead of 21 inches wide."
+  ]
+}

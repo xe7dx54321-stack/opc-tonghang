@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-13-microsoft-maia-300",
+  "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+  "publishedAt": "2026-10-12T13:01:29+00:00",
+  "fact": {
+    "subject": "Microsoft",
+    "action": "公布",
+    "object": "Maia 300 架构与 2027 年扩容计划",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Microsoft",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "6bed529fc06aa1451e9fe48e635c3c075336617f1f79cea731714e18d52854d6",
+    "originalUrl": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+    "originalPublishedAt": "2026-10-12T13:01:29+00:00",
+    "checkedAt": "2026-10-12T23:34:33.525Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "6bed529fc06aa1451e9fe48e635c3c075336617f1f79cea731714e18d52854d6",
+      "kind": "fact",
+      "quote": "As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure. We will scale our Azure Maia family to multi-gigawatt deployments starting in 2027, making Maia the primary inference system for Microsoft products and services."
+    },
+    {
+      "snapshotId": "6bed529fc06aa1451e9fe48e635c3c075336617f1f79cea731714e18d52854d6",
+      "kind": "condition",
+      "quote": "As AI workloads become increasingly context and memory-bound, Maia 300 delivers industry-leading HBM bandwidth per watt. Eight HBM4 stacks provide 18.0 TB/s of peak memory bandwidth within a 950-watt TDP, enabling efficient execution of large models and long-context workloads. Specialized kernel support uses on-die SRAM as a software-managed scratchpad, reducing pressure on HBM."
+    },
+    {
+      "snapshotId": "6bed529fc06aa1451e9fe48e635c3c075336617f1f79cea731714e18d52854d6",
+      "kind": "condition",
+      "quote": "Maia 300 will begin production deployments in 2027. For more information on Maia 300 architectural details, read our"
+    },
+    {
+      "snapshotId": "6bed529fc06aa1451e9fe48e635c3c075336617f1f79cea731714e18d52854d6",
+      "kind": "condition",
+      "quote": "Maia 300 rack systems bring together 96 accelerators within a 167-kilowatt power envelope, delivering 27.6 TB of HBM capacity and 1.7 PB/s of aggregate HBM bandwidth across a high-speed scale-up domain."
+    }
+  ],
+  "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+  "displayTitle": "微软公布 Maia 300 架构，计划 2027 年扩至多吉瓦",
+  "source": "hnrss-newest",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "Microsoft",
+    "Maia 300 架构与 2027 年扩容计划"
+  ],
+  "fetchedAt": "2026-10-12T13:17:03.186Z",
+  "summary": "微软公布 Maia 300 推理系统与 2027 年开始的多吉瓦部署计划；Maia 200 已在生产工作负载中运行，Maia 300 采用八组 HBM4 与 96 加速器机架配置。",
+  "investorNote": "大规模自研推理芯片使云厂商能从单颗芯片优化到机架和供电，但性能与成本宣称仍待实际部署验证。",
+  "narrative": "微软披露 Maia 300 的推理架构，并计划从 2027 年起把 Azure Maia 扩至多吉瓦规模。八组 HBM4 的峰值带宽、96 卡机架和长上下文优化显示它针对代理推理的数据搬运瓶颈；这些是厂商给出的设计与规划，尚不是已交付规模或独立成本实测。",
+  "score": 0.94,
+  "duplicateOf": null,
+  "clusterId": "event-f28bb1744bddb7482aeccc45",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "原文证实为本窗口内独立的新动作，历史目录未见相同发生"
+  },
+  "eventId": "event-f28bb1744bddb7482aeccc45",
+  "occurrenceId": "occ-f28bb1744bddb7482aeccc45",
+  "relatedItems": []
+}

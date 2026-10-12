@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-13-techcrunch-meta-muse",
+  "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+  "publishedAt": "2026-10-12T17:56:56+00:00",
+  "fact": {
+    "subject": "Meta",
+    "action": "发布",
+    "object": "Muse Wonder 与 Muse Wonder Full",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "41adff78a11a1b493f17b58f4579e3af49b75b71391819faf52e3731f21331e7",
+    "originalUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "originalPublishedAt": "2026-10-12T17:56:56+00:00",
+    "checkedAt": "2026-10-12T23:34:33.451Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "41adff78a11a1b493f17b58f4579e3af49b75b71391819faf52e3731f21331e7",
+      "kind": "fact",
+      "quote": "a pair of new state-of-the-art models"
+    },
+    {
+      "snapshotId": "41adff78a11a1b493f17b58f4579e3af49b75b71391819faf52e3731f21331e7",
+      "kind": "condition",
+      "quote": "Notably, Wonder Full will only be available to Muse Code subscribers and will not be served through the API. Both models will also be used to power the Muse agent."
+    }
+  ],
+  "title": "Meta releases its first frontier model, Muse Wonder",
+  "displayTitle": "Meta 发布 Muse Wonder 系列，分别开放 API 与订阅入口",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Meta",
+    "Muse Wonder 与 Muse Wonder Full"
+  ],
+  "fetchedAt": "2026-10-12T18:21:08.302Z",
+  "summary": "TechCrunch 报道 Meta 发布 Wonder 和 Wonder Full，指出前者可通过 API 访问，而后者限 Muse Code 订阅者，并区分两款产品的渠道。",
+  "investorNote": "第三方报道补充价格与分发限制，但基准表现仍需独立验证后才能用于供应商比较。",
+  "narrative": "TechCrunch 对同一次 Meta 模型发布作出报道，补充了 API 价格和 Wonder Full 的订阅限制。分发渠道的差别决定了企业能否直接把新模型纳入现有 API 工作流。",
+  "score": 0.63,
+  "duplicateOf": "2026-10-13-meta-muse-wonder",
+  "clusterId": "event-b49c7cb463c790053968f7bd",
+  "eventRelation": {
+    "type": "SAME_OCCURRENCE",
+    "targetRef": "2026-10-13/2026-10-13-meta-muse-wonder",
+    "reason": "同为 Meta 于 10 月 12 日发布 Muse Wonder 和 Wonder Full 的报道"
+  },
+  "eventId": "event-b49c7cb463c790053968f7bd",
+  "occurrenceId": "occ-b49c7cb463c790053968f7bd"
+}

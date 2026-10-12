@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-13-decoder-microsoft-maia",
+  "url": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/",
+  "publishedAt": "2026-10-12T15:24:03+00:00",
+  "fact": {
+    "subject": "Microsoft",
+    "action": "公布",
+    "object": "Maia 300 架构与 2027 年扩容计划",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "3ef55b98e7a55d089e167b8e279f8860ae0f5e31567bd64b71796b8a507f1e73",
+    "originalUrl": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/",
+    "originalPublishedAt": "2026-10-12T15:24:03+00:00",
+    "checkedAt": "2026-10-12T23:34:33.548Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "3ef55b98e7a55d089e167b8e279f8860ae0f5e31567bd64b71796b8a507f1e73",
+      "kind": "fact",
+      "quote": "Microsoft plans to deploy its Azure Maia AI chips at multi-gigawatt scale starting in 2027."
+    }
+  ],
+  "title": "Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027",
+  "displayTitle": "微软公布 Maia 300 架构，计划 2027 年扩至多吉瓦",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "Microsoft",
+    "Maia 300 架构与 2027 年扩容计划"
+  ],
+  "fetchedAt": "2026-10-12T15:49:31.766Z",
+  "summary": "The Decoder 报道微软计划自 2027 年起把 Azure Maia 推至多吉瓦规模，并将其作为微软服务的重要推理系统。",
+  "investorNote": "报道与官方计划相互对应，仍应把未来规划与已运行的 Maia 200 区分。",
+  "narrative": "The Decoder 对微软同一次 Maia 300 公告作出报道，明确多吉瓦部署的起点是 2027 年。已运行的 Maia 200 与尚待生产部署的 Maia 300，商业成熟度并不相同。",
+  "score": 0.61,
+  "duplicateOf": "2026-10-13-microsoft-maia-300",
+  "clusterId": "event-f28bb1744bddb7482aeccc45",
+  "eventRelation": {
+    "type": "SAME_OCCURRENCE",
+    "targetRef": "2026-10-13/2026-10-13-microsoft-maia-300",
+    "reason": "同为微软于 10 月 12 日公布 Maia 系列扩容与 Maia 300 的报道"
+  },
+  "eventId": "event-f28bb1744bddb7482aeccc45",
+  "occurrenceId": "occ-f28bb1744bddb7482aeccc45"
+}

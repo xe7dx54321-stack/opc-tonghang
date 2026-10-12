@@ -1,0 +1,12 @@
+{
+  "snapshotId": "a70845d1501f4d00457d02aca5d5404b8958fd6f8f595ac59f98b683afa24ab2",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+  "publishedAt": "2026-10-12T17:00:00+00:00",
+  "publishedAtQuote": "article:published_time 2026-10-12T17:00:00+00:00",
+  "retrievedAt": "2026-10-12T23:34:33.476Z",
+  "method": "agent-tool",
+  "contentHash": "6d1c8bfdd4ccd9c9a86e7d6c23c28d049e3ac56b7db73e14974ff78d98b91646",
+  "quotations": [
+    "The new models, Muse Wonder and Muse Wonder Full, are available for Muse Code subscribers starting today. Wonder can also be accessed through the Meta Model API, Meta said."
+  ]
+}

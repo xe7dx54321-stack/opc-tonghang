@@ -1,0 +1,13 @@
+{
+  "snapshotId": "41adff78a11a1b493f17b58f4579e3af49b75b71391819faf52e3731f21331e7",
+  "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+  "publishedAt": "2026-10-12T17:56:56+00:00",
+  "publishedAtQuote": "article:published_time 2026-10-12T17:56:56+00:00",
+  "retrievedAt": "2026-10-12T23:34:33.451Z",
+  "method": "agent-tool",
+  "contentHash": "a8cb4b0aff3c50fe001e5e3416e57587856a613882c7cc48760e12604563c625",
+  "quotations": [
+    "a pair of new state-of-the-art models",
+    "Notably, Wonder Full will only be available to Muse Code subscribers and will not be served through the API. Both models will also be used to power the Muse agent."
+  ]
+}

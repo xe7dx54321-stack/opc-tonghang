@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-13-meta-muse-wonder",
+  "url": "https://research.meta.ai/blog/muse-wonder",
+  "publishedAt": "2026-10-12T00:00:00.000Z",
+  "fact": {
+    "subject": "Meta",
+    "action": "发布",
+    "object": "Muse Wonder 与 Muse Wonder Full",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Meta AI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "afc3153c19747dd8edb2b7ac4c46b7a004871b09ab5ab7b071d41fe5318cf962",
+    "originalUrl": "https://research.meta.ai/blog/muse-wonder",
+    "originalPublishedAt": "2026-10-12T00:00:00.000Z",
+    "checkedAt": "2026-10-12T23:34:33.424Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "afc3153c19747dd8edb2b7ac4c46b7a004871b09ab5ab7b071d41fe5318cf962",
+      "kind": "fact",
+      "quote": "Today, we’re excited to introduce the Muse Wonder series with Muse Wonder and Muse Wonder Full, our most capable models that deliver state-of-the-art performance on personal and professional agentic tasks. Together, they mark the next step on our scaling ladder and a major leap toward personal superintelligence. Muse Wonder brings together"
+    },
+    {
+      "snapshotId": "afc3153c19747dd8edb2b7ac4c46b7a004871b09ab5ab7b071d41fe5318cf962",
+      "kind": "condition",
+      "quote": "Muse Wonder is available today through the"
+    }
+  ],
+  "title": "Muse Wonder",
+  "displayTitle": "Meta 发布 Muse Wonder 系列，分别开放 API 与订阅入口",
+  "source": "hnrss-frontpage",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Meta",
+    "Muse Wonder 与 Muse Wonder Full"
+  ],
+  "fetchedAt": "2026-10-12T17:20:41.410Z",
+  "summary": "Meta 发布 Muse Wonder 和 Muse Wonder Full 两款模型；官方称其强化持续任务、记忆与编程。Wonder 已通过 Meta Model API 开放，Full 面向 Muse Code 订阅者，面向 Muse 助手的集成尚在后续计划中。",
+  "investorNote": "Meta 把前沿模型能力与个人代理入口绑定，企业应单独测试长期任务和数据权限，不能只看自评榜单。",
+  "narrative": "Meta 发布 Muse Wonder 与 Wonder Full，并将两款模型定位于个人和专业代理任务。Wonder 已进入模型 API，Full 面向 Muse Code 订阅者；为 Muse 助手提供能力仍是后续计划。当前的性能比较主要来自 Meta 自己的评测，采购方更需要检验长任务完成率、记忆误用和跨应用授权边界。",
+  "score": 0.95,
+  "duplicateOf": null,
+  "clusterId": "event-b49c7cb463c790053968f7bd",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "原文证实为本窗口内独立的新动作，历史目录未见相同发生"
+  },
+  "eventId": "event-b49c7cb463c790053968f7bd",
+  "occurrenceId": "occ-b49c7cb463c790053968f7bd",
+  "relatedItems": []
+}

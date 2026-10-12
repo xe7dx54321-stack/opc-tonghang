@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-13",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-a88763d26f19797ed15e",
+      "title": "Meta 发布 Muse Wonder 系列",
+      "summary": "Meta 同次发布两款模型，媒体分别核对可用渠道和评测",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "techcrunch.com",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder"
+        },
+        {
+          "name": "theverge.com",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+        },
+        {
+          "name": "the-decoder.com",
+          "url": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier"
+        }
+      ]
+    }
+  ]
+}

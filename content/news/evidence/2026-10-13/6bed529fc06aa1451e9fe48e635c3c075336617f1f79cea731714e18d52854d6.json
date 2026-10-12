@@ -1,0 +1,15 @@
+{
+  "snapshotId": "6bed529fc06aa1451e9fe48e635c3c075336617f1f79cea731714e18d52854d6",
+  "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+  "publishedAt": "2026-10-12T13:01:29+00:00",
+  "publishedAtQuote": "article:published_time 2026-10-12T13:01:29+00:00",
+  "retrievedAt": "2026-10-12T23:34:33.525Z",
+  "method": "agent-tool",
+  "contentHash": "a8326b1fc41e8298bc7918d3cf55cbc0d89a9e32be7ede3596899af3676145f8",
+  "quotations": [
+    "As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure. We will scale our Azure Maia family to multi-gigawatt deployments starting in 2027, making Maia the primary inference system for Microsoft products and services.",
+    "As AI workloads become increasingly context and memory-bound, Maia 300 delivers industry-leading HBM bandwidth per watt. Eight HBM4 stacks provide 18.0 TB/s of peak memory bandwidth within a 950-watt TDP, enabling efficient execution of large models and long-context workloads. Specialized kernel support uses on-die SRAM as a software-managed scratchpad, reducing pressure on HBM.",
+    "Maia 300 will begin production deployments in 2027. For more information on Maia 300 architectural details, read our",
+    "Maia 300 rack systems bring together 96 accelerators within a 167-kilowatt power envelope, delivering 27.6 TB of HBM capacity and 1.7 PB/s of aggregate HBM bandwidth across a high-speed scale-up domain."
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-13-intel-gpu-d-series",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intels-crescent-island-ai-accelerator-officially-powers-new-gpu-d-series-products-chip-delivers-1-3-peak-pflops-of-fp8-compute-and-1-5-tb-s-of-memory-bandwidth",
+  "publishedAt": "2026-10-12T19:48:14Z",
+  "fact": {
+    "subject": "Intel",
+    "action": "公布",
+    "object": "GPU D-Series 推理加速卡参数及送样进展",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "7a8a008c12216f9af6e99a83b017f6b214613b5b49218f57a67f2e825a28da83",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intels-crescent-island-ai-accelerator-officially-powers-new-gpu-d-series-products-chip-delivers-1-3-peak-pflops-of-fp8-compute-and-1-5-tb-s-of-memory-bandwidth",
+    "originalPublishedAt": "2026-10-12T19:48:14Z",
+    "checkedAt": "2026-10-12T23:34:33.647Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "7a8a008c12216f9af6e99a83b017f6b214613b5b49218f57a67f2e825a28da83",
+      "kind": "fact",
+      "quote": "At OCP 2026 today, Intel has given Crescent Island a proper name: the Intel GPU D-Series. For the first time, the company also shared a theoretical peak performance target for the chip: 1.3 PFLOPS of FP8. It also disclosed the final memory bandwidth to expect from these AI inference accelerators: 1.5 TB/s. This new information adds to the slow drip of disclosures Intel has made about Crescent Island throughout 2026."
+    },
+    {
+      "snapshotId": "7a8a008c12216f9af6e99a83b017f6b214613b5b49218f57a67f2e825a28da83",
+      "kind": "condition",
+      "quote": "To bring Xe accelerators into the data center, Intel says it’s working with “a broad ecosystem of OEMs, ODMs, neoclouds, independent software vendors, appliance providers, and AI-native companies.” To that end, Intel says customer sampling of GPU D-Series products is in progress, although it didn’t provide any details of a broad launch."
+    }
+  ],
+  "title": "Intel's Crescent Island AI accelerator officially powers new GPU D-Series products",
+  "displayTitle": "Intel 为 Crescent Island 定名 GPU D-Series，披露推理参数",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "Intel",
+    "GPU D-Series 推理加速卡参数及送样进展"
+  ],
+  "fetchedAt": "2026-10-12T20:22:18.008Z",
+  "summary": "Intel 在 OCP 2026 将 Crescent Island 推理加速产品定名 GPU D-Series，首次披露 FP8 理论峰值 1.3 PFLOPS 与 1.5 TB/s 内存带宽，称客户送样正在进行。",
+  "investorNote": "产品已从路线图进入送样，但可扩展软件栈、客户量产采购和实际吞吐仍是竞争关键。",
+  "narrative": "Intel 为 Crescent Island 推理芯片正式定名 GPU D-Series，披露 FP8 理论峰值和内存带宽，并称客户送样已经开始。它瞄准风冷 PCIe 服务器和大模型推理；参数与送样说明产品前进了一步，但商业竞争力还取决于软件生态、实际吞吐及客户能否扩大部署。",
+  "score": 0.81,
+  "duplicateOf": null,
+  "clusterId": "event-bcb7d46f2326e45cfc206353",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "原文证实为本窗口内独立的新动作，历史目录未见相同发生"
+  },
+  "eventId": "event-bcb7d46f2326e45cfc206353",
+  "occurrenceId": "occ-bcb7d46f2326e45cfc206353",
+  "relatedItems": []
+}

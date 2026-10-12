@@ -1,0 +1,13 @@
+{
+  "snapshotId": "91352add252e9159d5cd82fef01c9a5b1bcf0a65114bf05b3c51c7fb9181a890",
+  "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+  "publishedAt": "2026-10-12T15:00:25+00:00",
+  "publishedAtQuote": "article:published_time 2026-10-12T15:00:25+00:00",
+  "retrievedAt": "2026-10-12T23:34:33.572Z",
+  "method": "agent-tool",
+  "contentHash": "585ae1bcf3e06095fbe4c783b2201a1a1f40d0f921b782fe05c016c78a5748b8",
+  "quotations": [
+    "NVIDIA joined industry leaders in contributing to the third-generation MGX AI data center reference design through OCP’s Open DC Initiative.",
+    "For NVIDIA Vera Rubin AI factories, the updated MGX 1.2 specification extends the open architecture for AI factories with rack-scale blind-mate liquid cooling, interoperable rack-scale interconnect infrastructure and a liquid-cooled 5,000A busbar designed for higher-power AI systems. It also adds native 19-inch equipment support and higher-density rack designs."
+  ]
+}

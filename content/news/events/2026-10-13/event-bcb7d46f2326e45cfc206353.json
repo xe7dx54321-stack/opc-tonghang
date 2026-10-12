@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-bcb7d46f2326e45cfc206353",
+  "title": "Intel 为 Crescent Island 定名 GPU D-Series，披露推理参数",
+  "firstSeen": "2026-10-13",
+  "editionDate": "2026-10-13",
+  "occurrences": [
+    {
+      "id": "occ-bcb7d46f2326e45cfc206353",
+      "fact": {
+        "subject": "Intel",
+        "action": "公布",
+        "object": "GPU D-Series 推理加速卡参数及送样进展",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-13",
+      "reports": [
+        {
+          "ref": "2026-10-13/2026-10-13-intel-gpu-d-series",
+          "itemId": "2026-10-13-intel-gpu-d-series",
+          "editionDate": "2026-10-13",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intels-crescent-island-ai-accelerator-officially-powers-new-gpu-d-series-products-chip-delivers-1-3-peak-pflops-of-fp8-compute-and-1-5-tb-s-of-memory-bandwidth",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-10-12T19:48:14Z",
+          "title": "Intel 为 Crescent Island 定名 GPU D-Series，披露推理参数"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-13"
+}

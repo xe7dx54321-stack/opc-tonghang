@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-13-anthropic-self-replication-study",
+  "url": "https://www.anthropic.com/research/self-replicating-ai",
+  "publishedAt": "2026-10-12T19:30:00.000Z",
+  "fact": {
+    "subject": "Anthropic",
+    "action": "发布研究",
+    "object": "小模型在 IoT 设备自复制的分阶段评估",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Anthropic",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "5b3c2d011803a7bad45b2903fb2c4634e86768db07df8ab1a8900069ee13784d",
+    "originalUrl": "https://www.anthropic.com/research/self-replicating-ai",
+    "originalPublishedAt": "2026-10-12T19:30:00.000Z",
+    "checkedAt": "2026-10-12T23:34:33.598Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "5b3c2d011803a7bad45b2903fb2c4634e86768db07df8ab1a8900069ee13784d",
+      "kind": "fact",
+      "quote": "Our experiments suggest that small AI models may be months away from being capable enough to self-replicate on commercial IoT devices, like smart ovens and off-brand Android TV boxes. A replicator like this would be challenging to shut down, since there’s no centralized point to shut off - though it may be slow (with a doubling time of days). Unlike non-AI malware, it could also figure out unfamiliar devices on its own. In our evals, a 9B model got inference running on 8 of the 9 hardware types we tested."
+    },
+    {
+      "snapshotId": "5b3c2d011803a7bad45b2903fb2c4634e86768db07df8ab1a8900069ee13784d",
+      "kind": "condition",
+      "quote": "Models of 30B parameters and under can already complete many of the individual steps for replication today, though they make mistakes when composing them end to end. In our simplified evals, GLM-5.2 and stronger models are capable of end to end replication. If small models improve at their historical rate, they’ll match this capability level by the end of this year. Small weight-based replicators may be possible soon after."
+    },
+    {
+      "snapshotId": "5b3c2d011803a7bad45b2903fb2c4634e86768db07df8ab1a8900069ee13784d",
+      "kind": "condition",
+      "quote": "We run Gemma4-26B-A4B, distributed over 15 inexpensive off-brand Android TV boxes (~$55 each) that we bought and networked together, at 0.39 tokens per second. Each tile below shows one physical TV box holding two of the model’s layers as the model runs."
+    }
+  ],
+  "title": "AI models may be capable of self-replicating without access to a datacenter",
+  "displayTitle": "Anthropic 研究：小模型在简化测试中已能完成自复制链条",
+  "source": "anthropic-official",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "小模型在 IoT 设备自复制的分阶段评估"
+  ],
+  "fetchedAt": "2026-10-12T19:21:46.150Z",
+  "summary": "Anthropic 发布对模型在低成本 IoT 设备上部署自身能力的研究：部分模型可完成多项分步任务，在简化评估中有模型完成端到端复制；研究未证明真实网络中已有自主传播。",
+  "investorNote": "安全评估需要同时测设备适配、权限获取和连续传播，单一任务得分不能代表真实世界风险已发生。",
+  "narrative": "Anthropic 的新研究在廉价设备上测试模型部署自身推理环境的能力，并在简化评估中观察到部分模型完成端到端链条。作者同时指出，小模型在串联各步骤时仍会犯错，研究大体略过了实际入侵步骤。这里讨论的是受控实验与风险边界，不能写成真实网络已经出现自主复制的 AI 蠕虫。",
+  "score": 0.85,
+  "duplicateOf": null,
+  "clusterId": "event-fbc3715c0ec5e4b6c0f119c6",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "原文证实为本窗口内独立的新动作，历史目录未见相同发生"
+  },
+  "eventId": "event-fbc3715c0ec5e4b6c0f119c6",
+  "occurrenceId": "occ-fbc3715c0ec5e4b6c0f119c6",
+  "relatedItems": []
+}

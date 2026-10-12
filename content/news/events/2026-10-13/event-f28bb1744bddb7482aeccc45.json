@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "event-f28bb1744bddb7482aeccc45",
+  "title": "微软公布 Maia 300 架构，计划 2027 年扩至多吉瓦",
+  "firstSeen": "2026-10-13",
+  "editionDate": "2026-10-13",
+  "occurrences": [
+    {
+      "id": "occ-f28bb1744bddb7482aeccc45",
+      "fact": {
+        "subject": "Microsoft",
+        "action": "公布",
+        "object": "Maia 300 架构与 2027 年扩容计划",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-13",
+      "reports": [
+        {
+          "ref": "2026-10-13/2026-10-13-microsoft-maia-300",
+          "itemId": "2026-10-13-microsoft-maia-300",
+          "editionDate": "2026-10-13",
+          "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+          "source": "hnrss-newest",
+          "owner": "Microsoft",
+          "role": "principal",
+          "publishedAt": "2026-10-12T13:01:29+00:00",
+          "title": "微软公布 Maia 300 架构，计划 2027 年扩至多吉瓦"
+        },
+        {
+          "ref": "2026-10-13/2026-10-13-decoder-microsoft-maia",
+          "itemId": "2026-10-13-decoder-microsoft-maia",
+          "editionDate": "2026-10-13",
+          "url": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-10-12T15:24:03+00:00",
+          "title": "微软公布 Maia 300 架构，计划 2027 年扩至多吉瓦"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-13"
+}

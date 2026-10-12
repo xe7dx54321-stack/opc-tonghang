@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-5398954b2cd76ad372a2041b",
+  "title": "AMD 公布 Helion 机架参考设计，瞄准 Agent 的 CPU 负载",
+  "firstSeen": "2026-10-13",
+  "editionDate": "2026-10-13",
+  "occurrences": [
+    {
+      "id": "occ-5398954b2cd76ad372a2041b",
+      "fact": {
+        "subject": "AMD",
+        "action": "公布",
+        "object": "Helion 机架参考设计",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-13",
+      "reports": [
+        {
+          "ref": "2026-10-13/2026-10-13-amd-helion-rack",
+          "itemId": "2026-10-13-amd-helion-rack",
+          "editionDate": "2026-10-13",
+          "url": "https://www.tomshardware.com/pc-components/cpus/amd-debuts-helion-reference-design-for-agentic-ai-servers-with-up-to-32-768-zen-6-venice-cores-rack-design-ships-next-year-in-cpu-only-and-all-in-one-configurations",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-10-12T13:00:00Z",
+          "title": "AMD 公布 Helion 机架参考设计，瞄准 Agent 的 CPU 负载"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-13"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-13",
+  "itemCount": 12,
+  "storyCount": 8,
+  "clusterCount": 8,
+  "files": [
+    "2026-10-13-meta-muse-wonder.json",
+    "2026-10-13-techcrunch-meta-muse.json",
+    "2026-10-13-verge-meta-muse.json",
+    "2026-10-13-decoder-meta-muse.json",
+    "2026-10-13-microsoft-maia-300.json",
+    "2026-10-13-decoder-microsoft-maia.json",
+    "2026-10-13-nvidia-vera-rubin-ocp.json",
+    "2026-10-13-anthropic-self-replication-study.json",
+    "2026-10-13-globalfoundries-fdx-fusion.json",
+    "2026-10-13-intel-gpu-d-series.json",
+    "2026-10-13-amd-helion-rack.json",
+    "2026-10-13-ambi-funding-apps.json"
+  ],
+  "representatives": [
+    "2026-10-13-meta-muse-wonder",
+    "2026-10-13-microsoft-maia-300",
+    "2026-10-13-nvidia-vera-rubin-ocp",
+    "2026-10-13-anthropic-self-replication-study",
+    "2026-10-13-globalfoundries-fdx-fusion",
+    "2026-10-13-intel-gpu-d-series",
+    "2026-10-13-amd-helion-rack",
+    "2026-10-13-ambi-funding-apps"
+  ]
+}

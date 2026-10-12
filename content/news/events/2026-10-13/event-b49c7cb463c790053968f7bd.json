@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "event-b49c7cb463c790053968f7bd",
+  "title": "Meta 发布 Muse Wonder 系列，分别开放 API 与订阅入口",
+  "firstSeen": "2026-10-13",
+  "editionDate": "2026-10-13",
+  "occurrences": [
+    {
+      "id": "occ-b49c7cb463c790053968f7bd",
+      "fact": {
+        "subject": "Meta",
+        "action": "发布",
+        "object": "Muse Wonder 与 Muse Wonder Full",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-13",
+      "reports": [
+        {
+          "ref": "2026-10-13/2026-10-13-meta-muse-wonder",
+          "itemId": "2026-10-13-meta-muse-wonder",
+          "editionDate": "2026-10-13",
+          "url": "https://research.meta.ai/blog/muse-wonder",
+          "source": "hnrss-frontpage",
+          "owner": "Meta AI",
+          "role": "principal",
+          "publishedAt": "2026-10-12T00:00:00.000Z",
+          "title": "Meta 发布 Muse Wonder 系列，分别开放 API 与订阅入口"
+        },
+        {
+          "ref": "2026-10-13/2026-10-13-techcrunch-meta-muse",
+          "itemId": "2026-10-13-techcrunch-meta-muse",
+          "editionDate": "2026-10-13",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-12T17:56:56+00:00",
+          "title": "Meta 发布 Muse Wonder 系列，分别开放 API 与订阅入口"
+        },
+        {
+          "ref": "2026-10-13/2026-10-13-verge-meta-muse",
+          "itemId": "2026-10-13-verge-meta-muse",
+          "editionDate": "2026-10-13",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-10-12T17:00:00+00:00",
+          "title": "Meta 发布 Muse Wonder 系列，分别开放 API 与订阅入口"
+        },
+        {
+          "ref": "2026-10-13/2026-10-13-decoder-meta-muse",
+          "itemId": "2026-10-13-decoder-meta-muse",
+          "editionDate": "2026-10-13",
+          "url": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-10-12T18:48:29+00:00",
+          "title": "Meta 发布 Muse Wonder 系列，分别开放 API 与订阅入口"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-13"
+}

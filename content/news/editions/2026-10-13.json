@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-13",
+  "window": {
+    "start": 1791761400000,
+    "end": 1791847800000
+  },
+  "digestHash": "b182f4f7ec6157f3c3d2ef9f07b37c8cce068779a47fffcfa7681441cc5b4d48",
+  "stories": [
+    {
+      "heading": "Meta 发布 Muse Wonder 系列，分别开放 API 与订阅入口",
+      "itemId": "2026-10-13-meta-muse-wonder",
+      "eventId": "event-b49c7cb463c790053968f7bd",
+      "occurrenceId": "occ-b49c7cb463c790053968f7bd"
+    },
+    {
+      "heading": "微软公布 Maia 300 架构，计划 2027 年扩至多吉瓦",
+      "itemId": "2026-10-13-microsoft-maia-300",
+      "eventId": "event-f28bb1744bddb7482aeccc45",
+      "occurrenceId": "occ-f28bb1744bddb7482aeccc45"
+    },
+    {
+      "heading": "NVIDIA 向 OCP 开放 Vera Rubin 机架规范",
+      "itemId": "2026-10-13-nvidia-vera-rubin-ocp",
+      "eventId": "event-25508bb499191d4c43b1d765",
+      "occurrenceId": "occ-25508bb499191d4c43b1d765"
+    },
+    {
+      "heading": "Anthropic 研究：小模型在简化测试中已能完成自复制链条",
+      "itemId": "2026-10-13-anthropic-self-replication-study",
+      "eventId": "event-fbc3715c0ec5e4b6c0f119c6",
+      "occurrenceId": "occ-fbc3715c0ec5e4b6c0f119c6"
+    },
+    {
+      "heading": "GlobalFoundries 公布 FDX Fusion 路线，样片计划 2027 年提供",
+      "itemId": "2026-10-13-globalfoundries-fdx-fusion",
+      "eventId": "event-5e9c8ac0c3694dc4d0a56ce2",
+      "occurrenceId": "occ-5e9c8ac0c3694dc4d0a56ce2"
+    },
+    {
+      "heading": "Intel 为 Crescent Island 定名 GPU D-Series，披露推理参数",
+      "itemId": "2026-10-13-intel-gpu-d-series",
+      "eventId": "event-bcb7d46f2326e45cfc206353",
+      "occurrenceId": "occ-bcb7d46f2326e45cfc206353"
+    },
+    {
+      "heading": "AMD 公布 Helion 机架参考设计，瞄准 Agent 的 CPU 负载",
+      "itemId": "2026-10-13-amd-helion-rack",
+      "eventId": "event-5398954b2cd76ad372a2041b",
+      "occurrenceId": "occ-5398954b2cd76ad372a2041b"
+    },
+    {
+      "heading": "Ambi 披露累计融资 2600 万美元，推出常听式 AI 应用",
+      "itemId": "2026-10-13-ambi-funding-apps",
+      "eventId": "event-5ceb66985e5ddfa2cc90b3ac",
+      "occurrenceId": "occ-5ceb66985e5ddfa2cc90b3ac"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-13-ambi-funding-apps.json": "6eb9402a1d732dadd1b9bd3e409df5b790da2eade2d0dc198906a804627bdaa7",
+    "2026-10-13-amd-helion-rack.json": "b60487d1b39baf2a0bcc8b6d27422f8d6458b8ee22639ef035b9bf7bbae5b9dd",
+    "2026-10-13-anthropic-self-replication-study.json": "b8a31a3c8834255931af4a8bb94f6d8c093e0714356183da90b6f3323c827dc1",
+    "2026-10-13-decoder-meta-muse.json": "42328c358ba2d489d3b9d473b652968d5c0fc901174720140fbbff9e7dfc2ee2",
+    "2026-10-13-decoder-microsoft-maia.json": "3c36ef83e0422e54e2b87a884d969c2b0df5ebc9016dd996f66337685e9a0f00",
+    "2026-10-13-globalfoundries-fdx-fusion.json": "4a7994e8aa6d99b4b8f9e0460f741c5b5a1057ce438b80bb49ed4c1d67fc606b",
+    "2026-10-13-intel-gpu-d-series.json": "d35b5389a11afae69f98a5cf5880399581ad33a763aaa8519f9485099e7d5d35",
+    "2026-10-13-meta-muse-wonder.json": "5b4869b37fb340d30c03c2f87c8a26b9c4fce11a1957c7f34163fb9edc9fa889",
+    "2026-10-13-microsoft-maia-300.json": "e5256a7b3e3b476778518853a2629e6b92d31207e2304d3be2b434f37a2818e5",
+    "2026-10-13-nvidia-vera-rubin-ocp.json": "1544110c094c9028e8369a5d903ba04f003cf217dd694eeac3481cde43b11a7e",
+    "2026-10-13-techcrunch-meta-muse.json": "1be746e9b994f89ed1794dd104052790cbcb71d5fa19931b9e7efd332b2e36b1",
+    "2026-10-13-verge-meta-muse.json": "cd4a8453f5a3e57edeacf2865aff5cce98066112dd1f2084de19c3e1f9a6dda2"
+  },
+  "evidenceHashes": {
+    "3ef55b98e7a55d089e167b8e279f8860ae0f5e31567bd64b71796b8a507f1e73.json": "0fa09bdb7cf5ba1e771d62cffcd65e9db9712e1913665484bf9c3960c5fff518",
+    "41adff78a11a1b493f17b58f4579e3af49b75b71391819faf52e3731f21331e7.json": "0711805cd7d8bc9f4e8e9e6cf231e2629e28792bdde5ac75df05b02ecdd8f931",
+    "5b3c2d011803a7bad45b2903fb2c4634e86768db07df8ab1a8900069ee13784d.json": "1c7e905ed3f7cebff2703531a71d3af20d3b6cda5abbf703d9800efca63e8597",
+    "6bed529fc06aa1451e9fe48e635c3c075336617f1f79cea731714e18d52854d6.json": "d083f0062cbc194f5c11d1773b3c688aabb61ae941960ef3468ebc3800f41a2f",
+    "7025f8ea5ba2d6becb0d450bad3f7117782c31313a8b09fbb6364bdbb01efdf7.json": "def3980e6836ab71840903506d22efeb16493bace0857a1d6b275e6810c9186b",
+    "7a8a008c12216f9af6e99a83b017f6b214613b5b49218f57a67f2e825a28da83.json": "b02c38dfb18978738290dc0940b3ea9ce6b02a33b79735940a257b9647a515da",
+    "91352add252e9159d5cd82fef01c9a5b1bcf0a65114bf05b3c51c7fb9181a890.json": "ebb9a8b968be9c7f23c9906c4efa11f7b14cd4cd1aa191af7e9fc6195f941e12",
+    "a70845d1501f4d00457d02aca5d5404b8958fd6f8f595ac59f98b683afa24ab2.json": "b6d708493d7415c3e593a3c4f816cf8ca5bc64e68281c8a4469e82de8940fa85",
+    "aa3e69b24936d7c9c6be378cdf82b08ce0b72ebcdf4afe55768d2dc7b6cbadba.json": "5d78c045c9928dbbfadadcfcc637d68e7d465607e1d72231ae9fcde73f11c2e8",
+    "afc3153c19747dd8edb2b7ac4c46b7a004871b09ab5ab7b071d41fe5318cf962.json": "5515f737190e82ad42a550180efd9c620ff094586a350d70335feb5de04c9d3f",
+    "b6e0c880ade0f22f3a72b88f2cf9a5e141482985d74418448a6f87779789fe0e.json": "b8ced501072f109dc10ade57f5920acf8024231f8ac91f75ecd7732f520ac442",
+    "e3890269b7ca71c7305e75525c8725dc01dd0ffa3188aaaf8695717e07a2d303.json": "e3555193b2f1613dd007bc65f470482d8a37f3c8f2a6ea0709e8b44517b4c9a9"
+  },
+  "eventsHashes": {
+    "event-25508bb499191d4c43b1d765.json": "c84fec1edec9f1e7f80265fb0547adfae93f26e93c8b56ce26c58583ffd01d94",
+    "event-5398954b2cd76ad372a2041b.json": "618ead9a3017271f00e75ddd295798ca2b9a9fef5e959f1912abc670224e32bb",
+    "event-5ceb66985e5ddfa2cc90b3ac.json": "cae0d0d7db4242fa61083a8ce53aa71729677aa669931c1e986e795b5fa288a0",
+    "event-5e9c8ac0c3694dc4d0a56ce2.json": "98ba1b77fa281126b340cf0104796ad55410a0c141dc11c900c17e5c948ffea7",
+    "event-b49c7cb463c790053968f7bd.json": "c56d681140eaae050929f18d234539d89260e9363e70159269310c28a00b9dc5",
+    "event-bcb7d46f2326e45cfc206353.json": "84ecdcdadfd1ccc284c1a749c0a8dc18bd3363ed42d751c565a611f0a238c846",
+    "event-f28bb1744bddb7482aeccc45.json": "cda75f29f392d4bf8908e52b14573f321121c6c84e721aad5ba2d3ebf4102770",
+    "event-fbc3715c0ec5e4b6c0f119c6.json": "08b7d7e0c1342e119ff9a7197db137aa286dac5bc4b1a435725b40e6b22bd4ae"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "snapshotId": "3ef55b98e7a55d089e167b8e279f8860ae0f5e31567bd64b71796b8a507f1e73",
+  "url": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/",
+  "publishedAt": "2026-10-12T15:24:03+00:00",
+  "publishedAtQuote": "article:published_time 2026-10-12T15:24:03+00:00",
+  "retrievedAt": "2026-10-12T23:34:33.548Z",
+  "method": "agent-tool",
+  "contentHash": "8110b9fa8ca737012ed333773377dfb807184e81f3890fc56a87fb475044d50e",
+  "quotations": [
+    "Microsoft plans to deploy its Azure Maia AI chips at multi-gigawatt scale starting in 2027."
+  ]
+}

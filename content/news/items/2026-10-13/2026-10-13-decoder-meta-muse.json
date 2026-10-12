@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-13-decoder-meta-muse",
+  "url": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
+  "publishedAt": "2026-10-12T18:48:29+00:00",
+  "fact": {
+    "subject": "Meta",
+    "action": "发布",
+    "object": "Muse Wonder 与 Muse Wonder Full",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "aa3e69b24936d7c9c6be378cdf82b08ce0b72ebcdf4afe55768d2dc7b6cbadba",
+    "originalUrl": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
+    "originalPublishedAt": "2026-10-12T18:48:29+00:00",
+    "checkedAt": "2026-10-12T23:34:33.501Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "aa3e69b24936d7c9c6be378cdf82b08ce0b72ebcdf4afe55768d2dc7b6cbadba",
+      "kind": "fact",
+      "quote": "Meta's two new models, Muse Wonder and Muse Wonder Full, close the gap to the leading frontier models."
+    }
+  ],
+  "title": "Meta's new frontier model Muse Wonder Full breaks into the AI top tier",
+  "displayTitle": "Meta 发布 Muse Wonder 系列，分别开放 API 与订阅入口",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Meta",
+    "Muse Wonder 与 Muse Wonder Full"
+  ],
+  "fetchedAt": "2026-10-12T19:21:38.210Z",
+  "summary": "The Decoder 同日报道 Meta 发布 Muse Wonder 和 Wonder Full，并分析其代理编程及自主任务评测表现；该表现需与官方自评口径区分。",
+  "investorNote": "模型性能结论仍依赖评测设置，应用侧实测比排行榜位置更能说明长期代理价值。",
+  "narrative": "The Decoder 对同一次模型发布作出评测解读，重点是代理编程和自主解决问题的能力。榜单排名可以指示测试方向，真实采购仍应按业务任务复核成功率与成本。",
+  "score": 0.58,
+  "duplicateOf": "2026-10-13-meta-muse-wonder",
+  "clusterId": "event-b49c7cb463c790053968f7bd",
+  "eventRelation": {
+    "type": "SAME_OCCURRENCE",
+    "targetRef": "2026-10-13/2026-10-13-meta-muse-wonder",
+    "reason": "同为 Meta 于 10 月 12 日发布 Muse Wonder 和 Wonder Full 的报道"
+  },
+  "eventId": "event-b49c7cb463c790053968f7bd",
+  "occurrenceId": "occ-b49c7cb463c790053968f7bd"
+}

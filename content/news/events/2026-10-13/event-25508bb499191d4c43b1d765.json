@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-25508bb499191d4c43b1d765",
+  "title": "NVIDIA 向 OCP 开放 Vera Rubin 机架规范",
+  "firstSeen": "2026-10-13",
+  "editionDate": "2026-10-13",
+  "occurrences": [
+    {
+      "id": "occ-25508bb499191d4c43b1d765",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "向 OCP 贡献",
+        "object": "Vera Rubin 机架与开放基础设施规范",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-13",
+      "reports": [
+        {
+          "ref": "2026-10-13/2026-10-13-nvidia-vera-rubin-ocp",
+          "itemId": "2026-10-13-nvidia-vera-rubin-ocp",
+          "editionDate": "2026-10-13",
+          "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+          "source": "nvidia-blog",
+          "owner": "NVIDIA",
+          "role": "principal",
+          "publishedAt": "2026-10-12T15:00:25+00:00",
+          "title": "NVIDIA 向 OCP 开放 Vera Rubin 机架规范"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-13"
+}

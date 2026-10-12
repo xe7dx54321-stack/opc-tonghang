@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-13-ambi-funding-apps",
+  "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+  "publishedAt": "2026-10-12T12:47:59+00:00",
+  "fact": {
+    "subject": "Ambi",
+    "action": "披露融资并发布",
+    "object": "2600 万美元融资和常听式 AI 应用",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "7025f8ea5ba2d6becb0d450bad3f7117782c31313a8b09fbb6364bdbb01efdf7",
+    "originalUrl": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "originalPublishedAt": "2026-10-12T12:47:59+00:00",
+    "checkedAt": "2026-10-12T23:34:33.698Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "7025f8ea5ba2d6becb0d450bad3f7117782c31313a8b09fbb6364bdbb01efdf7",
+      "kind": "fact",
+      "quote": "The company said on Monday that it has raised $26 million across multiple funding rounds led by Luminous Ventures, which has backed companies like Meituan and Unitree Robotics, and original design manufacturer (ODM) Huaqin."
+    },
+    {
+      "snapshotId": "7025f8ea5ba2d6becb0d450bad3f7117782c31313a8b09fbb6364bdbb01efdf7",
+      "kind": "condition",
+      "quote": "Ambi is also releasing apps for iPhones, Macs, and Apple Watch. These apps act like meeting notetakers, but users can choose to have them listening so they can capture context all day."
+    },
+    {
+      "snapshotId": "7025f8ea5ba2d6becb0d450bad3f7117782c31313a8b09fbb6364bdbb01efdf7",
+      "kind": "condition",
+      "quote": "Mo said that users can turn off ambient data capture on Ambi’s apps and devices at any time, and the feature is off by default. The startup said it doesn’t store any recordings of users and encrypts the data, but it didn’t specify what kind of encryption it uses. Despite these measures, the onus of declaring ambient capture is still on the users. He classified this as an industry-wide problem."
+    }
+  ],
+  "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+  "displayTitle": "Ambi 披露累计融资 2600 万美元，推出常听式 AI 应用",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Ambi",
+    "2600 万美元融资和常听式 AI 应用"
+  ],
+  "fetchedAt": "2026-10-12T13:16:57.178Z",
+  "summary": "TechCrunch 报道由前 Plaud 高管创办的 Ambi 披露多轮累计融资 2600 万美元，同时推出 iPhone、Mac 与 Apple Watch 应用，可在用户选择后持续收集语音上下文。",
+  "investorNote": "常听式个人代理的差异化在实时上下文，但录音告知、默认关闭和数据处理方式会决定企业采用门槛。",
+  "narrative": "Ambi 披露多轮累计融资 2600 万美元，并推出覆盖 iPhone、Mac 与 Apple Watch 的常听式 AI 应用。公司称环境收集默认关闭、用户可随时停用，也称不保存录音；报道指出对现场其他人的告知仍由用户承担。产品价值在会议中即时提供上下文，采用门槛则是可证明的知情与数据处理规则。",
+  "score": 0.72,
+  "duplicateOf": null,
+  "clusterId": "event-5ceb66985e5ddfa2cc90b3ac",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "原文证实为本窗口内独立的新动作，历史目录未见相同发生"
+  },
+  "eventId": "event-5ceb66985e5ddfa2cc90b3ac",
+  "occurrenceId": "occ-5ceb66985e5ddfa2cc90b3ac",
+  "relatedItems": []
+}

@@ -1,0 +1,13 @@
+{
+  "snapshotId": "7a8a008c12216f9af6e99a83b017f6b214613b5b49218f57a67f2e825a28da83",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intels-crescent-island-ai-accelerator-officially-powers-new-gpu-d-series-products-chip-delivers-1-3-peak-pflops-of-fp8-compute-and-1-5-tb-s-of-memory-bandwidth",
+  "publishedAt": "2026-10-12T19:48:14Z",
+  "publishedAtQuote": "article:published_time 2026-10-12T19:48:14Z",
+  "retrievedAt": "2026-10-12T23:34:33.647Z",
+  "method": "agent-tool",
+  "contentHash": "b0a7a557ce550a10da26d0f630df5d679376bf65cab0c82cb7c68c11c99dc03c",
+  "quotations": [
+    "At OCP 2026 today, Intel has given Crescent Island a proper name: the Intel GPU D-Series. For the first time, the company also shared a theoretical peak performance target for the chip: 1.3 PFLOPS of FP8. It also disclosed the final memory bandwidth to expect from these AI inference accelerators: 1.5 TB/s. This new information adds to the slow drip of disclosures Intel has made about Crescent Island throughout 2026.",
+    "To bring Xe accelerators into the data center, Intel says it’s working with “a broad ecosystem of OEMs, ODMs, neoclouds, independent software vendors, appliance providers, and AI-native companies.” To that end, Intel says customer sampling of GPU D-Series products is in progress, although it didn’t provide any details of a broad launch."
+  ]
+}

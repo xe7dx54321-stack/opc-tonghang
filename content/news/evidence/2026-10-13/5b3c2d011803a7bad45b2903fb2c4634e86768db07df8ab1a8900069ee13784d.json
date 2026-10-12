@@ -1,0 +1,14 @@
+{
+  "snapshotId": "5b3c2d011803a7bad45b2903fb2c4634e86768db07df8ab1a8900069ee13784d",
+  "url": "https://www.anthropic.com/research/self-replicating-ai",
+  "publishedAt": "2026-10-12T19:30:00.000Z",
+  "publishedAtQuote": "article:published_time 2026-10-12T19:30:00.000Z",
+  "retrievedAt": "2026-10-12T23:34:33.598Z",
+  "method": "agent-tool",
+  "contentHash": "2d591ab715a7950c0bef8f4cdcdd202b288f33a46d2bfac17fb17a09e899de94",
+  "quotations": [
+    "Our experiments suggest that small AI models may be months away from being capable enough to self-replicate on commercial IoT devices, like smart ovens and off-brand Android TV boxes. A replicator like this would be challenging to shut down, since there’s no centralized point to shut off - though it may be slow (with a doubling time of days). Unlike non-AI malware, it could also figure out unfamiliar devices on its own. In our evals, a 9B model got inference running on 8 of the 9 hardware types we tested.",
+    "Models of 30B parameters and under can already complete many of the individual steps for replication today, though they make mistakes when composing them end to end. In our simplified evals, GLM-5.2 and stronger models are capable of end to end replication. If small models improve at their historical rate, they’ll match this capability level by the end of this year. Small weight-based replicators may be possible soon after.",
+    "We run Gemma4-26B-A4B, distributed over 15 inexpensive off-brand Android TV boxes (~$55 each) that we bought and networked together, at 0.39 tokens per second. Each tile below shows one physical TV box holding two of the model’s layers as the model runs."
+  ]
+}

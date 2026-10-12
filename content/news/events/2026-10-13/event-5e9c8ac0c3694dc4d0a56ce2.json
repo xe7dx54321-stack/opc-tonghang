@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-5e9c8ac0c3694dc4d0a56ce2",
+  "title": "GlobalFoundries 公布 FDX Fusion 路线，样片计划 2027 年提供",
+  "firstSeen": "2026-10-13",
+  "editionDate": "2026-10-13",
+  "occurrences": [
+    {
+      "id": "occ-5e9c8ac0c3694dc4d0a56ce2",
+      "fact": {
+        "subject": "GlobalFoundries",
+        "action": "公布",
+        "object": "FDX Fusion FD-SOI 工艺路线",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-13",
+      "reports": [
+        {
+          "ref": "2026-10-13/2026-10-13-globalfoundries-fdx-fusion",
+          "itemId": "2026-10-13-globalfoundries-fdx-fusion",
+          "editionDate": "2026-10-13",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-unveils-7nm-class-fdx-fusion-node-fd-soi-node-doubles-22fdx-transistor-density-comes-7-years-after-firm-abandoned-finfet",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-10-12T14:30:00Z",
+          "title": "GlobalFoundries 公布 FDX Fusion 路线，样片计划 2027 年提供"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-13"
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-13-nvidia-vera-rubin-ocp",
+  "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+  "publishedAt": "2026-10-12T15:00:25+00:00",
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "向 OCP 贡献",
+    "object": "Vera Rubin 机架与开放基础设施规范",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "91352add252e9159d5cd82fef01c9a5b1bcf0a65114bf05b3c51c7fb9181a890",
+    "originalUrl": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+    "originalPublishedAt": "2026-10-12T15:00:25+00:00",
+    "checkedAt": "2026-10-12T23:34:33.572Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "91352add252e9159d5cd82fef01c9a5b1bcf0a65114bf05b3c51c7fb9181a890",
+      "kind": "fact",
+      "quote": "NVIDIA joined industry leaders in contributing to the third-generation MGX AI data center reference design through OCP’s Open DC Initiative."
+    },
+    {
+      "snapshotId": "91352add252e9159d5cd82fef01c9a5b1bcf0a65114bf05b3c51c7fb9181a890",
+      "kind": "condition",
+      "quote": "For NVIDIA Vera Rubin AI factories, the updated MGX 1.2 specification extends the open architecture for AI factories with rack-scale blind-mate liquid cooling, interoperable rack-scale interconnect infrastructure and a liquid-cooled 5,000A busbar designed for higher-power AI systems. It also adds native 19-inch equipment support and higher-density rack designs."
+    }
+  ],
+  "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+  "displayTitle": "NVIDIA 向 OCP 开放 Vera Rubin 机架规范",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Vera Rubin 机架与开放基础设施规范"
+  ],
+  "fetchedAt": "2026-10-12T15:19:16.653Z",
+  "summary": "NVIDIA 在 OCP 峰会公布 Vera Rubin 相关机架与算力托盘设计贡献，MGX 1.2 纳入盲插液冷、机架互连及高电流母排等开放接口。",
+  "investorNote": "机架接口标准化会影响整机厂和散热、供电供应链的协作方式，但开放规范本身不等于量产交付。",
+  "narrative": "NVIDIA 把 Vera Rubin 相关机架和计算托盘设计贡献给 OCP，并更新 MGX 1.2 的液冷、互连和供电接口。关键变化在于把 AI 工厂的约束推到机架级标准：整机厂可围绕共同接口开发，散热和电力部件的兼容性也更可比较；实际交付能力仍需看供应商验证。",
+  "score": 0.89,
+  "duplicateOf": null,
+  "clusterId": "event-25508bb499191d4c43b1d765",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "原文证实为本窗口内独立的新动作，历史目录未见相同发生"
+  },
+  "eventId": "event-25508bb499191d4c43b1d765",
+  "occurrenceId": "occ-25508bb499191d4c43b1d765",
+  "relatedItems": []
+}

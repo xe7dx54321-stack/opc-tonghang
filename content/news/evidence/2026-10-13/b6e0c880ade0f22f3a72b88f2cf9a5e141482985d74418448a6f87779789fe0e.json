@@ -1,0 +1,13 @@
+{
+  "snapshotId": "b6e0c880ade0f22f3a72b88f2cf9a5e141482985d74418448a6f87779789fe0e",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-unveils-7nm-class-fdx-fusion-node-fd-soi-node-doubles-22fdx-transistor-density-comes-7-years-after-firm-abandoned-finfet",
+  "publishedAt": "2026-10-12T14:30:00Z",
+  "publishedAtQuote": "article:published_time 2026-10-12T14:30:00Z",
+  "retrievedAt": "2026-10-12T23:34:33.623Z",
+  "method": "agent-tool",
+  "contentHash": "49fa31d41c3a1a580066568f67800aafe37d754085ccec51298a8b1920dbafe7",
+  "quotations": [
+    "The new fabrication technology from GlobalFoundries is called FDX Fusion, and it promises 7nm-class 'digital performance' (an ambiguous claim; we will try to interpret it later) and more than twice the transistor density of its original 22FDX process introduced circa 2015. To achieve its target goals, the first generation of FDX Fusion will combine innovations in SOI substrates, transistor structures, and back-end interconnects, though keep in mind that GF has not disclosed transistor dimensions, contacted gate pitch, minimum metal pitch, or actual transistor density.",
+    "GlobalFoundries said it plans to deliver initial demo silicon for customer evaluation in early 2027, followed by the first process design kit (PDK) in mid-2027. The company is already collaborating with several customers on the technology, although it has not identified specific products or committed production volumes. Specifically, GF mentioned in its press release that BMW, Bosch, Infineon, NXP, Siemens, and Tesla have expressed interest in FDX Fusion, though only Infineon specifically confirmed collaboration on future 7nm-class technologies for radar and wireless communications."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-5ceb66985e5ddfa2cc90b3ac",
+  "title": "Ambi 披露累计融资 2600 万美元，推出常听式 AI 应用",
+  "firstSeen": "2026-10-13",
+  "editionDate": "2026-10-13",
+  "occurrences": [
+    {
+      "id": "occ-5ceb66985e5ddfa2cc90b3ac",
+      "fact": {
+        "subject": "Ambi",
+        "action": "披露融资并发布",
+        "object": "2600 万美元融资和常听式 AI 应用",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-13",
+      "reports": [
+        {
+          "ref": "2026-10-13/2026-10-13-ambi-funding-apps",
+          "itemId": "2026-10-13-ambi-funding-apps",
+          "editionDate": "2026-10-13",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-12T12:47:59+00:00",
+          "title": "Ambi 披露累计融资 2600 万美元，推出常听式 AI 应用"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-13"
+}

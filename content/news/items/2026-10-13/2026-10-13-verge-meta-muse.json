@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-13-verge-meta-muse",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+  "publishedAt": "2026-10-12T17:00:00+00:00",
+  "fact": {
+    "subject": "Meta",
+    "action": "发布",
+    "object": "Muse Wonder 与 Muse Wonder Full",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "a70845d1501f4d00457d02aca5d5404b8958fd6f8f595ac59f98b683afa24ab2",
+    "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+    "originalPublishedAt": "2026-10-12T17:00:00+00:00",
+    "checkedAt": "2026-10-12T23:34:33.476Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "a70845d1501f4d00457d02aca5d5404b8958fd6f8f595ac59f98b683afa24ab2",
+      "kind": "fact",
+      "quote": "The new models, Muse Wonder and Muse Wonder Full, are available for Muse Code subscribers starting today. Wonder can also be accessed through the Meta Model API, Meta said."
+    }
+  ],
+  "title": "Meta has some Wonder Full new AI models",
+  "displayTitle": "Meta 发布 Muse Wonder 系列，分别开放 API 与订阅入口",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Meta",
+    "Muse Wonder 与 Muse Wonder Full"
+  ],
+  "fetchedAt": "2026-10-12T17:20:35.208Z",
+  "summary": "The Verge 报道 Meta 发布 Muse Wonder 和 Wonder Full，指出两款模型面向 Muse Code 订阅者，而 Wonder 同时可通过 Meta Model API 使用。",
+  "investorNote": "媒体核对了可用渠道；未来接入 Muse 助手的计划还没有具体上线时间。",
+  "narrative": "The Verge 核对了 Wonder 与 Wonder Full 的可用渠道，也指出 Meta 尚未给出它们接入 Muse 助手的明确时间表。企业使用时应区分已经开放的模型调用与尚未交付的代理体验。",
+  "score": 0.6,
+  "duplicateOf": "2026-10-13-meta-muse-wonder",
+  "clusterId": "event-b49c7cb463c790053968f7bd",
+  "eventRelation": {
+    "type": "SAME_OCCURRENCE",
+    "targetRef": "2026-10-13/2026-10-13-meta-muse-wonder",
+    "reason": "同为 Meta 于 10 月 12 日发布 Muse Wonder 和 Wonder Full 的报道"
+  },
+  "eventId": "event-b49c7cb463c790053968f7bd",
+  "occurrenceId": "occ-b49c7cb463c790053968f7bd"
+}

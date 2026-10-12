@@ -1,0 +1,14 @@
+{
+  "snapshotId": "7025f8ea5ba2d6becb0d450bad3f7117782c31313a8b09fbb6364bdbb01efdf7",
+  "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+  "publishedAt": "2026-10-12T12:47:59+00:00",
+  "publishedAtQuote": "article:published_time 2026-10-12T12:47:59+00:00",
+  "retrievedAt": "2026-10-12T23:34:33.698Z",
+  "method": "agent-tool",
+  "contentHash": "f6fff1ca483eb530e943c813b158b3c08e73b491b32088af1e5bf1d0903f9711",
+  "quotations": [
+    "The company said on Monday that it has raised $26 million across multiple funding rounds led by Luminous Ventures, which has backed companies like Meituan and Unitree Robotics, and original design manufacturer (ODM) Huaqin.",
+    "Ambi is also releasing apps for iPhones, Macs, and Apple Watch. These apps act like meeting notetakers, but users can choose to have them listening so they can capture context all day.",
+    "Mo said that users can turn off ambient data capture on Ambi’s apps and devices at any time, and the feature is off by default. The startup said it doesn’t store any recordings of users and encrypts the data, but it didn’t specify what kind of encryption it uses. Despite these measures, the onus of declaring ambient capture is still on the users. He classified this as an industry-wide problem."
+  ]
+}

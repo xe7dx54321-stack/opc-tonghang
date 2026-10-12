@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-fbc3715c0ec5e4b6c0f119c6",
+  "title": "Anthropic 研究：小模型在简化测试中已能完成自复制链条",
+  "firstSeen": "2026-10-13",
+  "editionDate": "2026-10-13",
+  "occurrences": [
+    {
+      "id": "occ-fbc3715c0ec5e4b6c0f119c6",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "发布研究",
+        "object": "小模型在 IoT 设备自复制的分阶段评估",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-13",
+      "reports": [
+        {
+          "ref": "2026-10-13/2026-10-13-anthropic-self-replication-study",
+          "itemId": "2026-10-13-anthropic-self-replication-study",
+          "editionDate": "2026-10-13",
+          "url": "https://www.anthropic.com/research/self-replicating-ai",
+          "source": "anthropic-official",
+          "owner": "Anthropic",
+          "role": "principal",
+          "publishedAt": "2026-10-12T19:30:00.000Z",
+          "title": "Anthropic 研究：小模型在简化测试中已能完成自复制链条"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-13"
+}

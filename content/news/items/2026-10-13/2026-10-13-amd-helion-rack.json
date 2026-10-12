@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-13-amd-helion-rack",
+  "url": "https://www.tomshardware.com/pc-components/cpus/amd-debuts-helion-reference-design-for-agentic-ai-servers-with-up-to-32-768-zen-6-venice-cores-rack-design-ships-next-year-in-cpu-only-and-all-in-one-configurations",
+  "publishedAt": "2026-10-12T13:00:00Z",
+  "fact": {
+    "subject": "AMD",
+    "action": "公布",
+    "object": "Helion 机架参考设计",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e3890269b7ca71c7305e75525c8725dc01dd0ffa3188aaaf8695717e07a2d303",
+    "originalUrl": "https://www.tomshardware.com/pc-components/cpus/amd-debuts-helion-reference-design-for-agentic-ai-servers-with-up-to-32-768-zen-6-venice-cores-rack-design-ships-next-year-in-cpu-only-and-all-in-one-configurations",
+    "originalPublishedAt": "2026-10-12T13:00:00Z",
+    "checkedAt": "2026-10-12T23:34:33.671Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e3890269b7ca71c7305e75525c8725dc01dd0ffa3188aaaf8695717e07a2d303",
+      "kind": "fact",
+      "quote": "AMD is bringing a new reference rack-scale design to the data center ecosystem with Helion. It’s a standardized, 21-inch rack reference design that will"
+    },
+    {
+      "snapshotId": "e3890269b7ca71c7305e75525c8725dc01dd0ffa3188aaaf8695717e07a2d303",
+      "kind": "condition",
+      "quote": "Although AMD has renders of the design you can see in the presentation below, it won’t actually sell racks. This is a reference design that AMD is contributing to OCP, and OEMs and ODMs will actually bring that design to market. AMD didn’t share partners supporting Helion during a pre-briefing with the press. The company says CEO Lisa Su will announce partners during the lead keynote at the OCP Global Summit later today."
+    },
+    {
+      "snapshotId": "e3890269b7ca71c7305e75525c8725dc01dd0ffa3188aaaf8695717e07a2d303",
+      "kind": "condition",
+      "quote": "AMD originally said the Helion rack would ship in the first half of 2027, but it has revised the release date to November 2026. We've updated the headline and featured image. We also corrected an error where OpenU trays were marked as 21mm wide instead of 21 inches wide."
+    }
+  ],
+  "title": "AMD debuts Helion reference rack design for agentic AI servers [Updated]",
+  "displayTitle": "AMD 公布 Helion 机架参考设计，瞄准 Agent 的 CPU 负载",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "AMD",
+    "Helion 机架参考设计"
+  ],
+  "fetchedAt": "2026-10-12T13:17:07.279Z",
+  "summary": "AMD 在 OCP 峰会公布 Helion 机架参考设计，采用 ORv4 机架规范，支持高密度 EPYC CPU 和可选 GPU 配置；AMD 不直接销售整机。",
+  "investorNote": "Agent 工作负载的工具执行、编排与隔离需要 CPU 容量，参考设计的市场结果取决于 OEM 落地。",
+  "narrative": "AMD 公布 Helion 机架参考设计，面向代理任务所需的 CPU 密集执行、编排与隔离。它遵循 OCP ORv4，能由整机伙伴实施不同 CPU/GPU 配置；AMD 自身不会销售整机，因此不能把参考设计发布当作数据中心订单，后续应看 OEM 产品及真实部署。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "event-5398954b2cd76ad372a2041b",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "原文证实为本窗口内独立的新动作，历史目录未见相同发生"
+  },
+  "eventId": "event-5398954b2cd76ad372a2041b",
+  "occurrenceId": "occ-5398954b2cd76ad372a2041b",
+  "relatedItems": []
+}
