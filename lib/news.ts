@@ -110,6 +110,40 @@ export interface NewsItem {
   heat: number
 }
 
+function heatSourceCounts(): Map<string, number> {
+  const counts = new Map<string, number>()
+  for (const event of listHeatEvents()) {
+    for (const source of event.sources) {
+      const key = source.url.replace(/\/$/, '')
+      counts.set(key, Math.max(counts.get(key) ?? 1, event.sourceCount))
+    }
+  }
+  return counts
+}
+
+function attentionScore(editorScore: number, url: string, sourceCounts: Map<string, number>): number {
+  const independentSources = sourceCounts.get(url.replace(/\/$/, '')) ?? 1
+  return Math.min(99, Math.round(35 + 55 * editorScore + 8 * Math.min(2, Math.max(0, independentSources - 1))))
+}
+
+/** Score daily stories directly from that edition, including items not assigned to a topic card. */
+export function getDailyHeatByTitle(date: string): Record<string, number> {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return {}
+  const dir = join(CONTENT_ROOT, 'items', date)
+  if (!existsSync(dir)) return {}
+  const sourceCounts = heatSourceCounts()
+  const result: Record<string, number> = {}
+  for (const file of readdirSync(dir).filter(name => name.endsWith('.json') && name !== '_index.json')) {
+    try {
+      const item = JSON.parse(readFileSync(join(dir, file), 'utf8'))
+      if (item.duplicateOf || typeof item.score !== 'number' || item.score < 0.4 || !/^https?:\/\//i.test(item.url ?? '')) continue
+      const title = cleanNewsText(item.displayTitle)
+      if (title) result[title] = attentionScore(item.score, item.url, sourceCounts)
+    } catch { /* A damaged item cannot hide the rest of the edition. */ }
+  }
+  return result
+}
+
 /** 只发布经过中文编辑的逐条内容；较早的原始回填数据留在仓库供后续整理。 */
 export function listNewsItems(): NewsItem[] {
   const root = join(CONTENT_ROOT, 'items')
@@ -118,13 +152,7 @@ export function listNewsItems(): NewsItem[] {
   const seen = new Set<string>()
   const items: NewsItem[] = []
   // Only editor-confirmed independent reporting can raise a story's heat.
-  const sourceCounts = new Map<string, number>()
-  for (const event of listHeatEvents()) {
-    for (const source of event.sources) {
-      const key = source.url.replace(/\/$/, '')
-      sourceCounts.set(key, Math.max(sourceCounts.get(key) ?? 1, event.sourceCount))
-    }
-  }
+  const sourceCounts = heatSourceCounts()
   const days = readdirSync(root).filter(day => /^\d{4}-\d{2}-\d{2}$/.test(day)).sort().reverse()
   for (const date of days) {
     const dir = join(root, date)
@@ -153,7 +181,7 @@ export function listNewsItems(): NewsItem[] {
           narrative,
           score: raw.score,
           // A comparative in-site attention index, not traffic or social reach.
-          heat: Math.min(99, Math.round(35 + 55 * raw.score + 8 * Math.min(2, Math.max(0, (sourceCounts.get(urlKey) ?? 1) - 1)))),
+          heat: attentionScore(raw.score, raw.url, sourceCounts),
         })
       } catch {
         // 单条损坏不影响整页新闻。
