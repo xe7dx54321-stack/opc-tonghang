@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-14",
+  "window": {
+    "start": 1791847800000,
+    "end": 1791934200000
+  },
+  "digestHash": "25717dc00bd3856ccb2fa39746adc7a91252a914e36d9439a4b0e70175c5cc87",
+  "stories": [
+    {
+      "heading": "Gemini 4 Argon 扩大开放，开发者与企业现可通过 API 使用",
+      "itemId": "2026-10-14-gemini-argon",
+      "eventId": "event-1d86a5ada110ed0733c211f1",
+      "occurrenceId": "occ-661ad15024652e1eead77110"
+    },
+    {
+      "heading": "无问芯穹完成 23 亿元 C 轮，押注异构算力调度",
+      "itemId": "2026-10-14-infinigence-series-c",
+      "eventId": "event-b3a888507ac36c78812b93aa",
+      "occurrenceId": "occ-b3a888507ac36c78812b93aa"
+    },
+    {
+      "heading": "Teradyne 推出 Magnum E2，瞄准高速存储测试",
+      "itemId": "2026-10-14-teradyne-magnum-e2",
+      "eventId": "event-e9b8931c8e8fa78692495168",
+      "occurrenceId": "occ-e9b8931c8e8fa78692495168"
+    },
+    {
+      "heading": "Mind Robotics 任命 Doug Field 为总裁，推进工厂机器人业务",
+      "itemId": "2026-10-14-mind-robotics-field",
+      "eventId": "event-6042c54f9b60ae2c317107b6",
+      "occurrenceId": "occ-6042c54f9b60ae2c317107b6"
+    },
+    {
+      "heading": "Industrial Next 与 BMW 评估灵巧操作在制造场景的应用",
+      "itemId": "2026-10-14-industrial-next-bmw",
+      "eventId": "event-808cba7edc06bdb7fd10c830",
+      "occurrenceId": "occ-808cba7edc06bdb7fd10c830"
+    },
+    {
+      "heading": "Shopify 向更多 AI Agent 开放商品目录与结账入口",
+      "itemId": "2026-10-14-shopify-agents",
+      "eventId": "event-455e7e07d4a416def90f6f96",
+      "occurrenceId": "occ-455e7e07d4a416def90f6f96"
+    },
+    {
+      "heading": "美国运通推出 Agent 支付意图验证框架",
+      "itemId": "2026-10-14-amex-intent-framework",
+      "eventId": "event-6dc09b2cd994bbe2dd0f3351",
+      "occurrenceId": "occ-6dc09b2cd994bbe2dd0f3351"
+    },
+    {
+      "heading": "Google Play 开放个人私有应用安装，首批限美国成年用户",
+      "itemId": "2026-10-14-google-play-private-apps",
+      "eventId": "event-93c807eef5f90614baa8e4b5",
+      "occurrenceId": "occ-93c807eef5f90614baa8e4b5"
+    },
+    {
+      "heading": "NVIDIA 补齐 RTX Spark 本地 Agent 软件，部分功能本周推出",
+      "itemId": "2026-10-14-nvidia-rtx-spark-software",
+      "eventId": "event-a3415df471d388f667361d00",
+      "occurrenceId": "occ-b820a84a80b84e85b18408da"
+    },
+    {
+      "heading": "Anthropic 公开 Scion 设计：代码变更量推动自建版本控制",
+      "itemId": "2026-10-14-anthropic-scion-blog",
+      "eventId": "event-e6cb4f951731327769e88abc",
+      "occurrenceId": "occ-e6cb4f951731327769e88abc"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-14-amex-intent-framework.json": "6439bb9c792443aff70484c41ae97c064be68617ad421917e8dd7df94680e32c",
+    "2026-10-14-anthropic-scion-blog.json": "db51ef4340110a490493c1e56d5072e8c20d1f7064198e644144fe1e1d2d1e84",
+    "2026-10-14-gemini-argon.json": "9b45d4b50480b4ce154ba9b17592120ca6927977c6bffc8a5dc0a80d461947c3",
+    "2026-10-14-google-play-private-apps.json": "a824229551aac911e3be7ff19b842b543236c5542599bd4133277753f6208375",
+    "2026-10-14-industrial-next-bmw.json": "c8bc78f03113a33a39c3b1433c69ba6ca5869cd79151ffc72d6733eb80c1b385",
+    "2026-10-14-infinigence-series-c.json": "0b747c433567120a4f3ab0bf8c2bfd6877d75a41fee852cb24388415927426c6",
+    "2026-10-14-mind-robotics-field-verge.json": "e5aefccf3985d75971c8843ede90b86f2443d03a72d4468dc6f4acbe96ac3060",
+    "2026-10-14-mind-robotics-field.json": "5333e28f3fd88db99b486e2805097ec7cf462179e35e0605d53b82e904d7c14b",
+    "2026-10-14-nvidia-rtx-spark-software.json": "a6ac2c5909706b95acaf4692c5be4d553afb4e66683aeed52d0ae36401f495db",
+    "2026-10-14-shopify-agents.json": "b2c6c6c6aa694b76295c0e85487efc0f616bbae265a76744cfbf10dc22ca6e42",
+    "2026-10-14-teradyne-magnum-e2.json": "1ab40b33af9deceb2225217933f3eb401e5ca48ea533de1b383ccbd37dd7d214"
+  },
+  "evidenceHashes": {
+    "03750a5c4b1a295e3cb934ad1838ca6400d92ea3eb2287eb92ad645691e7fa5f.json": "c3b63eebcd6fa09960ff56a971a35ff8fe215ff16948a71b50886910445ba662",
+    "0e829b0041c20f4c26a576f0e1a9256886cfc3cebd94549d9be571c5537d63df.json": "5377f22621f81e3e3ad273d2b238d48aa5393688cc506f5d308ddf16d3915e15",
+    "19aef584ddf1709802b35b97c6cb16a6454d3bed5cfd77d28083b56a92612900.json": "b4b4501df9312d5dec3e93848c083f82ce4ee28c001279f15ec1776db4cee430",
+    "5189a77fd0eafb7ab06207acc5b1c95df35838753d7268805d48ce00cbe416a3.json": "d13265eedee2f1c5d4dd4122c1b4dbae58f0dc6f1ca828b3d8c608685419190c",
+    "552cdbaf11353e0035c40060b2d2ebb19d2188c0470a338ebe58e7495756f59a.json": "7d372a2cc81c4ab9f6b1a8118c1405eab9cffb8200c12857bda0d809be51c8ce",
+    "59ba209726a73af9f0b569925f3d46e5ab0ca057d65c0fb6be3cf06a193e6577.json": "baf10f53fc9940b068bf29a84b2374b10e3c6277794008338abb27f29e6c51dc",
+    "b8cf234d26fe0ae4a498c8e830ac09d4bd5ee00a97be74fb9bff1cfa93ff6d78.json": "9dd6c36df458ff9083b6c5e32ca092085fc7ef125bb213e3f1410a62ef025724",
+    "bb7cee8e714b8103e97b86af7f57f96491a6adeeba8561dcf08346c24297bab9.json": "510b4daeb6b801dad1a808e909fb014aef47091a06bbd1cc0e34f1d8ad10b9ed",
+    "e3d5c2d7a54074db995d49bc328fe864ea20d16f341f0d0be5d87c22985b4d23.json": "c69bf8c9524cccf21399b20f393c28ab50439543557d5fc3c1d71f703e628da3",
+    "f28ea9a807df3602bde97bc3d9a4830e88c649f88ab20e71194db78bcccfec84.json": "5c379e1ded8af53264bd9555a253dc3b2efd588751c7b3b1a93c6773a11a8a77",
+    "f9299034859fa85c1b0855a1f16a83a170dc0e5d536ac590e3535c31dfa33935.json": "7510f5c03c3026bf4e171d6b859b00a91f83cdd0e3b20b8359d957dbe0050b41"
+  },
+  "eventsHashes": {
+    "event-1d86a5ada110ed0733c211f1.json": "8e79d8e9f74376ab75b43cb2bc49d0e725fd8f2f7c5c41aed758be7c31f73311",
+    "event-455e7e07d4a416def90f6f96.json": "9652a7d22bec64a923f2b4c04286b53ee93331b29efa248a4b5cced2c2bf5a7c",
+    "event-6042c54f9b60ae2c317107b6.json": "f97d1a085957c02c9351a320a137ac3d3167421f63aa32d70b7018af65550c9f",
+    "event-6dc09b2cd994bbe2dd0f3351.json": "93c3c4d6215b9f77a39caa583823b000a2e4e1ab562eb14d63e64e8ddfbffd2d",
+    "event-808cba7edc06bdb7fd10c830.json": "962af98a82fe9505ae5653e428060972424d7176bf5fe482a8d8c00a2bf9f810",
+    "event-93c807eef5f90614baa8e4b5.json": "05e5a924fe1fb2be116d31d8785b24977519afe4b5b9de8c6891d82311cd2d02",
+    "event-a3415df471d388f667361d00.json": "572322050732b82d090a3fe5339777f8a09af430f7fa92b2ba0c86f05763bbfd",
+    "event-b3a888507ac36c78812b93aa.json": "8da7ca43d751c86de02c5275dc3636e6a172434f12704442a7bb14938cbbdd51",
+    "event-e6cb4f951731327769e88abc.json": "becf9e4623e8d92919ee6a96d748db9cc45b994f4a885e51b56f99c3f8a8a01b",
+    "event-e9b8931c8e8fa78692495168.json": "9d2ba7a91adc700510b33774eff3439fc61f71e8306ac84c3e76abbb58c496bb"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "event-1d86a5ada110ed0733c211f1",
+  "title": "Google 发布 Gemini 4 Argon，先向可信网络防御者开放",
+  "firstSeen": "2026-10-14",
+  "editionDate": "2026-10-14",
+  "occurrences": [
+    {
+      "id": "occ-1d86a5ada110ed0733c211f1",
+      "fact": null,
+      "firstSeen": "2026-10-01",
+      "reports": [
+        {
+          "ref": "2026-10-01/2026-10-01-google-gemini-4-argon",
+          "itemId": "2026-10-01-google-gemini-4-argon",
+          "editionDate": "2026-10-01",
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+          "source": "deepmind",
+          "owner": "deepmind",
+          "role": "unknown",
+          "publishedAt": "2026-09-30T20:00:00.000Z",
+          "title": "Google 发布 Gemini 4 Argon，先向可信网络防御者开放"
+        }
+      ]
+    },
+    {
+      "id": "occ-661ad15024652e1eead77110",
+      "fact": {
+        "subject": "Google",
+        "action": "发布",
+        "object": "Gemini 4 Argon 模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-14",
+      "reports": [
+        {
+          "ref": "2026-10-14/2026-10-14-gemini-argon",
+          "itemId": "2026-10-14-gemini-argon",
+          "editionDate": "2026-10-14",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "source": "blog-google-ai",
+          "owner": "Google",
+          "role": "principal",
+          "publishedAt": "2026-10-13T16:00:00+00:00",
+          "title": "Gemini 4 Argon 扩大开放，开发者与企业现可通过 API 使用"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-14"
+}

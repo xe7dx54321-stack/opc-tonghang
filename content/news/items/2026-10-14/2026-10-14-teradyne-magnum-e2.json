@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-14-teradyne-magnum-e2",
+  "url": "https://semiwiki.com/semiconductor-manufacturers/teradyne/374603-teradyne-unveils-magnum-e2-for-the-next-wave-of-ai-memory/",
+  "publishedAt": "2026-10-13T17:00:56+00:00",
+  "fact": {
+    "subject": "Teradyne",
+    "action": "发布",
+    "object": "Magnum E2 存储测试系统",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "SemiWiki",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "f28ea9a807df3602bde97bc3d9a4830e88c649f88ab20e71194db78bcccfec84",
+    "originalUrl": "https://semiwiki.com/semiconductor-manufacturers/teradyne/374603-teradyne-unveils-magnum-e2-for-the-next-wave-of-ai-memory/",
+    "originalPublishedAt": "2026-10-13T17:00:56+00:00",
+    "checkedAt": "2026-10-13T23:35:03.150Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "f28ea9a807df3602bde97bc3d9a4830e88c649f88ab20e71194db78bcccfec84",
+      "kind": "fact",
+      "quote": "Teradyne has announced Magnum E2, a memory test system designed to address the increasingly demanding interfaces used in artificial intelligence and high performance computing."
+    },
+    {
+      "snapshotId": "f28ea9a807df3602bde97bc3d9a4830e88c649f88ab20e71194db78bcccfec84",
+      "kind": "condition",
+      "quote": "The company presents this as a way to improve yield at speed. However, the announcement does not provide quantified yield improvements or comparative measurements."
+    }
+  ],
+  "title": "Teradyne Unveils Magnum E2 for the Next Wave of AI Memory",
+  "displayTitle": "Teradyne 推出 Magnum E2，瞄准高速存储测试",
+  "source": "semiwiki",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Teradyne",
+    "Magnum E2"
+  ],
+  "fetchedAt": "2026-10-13T17:08:22.825Z",
+  "summary": "SemiWiki 10 月 13 日报道，Teradyne 宣布 Magnum E2 存储测试系统，用于更高速度的 AI 与高性能计算存储接口。报道说明其侧重测试信号路径与工程、量产共用平台，尚未公布量化良率改进数据。",
+  "investorNote": "AI 存储升级也会拉动测试环节，但没有量化良率数据就不能推断设备替换速度。",
+  "narrative": "Teradyne 的 Magnum E2 把高速存储器的验证问题推到台前：接口速度上升后，测试设备本身的信号路径会影响测量余量。SemiWiki 报道称新系统面向 AI 和高性能计算存储接口，但没有量化良率提升或对比测试；当前更适合把它看作设备产品线更新，而非已兑现的生产率跃升。",
+  "score": 0.67,
+  "duplicateOf": null,
+  "clusterId": "event-e9b8931c8e8fa78692495168",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "Magnum E2 是存储测试新产品，与历史 Titan HP 芯片老化测试不同"
+  },
+  "eventId": "event-e9b8931c8e8fa78692495168",
+  "occurrenceId": "occ-e9b8931c8e8fa78692495168",
+  "relatedItems": []
+}

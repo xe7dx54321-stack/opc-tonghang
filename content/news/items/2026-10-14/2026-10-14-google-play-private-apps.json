@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-14-google-play-private-apps",
+  "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+  "publishedAt": "2026-10-13T17:00:00+00:00",
+  "fact": {
+    "subject": "Google Play",
+    "action": "开放",
+    "object": "个人私有 Android 应用安装功能",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e3d5c2d7a54074db995d49bc328fe864ea20d16f341f0d0be5d87c22985b4d23",
+    "originalUrl": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+    "originalPublishedAt": "2026-10-13T17:00:00+00:00",
+    "checkedAt": "2026-10-13T23:35:03.298Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e3d5c2d7a54074db995d49bc328fe864ea20d16f341f0d0be5d87c22985b4d23",
+      "kind": "fact",
+      "quote": "A new feature will allow users to launch their own personal apps on their device via Google Play using their standard Google account, but they will remain completely private."
+    },
+    {
+      "snapshotId": "e3d5c2d7a54074db995d49bc328fe864ea20d16f341f0d0be5d87c22985b4d23",
+      "kind": "condition",
+      "quote": "Initially, the feature will be available to users in the U.S., age 18 and up."
+    }
+  ],
+  "title": "Google Play now supports private, vibe-coded apps built just for you",
+  "displayTitle": "Google Play 开放个人私有应用安装，首批限美国成年用户",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Google Play",
+    "Google AI Studio"
+  ],
+  "fetchedAt": "2026-10-13T17:08:10.660Z",
+  "summary": "TechCrunch 10 月 13 日报道，Google Play 新增个人私有应用运行方式，用户可用标准 Google 账户安装自制 Android 应用，不必公开上架；初期仅面向美国 18 岁以上用户。",
+  "investorNote": "私有分发降低 AI 生成移动应用的试用门槛，但区域和年龄限制压住了短期覆盖面。",
+  "narrative": "Google Play 让用户用普通 Google 账户在自己设备上运行私有 Android 应用，无须先向商店公开上架；Google AI Studio 生成的应用也可走这条路径。首批仅限美国 18 岁以上用户，且仍受 Play 政策约束。它降低了个人工具从生成到手机使用的摩擦，但现阶段不是向所有开发者开放的新分发市场。",
+  "score": 0.64,
+  "duplicateOf": null,
+  "clusterId": "event-93c807eef5f90614baa8e4b5",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "个人私有应用安装是 Google Play 的独立新功能"
+  },
+  "eventId": "event-93c807eef5f90614baa8e4b5",
+  "occurrenceId": "occ-93c807eef5f90614baa8e4b5",
+  "relatedItems": []
+}

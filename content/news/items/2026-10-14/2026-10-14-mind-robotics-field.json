@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-14-mind-robotics-field",
+  "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+  "publishedAt": "2026-10-13T18:30:03+00:00",
+  "fact": {
+    "subject": "Mind Robotics",
+    "action": "任命",
+    "object": "Doug Field 为总裁",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "19aef584ddf1709802b35b97c6cb16a6454d3bed5cfd77d28083b56a92612900",
+    "originalUrl": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+    "originalPublishedAt": "2026-10-13T18:30:03+00:00",
+    "checkedAt": "2026-10-13T23:35:03.176Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "19aef584ddf1709802b35b97c6cb16a6454d3bed5cfd77d28083b56a92612900",
+      "kind": "fact",
+      "quote": "Field has been hired as president of Mind Robotics, an industrial AI and robotics venture Rivian created last year."
+    },
+    {
+      "snapshotId": "19aef584ddf1709802b35b97c6cb16a6454d3bed5cfd77d28083b56a92612900",
+      "kind": "condition",
+      "quote": "Scaringe will still be involved with Mind Robotics, but the day-to-day aspects of the business, including product, engineering, and operations, will be handled by Field."
+    }
+  ],
+  "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
+  "displayTitle": "Mind Robotics 任命 Doug Field 为总裁，推进工厂机器人业务",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Mind Robotics",
+    "Doug Field",
+    "Rivian"
+  ],
+  "fetchedAt": "2026-10-13T20:09:52.392Z",
+  "summary": "TechCrunch 10 月 13 日现场报道，Rivian 创始人 RJ Scaringe 的机器人企业 Mind Robotics 任命曾任 Ford 电动车业务负责人的 Doug Field 为总裁，日常产品、工程和运营将由他负责。",
+  "investorNote": "从创始人主导转向专职运营团队，是工业机器人创业公司进入交付阶段的组织信号。",
+  "narrative": "Rivian 创始人 RJ Scaringe 的工业机器人公司 Mind Robotics 任命 Doug Field 为总裁。TechCrunch 现场报道指出，Field 将负责产品、工程与日常运营，Scaringe 继续参与。对这家以 Rivian 工厂作为训练和部署场景的公司，任命的关键是把研发与真实产线执行接起来，离规模化交付仍需看部署数据。",
+  "score": 0.81,
+  "duplicateOf": null,
+  "clusterId": "event-6042c54f9b60ae2c317107b6",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次核验 Doug Field 的总裁任命，历史事件无相同动作"
+  },
+  "eventId": "event-6042c54f9b60ae2c317107b6",
+  "occurrenceId": "occ-6042c54f9b60ae2c317107b6",
+  "relatedItems": []
+}

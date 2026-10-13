@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-14-shopify-agents",
+  "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+  "publishedAt": "2026-10-13T19:42:42+00:00",
+  "fact": {
+    "subject": "Shopify",
+    "action": "开放",
+    "object": "商品目录供更多 AI Agent 使用",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "b8cf234d26fe0ae4a498c8e830ac09d4bd5ee00a97be74fb9bff1cfa93ff6d78",
+    "originalUrl": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+    "originalPublishedAt": "2026-10-13T19:42:42+00:00",
+    "checkedAt": "2026-10-13T23:35:03.252Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "b8cf234d26fe0ae4a498c8e830ac09d4bd5ee00a97be74fb9bff1cfa93ff6d78",
+      "kind": "fact",
+      "quote": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company’s agentic commerce ambitions."
+    },
+    {
+      "snapshotId": "b8cf234d26fe0ae4a498c8e830ac09d4bd5ee00a97be74fb9bff1cfa93ff6d78",
+      "kind": "condition",
+      "quote": "Shopify says more than a billion product listings will be available to agents"
+    },
+    {
+      "snapshotId": "b8cf234d26fe0ae4a498c8e830ac09d4bd5ee00a97be74fb9bff1cfa93ff6d78",
+      "kind": "condition",
+      "quote": "The agent can browse products and make purchases with the user’s approval."
+    }
+  ],
+  "title": "Shopify opens its catalog up to more AI agents",
+  "displayTitle": "Shopify 向更多 AI Agent 开放商品目录与结账入口",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Shopify",
+    "Shop Pay"
+  ],
+  "fetchedAt": "2026-10-13T20:09:52.996Z",
+  "summary": "The Verge 10 月 13 日报道，Shopify 宣布将商品目录开放给更多 AI Agent；购物者连接 Shop 账户后，Agent 可浏览商品，并在用户批准后完成购买。",
+  "investorNote": "Agent 商务的竞争焦点从展示商品转向账户授权、结账与售后链路。",
+  "narrative": "Shopify 宣布让更多 AI Agent 接入其商品目录，用户连接 Shop 账户后可在对话中浏览商品，并在批准后结账。相比先前与单一平台的合作，这次扩展把平台的商品发现与支付能力向更多 Agent 开放；商业价值取决于授权体验和成交转化，而不是目录条目数本身。",
+  "score": 0.68,
+  "duplicateOf": null,
+  "clusterId": "event-455e7e07d4a416def90f6f96",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "这是商品目录向更多 Agent 开放，与历史 Canvas 店铺主题编辑不同"
+  },
+  "eventId": "event-455e7e07d4a416def90f6f96",
+  "occurrenceId": "occ-455e7e07d4a416def90f6f96",
+  "relatedItems": []
+}

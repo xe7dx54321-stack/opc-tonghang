@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-b3a888507ac36c78812b93aa",
+  "title": "无问芯穹完成 23 亿元 C 轮，押注异构算力调度",
+  "firstSeen": "2026-10-14",
+  "editionDate": "2026-10-14",
+  "occurrences": [
+    {
+      "id": "occ-b3a888507ac36c78812b93aa",
+      "fact": {
+        "subject": "无问芯穹",
+        "action": "完成",
+        "object": "23亿元 C 轮融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-14",
+      "reports": [
+        {
+          "ref": "2026-10-14/2026-10-14-infinigence-series-c",
+          "itemId": "2026-10-14-infinigence-series-c",
+          "editionDate": "2026-10-14",
+          "url": "https://www.qbitai.com/2026/10/502767.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "observer",
+          "publishedAt": "2026-10-13T12:01:15+08:00",
+          "title": "无问芯穹完成 23 亿元 C 轮，押注异构算力调度"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-14"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-e9b8931c8e8fa78692495168",
+  "title": "Teradyne 推出 Magnum E2，瞄准高速存储测试",
+  "firstSeen": "2026-10-14",
+  "editionDate": "2026-10-14",
+  "occurrences": [
+    {
+      "id": "occ-e9b8931c8e8fa78692495168",
+      "fact": {
+        "subject": "Teradyne",
+        "action": "发布",
+        "object": "Magnum E2 存储测试系统",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-14",
+      "reports": [
+        {
+          "ref": "2026-10-14/2026-10-14-teradyne-magnum-e2",
+          "itemId": "2026-10-14-teradyne-magnum-e2",
+          "editionDate": "2026-10-14",
+          "url": "https://semiwiki.com/semiconductor-manufacturers/teradyne/374603-teradyne-unveils-magnum-e2-for-the-next-wave-of-ai-memory/",
+          "source": "semiwiki",
+          "owner": "SemiWiki",
+          "role": "observer",
+          "publishedAt": "2026-10-13T17:00:56+00:00",
+          "title": "Teradyne 推出 Magnum E2，瞄准高速存储测试"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-14"
+}

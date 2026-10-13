@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-808cba7edc06bdb7fd10c830",
+  "title": "Industrial Next 与 BMW 评估灵巧操作在制造场景的应用",
+  "firstSeen": "2026-10-14",
+  "editionDate": "2026-10-14",
+  "occurrences": [
+    {
+      "id": "occ-808cba7edc06bdb7fd10c830",
+      "fact": {
+        "subject": "Industrial Next",
+        "action": "宣布合作评估",
+        "object": "BMW 制造场景的灵巧操作",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-14",
+      "reports": [
+        {
+          "ref": "2026-10-14/2026-10-14-industrial-next-bmw",
+          "itemId": "2026-10-14-industrial-next-bmw",
+          "editionDate": "2026-10-14",
+          "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-13T23:00:00+00:00",
+          "title": "Industrial Next 与 BMW 评估灵巧操作在制造场景的应用"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-14"
+}

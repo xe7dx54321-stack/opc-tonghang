@@ -1,0 +1,13 @@
+{
+  "snapshotId": "03750a5c4b1a295e3cb934ad1838ca6400d92ea3eb2287eb92ad645691e7fa5f",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+  "publishedAt": "2026-10-13T16:00:00+00:00",
+  "publishedAtQuote": "2026-10-13T16:00:00+00:00",
+  "retrievedAt": "2026-10-13T23:35:03.085Z",
+  "method": "agent-tool",
+  "contentHash": "3055ff3956397a8a8e290c0b025082a76e7a2589d1fd087d83a5737e2d198241",
+  "quotations": [
+    "We’re giving developers, enterprises, scientists, and consumers access to our latest frontier model.",
+    "of $2 per million input tokens and $10 per million output tokens (with cached input tokens at 95% off)."
+  ]
+}

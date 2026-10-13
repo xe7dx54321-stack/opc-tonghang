@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-93c807eef5f90614baa8e4b5",
+  "title": "Google Play 开放个人私有应用安装，首批限美国成年用户",
+  "firstSeen": "2026-10-14",
+  "editionDate": "2026-10-14",
+  "occurrences": [
+    {
+      "id": "occ-93c807eef5f90614baa8e4b5",
+      "fact": {
+        "subject": "Google Play",
+        "action": "开放",
+        "object": "个人私有 Android 应用安装功能",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-14",
+      "reports": [
+        {
+          "ref": "2026-10-14/2026-10-14-google-play-private-apps",
+          "itemId": "2026-10-14-google-play-private-apps",
+          "editionDate": "2026-10-14",
+          "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-13T17:00:00+00:00",
+          "title": "Google Play 开放个人私有应用安装，首批限美国成年用户"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-14"
+}

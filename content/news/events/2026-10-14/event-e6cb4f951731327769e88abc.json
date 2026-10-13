@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-e6cb4f951731327769e88abc",
+  "title": "Anthropic 公开 Scion 设计：代码变更量推动自建版本控制",
+  "firstSeen": "2026-10-14",
+  "editionDate": "2026-10-14",
+  "occurrences": [
+    {
+      "id": "occ-e6cb4f951731327769e88abc",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "披露",
+        "object": "自建 Scion 版本控制系统与迁移经验",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-14",
+      "reports": [
+        {
+          "ref": "2026-10-14/2026-10-14-anthropic-scion-blog",
+          "itemId": "2026-10-14-anthropic-scion-blog",
+          "editionDate": "2026-10-14",
+          "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+          "source": "simon-willison",
+          "owner": "Anthropic",
+          "role": "principal",
+          "publishedAt": "2026-10-13T00:00:00.000Z",
+          "title": "Anthropic 公开 Scion 设计：代码变更量推动自建版本控制"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-14"
+}

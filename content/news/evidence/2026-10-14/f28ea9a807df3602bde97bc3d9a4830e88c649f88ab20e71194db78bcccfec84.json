@@ -1,0 +1,13 @@
+{
+  "snapshotId": "f28ea9a807df3602bde97bc3d9a4830e88c649f88ab20e71194db78bcccfec84",
+  "url": "https://semiwiki.com/semiconductor-manufacturers/teradyne/374603-teradyne-unveils-magnum-e2-for-the-next-wave-of-ai-memory/",
+  "publishedAt": "2026-10-13T17:00:56+00:00",
+  "publishedAtQuote": "2026-10-13T17:00:56+00:00",
+  "retrievedAt": "2026-10-13T23:35:03.150Z",
+  "method": "agent-tool",
+  "contentHash": "053003bb3ae803289f8d2bd3a6452a3d2d56677ef4f51608fb6de31fe1933376",
+  "quotations": [
+    "Teradyne has announced Magnum E2, a memory test system designed to address the increasingly demanding interfaces used in artificial intelligence and high performance computing.",
+    "The company presents this as a way to improve yield at speed. However, the announcement does not provide quantified yield improvements or comparative measurements."
+  ]
+}

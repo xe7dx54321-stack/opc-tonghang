@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6042c54f9b60ae2c317107b6",
+  "title": "Mind Robotics 任命 Doug Field 为总裁，推进工厂机器人业务",
+  "firstSeen": "2026-10-14",
+  "editionDate": "2026-10-14",
+  "occurrences": [
+    {
+      "id": "occ-6042c54f9b60ae2c317107b6",
+      "fact": {
+        "subject": "Mind Robotics",
+        "action": "任命",
+        "object": "Doug Field 为总裁",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-14",
+      "reports": [
+        {
+          "ref": "2026-10-14/2026-10-14-mind-robotics-field",
+          "itemId": "2026-10-14-mind-robotics-field",
+          "editionDate": "2026-10-14",
+          "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-13T18:30:03+00:00",
+          "title": "Mind Robotics 任命 Doug Field 为总裁，推进工厂机器人业务"
+        },
+        {
+          "ref": "2026-10-14/2026-10-14-mind-robotics-field-verge",
+          "itemId": "2026-10-14-mind-robotics-field-verge",
+          "editionDate": "2026-10-14",
+          "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-10-13T18:30:00+00:00",
+          "title": "Mind Robotics 任命 Doug Field 为总裁，推进工厂机器人业务"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-14"
+}

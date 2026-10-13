@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-455e7e07d4a416def90f6f96",
+  "title": "Shopify 向更多 AI Agent 开放商品目录与结账入口",
+  "firstSeen": "2026-10-14",
+  "editionDate": "2026-10-14",
+  "occurrences": [
+    {
+      "id": "occ-455e7e07d4a416def90f6f96",
+      "fact": {
+        "subject": "Shopify",
+        "action": "开放",
+        "object": "商品目录供更多 AI Agent 使用",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-14",
+      "reports": [
+        {
+          "ref": "2026-10-14/2026-10-14-shopify-agents",
+          "itemId": "2026-10-14-shopify-agents",
+          "editionDate": "2026-10-14",
+          "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-10-13T19:42:42+00:00",
+          "title": "Shopify 向更多 AI Agent 开放商品目录与结账入口"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-14"
+}

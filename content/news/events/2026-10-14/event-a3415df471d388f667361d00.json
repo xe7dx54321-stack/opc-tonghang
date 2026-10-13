@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a3415df471d388f667361d00",
+  "title": "英伟达与微软把 RTX Spark 和受控 Agent 带到 Windows PC",
+  "firstSeen": "2026-10-14",
+  "editionDate": "2026-10-14",
+  "occurrences": [
+    {
+      "id": "occ-a3415df471d388f667361d00",
+      "fact": null,
+      "firstSeen": "2026-10-08",
+      "reports": [
+        {
+          "ref": "2026-10-08/2026-10-08-nvidia-rtx-spark-windows",
+          "itemId": "2026-10-08-nvidia-rtx-spark-windows",
+          "editionDate": "2026-10-08",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+          "source": "nvidia-blog",
+          "owner": "nvidia-blog",
+          "role": "unknown",
+          "publishedAt": "2026-10-07T18:45:28.000Z",
+          "title": "英伟达与微软把 RTX Spark 和受控 Agent 带到 Windows PC"
+        }
+      ]
+    },
+    {
+      "id": "occ-b820a84a80b84e85b18408da",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "公布",
+        "object": "RTX Spark 上市前软件生态更新",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-14",
+      "reports": [
+        {
+          "ref": "2026-10-14/2026-10-14-nvidia-rtx-spark-software",
+          "itemId": "2026-10-14-nvidia-rtx-spark-software",
+          "editionDate": "2026-10-14",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+          "source": "nvidia-blog",
+          "owner": "NVIDIA",
+          "role": "principal",
+          "publishedAt": "2026-10-13T12:00:49+00:00",
+          "title": "NVIDIA 补齐 RTX Spark 本地 Agent 软件，部分功能本周推出"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-14"
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-14-industrial-next-bmw",
+  "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+  "publishedAt": "2026-10-13T23:00:00+00:00",
+  "fact": {
+    "subject": "Industrial Next",
+    "action": "宣布合作评估",
+    "object": "BMW 制造场景的灵巧操作",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "552cdbaf11353e0035c40060b2d2ebb19d2188c0470a338ebe58e7495756f59a",
+    "originalUrl": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+    "originalPublishedAt": "2026-10-13T23:00:00+00:00",
+    "checkedAt": "2026-10-13T23:35:03.227Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "552cdbaf11353e0035c40060b2d2ebb19d2188c0470a338ebe58e7495756f59a",
+      "kind": "fact",
+      "quote": "The company announced on stage that it’s partnering with BMW Group Technology Office to evaluate Industrial Next’s AI-powered dexterous manipulation for manufacturing."
+    },
+    {
+      "snapshotId": "552cdbaf11353e0035c40060b2d2ebb19d2188c0470a338ebe58e7495756f59a",
+      "kind": "condition",
+      "quote": "The company says this lets a production line be retooled in minutes rather than weeks without traditional programming."
+    }
+  ],
+  "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+  "displayTitle": "Industrial Next 与 BMW 评估灵巧操作在制造场景的应用",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Industrial Next",
+    "BMW"
+  ],
+  "fetchedAt": "2026-10-13T23:11:19.193Z",
+  "summary": "TechCrunch 10 月 13 日报道，Industrial Next 在 Disrupt 现场宣布与 BMW Group Technology Office 合作，评估其 AI 驱动的灵巧操作系统在制造中的应用。公司宣称可缩短产线改造时间，尚属自述。",
+  "investorNote": "车厂技术办公室参与评估提供真实需求入口，但合作评估离量产采购仍有距离。",
+  "narrative": "Industrial Next 在 TechCrunch Disrupt 宣布与 BMW Group Technology Office 合作，评估机器人灵巧操作在制造场景的应用。公司称其自包含工作站能把产线重新配置从数周压到数分钟，这仍是厂商主张；真正有价值的验证是不同零件和工序切换时的稳定性、节拍与维护成本。",
+  "score": 0.69,
+  "duplicateOf": null,
+  "clusterId": "event-808cba7edc06bdb7fd10c830",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次 BMW 合作评估是独立的新动作，历史事件没有该合作"
+  },
+  "eventId": "event-808cba7edc06bdb7fd10c830",
+  "occurrenceId": "occ-808cba7edc06bdb7fd10c830",
+  "relatedItems": []
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-14-gemini-argon",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+  "publishedAt": "2026-10-13T16:00:00+00:00",
+  "fact": {
+    "subject": "Google",
+    "action": "发布",
+    "object": "Gemini 4 Argon 模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Google",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "03750a5c4b1a295e3cb934ad1838ca6400d92ea3eb2287eb92ad645691e7fa5f",
+    "originalUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "originalPublishedAt": "2026-10-13T16:00:00+00:00",
+    "checkedAt": "2026-10-13T23:35:03.085Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "03750a5c4b1a295e3cb934ad1838ca6400d92ea3eb2287eb92ad645691e7fa5f",
+      "kind": "fact",
+      "quote": "We’re giving developers, enterprises, scientists, and consumers access to our latest frontier model."
+    },
+    {
+      "snapshotId": "03750a5c4b1a295e3cb934ad1838ca6400d92ea3eb2287eb92ad645691e7fa5f",
+      "kind": "condition",
+      "quote": "of $2 per million input tokens and $10 per million output tokens (with cached input tokens at 95% off)."
+    }
+  ],
+  "title": "Gemini 4 Argon: Built to solve your hardest problems",
+  "displayTitle": "Gemini 4 Argon 扩大开放，开发者与企业现可通过 API 使用",
+  "source": "blog-google-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Google",
+    "Gemini 4 Argon"
+  ],
+  "fetchedAt": "2026-10-13T16:07:34.145Z",
+  "summary": "Google 10 月 13 日宣布将此前只向部分可信网络防御者开放的 Gemini 4 Argon 扩至开发者、企业与订阅用户，API 已在 AI Studio 和 Gemini 平台提供，初始标价每百万输入 token 2 美元、输出 10 美元。",
+  "investorNote": "从定向安全试用走向公开商业供应，定价和实际服务能力将成为模型采购的新比较点。",
+  "narrative": "Google 把 Gemini 4 Argon 从先前的定向开放推进到开发者和企业可通过 API 使用，初始报价为每百万输入 token 2 美元、输出 10 美元。对采购方而言，新变量是可用性与真实工作负载表现，不能把公司公布的评测排名直接当作独立胜出结论。",
+  "score": 0.92,
+  "duplicateOf": null,
+  "clusterId": "event-1d86a5ada110ed0733c211f1",
+  "eventRelation": {
+    "type": "SAME_STORY",
+    "targetRef": "2026-10-01/2026-10-01-google-gemini-4-argon",
+    "reason": "此前同一模型仅向部分可信网络防御者开放，本次扩大商业访问范围",
+    "newInformation": "开发者与企业通过 API 获得访问，订阅产品也扩大可用范围"
+  },
+  "eventId": "event-1d86a5ada110ed0733c211f1",
+  "occurrenceId": "occ-661ad15024652e1eead77110",
+  "relatedItems": []
+}

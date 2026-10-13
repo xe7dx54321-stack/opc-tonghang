@@ -1,0 +1,13 @@
+{
+  "snapshotId": "bb7cee8e714b8103e97b86af7f57f96491a6adeeba8561dcf08346c24297bab9",
+  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+  "publishedAt": "2026-10-13T12:00:49+00:00",
+  "publishedAtQuote": "2026-10-13T12:00:49+00:00",
+  "retrievedAt": "2026-10-13T23:35:03.323Z",
+  "method": "agent-tool",
+  "contentHash": "8efd01574f3524be056733058f4de88a2c9644291a0108990ac092e6ee0526be",
+  "quotations": [
+    "Ahead of the launch, NVIDIA and its ecosystem partners are rolling out new software features and performance optimizations to expand what’s possible with local AI on RTX Spark.",
+    "The NVIDIA Nemotron 3.5 Bolt 74B model, purpose-built for agentic AI on RTX Spark, releases on Thursday, Oct. 15."
+  ]
+}

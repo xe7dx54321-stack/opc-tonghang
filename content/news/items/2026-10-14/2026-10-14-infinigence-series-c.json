@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-14-infinigence-series-c",
+  "url": "https://www.qbitai.com/2026/10/502767.html",
+  "publishedAt": "2026-10-13T12:01:15+08:00",
+  "fact": {
+    "subject": "无问芯穹",
+    "action": "完成",
+    "object": "23亿元 C 轮融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "59ba209726a73af9f0b569925f3d46e5ab0ca057d65c0fb6be3cf06a193e6577",
+    "originalUrl": "https://www.qbitai.com/2026/10/502767.html",
+    "originalPublishedAt": "2026-10-13T12:01:15+08:00",
+    "checkedAt": "2026-10-13T23:35:03.115Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "59ba209726a73af9f0b569925f3d46e5ab0ca057d65c0fb6be3cf06a193e6577",
+      "kind": "fact",
+      "quote": "23亿元，AI原生基础设施服务商无问芯穹已完成C轮融资。加上前几轮，无问芯穹累计融了43亿元，单轮和累计都创下了国产AI原生基础设施赛道的新纪录。"
+    },
+    {
+      "snapshotId": "59ba209726a73af9f0b569925f3d46e5ab0ca057d65c0fb6be3cf06a193e6577",
+      "kind": "condition",
+      "quote": "它自身并不拥有实体数据中心，算力资源散布在各地的算力中心，芯片的厂商更是「万国造」。"
+    }
+  ],
+  "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
+  "displayTitle": "无问芯穹完成 23 亿元 C 轮，押注异构算力调度",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "无问芯穹"
+  ],
+  "fetchedAt": "2026-10-13T10:00:30.561Z",
+  "summary": "量子位 10 月 13 日报道，无问芯穹完成 23 亿元 C 轮融资，累计融资 43 亿元。公司定位于模型和芯片之间的基础设施服务，报道指出其不自建数据中心，而聚合各地算力资源。",
+  "investorNote": "大额融资反映资本对软件化算力调度的下注，但平台利用率和客户收入仍需单独核实。",
+  "narrative": "据量子位报道，无问芯穹完成 23 亿元 C 轮融资，累计融资达到 43 亿元。公司选择聚合异构算力而非自建机房，资本在为跨芯片调度和生产级推理能力定价；报道中的效率与规模数字仍属企业口径，需要看客户续约和资源利用率。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "event-b3a888507ac36c78812b93aa",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次核验该公司 C 轮融资，历史事件中没有同一次融资记录"
+  },
+  "eventId": "event-b3a888507ac36c78812b93aa",
+  "occurrenceId": "occ-b3a888507ac36c78812b93aa",
+  "relatedItems": []
+}

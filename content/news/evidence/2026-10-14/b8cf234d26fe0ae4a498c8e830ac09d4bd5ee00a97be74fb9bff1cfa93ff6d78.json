@@ -1,0 +1,14 @@
+{
+  "snapshotId": "b8cf234d26fe0ae4a498c8e830ac09d4bd5ee00a97be74fb9bff1cfa93ff6d78",
+  "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+  "publishedAt": "2026-10-13T19:42:42+00:00",
+  "publishedAtQuote": "2026-10-13T19:42:42+00:00",
+  "retrievedAt": "2026-10-13T23:35:03.252Z",
+  "method": "agent-tool",
+  "contentHash": "2a606dffe14ff7b028938b0fb88f77de8f00c8b29d23daf0b165a286f148dc66",
+  "quotations": [
+    "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company’s agentic commerce ambitions.",
+    "Shopify says more than a billion product listings will be available to agents",
+    "The agent can browse products and make purchases with the user’s approval."
+  ]
+}

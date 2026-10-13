@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-14-amex-intent-framework",
+  "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+  "publishedAt": "2026-10-13T13:00:00+00:00",
+  "fact": {
+    "subject": "American Express",
+    "action": "推出",
+    "object": "Intent Intelligence Framework",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "f9299034859fa85c1b0855a1f16a83a170dc0e5d536ac590e3535c31dfa33935",
+    "originalUrl": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+    "originalPublishedAt": "2026-10-13T13:00:00+00:00",
+    "checkedAt": "2026-10-13T23:35:03.275Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "f9299034859fa85c1b0855a1f16a83a170dc0e5d536ac590e3535c31dfa33935",
+      "kind": "fact",
+      "quote": "To get ahead of this problem, American Express is introducing a new framework designed to capture and authenticate a customer’s purchase intent before an AI agent completes the transaction."
+    },
+    {
+      "snapshotId": "f9299034859fa85c1b0855a1f16a83a170dc0e5d536ac590e3535c31dfa33935",
+      "kind": "condition",
+      "quote": "Amex said it has not yet seen an increase in disputes because of agentic commerce, but it wanted to be proactive in building this technology as this type of commerce scales."
+    }
+  ],
+  "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+  "displayTitle": "美国运通推出 Agent 支付意图验证框架",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "American Express",
+    "Intent Intelligence Framework"
+  ],
+  "fetchedAt": "2026-10-13T13:03:31.790Z",
+  "summary": "TechCrunch 10 月 13 日报道，美国运通推出 Intent Intelligence Framework，旨在 Agent 完成交易前记录并验证用户购买意图。公司称目前尚未观察到 Agent 商务争议交易增长。",
+  "investorNote": "付款授权标准是 Agent 商务落地的必要环节，争议率目前还不足以检验成效。",
+  "narrative": "美国运通推出 Intent Intelligence Framework，在 AI Agent 完成交易前捕获并验证用户购买意图。公司明确说尚未看到 Agent 交易争议上升，因此这是一项提前布置的支付控制能力，不能写成已经解决了大规模欺诈问题。随着更多零售平台开放 Agent 结账，授权证据的可传递性会决定支付网络的议价位置。",
+  "score": 0.67,
+  "duplicateOf": null,
+  "clusterId": "event-6dc09b2cd994bbe2dd0f3351",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次框架发布是独立支付产品动作"
+  },
+  "eventId": "event-6dc09b2cd994bbe2dd0f3351",
+  "occurrenceId": "occ-6dc09b2cd994bbe2dd0f3351",
+  "relatedItems": []
+}

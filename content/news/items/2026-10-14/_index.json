@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-14",
+  "itemCount": 11,
+  "storyCount": 10,
+  "clusterCount": 10,
+  "files": [
+    "2026-10-14-gemini-argon.json",
+    "2026-10-14-infinigence-series-c.json",
+    "2026-10-14-teradyne-magnum-e2.json",
+    "2026-10-14-mind-robotics-field.json",
+    "2026-10-14-mind-robotics-field-verge.json",
+    "2026-10-14-industrial-next-bmw.json",
+    "2026-10-14-shopify-agents.json",
+    "2026-10-14-amex-intent-framework.json",
+    "2026-10-14-google-play-private-apps.json",
+    "2026-10-14-nvidia-rtx-spark-software.json",
+    "2026-10-14-anthropic-scion-blog.json"
+  ],
+  "representatives": [
+    "2026-10-14-gemini-argon",
+    "2026-10-14-infinigence-series-c",
+    "2026-10-14-teradyne-magnum-e2",
+    "2026-10-14-mind-robotics-field",
+    "2026-10-14-industrial-next-bmw",
+    "2026-10-14-shopify-agents",
+    "2026-10-14-amex-intent-framework",
+    "2026-10-14-google-play-private-apps",
+    "2026-10-14-nvidia-rtx-spark-software",
+    "2026-10-14-anthropic-scion-blog"
+  ]
+}

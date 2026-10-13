@@ -1,0 +1,13 @@
+{
+  "snapshotId": "0e829b0041c20f4c26a576f0e1a9256886cfc3cebd94549d9be571c5537d63df",
+  "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+  "publishedAt": "2026-10-13T00:00:00.000Z",
+  "publishedAtQuote": "2026-10-13T00:00:00.000Z",
+  "retrievedAt": "2026-10-13T23:35:03.346Z",
+  "method": "agent-tool",
+  "contentHash": "9ae44272ed320f0cc426a87ca432898a3b13e60090f3f69faaa056263000d4d8",
+  "quotations": [
+    "In order to support this growth, we built Scion, an in-house version control system, and fully migrated our monorepo from git in five months.",
+    "In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day."
+  ]
+}

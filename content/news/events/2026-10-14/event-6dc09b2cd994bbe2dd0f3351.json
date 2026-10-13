@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6dc09b2cd994bbe2dd0f3351",
+  "title": "美国运通推出 Agent 支付意图验证框架",
+  "firstSeen": "2026-10-14",
+  "editionDate": "2026-10-14",
+  "occurrences": [
+    {
+      "id": "occ-6dc09b2cd994bbe2dd0f3351",
+      "fact": {
+        "subject": "American Express",
+        "action": "推出",
+        "object": "Intent Intelligence Framework",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-14",
+      "reports": [
+        {
+          "ref": "2026-10-14/2026-10-14-amex-intent-framework",
+          "itemId": "2026-10-14-amex-intent-framework",
+          "editionDate": "2026-10-14",
+          "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-13T13:00:00+00:00",
+          "title": "美国运通推出 Agent 支付意图验证框架"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-14"
+}

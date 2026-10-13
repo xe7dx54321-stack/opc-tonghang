@@ -1,0 +1,13 @@
+{
+  "snapshotId": "f9299034859fa85c1b0855a1f16a83a170dc0e5d536ac590e3535c31dfa33935",
+  "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+  "publishedAt": "2026-10-13T13:00:00+00:00",
+  "publishedAtQuote": "2026-10-13T13:00:00+00:00",
+  "retrievedAt": "2026-10-13T23:35:03.275Z",
+  "method": "agent-tool",
+  "contentHash": "3c69c0ee4b831ebb44178305afc16d308dc3d25aed6ee1373c8be7a234c7f72a",
+  "quotations": [
+    "To get ahead of this problem, American Express is introducing a new framework designed to capture and authenticate a customer’s purchase intent before an AI agent completes the transaction.",
+    "Amex said it has not yet seen an increase in disputes because of agentic commerce, but it wanted to be proactive in building this technology as this type of commerce scales."
+  ]
+}

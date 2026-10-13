@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-14-nvidia-rtx-spark-software",
+  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+  "publishedAt": "2026-10-13T12:00:49+00:00",
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "公布",
+    "object": "RTX Spark 上市前软件生态更新",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "bb7cee8e714b8103e97b86af7f57f96491a6adeeba8561dcf08346c24297bab9",
+    "originalUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+    "originalPublishedAt": "2026-10-13T12:00:49+00:00",
+    "checkedAt": "2026-10-13T23:35:03.323Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "bb7cee8e714b8103e97b86af7f57f96491a6adeeba8561dcf08346c24297bab9",
+      "kind": "fact",
+      "quote": "Ahead of the launch, NVIDIA and its ecosystem partners are rolling out new software features and performance optimizations to expand what’s possible with local AI on RTX Spark."
+    },
+    {
+      "snapshotId": "bb7cee8e714b8103e97b86af7f57f96491a6adeeba8561dcf08346c24297bab9",
+      "kind": "condition",
+      "quote": "The NVIDIA Nemotron 3.5 Bolt 74B model, purpose-built for agentic AI on RTX Spark, releases on Thursday, Oct. 15."
+    }
+  ],
+  "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+  "displayTitle": "NVIDIA 补齐 RTX Spark 本地 Agent 软件，部分功能本周推出",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "NVIDIA",
+    "RTX Spark",
+    "Nemotron 3.5 Bolt"
+  ],
+  "fetchedAt": "2026-10-13T12:33:08.933Z",
+  "summary": "NVIDIA 10 月 13 日更新 RTX Spark 上市前的软件生态，列出本地 Agent 应用和新模型支持，Nemotron 3.5 Bolt 74B 计划 10 月 15 日发布。RTX Spark 硬件上市日期此前已公布。",
+  "investorNote": "本地 AI 硬件的价值取决于模型与开发工具可用性，而非单看峰值算力规格。",
+  "narrative": "NVIDIA 在 RTX Spark 10 月 16 日上市前公布一轮软件适配，包括 Agent 应用优化和本地模型支持。Nemotron 3.5 Bolt 74B 计划 10 月 15 日发布，不能写成今天已上线。这次更新补的是开发者能否在本地把模型、权限和应用串起来，硬件发布时间与基本规格此前已经报道过。",
+  "score": 0.68,
+  "duplicateOf": null,
+  "clusterId": "event-a3415df471d388f667361d00",
+  "eventRelation": {
+    "type": "SAME_STORY",
+    "targetRef": "2026-10-08/2026-10-08-nvidia-rtx-spark-windows",
+    "reason": "同一 RTX Spark 平台的上市前软件配套更新，区别于此前硬件预订及上市公告",
+    "newInformation": "新增 Agent 应用适配与 Nemotron 3.5 Bolt 74B 的计划发布日期"
+  },
+  "eventId": "event-a3415df471d388f667361d00",
+  "occurrenceId": "occ-b820a84a80b84e85b18408da",
+  "relatedItems": []
+}

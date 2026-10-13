@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-14-anthropic-scion-blog",
+  "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+  "publishedAt": "2026-10-13T00:00:00.000Z",
+  "fact": {
+    "subject": "Anthropic",
+    "action": "披露",
+    "object": "自建 Scion 版本控制系统与迁移经验",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Anthropic",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "0e829b0041c20f4c26a576f0e1a9256886cfc3cebd94549d9be571c5537d63df",
+    "originalUrl": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "originalPublishedAt": "2026-10-13T00:00:00.000Z",
+    "checkedAt": "2026-10-13T23:35:03.346Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "0e829b0041c20f4c26a576f0e1a9256886cfc3cebd94549d9be571c5537d63df",
+      "kind": "fact",
+      "quote": "In order to support this growth, we built Scion, an in-house version control system, and fully migrated our monorepo from git in five months."
+    },
+    {
+      "snapshotId": "0e829b0041c20f4c26a576f0e1a9256886cfc3cebd94549d9be571c5537d63df",
+      "kind": "condition",
+      "quote": "In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day."
+    }
+  ],
+  "title": "Redesigning source control at Anthropic",
+  "displayTitle": "Anthropic 公开 Scion 设计：代码变更量推动自建版本控制",
+  "source": "simon-willison",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Scion",
+    "Antique"
+  ],
+  "fetchedAt": "2026-10-13T23:11:18.376Z",
+  "summary": "Anthropic 10 月 13 日工程博客披露自建 Scion 版本控制系统的设计和迁移过程。公司称日均合入变更从 5 月约 2500 项升至 9 月超过 3 万项，迁移到 Scion 用了五个月；迁移本身并非当天完成。",
+  "investorNote": "Agent 写码带来的瓶颈已经开始转向代码库、评审和 CI 等开发基础设施。",
+  "narrative": "Anthropic 发表工程博客，解释为何在代码变更量上升后自建 Scion 版本控制系统；公司称日均合入变更从 5 月约 2500 项升到 9 月超过 3 万项，并已用五个月完成迁移。今天的新动作是披露设计经验，迁移不是今天发生。这个案例提示代码 Agent 的下一轮基础设施瓶颈可能在评审、检出和 CI，而非单纯生成速度。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "event-e6cb4f951731327769e88abc",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次核验 Anthropic 发布 Scion 设计说明，历史事件无同一披露"
+  },
+  "eventId": "event-e6cb4f951731327769e88abc",
+  "occurrenceId": "occ-e6cb4f951731327769e88abc",
+  "relatedItems": []
+}

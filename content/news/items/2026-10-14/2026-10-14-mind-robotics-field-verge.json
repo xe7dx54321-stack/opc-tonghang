@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-14-mind-robotics-field-verge",
+  "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
+  "publishedAt": "2026-10-13T18:30:00+00:00",
+  "fact": {
+    "subject": "Mind Robotics",
+    "action": "任命",
+    "object": "Doug Field 为总裁",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "5189a77fd0eafb7ab06207acc5b1c95df35838753d7268805d48ce00cbe416a3",
+    "originalUrl": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
+    "originalPublishedAt": "2026-10-13T18:30:00+00:00",
+    "checkedAt": "2026-10-13T23:35:03.202Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "5189a77fd0eafb7ab06207acc5b1c95df35838753d7268805d48ce00cbe416a3",
+      "kind": "fact",
+      "quote": "Rivian CEO RJ Scaringe’s startup Mind Robotics announced the appointment of Doug Field as president in a major coup for the CEO’s secretive robotics project."
+    }
+  ],
+  "title": "Rivian spinoff Mind Robotics hires Doug Field as president",
+  "displayTitle": "Mind Robotics 任命 Doug Field 为总裁，推进工厂机器人业务",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Mind Robotics",
+    "Doug Field",
+    "Rivian"
+  ],
+  "fetchedAt": "2026-10-13T19:09:25.110Z",
+  "summary": "The Verge 10 月 13 日报道，Mind Robotics 宣布任命 Doug Field 为总裁；公司与 Rivian 创始人 RJ Scaringe 关联，目标是开发用于工厂等场景的机器人。",
+  "investorNote": "独立媒体对同一任命的报道能帮助确认人事动作，但不增加独立事件数。",
+  "narrative": "The Verge 同日核实 Mind Robotics 任命 Doug Field 为总裁。报道补充他的 Ford、Tesla 和 Apple 经历；这些履历说明管理背景，不能直接证明机器人产品已经实现工厂规模部署。",
+  "score": 0.7,
+  "duplicateOf": "2026-10-14-mind-robotics-field",
+  "clusterId": "event-6042c54f9b60ae2c317107b6",
+  "eventRelation": {
+    "type": "SAME_OCCURRENCE",
+    "targetRef": "2026-10-14/2026-10-14-mind-robotics-field",
+    "reason": "两篇报道都明确指向 Mind Robotics 在 10 月 13 日任命 Doug Field 为总裁"
+  },
+  "eventId": "event-6042c54f9b60ae2c317107b6",
+  "occurrenceId": "occ-6042c54f9b60ae2c317107b6"
+}
