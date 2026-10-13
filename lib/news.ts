@@ -113,8 +113,8 @@ export interface NewsItem {
 function heatSourceCounts(): Map<string, number> {
   const counts = new Map<string, number>()
   for (const event of listHeatEvents()) {
-    for (const source of event.sources) {
-      const key = source.url.replace(/\/$/, '')
+    for (const url of event.memberUrls) {
+      const key = url.replace(/\/$/, '')
       counts.set(key, Math.max(counts.get(key) ?? 1, event.sourceCount))
     }
   }

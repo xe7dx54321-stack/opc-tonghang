@@ -7,6 +7,7 @@ export interface HeatEvent {
   summary: string
   sourceCount: number
   sources: { name: string; url: string }[]
+  memberUrls: string[]
   snapshotDate: string
 }
 
@@ -24,8 +25,11 @@ export function listHeatEvents(): HeatEvent[] {
             event.sourceCount < 2 || !Array.isArray(event.sources) || event.sources.length < 2) continue
         const sources = event.sources.filter((source: any) => typeof source.name === 'string' && /^https?:\/\//.test(source.url ?? ''))
         if (sources.length < 2) continue
+        const memberUrls = Array.isArray(event.memberUrls)
+          ? event.memberUrls.filter((url: unknown) => typeof url === 'string' && /^https?:\/\//.test(url))
+          : sources.map((source: { url: string }) => source.url)
         latest.set(event.id, { id: event.id, title: event.title, summary: String(event.summary ?? ''),
-          sourceCount: event.sourceCount, sources, snapshotDate: data.date })
+          sourceCount: event.sourceCount, sources, memberUrls, snapshotDate: data.date })
       }
     } catch { /* Ignore malformed older exports rather than break the news page. */ }
   }
