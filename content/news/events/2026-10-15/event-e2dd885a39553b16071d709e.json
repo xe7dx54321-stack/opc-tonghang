@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-e2dd885a39553b16071d709e",
+  "title": "NVIDIA 公布五家英国 AI 初创投资计划，安全算力承诺仍待兑现",
+  "firstSeen": "2026-10-15",
+  "editionDate": "2026-10-15",
+  "occurrences": [
+    {
+      "id": "occ-e2dd885a39553b16071d709e",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "公布计划投资",
+        "object": "五家英国 AI 创业公司",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-15",
+      "reports": [
+        {
+          "ref": "2026-10-15/2026-10-15-nvidia-uk-investments",
+          "itemId": "2026-10-15-nvidia-uk-investments",
+          "editionDate": "2026-10-15",
+          "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+          "source": "nvidia-blog",
+          "owner": "NVIDIA",
+          "role": "principal",
+          "publishedAt": "2026-10-14T06:04:15+00:00",
+          "title": "NVIDIA 公布五家英国 AI 初创投资计划，安全算力承诺仍待兑现"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-15"
+}

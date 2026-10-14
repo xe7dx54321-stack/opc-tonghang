@@ -1,0 +1,14 @@
+{
+  "snapshotId": "8648011c0572c9be694d27dfb3aaf8d2a49518ce0fbb78393325bf5fe8f55b94",
+  "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+  "publishedAt": "2026-10-14T06:04:15+00:00",
+  "publishedAtQuote": "2026-10-14T06:04:15+00:00",
+  "retrievedAt": "2026-10-14T23:35:02.379Z",
+  "method": "agent-tool",
+  "contentHash": "56cc35133bd7b0dd2cb51c83926ae286bc9736f7e9f2702793f03dec983d9c91",
+  "quotations": [
+    "Today, NVIDIA announced new planned investments in Boltz, Foresight, Hiverge, Prima Mente and Riverlane.",
+    "Boltz, a London-based AI startup founded by MIT researchers, builds biomolecular models and AI agents that help scientists predict molecular structures and interactions, and design potential new medicines.",
+    "NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety and security research."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a07962f6bfb81112bb4d9022",
+  "title": "印度材料公司 Scimplify 获 2500 万美元融资，押注 AI 辅助化工生产",
+  "firstSeen": "2026-10-15",
+  "editionDate": "2026-10-15",
+  "occurrences": [
+    {
+      "id": "occ-a07962f6bfb81112bb4d9022",
+      "fact": {
+        "subject": "Scimplify",
+        "action": "完成融资",
+        "object": "2500 万美元战略股权轮",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-15",
+      "reports": [
+        {
+          "ref": "2026-10-15/2026-10-15-scimplify-funding",
+          "itemId": "2026-10-15-scimplify-funding",
+          "editionDate": "2026-10-15",
+          "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-14T11:00:00+00:00",
+          "title": "印度材料公司 Scimplify 获 2500 万美元融资，押注 AI 辅助化工生产"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-15"
+}

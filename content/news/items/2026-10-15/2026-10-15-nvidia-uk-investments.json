@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-15-nvidia-uk-investments",
+  "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+  "publishedAt": "2026-10-14T06:04:15+00:00",
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "公布计划投资",
+    "object": "五家英国 AI 创业公司",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8648011c0572c9be694d27dfb3aaf8d2a49518ce0fbb78393325bf5fe8f55b94",
+    "originalUrl": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+    "originalPublishedAt": "2026-10-14T06:04:15+00:00",
+    "checkedAt": "2026-10-14T23:35:02.379Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8648011c0572c9be694d27dfb3aaf8d2a49518ce0fbb78393325bf5fe8f55b94",
+      "kind": "fact",
+      "quote": "Today, NVIDIA announced new planned investments in Boltz, Foresight, Hiverge, Prima Mente and Riverlane."
+    },
+    {
+      "snapshotId": "8648011c0572c9be694d27dfb3aaf8d2a49518ce0fbb78393325bf5fe8f55b94",
+      "kind": "fact",
+      "quote": "Boltz, a London-based AI startup founded by MIT researchers, builds biomolecular models and AI agents that help scientists predict molecular structures and interactions, and design potential new medicines."
+    },
+    {
+      "snapshotId": "8648011c0572c9be694d27dfb3aaf8d2a49518ce0fbb78393325bf5fe8f55b94",
+      "kind": "condition",
+      "quote": "NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety and security research."
+    }
+  ],
+  "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+  "displayTitle": "NVIDIA 公布五家英国 AI 初创投资计划，安全算力承诺仍待兑现",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Boltz",
+    "Foresight",
+    "Hiverge",
+    "Prima Mente",
+    "Riverlane"
+  ],
+  "fetchedAt": "2026-10-14T06:17:06.185Z",
+  "summary": "NVIDIA 10 月 14 日公布计划投资 Boltz、Foresight、Hiverge、Prima Mente、Riverlane 五家英国初创企业，并提及五年期 2.5 亿美元英国 AI 安全研究算力承诺。文章没有披露各笔投资金额或完成条件。",
+  "investorNote": "芯片平台通过资本、算力和生态伙伴捆绑应用公司，投资计划与实际出资须分开观察。",
+  "narrative": "NVIDIA 公布计划投资五家英国 AI 初创企业，覆盖生物分子建模、项目预测、算法发现等方向；文章同时提到五年期 2.5 亿美元英国 AI 安全研究算力承诺。各笔投资金额和交割条件没有披露，因此现阶段更适合视为生态布局信号。算力供应商通过资本连接下游应用的趋势更清楚了，但实际投入与商业收入仍要分别追踪。",
+  "score": 0.76,
+  "duplicateOf": null,
+  "clusterId": "event-e2dd885a39553b16071d709e",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期新报道的独立动作，近两周记录中无可确认的同次发生。"
+  },
+  "eventId": "event-e2dd885a39553b16071d709e",
+  "occurrenceId": "occ-e2dd885a39553b16071d709e",
+  "relatedItems": []
+}

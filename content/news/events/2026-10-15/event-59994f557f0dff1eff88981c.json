@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-59994f557f0dff1eff88981c",
+  "title": "企业微信与 WorkBuddy 打通账号和工作上下文，先向认证企业开放",
+  "firstSeen": "2026-10-15",
+  "editionDate": "2026-10-15",
+  "occurrences": [
+    {
+      "id": "occ-59994f557f0dff1eff88981c",
+      "fact": {
+        "subject": "腾讯",
+        "action": "发布互通新版本",
+        "object": "企业微信与 WorkBuddy",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-15",
+      "reports": [
+        {
+          "ref": "2026-10-15/2026-10-15-tencent-workbuddy-wecom",
+          "itemId": "2026-10-15-tencent-workbuddy-wecom",
+          "editionDate": "2026-10-15",
+          "url": "https://www.leiphone.com/category/industrynews/7m8YMd1LU7x6aDvM.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "relayer",
+          "publishedAt": "2026-10-14T13:57:00+08:00",
+          "title": "企业微信与 WorkBuddy 打通账号和工作上下文，先向认证企业开放"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-15"
+}

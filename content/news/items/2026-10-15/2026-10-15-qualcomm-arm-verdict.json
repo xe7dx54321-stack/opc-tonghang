@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-15-qualcomm-arm-verdict",
+  "url": "https://www.tomshardware.com/pc-components/cpus/qualcomm-wins-architecture-breach-verdict-against-arm-but-gets-just-usd2-judge-could-still-suspend-royalty-fees-for-five-years",
+  "publishedAt": "2026-10-14T12:10:00+00:00",
+  "fact": {
+    "subject": "美国特拉华州联邦陪审团",
+    "action": "裁定",
+    "object": "Qualcomm 与 Arm 许可及干预争议",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "958ced26ecbf8cbb047e798bdd3a67b2ae2baa04df081b9aa473fac6c4d0c6d8",
+    "originalUrl": "https://www.tomshardware.com/pc-components/cpus/qualcomm-wins-architecture-breach-verdict-against-arm-but-gets-just-usd2-judge-could-still-suspend-royalty-fees-for-five-years",
+    "originalPublishedAt": "2026-10-14T12:10:00+00:00",
+    "checkedAt": "2026-10-14T23:35:02.274Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "958ced26ecbf8cbb047e798bdd3a67b2ae2baa04df081b9aa473fac6c4d0c6d8",
+      "kind": "fact",
+      "quote": "The jury sided with Qualcomm on two issues. First, it determined that Arm had breached its longstanding ALA, which allows Qualcomm to develop and sell custom processors compatible with Arm's instruction set architecture. Second, it found that Arm had intentionally interfered with Qualcomm's business relationship with Meta. Qualcomm welcomed the verdict and maintained that it exposed Arm's efforts to undermine its business and eventually become a Meta supplier."
+    },
+    {
+      "snapshotId": "958ced26ecbf8cbb047e798bdd3a67b2ae2baa04df081b9aa473fac6c4d0c6d8",
+      "kind": "fact",
+      "quote": "However, Arm prevailed on four of Qualcomm's six claims submitted to the jury and was ordered to pay just $1 in damages on each of the aforementioned two. The original complaint included allegations of breaches of the ALA and TLA, violations of the implied covenant of good faith and fair dealing, intentional and negligent interference with prospective economic advantage, and unfair competition. The precise findings on the individual allegations have yet to be revealed, as at press time the jury rulings were not available. Arm claims that the outcome supports its position that it had acted in good faith under its technology license agreement."
+    },
+    {
+      "snapshotId": "958ced26ecbf8cbb047e798bdd3a67b2ae2baa04df081b9aa473fac6c4d0c6d8",
+      "kind": "condition",
+      "quote": "Despite the nominal $2 damages award, the legal battle between Qualcomm and Arm is not over. U.S. District Judge Maryellen Noreika must still determine whether Arm's breach of its Architecture License Agreement entitles Qualcomm to suspend royalty payments for five years, potentially costing Arm hundreds of millions, or even billions, in revenue. The judge must also decide whether Arm violated its obligation to negotiate future architecture licensing terms in good faith. Both decisions could have substantially greater financial and commercial consequences than the jury's verdict, and either company could appeal an unfavorable ruling."
+    }
+  ],
+  "title": "Qualcomm wins architecture breach verdict against Arm but gets just $2",
+  "displayTitle": "Arm 与 Qualcomm 许可案陪审团作出混合裁决，赔偿仅 2 美元",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Arm",
+    "Qualcomm",
+    "Meta"
+  ],
+  "fetchedAt": "2026-10-14T12:21:21.506Z",
+  "summary": "美国特拉华州联邦陪审团认定 Arm 违反与 Qualcomm 的架构许可协议，并干预其与 Meta 的业务关系，但 Arm 在其余四项主张上胜出，两项成立主张合计仅获判 2 美元赔偿。法官仍需处理潜在的特许权使用费暂停问题。",
+  "investorNote": "名义赔偿无法代表诉讼经济影响，后续法官对未来授权费的处理更值得关注。",
+  "narrative": "陪审团在 Qualcomm 与 Arm 的许可争议中支持 Qualcomm 的两项主张，包括架构许可违约及对其 Meta 业务关系的干预；Arm 则在其余四项主张胜出。两项成立主张合计只判 2 美元，法官尚未决定是否允许 Qualcomm 暂停部分授权费。对芯片生态而言，真正的商业变量仍是许可条款和后续司法裁定，不能把这次判决简化为一方全面获胜。",
+  "score": 0.88,
+  "duplicateOf": null,
+  "clusterId": "event-1cae94b9662bd7fa681d939d",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期新报道的独立动作，近两周记录中无可确认的同次发生。"
+  },
+  "eventId": "event-1cae94b9662bd7fa681d939d",
+  "occurrenceId": "occ-1cae94b9662bd7fa681d939d",
+  "relatedItems": []
+}

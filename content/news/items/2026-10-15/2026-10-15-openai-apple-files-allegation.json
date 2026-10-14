@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-15-openai-apple-files-allegation",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+  "publishedAt": "2026-10-14T16:43:24+00:00",
+  "fact": {
+    "subject": "OpenAI",
+    "action": "在诉讼文件中指称",
+    "object": "前员工向 Apple 提供未公开硬件产品资料",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e4f4c066425b8bdd3db0d4d4d5fa58a75de117d7c9960145200d40931ed1b76a",
+    "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+    "originalPublishedAt": "2026-10-14T16:43:24+00:00",
+    "checkedAt": "2026-10-14T23:35:02.354Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e4f4c066425b8bdd3db0d4d4d5fa58a75de117d7c9960145200d40931ed1b76a",
+      "kind": "fact",
+      "quote": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president of the company’s operations in Asia."
+    },
+    {
+      "snapshotId": "e4f4c066425b8bdd3db0d4d4d5fa58a75de117d7c9960145200d40931ed1b76a",
+      "kind": "fact",
+      "quote": "The filing, reported earlier by Reuters, is tied to a legal battle between Apple and OpenAI over trade secrets — but this time, OpenAI is doing the accusing. It alleges that the files in question contain images of at least one unreleased device, along with supplier information, engineering data, project files, standards for cosmetic finishes, and reports about the “coating and sealing of hardware components.”"
+    },
+    {
+      "snapshotId": "e4f4c066425b8bdd3db0d4d4d5fa58a75de117d7c9960145200d40931ed1b76a",
+      "kind": "condition",
+      "quote": "Apple’s product plans typically operate on a very long timeline, and its smart display has been rumored for years. Conversely, Apple accuses OpenAI of stealing confidential documents and spying on hardware prototypes to help build its own products."
+    }
+  ],
+  "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+  "displayTitle": "OpenAI 在诉讼文件中指前员工向 Apple 展示未公开设备资料",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "Apple"
+  ],
+  "fetchedAt": "2026-10-14T16:55:37.504Z",
+  "summary": "The Verge 报道 OpenAI 在周三提交的法律文件中指称一名前员工在转投 Apple 前带走超过 100 份内部文件，并向 Apple 管理层展示部分内容，涉及未公开设备和供应链资料。指控尚未被证实，Apple 未即时回应。",
+  "investorNote": "AI 终端竞争延伸到硬件资料和人才流动，但法律指控不能等同于技术挪用事实。",
+  "narrative": "OpenAI 在一份新提交的诉讼文件中指称，前员工离职加入 Apple 前转出逾 100 份内部文件，其中涉及未公开设备图像、供应商和工程资料，并称部分资料曾向 Apple 管理层展示。这仍是 OpenAI 的单方主张，Apple 当时未回应；不能据此断言 Apple 的新设备使用了这些资料。硬件路线与人才流动交织，后续取证比双方措辞更关键。",
+  "score": 0.73,
+  "duplicateOf": null,
+  "clusterId": "event-fe383170e03c45ffd38a0252",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期新报道的独立动作，近两周记录中无可确认的同次发生。"
+  },
+  "eventId": "event-fe383170e03c45ffd38a0252",
+  "occurrenceId": "occ-fe383170e03c45ffd38a0252",
+  "relatedItems": []
+}

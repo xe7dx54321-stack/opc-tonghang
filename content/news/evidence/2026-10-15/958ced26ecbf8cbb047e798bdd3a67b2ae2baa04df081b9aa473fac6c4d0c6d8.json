@@ -1,0 +1,14 @@
+{
+  "snapshotId": "958ced26ecbf8cbb047e798bdd3a67b2ae2baa04df081b9aa473fac6c4d0c6d8",
+  "url": "https://www.tomshardware.com/pc-components/cpus/qualcomm-wins-architecture-breach-verdict-against-arm-but-gets-just-usd2-judge-could-still-suspend-royalty-fees-for-five-years",
+  "publishedAt": "2026-10-14T12:10:00+00:00",
+  "publishedAtQuote": "2026-10-14T12:10:00Z",
+  "retrievedAt": "2026-10-14T23:35:02.274Z",
+  "method": "agent-tool",
+  "contentHash": "3c93531d1e159c8120a206f9c0eb2e680d966aca006031a03daad989b3bdff8d",
+  "quotations": [
+    "The jury sided with Qualcomm on two issues. First, it determined that Arm had breached its longstanding ALA, which allows Qualcomm to develop and sell custom processors compatible with Arm's instruction set architecture. Second, it found that Arm had intentionally interfered with Qualcomm's business relationship with Meta. Qualcomm welcomed the verdict and maintained that it exposed Arm's efforts to undermine its business and eventually become a Meta supplier.",
+    "However, Arm prevailed on four of Qualcomm's six claims submitted to the jury and was ordered to pay just $1 in damages on each of the aforementioned two. The original complaint included allegations of breaches of the ALA and TLA, violations of the implied covenant of good faith and fair dealing, intentional and negligent interference with prospective economic advantage, and unfair competition. The precise findings on the individual allegations have yet to be revealed, as at press time the jury rulings were not available. Arm claims that the outcome supports its position that it had acted in good faith under its technology license agreement.",
+    "Despite the nominal $2 damages award, the legal battle between Qualcomm and Arm is not over. U.S. District Judge Maryellen Noreika must still determine whether Arm's breach of its Architecture License Agreement entitles Qualcomm to suspend royalty payments for five years, potentially costing Arm hundreds of millions, or even billions, in revenue. The judge must also decide whether Arm violated its obligation to negotiate future architecture licensing terms in good faith. Both decisions could have substantially greater financial and commercial consequences than the jury's verdict, and either company could appeal an unfavorable ruling."
+  ]
+}

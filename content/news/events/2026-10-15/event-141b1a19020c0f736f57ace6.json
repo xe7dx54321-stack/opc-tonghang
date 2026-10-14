@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-141b1a19020c0f736f57ace6",
+  "title": "美国八州分别起诉 OpenAI，聚焦 ChatGPT 未成年人安全",
+  "firstSeen": "2026-10-15",
+  "editionDate": "2026-10-15",
+  "occurrences": [
+    {
+      "id": "occ-141b1a19020c0f736f57ace6",
+      "fact": {
+        "subject": "美国八个州",
+        "action": "分别提起诉讼",
+        "object": "OpenAI 的 ChatGPT 未成年人安全与消费者保护问题",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-15",
+      "reports": [
+        {
+          "ref": "2026-10-15/2026-10-15-openai-eight-state-lawsuits",
+          "itemId": "2026-10-15-openai-eight-state-lawsuits",
+          "editionDate": "2026-10-15",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-10-14T21:11:28+00:00",
+          "title": "美国八州分别起诉 OpenAI，聚焦 ChatGPT 未成年人安全"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-15"
+}

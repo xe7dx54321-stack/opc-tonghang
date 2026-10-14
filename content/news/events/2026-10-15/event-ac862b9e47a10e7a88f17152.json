@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-ac862b9e47a10e7a88f17152",
+  "title": "DeepMind 与新加坡 GovTech 公布端侧诈骗识别模型，部署仍将分阶段进行",
+  "firstSeen": "2026-10-15",
+  "editionDate": "2026-10-15",
+  "occurrences": [
+    {
+      "id": "occ-ac862b9e47a10e7a88f17152",
+      "fact": {
+        "subject": "Google DeepMind 与新加坡 GovTech",
+        "action": "公布合作开发",
+        "object": "端侧诈骗检测模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-15",
+      "reports": [
+        {
+          "ref": "2026-10-15/2026-10-15-deepmind-singapore-scam-model",
+          "itemId": "2026-10-15-deepmind-singapore-scam-model",
+          "editionDate": "2026-10-15",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+          "source": "deepmind",
+          "owner": "Google DeepMind",
+          "role": "principal",
+          "publishedAt": "2026-10-14T02:00:00+00:00",
+          "title": "DeepMind 与新加坡 GovTech 公布端侧诈骗识别模型，部署仍将分阶段进行"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-15"
+}

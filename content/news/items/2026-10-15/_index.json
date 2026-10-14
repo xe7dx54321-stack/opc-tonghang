@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-15",
+  "itemCount": 8,
+  "storyCount": 8,
+  "clusterCount": 8,
+  "files": [
+    "2026-10-15-tencent-workbuddy-wecom.json",
+    "2026-10-15-deepmind-singapore-scam-model.json",
+    "2026-10-15-qualcomm-arm-verdict.json",
+    "2026-10-15-scimplify-funding.json",
+    "2026-10-15-openai-eight-state-lawsuits.json",
+    "2026-10-15-openai-apple-files-allegation.json",
+    "2026-10-15-nvidia-uk-investments.json",
+    "2026-10-15-sk-hynix-h-tpu-ssd.json"
+  ],
+  "representatives": [
+    "2026-10-15-tencent-workbuddy-wecom",
+    "2026-10-15-deepmind-singapore-scam-model",
+    "2026-10-15-qualcomm-arm-verdict",
+    "2026-10-15-scimplify-funding",
+    "2026-10-15-openai-eight-state-lawsuits",
+    "2026-10-15-openai-apple-files-allegation",
+    "2026-10-15-nvidia-uk-investments",
+    "2026-10-15-sk-hynix-h-tpu-ssd"
+  ]
+}

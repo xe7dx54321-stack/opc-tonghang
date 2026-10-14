@@ -1,0 +1,14 @@
+{
+  "snapshotId": "142186141c3d42a92871ca9eb01f37a0189ea73da0e64a98d90a31cf096b98bb",
+  "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+  "publishedAt": "2026-10-14T02:00:00+00:00",
+  "publishedAtQuote": "2026-10-14T02:00:00+00:00",
+  "retrievedAt": "2026-10-14T23:35:02.247Z",
+  "method": "agent-tool",
+  "contentHash": "90db0d47534202ef52b77d12d019e704b1b7776158fb8f0b2e4d1f21b22b00d1",
+  "quotations": [
+    "To address this, Google DeepMind and the Government Technology Agency of Singapore (GovTech Singapore) have been working together as part of our National AI Partnership with the Singapore Government. Together, we've fine-tuned a privacy-preserving, on-device scam detection model.",
+    "Generic models often struggle with local deception techniques, making scam detection harder. To address this, Googleâs lightweight Gemma model was fine-tuned on local scam conversations. These ranged from impersonations of public institutions, banks, and local figures, to trending regional schemes. This ensures the fine-tuned model will be able to distinguish benign social chatter from genuine manipulation when deployed in applications installed by citizens.",
+    "The roll out of the model within applications will be carefully phased and developed in partnership with the Singapore Government. When deployed, the model will only be able to access on-device conversations with the user's consent, in accordance with the terms of use of that application. As the model runs entirely on-device, neither the Singapore Government nor Google, will be able to access usersâ conversations through its deployment."
+  ]
+}

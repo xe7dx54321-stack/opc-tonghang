@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-15",
+  "window": {
+    "start": 1791934200000,
+    "end": 1792020600000
+  },
+  "digestHash": "5a7d2a37d3c312b41a7876c255532a6cd088104e0c8173ab4b04ee8159562b8a",
+  "stories": [
+    {
+      "heading": "企业微信与 WorkBuddy 打通账号和工作上下文，先向认证企业开放",
+      "itemId": "2026-10-15-tencent-workbuddy-wecom",
+      "eventId": "event-59994f557f0dff1eff88981c",
+      "occurrenceId": "occ-59994f557f0dff1eff88981c"
+    },
+    {
+      "heading": "DeepMind 与新加坡 GovTech 公布端侧诈骗识别模型，部署仍将分阶段进行",
+      "itemId": "2026-10-15-deepmind-singapore-scam-model",
+      "eventId": "event-ac862b9e47a10e7a88f17152",
+      "occurrenceId": "occ-ac862b9e47a10e7a88f17152"
+    },
+    {
+      "heading": "Arm 与 Qualcomm 许可案陪审团作出混合裁决，赔偿仅 2 美元",
+      "itemId": "2026-10-15-qualcomm-arm-verdict",
+      "eventId": "event-1cae94b9662bd7fa681d939d",
+      "occurrenceId": "occ-1cae94b9662bd7fa681d939d"
+    },
+    {
+      "heading": "印度材料公司 Scimplify 获 2500 万美元融资，押注 AI 辅助化工生产",
+      "itemId": "2026-10-15-scimplify-funding",
+      "eventId": "event-a07962f6bfb81112bb4d9022",
+      "occurrenceId": "occ-a07962f6bfb81112bb4d9022"
+    },
+    {
+      "heading": "美国八州分别起诉 OpenAI，聚焦 ChatGPT 未成年人安全",
+      "itemId": "2026-10-15-openai-eight-state-lawsuits",
+      "eventId": "event-141b1a19020c0f736f57ace6",
+      "occurrenceId": "occ-141b1a19020c0f736f57ace6"
+    },
+    {
+      "heading": "OpenAI 在诉讼文件中指前员工向 Apple 展示未公开设备资料",
+      "itemId": "2026-10-15-openai-apple-files-allegation",
+      "eventId": "event-fe383170e03c45ffd38a0252",
+      "occurrenceId": "occ-fe383170e03c45ffd38a0252"
+    },
+    {
+      "heading": "NVIDIA 公布五家英国 AI 初创投资计划，安全算力承诺仍待兑现",
+      "itemId": "2026-10-15-nvidia-uk-investments",
+      "eventId": "event-e2dd885a39553b16071d709e",
+      "occurrenceId": "occ-e2dd885a39553b16071d709e"
+    },
+    {
+      "heading": "SK hynix 披露 SSD 控制器 H-TPU 方案，以小处理核分担 I/O",
+      "itemId": "2026-10-15-sk-hynix-h-tpu-ssd",
+      "eventId": "event-c992d7c9da4e556b0ce1bffa",
+      "occurrenceId": "occ-c992d7c9da4e556b0ce1bffa"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-15-deepmind-singapore-scam-model.json": "344b7bd635422912acfb010d548e3e0472620ffcfbc6c129a5c06a29d1d3aa3b",
+    "2026-10-15-nvidia-uk-investments.json": "156c619bb6b80738b92d0a5dfe12d87427fb98d08c8bb7998c0778bea3c12541",
+    "2026-10-15-openai-apple-files-allegation.json": "da56fc35741f7583c18e3cf2269db3ce393a487f39c3ecd50d93c285fda0340c",
+    "2026-10-15-openai-eight-state-lawsuits.json": "435dea676689208ead0a7d4c235069e301c06b0e3854c14a62b9cc5cb9c8e0da",
+    "2026-10-15-qualcomm-arm-verdict.json": "2bd132ba56f525d7b764ec4e3982986883edf58f0e1ec6418d3d685aff872823",
+    "2026-10-15-scimplify-funding.json": "5d653fc5a199256d9176b78bf82f20a3b9946f628cc6ebebc8e33e34e12ec639",
+    "2026-10-15-sk-hynix-h-tpu-ssd.json": "36eb4e871323a1322e1fe44d1a1c6c119caa3c61a14dcc64a79c4fc850272391",
+    "2026-10-15-tencent-workbuddy-wecom.json": "efe508df99b164ba620916d8a7dc244a4ff87e511da6e2529e31a05b220deead"
+  },
+  "evidenceHashes": {
+    "142186141c3d42a92871ca9eb01f37a0189ea73da0e64a98d90a31cf096b98bb.json": "2de5cad8f00a046abb054e86a3276c49c0c3f2255cdfb31dc1b50284bcb35530",
+    "70058eb47c4fc0ed2816df5d100133b0fe962c7de7ea3c56a1ac7a112193eb31.json": "ecd46196c815c1a56eacc639ec59f72488309e2f4551382dbfc788088ae8f273",
+    "8648011c0572c9be694d27dfb3aaf8d2a49518ce0fbb78393325bf5fe8f55b94.json": "60c8aae060fc1c52bc10a360184d1c46a93207a2a3b7313f393cff5194d30e1d",
+    "958ced26ecbf8cbb047e798bdd3a67b2ae2baa04df081b9aa473fac6c4d0c6d8.json": "4866a63b4f26998b5bd29c1592d07a253b3e47fc1bf46135f218757ca003630c",
+    "9e0a55105cc4acf0168a0fd063e926c2926b11808455020191b3c902df014684.json": "b2a42de2c5fefa2f931f28ddaa5205c7d78a12628ea4fd61e4f469ddd50c5cde",
+    "a84e9a6dae82ce995e59530c463887a38140c18f2f24b20e31fcf4affa430502.json": "b9fd88e3febf7802f6809f9c499e6c41779c19c043e4e606457c6db201ff8697",
+    "c83794ec01cc9e024ab990ef96931193417d2c9cfad2f1c07a52b244678c4c68.json": "7cf575455c6c4046e7ad8d500b4b0fdf8840d19f02815dca3625ea09a52b5655",
+    "e4f4c066425b8bdd3db0d4d4d5fa58a75de117d7c9960145200d40931ed1b76a.json": "428ecba230a1927fc6f0edb57aa3e737737a908fe53fdedcce0a52fb0bcca49b"
+  },
+  "eventsHashes": {
+    "event-141b1a19020c0f736f57ace6.json": "8cc8661c4fefc5ed6cb19bacc4b2d4680eb821ecf506a252a2a20382abe809d5",
+    "event-1cae94b9662bd7fa681d939d.json": "d14f76b5776798934225cc39f60e4d70a9a678d9ab00b2e7eb24b0d3110116cb",
+    "event-59994f557f0dff1eff88981c.json": "30055a52e72667fdd87c27c61a9d1265c395b915ef6d4ee019b6ea43e2f041ea",
+    "event-a07962f6bfb81112bb4d9022.json": "0cfc559b2ac60fe638f939e97c73f71337a6a130099a0946def6b787594d3732",
+    "event-ac862b9e47a10e7a88f17152.json": "a778d3ace9654034cee9f029741de69af032aca5ce5db0ba22767b3e738bb325",
+    "event-c992d7c9da4e556b0ce1bffa.json": "f0a35e1bfe183427ae7dd00c71a0e91b04ed989cbb809f543e93b26d875887dd",
+    "event-e2dd885a39553b16071d709e.json": "52ca205c407fa0967c0b16056ee51d9dae23e49156e15aee7c72e6ece135ad81",
+    "event-fe383170e03c45ffd38a0252.json": "52895bfb814b4de1b3f4574c5d6a7d62ba332fdcc69e151bbf92f3ac345be74c"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-15-sk-hynix-h-tpu-ssd",
+  "url": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-place-custom-tiny-cpu-cores-in-its-ssd-controllers-to-ease-arm-load-as-drive-speeds-rocket-each-h-tpu-reportedly-draws-2-5-percent-of-a-cpu-cores-power",
+  "publishedAt": "2026-10-14T14:00:00+00:00",
+  "fact": {
+    "subject": "SK hynix",
+    "action": "披露设计计划",
+    "object": "企业级 SSD 控制器 H-TPU 小型处理核",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "9e0a55105cc4acf0168a0fd063e926c2926b11808455020191b3c902df014684",
+    "originalUrl": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-place-custom-tiny-cpu-cores-in-its-ssd-controllers-to-ease-arm-load-as-drive-speeds-rocket-each-h-tpu-reportedly-draws-2-5-percent-of-a-cpu-cores-power",
+    "originalPublishedAt": "2026-10-14T14:00:00+00:00",
+    "checkedAt": "2026-10-14T23:35:02.404Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "9e0a55105cc4acf0168a0fd063e926c2926b11808455020191b3c902df014684",
+      "kind": "fact",
+      "quote": "SK hynix has detailed plans to reduce reliance on power-hungry CPU cores with an in-house core named a Hynix Transaction Processing Unit (H-TPU). Not to be confused with an AI accelerator, an H-TPU would assist with repetitive work handled by an SSD, which usually demands more cores on a controller as drives get faster. These new cores are placed in clusters and would handle routine I/O with a four-stage, in-order pipeline, while management is left to the traditional Arm CPU. The new, tiny cores are claimed to draw only about 2.5% of a general-purpose CPU core’s power, with just around 4% of its area. Now, the company plans to apply H-TPU across its portfolio of products, TheElec reports."
+    },
+    {
+      "snapshotId": "9e0a55105cc4acf0168a0fd063e926c2926b11808455020191b3c902df014684",
+      "kind": "fact",
+      "quote": "The company’s VP of system-on-chip (SoC) design, Koo In-jae, spoke at ISOCC 2026, the International SoC Design Conference, earlier this week, saying that SSD controller CPUs are at their limit on power and area. In the talk, titled “From SSD Controllers to AI Memory SoCs,” he said that PCIe bandwidth doubles every generation, and controller CPU clocks and control capability reportedly can’t keep up. SK hynix reportedly plans to apply H-TPU across its NAND products, including next-gen enterprise SSD controllers. That’s where the unending chase for IOPS makes the problem most evident."
+    },
+    {
+      "snapshotId": "9e0a55105cc4acf0168a0fd063e926c2926b11808455020191b3c902df014684",
+      "kind": "condition",
+      "quote": "The main CPU still handles error recovery and exception handling, plus storage-policy management, so the H-TPU complements the CPU: offloading, not replacement. The design idles the cores a given I/O doesn’t need, which reportedly drop into a minimum-power mode. Neither report names the CPU core behind SK hynix’s 2.5% power and 4% area figures."
+    }
+  ],
+  "title": "SK hynix to place custom tiny CPU cores in its SSD controllers to ease Arm load as drive speeds rocket",
+  "displayTitle": "SK hynix 披露 SSD 控制器 H-TPU 方案，以小处理核分担 I/O",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "SK hynix",
+    "H-TPU"
+  ],
+  "fetchedAt": "2026-10-14T14:23:51.720Z",
+  "summary": "Tom’s Hardware 报道 SK hynix 在 ISOCC 2026 介绍自研 H-TPU 小型处理核，计划将大量重复性 I/O 与元数据任务从企业级 SSD 主 CPU 分担出去。H-TPU 为四级顺序流水线设计，不是 AI 张量加速器；尚无明确产品上市时间。",
+  "investorNote": "存储控制器瓶颈正从单颗主核性能转向大量细粒度事务的功耗与面积效率。",
+  "narrative": "SK hynix 在 ISOCC 2026 披露 H-TPU 设计思路：用一组小型、可编程的顺序处理核承担企业级 SSD 的例行 I/O 和元数据任务，主 CPU 继续处理异常与策略管理。名字中的 TPU 容易误读，这里并非 AI 张量处理器。随着 PCIe 带宽上升，控制器的功耗和面积成为新约束；目前材料说明的是架构计划，尚未给出量产产品或独立性能数据。",
+  "score": 0.8,
+  "duplicateOf": null,
+  "clusterId": "event-c992d7c9da4e556b0ce1bffa",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期新报道的独立动作，近两周记录中无可确认的同次发生。"
+  },
+  "eventId": "event-c992d7c9da4e556b0ce1bffa",
+  "occurrenceId": "occ-c992d7c9da4e556b0ce1bffa",
+  "relatedItems": []
+}

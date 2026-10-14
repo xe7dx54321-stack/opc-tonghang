@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-fe383170e03c45ffd38a0252",
+  "title": "OpenAI 在诉讼文件中指前员工向 Apple 展示未公开设备资料",
+  "firstSeen": "2026-10-15",
+  "editionDate": "2026-10-15",
+  "occurrences": [
+    {
+      "id": "occ-fe383170e03c45ffd38a0252",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "在诉讼文件中指称",
+        "object": "前员工向 Apple 提供未公开硬件产品资料",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-15",
+      "reports": [
+        {
+          "ref": "2026-10-15/2026-10-15-openai-apple-files-allegation",
+          "itemId": "2026-10-15-openai-apple-files-allegation",
+          "editionDate": "2026-10-15",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-10-14T16:43:24+00:00",
+          "title": "OpenAI 在诉讼文件中指前员工向 Apple 展示未公开设备资料"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-15"
+}

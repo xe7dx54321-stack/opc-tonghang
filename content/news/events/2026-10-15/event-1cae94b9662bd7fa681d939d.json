@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-1cae94b9662bd7fa681d939d",
+  "title": "Arm 与 Qualcomm 许可案陪审团作出混合裁决，赔偿仅 2 美元",
+  "firstSeen": "2026-10-15",
+  "editionDate": "2026-10-15",
+  "occurrences": [
+    {
+      "id": "occ-1cae94b9662bd7fa681d939d",
+      "fact": {
+        "subject": "美国特拉华州联邦陪审团",
+        "action": "裁定",
+        "object": "Qualcomm 与 Arm 许可及干预争议",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-15",
+      "reports": [
+        {
+          "ref": "2026-10-15/2026-10-15-qualcomm-arm-verdict",
+          "itemId": "2026-10-15-qualcomm-arm-verdict",
+          "editionDate": "2026-10-15",
+          "url": "https://www.tomshardware.com/pc-components/cpus/qualcomm-wins-architecture-breach-verdict-against-arm-but-gets-just-usd2-judge-could-still-suspend-royalty-fees-for-five-years",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-10-14T12:10:00+00:00",
+          "title": "Arm 与 Qualcomm 许可案陪审团作出混合裁决，赔偿仅 2 美元"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-15"
+}

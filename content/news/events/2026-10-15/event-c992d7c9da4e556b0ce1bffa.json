@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-c992d7c9da4e556b0ce1bffa",
+  "title": "SK hynix 披露 SSD 控制器 H-TPU 方案，以小处理核分担 I/O",
+  "firstSeen": "2026-10-15",
+  "editionDate": "2026-10-15",
+  "occurrences": [
+    {
+      "id": "occ-c992d7c9da4e556b0ce1bffa",
+      "fact": {
+        "subject": "SK hynix",
+        "action": "披露设计计划",
+        "object": "企业级 SSD 控制器 H-TPU 小型处理核",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-15",
+      "reports": [
+        {
+          "ref": "2026-10-15/2026-10-15-sk-hynix-h-tpu-ssd",
+          "itemId": "2026-10-15-sk-hynix-h-tpu-ssd",
+          "editionDate": "2026-10-15",
+          "url": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-place-custom-tiny-cpu-cores-in-its-ssd-controllers-to-ease-arm-load-as-drive-speeds-rocket-each-h-tpu-reportedly-draws-2-5-percent-of-a-cpu-cores-power",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "relayer",
+          "publishedAt": "2026-10-14T14:00:00+00:00",
+          "title": "SK hynix 披露 SSD 控制器 H-TPU 方案，以小处理核分担 I/O"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-15"
+}

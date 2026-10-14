@@ -1,0 +1,14 @@
+{
+  "snapshotId": "e4f4c066425b8bdd3db0d4d4d5fa58a75de117d7c9960145200d40931ed1b76a",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+  "publishedAt": "2026-10-14T16:43:24+00:00",
+  "publishedAtQuote": "2026-10-14T16:43:24+00:00",
+  "retrievedAt": "2026-10-14T23:35:02.354Z",
+  "method": "agent-tool",
+  "contentHash": "56d99e3d70c09296c578d96a8cd0cbce9051bf395cd2225fda981ab9efeb1f49",
+  "quotations": [
+    "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president of the company’s operations in Asia.",
+    "The filing, reported earlier by Reuters, is tied to a legal battle between Apple and OpenAI over trade secrets — but this time, OpenAI is doing the accusing. It alleges that the files in question contain images of at least one unreleased device, along with supplier information, engineering data, project files, standards for cosmetic finishes, and reports about the “coating and sealing of hardware components.”",
+    "Apple’s product plans typically operate on a very long timeline, and its smart display has been rumored for years. Conversely, Apple accuses OpenAI of stealing confidential documents and spying on hardware prototypes to help build its own products."
+  ]
+}

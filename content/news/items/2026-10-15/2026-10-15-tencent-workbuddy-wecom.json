@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-15-tencent-workbuddy-wecom",
+  "url": "https://www.leiphone.com/category/industrynews/7m8YMd1LU7x6aDvM.html",
+  "publishedAt": "2026-10-14T13:57:00+08:00",
+  "fact": {
+    "subject": "腾讯",
+    "action": "发布互通新版本",
+    "object": "企业微信与 WorkBuddy",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "70058eb47c4fc0ed2816df5d100133b0fe962c7de7ea3c56a1ac7a112193eb31",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/7m8YMd1LU7x6aDvM.html",
+    "originalPublishedAt": "2026-10-14T13:57:00+08:00",
+    "checkedAt": "2026-10-14T23:35:02.215Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "70058eb47c4fc0ed2816df5d100133b0fe962c7de7ea3c56a1ac7a112193eb31",
+      "kind": "fact",
+      "quote": "10月14日，腾讯旗下两大用户规模领先的办公产品——企业微信与 WorkBuddy 联合发布新版本，实现双向深度联合。此次升级后，WorkBuddy 正式进入企业微信通讯录，可调用企微的工作上下文，二者共用一套企业微信账号体系。此次更新将腾讯长期积累的连接能力，与智能体的理解和执行能力结合，深入企业实际场景。目前，企业微信已覆盖超过 1400 万真实企业与组织，每日通过企业微信服务的微信用户达 7.5 亿。企业无需更换平台、迁移数据或改变工作习惯，就能在熟悉的工作方式中用上AI实现效率提升。"
+    },
+    {
+      "snapshotId": "70058eb47c4fc0ed2816df5d100133b0fe962c7de7ea3c56a1ac7a112193eb31",
+      "kind": "fact",
+      "quote": "在全新发布的企业微信 5.0.12版本中，WorkBuddy将以可对话机器人的身份进入企业联系人列表，用户可以随时通过聊天的方式处理任务；同时，最新5.8.0版本的WorkBuddy同步支持企业微信账号登录，在企业授权范围内，获得包括消息、文档、会议、网盘在内的十大能力权限，完成深度分析、复杂文档处理等多种任务。"
+    },
+    {
+      "snapshotId": "70058eb47c4fc0ed2816df5d100133b0fe962c7de7ea3c56a1ac7a112193eb31",
+      "kind": "condition",
+      "quote": "目前，新版本互通能力面向企业微信已认证企业开放，并提供限免体验名额，企业可领取、申请开通或统一采购。欧莱雅、麦当劳、比亚迪等企业正探索落地“企业微信 + WorkBuddy”方案。"
+    }
+  ],
+  "title": "腾讯AI办公再进一步，企业微信与WorkBuddy深度联合",
+  "displayTitle": "企业微信与 WorkBuddy 打通账号和工作上下文，先向认证企业开放",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "腾讯",
+    "企业微信",
+    "WorkBuddy"
+  ],
+  "fetchedAt": "2026-10-14T08:18:01.740Z",
+  "summary": "腾讯 10 月 14 日推出企业微信与 WorkBuddy 互通版本。WorkBuddy 进入企业微信通讯录，共用账号体系，并在企业授权下调用消息、文档、会议和网盘等上下文；互通能力先向已认证企业开放。",
+  "investorNote": "企业 Agent 的竞争点正在从单次回答转向组织身份、权限和业务上下文的接入。",
+  "narrative": "腾讯把 WorkBuddy 放进企业微信通讯录，并打通账号、工作上下文与管理员配置。企业微信 5.0.12 和 WorkBuddy 5.8.0 的互通能力当前面向已认证企业开放。对企业 Agent 而言，差异化开始落在权限与流程入口；是否带来可衡量的工作完成率，还需看真实部署。",
+  "score": 0.85,
+  "duplicateOf": null,
+  "clusterId": "event-59994f557f0dff1eff88981c",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期新报道的独立动作，近两周记录中无可确认的同次发生。"
+  },
+  "eventId": "event-59994f557f0dff1eff88981c",
+  "occurrenceId": "occ-59994f557f0dff1eff88981c",
+  "relatedItems": []
+}

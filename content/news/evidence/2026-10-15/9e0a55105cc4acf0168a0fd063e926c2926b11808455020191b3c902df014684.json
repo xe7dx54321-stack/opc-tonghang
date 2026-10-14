@@ -1,0 +1,14 @@
+{
+  "snapshotId": "9e0a55105cc4acf0168a0fd063e926c2926b11808455020191b3c902df014684",
+  "url": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-place-custom-tiny-cpu-cores-in-its-ssd-controllers-to-ease-arm-load-as-drive-speeds-rocket-each-h-tpu-reportedly-draws-2-5-percent-of-a-cpu-cores-power",
+  "publishedAt": "2026-10-14T14:00:00+00:00",
+  "publishedAtQuote": "2026-10-14T14:00:00Z",
+  "retrievedAt": "2026-10-14T23:35:02.404Z",
+  "method": "agent-tool",
+  "contentHash": "509d64026b085b6d17e1d6a5e0bbd72f8c827d142b64899329db1d72bc40d648",
+  "quotations": [
+    "SK hynix has detailed plans to reduce reliance on power-hungry CPU cores with an in-house core named a Hynix Transaction Processing Unit (H-TPU). Not to be confused with an AI accelerator, an H-TPU would assist with repetitive work handled by an SSD, which usually demands more cores on a controller as drives get faster. These new cores are placed in clusters and would handle routine I/O with a four-stage, in-order pipeline, while management is left to the traditional Arm CPU. The new, tiny cores are claimed to draw only about 2.5% of a general-purpose CPU core’s power, with just around 4% of its area. Now, the company plans to apply H-TPU across its portfolio of products, TheElec reports.",
+    "The company’s VP of system-on-chip (SoC) design, Koo In-jae, spoke at ISOCC 2026, the International SoC Design Conference, earlier this week, saying that SSD controller CPUs are at their limit on power and area. In the talk, titled “From SSD Controllers to AI Memory SoCs,” he said that PCIe bandwidth doubles every generation, and controller CPU clocks and control capability reportedly can’t keep up. SK hynix reportedly plans to apply H-TPU across its NAND products, including next-gen enterprise SSD controllers. That’s where the unending chase for IOPS makes the problem most evident.",
+    "The main CPU still handles error recovery and exception handling, plus storage-policy management, so the H-TPU complements the CPU: offloading, not replacement. The design idles the cores a given I/O doesn’t need, which reportedly drop into a minimum-power mode. Neither report names the CPU core behind SK hynix’s 2.5% power and 4% area figures."
+  ]
+}

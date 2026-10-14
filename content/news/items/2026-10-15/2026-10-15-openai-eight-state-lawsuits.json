@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-15-openai-eight-state-lawsuits",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+  "publishedAt": "2026-10-14T21:11:28+00:00",
+  "fact": {
+    "subject": "美国八个州",
+    "action": "分别提起诉讼",
+    "object": "OpenAI 的 ChatGPT 未成年人安全与消费者保护问题",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "c83794ec01cc9e024ab990ef96931193417d2c9cfad2f1c07a52b244678c4c68",
+    "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+    "originalPublishedAt": "2026-10-14T21:11:28+00:00",
+    "checkedAt": "2026-10-14T23:35:02.328Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "c83794ec01cc9e024ab990ef96931193417d2c9cfad2f1c07a52b244678c4c68",
+      "kind": "fact",
+      "quote": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when developing ChatGPT."
+    },
+    {
+      "snapshotId": "c83794ec01cc9e024ab990ef96931193417d2c9cfad2f1c07a52b244678c4c68",
+      "kind": "condition",
+      "quote": "In an emailed statement to The Verge, OpenAI spokesperson Drew Pusateri says the company has “built industry-leading age-specific protections” into ChatGPT:"
+    }
+  ],
+  "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+  "displayTitle": "美国八州分别起诉 OpenAI，聚焦 ChatGPT 未成年人安全",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "ChatGPT"
+  ],
+  "fetchedAt": "2026-10-14T21:27:58.717Z",
+  "summary": "The Verge 报道美国八个州分别起诉 OpenAI，指控其在 ChatGPT 未成年人保护、消费者风险告知及数据收集方面违反州法。上述内容是诉状主张，尚非法院认定；OpenAI 回应称已设置家长控制、休息提醒和年龄适配保护。",
+  "investorNote": "多州诉讼把未成年人保护从产品政策问题推进到分散州法的合规成本问题。",
+  "narrative": "美国八个州分别提起诉讼，指控 OpenAI 对 ChatGPT 的未成年人风险告知与保护不足，并质疑其收集儿童数据的做法。这些是诉状中的主张，法院尚未作出事实认定。OpenAI 回应称已经推出家长控制、休息提醒和年龄适配保护。对消费级 AI 公司而言，多州并行诉讼意味着安全投入、产品设计和法律披露会被同时检验。",
+  "score": 0.86,
+  "duplicateOf": null,
+  "clusterId": "event-141b1a19020c0f736f57ace6",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期新报道的独立动作，近两周记录中无可确认的同次发生。"
+  },
+  "eventId": "event-141b1a19020c0f736f57ace6",
+  "occurrenceId": "occ-141b1a19020c0f736f57ace6",
+  "relatedItems": []
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-15-scimplify-funding",
+  "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+  "publishedAt": "2026-10-14T11:00:00+00:00",
+  "fact": {
+    "subject": "Scimplify",
+    "action": "完成融资",
+    "object": "2500 万美元战略股权轮",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "a84e9a6dae82ce995e59530c463887a38140c18f2f24b20e31fcf4affa430502",
+    "originalUrl": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+    "originalPublishedAt": "2026-10-14T11:00:00+00:00",
+    "checkedAt": "2026-10-14T23:35:02.301Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "a84e9a6dae82ce995e59530c463887a38140c18f2f24b20e31fcf4affa430502",
+      "kind": "fact",
+      "quote": "As manufacturers across industries strive to reduce their reliance on Chinese suppliers, Indian startup Scimplify has raised $25 million to expand its AI-powered approach to producing specialty chemicals and critical materials, with semiconductors, defense, and energy emerging as key growth markets."
+    },
+    {
+      "snapshotId": "a84e9a6dae82ce995e59530c463887a38140c18f2f24b20e31fcf4affa430502",
+      "kind": "fact",
+      "quote": "The all-equity strategic round was led by Hitachi Ventures, with customers Henkel and Teknor Apex joining as new investors. Existing backers Accel India, Bertelsmann India Investments, Omnivore, and 3one4 Capital also participated. The round values the Bengaluru-based startup at $250 million after the investment, according to a person familiar with the transaction, up from $150 million after a $40 million Series B round in March 2025. The latest investment brings Scimplify’s total equity funding to $80 million, the startup said, though it declined to disclose its valuation."
+    },
+    {
+      "snapshotId": "a84e9a6dae82ce995e59530c463887a38140c18f2f24b20e31fcf4affa430502",
+      "kind": "condition",
+      "quote": "Once it receives an order, Scimplify develops chemical manufacturing processes at its research facilities in Bengaluru and Hyderabad and then transfers them to partner factories for commercial production. Its proprietary AI platform, Scinode, helps coordinate the work by identifying suitable production routes and manufacturing facilities, while tracking quality and regulatory requirements. The platform uses specialized AI agents for different functions, including research, manufacturing, and quality control, Santhosh told TechCrunch."
+    }
+  ],
+  "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+  "displayTitle": "印度材料公司 Scimplify 获 2500 万美元融资，押注 AI 辅助化工生产",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "Scimplify",
+    "Hitachi Ventures",
+    "Henkel"
+  ],
+  "fetchedAt": "2026-10-14T11:20:27.395Z",
+  "summary": "TechCrunch 报道印度 Scimplify 完成 2500 万美元全股权战略融资，由 Hitachi Ventures 领投，客户 Henkel 和 Teknor Apex 参与。公司以 AI 平台协调化学品工艺开发、厂商匹配与质量要求，半导体是其目标市场之一。",
+  "investorNote": "客户成为投资方说明材料替代供应链的需求存在，但半导体业务规模仍须分开核实。",
+  "narrative": "Scimplify 完成 2500 万美元战略股权融资，Hitachi Ventures 领投，Henkel 和 Teknor Apex 等客户参投。公司称其 Scinode 平台用专门的 AI Agent 规划化工生产路线、匹配合作工厂并跟踪质量要求，覆盖包括半导体在内的关键材料市场。投资看点在于客户与产能网络的连接，而非单纯材料发现算法；公司所述交付提速仍需独立订单数据验证。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "event-a07962f6bfb81112bb4d9022",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期新报道的独立动作，近两周记录中无可确认的同次发生。"
+  },
+  "eventId": "event-a07962f6bfb81112bb4d9022",
+  "occurrenceId": "occ-a07962f6bfb81112bb4d9022",
+  "relatedItems": []
+}
