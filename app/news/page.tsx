@@ -1,5 +1,5 @@
 import Link from '@/components/Link'
-import { NEWS_TOPICS, listDaily, listNewsItems } from '@/lib/news'
+import { NEWS_TOPICS, getDailyHeatByTitle, listDaily, listNewsItems } from '@/lib/news'
 import { listNewsEvents } from '@/lib/news-events'
 import NewsHeatBadge from '@/components/news/NewsHeatBadge'
 import { genPageMetadata } from 'app/seo'
@@ -16,6 +16,10 @@ export default function NewsIndex() {
   const latestDate = items.reduce((latest, item) => item.date > latest ? item.date : latest, '')
   const daily = listDaily()
   const events = listNewsEvents()
+  const latestHeadlines = daily[0]
+    ? [...daily[0].body.matchAll(/^##\s+(.+)$/gm)].map(match => match[1].trim())
+    : []
+  const latestHeat = daily[0] ? getDailyHeatByTitle(daily[0].slug) : {}
 
   return (
     <>
@@ -43,7 +47,18 @@ export default function NewsIndex() {
         <div className="font-num text-[11px] uppercase tracking-[0.18em] text-accent">最新日报 · {daily[0].slug}</div>
         <h2 className="mt-3 text-2xl font-semibold text-ink">最新一期值得关注的变化</h2>
         <p className="mt-3 max-w-2xl text-sm leading-7 text-ink-2">完整阅读当天的重点事件、背景与判断。</p>
-        <Link href={`/news/${daily[0].slug}`} className="mt-5 inline-block text-sm font-medium text-accent hover:underline">阅读日报 →</Link>
+        <Link href={`/news/${daily[0].slug}`} className="mt-5 inline-block text-sm font-medium text-accent hover:underline">阅读完整日报 →</Link>
+        {latestHeadlines.length > 0 && <div className="mt-7 border-t border-hair pt-6">
+          <div className="font-num text-[11px] tracking-[0.16em] text-ink-3">本期 {latestHeadlines.length} 条</div>
+          <ol className="mt-4 grid gap-x-8 gap-y-3 sm:grid-cols-2">
+            {latestHeadlines.map((title, index) => <li key={`${index}-${title}`}>
+              <Link href={`/news/${daily[0].slug}#story-${index + 1}`} className="flex items-start justify-between gap-3 text-sm leading-6 text-ink-2 hover:text-accent">
+                <span>{String(index + 1).padStart(2, '0')} · {title}</span>
+                {latestHeat[title] != null && <span className="shrink-0 font-num text-accent">{latestHeat[title]}</span>}
+              </Link>
+            </li>)}
+          </ol>
+        </div>}
       </section>}
 
       <section className="py-11 sm:py-14">
