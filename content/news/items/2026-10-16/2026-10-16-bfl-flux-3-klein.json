@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-16-bfl-flux-3-klein",
+  "url": "https://bfl.ai/blog/flux-3-image-klein",
+  "publishedAt": "2026-10-15T15:00:00Z",
+  "fact": {
+    "subject": "Black Forest Labs",
+    "action": "发布",
+    "object": "FLUX 3 Image Klein 开放权重图像模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Black Forest Labs",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "033a5a8ca7305d63d5fb91cea9c4186b31fe29c7b0c6fd84a3153b300bd397be",
+    "originalUrl": "https://bfl.ai/blog/flux-3-image-klein",
+    "originalPublishedAt": "2026-10-15T15:00:00Z",
+    "checkedAt": "2026-10-15T23:33:13.246Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "033a5a8ca7305d63d5fb91cea9c4186b31fe29c7b0c6fd84a3153b300bd397be",
+      "kind": "fact",
+      "quote": "Today we are releasing FLUX 3 Image Klein, a 5.6B parameter open weights model for text-to-image generation, image editing and multi-reference generation with up to 10 reference images. It shares core capabilities with the full FLUX 3 Image model: native 4K generation, pixel-perfect editing, and bounding boxes that control where elements are placed or confine edits to a defined area."
+    },
+    {
+      "snapshotId": "033a5a8ca7305d63d5fb91cea9c4186b31fe29c7b0c6fd84a3153b300bd397be",
+      "kind": "condition",
+      "quote": "With the INT8 build, FLUX 3 Image Klein runs on NVIDIA GeForce RTX GPUs with as little as 8GB of VRAM, through ComfyUI or Diffusers, extending what FLUX.2 [klein] started to even smaller hardware."
+    },
+    {
+      "snapshotId": "033a5a8ca7305d63d5fb91cea9c4186b31fe29c7b0c6fd84a3153b300bd397be",
+      "kind": "condition",
+      "quote": "The release includes a base model for fine-tuning and a step distilled model for low-latency generation, along with FP8, INT8 and NVFP4 builds developed with NVIDIA support, under the FLUX Kommunity License."
+    }
+  ],
+  "title": "FLUX 3 Image Klein: open weights, 5.6B parameters",
+  "displayTitle": "Black Forest Labs 开放 FLUX 3 Image Klein，8GB 显存可运行量化版",
+  "source": "web-search",
+  "sourceTier": 3,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Black Forest Labs",
+    "FLUX 3 Image Klein 开放权重图像模型"
+  ],
+  "fetchedAt": "2026-10-15T17:10:11.716Z",
+  "summary": "Black Forest Labs 发布 56 亿参数的 FLUX 3 Image Klein 开放权重图像模型，支持文本生图、最多十张参考图与图像编辑。公司称 INT8 版本可在 8GB 显存 NVIDIA GPU 上运行，权重受 FLUX Kommunity License 约束。",
+  "investorNote": "将较高规格图像编辑压到消费级显卡有助本地部署；但性能排名系厂商内部测试，授权范围要单独核对。",
+  "narrative": "Black Forest Labs 发布 56 亿参数的 FLUX 3 Image Klein，提供基础版与蒸馏版权重，支持文本生图、多参考图和局部编辑。公司称 INT8 版本可在 **8GB 显存** 的 NVIDIA 显卡上运行，并给出 RTX 4070 上的速度测试；这些速度和质量比较来自厂商及合作方条件下的评测，不能直接等同所有终端体验。权重按 FLUX Kommunity License 开放，计划商业化的团队仍需逐项核对授权条件。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "event-17f775a519d911d57e32119a",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "新图像模型发布，和其他厂商大模型、Meta 文本多模态权重不同。"
+  },
+  "eventId": "event-17f775a519d911d57e32119a",
+  "occurrenceId": "occ-17f775a519d911d57e32119a",
+  "relatedItems": []
+}

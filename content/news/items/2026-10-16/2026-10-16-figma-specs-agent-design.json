@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-16-figma-specs-agent-design",
+  "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+  "publishedAt": "2026-10-15T04:30:00Z",
+  "fact": {
+    "subject": "Figma",
+    "action": "推出",
+    "object": "Figma Specs 与 Code Layers 公测",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "c6c76d5270a184a5f77dee4a349b87bf69e8e82789aef789462108386a2caa56",
+    "originalUrl": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "originalPublishedAt": "2026-10-15T04:30:00Z",
+    "checkedAt": "2026-10-15T23:33:13.389Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "c6c76d5270a184a5f77dee4a349b87bf69e8e82789aef789462108386a2caa56",
+      "kind": "fact",
+      "quote": "Design platform Figma announced a new Markdown-based editor to help define a company’s design, bring in design and code libraries, and integrate with the Payload headless content management system during the company’s first Config event in India. Through some of these features, the company aims to provide a definition for its own and third-party agents to adhere to a brand’s design rules better while creating with AI."
+    },
+    {
+      "snapshotId": "c6c76d5270a184a5f77dee4a349b87bf69e8e82789aef789462108386a2caa56",
+      "kind": "fact",
+      "quote": "The company debuted a new feature called Figma Specs, which is a markdown editor that lets users define their design language in a simple way. The document can serve as a reference for teams and agents while designing in Figma. Specs can exist as a standalone file in Figma or can co-exist within the canvas. Apart from acting as a text editor, users can reference other Figma elements, such as elements on the canvas, and embed FigJam diagrams, code layers, and designs."
+    },
+    {
+      "snapshotId": "c6c76d5270a184a5f77dee4a349b87bf69e8e82789aef789462108386a2caa56",
+      "kind": "condition",
+      "quote": "Figma also made its code layers feature available to users in open beta, which adds coding to designs on canvas for more interactive prototypes. The company"
+    }
+  ],
+  "title": "Figma announces new features to define how agents work on its platform",
+  "displayTitle": "Figma 推出 Specs 设计规则文档，Code Layers 进入公开测试",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Figma",
+    "Figma Specs 与 Code Layers 公测"
+  ],
+  "fetchedAt": "2026-10-15T04:31:56.115Z",
+  "summary": "TechCrunch 报道 Figma 在印度 Config 活动推出 Markdown 形式的 Figma Specs，可把设计、代码库和规范作为团队及 Agent 的参考；Code Layers 从此前私测转入公开测试。",
+  "investorNote": "Agent 进入设计平台后，规则与上下文管理比单次生成效果更影响企业使用；公开测试还需观察协作效果。",
+  "narrative": "Figma 在印度 Config 活动推出 Markdown 形式的 **Figma Specs**，让团队把品牌规范、设计与代码资源集中写成 Agent 可引用的上下文；Code Layers 同时从此前的私测进入公开测试。Figma 不只是增加一个生成按钮，而是在给设计 Agent 设置可复用的约束和协作资料。企业设计流程能否受益，要看代理产物偏离规范的比例、人工修改量，以及从原型到交付是否真的缩短。",
+  "score": 0.74,
+  "duplicateOf": null,
+  "clusterId": "event-660f69d0fc31cbe71369cdb3",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当日新发布的设计规则编辑器与公开测试，与历史新闻无同次发生关系。"
+  },
+  "eventId": "event-660f69d0fc31cbe71369cdb3",
+  "occurrenceId": "occ-660f69d0fc31cbe71369cdb3",
+  "relatedItems": []
+}

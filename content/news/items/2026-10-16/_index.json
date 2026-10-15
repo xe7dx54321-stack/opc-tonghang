@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-16",
+  "itemCount": 10,
+  "storyCount": 10,
+  "clusterCount": 10,
+  "files": [
+    "2026-10-16-meta-muse-spark-open.json",
+    "2026-10-16-nvidia-nemotron-35-models.json",
+    "2026-10-16-anthropic-metr-embedded-evaluation.json",
+    "2026-10-16-bfl-flux-3-klein.json",
+    "2026-10-16-deepmind-antigravity-peptide-workflow.json",
+    "2026-10-16-asml-q3-euv-capacity.json",
+    "2026-10-16-tsmc-texas-terafab-talks.json",
+    "2026-10-16-agility-nyobolt-digit5-battery.json",
+    "2026-10-16-wanna-nova21-dexterous-hand.json",
+    "2026-10-16-figma-specs-agent-design.json"
+  ],
+  "representatives": [
+    "2026-10-16-meta-muse-spark-open",
+    "2026-10-16-nvidia-nemotron-35-models",
+    "2026-10-16-anthropic-metr-embedded-evaluation",
+    "2026-10-16-bfl-flux-3-klein",
+    "2026-10-16-deepmind-antigravity-peptide-workflow",
+    "2026-10-16-asml-q3-euv-capacity",
+    "2026-10-16-tsmc-texas-terafab-talks",
+    "2026-10-16-agility-nyobolt-digit5-battery",
+    "2026-10-16-wanna-nova21-dexterous-hand",
+    "2026-10-16-figma-specs-agent-design"
+  ]
+}

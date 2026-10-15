@@ -1,0 +1,12 @@
+{
+  "snapshotId": "b244e24dd2252e0148c07c79b0c8b917729a3977a3e95bcc8bed78118fed4f22",
+  "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+  "publishedAt": "2026-10-15T16:00:00Z",
+  "publishedAtQuote": "2026-10-15T16:00:00+00:00",
+  "retrievedAt": "2026-10-15T23:33:13.270Z",
+  "method": "agent-tool",
+  "contentHash": "3c01a185a9181df16d16a59877135fa65cd0c1543b8034f8bb77582552b979bf",
+  "quotations": [
+    "This technical walkthrough shows how biologists used Google Antigravity to uncover a novel antimicrobial peptide candidate which has predicted activity against the pathogens involved in respiratory tract infections. The lead identified here is now undergoing wet-lab validation."
+  ]
+}

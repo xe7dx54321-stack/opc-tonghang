@@ -1,0 +1,14 @@
+{
+  "snapshotId": "c6c76d5270a184a5f77dee4a349b87bf69e8e82789aef789462108386a2caa56",
+  "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+  "publishedAt": "2026-10-15T04:30:00Z",
+  "publishedAtQuote": "2026-10-15T04:30:00+00:00",
+  "retrievedAt": "2026-10-15T23:33:13.389Z",
+  "method": "agent-tool",
+  "contentHash": "28acc64c2c3edce54f7ff8fe8cd12b29f0f39b8f9460997d49d04164ec95107b",
+  "quotations": [
+    "Design platform Figma announced a new Markdown-based editor to help define a company’s design, bring in design and code libraries, and integrate with the Payload headless content management system during the company’s first Config event in India. Through some of these features, the company aims to provide a definition for its own and third-party agents to adhere to a brand’s design rules better while creating with AI.",
+    "The company debuted a new feature called Figma Specs, which is a markdown editor that lets users define their design language in a simple way. The document can serve as a reference for teams and agents while designing in Figma. Specs can exist as a standalone file in Figma or can co-exist within the canvas. Apart from acting as a text editor, users can reference other Figma elements, such as elements on the canvas, and embed FigJam diagrams, code layers, and designs.",
+    "Figma also made its code layers feature available to users in open beta, which adds coding to designs on canvas for more interactive prototypes. The company"
+  ]
+}

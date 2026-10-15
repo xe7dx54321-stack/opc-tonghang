@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-44fde480ef0ea5a73d52e16a",
+  "title": "ASML 第三季营收 130.6 亿美元，称既定扩产难满足客户需求",
+  "firstSeen": "2026-10-16",
+  "editionDate": "2026-10-16",
+  "occurrences": [
+    {
+      "id": "occ-44fde480ef0ea5a73d52e16a",
+      "fact": {
+        "subject": "ASML",
+        "action": "披露季度业绩与产能预期",
+        "object": "2026 年第三季度光刻机业绩及扩产计划",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-16",
+      "reports": [
+        {
+          "ref": "2026-10-16/2026-10-16-asml-q3-euv-capacity",
+          "itemId": "2026-10-16-asml-q3-euv-capacity",
+          "editionDate": "2026-10-16",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-reports-record-usd13-billion-quarter-vows-to-expand-capacity-as-demand-for-lithography-equipment-soars-customers-eager-to-secure-orders-in-2030-as-demand-is-expected-to-outstrip-2027-and-2028-supply",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-10-15T12:00:00Z",
+          "title": "ASML 第三季营收 130.6 亿美元，称既定扩产难满足客户需求"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-16"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-58e43d1e3bf16fc1f427dac7",
+  "title": "Meta 开放 Muse Spark Open 权重，Mac 本地运行仍需大内存",
+  "firstSeen": "2026-10-16",
+  "editionDate": "2026-10-16",
+  "occurrences": [
+    {
+      "id": "occ-58e43d1e3bf16fc1f427dac7",
+      "fact": {
+        "subject": "Meta",
+        "action": "发布",
+        "object": "Muse Spark Open 开放权重多模态模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-16",
+      "reports": [
+        {
+          "ref": "2026-10-16/2026-10-16-meta-muse-spark-open",
+          "itemId": "2026-10-16-meta-muse-spark-open",
+          "editionDate": "2026-10-16",
+          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-15T20:04:53Z",
+          "title": "Meta 开放 Muse Spark Open 权重，Mac 本地运行仍需大内存"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-16"
+}

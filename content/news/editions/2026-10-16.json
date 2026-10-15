@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-16",
+  "window": {
+    "start": 1792020600000,
+    "end": 1792107000000
+  },
+  "digestHash": "7ac21653e5f3f38d156456c21bca963e785840f66c413b2862d959997966957a",
+  "stories": [
+    {
+      "heading": "Meta 开放 Muse Spark Open 权重，Mac 本地运行仍需大内存",
+      "itemId": "2026-10-16-meta-muse-spark-open",
+      "eventId": "event-58e43d1e3bf16fc1f427dac7",
+      "occurrenceId": "occ-58e43d1e3bf16fc1f427dac7"
+    },
+    {
+      "heading": "NVIDIA 发布 Nemotron 3.5 多模态与端侧模型，最小款本月晚些时候推出",
+      "itemId": "2026-10-16-nvidia-nemotron-35-models",
+      "eventId": "event-332c4baf3e64d1f4b5821023",
+      "occurrenceId": "occ-332c4baf3e64d1f4b5821023"
+    },
+    {
+      "heading": "Anthropic 让六名 METR 研究员进入内部评估体系，公开报告不得被公司否决",
+      "itemId": "2026-10-16-anthropic-metr-embedded-evaluation",
+      "eventId": "event-2d6a7581075de693581423fb",
+      "occurrenceId": "occ-2d6a7581075de693581423fb"
+    },
+    {
+      "heading": "Black Forest Labs 开放 FLUX 3 Image Klein，8GB 显存可运行量化版",
+      "itemId": "2026-10-16-bfl-flux-3-klein",
+      "eventId": "event-17f775a519d911d57e32119a",
+      "occurrenceId": "occ-17f775a519d911d57e32119a"
+    },
+    {
+      "heading": "DeepMind 展示 Antigravity 抗菌肽研究流程，候选仍待湿实验验证",
+      "itemId": "2026-10-16-deepmind-antigravity-peptide-workflow",
+      "eventId": "event-a784d2366dad716d6a1d8d33",
+      "occurrenceId": "occ-a784d2366dad716d6a1d8d33"
+    },
+    {
+      "heading": "ASML 第三季营收 130.6 亿美元，称既定扩产难满足客户需求",
+      "itemId": "2026-10-16-asml-q3-euv-capacity",
+      "eventId": "event-44fde480ef0ea5a73d52e16a",
+      "occurrenceId": "occ-44fde480ef0ea5a73d52e16a"
+    },
+    {
+      "heading": "台积电确认评估德州扩产并与 Terafab 洽谈，要求由其运营晶圆厂",
+      "itemId": "2026-10-16-tsmc-texas-terafab-talks",
+      "eventId": "event-a0443a550d539d74599fe27d",
+      "occurrenceId": "occ-a0443a550d539d74599fe27d"
+    },
+    {
+      "heading": "Agility 为 Digit 5 选用 Nyobolt 快充方案，早期交付预计 2027 年启动",
+      "itemId": "2026-10-16-agility-nyobolt-digit5-battery",
+      "eventId": "event-7d63a50591fd579c10ea5867",
+      "occurrenceId": "occ-7d63a50591fd579c10ea5867"
+    },
+    {
+      "heading": "万拿机器人首发 NOVA21 灵巧手，主打 21 个主动自由度与触觉采集",
+      "itemId": "2026-10-16-wanna-nova21-dexterous-hand",
+      "eventId": "event-edae14fb27adc013f7b0996d",
+      "occurrenceId": "occ-edae14fb27adc013f7b0996d"
+    },
+    {
+      "heading": "Figma 推出 Specs 设计规则文档，Code Layers 进入公开测试",
+      "itemId": "2026-10-16-figma-specs-agent-design",
+      "eventId": "event-660f69d0fc31cbe71369cdb3",
+      "occurrenceId": "occ-660f69d0fc31cbe71369cdb3"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-16-agility-nyobolt-digit5-battery.json": "7c4162b5b53c5a4cf3331684c2b7366612fc6f1ac28817c1b884009aa3c29501",
+    "2026-10-16-anthropic-metr-embedded-evaluation.json": "562654432b573f433bd8fadf9661f8d3694294827c6568259541b1f78678815f",
+    "2026-10-16-asml-q3-euv-capacity.json": "16eebffdd7e8f13184f8beeb9a38ec046500ffbb981c8a840c4e0fd38d3230fe",
+    "2026-10-16-bfl-flux-3-klein.json": "5e18ce5e885192ab872213ba7193efcaf74eb83649b85515f08a7f44acc11cd4",
+    "2026-10-16-deepmind-antigravity-peptide-workflow.json": "104a49846fdd921ba347fc27d93830b070860cf6969050c0389b44a87b9656ce",
+    "2026-10-16-figma-specs-agent-design.json": "39e648ba25cb11966d9eae466d1892ecd0695e8dcf3a451df23018bb7cc6546d",
+    "2026-10-16-meta-muse-spark-open.json": "4e2916c459aff773f75d520945aea7b7464728f9c76db7e4bb3b718de53cad83",
+    "2026-10-16-nvidia-nemotron-35-models.json": "54ccb242441530b2f7235950522b6bb542ae37b957aa02e90dd5ecdaf2692a82",
+    "2026-10-16-tsmc-texas-terafab-talks.json": "640a7489d90e417bc46d81281ab9a22b5b5353c03ebf392099bd96d47d803755",
+    "2026-10-16-wanna-nova21-dexterous-hand.json": "fa00f0e0e3f5405fc184da3a69e69d9b74678a2d77c96ca874a489405866f070"
+  },
+  "evidenceHashes": {
+    "033a5a8ca7305d63d5fb91cea9c4186b31fe29c7b0c6fd84a3153b300bd397be.json": "6b4d54cf57ade925040487e67e1def78940f2209b4d4e4b0c3060ff925adfdbc",
+    "18c8e89ab94edc7682a8a4bb7f2b05bcdf0d68e25d2dc33408d053e06157a670.json": "95b5c510503d77f33c31d59f3b96b9218f28334ae37db49bb440bd077312ef22",
+    "25fc151d0afd8ec1485ed802c2d37cc03e0566b3ac8f50f7ae0781dde971fc17.json": "9340c328c0c950f572b99e8c61830d3f5cd1993ed2220af1ad9b49182ea15af4",
+    "2c71174e7b6f8f25a9ac2bbe548d6700caea05522d60443eb402712c037003ec.json": "d735609ab1f3064fef0f2caeeecea73affb0de27a6fc3511b614e32bda4543f3",
+    "313f9e54169f54671cb6aa98ef13cb2ef1b77cc7aea054c9fbd7995e3458ae49.json": "7eeee87f3b04acca1c49cd5e6319e3069102bd56f30fcc8a34dad574538a74ef",
+    "b244e24dd2252e0148c07c79b0c8b917729a3977a3e95bcc8bed78118fed4f22.json": "6cd68ee79a0b710138a1b4e12058bb2f87c843a0a069d8e1dc3220580047c1eb",
+    "c6c76d5270a184a5f77dee4a349b87bf69e8e82789aef789462108386a2caa56.json": "1aefb9a3492863b265fee61f137dd17013128b7fb2ae88066ee03269f44d3865",
+    "d0feed7dd53cb31432ddda2430601e62914c75fdd9937d9fe27d01642d8613b0.json": "8c9a562ca85fb6a3d1f1b46bcccf2e76c416f32a71e36c3737e6461f1e49022b",
+    "d42391bc98bdefc1bfa623bcd3d2b2f658c41135ac34a39d6627f81cfa2d2fff.json": "d4b2b5d5d01efa8d72b35171e2b3fb4f6357e0e162dcf8f889283fc7b9f27ca1",
+    "de520afd831f93070afe80de88a5dd9a981b3a5c4689670c36120dc60d9b8557.json": "b72ca6900b497841f43f7f41db9a3b55926b47e1131e56292ebc5e34dc7e72d2"
+  },
+  "eventsHashes": {
+    "event-17f775a519d911d57e32119a.json": "cc79dc01510eb7b03bf784d7a7c4f9994cd52733bc8cf35f8064a66f38ad4871",
+    "event-2d6a7581075de693581423fb.json": "84a408ce9d62b0f1ab69ad58f0f7742ed64fbda2f7d1f5f6534208a9bf44cb5a",
+    "event-332c4baf3e64d1f4b5821023.json": "d2a5be059368333a9c1b10cdd56435119b31d632ff080d8bf15748e0895590fa",
+    "event-44fde480ef0ea5a73d52e16a.json": "f416324ab15ae4ded0a08d99740e9e0bbb2df2911f0c7b9623a18afd2eb37702",
+    "event-58e43d1e3bf16fc1f427dac7.json": "87f5b7c4464872d5277f73eb4b1507852416e4f32d42d1b3e7523573cafe03d6",
+    "event-660f69d0fc31cbe71369cdb3.json": "4e2a6c604ad986386c6fd49a05ae59295604f3b42f736c9c963353ec2cd1855a",
+    "event-7d63a50591fd579c10ea5867.json": "5154fd246aec14cc5235523226aaef3472d336b57f39612c55cd6527ce471dc5",
+    "event-a0443a550d539d74599fe27d.json": "f82235d458d5e1f2b40a19bf72d455212d7787bb89505e47758a301210d67d51",
+    "event-a784d2366dad716d6a1d8d33.json": "0a3f075356fc8157a2d4482226b42f12df4a7d4e8fa6e7d1ad40a515903245ee",
+    "event-edae14fb27adc013f7b0996d.json": "eb236173c0e528c7bbe8aa8a1d62f3ebc409cd90244b03160c5ab2783e4a94f1"
+  }
+}

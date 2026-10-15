@@ -1,0 +1,14 @@
+{
+  "snapshotId": "033a5a8ca7305d63d5fb91cea9c4186b31fe29c7b0c6fd84a3153b300bd397be",
+  "url": "https://bfl.ai/blog/flux-3-image-klein",
+  "publishedAt": "2026-10-15T15:00:00Z",
+  "publishedAtQuote": "2026-10-15T15:00:00.000Z",
+  "retrievedAt": "2026-10-15T23:33:13.246Z",
+  "method": "agent-tool",
+  "contentHash": "e227c69d3fe6ebfda4e0a4f12d6d9b24144f4945d6a440f8c75c32c3fd2393ee",
+  "quotations": [
+    "Today we are releasing FLUX 3 Image Klein, a 5.6B parameter open weights model for text-to-image generation, image editing and multi-reference generation with up to 10 reference images. It shares core capabilities with the full FLUX 3 Image model: native 4K generation, pixel-perfect editing, and bounding boxes that control where elements are placed or confine edits to a defined area.",
+    "With the INT8 build, FLUX 3 Image Klein runs on NVIDIA GeForce RTX GPUs with as little as 8GB of VRAM, through ComfyUI or Diffusers, extending what FLUX.2 [klein] started to even smaller hardware.",
+    "The release includes a base model for fine-tuning and a step distilled model for low-latency generation, along with FP8, INT8 and NVFP4 builds developed with NVIDIA support, under the FLUX Kommunity License."
+  ]
+}

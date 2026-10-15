@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-16-anthropic-metr-embedded-evaluation",
+  "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+  "publishedAt": "2026-10-15T17:20:00Z",
+  "fact": {
+    "subject": "Anthropic",
+    "action": "向外部评估机构开放内部访问",
+    "object": "METR 嵌入式风险评估",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Anthropic",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d0feed7dd53cb31432ddda2430601e62914c75fdd9937d9fe27d01642d8613b0",
+    "originalUrl": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "originalPublishedAt": "2026-10-15T17:20:00Z",
+    "checkedAt": "2026-10-15T23:33:13.223Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d0feed7dd53cb31432ddda2430601e62914c75fdd9937d9fe27d01642d8613b0",
+      "kind": "fact",
+      "quote": "We’ve onboarded six METR employees with company hardware, office space, and access to internal tools and systems that are roughly on par with what our own risk assessment teams have access to. Outside a small number of clearly defined categories (e.g., data about customers, attorney-client privileged information, or information about our model architectures), Anthropic employees are encouraged to share information with them just as they would with a fellow employee working on alignment risk."
+    },
+    {
+      "snapshotId": "d0feed7dd53cb31432ddda2430601e62914c75fdd9937d9fe27d01642d8613b0",
+      "kind": "condition",
+      "quote": "METR will publish its analysis of our risk levels, incidents, or practices. Anthropic can’t veto publication, but we can require them to redact information if it falls into narrow, predefined categories like the ones above. METR is free to characterize our redactions publicly, and say whether it believes the redactions were justified, as long as it does so without revealing the redacted information."
+    }
+  ],
+  "title": "Anthropic Update on Independent Evaluators",
+  "displayTitle": "Anthropic 让六名 METR 研究员进入内部评估体系，公开报告不得被公司否决",
+  "source": "hnrss-newest",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "METR 嵌入式风险评估"
+  ],
+  "fetchedAt": "2026-10-15T17:40:31.717Z",
+  "summary": "Anthropic 公布已向六名 METR 研究员提供公司设备、办公空间和近似内部风险评估团队的系统访问。METR 可发布风险评估，Anthropic 不得否决，但可要求遮蔽客户数据、特权信息或模型架构等少数类别。",
+  "investorNote": "外部评估从有限接口测试走向嵌入式访问，关键将是公开报告的独立程度与删改边界。",
+  "narrative": "Anthropic 表示已让六名 METR 研究员获得接近内部风险评估团队的设备、办公空间和工具权限。METR 可独立发布对风险、事故与实践的分析，Anthropic 不能否决发表，但可以要求遮蔽客户资料、法律特权或模型架构等预先限定的信息。与仅向外部机构开放模型接口相比，这改变了评估者能看到的证据范围；独立性仍要由后续报告及删改记录检验。",
+  "score": 0.84,
+  "duplicateOf": null,
+  "clusterId": "event-2d6a7581075de693581423fb",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "此前的安全评估承诺与安全团队措施不同；本次新增六人已嵌入及发表权限。"
+  },
+  "eventId": "event-2d6a7581075de693581423fb",
+  "occurrenceId": "occ-2d6a7581075de693581423fb",
+  "relatedItems": []
+}

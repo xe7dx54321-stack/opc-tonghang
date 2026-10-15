@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-16",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-80ffe970cf0bdca94958",
+      "title": "Meta 发布 Muse Spark Open 开放权重模型",
+      "summary": "Meta 发布 Muse Spark Open，并与 Apple 合作支持在配备 M5 Ultra 的 Mac Studio 上本地运行。",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "techcrunch.com",
+          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs"
+        },
+        {
+          "name": "theverge.com",
+          "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
+        }
+      ],
+      "memberUrls": [
+        "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
+        "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
+      ]
+    }
+  ]
+}

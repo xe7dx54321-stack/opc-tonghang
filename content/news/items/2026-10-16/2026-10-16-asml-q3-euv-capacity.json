@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-16-asml-q3-euv-capacity",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-reports-record-usd13-billion-quarter-vows-to-expand-capacity-as-demand-for-lithography-equipment-soars-customers-eager-to-secure-orders-in-2030-as-demand-is-expected-to-outstrip-2027-and-2028-supply",
+  "publishedAt": "2026-10-15T12:00:00Z",
+  "fact": {
+    "subject": "ASML",
+    "action": "披露季度业绩与产能预期",
+    "object": "2026 年第三季度光刻机业绩及扩产计划",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "18c8e89ab94edc7682a8a4bb7f2b05bcdf0d68e25d2dc33408d053e06157a670",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/semiconductors/asml-reports-record-usd13-billion-quarter-vows-to-expand-capacity-as-demand-for-lithography-equipment-soars-customers-eager-to-secure-orders-in-2030-as-demand-is-expected-to-outstrip-2027-and-2028-supply",
+    "originalPublishedAt": "2026-10-15T12:00:00Z",
+    "checkedAt": "2026-10-15T23:33:13.294Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "18c8e89ab94edc7682a8a4bb7f2b05bcdf0d68e25d2dc33408d053e06157a670",
+      "kind": "fact",
+      "quote": "ASML reported third-quarter 2026 revenue of $13.06 billion USD (€11.66 billion), up 55% year-over-year and 25% sequentially. The company's gross margin reached a record 57.5%, up from 51.6% a year earlier, while operating income rose to $5.79 billion (€5.17 billion). Net income reached $5.56 billion USD (€4.96 billion) , although this figure includes approximately $570 million (€510 million) from the re-evaluation of the company's investment in"
+    },
+    {
+      "snapshotId": "18c8e89ab94edc7682a8a4bb7f2b05bcdf0d68e25d2dc33408d053e06157a670",
+      "kind": "condition",
+      "quote": "\"Looking further ahead, we shared our intent last quarter to increase our capacity in 2027 by 30% for both Low NA EUV and DUV immersion systems, as well as to investigate adding a further 30% in 2028,\" explained Roger Dassen, Chief Financial Officer at ASML. \"However, given the dynamics of this quarter, we now anticipate that our current planned levels of output in 2027 and 2028 will not fully meet the demand of our customers.\""
+    }
+  ],
+  "title": "ASML reports record $13 billion quarter, vows to expand capacity as demand for lithography equipment soars",
+  "displayTitle": "ASML 第三季营收 130.6 亿美元，称既定扩产难满足客户需求",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "ASML",
+    "2026 年第三季度光刻机业绩及扩产计划"
+  ],
+  "fetchedAt": "2026-10-15T12:06:30.608Z",
+  "summary": "Tom’s Hardware 报道 ASML 2026 年第三季度营收 130.6 亿美元，同比增 55%，毛利率 57.5%。ASML 管理层称原计划 2027 年扩大低数值孔径 EUV 和浸没式 DUV 产能 30%，现预计既定的 2027 与 2028 年产出仍不足以满足客户需求。",
+  "investorNote": "客户提前数年锁定光刻设备，表明前道设备交期可能成为扩产瓶颈；产能计划和最终订单仍需持续跟踪。",
+  "narrative": "ASML 第三季度营收达到 **130.6 亿美元**，Tom’s Hardware 引述业绩显示同比增长 55%、毛利率 57.5%。管理层称客户对先进制程需求的能见度延长，原本计划在 2027 年把低数值孔径 EUV 与浸没式 DUV 产能提高 30%，但认为现有 2027、2028 年安排仍不足以满足需求。这里值得关注的不只是本季销售，而是设备产能和晶圆厂扩建周期开始互相约束；进一步扩产尚属评估，不能当成已经落实的交付量。",
+  "score": 0.88,
+  "duplicateOf": null,
+  "clusterId": "event-44fde480ef0ea5a73d52e16a",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本季业绩及管理层产能指引是新动作，未与其他公司晶圆厂讨论合并。"
+  },
+  "eventId": "event-44fde480ef0ea5a73d52e16a",
+  "occurrenceId": "occ-44fde480ef0ea5a73d52e16a",
+  "relatedItems": []
+}

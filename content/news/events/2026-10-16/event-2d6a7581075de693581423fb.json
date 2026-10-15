@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-2d6a7581075de693581423fb",
+  "title": "Anthropic 让六名 METR 研究员进入内部评估体系，公开报告不得被公司否决",
+  "firstSeen": "2026-10-16",
+  "editionDate": "2026-10-16",
+  "occurrences": [
+    {
+      "id": "occ-2d6a7581075de693581423fb",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "向外部评估机构开放内部访问",
+        "object": "METR 嵌入式风险评估",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-16",
+      "reports": [
+        {
+          "ref": "2026-10-16/2026-10-16-anthropic-metr-embedded-evaluation",
+          "itemId": "2026-10-16-anthropic-metr-embedded-evaluation",
+          "editionDate": "2026-10-16",
+          "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+          "source": "hnrss-newest",
+          "owner": "Anthropic",
+          "role": "principal",
+          "publishedAt": "2026-10-15T17:20:00Z",
+          "title": "Anthropic 让六名 METR 研究员进入内部评估体系，公开报告不得被公司否决"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-16"
+}

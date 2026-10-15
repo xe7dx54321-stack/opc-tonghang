@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-332c4baf3e64d1f4b5821023",
+  "title": "NVIDIA 发布 Nemotron 3.5 多模态与端侧模型，最小款本月晚些时候推出",
+  "firstSeen": "2026-10-16",
+  "editionDate": "2026-10-16",
+  "occurrences": [
+    {
+      "id": "occ-332c4baf3e64d1f4b5821023",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "发布",
+        "object": "Nemotron 3.5 Super VL 与 Bolt 系列",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-16",
+      "reports": [
+        {
+          "ref": "2026-10-16/2026-10-16-nvidia-nemotron-35-models",
+          "itemId": "2026-10-16-nvidia-nemotron-35-models",
+          "editionDate": "2026-10-16",
+          "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+          "source": "nvidia-blog",
+          "owner": "NVIDIA",
+          "role": "principal",
+          "publishedAt": "2026-10-15T15:00:24Z",
+          "title": "NVIDIA 发布 Nemotron 3.5 多模态与端侧模型，最小款本月晚些时候推出"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-16"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-17f775a519d911d57e32119a",
+  "title": "Black Forest Labs 开放 FLUX 3 Image Klein，8GB 显存可运行量化版",
+  "firstSeen": "2026-10-16",
+  "editionDate": "2026-10-16",
+  "occurrences": [
+    {
+      "id": "occ-17f775a519d911d57e32119a",
+      "fact": {
+        "subject": "Black Forest Labs",
+        "action": "发布",
+        "object": "FLUX 3 Image Klein 开放权重图像模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-16",
+      "reports": [
+        {
+          "ref": "2026-10-16/2026-10-16-bfl-flux-3-klein",
+          "itemId": "2026-10-16-bfl-flux-3-klein",
+          "editionDate": "2026-10-16",
+          "url": "https://bfl.ai/blog/flux-3-image-klein",
+          "source": "web-search",
+          "owner": "Black Forest Labs",
+          "role": "principal",
+          "publishedAt": "2026-10-15T15:00:00Z",
+          "title": "Black Forest Labs 开放 FLUX 3 Image Klein，8GB 显存可运行量化版"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-16"
+}

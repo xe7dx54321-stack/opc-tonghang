@@ -1,0 +1,13 @@
+{
+  "snapshotId": "d0feed7dd53cb31432ddda2430601e62914c75fdd9937d9fe27d01642d8613b0",
+  "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+  "publishedAt": "2026-10-15T17:20:00Z",
+  "publishedAtQuote": "2026-10-15T17:20:00.000Z",
+  "retrievedAt": "2026-10-15T23:33:13.223Z",
+  "method": "agent-tool",
+  "contentHash": "f1946d63705954c8ced9337345986b8923d9a7871a858540b68c3580e96ef0fd",
+  "quotations": [
+    "We’ve onboarded six METR employees with company hardware, office space, and access to internal tools and systems that are roughly on par with what our own risk assessment teams have access to. Outside a small number of clearly defined categories (e.g., data about customers, attorney-client privileged information, or information about our model architectures), Anthropic employees are encouraged to share information with them just as they would with a fellow employee working on alignment risk.",
+    "METR will publish its analysis of our risk levels, incidents, or practices. Anthropic can’t veto publication, but we can require them to redact information if it falls into narrow, predefined categories like the ones above. METR is free to characterize our redactions publicly, and say whether it believes the redactions were justified, as long as it does so without revealing the redacted information."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-660f69d0fc31cbe71369cdb3",
+  "title": "Figma 推出 Specs 设计规则文档，Code Layers 进入公开测试",
+  "firstSeen": "2026-10-16",
+  "editionDate": "2026-10-16",
+  "occurrences": [
+    {
+      "id": "occ-660f69d0fc31cbe71369cdb3",
+      "fact": {
+        "subject": "Figma",
+        "action": "推出",
+        "object": "Figma Specs 与 Code Layers 公测",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-16",
+      "reports": [
+        {
+          "ref": "2026-10-16/2026-10-16-figma-specs-agent-design",
+          "itemId": "2026-10-16-figma-specs-agent-design",
+          "editionDate": "2026-10-16",
+          "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-15T04:30:00Z",
+          "title": "Figma 推出 Specs 设计规则文档，Code Layers 进入公开测试"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-16"
+}

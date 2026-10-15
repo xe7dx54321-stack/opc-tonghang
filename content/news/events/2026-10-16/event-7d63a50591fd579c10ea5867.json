@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-7d63a50591fd579c10ea5867",
+  "title": "Agility 为 Digit 5 选用 Nyobolt 快充方案，早期交付预计 2027 年启动",
+  "firstSeen": "2026-10-16",
+  "editionDate": "2026-10-16",
+  "occurrences": [
+    {
+      "id": "occ-7d63a50591fd579c10ea5867",
+      "fact": {
+        "subject": "Agility Robotics",
+        "action": "选择合作供应商",
+        "object": "Digit 5 快充电池系统",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-16",
+      "reports": [
+        {
+          "ref": "2026-10-16/2026-10-16-agility-nyobolt-digit5-battery",
+          "itemId": "2026-10-16-agility-nyobolt-digit5-battery",
+          "editionDate": "2026-10-16",
+          "url": "https://www.therobotreport.com/agility-robotics-chooses-nyobolt-ultra-fast-charging-digit-5-humanoid/",
+          "source": "robot-report",
+          "owner": "The Robot Report",
+          "role": "observer",
+          "publishedAt": "2026-10-15T10:59:24Z",
+          "title": "Agility 为 Digit 5 选用 Nyobolt 快充方案，早期交付预计 2027 年启动"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-16"
+}

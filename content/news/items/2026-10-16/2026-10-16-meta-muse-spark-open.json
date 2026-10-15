@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-16-meta-muse-spark-open",
+  "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+  "publishedAt": "2026-10-15T20:04:53Z",
+  "fact": {
+    "subject": "Meta",
+    "action": "发布",
+    "object": "Muse Spark Open 开放权重多模态模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "313f9e54169f54671cb6aa98ef13cb2ef1b77cc7aea054c9fbd7995e3458ae49",
+    "originalUrl": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "originalPublishedAt": "2026-10-15T20:04:53Z",
+    "checkedAt": "2026-10-15T23:33:13.174Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "313f9e54169f54671cb6aa98ef13cb2ef1b77cc7aea054c9fbd7995e3458ae49",
+      "kind": "fact",
+      "quote": "The new model, which leverages 816 billion parameters and a 1 million token context window, claims to offer superior performance to other popular open-weight models, according to evaluation results released by Meta on Thursday."
+    },
+    {
+      "snapshotId": "313f9e54169f54671cb6aa98ef13cb2ef1b77cc7aea054c9fbd7995e3458ae49",
+      "kind": "condition",
+      "quote": "Muse Spark Open is natively multimodal and built for complex coding tasks and agentic labor. It has also been designed to run locally on Apple’s computers. However, you will still need a lot of power to run the model locally, with a requirement of at least 1 terabyte of RAM,"
+    },
+    {
+      "snapshotId": "313f9e54169f54671cb6aa98ef13cb2ef1b77cc7aea054c9fbd7995e3458ae49",
+      "kind": "condition",
+      "quote": "Meta is making the new model available now through a number of different API platforms."
+    }
+  ],
+  "title": "Meta launches an open-weight AI model that runs on Macs",
+  "displayTitle": "Meta 开放 Muse Spark Open 权重，Mac 本地运行仍需大内存",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Meta",
+    "Muse Spark Open 开放权重多模态模型"
+  ],
+  "fetchedAt": "2026-10-15T20:12:09.642Z",
+  "summary": "Meta 发布 Muse Spark Open 多模态开放权重模型。TechCrunch 报道其总参数 8160 亿、上下文 100 万 token，模型已通过多个 API 平台提供；本地部署虽支持 Apple 芯片，但硬件门槛约 1TB 内存。",
+  "investorNote": "权重开放拓宽部署选择，但超大内存需求使真正的本地使用仍局限于高配工作站；应分别评估权重可得性与推理总成本。",
+  "narrative": "Meta 新发布 Muse Spark Open 开放权重多模态模型，报道给出 8160 亿总参数与 100 万 token 上下文，并称已在多个 API 平台提供。它被设计为在 Apple 芯片上运行，但本地部署仍需约 1TB 内存；“能在 Mac 上跑”目前更接近高配工作站能力，而非一般用户的端侧模型。公开评测中的性能优势来自 Meta 自测，商业价值还要看独立测试与实际推理成本。",
+  "score": 0.93,
+  "duplicateOf": null,
+  "clusterId": "event-58e43d1e3bf16fc1f427dac7",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "Meta 本次开放的是 Muse Spark Open 权重，与 10 月 13 日已报道的 Muse Wonder 系列不同产品动作。"
+  },
+  "eventId": "event-58e43d1e3bf16fc1f427dac7",
+  "occurrenceId": "occ-58e43d1e3bf16fc1f427dac7",
+  "relatedItems": []
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-edae14fb27adc013f7b0996d",
+  "title": "万拿机器人首发 NOVA21 灵巧手，主打 21 个主动自由度与触觉采集",
+  "firstSeen": "2026-10-16",
+  "editionDate": "2026-10-16",
+  "occurrences": [
+    {
+      "id": "occ-edae14fb27adc013f7b0996d",
+      "fact": {
+        "subject": "万拿机器人",
+        "action": "首发",
+        "object": "NOVA21 灵巧手",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-16",
+      "reports": [
+        {
+          "ref": "2026-10-16/2026-10-16-wanna-nova21-dexterous-hand",
+          "itemId": "2026-10-16-wanna-nova21-dexterous-hand",
+          "editionDate": "2026-10-16",
+          "url": "https://www.leiphone.com/category/industrynews/ep1fzlxxZTkWwo67.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "relayer",
+          "publishedAt": "2026-10-15T10:26:00Z",
+          "title": "万拿机器人首发 NOVA21 灵巧手，主打 21 个主动自由度与触觉采集"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-16"
+}

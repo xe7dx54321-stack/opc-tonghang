@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-16-deepmind-antigravity-peptide-workflow",
+  "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+  "publishedAt": "2026-10-15T16:00:00Z",
+  "fact": {
+    "subject": "Google DeepMind",
+    "action": "公布",
+    "object": "Antigravity 抗菌肽研究工作流",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Google DeepMind",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "b244e24dd2252e0148c07c79b0c8b917729a3977a3e95bcc8bed78118fed4f22",
+    "originalUrl": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "originalPublishedAt": "2026-10-15T16:00:00Z",
+    "checkedAt": "2026-10-15T23:33:13.270Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "b244e24dd2252e0148c07c79b0c8b917729a3977a3e95bcc8bed78118fed4f22",
+      "kind": "fact",
+      "quote": "This technical walkthrough shows how biologists used Google Antigravity to uncover a novel antimicrobial peptide candidate which has predicted activity against the pathogens involved in respiratory tract infections. The lead identified here is now undergoing wet-lab validation."
+    },
+    {
+      "snapshotId": "b244e24dd2252e0148c07c79b0c8b917729a3977a3e95bcc8bed78118fed4f22",
+      "kind": "condition",
+      "quote": "This technical walkthrough shows how biologists used Google Antigravity to uncover a novel antimicrobial peptide candidate which has predicted activity against the pathogens involved in respiratory tract infections. The lead identified here is now undergoing wet-lab validation."
+    }
+  ],
+  "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+  "displayTitle": "DeepMind 展示 Antigravity 抗菌肽研究流程，候选仍待湿实验验证",
+  "source": "deepmind",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Google DeepMind",
+    "Antigravity 抗菌肽研究工作流"
+  ],
+  "fetchedAt": "2026-10-15T16:09:39.338Z",
+  "summary": "Google DeepMind 公布研究者借助 Antigravity 与 ProtNLM，从蛋白序列检索到结构和基因邻域分析，找出一条可能有抗菌活性的候选肽。原文明确候选仍在湿实验验证，并介绍新的生物分子结构查看器。",
+  "investorNote": "科研 Agent 的价值在串联异构数据库并缩小实验搜索范围；药效和可转化性仍由实验决定。",
+  "narrative": "Google DeepMind 展示研究者如何在 Antigravity 中联用 ProtNLM、数据库检索和结构分析，筛出一条可能具有抗菌活性的肽，并为湿实验拟定方案。**候选尚在湿实验验证**，原文说的是计算与结构证据支持的线索，不是发现了可用新药。这个案例更能说明科研 Agent 的近期价值：把跨库筛选、证据比对和实验准备放进同一工作流，同时保留研究者对目标和验证步骤的控制。",
+  "score": 0.76,
+  "duplicateOf": null,
+  "clusterId": "event-a784d2366dad716d6a1d8d33",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "这是新的抗菌肽工作流展示，与此前端侧诈骗模型不是同一发生。"
+  },
+  "eventId": "event-a784d2366dad716d6a1d8d33",
+  "occurrenceId": "occ-a784d2366dad716d6a1d8d33",
+  "relatedItems": []
+}

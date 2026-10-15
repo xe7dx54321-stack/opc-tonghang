@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-16-agility-nyobolt-digit5-battery",
+  "url": "https://www.therobotreport.com/agility-robotics-chooses-nyobolt-ultra-fast-charging-digit-5-humanoid/",
+  "publishedAt": "2026-10-15T10:59:24Z",
+  "fact": {
+    "subject": "Agility Robotics",
+    "action": "选择合作供应商",
+    "object": "Digit 5 快充电池系统",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "2c71174e7b6f8f25a9ac2bbe548d6700caea05522d60443eb402712c037003ec",
+    "originalUrl": "https://www.therobotreport.com/agility-robotics-chooses-nyobolt-ultra-fast-charging-digit-5-humanoid/",
+    "originalPublishedAt": "2026-10-15T10:59:24Z",
+    "checkedAt": "2026-10-15T23:33:13.341Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "2c71174e7b6f8f25a9ac2bbe548d6700caea05522d60443eb402712c037003ec",
+      "kind": "fact",
+      "quote": "One of the challenges that humanoid robot designers face is power management. Agility Robotics Inc. today said it is working with Nyobolt on a fast-recharge battery system for its Digit 5 system. The technology will allow the robot to work more than 20 hours in a day, the companies claimed."
+    },
+    {
+      "snapshotId": "2c71174e7b6f8f25a9ac2bbe548d6700caea05522d60443eb402712c037003ec",
+      "kind": "condition",
+      "quote": "robot designed to work in close proximity to people safely and at scale. It will include a new battery system that delivers 90 minutes of runtime and charges in just nine minutes. This 10:1 run-to-charge ratio is an improvement from Digit 4’s 2:1 ratio."
+    },
+    {
+      "snapshotId": "2c71174e7b6f8f25a9ac2bbe548d6700caea05522d60443eb402712c037003ec",
+      "kind": "condition",
+      "quote": "Agility said it expects early access to Digit 5 equipped with Nyobolt’s technology to begin in the first half of 2027. Availability will increase over the following six to nine months, it added."
+    }
+  ],
+  "title": "Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid",
+  "displayTitle": "Agility 为 Digit 5 选用 Nyobolt 快充方案，早期交付预计 2027 年启动",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Agility Robotics",
+    "Digit 5 快充电池系统"
+  ],
+  "fetchedAt": "2026-10-15T11:36:08.240Z",
+  "summary": "The Robot Report 报道 Agility Robotics 与 Nyobolt 合作开发 Digit 5 电池系统。公司称新系统可运行 90 分钟、充电 9 分钟，从而支持每日超过 20 小时的工作目标；搭载方案的 Digit 5 预计 2027 年上半年开始早期交付。",
+  "investorNote": "人形机器人经济性很大部分取决于可用工时；90 分钟续航与 9 分钟快充仍需真实场景验证。",
+  "narrative": "Agility Robotics 选择 Nyobolt 为 Digit 5 开发快充电池。公司给出的目标是 **运行 90 分钟、充电 9 分钟**，希望让机器人在 24 小时内工作超过 20 小时；搭载该方案的 Digit 5 预计到 2027 年上半年才开始早期交付。对仓储和制造客户，续航数字要和充电排队、维护、任务切换一起算，才能变成真实可用工时。今天确认的是供应合作与产品计划，尚不是大规模现场运行数据。",
+  "score": 0.83,
+  "duplicateOf": null,
+  "clusterId": "event-7d63a50591fd579c10ea5867",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "新电池供应合作与前期 Digit 5 本体发布、Agility 管理层任职是不同动作。"
+  },
+  "eventId": "event-7d63a50591fd579c10ea5867",
+  "occurrenceId": "occ-7d63a50591fd579c10ea5867",
+  "relatedItems": []
+}

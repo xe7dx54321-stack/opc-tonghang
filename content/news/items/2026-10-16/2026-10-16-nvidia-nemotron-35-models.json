@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-16-nvidia-nemotron-35-models",
+  "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+  "publishedAt": "2026-10-15T15:00:24Z",
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "发布",
+    "object": "Nemotron 3.5 Super VL 与 Bolt 系列",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "de520afd831f93070afe80de88a5dd9a981b3a5c4689670c36120dc60d9b8557",
+    "originalUrl": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+    "originalPublishedAt": "2026-10-15T15:00:24Z",
+    "checkedAt": "2026-10-15T23:33:13.200Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "de520afd831f93070afe80de88a5dd9a981b3a5c4689670c36120dc60d9b8557",
+      "kind": "fact",
+      "quote": "og:description: NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]"
+    },
+    {
+      "snapshotId": "de520afd831f93070afe80de88a5dd9a981b3a5c4689670c36120dc60d9b8557",
+      "kind": "condition",
+      "quote": "Super VL and Bolt 74B-A9B are available now, with Bolt E4B coming Oct. 23."
+    }
+  ],
+  "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+  "displayTitle": "NVIDIA 发布 Nemotron 3.5 多模态与端侧模型，最小款本月晚些时候推出",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nemotron 3.5 Super VL 与 Bolt 系列"
+  ],
+  "fetchedAt": "2026-10-15T15:39:22.593Z",
+  "summary": "NVIDIA 发布 1200 亿参数 Nemotron 3.5 Super VL，并加入 Bolt 74B-A9B 24GB 与 E4B 4GB 两款面向本地 Agent 的模型。官方称 Super VL 和 74B-A9B 已可获取，E4B 要到 10 月 23 日。",
+  "investorNote": "模型家族横跨数据中心与本地设备，可观察模型能力、显存占用和部署生态能否转化为企业代理工作负载。",
+  "narrative": "NVIDIA 发布 Nemotron 3.5 Super VL 与 Bolt 系列，把多模态 Agent 能力和本地运行放在同一产品线中。官方称 1200 亿参数的 Super VL 与 Bolt 74B-A9B 24GB 已开放，4GB 的 E4B 计划 10 月 23 日推出。需要把“已能下载”和“即将发布”分开；企业采用的关键也不是单项基准分数，而是长期任务的稳定性、显存成本及与现有工具链的适配。",
+  "score": 0.9,
+  "duplicateOf": null,
+  "clusterId": "event-332c4baf3e64d1f4b5821023",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "这是新的 Nemotron 3.5 模型发布，不是前一期 NVIDIA 欧洲投入或 RTX Spark 软件新闻。"
+  },
+  "eventId": "event-332c4baf3e64d1f4b5821023",
+  "occurrenceId": "occ-332c4baf3e64d1f4b5821023",
+  "relatedItems": []
+}

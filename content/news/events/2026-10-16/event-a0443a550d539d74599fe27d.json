@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a0443a550d539d74599fe27d",
+  "title": "台积电确认评估德州扩产并与 Terafab 洽谈，要求由其运营晶圆厂",
+  "firstSeen": "2026-10-16",
+  "editionDate": "2026-10-16",
+  "occurrences": [
+    {
+      "id": "occ-a0443a550d539d74599fe27d",
+      "fact": {
+        "subject": "TSMC",
+        "action": "披露评估与谈判",
+        "object": "美国德州扩产和 Terafab 合作可能性",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-16",
+      "reports": [
+        {
+          "ref": "2026-10-16/2026-10-16-tsmc-texas-terafab-talks",
+          "itemId": "2026-10-16-tsmc-texas-terafab-talks",
+          "editionDate": "2026-10-16",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-it-is-considering-terafab-chipmaking-expansion-with-elon-musk-ceo-insists-tsmc-would-have-to-run-texas-based-project",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-10-15T11:15:39Z",
+          "title": "台积电确认评估德州扩产并与 Terafab 洽谈，要求由其运营晶圆厂"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-16"
+}

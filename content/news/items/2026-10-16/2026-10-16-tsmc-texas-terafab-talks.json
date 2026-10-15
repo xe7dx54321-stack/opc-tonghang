@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-16-tsmc-texas-terafab-talks",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-it-is-considering-terafab-chipmaking-expansion-with-elon-musk-ceo-insists-tsmc-would-have-to-run-texas-based-project",
+  "publishedAt": "2026-10-15T11:15:39Z",
+  "fact": {
+    "subject": "TSMC",
+    "action": "披露评估与谈判",
+    "object": "美国德州扩产和 Terafab 合作可能性",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d42391bc98bdefc1bfa623bcd3d2b2f658c41135ac34a39d6627f81cfa2d2fff",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-it-is-considering-terafab-chipmaking-expansion-with-elon-musk-ceo-insists-tsmc-would-have-to-run-texas-based-project",
+    "originalPublishedAt": "2026-10-15T11:15:39Z",
+    "checkedAt": "2026-10-15T23:33:13.318Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d42391bc98bdefc1bfa623bcd3d2b2f658c41135ac34a39d6627f81cfa2d2fff",
+      "kind": "fact",
+      "quote": "\"We expanded our capacity consideration to see outside Arizona, whether we can get another chance to expand our capacity,\" said C.C. Wei during the company's earnings call with financial analysts and investors. \"Texas is one [of our options]. We sent the teams to Texas to do all the evaluation. We also talked to one of our customers, who is trying to build a fab, Terafab, let me be more specific.\""
+    },
+    {
+      "snapshotId": "d42391bc98bdefc1bfa623bcd3d2b2f658c41135ac34a39d6627f81cfa2d2fff",
+      "kind": "condition",
+      "quote": "\"We are still in discussion,\" Wei replied when asked whether TSMC is not becoming a part of the Terafab project. \"Let me say that. […] Either way, it will be possible, but the fab has to be run by TSMC.\""
+    }
+  ],
+  "title": "TSMC confirms it is considering Terafab chipmaking expansion with Elon Musk",
+  "displayTitle": "台积电确认评估德州扩产并与 Terafab 洽谈，要求由其运营晶圆厂",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "TSMC",
+    "美国德州扩产和 Terafab 合作可能性"
+  ],
+  "fetchedAt": "2026-10-15T11:36:09.105Z",
+  "summary": "台积电董事长魏哲家在财报电话会上表示，正评估亚利桑那州以外的美国产能，德州是选项之一，也与 Terafab 洽谈使用产能。他同时强调，若参与该项目，晶圆厂必须由台积电运营，双方尚未达成协议。",
+  "investorNote": "合作是否落地取决于运营控制权，而不是仅看潜在投资金额或厂房选址。",
+  "narrative": "台积电董事长魏哲家在财报电话会上确认，公司已派团队评估德州，亦在与 Elon Musk 的 Terafab 讨论产能使用。他给出的边界很清楚：**若台积电参与，晶圆厂必须由台积电运营**。双方仍在讨论，没有公布合作协议或建厂决定。对晶圆代工来说，谁控制工艺、良率和运营比选址更关键；因此现阶段更适合跟踪谈判条件，而非把 Terafab 写成台积电已确定的新厂。",
+  "score": 0.75,
+  "duplicateOf": null,
+  "clusterId": "event-a0443a550d539d74599fe27d",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "这是财报电话会披露的谈判条件，不等于 TSMC 另一座 3nm 厂的已确定建设动作。"
+  },
+  "eventId": "event-a0443a550d539d74599fe27d",
+  "occurrenceId": "occ-a0443a550d539d74599fe27d",
+  "relatedItems": []
+}
