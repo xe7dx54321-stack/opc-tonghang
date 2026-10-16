@@ -1,0 +1,61 @@
+{
+  "id": "2026-10-17-taiwan-texas-chip-park",
+  "title": "Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "台湾经济部门",
+    "TSMC",
+    "Foxconn"
+  ],
+  "publishedAt": "2026-10-16T11:57:18Z",
+  "fetchedAt": "2026-10-16T12:21:35.444Z",
+  "summary": "Tom’s Hardware 10 月 16 日援引 Bloomberg 等消息报道，台湾拟通过电电公会筹资至少 40 亿美元，在得州建产业园，协助中小供应商跟随大型制造商在美国布局；经济部门称将提供贷款担保等支持。地块与多个园区计划尚未公布完整细节。",
+  "investorNote": "半导体供应链赴美的瓶颈开始从龙头晶圆厂转向无法独自承担建厂成本的中小配套企业。",
+  "score": 0.68,
+  "duplicateOf": null,
+  "clusterId": "event-5bad5257de2f25ffdca4f1b0",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "台湾经济部门",
+    "action": "公布筹资计划",
+    "object": "得州半导体供应链产业园",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "f0952d4bce77e2a2abae238ee110a8c8aa7f585ff2e21b321f1ef0925d8ffb1a",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain",
+    "originalPublishedAt": "2026-10-16T11:57:18Z",
+    "checkedAt": "2026-10-16T23:33:41.606Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "f0952d4bce77e2a2abae238ee110a8c8aa7f585ff2e21b321f1ef0925d8ffb1a",
+      "kind": "fact",
+      "quote": "Taiwan is raising at least $4 billion through the Taiwan Electrical and Electronic Manufacturers’ Association to build an industrial park in Texas. According to Bloomberg , the site is designed to support the countless smaller manufacturers that major manufacturers like TSMC and Foxconn rely on. Go deeper with TH Premium: Chipmaking (Image credit: tsmc) Analyzing TSMC's fab expansion roadmap — multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks Leading-edge foundry roadmaps for TSMC, Intel, and Samsung ASML's roadmap for chipmaking lithography tools examined Chinese chipmaking tool roadmaps examined “We are going to establish a long-term, sustainable supply chain there that can also be"
+    },
+    {
+      "snapshotId": "f0952d4bce77e2a2abae238ee110a8c8aa7f585ff2e21b321f1ef0925d8ffb1a",
+      "kind": "condition",
+      "quote": "Taiwan has reportedly secured a piece of land in Texas specifically for this project, but the Ministry of Economic Affairs didn’t give out any details yet, saying that it will elaborate on the project later. It’s also not limiting itself to a single industrial park, with the government saying that it’s planning for “more than one” site that would cost between $2 billion and $4 billion. You may like TSMC confirms it is considering Terafab chipmaking expansion with Elon Musk Elon Musk confirms discussions with TSMC about Terafab chipmaking collaboration GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US While the U.S. government hasn’t commented on Taiwan’s industrial pa"
+    }
+  ],
+  "displayTitle": "台湾拟筹资至少 40 亿美元建得州芯片配套园区",
+  "narrative": "台湾方面计划通过行业组织筹资至少 40 亿美元，在美国得州建设产业园，给跟随 TSMC、Foxconn 等大型客户赴美的中小零部件与材料供应商提供落脚点。Tom’s Hardware 称，经济部门还计划提供贷款担保及许可协调；具体地块与园区方案尚待公布。产业链本地化的下一道成本题，正在从龙头厂房延伸到难以单独负担海外落地的配套企业。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文所述具体动作与历史候选没有可确认的同次发生或直接后续关系"
+  },
+  "eventId": "event-5bad5257de2f25ffdca4f1b0",
+  "occurrenceId": "occ-5bad5257de2f25ffdca4f1b0",
+  "relatedItems": []
+}

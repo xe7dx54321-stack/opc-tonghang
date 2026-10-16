@@ -1,0 +1,61 @@
+{
+  "id": "2026-10-17-replit-anthropic-partnership",
+  "title": "Replit is no longer working with Anthropic, CEO says",
+  "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Replit",
+    "Anthropic",
+    "OpenAI"
+  ],
+  "publishedAt": "2026-10-16T21:22:28+00:00",
+  "fetchedAt": "2026-10-16T21:28:38.332Z",
+  "summary": "TechCrunch 10 月 16 日报道，Replit CEO Amjad Masad 在 Disrupt 现场称公司已不再与 Anthropic 合作，理由包括成本及内部评测表现；匿名知情人士向该媒体否认合作已终止，媒体表示正向 Replit 寻求进一步澄清。",
+  "investorNote": "AI 编程平台的模型供应商选择正在由成本和任务效果共同驱动，但双方合同状态尚不能作确定性判断。",
+  "score": 0.67,
+  "duplicateOf": null,
+  "clusterId": "event-64a407052ee842973eea9747",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Replit",
+    "action": "首席执行官称停止合作",
+    "object": "Anthropic 模型合作关系",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "0a30c74fed3591b6953bc97b1d9b5ac2785085d9af741785a23349b869d0570d",
+    "originalUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "originalPublishedAt": "2026-10-16T21:22:28+00:00",
+    "checkedAt": "2026-10-16T23:33:41.362Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "0a30c74fed3591b6953bc97b1d9b5ac2785085d9af741785a23349b869d0570d",
+      "kind": "fact",
+      "quote": "Replit, the AI coding platform that has become a favorite of startup founders and developers, is no longer working with Anthropic, the company’s CEO and co-founder Amjad Masad said Thursday while onstage at TechCrunch Disrupt . Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic. “I think ChatGPT is better now,” Masad said, adding that the company uses an internal benchmark to help assess metrics like performance. “We publish a public benchmark as well, and consistently, Sol and Astra perform better on building vibe-coded applications f"
+    },
+    {
+      "snapshotId": "0a30c74fed3591b6953bc97b1d9b5ac2785085d9af741785a23349b869d0570d",
+      "kind": "condition",
+      "quote": "Masad’s comments were rejected by insiders familiar with the partnership between the Anthropic and Replit, however. One person familiar, who asked not to be named, said the partnership was still in place. There is evidence on the company’s website , blog posts, and social media posts that Replit was using Anthropic products as recently as a few weeks ago. For instance, a blog post in late September cites Anthropic’s Claude Fable 5 and Claude Fable 5.1 as models running in Replit Agent’s production environment. Around the same time, one of Replit’s product employees posted on X about using Anthropic’s flagship model Opus 5.5 and promoting its capabilities. TechCrunch reached back out to Repli"
+    }
+  ],
+  "displayTitle": "Replit CEO 称已停用 Anthropic 合作，关系状态仍有争议",
+  "narrative": "Replit CEO Amjad Masad 在 TechCrunch Disrupt 称公司“不再与 Anthropic 合作”，提到成本以及其内部基准比较；但 TechCrunch 同时引述匿名知情人士称合作仍在，并指出近期产品资料仍列有 Claude。眼下可以确认的是 CEO 的公开表态与供应商取舍逻辑，不能据此断言合同已经终止。AI 编程产品的模型采购正在被具体任务表现和价格重新排序。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文所述具体动作与历史候选没有可确认的同次发生或直接后续关系"
+  },
+  "eventId": "event-64a407052ee842973eea9747",
+  "occurrenceId": "occ-64a407052ee842973eea9747",
+  "relatedItems": []
+}

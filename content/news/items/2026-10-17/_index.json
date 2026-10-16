@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-17",
+  "itemCount": 9,
+  "storyCount": 9,
+  "clusterCount": 9,
+  "files": [
+    "2026-10-17-anthropic-ecdsa-origins.json",
+    "2026-10-17-anthropic-quantum-circuits.json",
+    "2026-10-17-aws-beam-availability.json",
+    "2026-10-17-replit-anthropic-partnership.json",
+    "2026-10-17-waymo-toronto.json",
+    "2026-10-17-chatgpt-chrome-tabs.json",
+    "2026-10-17-china-ai-export-draft.json",
+    "2026-10-17-langdao-euv-source.json",
+    "2026-10-17-taiwan-texas-chip-park.json"
+  ],
+  "representatives": [
+    "2026-10-17-anthropic-ecdsa-origins",
+    "2026-10-17-anthropic-quantum-circuits",
+    "2026-10-17-aws-beam-availability",
+    "2026-10-17-replit-anthropic-partnership",
+    "2026-10-17-waymo-toronto",
+    "2026-10-17-chatgpt-chrome-tabs",
+    "2026-10-17-china-ai-export-draft",
+    "2026-10-17-langdao-euv-source",
+    "2026-10-17-taiwan-texas-chip-park"
+  ]
+}

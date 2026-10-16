@@ -1,0 +1,13 @@
+{
+  "snapshotId": "aa0adced808fad69d0237fc3d5b27f6aa3dacfe3f8d482d9916002dc0d1e44bc",
+  "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
+  "publishedAt": "2026-10-16T17:42:47+00:00",
+  "publishedAtQuote": "2026-10-16T17:42:47+00:00",
+  "retrievedAt": "2026-10-16T23:33:41.479Z",
+  "method": "agent-tool",
+  "contentHash": "c5a4b57d8a4c78e296b0cef2dc234672b016bcfe3f5dcc205749280133919291",
+  "quotations": [
+    "China's commerce and science ministries have released a draft update to the nation's list of banned and restricted export technologies. The catalog targets 23 key AI technologies across large models, agents, compute clusters, and data processing. AI tools that can write or alter malware on their own to attack critical infrastructure, the military, or government agencies face a total export ban. Certain AI tools for finding software vulnerabilities won't be banned outright, though they will face new export limits. Large AI models also face export controls in two cases. The first covers models trained on China's \"important data\" (as defined by the country's Data Security Law and related rules)",
+    "The catalog targets 23 key AI technologies across large models, agents, compute clusters, and data processing. AI tools that can write or alter malware on their own to attack critical infrastructure, the military, or government agencies face a total export ban. Certain AI tools for finding software vulnerabilities won't be banned outright, though they will face new export limits. Large AI models also face export controls in two cases. The first covers models trained on China's \"important data\" (as defined by the country's Data Security Law and related rules) that offer services based on it. Lawfully public data is exempt. Tiny amounts of up to 0.1 percent are also allowed if the data was cle"
+  ]
+}

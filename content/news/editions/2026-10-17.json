@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-17",
+  "window": {
+    "start": 1792107000000,
+    "end": 1792193400000
+  },
+  "digestHash": "2f46d6fea8e7a6ef7364c5be1457593340a60bc9de084d5172abd79e75c9d3c9",
+  "stories": [
+    {
+      "heading": "中国拟修订 AI 技术出口目录，模型权重等纳入限制草案",
+      "itemId": "2026-10-17-china-ai-export-draft",
+      "eventId": "event-0585c2fb6575bbefeedf1be5",
+      "occurrenceId": "occ-0585c2fb6575bbefeedf1be5"
+    },
+    {
+      "heading": "Beam 权重兑现开放承诺，AWS 同步提供托管部署",
+      "itemId": "2026-10-17-aws-beam-availability",
+      "eventId": "event-c2f315ab4e1d4c4b66e9d044",
+      "occurrenceId": "occ-3f90958a850f4ecdfae0fab6"
+    },
+    {
+      "heading": "Anthropic 披露 Claude 优化八类量子电路，改进仍待实际硬件检验",
+      "itemId": "2026-10-17-anthropic-quantum-circuits",
+      "eventId": "event-669e12b63f7882e03c2a0cce",
+      "occurrenceId": "occ-669e12b63f7882e03c2a0cce"
+    },
+    {
+      "heading": "ChatGPT Chrome 扩展可读取并操作标签页，浏览器成 Agent 执行入口",
+      "itemId": "2026-10-17-chatgpt-chrome-tabs",
+      "eventId": "event-a202d05bcc4468316744f41c",
+      "occurrenceId": "occ-a202d05bcc4468316744f41c"
+    },
+    {
+      "heading": "Replit CEO 称已停用 Anthropic 合作，关系状态仍有争议",
+      "itemId": "2026-10-17-replit-anthropic-partnership",
+      "eventId": "event-64a407052ee842973eea9747",
+      "occurrenceId": "occ-64a407052ee842973eea9747"
+    },
+    {
+      "heading": "国产 EUV 光源原型亮相，15W 指标与量产能力仍需实测",
+      "itemId": "2026-10-17-langdao-euv-source",
+      "eventId": "event-9bbde9454a2e407c1e8e688c",
+      "occurrenceId": "occ-9bbde9454a2e407c1e8e688c"
+    },
+    {
+      "heading": "台湾拟筹资至少 40 亿美元建得州芯片配套园区",
+      "itemId": "2026-10-17-taiwan-texas-chip-park",
+      "eventId": "event-5bad5257de2f25ffdca4f1b0",
+      "occurrenceId": "occ-5bad5257de2f25ffdca4f1b0"
+    },
+    {
+      "heading": "Waymo 宣布进入多伦多，先人工测绘、目标 2028 年载客",
+      "itemId": "2026-10-17-waymo-toronto",
+      "eventId": "event-bc3fb270f38ef938d9b4ad07",
+      "occurrenceId": "occ-bc3fb270f38ef938d9b4ad07"
+    },
+    {
+      "heading": "Anthropic 用 Claude 追溯 ECDSA 曲线种子来源，但未发现密码学破解",
+      "itemId": "2026-10-17-anthropic-ecdsa-origins",
+      "eventId": "event-f107c564c18c37e547f7440c",
+      "occurrenceId": "occ-f107c564c18c37e547f7440c"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-17-anthropic-ecdsa-origins.json": "02be8dadd142a2bad3acb57f84ba064c8381365dbf5113ac1f64f4454be28b48",
+    "2026-10-17-anthropic-quantum-circuits.json": "273c24814e1e9bc4060982b187bef570e907239ff4c2b0145e8c96b90258612d",
+    "2026-10-17-aws-beam-availability.json": "4a6738f5a33cd1162db6926a15fd4f3ff42d9ee462f2bde09be3e48147296c86",
+    "2026-10-17-chatgpt-chrome-tabs.json": "9c4635c1d6502e33eb7005ec27673a3403e3c917f1456416cf0f99450ba8e701",
+    "2026-10-17-china-ai-export-draft.json": "9958c44c0a1b34fe42125ceb381d3f4c946339e137a1d1d2bfc5f687c31d9fe1",
+    "2026-10-17-langdao-euv-source.json": "ba73877603d050333d9467be5460e0fd5db7a5670a6d67b3a34b243a6e07722e",
+    "2026-10-17-replit-anthropic-partnership.json": "04023cef61774664b2acdc423bda8266530df185bce15110336bda121ea3e14e",
+    "2026-10-17-taiwan-texas-chip-park.json": "89b209e01e7639a7db2b2429aa73c3812fb53600ef738045ea1bbc41bc97c9d9",
+    "2026-10-17-waymo-toronto.json": "af5f1394b73c5bd11329e065fe19f7de6bcc6edc5a6dce4614d4c20253b7017f"
+  },
+  "evidenceHashes": {
+    "0a30c74fed3591b6953bc97b1d9b5ac2785085d9af741785a23349b869d0570d.json": "f01fcd61944f44e1b19aa62d80a58268866af825f095f58756746dd680879c0d",
+    "5199422b0ded4424f6ca6e210c49aa058b9432c2faf098d4f5df1c75c1892fe8.json": "0ea1004d00315d8c6947a99f04683fdbdc475a9ccedee00fdcbde31775ee6f01",
+    "6bbae55438fa2a6023eeff7b65a06545f916f4e8b193cb249d8dda38c5e3c61b.json": "2f78eb47fdf3b086bcce76780897a7463a4d379a929c2883a384054b86b6eeec",
+    "a1a10bf800ee10a4329633d966e6b964bc2142dbf79dcc42c23b0bc53900be9c.json": "b31f84851ce533291369bc7f6fdfc4e5e42276401b80e4bba346088ee073b52b",
+    "a49932d0eaef8832657b21d1c6c89cdc58dca03a56934e01d707b0f95a975d52.json": "45ba1c8e2140a2e678b718785580852e8e66082aa49db488f51f249c91bc038d",
+    "aa0adced808fad69d0237fc3d5b27f6aa3dacfe3f8d482d9916002dc0d1e44bc.json": "a55fd6faa3d1bccc119867191ec86a006a245bf8feae3a4b64d1214de31ebaf9",
+    "d723f3e0a913e0355121929512658c2bf3aabcb905713ca7968d48496cbdff91.json": "3600e5f15387597d29a816475d5bc3cbe8def1e494c362626f114c1196221273",
+    "dd0a848c06f6aca6b5ee3a8e4cdf4452f8838d4056b0925286767361c93f9c30.json": "2c7cbab35735a3f747ef185a8e7d1acd44384e6c4df0c9035b04cb10d41bc029",
+    "f0952d4bce77e2a2abae238ee110a8c8aa7f585ff2e21b321f1ef0925d8ffb1a.json": "fddf57d7b0333148c41cec8c0e44bad20788ac493cff0d18b8e7653eedf04137"
+  },
+  "eventsHashes": {
+    "event-0585c2fb6575bbefeedf1be5.json": "6419f1992f33a7665c60dce0a2a9dac683162688b57d81ff0955e7dd23a0cacb",
+    "event-5bad5257de2f25ffdca4f1b0.json": "ce540323ff9333743f5fd322bda505c653ee558a5fcdb353c87c3645212ec18c",
+    "event-64a407052ee842973eea9747.json": "71ae0d190a02661f452a4379888d870e6ed1840887e5c61bd2b16200ce7fac5f",
+    "event-669e12b63f7882e03c2a0cce.json": "a7d5d5aaa6a74b083e589ccdb71dd6419bfea1e362cbacc078e947db031dd7b5",
+    "event-9bbde9454a2e407c1e8e688c.json": "7f99619dd0a3a3a503863618a51ea3d9424c68266a1f5dfb5a58ac8c372d4cef",
+    "event-a202d05bcc4468316744f41c.json": "d9a0b4438eae7b94f73311cc874b46b8c7f2c114ed14be08c6009e28373dbe9c",
+    "event-bc3fb270f38ef938d9b4ad07.json": "0f1b20cab261424f27ccfd87daa6ff02461478662c39a08bfeb4d1e40360ae1c",
+    "event-c2f315ab4e1d4c4b66e9d044.json": "b6da3df649d2c914d6388b09f64626cdaa3d92844ac18649537260db286c99ec",
+    "event-f107c564c18c37e547f7440c.json": "e8ec65e4b898563be4b0d2453704c47175d2a0526649f85701869e1dde417ce7"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-f107c564c18c37e547f7440c",
+  "title": "Anthropic 用 Claude 追溯 ECDSA 曲线种子来源，但未发现密码学破解",
+  "firstSeen": "2026-10-17",
+  "editionDate": "2026-10-17",
+  "occurrences": [
+    {
+      "id": "occ-f107c564c18c37e547f7440c",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "公布研究结果",
+        "object": "ECDSA 标准曲线种子的生成来源",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-17",
+      "reports": [
+        {
+          "ref": "2026-10-17/2026-10-17-anthropic-ecdsa-origins",
+          "itemId": "2026-10-17-anthropic-ecdsa-origins",
+          "editionDate": "2026-10-17",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "source": "anthropic-official",
+          "owner": "Anthropic",
+          "role": "principal",
+          "publishedAt": "2026-10-16T17:02:00.000Z",
+          "title": "Anthropic 用 Claude 追溯 ECDSA 曲线种子来源，但未发现密码学破解"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-17"
+}

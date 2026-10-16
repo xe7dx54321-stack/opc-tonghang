@@ -1,0 +1,62 @@
+{
+  "id": "2026-10-17-china-ai-export-draft",
+  "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
+  "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "中国商务部",
+    "科技部",
+    "AI 出口管制"
+  ],
+  "publishedAt": "2026-10-16T17:42:47+00:00",
+  "fetchedAt": "2026-10-16T18:26:48.546Z",
+  "summary": "The Decoder 10 月 16 日报道，中国商务部和科技部发布禁止及限制出口技术目录修订草案，覆盖 23 类 AI 技术。达到特定训练算力、参数或排名门槛的大模型核心技术，包括权重、检查点、源码与训练推理方法，拟受出口限制；开源发布拟适用备案后的便利许可。草案尚非已生效规则。",
+  "investorNote": "如果最终落地，跨境模型部署和权重分发的合规路径将改变；当前只能按草案情景评估。",
+  "score": 0.86,
+  "duplicateOf": null,
+  "clusterId": "event-0585c2fb6575bbefeedf1be5",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "中国商务部与科技部",
+    "action": "发布征求意见稿",
+    "object": "人工智能关键技术出口限制目录修订",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "aa0adced808fad69d0237fc3d5b27f6aa3dacfe3f8d482d9916002dc0d1e44bc",
+    "originalUrl": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
+    "originalPublishedAt": "2026-10-16T17:42:47+00:00",
+    "checkedAt": "2026-10-16T23:33:41.479Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "aa0adced808fad69d0237fc3d5b27f6aa3dacfe3f8d482d9916002dc0d1e44bc",
+      "kind": "fact",
+      "quote": "China's commerce and science ministries have released a draft update to the nation's list of banned and restricted export technologies. The catalog targets 23 key AI technologies across large models, agents, compute clusters, and data processing. AI tools that can write or alter malware on their own to attack critical infrastructure, the military, or government agencies face a total export ban. Certain AI tools for finding software vulnerabilities won't be banned outright, though they will face new export limits. Large AI models also face export controls in two cases. The first covers models trained on China's \"important data\" (as defined by the country's Data Security Law and related rules)"
+    },
+    {
+      "snapshotId": "aa0adced808fad69d0237fc3d5b27f6aa3dacfe3f8d482d9916002dc0d1e44bc",
+      "kind": "condition",
+      "quote": "The catalog targets 23 key AI technologies across large models, agents, compute clusters, and data processing. AI tools that can write or alter malware on their own to attack critical infrastructure, the military, or government agencies face a total export ban. Certain AI tools for finding software vulnerabilities won't be banned outright, though they will face new export limits. Large AI models also face export controls in two cases. The first covers models trained on China's \"important data\" (as defined by the country's Data Security Law and related rules) that offer services based on it. Lawfully public data is exempt. Tiny amounts of up to 0.1 percent are also allowed if the data was cle"
+    }
+  ],
+  "displayTitle": "中国拟修订 AI 技术出口目录，模型权重等纳入限制草案",
+  "narrative": "据 The Decoder 对部门草案的报道，中国拟调整禁止及限制出口技术目录，覆盖模型、Agent、算力集群等 23 类 AI 技术。达到指定训练算力、参数量或排名门槛的模型权重、检查点和源码，可能进入许可范围；草案同时给开源发布设计备案便利路径。它目前是征求意见阶段，不能写成已生效禁令。跨境模型分发与海外本地部署的合规成本，是后续最值得核对的实际变量。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文所述具体动作与历史候选没有可确认的同次发生或直接后续关系"
+  },
+  "eventId": "event-0585c2fb6575bbefeedf1be5",
+  "occurrenceId": "occ-0585c2fb6575bbefeedf1be5",
+  "relatedItems": []
+}

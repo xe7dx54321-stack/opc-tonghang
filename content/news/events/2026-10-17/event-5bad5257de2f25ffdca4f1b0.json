@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-5bad5257de2f25ffdca4f1b0",
+  "title": "台湾拟筹资至少 40 亿美元建得州芯片配套园区",
+  "firstSeen": "2026-10-17",
+  "editionDate": "2026-10-17",
+  "occurrences": [
+    {
+      "id": "occ-5bad5257de2f25ffdca4f1b0",
+      "fact": {
+        "subject": "台湾经济部门",
+        "action": "公布筹资计划",
+        "object": "得州半导体供应链产业园",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-17",
+      "reports": [
+        {
+          "ref": "2026-10-17/2026-10-17-taiwan-texas-chip-park",
+          "itemId": "2026-10-17-taiwan-texas-chip-park",
+          "editionDate": "2026-10-17",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "relayer",
+          "publishedAt": "2026-10-16T11:57:18Z",
+          "title": "台湾拟筹资至少 40 亿美元建得州芯片配套园区"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-17"
+}

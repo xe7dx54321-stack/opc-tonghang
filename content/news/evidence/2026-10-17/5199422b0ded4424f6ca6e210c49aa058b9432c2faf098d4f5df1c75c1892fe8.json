@@ -1,0 +1,13 @@
+{
+  "snapshotId": "5199422b0ded4424f6ca6e210c49aa058b9432c2faf098d4f5df1c75c1892fe8",
+  "url": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
+  "publishedAt": "2026-10-16T07:23:10-08:00",
+  "publishedAtQuote": "2026-10-16T07:23:10-08:00",
+  "retrievedAt": "2026-10-16T23:33:41.310Z",
+  "method": "agent-tool",
+  "contentHash": "e08f282ddc197c6cd6f4e16af62b4b54912b0a46fb7f887c8eb96a0590425c11",
+  "quotations": [
+    "At launch, Beam is available in Amazon SageMaker JumpStart in US East (N. Virginia) and US East (Ohio). Reflection’s vision for open intelligence Reflection’s mission is to make intelligence open and accessible to all through open model weights, published research, and open source software. Its full AI stack spans models, core software, production infrastructure, and applications. Beam brings this approach to developers building software engineering and agentic systems. About Reflection Beam Beam is a sparse mixture-of-experts model for resolving software issues, modifying code, calling tools, and acting on intermediate results. It has 501 billion total parameters and 23 billion active param",
+    "Reflection releases Beam’s weights through Hugging Face under the Apache 2.0 license. Beam 1.0 is available in BF16, FP8, and NVFP4 checkpoint variants. These formats provide different memory footprints and hardware compatibility. You can deploy the model with the AWS managed JumpStart container configuration or inspect and customize the model with SGLang or vLLM in your AWS environment. Understand the deployment architecture Choose the serving path that meets your control and scaling requirements. Start with a SageMaker JumpStart real-time endpoint when you want an AWS managed model package, endpoint, and invocation API without operating Kubernetes. Use JumpStart on HyperPod Inference when"
+  ]
+}

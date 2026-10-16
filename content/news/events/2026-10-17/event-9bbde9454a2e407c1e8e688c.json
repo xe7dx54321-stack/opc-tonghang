@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-9bbde9454a2e407c1e8e688c",
+  "title": "国产 EUV 光源原型亮相，15W 指标与量产能力仍需实测",
+  "firstSeen": "2026-10-17",
+  "editionDate": "2026-10-17",
+  "occurrences": [
+    {
+      "id": "occ-9bbde9454a2e407c1e8e688c",
+      "fact": {
+        "subject": "Langdao Silex",
+        "action": "展示",
+        "object": "EUV 光源原型机",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-17",
+      "reports": [
+        {
+          "ref": "2026-10-17/2026-10-17-langdao-euv-source",
+          "itemId": "2026-10-17-langdao-euv-source",
+          "editionDate": "2026-10-17",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-10-16T16:30:00Z",
+          "title": "国产 EUV 光源原型亮相，15W 指标与量产能力仍需实测"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-17"
+}

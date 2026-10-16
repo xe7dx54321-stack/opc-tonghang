@@ -1,0 +1,60 @@
+{
+  "id": "2026-10-17-langdao-euv-source",
+  "title": "China startup demoes prototype EUV light source",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Langdao Silex",
+    "EUV"
+  ],
+  "publishedAt": "2026-10-16T16:30:00Z",
+  "fetchedAt": "2026-10-16T16:56:04.315Z",
+  "summary": "Tom’s Hardware 10 月 16 日报道，中国初创公司 Langdao Silex 展示 EUV 光源原型，并自称输出功率超过 15W、国产部件占 90%。报道强调现场未点亮展示，15W 的测量位置未披露，不能与光刻机中间焦点处功率直接比较，更不能视作完整 EUV 光刻机。",
+  "investorNote": "光源是重要部件，但产业化判断需要中间焦点有效功率、长期稳定性及与整机系统集成的独立数据。",
+  "score": 0.72,
+  "duplicateOf": null,
+  "clusterId": "event-9bbde9454a2e407c1e8e688c",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Langdao Silex",
+    "action": "展示",
+    "object": "EUV 光源原型机",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "a1a10bf800ee10a4329633d966e6b964bc2142dbf79dcc42c23b0bc53900be9c",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability",
+    "originalPublishedAt": "2026-10-16T16:30:00Z",
+    "checkedAt": "2026-10-16T23:33:41.540Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "a1a10bf800ee10a4329633d966e6b964bc2142dbf79dcc42c23b0bc53900be9c",
+      "kind": "fact",
+      "quote": "This week, Chinese startup Langdao Silex demonstrated a prototype extreme ultraviolet (EUV) light source with over 15W of output power, 90% domestic components, and decent uptime. The company will need another three to five years to commercialize its technology, reports TrendForce, citing various sources. Yet, a light source alone does not make an EUV scanner. Go deeper with TH Premium: Chipmaking (Image credit: tsmc) Analyzing TSMC's fab expansion roadmap — multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks Leading-edge foundry roadmaps for TSMC, Intel, and Samsung ASML's roadmap for chipmaking lithography tools examined Chinese chipmaking tool roadmaps examined An LPP EUV source fro"
+    },
+    {
+      "snapshotId": "a1a10bf800ee10a4329633d966e6b964bc2142dbf79dcc42c23b0bc53900be9c",
+      "kind": "condition",
+      "quote": "Langdao Silex has not demonstrated its EUV light source in action, so all we know about it comes from the company itself. As noted, 15W power looks comparable to early EUV sources developed by Philips Extreme UV (DPP) and Cymer (LPP). Meanwhile, early NXE:3400-series machines came with 125W – 150W at intermediate focus sources, which was far from enough for high-volume manufacturing (HVM). (Image credit: Langdao Silex) Modern EUV lithography equipment comes with considerably more powerful sources. ASML introduced 250W-class EUV sources for commercial production in 2018 – 2019 and has since achieved substantially higher output levels. Increasing output requires more powerful CO₂ lasers, highl"
+    }
+  ],
+  "displayTitle": "国产 EUV 光源原型亮相，15W 指标与量产能力仍需实测",
+  "narrative": "Langdao Silex 展示了一台 EUV 光源原型，称输出超过 15W、九成部件国产。Tom’s Hardware 指出，现场并未实际点亮，厂商也没有说明 15W 测在等离子体处还是光刻设备的中间焦点；两种位置的数字不可直接相比。光源是国产 EUV 链条中有意义的一环，但现阶段既没有可独立复核的功率与稳定性数据，也谈不上完整光刻机具备量产能力。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文所述具体动作与历史候选没有可确认的同次发生或直接后续关系"
+  },
+  "eventId": "event-9bbde9454a2e407c1e8e688c",
+  "occurrenceId": "occ-9bbde9454a2e407c1e8e688c",
+  "relatedItems": []
+}

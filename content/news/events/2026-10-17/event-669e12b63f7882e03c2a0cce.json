@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-669e12b63f7882e03c2a0cce",
+  "title": "Anthropic 披露 Claude 优化八类量子电路，改进仍待实际硬件检验",
+  "firstSeen": "2026-10-17",
+  "editionDate": "2026-10-17",
+  "occurrences": [
+    {
+      "id": "occ-669e12b63f7882e03c2a0cce",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "发布研究",
+        "object": "Claude 优化八类量子计算基础电路",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-17",
+      "reports": [
+        {
+          "ref": "2026-10-17/2026-10-17-anthropic-quantum-circuits",
+          "itemId": "2026-10-17-anthropic-quantum-circuits",
+          "editionDate": "2026-10-17",
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "anthropic-official",
+          "owner": "Anthropic",
+          "role": "principal",
+          "publishedAt": "2026-10-16T17:29:00.000Z",
+          "title": "Anthropic 披露 Claude 优化八类量子电路，改进仍待实际硬件检验"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-17"
+}

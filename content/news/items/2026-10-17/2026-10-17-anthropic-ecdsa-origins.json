@@ -1,0 +1,61 @@
+{
+  "id": "2026-10-17-anthropic-ecdsa-origins",
+  "title": "Claude reveals ECDSA curve origins",
+  "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+  "source": "anthropic-official",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude",
+    "ECDSA"
+  ],
+  "publishedAt": "2026-10-16T17:02:00.000Z",
+  "fetchedAt": "2026-10-16T18:57:15.567Z",
+  "summary": "Anthropic 10 月 16 日公布研究：Claude 通过识别旧式伪随机数生成器及时间戳，解释了多组 NIST/ANSI 椭圆曲线种子的生成路径。公司明确表示这不是破解或新攻击；仍有 B-163 等参数来源未解。",
+  "investorNote": "这展示了模型在代码考古与数学搜索上的研究辅助能力；安全结论仍以可复现方法和未解部分为界。",
+  "score": 0.62,
+  "duplicateOf": null,
+  "clusterId": "event-f107c564c18c37e547f7440c",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "公布研究结果",
+    "object": "ECDSA 标准曲线种子的生成来源",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Anthropic",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "dd0a848c06f6aca6b5ee3a8e4cdf4452f8838d4056b0925286767361c93f9c30",
+    "originalUrl": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "originalPublishedAt": "2026-10-16T17:02:00.000Z",
+    "checkedAt": "2026-10-16T23:33:41.203Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "dd0a848c06f6aca6b5ee3a8e4cdf4452f8838d4056b0925286767361c93f9c30",
+      "kind": "fact",
+      "quote": "This is not a cryptographic break, new attack, or weakness in the ECDSA curves. In fact, this makes us more confident the curves were chosen without any backdoors or intentional weaknesses. For many years, people have been suspicious of the origins of the NIST curve parameters. They were presented to NIST without any mention of how they were chosen, leaving people wondering if they may have been chosen to have deliberate backdoors in them. These findings make that much less plausible. The seeds were generated in a very simple way: a common pseudorandom number generator initialized from the clock, which anyone can now reproduce. That leaves much less room for subversion and that we can be con"
+    },
+    {
+      "snapshotId": "dd0a848c06f6aca6b5ee3a8e4cdf4452f8838d4056b0925286767361c93f9c30",
+      "kind": "condition",
+      "quote": "There is also one seed we were unable to recover. The fifth binary seed, B-163, fits nothing Claude has tried and remains unexplained. Finally, we don’t know how the base points for P-224, P-256, P-384, and P-521 were generated. The same goes for the NIST binary curves. The bounty The $36,864 for finding the seeds will be donated to the Internet Security Research Group . Who we are This work was conducted at Anthropic by John Wood, Henry de Valence, Ava Howell, Zack Voase, Lucy Sweet, Amir Omidi, Paul Crowley, Iain McGinniss, Nicholas Carlini, and Steve Weis. Acknowledgements We would like to posthumously recognize Jerry Solinas who took being labeled an “ evil Internet meme ” and the “ Yo L"
+    }
+  ],
+  "displayTitle": "Anthropic 用 Claude 追溯 ECDSA 曲线种子来源，但未发现密码学破解",
+  "narrative": "Anthropic 发表研究，称 Claude 从旧式伪随机数生成器和时间戳中复原出多组 ECDSA 标准曲线种子的生成路径，填补了长期缺失的来源说明。公司同时强调，这不是 ECDSA 被破解，也没有发现新攻击；B-163 等参数仍未解释。对模型能力的信号在于跨代码、数学与历史线索的搜索，而不是密码体系出现紧急风险。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文所述具体动作与历史候选没有可确认的同次发生或直接后续关系"
+  },
+  "eventId": "event-f107c564c18c37e547f7440c",
+  "occurrenceId": "occ-f107c564c18c37e547f7440c",
+  "relatedItems": []
+}

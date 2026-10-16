@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "event-c2f315ab4e1d4c4b66e9d044",
+  "title": "Reflection 发布 Beam，开放权重仍待本月交付",
+  "firstSeen": "2026-10-17",
+  "editionDate": "2026-10-17",
+  "occurrences": [
+    {
+      "id": "occ-c2f315ab4e1d4c4b66e9d044",
+      "fact": null,
+      "firstSeen": "2026-10-06",
+      "reports": [
+        {
+          "ref": "2026-10-06/2026-10-06-reflection-beam",
+          "itemId": "2026-10-06-reflection-beam",
+          "editionDate": "2026-10-06",
+          "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+          "source": "techcrunch",
+          "owner": "techcrunch",
+          "role": "unknown",
+          "publishedAt": "2026-10-05T19:33:53.000Z",
+          "title": "Reflection 发布 Beam，开放权重仍待本月交付"
+        }
+      ]
+    },
+    {
+      "id": "occ-3f90958a850f4ecdfae0fab6",
+      "fact": {
+        "subject": "AWS",
+        "action": "上线",
+        "object": "Reflection Beam 在 SageMaker JumpStart 的托管部署",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-17",
+      "reports": [
+        {
+          "ref": "2026-10-17/2026-10-17-aws-beam-availability",
+          "itemId": "2026-10-17-aws-beam-availability",
+          "editionDate": "2026-10-17",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
+          "source": "aws-machine-learning",
+          "owner": "Amazon Web Services",
+          "role": "principal",
+          "publishedAt": "2026-10-16T07:23:10-08:00",
+          "title": "Beam 权重兑现开放承诺，AWS 同步提供托管部署"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-17"
+}

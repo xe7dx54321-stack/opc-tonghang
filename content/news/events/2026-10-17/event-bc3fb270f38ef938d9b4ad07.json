@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-bc3fb270f38ef938d9b4ad07",
+  "title": "Waymo 宣布进入多伦多，先人工测绘、目标 2028 年载客",
+  "firstSeen": "2026-10-17",
+  "editionDate": "2026-10-17",
+  "occurrences": [
+    {
+      "id": "occ-bc3fb270f38ef938d9b4ad07",
+      "fact": {
+        "subject": "Waymo",
+        "action": "宣布进入",
+        "object": "多伦多自动驾驶测试与未来运营计划",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-17",
+      "reports": [
+        {
+          "ref": "2026-10-17/2026-10-17-waymo-toronto",
+          "itemId": "2026-10-17-waymo-toronto",
+          "editionDate": "2026-10-17",
+          "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-16T16:06:38+00:00",
+          "title": "Waymo 宣布进入多伦多，先人工测绘、目标 2028 年载客"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-17"
+}

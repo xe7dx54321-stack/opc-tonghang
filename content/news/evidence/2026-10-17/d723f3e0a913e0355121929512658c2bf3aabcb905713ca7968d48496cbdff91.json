@@ -1,0 +1,13 @@
+{
+  "snapshotId": "d723f3e0a913e0355121929512658c2bf3aabcb905713ca7968d48496cbdff91",
+  "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+  "publishedAt": "2026-10-16T17:29:00.000Z",
+  "publishedAtQuote": "2026-10-16T17:29:00.000Z",
+  "retrievedAt": "2026-10-16T23:33:41.239Z",
+  "method": "agent-tool",
+  "contentHash": "306ddacf968c14b0db61cf4ddb442032b0f5a8daa1dbf296124037b131d484e7",
+  "quotations": [
+    "We gave Claude plain-language specifications for eight such circuits, drawn from chemistry, optimization, physics simulation, and number theory, along with an automated evaluator that checks and scores each design. Working largely on its own, Claude found designs that improve on the best published circuits, in some cases by an order of magnitude or more. Such improvements substantially reduce the quantum resources that useful applications require, so practical quantum computers could arrive sooner than previously anticipated. This work was led by Andi Gu as part of Anthropic’s STEM Fellows Program, with mentorship from Alek Kemeny, a quantum physicist at Anthropic, in collaboration with Susa",
+    "Across eight computational primitives—the basic routines that larger quantum algorithms are built from—for chemistry, optimization, quantum simulation, number theory, and numerical computing, Claude discovered novel designs that used both fewer qubits and fewer gates than the best previously published algorithms (Figure 2). In each case, the improvement resulted from uncovering new structural and mathematical insights about the problem, rather than from fine-tuning existing designs. For example, when compiling a circuit for simulating an iron-sulfide molecule, Claude noticed that the molecule’s symmetries and repeating structure meant that some results could be calculated once and reused, ra"
+  ]
+}

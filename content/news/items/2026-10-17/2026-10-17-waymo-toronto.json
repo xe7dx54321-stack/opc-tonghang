@@ -1,0 +1,61 @@
+{
+  "id": "2026-10-17-waymo-toronto",
+  "title": "Waymo’s robotaxis are headed to Canada",
+  "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Waymo",
+    "Toronto",
+    "Element Fleet Management"
+  ],
+  "publishedAt": "2026-10-16T16:06:38+00:00",
+  "fetchedAt": "2026-10-16T16:25:39.312Z",
+  "summary": "Waymo 10 月 16 日宣布进入加拿大多伦多。公司将先由人工驾驶车辆测绘，再逐阶段开展带安全员测试；目标 2028 年迎接首批乘客，并与 Element Fleet Management 合作管理车队。当前并未启动无人驾驶商业服务。",
+  "investorNote": "跨境扩张显示 Waymo 在复制运营体系，但城市落地的实际约束仍是测绘、验证与车队管理。",
+  "score": 0.79,
+  "duplicateOf": null,
+  "clusterId": "event-bc3fb270f38ef938d9b4ad07",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Waymo",
+    "action": "宣布进入",
+    "object": "多伦多自动驾驶测试与未来运营计划",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "6bbae55438fa2a6023eeff7b65a06545f916f4e8b193cb249d8dda38c5e3c61b",
+    "originalUrl": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+    "originalPublishedAt": "2026-10-16T16:06:38+00:00",
+    "checkedAt": "2026-10-16T23:33:41.404Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "6bbae55438fa2a6023eeff7b65a06545f916f4e8b193cb249d8dda38c5e3c61b",
+      "kind": "fact",
+      "quote": "Waymo said in a blog post on Friday that its self-driving vehicles will be manually driven in Toronto to create high-definition maps of local street networks. The company will then test its autonomous vehicles on public roads with a human safety operator on board. These operators will eventually be pulled from the driver’s seat, and afterwards the company will invite the public to take rides in its robotaxis. Waymo’s move into Canada is part of an aggressive push into new markets that’s picking up speed. Two years ago, the company was operating in only three commercial markets, and its robotaxis were not yet driving on freeways. Its expansion plans kicked off in March 2025 with a deployment"
+    },
+    {
+      "snapshotId": "6bbae55438fa2a6023eeff7b65a06545f916f4e8b193cb249d8dda38c5e3c61b",
+      "kind": "condition",
+      "quote": "The company isn’t launching a robotaxi service just yet, though. Waymo tends to follow the same playbook for every new city, gradually proceeding from manual mapping to testing, and eventually operating a commercial service. Waymo said in a blog post on Friday that its self-driving vehicles will be manually driven in Toronto to create high-definition maps of local street networks. The company will then test its autonomous vehicles on public roads with a human safety operator on board. These operators will eventually be pulled from the driver’s seat, and afterwards the company will invite the public to take rides in its robotaxis. Waymo’s move into Canada is part of an aggressive push into ne"
+    }
+  ],
+  "displayTitle": "Waymo 宣布进入多伦多，先人工测绘、目标 2028 年载客",
+  "narrative": "Waymo 把下一座国际扩张城市定在多伦多，但服务尚未上线：公司先安排人工驾驶车辆测绘道路，再推进带安全员的自动驾驶测试，目标是在 2028 年接待首批乘客。它还选定当地的 Element Fleet Management 管理车队。对产业链而言，关键并非发布当天的车量，而是跨城市复制测绘、验证和车队运营的速度。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文所述具体动作与历史候选没有可确认的同次发生或直接后续关系"
+  },
+  "eventId": "event-bc3fb270f38ef938d9b4ad07",
+  "occurrenceId": "occ-bc3fb270f38ef938d9b4ad07",
+  "relatedItems": []
+}

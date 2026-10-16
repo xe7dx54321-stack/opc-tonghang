@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-0585c2fb6575bbefeedf1be5",
+  "title": "中国拟修订 AI 技术出口目录，模型权重等纳入限制草案",
+  "firstSeen": "2026-10-17",
+  "editionDate": "2026-10-17",
+  "occurrences": [
+    {
+      "id": "occ-0585c2fb6575bbefeedf1be5",
+      "fact": {
+        "subject": "中国商务部与科技部",
+        "action": "发布征求意见稿",
+        "object": "人工智能关键技术出口限制目录修订",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-17",
+      "reports": [
+        {
+          "ref": "2026-10-17/2026-10-17-china-ai-export-draft",
+          "itemId": "2026-10-17-china-ai-export-draft",
+          "editionDate": "2026-10-17",
+          "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-10-16T17:42:47+00:00",
+          "title": "中国拟修订 AI 技术出口目录，模型权重等纳入限制草案"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-17"
+}

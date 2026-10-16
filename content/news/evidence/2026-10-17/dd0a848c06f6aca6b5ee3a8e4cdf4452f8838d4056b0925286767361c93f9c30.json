@@ -1,0 +1,13 @@
+{
+  "snapshotId": "dd0a848c06f6aca6b5ee3a8e4cdf4452f8838d4056b0925286767361c93f9c30",
+  "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+  "publishedAt": "2026-10-16T17:02:00.000Z",
+  "publishedAtQuote": "2026-10-16T17:02:00.000Z",
+  "retrievedAt": "2026-10-16T23:33:41.203Z",
+  "method": "agent-tool",
+  "contentHash": "804f4a65241ad5b5337cc0db606cf6f673f9e612f6737605078faf0432d4dad9",
+  "quotations": [
+    "This is not a cryptographic break, new attack, or weakness in the ECDSA curves. In fact, this makes us more confident the curves were chosen without any backdoors or intentional weaknesses. For many years, people have been suspicious of the origins of the NIST curve parameters. They were presented to NIST without any mention of how they were chosen, leaving people wondering if they may have been chosen to have deliberate backdoors in them. These findings make that much less plausible. The seeds were generated in a very simple way: a common pseudorandom number generator initialized from the clock, which anyone can now reproduce. That leaves much less room for subversion and that we can be con",
+    "There is also one seed we were unable to recover. The fifth binary seed, B-163, fits nothing Claude has tried and remains unexplained. Finally, we don’t know how the base points for P-224, P-256, P-384, and P-521 were generated. The same goes for the NIST binary curves. The bounty The $36,864 for finding the seeds will be donated to the Internet Security Research Group . Who we are This work was conducted at Anthropic by John Wood, Henry de Valence, Ava Howell, Zack Voase, Lucy Sweet, Amir Omidi, Paul Crowley, Iain McGinniss, Nicholas Carlini, and Steve Weis. Acknowledgements We would like to posthumously recognize Jerry Solinas who took being labeled an “ evil Internet meme ” and the “ Yo L"
+  ]
+}

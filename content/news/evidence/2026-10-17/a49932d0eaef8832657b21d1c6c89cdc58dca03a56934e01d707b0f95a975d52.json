@@ -1,0 +1,13 @@
+{
+  "snapshotId": "a49932d0eaef8832657b21d1c6c89cdc58dca03a56934e01d707b0f95a975d52",
+  "url": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/",
+  "publishedAt": "2026-10-16T18:10:27+00:00",
+  "publishedAtQuote": "2026-10-16T18:10:27+00:00",
+  "retrievedAt": "2026-10-16T23:33:41.440Z",
+  "method": "agent-tool",
+  "contentHash": "044f577acf3e1f19c36ecf502d311565777bbb689e811ce3028fd8ee84c0f2d0",
+  "quotations": [
+    "ChatGPT can now access open tabs right in the Chrome browser and take actions on them. Users can target open tabs with @chrome , while Chat mode pulls data from several tabs at once. Work mode lets the tool control tabs through Computer Use to send messages, fill out forms, download files, or group tabs. GPT-6 Astra is the best Computer Use model on the market right now, and it can handle complex workflows with many steps. Your full chat history now sits in the upgraded ChatGPT sidebar right next to the web page you're viewing. In OpenAI's examples , the extension compares products across open tabs by size, material, shipping time, and return rules, sums up articles in plain language, or mat",
+    "The updated Chrome extension works with all ChatGPT plans. Ad Ad AI News Without the Hype – Curated by Humans Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section. Subscribe now Source: ChatGPT via X Ask about this article… Search Ad Top Stories AI agents overstate their results and remain far from autonomous research, study finds Meta's new frontier model Muse Wonder Full breaks into the AI top tier Google says self-improving AI isn't anywhere close Gemini 4 Argon is now available worldwide as Google's most capable frontier model AI guardrails designed to stop h"
+  ]
+}

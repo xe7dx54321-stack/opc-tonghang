@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a202d05bcc4468316744f41c",
+  "title": "ChatGPT Chrome 扩展可读取并操作标签页，浏览器成 Agent 执行入口",
+  "firstSeen": "2026-10-17",
+  "editionDate": "2026-10-17",
+  "occurrences": [
+    {
+      "id": "occ-a202d05bcc4468316744f41c",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "更新",
+        "object": "ChatGPT Chrome 扩展的跨标签页读取与操作能力",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-17",
+      "reports": [
+        {
+          "ref": "2026-10-17/2026-10-17-chatgpt-chrome-tabs",
+          "itemId": "2026-10-17-chatgpt-chrome-tabs",
+          "editionDate": "2026-10-17",
+          "url": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-10-16T18:10:27+00:00",
+          "title": "ChatGPT Chrome 扩展可读取并操作标签页，浏览器成 Agent 执行入口"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-17"
+}

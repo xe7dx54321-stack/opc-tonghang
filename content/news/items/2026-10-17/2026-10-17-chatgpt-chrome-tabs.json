@@ -1,0 +1,61 @@
+{
+  "id": "2026-10-17-chatgpt-chrome-tabs",
+  "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
+  "url": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "ChatGPT",
+    "Chrome"
+  ],
+  "publishedAt": "2026-10-16T18:10:27+00:00",
+  "fetchedAt": "2026-10-16T18:26:48.546Z",
+  "summary": "The Decoder 10 月 16 日报道，更新后的 ChatGPT Chrome 扩展可读取打开的标签页；用户可用 @chrome 指定页面，Work mode 通过 Computer Use 填表、下载或整理标签页。报道称更新后的扩展适用于各 ChatGPT 计划，具体操作能力仍受模式与授权约束。",
+  "investorNote": "浏览器上下文与操作权限被整合到消费端入口，Agent 工具竞争将更依赖授权边界和任务完成率。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "event-a202d05bcc4468316744f41c",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "OpenAI",
+    "action": "更新",
+    "object": "ChatGPT Chrome 扩展的跨标签页读取与操作能力",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "a49932d0eaef8832657b21d1c6c89cdc58dca03a56934e01d707b0f95a975d52",
+    "originalUrl": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/",
+    "originalPublishedAt": "2026-10-16T18:10:27+00:00",
+    "checkedAt": "2026-10-16T23:33:41.440Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "a49932d0eaef8832657b21d1c6c89cdc58dca03a56934e01d707b0f95a975d52",
+      "kind": "fact",
+      "quote": "ChatGPT can now access open tabs right in the Chrome browser and take actions on them. Users can target open tabs with @chrome , while Chat mode pulls data from several tabs at once. Work mode lets the tool control tabs through Computer Use to send messages, fill out forms, download files, or group tabs. GPT-6 Astra is the best Computer Use model on the market right now, and it can handle complex workflows with many steps. Your full chat history now sits in the upgraded ChatGPT sidebar right next to the web page you're viewing. In OpenAI's examples , the extension compares products across open tabs by size, material, shipping time, and return rules, sums up articles in plain language, or mat"
+    },
+    {
+      "snapshotId": "a49932d0eaef8832657b21d1c6c89cdc58dca03a56934e01d707b0f95a975d52",
+      "kind": "condition",
+      "quote": "The updated Chrome extension works with all ChatGPT plans. Ad Ad AI News Without the Hype – Curated by Humans Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section. Subscribe now Source: ChatGPT via X Ask about this article… Search Ad Top Stories AI agents overstate their results and remain far from autonomous research, study finds Meta's new frontier model Muse Wonder Full breaks into the AI top tier Google says self-improving AI isn't anywhere close Gemini 4 Argon is now available worldwide as Google's most capable frontier model AI guardrails designed to stop h"
+    }
+  ],
+  "displayTitle": "ChatGPT Chrome 扩展可读取并操作标签页，浏览器成 Agent 执行入口",
+  "narrative": "OpenAI 更新 Chrome 扩展后，ChatGPT 可从多个已打开标签页读取信息，用户也能用 @chrome 指定页面；Work mode 进一步通过 Computer Use 填表、下载文件和整理标签页。The Decoder 称扩展面向各 ChatGPT 套餐，但实际可执行动作仍取决于模式与授权。浏览器正从信息来源变成任务执行界面，产品差异会落在跨页流程可靠性和权限设计上。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文所述具体动作与历史候选没有可确认的同次发生或直接后续关系"
+  },
+  "eventId": "event-a202d05bcc4468316744f41c",
+  "occurrenceId": "occ-a202d05bcc4468316744f41c",
+  "relatedItems": []
+}

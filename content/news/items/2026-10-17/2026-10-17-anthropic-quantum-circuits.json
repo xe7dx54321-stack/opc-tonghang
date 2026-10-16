@@ -1,0 +1,60 @@
+{
+  "id": "2026-10-17-anthropic-quantum-circuits",
+  "title": "Designing more efficient quantum circuits with Claude",
+  "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+  "source": "anthropic-official",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude Mythos 5"
+  ],
+  "publishedAt": "2026-10-16T17:29:00.000Z",
+  "fetchedAt": "2026-10-16T17:56:40.080Z",
+  "summary": "Anthropic 10 月 16 日发布研究，给 Claude 八类量子算法基础电路的自然语言规格和自动评分器。公司称模型在闭环搜索中找到比已发表方案使用更少量子比特及门操作的设计，个别案例达到数量级改进；结果来自设计与评估，非量子硬件上的商业验证。",
+  "investorNote": "更值得跟进的是模型与确定性评估器的闭环研究方法，不能直接外推为量子计算机已实用化。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "event-669e12b63f7882e03c2a0cce",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "发布研究",
+    "object": "Claude 优化八类量子计算基础电路",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Anthropic",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d723f3e0a913e0355121929512658c2bf3aabcb905713ca7968d48496cbdff91",
+    "originalUrl": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+    "originalPublishedAt": "2026-10-16T17:29:00.000Z",
+    "checkedAt": "2026-10-16T23:33:41.239Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d723f3e0a913e0355121929512658c2bf3aabcb905713ca7968d48496cbdff91",
+      "kind": "fact",
+      "quote": "We gave Claude plain-language specifications for eight such circuits, drawn from chemistry, optimization, physics simulation, and number theory, along with an automated evaluator that checks and scores each design. Working largely on its own, Claude found designs that improve on the best published circuits, in some cases by an order of magnitude or more. Such improvements substantially reduce the quantum resources that useful applications require, so practical quantum computers could arrive sooner than previously anticipated. This work was led by Andi Gu as part of Anthropic’s STEM Fellows Program, with mentorship from Alek Kemeny, a quantum physicist at Anthropic, in collaboration with Susa"
+    },
+    {
+      "snapshotId": "d723f3e0a913e0355121929512658c2bf3aabcb905713ca7968d48496cbdff91",
+      "kind": "condition",
+      "quote": "Across eight computational primitives—the basic routines that larger quantum algorithms are built from—for chemistry, optimization, quantum simulation, number theory, and numerical computing, Claude discovered novel designs that used both fewer qubits and fewer gates than the best previously published algorithms (Figure 2). In each case, the improvement resulted from uncovering new structural and mathematical insights about the problem, rather than from fine-tuning existing designs. For example, when compiling a circuit for simulating an iron-sulfide molecule, Claude noticed that the molecule’s symmetries and repeating structure meant that some results could be calculated once and reused, ra"
+    }
+  ],
+  "displayTitle": "Anthropic 披露 Claude 优化八类量子电路，改进仍待实际硬件检验",
+  "narrative": "Anthropic 将八类量子计算基础电路的规格交给 Claude，并用自动评估器让它反复提出和筛选设计。研究团队称，新方案在部分问题上把资源需求降了一个数量级，但这仍是算法和电路层面的结果，不能推断量子硬件已能运行相关应用。对投资判断更直接的意义，是可自动验证的科学设计任务开始成为模型的有效工作场景。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文所述具体动作与历史候选没有可确认的同次发生或直接后续关系"
+  },
+  "eventId": "event-669e12b63f7882e03c2a0cce",
+  "occurrenceId": "occ-669e12b63f7882e03c2a0cce",
+  "relatedItems": []
+}

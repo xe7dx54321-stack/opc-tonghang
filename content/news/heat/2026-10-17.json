@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-faf97039b7040e710928",
+      "title": "Waymo 宣布进入多伦多",
+      "summary": "先人工测绘，再逐步测试；目标 2028 年迎接首批乘客。",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "techcrunch.com",
+          "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada"
+        },
+        {
+          "name": "waymo.com",
+          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto"
+        }
+      ],
+      "memberUrls": [
+        "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada",
+        "https://waymo.com/blog/2026/10/waymo-in-toronto"
+      ]
+    }
+  ]
+}

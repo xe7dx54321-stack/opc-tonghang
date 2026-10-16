@@ -1,0 +1,13 @@
+{
+  "snapshotId": "a1a10bf800ee10a4329633d966e6b964bc2142dbf79dcc42c23b0bc53900be9c",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability",
+  "publishedAt": "2026-10-16T16:30:00Z",
+  "publishedAtQuote": "2026-10-16T16:30:00Z",
+  "retrievedAt": "2026-10-16T23:33:41.540Z",
+  "method": "agent-tool",
+  "contentHash": "48aa0beea1dd87894cb5d0e41961a17fac25ab22d635fba67f9fc6ff1d6bc234",
+  "quotations": [
+    "This week, Chinese startup Langdao Silex demonstrated a prototype extreme ultraviolet (EUV) light source with over 15W of output power, 90% domestic components, and decent uptime. The company will need another three to five years to commercialize its technology, reports TrendForce, citing various sources. Yet, a light source alone does not make an EUV scanner. Go deeper with TH Premium: Chipmaking (Image credit: tsmc) Analyzing TSMC's fab expansion roadmap — multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks Leading-edge foundry roadmaps for TSMC, Intel, and Samsung ASML's roadmap for chipmaking lithography tools examined Chinese chipmaking tool roadmaps examined An LPP EUV source fro",
+    "Langdao Silex has not demonstrated its EUV light source in action, so all we know about it comes from the company itself. As noted, 15W power looks comparable to early EUV sources developed by Philips Extreme UV (DPP) and Cymer (LPP). Meanwhile, early NXE:3400-series machines came with 125W – 150W at intermediate focus sources, which was far from enough for high-volume manufacturing (HVM). (Image credit: Langdao Silex) Modern EUV lithography equipment comes with considerably more powerful sources. ASML introduced 250W-class EUV sources for commercial production in 2018 – 2019 and has since achieved substantially higher output levels. Increasing output requires more powerful CO₂ lasers, highl"
+  ]
+}
