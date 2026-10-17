@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "event-bfba6d5fd58363aae476df95",
+  "title": "Meta 删除商业条款中的争议性 AI 抓取措辞",
+  "firstSeen": "2026-10-18",
+  "editionDate": "2026-10-18",
+  "occurrences": [
+    {
+      "id": "occ-bfba6d5fd58363aae476df95",
+      "fact": {
+        "subject": "Meta",
+        "action": "删除",
+        "object": "商业条款中涉及网站内容用于AI训练的争议语句",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-18",
+      "reports": [
+        {
+          "ref": "2026-10-18/2026-10-18-meta-terms-verge",
+          "itemId": "2026-10-18-meta-terms-verge",
+          "editionDate": "2026-10-18",
+          "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-10-17T15:04:36.000Z",
+          "title": "Meta 删除商业条款中的争议性 AI 抓取措辞"
+        },
+        {
+          "ref": "2026-10-18/2026-10-18-meta-terms-techcrunch",
+          "itemId": "2026-10-18-meta-terms-techcrunch",
+          "editionDate": "2026-10-18",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "relayer",
+          "publishedAt": "2026-10-17T21:31:32.000Z",
+          "title": "TechCrunch 跟进 Meta 商业条款撤回"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-18"
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
+  "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-17T10:33:28.000Z",
+  "fetchedAt": "2026-10-17T10:38:52.008Z",
+  "summary": "DeepSeek 在本期窗口推出 V4.1-Flash-1017，模型已进入网页、App、API，并公开权重；同时开放 Search 和 Fetch API。性能提升与任务成本比较来自厂商评测，尚需独立复测。",
+  "schemaVersion": 2,
+  "id": "2026-10-18-deepseek-flash-1017-decoder",
+  "investorNote": "模型的任务级完成成本比单纯token单价更值得测；搜索接口会影响开发者是否把DeepSeek接入完整Agent流程。",
+  "score": 0.91,
+  "fact": {
+    "subject": "DeepSeek",
+    "action": "发布并开放",
+    "object": "V4.1-Flash-1017模型及Search/Fetch API",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "90832c53e215a476601a53aa34f4da4035aa6b8d90025aa7e1edbaddb213f7a3",
+    "originalUrl": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+    "originalPublishedAt": "2026-10-17T10:33:28.000Z",
+    "checkedAt": "2026-10-17T23:37:27.857Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "90832c53e215a476601a53aa34f4da4035aa6b8d90025aa7e1edbaddb213f7a3",
+      "kind": "fact",
+      "quote": "Deepseek-V4.1-Flash-1017 is available now through the company's website, app, and API. Deepseek also published the model weights as open source on\nHugging Face\nand\nModelScope\n. Compared to its direct predecessor, the model posts better benchmark scores, finishes tasks faster, and produces shorter outputs. The company calls the update a Pareto improvement in the tradeoff between performance and cost."
+    },
+    {
+      "snapshotId": "90832c53e215a476601a53aa34f4da4035aa6b8d90025aa7e1edbaddb213f7a3",
+      "kind": "condition",
+      "quote": "Each endpoint costs $0.75 per 1,000 calls. Deepseek API users can access the features for free through server-side tools in Deepseek Harness, Claude Code, and Codex until October 31, 2026 (4:00 PM UTC)."
+    }
+  ],
+  "displayTitle": "DeepSeek 更新 V4.1-Flash，并向开发者开放搜索接口",
+  "narrative": "DeepSeek 上线 V4.1-Flash-1017，并向开发者开放 Search 与 Fetch API。The Decoder 报道模型已进入网页、App 和 API，权重也已公开；每千次搜索调用报价 0.75 美元，现有 API 用户经 Harness 工具调用在指定期限内可免费试用。厂商称新版在编程和长任务上更快、更省，投资判断仍应看独立任务完成率与真实总成本，而非只看其自评榜单。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本窗口内发布的新模型版本与搜索接口，历史目录未见相同具体发布"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-63900e88f74c85903444a872",
+  "eventId": "event-63900e88f74c85903444a872",
+  "occurrenceId": "occ-63900e88f74c85903444a872",
+  "relatedItems": []
+}

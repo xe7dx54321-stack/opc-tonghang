@@ -1,0 +1,13 @@
+{
+  "snapshotId": "67f07f248a91f90fd30007dde8aa93443741d2fe66082010cd70f19db7b1a4cb",
+  "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+  "publishedAt": "2026-10-17T15:04:36.000Z",
+  "publishedAtQuote": "2026-10-17T15:04:36+00:00",
+  "retrievedAt": "2026-10-17T23:37:29.268Z",
+  "method": "agent-tool",
+  "contentHash": "264fc279712db3ec7958b4656451964c26e185de284939f6c46ddd4c24671960",
+  "quotations": [
+    "After backlash, Meta is\nupdating its terms again\nto remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the\ncommercial terms page",
+    "Today’s update to its terms and a new statement go further, removing the controversial language entirely."
+  ]
+}

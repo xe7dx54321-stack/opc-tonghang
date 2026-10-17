@@ -1,0 +1,13 @@
+{
+  "snapshotId": "90832c53e215a476601a53aa34f4da4035aa6b8d90025aa7e1edbaddb213f7a3",
+  "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+  "publishedAt": "2026-10-17T10:33:28.000Z",
+  "publishedAtQuote": "2026-10-17T10:33:28+00:00",
+  "retrievedAt": "2026-10-17T23:37:27.857Z",
+  "method": "agent-tool",
+  "contentHash": "d540a028a6ffb4bbb5f4001b723d909fc9a7c3b9acc6cffab65590ec08859cd0",
+  "quotations": [
+    "Deepseek-V4.1-Flash-1017 is available now through the company's website, app, and API. Deepseek also published the model weights as open source on\nHugging Face\nand\nModelScope\n. Compared to its direct predecessor, the model posts better benchmark scores, finishes tasks faster, and produces shorter outputs. The company calls the update a Pareto improvement in the tradeoff between performance and cost.",
+    "Each endpoint costs $0.75 per 1,000 calls. Deepseek API users can access the features for free through server-side tools in Deepseek Harness, Claude Code, and Codex until October 31, 2026 (4:00 PM UTC)."
+  ]
+}

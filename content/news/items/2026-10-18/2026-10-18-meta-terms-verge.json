@@ -1,0 +1,56 @@
+{
+  "title": "Meta removes language that may have allowed it to scrape news sites",
+  "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-17T15:04:36.000Z",
+  "fetchedAt": "2026-10-17T15:14:18.631Z",
+  "summary": "The Verge 10月17日核对 Meta 商业条款，发现涉及可使用企业账户网站内容开发及训练产品的争议句子已被删除；Meta 称此举是澄清广告与商业产品条款，未改变网络爬虫做法。",
+  "schemaVersion": 2,
+  "id": "2026-10-18-meta-terms-verge",
+  "investorNote": "条款文本收回降低了内容授权争议的表面风险，但并不证明抓取行为或模型训练来源已经改变。",
+  "score": 0.78,
+  "fact": {
+    "subject": "Meta",
+    "action": "删除",
+    "object": "商业条款中涉及网站内容用于AI训练的争议语句",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "67f07f248a91f90fd30007dde8aa93443741d2fe66082010cd70f19db7b1a4cb",
+    "originalUrl": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "originalPublishedAt": "2026-10-17T15:04:36.000Z",
+    "checkedAt": "2026-10-17T23:37:29.268Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "67f07f248a91f90fd30007dde8aa93443741d2fe66082010cd70f19db7b1a4cb",
+      "kind": "fact",
+      "quote": "After backlash, Meta is\nupdating its terms again\nto remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the\ncommercial terms page"
+    },
+    {
+      "snapshotId": "67f07f248a91f90fd30007dde8aa93443741d2fe66082010cd70f19db7b1a4cb",
+      "kind": "condition",
+      "quote": "Today’s update to its terms and a new statement go further, removing the controversial language entirely."
+    }
+  ],
+  "displayTitle": "Meta 删除商业条款中的争议性 AI 抓取措辞",
+  "narrative": "The Verge 核对发现，Meta 删除了商业条款中可能被理解为允许使用企业账户网站内容训练 AI 的语句。Meta 回应称原条款仅针对广告和商业产品，此次只是澄清，网络爬虫做法没有改变，内容所有者仍可通过 robots.txt 表达偏好。对内容平台与模型厂商而言，合同措辞和实际抓取行为要分开审视；本次能确认的是文本修订，不能据此推断训练数据流已变化。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本窗口内 Meta 删除争议条款，是独立于先前模型发布的政策文本动作"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-bfba6d5fd58363aae476df95",
+  "eventId": "event-bfba6d5fd58363aae476df95",
+  "occurrenceId": "occ-bfba6d5fd58363aae476df95",
+  "relatedItems": []
+}

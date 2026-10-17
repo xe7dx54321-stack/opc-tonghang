@@ -1,0 +1,56 @@
+{
+  "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+  "url": "https://www.qbitai.com/2026/10/504067.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-17T12:21:09.000Z",
+  "fetchedAt": "2026-10-17T17:46:48.926Z",
+  "summary": "量子位在10月17日晚报道 DeepSeek V4.1-Flash-1017 已上桌，官方网页、App和API同步切换，并提及自研搜索接口；与The Decoder所述同一次发布。",
+  "schemaVersion": 2,
+  "id": "2026-10-18-deepseek-flash-1017-qbitai",
+  "investorNote": "国内报道与海外报道对准同一版本发布，不能把转载数量当成独立性能证据。",
+  "score": 0.71,
+  "fact": {
+    "subject": "DeepSeek",
+    "action": "发布并开放",
+    "object": "V4.1-Flash-1017模型及搜索API",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "f540a87c791f78c52c506d8a58850af5970d8ce25bf5406b0b30b88f28696b6a",
+    "originalUrl": "https://www.qbitai.com/2026/10/504067.html",
+    "originalPublishedAt": "2026-10-17T12:21:09.000Z",
+    "checkedAt": "2026-10-17T23:37:28.697Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "f540a87c791f78c52c506d8a58850af5970d8ce25bf5406b0b30b88f28696b6a",
+      "kind": "fact",
+      "quote": "结果还真让大家蹲到了——\n新模型DeepSeek-V4.1-Flash-1017，火速上桌"
+    },
+    {
+      "snapshotId": "f540a87c791f78c52c506d8a58850af5970d8ce25bf5406b0b30b88f28696b6a",
+      "kind": "condition",
+      "quote": "目前官方网页端、APP与API模型已同步变更为新模型"
+    }
+  ],
+  "displayTitle": "量子位报道 DeepSeek V4.1-Flash-1017 上线",
+  "narrative": "量子位报道 DeepSeek V4.1-Flash-1017 同步进入网页、App 和 API，并介绍搜索接口。它与 The Decoder 所述属于同一次发布；相关速度和成本优势仍是厂商说法，需要在相同任务和工具配置下比较。",
+  "eventRelation": {
+    "type": "SAME_OCCURRENCE",
+    "targetRef": "2026-10-18/2026-10-18-deepseek-flash-1017-decoder",
+    "reason": "两篇均核对为V4.1-Flash-1017及配套搜索接口的同次发布"
+  },
+  "duplicateOf": "2026-10-18-deepseek-flash-1017-decoder",
+  "clusterId": "event-63900e88f74c85903444a872",
+  "eventId": "event-63900e88f74c85903444a872",
+  "occurrenceId": "occ-63900e88f74c85903444a872"
+}

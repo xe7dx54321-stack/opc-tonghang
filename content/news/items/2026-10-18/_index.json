@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-18",
+  "itemCount": 5,
+  "storyCount": 3,
+  "clusterCount": 3,
+  "files": [
+    "2026-10-18-deepseek-flash-1017-decoder.json",
+    "2026-10-18-deepseek-flash-1017-qbitai.json",
+    "2026-10-18-meta-terms-verge.json",
+    "2026-10-18-meta-terms-techcrunch.json",
+    "2026-10-18-nvidia-rtx-spark-retail.json"
+  ],
+  "representatives": [
+    "2026-10-18-deepseek-flash-1017-decoder",
+    "2026-10-18-meta-terms-verge",
+    "2026-10-18-nvidia-rtx-spark-retail"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-18",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-eadca873fb14a1669997",
+      "title": "DeepSeek 更新 V4.1-Flash 并开放搜索接口",
+      "summary": "DeepSeek 发布 V4.1-Flash-1017，模型进入网页、App 和 API，并开放搜索接口。",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "the-decoder.com",
+          "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs"
+        },
+        {
+          "name": "qbitai.com",
+          "url": "https://www.qbitai.com/2026/10/504067.html"
+        }
+      ],
+      "memberUrls": [
+        "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs",
+        "https://www.qbitai.com/2026/10/504067.html"
+      ]
+    }
+  ]
+}

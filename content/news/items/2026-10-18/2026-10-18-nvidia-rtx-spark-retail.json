@@ -1,0 +1,59 @@
+{
+  "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "publishedAt": "2026-10-17T21:00:13.000Z",
+  "fetchedAt": "2026-10-17T21:18:49.849Z",
+  "summary": "英伟达10月17日宣布 RTX Spark Windows笔记本已经上市，起价2399美元，首批涉及ASUS、Dell、HP、Lenovo、Microsoft和MSI；产品采用Blackwell RTX GPU与Grace CPU，最高128GB统一内存。",
+  "schemaVersion": 2,
+  "id": "2026-10-18-nvidia-rtx-spark-retail",
+  "investorNote": "从发布会转为零售开售是明确新进展；后续应以实际本地模型吞吐、续航和软件兼容性衡量设备需求。",
+  "score": 0.73,
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "开始销售",
+    "object": "RTX Spark Windows笔记本",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "3fc6e5447911b009cf10f60011826e0cc6743e32f62d717fad9141e99aa7bbfe",
+    "originalUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+    "originalPublishedAt": "2026-10-17T21:00:13.000Z",
+    "checkedAt": "2026-10-17T23:37:30.348Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "3fc6e5447911b009cf10f60011826e0cc6743e32f62d717fad9141e99aa7bbfe",
+      "kind": "fact",
+      "quote": "NVIDIA RTX Spark\nlaptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.\nStarting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with additional systems on the way."
+    },
+    {
+      "snapshotId": "3fc6e5447911b009cf10f60011826e0cc6743e32f62d717fad9141e99aa7bbfe",
+      "kind": "condition",
+      "quote": "Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with additional systems on the way."
+    }
+  ],
+  "displayTitle": "英伟达宣布 RTX Spark 笔记本开售，售价从 2399 美元起",
+  "narrative": "英伟达宣布 RTX Spark 笔记本已进入零售，起价 2399 美元，首批覆盖六家 PC 厂商，最高配置为 128GB 统一内存。这与前期平台和软件公布属于同一持续产品线，但“可以买到”是本期新增动作。公司给出的本地 AI 算力指标尚属厂商口径；对芯片与 PC 产业链而言，真正的验证点是开发者能否稳定运行较大模型，以及价格、功耗和兼容性是否支撑持续需求。",
+  "eventRelation": {
+    "type": "SAME_STORY",
+    "targetRef": "2026-10-08/2026-10-08-nvidia-rtx-spark-windows",
+    "reason": "同一RTX Spark Windows平台的后续商业化动作",
+    "newInformation": "英伟达本期宣布多家厂商的RTX Spark笔记本正式开售，并给出2399美元起价"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-a3415df471d388f667361d00",
+  "eventId": "event-a3415df471d388f667361d00",
+  "occurrenceId": "occ-d4fefc35b9bf0cf1685eea15",
+  "relatedItems": []
+}

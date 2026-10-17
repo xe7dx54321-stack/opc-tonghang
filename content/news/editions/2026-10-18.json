@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-18",
+  "window": {
+    "start": 1792193400000,
+    "end": 1792279800000
+  },
+  "digestHash": "bab6bcb82c269e35d658d3a1fe31ef9e4b5cf39db3502794a25271003d5f5e04",
+  "stories": [
+    {
+      "heading": "DeepSeek 更新 V4.1-Flash，并向开发者开放搜索接口",
+      "itemId": "2026-10-18-deepseek-flash-1017-decoder",
+      "eventId": "event-63900e88f74c85903444a872",
+      "occurrenceId": "occ-63900e88f74c85903444a872"
+    },
+    {
+      "heading": "Meta 删除商业条款中的争议性 AI 抓取措辞",
+      "itemId": "2026-10-18-meta-terms-verge",
+      "eventId": "event-bfba6d5fd58363aae476df95",
+      "occurrenceId": "occ-bfba6d5fd58363aae476df95"
+    },
+    {
+      "heading": "英伟达宣布 RTX Spark 笔记本开售，售价从 2399 美元起",
+      "itemId": "2026-10-18-nvidia-rtx-spark-retail",
+      "eventId": "event-a3415df471d388f667361d00",
+      "occurrenceId": "occ-d4fefc35b9bf0cf1685eea15"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-18-deepseek-flash-1017-decoder.json": "3ebe45ba39c2060d2cf47f26ca8fdd686552369ee31d9f79c65efdf2ba301454",
+    "2026-10-18-deepseek-flash-1017-qbitai.json": "42e7060c91a2e3bcfdb554278dfe2f68db1860bd0436e24a7c19398f0321971a",
+    "2026-10-18-meta-terms-techcrunch.json": "b55979e85ccb9435189e6682cae3ee25f888d24d79a1b4e58a6d08c7f2017c57",
+    "2026-10-18-meta-terms-verge.json": "8ac3c327b51fd6490b0f9d9021e1f9e1c418f9c236a1585d162159991129e7bd",
+    "2026-10-18-nvidia-rtx-spark-retail.json": "f1e8a8c7f6c1bd69d5f178fa668ce8a9706f26a732ecbc50080f94dfe546eae8"
+  },
+  "evidenceHashes": {
+    "3fc6e5447911b009cf10f60011826e0cc6743e32f62d717fad9141e99aa7bbfe.json": "5064e442bd1ec490bb5fe4c508c5676fc37723457bf73fe91e5556008e716a8a",
+    "67f07f248a91f90fd30007dde8aa93443741d2fe66082010cd70f19db7b1a4cb.json": "8c78f39eee7eedaf90192003d38a3e958ee8d5c0bffa526c63448b93622e4919",
+    "90832c53e215a476601a53aa34f4da4035aa6b8d90025aa7e1edbaddb213f7a3.json": "b75fdc53d2a117cc8ece54e7dbf49e268146d855986d885730e001af4cfd0a3e",
+    "de8c8adc4cc6979de93ce8e95c50f255e87263cb838301810eebaa3b081d5f81.json": "fdce0833f67c3723fe0346c12dab645fcda2b22cd86e093fbbbc79983b5b87b3",
+    "f540a87c791f78c52c506d8a58850af5970d8ce25bf5406b0b30b88f28696b6a.json": "ec627f8a9a6f36efab2e7512162aa4b5762a80a14cb07f2221e54542eb0b9881"
+  },
+  "eventsHashes": {
+    "event-63900e88f74c85903444a872.json": "5757d710473e9d31063a1df662da8e819e0b9bec9f09c6616c2b8872ac3e09f6",
+    "event-a3415df471d388f667361d00.json": "2b178e08dc9fdce5ba2b4881a08700dfcf2d26ab2f60dd056c75481ceb2b7257",
+    "event-bfba6d5fd58363aae476df95.json": "4914c593ac73e810fbb6cb39de4c5cfa5d16c9e1007832c9c418f7eb082b00cf"
+  }
+}

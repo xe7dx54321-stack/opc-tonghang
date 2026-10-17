@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "event-63900e88f74c85903444a872",
+  "title": "DeepSeek 更新 V4.1-Flash，并向开发者开放搜索接口",
+  "firstSeen": "2026-10-18",
+  "editionDate": "2026-10-18",
+  "occurrences": [
+    {
+      "id": "occ-63900e88f74c85903444a872",
+      "fact": {
+        "subject": "DeepSeek",
+        "action": "发布并开放",
+        "object": "V4.1-Flash-1017模型及Search/Fetch API",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-18",
+      "reports": [
+        {
+          "ref": "2026-10-18/2026-10-18-deepseek-flash-1017-decoder",
+          "itemId": "2026-10-18-deepseek-flash-1017-decoder",
+          "editionDate": "2026-10-18",
+          "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "relayer",
+          "publishedAt": "2026-10-17T10:33:28.000Z",
+          "title": "DeepSeek 更新 V4.1-Flash，并向开发者开放搜索接口"
+        },
+        {
+          "ref": "2026-10-18/2026-10-18-deepseek-flash-1017-qbitai",
+          "itemId": "2026-10-18-deepseek-flash-1017-qbitai",
+          "editionDate": "2026-10-18",
+          "url": "https://www.qbitai.com/2026/10/504067.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "relayer",
+          "publishedAt": "2026-10-17T12:21:09.000Z",
+          "title": "量子位报道 DeepSeek V4.1-Flash-1017 上线"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-18"
+}

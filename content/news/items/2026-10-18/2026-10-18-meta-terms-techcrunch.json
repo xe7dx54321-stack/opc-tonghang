@@ -1,0 +1,56 @@
+{
+  "title": "Meta removes language that raised scraping and AI training concerns",
+  "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-17T21:31:32.000Z",
+  "fetchedAt": "2026-10-17T21:48:59.169Z",
+  "summary": "TechCrunch 在10月17日跟进 The Verge 对 Meta 商业条款修订的报道，并引述 Meta 称删除争议表述不改变其网络爬虫做法。",
+  "schemaVersion": 2,
+  "id": "2026-10-18-meta-terms-techcrunch",
+  "investorNote": "该稿明确援引The Verge，不能当作第二份独立发现或新增发生。",
+  "score": 0.63,
+  "fact": {
+    "subject": "Meta",
+    "action": "删除",
+    "object": "商业条款中涉及网站内容用于AI训练的争议语句",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "de8c8adc4cc6979de93ce8e95c50f255e87263cb838301810eebaa3b081d5f81",
+    "originalUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "originalPublishedAt": "2026-10-17T21:31:32.000Z",
+    "checkedAt": "2026-10-17T23:37:29.828Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "de8c8adc4cc6979de93ce8e95c50f255e87263cb838301810eebaa3b081d5f81",
+      "kind": "fact",
+      "quote": "And now,\nThe Verge reports\nthat the provision has been removed."
+    },
+    {
+      "snapshotId": "de8c8adc4cc6979de93ce8e95c50f255e87263cb838301810eebaa3b081d5f81",
+      "kind": "condition",
+      "quote": "“We’ve heard you and want to clarify: the crawling terms we consolidated only applied to our ads and business products, and we’ve clarified that in the terms themselves,” the company said in a statement. “It does not change how Meta uses web crawlers.”"
+    }
+  ],
+  "displayTitle": "TechCrunch 跟进 Meta 商业条款撤回",
+  "narrative": "TechCrunch 引述 The Verge 对 Meta 商业条款的发现，确认争议语句已移除，并记录 Meta 称爬虫做法不变。这是同一次条款修订的跟进报道，不新增一条独立新闻。",
+  "eventRelation": {
+    "type": "SAME_OCCURRENCE",
+    "targetRef": "2026-10-18/2026-10-18-meta-terms-verge",
+    "reason": "跟进稿明示援引The Verge，确认同一处商业条款语句移除"
+  },
+  "duplicateOf": "2026-10-18-meta-terms-verge",
+  "clusterId": "event-bfba6d5fd58363aae476df95",
+  "eventId": "event-bfba6d5fd58363aae476df95",
+  "occurrenceId": "occ-bfba6d5fd58363aae476df95"
+}
