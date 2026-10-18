@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-19-vllm-0320",
+  "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
+  "publishedAt": "2026-10-18T06:50:48Z",
+  "fact": {
+    "subject": "vLLM 项目",
+    "action": "发布",
+    "object": "v0.32.0",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "vLLM",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "4170816b21ccecd9ce1b3b4acfc3f4e9061307ba271bec73189c8ecfdcef0fbf",
+    "originalUrl": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
+    "originalPublishedAt": "2026-10-18T06:50:48Z",
+    "checkedAt": "2026-10-18T23:36:16.749Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "4170816b21ccecd9ce1b3b4acfc3f4e9061307ba271bec73189c8ecfdcef0fbf",
+      "kind": "fact",
+      "quote": "This release features 814 commits from 363 contributors (121 new)!"
+    },
+    {
+      "snapshotId": "4170816b21ccecd9ce1b3b4acfc3f4e9061307ba271bec73189c8ecfdcef0fbf",
+      "kind": "fact",
+      "quote": "Model Runner V2: a GPU n-gram speculator with variable-length drafts"
+    },
+    {
+      "snapshotId": "4170816b21ccecd9ce1b3b4acfc3f4e9061307ba271bec73189c8ecfdcef0fbf",
+      "kind": "condition",
+      "quote": "Breaking changes: Python 3.10 dropped"
+    }
+  ],
+  "title": "v0.32.0",
+  "displayTitle": "vLLM 发布 0.32.0，扩展 KV 缓存与多模型推理支持",
+  "source": "vllm-releases",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "vLLM"
+  ],
+  "summary": "vLLM 项目在窗口内发布 v0.32.0。发布说明列出814次提交、363名贡献者，新增结构化决策接口、低精度 KV 缓存支持、Model Runner V2 更新及安全修复；升级包含放弃 Python 3.10 等破坏性变化。",
+  "investorNote": "推理框架的竞争正在转向硬件适配、启动与吞吐优化和安全默认值；升级风险需要用自己的模型和负载实测。",
+  "narrative": "vLLM 0.32.0 涵盖 814 次提交、363 名贡献者，重点扩展低精度 KV 缓存、Model Runner V2 和多模型服务能力，同时修复安全问题。发布说明里的吞吐数字来自特定 PR 基准，不能直接外推到所有部署；升级方还要留意 Python 3.10 被移除等破坏性变化。对算力运营商，兼容性与单位请求成本同样值得测。",
+  "score": 0.74,
+  "fetchedAt": "2026-10-18T23:30:34.772Z",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "近两周事件目录中无可确认的同次发生；本条为本期窗口内独立披露。"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-4fd2ebb003791eb345ede7ed",
+  "eventId": "event-4fd2ebb003791eb345ede7ed",
+  "occurrenceId": "occ-4fd2ebb003791eb345ede7ed",
+  "relatedItems": []
+}

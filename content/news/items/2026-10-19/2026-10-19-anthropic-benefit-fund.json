@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-19-anthropic-benefit-fund",
+  "url": "https://www.anthropic.com/news/public-benefit-fund",
+  "publishedAt": "2026-10-18T16:49:35.513Z",
+  "fact": {
+    "subject": "Anthropic",
+    "action": "设立并承诺股权",
+    "object": "Public Benefit Fund",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Anthropic",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "5cab44bb682e96a28111c60538c5e3432cdd2707158efe1825fa1a95f9eb5281",
+    "originalUrl": "https://www.anthropic.com/news/public-benefit-fund",
+    "originalPublishedAt": "2026-10-18T16:49:35.513Z",
+    "checkedAt": "2026-10-18T23:36:16.073Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "5cab44bb682e96a28111c60538c5e3432cdd2707158efe1825fa1a95f9eb5281",
+      "kind": "fact",
+      "quote": "Today, we’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows."
+    },
+    {
+      "snapshotId": "5cab44bb682e96a28111c60538c5e3432cdd2707158efe1825fa1a95f9eb5281",
+      "kind": "condition",
+      "quote": "Subject to stockholder approval, 5% of Anthropic’s shares will be committed today, with an additional 2% added at the board’s discretion for every 50% increase in the company’s value above a set baseline."
+    },
+    {
+      "snapshotId": "5cab44bb682e96a28111c60538c5e3432cdd2707158efe1825fa1a95f9eb5281",
+      "kind": "condition",
+      "quote": "None of the Anthropic equity held by the LLC will be used for lobbying or political giving, in the US or abroad."
+    }
+  ],
+  "title": "Investing in the public benefit",
+  "displayTitle": "Anthropic 设立公共利益基金，拟注入 5% 股权",
+  "source": "anthropic-official",
+  "sourceTier": 3,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Anthropic Public Benefit Fund"
+  ],
+  "summary": "Anthropic 于10月18日宣布设立公共利益基金。经股东批准后，公司拟投入5%股权；公司价值每增长50%，董事会可酌情追加2%。基金为全资 LLC，未来几个月才公布治理细节。",
+  "investorNote": "这为高增长模型公司把潜在社会影响成本与股权价值挂钩提供了一个具体结构，但治理权和实际分配仍待披露。",
+  "narrative": "Anthropic 新设 Public Benefit Fund，拟在股东批准后投入公司 5% 股权；估值每增长 50%，董事会可决定再追加 2%。公司选择全资 LLC，称基金股权不会用于游说或政治捐助，治理细节尚待公布。这是一项与估值增长联动的社会承诺，真正约束力还要看审批、治理和资金使用。",
+  "score": 0.83,
+  "fetchedAt": "2026-10-18T23:30:34.772Z",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "近两周事件目录中无可确认的同次发生；本条为本期窗口内独立披露。"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-120edcea08d778df371544ec",
+  "eventId": "event-120edcea08d778df371544ec",
+  "occurrenceId": "occ-120edcea08d778df371544ec",
+  "relatedItems": []
+}

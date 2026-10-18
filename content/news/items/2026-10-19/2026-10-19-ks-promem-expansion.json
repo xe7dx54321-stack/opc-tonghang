@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-19-ks-promem-expansion",
+  "url": "https://semiwiki.com/ceo-interviews/373948-ceo-interview-with-dr-raj-talluri-of-kulicke-soffa/",
+  "publishedAt": "2026-10-18T13:00:13+00:00",
+  "fact": {
+    "subject": "Kulicke & Soffa",
+    "action": "披露扩展",
+    "object": "ProMEM 堆叠存储设备套件",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "SemiWiki",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "b9cb3ddadcf1e2cefa60716dac8475286dd56450219eb40141df231f047470d2",
+    "originalUrl": "https://semiwiki.com/ceo-interviews/373948-ceo-interview-with-dr-raj-talluri-of-kulicke-soffa/",
+    "originalPublishedAt": "2026-10-18T13:00:13+00:00",
+    "checkedAt": "2026-10-18T23:36:16.812Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "b9cb3ddadcf1e2cefa60716dac8475286dd56450219eb40141df231f047470d2",
+      "kind": "fact",
+      "quote": "we’ve just expanded our ProMEM suite, which delivers up to 20% higher throughput for stacked memory"
+    },
+    {
+      "snapshotId": "b9cb3ddadcf1e2cefa60716dac8475286dd56450219eb40141df231f047470d2",
+      "kind": "fact",
+      "quote": "Our APTURA TCB platform and our Fluxless Thermo-Compression (FTC) technology, the industry’s first commercially available and high-volume production proven fluxless TCB, are gaining strong traction for chiplets, HBM, and now Co-Packaged Optics"
+    }
+  ],
+  "title": "CEO Interview with Dr. Raj Talluri of Kulicke & Soffa",
+  "displayTitle": "K&S 披露扩展 ProMEM，瞄准堆叠存储封装吞吐",
+  "source": "semiwiki",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Kulicke & Soffa",
+    "ProMEM",
+    "APTURA TCB"
+  ],
+  "summary": "Kulicke & Soffa 首席执行官在10月18日刊发的 SemiWiki 访谈中披露，刚扩展 ProMEM 套件，称堆叠存储吞吐最高提高20%；他同时介绍 APTURA TCB、无助焊剂热压键合在 HBM、Chiplet 与共封装光学中的布局。",
+  "investorNote": "存储堆叠和异构封装把竞争焦点推向键合精度与产能；20%吞吐收益是企业自述，尚缺客户场景对照。",
+  "narrative": "K&S 首席执行官在新访谈中称公司刚扩展 ProMEM 套件，堆叠存储吞吐最高提升 20%，并把 APTURA TCB 与无助焊剂热压键合推向 HBM、Chiplet 和共封装光学。这个披露把先进封装的讨论落到设备节拍和工艺良率，但 20% 是企业口径，客户量产条件与订单贡献仍需后续财报验证。",
+  "score": 0.63,
+  "fetchedAt": "2026-10-18T23:30:34.772Z",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "近两周事件目录中无可确认的同次发生；本条为本期窗口内独立披露。"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-9d1948e0c8ce3e303a247466",
+  "eventId": "event-9d1948e0c8ce3e303a247466",
+  "occurrenceId": "occ-9d1948e0c8ce3e303a247466",
+  "relatedItems": []
+}

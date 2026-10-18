@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-120edcea08d778df371544ec",
+  "title": "Anthropic 设立公共利益基金，拟注入 5% 股权",
+  "firstSeen": "2026-10-19",
+  "editionDate": "2026-10-19",
+  "occurrences": [
+    {
+      "id": "occ-120edcea08d778df371544ec",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "设立并承诺股权",
+        "object": "Public Benefit Fund",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-19",
+      "reports": [
+        {
+          "ref": "2026-10-19/2026-10-19-anthropic-benefit-fund",
+          "itemId": "2026-10-19-anthropic-benefit-fund",
+          "editionDate": "2026-10-19",
+          "url": "https://www.anthropic.com/news/public-benefit-fund",
+          "source": "anthropic-official",
+          "owner": "Anthropic",
+          "role": "principal",
+          "publishedAt": "2026-10-18T16:49:35.513Z",
+          "title": "Anthropic 设立公共利益基金，拟注入 5% 股权"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-19"
+}

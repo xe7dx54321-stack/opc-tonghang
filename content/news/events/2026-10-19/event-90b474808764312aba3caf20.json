@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-90b474808764312aba3caf20",
+  "title": "VAST 开源 EdenLive，尝试让交互世界实时生成画面",
+  "firstSeen": "2026-10-19",
+  "editionDate": "2026-10-19",
+  "occurrences": [
+    {
+      "id": "occ-90b474808764312aba3caf20",
+      "fact": {
+        "subject": "VAST",
+        "action": "发布并开源",
+        "object": "EdenLive 实时世界模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-19",
+      "reports": [
+        {
+          "ref": "2026-10-19/2026-10-19-vast-edenlive",
+          "itemId": "2026-10-19-vast-edenlive",
+          "editionDate": "2026-10-19",
+          "url": "https://www.qbitai.com/2026/10/504136.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "observer",
+          "publishedAt": "2026-10-18T11:49:49.000Z",
+          "title": "VAST 开源 EdenLive，尝试让交互世界实时生成画面"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-19"
+}

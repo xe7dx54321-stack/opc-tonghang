@@ -1,0 +1,14 @@
+{
+  "snapshotId": "4170816b21ccecd9ce1b3b4acfc3f4e9061307ba271bec73189c8ecfdcef0fbf",
+  "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
+  "publishedAt": "2026-10-18T06:50:48Z",
+  "publishedAtQuote": "2026-10-18T06:50:48Z",
+  "retrievedAt": "2026-10-18T23:36:16.749Z",
+  "method": "agent-tool",
+  "contentHash": "dcffabdde9222bb15021b83ae9047b6e8588b571798774feaba22723e70bdc2c",
+  "quotations": [
+    "This release features 814 commits from 363 contributors (121 new)!",
+    "Model Runner V2: a GPU n-gram speculator with variable-length drafts",
+    "Breaking changes: Python 3.10 dropped"
+  ]
+}

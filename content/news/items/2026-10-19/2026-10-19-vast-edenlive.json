@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-19-vast-edenlive",
+  "url": "https://www.qbitai.com/2026/10/504136.html",
+  "publishedAt": "2026-10-18T11:49:49.000Z",
+  "fact": {
+    "subject": "VAST",
+    "action": "发布并开源",
+    "object": "EdenLive 实时世界模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d852e9df0b6aee747d55ed1c5fbee7d1b93033c777800545d697cab552aa1d51",
+    "originalUrl": "https://www.qbitai.com/2026/10/504136.html",
+    "originalPublishedAt": "2026-10-18T11:49:49.000Z",
+    "checkedAt": "2026-10-18T23:36:16.784Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d852e9df0b6aee747d55ed1c5fbee7d1b93033c777800545d697cab552aa1d51",
+      "kind": "fact",
+      "quote": "实时世界模型EdenLive，正式发布并开源。"
+    },
+    {
+      "snapshotId": "d852e9df0b6aee747d55ed1c5fbee7d1b93033c777800545d697cab552aa1d51",
+      "kind": "fact",
+      "quote": "在单张消费级显卡Nvidia RTX 5090上、720P条件下，5B模型的生成速度超过24FPS，还能持续生成分钟级画面。"
+    },
+    {
+      "snapshotId": "d852e9df0b6aee747d55ed1c5fbee7d1b93033c777800545d697cab552aa1d51",
+      "kind": "condition",
+      "quote": "现阶段，EdenLive更适合场景漫游、推箱子等交互相对低频的玩法"
+    }
+  ],
+  "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+  "displayTitle": "VAST 开源 EdenLive，尝试让交互世界实时生成画面",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "entities": [
+    "VAST",
+    "EdenLive"
+  ],
+  "summary": "量子位在本期窗口报道 VAST 发布并开源 EdenLive 实时世界模型。报道称其 5B 模型在单张 RTX 5090 上以 720P 生成超过24帧每秒，支持分钟级连续画面；这些性能数据来自团队披露。",
+  "investorNote": "把交互状态与视觉渲染分开可降低世界模型落地门槛，但高频动作、主体一致性和真实机器人任务迁移仍需验证。",
+  "narrative": "VAST 将 EdenLive 的模型权重和推理代码开放，用上游交互系统维护场景状态，再由生成模型实时渲染视觉结果。量子位引述团队数据称，5B 模型在单张 RTX 5090、720P 下超过 24 FPS，可连续生成分钟级画面。当前演示更适合低频交互和场景预览；高频动作与长时一致性仍是从演示走向产品的关键检验。",
+  "score": 0.78,
+  "fetchedAt": "2026-10-18T23:30:34.772Z",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "近两周事件目录中无可确认的同次发生；本条为本期窗口内独立披露。"
+  },
+  "duplicateOf": null,
+  "clusterId": "event-90b474808764312aba3caf20",
+  "eventId": "event-90b474808764312aba3caf20",
+  "occurrenceId": "occ-90b474808764312aba3caf20",
+  "relatedItems": []
+}

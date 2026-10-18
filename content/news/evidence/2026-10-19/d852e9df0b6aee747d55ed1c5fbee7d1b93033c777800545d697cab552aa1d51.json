@@ -1,0 +1,14 @@
+{
+  "snapshotId": "d852e9df0b6aee747d55ed1c5fbee7d1b93033c777800545d697cab552aa1d51",
+  "url": "https://www.qbitai.com/2026/10/504136.html",
+  "publishedAt": "2026-10-18T11:49:49.000Z",
+  "publishedAtQuote": "2026-10-18T11:49:49.000Z",
+  "retrievedAt": "2026-10-18T23:36:16.784Z",
+  "method": "agent-tool",
+  "contentHash": "4c0b7587f4363fc09423d6574f1bfe5802084d174f4ae8b1bf93cb0566a4b863",
+  "quotations": [
+    "实时世界模型EdenLive，正式发布并开源。",
+    "在单张消费级显卡Nvidia RTX 5090上、720P条件下，5B模型的生成速度超过24FPS，还能持续生成分钟级画面。",
+    "现阶段，EdenLive更适合场景漫游、推箱子等交互相对低频的玩法"
+  ]
+}

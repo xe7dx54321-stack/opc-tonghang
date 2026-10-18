@@ -1,0 +1,14 @@
+{
+  "snapshotId": "5cab44bb682e96a28111c60538c5e3432cdd2707158efe1825fa1a95f9eb5281",
+  "url": "https://www.anthropic.com/news/public-benefit-fund",
+  "publishedAt": "2026-10-18T16:49:35.513Z",
+  "publishedAtQuote": "2026-10-18T16:49:35.513Z",
+  "retrievedAt": "2026-10-18T23:36:16.073Z",
+  "method": "agent-tool",
+  "contentHash": "df53cc64628490d12338903d8634d01c425def767707dc76030a23a9169bce61",
+  "quotations": [
+    "Today, we’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+    "Subject to stockholder approval, 5% of Anthropic’s shares will be committed today, with an additional 2% added at the board’s discretion for every 50% increase in the company’s value above a set baseline.",
+    "None of the Anthropic equity held by the LLC will be used for lobbying or political giving, in the US or abroad."
+  ]
+}

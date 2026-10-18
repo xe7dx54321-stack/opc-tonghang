@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-19",
+  "window": {
+    "start": 1792279800000,
+    "end": 1792366200000
+  },
+  "digestHash": "3f5b29134d5034c8ca3c935efa7cd6e6ef7c2143d7dca270786a630133f431ee",
+  "stories": [
+    {
+      "heading": "Anthropic 设立公共利益基金，拟注入 5% 股权",
+      "itemId": "2026-10-19-anthropic-benefit-fund",
+      "eventId": "event-120edcea08d778df371544ec",
+      "occurrenceId": "occ-120edcea08d778df371544ec"
+    },
+    {
+      "heading": "vLLM 发布 0.32.0，扩展 KV 缓存与多模型推理支持",
+      "itemId": "2026-10-19-vllm-0320",
+      "eventId": "event-4fd2ebb003791eb345ede7ed",
+      "occurrenceId": "occ-4fd2ebb003791eb345ede7ed"
+    },
+    {
+      "heading": "VAST 开源 EdenLive，尝试让交互世界实时生成画面",
+      "itemId": "2026-10-19-vast-edenlive",
+      "eventId": "event-90b474808764312aba3caf20",
+      "occurrenceId": "occ-90b474808764312aba3caf20"
+    },
+    {
+      "heading": "K&S 披露扩展 ProMEM，瞄准堆叠存储封装吞吐",
+      "itemId": "2026-10-19-ks-promem-expansion",
+      "eventId": "event-9d1948e0c8ce3e303a247466",
+      "occurrenceId": "occ-9d1948e0c8ce3e303a247466"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-19-anthropic-benefit-fund.json": "0f257587a0df56c3693345f1c25f5ade20426f30e1a566788f411ac5dea53303",
+    "2026-10-19-ks-promem-expansion.json": "6ea107bc79fb6fa18af9eee5326b39aa466112209f7f4938ab7eec9aba5c8444",
+    "2026-10-19-vast-edenlive.json": "355c1103469ed499155f83d3d9a36cf4763d880c76f270a04422faf01773608a",
+    "2026-10-19-vllm-0320.json": "11893180daec3b82f3ae24f76b19e93723d64609300e0839f981ee3695a852b9"
+  },
+  "evidenceHashes": {
+    "4170816b21ccecd9ce1b3b4acfc3f4e9061307ba271bec73189c8ecfdcef0fbf.json": "5b0fba54da765a12089b95674443a516d315e78f3dc5682a8fa780e26814d073",
+    "5cab44bb682e96a28111c60538c5e3432cdd2707158efe1825fa1a95f9eb5281.json": "7555bcc4d758e3e540aae8508420afa16c894bd536ec18e23a85b81fda700c5a",
+    "b9cb3ddadcf1e2cefa60716dac8475286dd56450219eb40141df231f047470d2.json": "1487e4580efd8586c06df6fc4abe45a60fcf0417de1229162da9c9deb048f490",
+    "d852e9df0b6aee747d55ed1c5fbee7d1b93033c777800545d697cab552aa1d51.json": "196ff66e616428bd0f86a7b7aa45a614178bcb3424313c93b10a928852a14a24"
+  },
+  "eventsHashes": {
+    "event-120edcea08d778df371544ec.json": "1bf874b3728efc1f2890a9abdfe18d1c21c3ed21117cae1f00965a2206cf6917",
+    "event-4fd2ebb003791eb345ede7ed.json": "3addce23d31817dc108154fecf7745378dd876df8fcb11a0ca078d4c30482354",
+    "event-90b474808764312aba3caf20.json": "149f479afcb476df9ac08e0a514381bb3e8a0879018e8fb1f5d2c40fe1d35ef9",
+    "event-9d1948e0c8ce3e303a247466.json": "36cefc9af65e8d52d1a7b5fa54fcd5eebceb595002f6b28a474fc8b2f5eb52ed"
+  }
+}

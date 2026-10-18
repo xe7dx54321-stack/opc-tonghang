@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-4fd2ebb003791eb345ede7ed",
+  "title": "vLLM 发布 0.32.0，扩展 KV 缓存与多模型推理支持",
+  "firstSeen": "2026-10-19",
+  "editionDate": "2026-10-19",
+  "occurrences": [
+    {
+      "id": "occ-4fd2ebb003791eb345ede7ed",
+      "fact": {
+        "subject": "vLLM 项目",
+        "action": "发布",
+        "object": "v0.32.0",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-19",
+      "reports": [
+        {
+          "ref": "2026-10-19/2026-10-19-vllm-0320",
+          "itemId": "2026-10-19-vllm-0320",
+          "editionDate": "2026-10-19",
+          "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
+          "source": "vllm-releases",
+          "owner": "vLLM",
+          "role": "principal",
+          "publishedAt": "2026-10-18T06:50:48Z",
+          "title": "vLLM 发布 0.32.0，扩展 KV 缓存与多模型推理支持"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-19"
+}

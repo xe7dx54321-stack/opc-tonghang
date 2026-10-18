@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-9d1948e0c8ce3e303a247466",
+  "title": "K&S 披露扩展 ProMEM，瞄准堆叠存储封装吞吐",
+  "firstSeen": "2026-10-19",
+  "editionDate": "2026-10-19",
+  "occurrences": [
+    {
+      "id": "occ-9d1948e0c8ce3e303a247466",
+      "fact": {
+        "subject": "Kulicke & Soffa",
+        "action": "披露扩展",
+        "object": "ProMEM 堆叠存储设备套件",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-19",
+      "reports": [
+        {
+          "ref": "2026-10-19/2026-10-19-ks-promem-expansion",
+          "itemId": "2026-10-19-ks-promem-expansion",
+          "editionDate": "2026-10-19",
+          "url": "https://semiwiki.com/ceo-interviews/373948-ceo-interview-with-dr-raj-talluri-of-kulicke-soffa/",
+          "source": "semiwiki",
+          "owner": "SemiWiki",
+          "role": "observer",
+          "publishedAt": "2026-10-18T13:00:13+00:00",
+          "title": "K&S 披露扩展 ProMEM，瞄准堆叠存储封装吞吐"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-19"
+}

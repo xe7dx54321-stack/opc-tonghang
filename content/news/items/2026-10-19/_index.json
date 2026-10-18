@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-19",
+  "itemCount": 4,
+  "storyCount": 4,
+  "clusterCount": 4,
+  "files": [
+    "2026-10-19-anthropic-benefit-fund.json",
+    "2026-10-19-vllm-0320.json",
+    "2026-10-19-vast-edenlive.json",
+    "2026-10-19-ks-promem-expansion.json"
+  ],
+  "representatives": [
+    "2026-10-19-anthropic-benefit-fund",
+    "2026-10-19-vllm-0320",
+    "2026-10-19-vast-edenlive",
+    "2026-10-19-ks-promem-expansion"
+  ]
+}
