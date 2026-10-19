@@ -124,7 +124,7 @@ export default function NewsIndex() {
         <div>
           <div className="font-num text-[11px] uppercase tracking-[0.18em] text-accent">/archive</div>
           <h2 className="mt-2 text-lg font-semibold text-ink">按日期回看</h2>
-          <p className="mt-1 text-sm text-ink-2">每日综述和每周研究简报，保留完整的编辑脉络。</p>
+          <p className="mt-1 text-sm text-ink-2">日报可回看近 30 天；每周研究简报长期保留。</p>
         </div>
         <div className="mt-5 flex flex-wrap gap-3 sm:mt-0">
           {daily[0] && <Link href="/news/archive" className="rounded-md border border-hair-2 px-4 py-2 text-sm text-ink-2 transition hover:border-accent hover:text-accent">每日综述 ↗</Link>}

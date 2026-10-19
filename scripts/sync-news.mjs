@@ -21,9 +21,7 @@ const dayPattern = /^\d{4}-\d{2}-\d{2}$/
 const asOf = process.argv.find(arg => arg.startsWith('--as-of='))?.slice(8) ||
   new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Shanghai', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date())
 function expired(day) {
-  const [year, month, date] = day.split('-').map(Number)
-  const last = new Date(Date.UTC(year, month + 1, 0)).getUTCDate()
-  return new Date(Date.UTC(year, month, Math.min(date, last))).toISOString().slice(0, 10) <= asOf
+  return new Date(Date.parse(`${day}T00:00:00Z`) + 31 * 86400000).toISOString().slice(0, 10) <= asOf
 }
 
 function fail(message) {
@@ -57,7 +55,7 @@ function validateDailyDigest(day, content) {
 }
 
 if (!dayPattern.test(asOf)) fail('Invalid --as-of value')
-if (requireDate && (!dayPattern.test(requireDate) || expired(requireDate))) fail('Invalid or expired --require-date value')
+if (requireDate && (!dayPattern.test(requireDate) || requireDate > asOf || expired(requireDate))) fail('Invalid, future or expired --require-date value')
 if (!existsSync(source)) {
   if (requireDate) fail(`Harness content directory does not exist: ${source}`)
   console.log('[sync-news] No local harness checkout; using committed website snapshot.')
@@ -73,7 +71,7 @@ function isStubDigest(content) {
   return /^type:\s*daily-stub\s*$/m.test(content) || /^generatedBy:\s*backfill\s*$/m.test(content)
 }
 const dailyFiles = files(sourceDaily, /^\d{4}-\d{2}-\d{2}\.md$/)
-  .filter(name => !expired(name.slice(0, 10)))
+  .filter(name => name.slice(0, 10) <= asOf && !expired(name.slice(0, 10)))
   .filter(name => !isStubDigest(readFileSync(join(sourceDaily, name), 'utf8')))
 if (requireDate && existsSync(join(sourceDaily, `${requireDate}.md`)) &&
     isStubDigest(readFileSync(join(sourceDaily, `${requireDate}.md`), 'utf8'))) {
@@ -81,7 +79,7 @@ if (requireDate && existsSync(join(sourceDaily, `${requireDate}.md`)) &&
 }
 const researchFiles = files(sourceResearch, /^\d{4}-\d{2}-\d{2}\.md$/)
 const itemDays = existsSync(sourceItems)
-  ? readdirSync(sourceItems).filter(day => dayPattern.test(day) && !expired(day) && statSync(join(sourceItems, day)).isDirectory()).sort()
+  ? readdirSync(sourceItems).filter(day => dayPattern.test(day) && day <= asOf && !expired(day) && statSync(join(sourceItems, day)).isDirectory()).sort()
   : []
 const newDailyDays = dailyFiles.map(name => name.slice(0, 10))
   .filter(day => !existsSync(join(target, 'daily', `${day}.md`)))
@@ -259,13 +257,13 @@ function syncDayDirectory(kind, day) {
 for (const day of itemDays) for (const kind of ['items', 'evidence', 'events']) syncDayDirectory(kind, day)
 for (const day of contractDays) syncFile(join(source, 'editions', `${day}.json`), join(target, 'editions', `${day}.json`))
 // Only the small reviewed public export is mirrored. Raw snapshots and link caches stay private.
-for (const name of files(sourceHeat, /^\d{4}-\d{2}-\d{2}\.json$/).filter(name => !expired(name.slice(0, 10)))) {
+for (const name of files(sourceHeat, /^\d{4}-\d{2}-\d{2}\.json$/).filter(name => name.slice(0, 10) <= asOf && !expired(name.slice(0, 10)))) {
   const data = JSON.parse(readFileSync(join(sourceHeat, name), 'utf8'))
   if (data.schemaVersion !== 1 || data.date !== name.slice(0, 10) || !Array.isArray(data.events)) fail(`Invalid public heat export: ${name}`)
   syncFile(join(sourceHeat, name), join(target, 'heat', name))
 }
 
-if (!dryRun && (changed > 0 || !existsSync(join(target, '_index.json')))) {
+if (!dryRun) {
   const getEntries = (subdir) => files(join(target, subdir), /^\d{4}-\d{2}-\d{2}\.md$/)
     .reverse().map(file => ({ file, date: file.slice(0, 10) }))
   const index = {
@@ -278,8 +276,15 @@ if (!dryRun && (changed > 0 || !existsSync(join(target, '_index.json')))) {
       items: itemDays.reduce((sum, day) => sum + files(join(target, 'items', day), /\.json$/).filter(name => name !== '_index.json').length, 0),
     },
   }
-  mkdirSync(target, { recursive: true })
-  writeFileSync(join(target, '_index.json'), JSON.stringify(index, null, 2) + '\n')
+  const indexPath = join(target, '_index.json')
+  let previous = null
+  try { previous = JSON.parse(readFileSync(indexPath, 'utf8')) } catch {}
+  if (changed > 0 || JSON.stringify([previous?.daily, previous?.research, previous?.totals]) !==
+      JSON.stringify([index.daily, index.research, index.totals])) {
+    mkdirSync(target, { recursive: true })
+    writeFileSync(indexPath, JSON.stringify(index, null, 2) + '\n')
+    changed++
+  }
 }
 
 console.log(`[sync-news] ${dryRun ? 'would update' : 'updated'} ${changed} files; ${dailyFiles.length} daily, ${researchFiles.length} research, ${itemDays.length} item days in source.`)
