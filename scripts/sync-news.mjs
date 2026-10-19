@@ -18,6 +18,13 @@ const target = process.env.NEWS_WEB_CONTENT || join(webDir, 'content', 'news')
 const dryRun = process.argv.includes('--dry-run')
 const requireDate = process.argv.find(arg => arg.startsWith('--require-date='))?.split('=')[1]
 const dayPattern = /^\d{4}-\d{2}-\d{2}$/
+const asOf = process.argv.find(arg => arg.startsWith('--as-of='))?.slice(8) ||
+  new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Shanghai', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date())
+function expired(day) {
+  const [year, month, date] = day.split('-').map(Number)
+  const last = new Date(Date.UTC(year, month + 1, 0)).getUTCDate()
+  return new Date(Date.UTC(year, month, Math.min(date, last))).toISOString().slice(0, 10) <= asOf
+}
 
 function fail(message) {
   console.error('[sync-news] ERROR:', message)
@@ -49,7 +56,8 @@ function validateDailyDigest(day, content) {
   return stories.length
 }
 
-if (requireDate && !dayPattern.test(requireDate)) fail('Invalid --require-date value')
+if (!dayPattern.test(asOf)) fail('Invalid --as-of value')
+if (requireDate && (!dayPattern.test(requireDate) || expired(requireDate))) fail('Invalid or expired --require-date value')
 if (!existsSync(source)) {
   if (requireDate) fail(`Harness content directory does not exist: ${source}`)
   console.log('[sync-news] No local harness checkout; using committed website snapshot.')
@@ -65,6 +73,7 @@ function isStubDigest(content) {
   return /^type:\s*daily-stub\s*$/m.test(content) || /^generatedBy:\s*backfill\s*$/m.test(content)
 }
 const dailyFiles = files(sourceDaily, /^\d{4}-\d{2}-\d{2}\.md$/)
+  .filter(name => !expired(name.slice(0, 10)))
   .filter(name => !isStubDigest(readFileSync(join(sourceDaily, name), 'utf8')))
 if (requireDate && existsSync(join(sourceDaily, `${requireDate}.md`)) &&
     isStubDigest(readFileSync(join(sourceDaily, `${requireDate}.md`), 'utf8'))) {
@@ -72,7 +81,7 @@ if (requireDate && existsSync(join(sourceDaily, `${requireDate}.md`)) &&
 }
 const researchFiles = files(sourceResearch, /^\d{4}-\d{2}-\d{2}\.md$/)
 const itemDays = existsSync(sourceItems)
-  ? readdirSync(sourceItems).filter(day => dayPattern.test(day) && statSync(join(sourceItems, day)).isDirectory()).sort()
+  ? readdirSync(sourceItems).filter(day => dayPattern.test(day) && !expired(day) && statSync(join(sourceItems, day)).isDirectory()).sort()
   : []
 const newDailyDays = dailyFiles.map(name => name.slice(0, 10))
   .filter(day => !existsSync(join(target, 'daily', `${day}.md`)))
@@ -175,6 +184,25 @@ for (const day of itemDays) {
 
 let changed = 0
 
+// Sync is also a retention boundary. A stale local harness or an old committed
+// web snapshot cannot resurrect expired editions on the next build.
+for (const kind of ['daily', 'editions', 'heat']) {
+  const suffix = kind === 'daily' ? '.md' : '.json'
+  for (const name of files(join(target, kind), /^\d{4}-\d{2}-\d{2}\.(?:md|json)$/)) {
+    if (!name.endsWith(suffix) || !expired(name.slice(0, 10))) continue
+    changed++
+    if (!dryRun) rmSync(join(target, kind, name))
+  }
+}
+for (const kind of ['items', 'events', 'evidence']) {
+  const dir = join(target, kind)
+  if (!existsSync(dir)) continue
+  for (const day of readdirSync(dir).filter(day => dayPattern.test(day) && expired(day))) {
+    changed++
+    if (!dryRun) rmSync(join(dir, day), { recursive: true, force: true })
+  }
+}
+
 // Remove old placeholders that earlier versions mistakenly published.
 for (const name of files(join(target, 'daily'), /^\d{4}-\d{2}-\d{2}\.md$/)) {
   const path = join(target, 'daily', name)
@@ -231,7 +259,7 @@ function syncDayDirectory(kind, day) {
 for (const day of itemDays) for (const kind of ['items', 'evidence', 'events']) syncDayDirectory(kind, day)
 for (const day of contractDays) syncFile(join(source, 'editions', `${day}.json`), join(target, 'editions', `${day}.json`))
 // Only the small reviewed public export is mirrored. Raw snapshots and link caches stay private.
-for (const name of files(sourceHeat, /^\d{4}-\d{2}-\d{2}\.json$/)) {
+for (const name of files(sourceHeat, /^\d{4}-\d{2}-\d{2}\.json$/).filter(name => !expired(name.slice(0, 10)))) {
   const data = JSON.parse(readFileSync(join(sourceHeat, name), 'utf8'))
   if (data.schemaVersion !== 1 || data.date !== name.slice(0, 10) || !Array.isArray(data.events)) fail(`Invalid public heat export: ${name}`)
   syncFile(join(sourceHeat, name), join(target, 'heat', name))

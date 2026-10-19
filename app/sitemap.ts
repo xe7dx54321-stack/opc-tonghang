@@ -4,7 +4,7 @@ import siteMetadata from '@/data/siteMetadata'
 import { NEWS_TOPICS, listDaily, listResearch } from '@/lib/news'
 import { listResearchArticles } from '@/lib/research'
 
-export const dynamic = 'force-static'
+export const dynamic = 'force-dynamic'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const siteUrl = siteMetadata.siteUrl

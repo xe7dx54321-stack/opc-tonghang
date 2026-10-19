@@ -1,5 +1,6 @@
 import { existsSync, readFileSync, readdirSync } from 'node:fs'
 import { join } from 'node:path'
+import { isNewsDayActive } from './news-retention'
 
 export interface HeatEvent {
   id: string
@@ -16,7 +17,7 @@ export function listHeatEvents(): HeatEvent[] {
   const dir = join(process.cwd(), 'content', 'news', 'heat')
   if (!existsSync(dir)) return []
   const latest = new Map<string, HeatEvent>()
-  for (const file of readdirSync(dir).filter(name => /^\d{4}-\d{2}-\d{2}\.json$/.test(name)).sort()) {
+  for (const file of readdirSync(dir).filter(name => /^\d{4}-\d{2}-\d{2}\.json$/.test(name) && isNewsDayActive(name.slice(0, 10))).sort()) {
     try {
       const data = JSON.parse(readFileSync(join(dir, file), 'utf8'))
       if (data.schemaVersion !== 1 || data.date !== file.slice(0, 10) || !Array.isArray(data.events)) continue

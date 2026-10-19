@@ -4,7 +4,7 @@
 import { listDaily, listResearch } from '@/lib/news'
 import siteMetadata from '@/data/siteMetadata'
 
-export const dynamic = 'force-static'
+export const dynamic = 'force-dynamic'
 
 function escapeXml(s: string): string {
   return s

@@ -5,6 +5,7 @@ import { readdirSync, readFileSync, existsSync, statSync } from 'node:fs'
 import { join } from 'node:path'
 import matter from 'gray-matter'
 import { listHeatEvents } from './news-heat'
+import { isNewsDayActive } from './news-retention'
 
 const CONTENT_ROOT = join(process.cwd(), 'content', 'news')
 
@@ -31,7 +32,7 @@ export function listDaily(): NewsEntry[] {
   const dir = join(CONTENT_ROOT, 'daily')
   if (!existsSync(dir)) return []
   const entries = readdirSync(dir)
-    .filter(f => /^\d{4}-\d{2}-\d{2}\.md$/.test(f))
+    .filter(f => /^\d{4}-\d{2}-\d{2}\.md$/.test(f) && isNewsDayActive(f.slice(0, 10)))
     .map(f => parseFile(join(dir, f), 'daily'))
     .filter((e): e is NewsEntry => Boolean(e))
   return entries.sort((a, b) => b.slug.localeCompare(a.slug))
@@ -50,6 +51,7 @@ export function listResearch(): NewsEntry[] {
 
 /** 读单篇 daily（按日期） */
 export function getDaily(date: string): NewsEntry | null {
+  if (!isNewsDayActive(date)) return null
   const path = join(CONTENT_ROOT, 'daily', `${date}.md`)
   return parseFile(path, 'daily')
 }
@@ -128,7 +130,7 @@ function attentionScore(editorScore: number, url: string, sourceCounts: Map<stri
 
 /** Score daily stories directly from that edition, including items not assigned to a topic card. */
 export function getDailyHeatByTitle(date: string): Record<string, number> {
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return {}
+  if (!isNewsDayActive(date)) return {}
   const dir = join(CONTENT_ROOT, 'items', date)
   if (!existsSync(dir)) return {}
   const sourceCounts = heatSourceCounts()
@@ -153,7 +155,7 @@ export function listNewsItems(): NewsItem[] {
   const items: NewsItem[] = []
   // Only editor-confirmed independent reporting can raise a story's heat.
   const sourceCounts = heatSourceCounts()
-  const days = readdirSync(root).filter(day => /^\d{4}-\d{2}-\d{2}$/.test(day)).sort().reverse()
+  const days = readdirSync(root).filter(day => /^\d{4}-\d{2}-\d{2}$/.test(day) && isNewsDayActive(day)).sort().reverse()
   for (const date of days) {
     const dir = join(root, date)
     if (!statSync(dir).isDirectory()) continue

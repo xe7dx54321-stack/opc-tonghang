@@ -1,5 +1,6 @@
 import { existsSync, readFileSync, readdirSync } from 'node:fs'
 import { join } from 'node:path'
+import { isNewsDayActive } from './news-retention'
 
 const root = join(process.cwd(), 'content', 'news')
 
@@ -31,7 +32,7 @@ export function listNewsEvents(): NewsEvent[] {
   const dir = join(root, 'events')
   if (!existsSync(dir)) return []
   const latest = new Map<string, NewsEvent>()
-  for (const day of readdirSync(dir).filter(d => /^\d{4}-\d{2}-\d{2}$/.test(d)).sort()) {
+  for (const day of readdirSync(dir).filter(d => /^\d{4}-\d{2}-\d{2}$/.test(d) && isNewsDayActive(d)).sort()) {
     const dayDir = join(dir, day)
     for (const file of readdirSync(dayDir).filter(f => /^event-[a-f0-9]{24}\.json$/.test(f))) {
       const raw = readJson(join(dayDir, file))
@@ -45,7 +46,15 @@ export function listNewsEvents(): NewsEvent[] {
             url: String(r.url), source: String(r.source ?? ''), owner: String(r.owner ?? ''),
             publishedAt: String(r.publishedAt ?? ''), title: String(r.title ?? ''),
           })) })) }
+      // A recent event snapshot may still contain reports from an expired day.
+      // Keep only the progress whose original edition remains available.
+      event.occurrences = event.occurrences.map(occurrence => ({
+        ...occurrence, reports: occurrence.reports.filter(report => isNewsDayActive(report.editionDate)),
+      })).filter(occurrence => occurrence.reports.length > 0)
       if (!event.title || !event.occurrences.length) continue
+      const retainedDays = event.occurrences.flatMap(occurrence => occurrence.reports.map(report => report.editionDate)).sort()
+      event.firstSeen = retainedDays[0]
+      event.lastSeen = retainedDays.at(-1)!
       for (const occurrence of event.occurrences) for (const report of occurrence.reports) {
         const item = readJson(join(root, 'items', report.editionDate, `${report.itemId}.json`))
         if (item && !item.duplicateOf && item.eventId === event.id && typeof item.narrative === 'string') report.narrative = item.narrative
