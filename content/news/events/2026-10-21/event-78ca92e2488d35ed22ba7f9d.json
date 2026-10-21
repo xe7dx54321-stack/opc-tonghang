@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-78ca92e2488d35ed22ba7f9d",
+  "title": "Mistral 发布 Voxtral 3，把实时语音识别、合成与工具调用接成一套",
+  "firstSeen": "2026-10-21",
+  "editionDate": "2026-10-21",
+  "occurrences": [
+    {
+      "id": "occ-78ca92e2488d35ed22ba7f9d",
+      "fact": {
+        "subject": "Mistral AI",
+        "action": "发布实时语音模型与 Agent SDK",
+        "object": "Voxtral 3",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-21",
+      "reports": [
+        {
+          "ref": "2026-10-21/2026-10-21-mistral-voxtral-3",
+          "itemId": "2026-10-21-mistral-voxtral-3",
+          "editionDate": "2026-10-21",
+          "url": "https://mistral.ai/news/voxtral-3/",
+          "source": "mistral-news",
+          "owner": "Mistral AI",
+          "role": "principal",
+          "publishedAt": "2026-10-20T12:00:22.000Z",
+          "title": "Mistral 发布 Voxtral 3，把实时语音识别、合成与工具调用接成一套"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-21"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-71a728d7dff9b4d1528b4656",
+  "title": "达摩院玄铁发布车规E908A及自动驾驶处理器路线图",
+  "firstSeen": "2026-10-20",
+  "editionDate": "2026-10-20",
+  "occurrences": [
+    {
+      "id": "occ-71a728d7dff9b4d1528b4656",
+      "fact": {
+        "subject": "达摩院玄铁",
+        "action": "报道峰会发布产品与路线图",
+        "object": "玄铁E908A与车规处理器路线图",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-20",
+      "reports": [
+        {
+          "ref": "2026-10-20/2026-10-20-xuan-tie-auto-roadmap",
+          "itemId": "2026-10-20-xuan-tie-auto-roadmap",
+          "editionDate": "2026-10-20",
+          "url": "https://www.qbitai.com/2026/10/504238.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "observer",
+          "publishedAt": "2026-10-19T09:56:38.000Z",
+          "title": "达摩院玄铁发布车规E908A及自动驾驶处理器路线图"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-20"
+}

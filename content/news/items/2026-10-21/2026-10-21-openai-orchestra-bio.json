@@ -1,0 +1,59 @@
+{
+  "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+  "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "fetchedAt": "2026-10-20T20:48:40.282Z",
+  "id": "2026-10-21-openai-orchestra-bio",
+  "entities": [
+    "OpenAI"
+  ],
+  "publishedAt": "2026-10-20T20:35:10+00:00",
+  "summary": "TechCrunch 10 月 20 日据 OpenAI 公告报道，OpenAI 收购生物技术软件公司 Orchestra Bio，计划把其团队和技术接入 Rosalind 模型及 Rosalind Workbench；交易条款未披露。",
+  "investorNote": "模型公司收购垂直工作流团队说明药研客户需要实验规划和项目管理，而不只需要模型问答。",
+  "score": 0.72,
+  "duplicateOf": null,
+  "clusterId": "event-a1834c4e80aba3797b2042ca",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "OpenAI",
+    "action": "收购生物技术软件公司",
+    "object": "Orchestra Bio",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "60205b269517f9d32a2e6dbd0c119a339491cfcd4daff6f3836ac6a8e333fada",
+    "originalUrl": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "originalPublishedAt": "2026-10-20T20:35:10+00:00",
+    "checkedAt": "2026-10-20T23:34:54.255Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "60205b269517f9d32a2e6dbd0c119a339491cfcd4daff6f3836ac6a8e333fada",
+      "kind": "fact",
+      "quote": "OpenAI on Tuesday acquired a four-year-old AI biotech software startup called Orchestra Bio, the company\nannounced\nvia its website."
+    },
+    {
+      "snapshotId": "60205b269517f9d32a2e6dbd0c119a339491cfcd4daff6f3836ac6a8e333fada",
+      "kind": "condition",
+      "quote": "Terms of the deal were not disclosed, but the startup had reportedly raised\naround $20 million\nas of 2025 from backers like Andreessen Horowitz, Atria, and 8VC."
+    }
+  ],
+  "displayTitle": "OpenAI 收购 Orchestra Bio，补齐生物研发工作流",
+  "narrative": "TechCrunch 根据 OpenAI 公告报道，OpenAI 收购 Orchestra Bio，拟将其团队和技术并入 Rosalind 及相关工作台，**交易金额未披露**。Orchestra 原本处理药研项目中的流程与协作问题；这笔收购表明模型供应商正把入口延伸到实验计划与执行管理。收购本身不证明药物研发效率已有临床层面的提升，后续要看实验团队是否长期使用。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次记录该具体动作；近两周历史候选无同一次发生的记录"
+  },
+  "eventId": "event-a1834c4e80aba3797b2042ca",
+  "occurrenceId": "occ-a1834c4e80aba3797b2042ca",
+  "relatedItems": []
+}

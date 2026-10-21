@@ -1,0 +1,58 @@
+{
+  "id": "2026-10-20-manifold-robodojo",
+  "title": "登顶 RoboDojo-Agent，Manifold AI 流形空间给「机器人自进化」技术路线立标杆",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247747279&idx=1&sn=493f1d1bc13d8276d98f419ab70b2999",
+  "source": "wechat-aitechreview",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [],
+  "publishedAt": "2026-10-19T04:45:00.000Z",
+  "fetchedAt": "2026-10-19T12:49:01.865Z",
+  "summary": "AI科技评论10月19日报道，Manifold AI的WorldScape R²SI在RoboDojo Agent Track取得46.58的宏观进度分数。报道举例称系统通过复盘动作轨迹改进同一任务，所列成绩来自团队与榜单报道，尚不能据此推定真实场景通用表现。",
+  "investorNote": "机器人Agent的评测开始衡量执行后的自我修正，但商业部署需要真机可靠性与成本数据。",
+  "score": 0.69,
+  "duplicateOf": null,
+  "clusterId": "event-9140ca9a4877fe7e32ca1849",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Manifold AI",
+    "action": "报道团队发布的机器人Agent评测",
+    "object": "WorldScape R²SI在RoboDojo Agent Track的结果",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "AI科技评论",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e115b95d6d3257089e8bcdf97988ea68837fccd22b660f54c4cf9271ae7bfa14",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247747279&idx=1&sn=493f1d1bc13d8276d98f419ab70b2999",
+    "originalPublishedAt": "2026-10-19T04:45:00.000Z",
+    "checkedAt": "2026-10-19T23:35:45.842Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e115b95d6d3257089e8bcdf97988ea68837fccd22b660f54c4cf9271ae7bfa14",
+      "kind": "fact",
+      "quote": "这套系统叫 WorldScape R²SI （Recursive Robot Self-Improvement，机器人递归自进化），来自 Manifold AI 流形空间。"
+    },
+    {
+      "snapshotId": "e115b95d6d3257089e8bcdf97988ea68837fccd22b660f54c4cf9271ae7bfa14",
+      "kind": "condition",
+      "quote": "宏观进度分数达到46.58 分，再度刷新 RoboDojo 榜单的分数上限。"
+    }
+  ],
+  "displayTitle": "Manifold AI报告机器人Agent在RoboDojo取得46.58分",
+  "narrative": "AI科技评论报道，Manifold AI的WorldScape R²SI在RoboDojo Agent Track取得46.58分，重点是机器人执行后复盘失败轨迹、重新规划动作，而非仅替换基础模型。这个方向把评测焦点从一次成功率转向持续改进能力；报道中的榜单结果仍需与真机任务完成率和部署成本分开看。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次记录该主体对该具体对象的独立动作；历史候选无同一次发生"
+  },
+  "eventId": "event-9140ca9a4877fe7e32ca1849",
+  "occurrenceId": "occ-9140ca9a4877fe7e32ca1849",
+  "relatedItems": []
+}

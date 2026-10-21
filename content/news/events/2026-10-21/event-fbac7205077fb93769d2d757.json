@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-fbac7205077fb93769d2d757",
+  "title": "新石器完成近 4 亿美元 E 轮，无人配送竞争转向运力网络",
+  "firstSeen": "2026-10-21",
+  "editionDate": "2026-10-21",
+  "occurrences": [
+    {
+      "id": "occ-fbac7205077fb93769d2d757",
+      "fact": {
+        "subject": "新石器",
+        "action": "宣布完成 E 轮融资",
+        "object": "近 4 亿美元融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-21",
+      "reports": [
+        {
+          "ref": "2026-10-21/2026-10-21-neolix-series-e",
+          "itemId": "2026-10-21-neolix-series-e",
+          "editionDate": "2026-10-21",
+          "url": "https://www.leiphone.com/category/industrynews/eSrgjx3nGEGMMePm.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-10-20T04:22:00.000Z",
+          "title": "新石器完成近 4 亿美元 E 轮，无人配送竞争转向运力网络"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-21"
+}

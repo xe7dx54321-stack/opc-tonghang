@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-de221af6d05b2bdd10d22ca1",
+  "title": "Kodama获700万美元，把林业重型设备自动化推向商用",
+  "firstSeen": "2026-10-20",
+  "editionDate": "2026-10-20",
+  "occurrences": [
+    {
+      "id": "occ-de221af6d05b2bdd10d22ca1",
+      "fact": {
+        "subject": "Kodama Systems",
+        "action": "报道700万美元融资",
+        "object": "Kodama林业自动化商业部署",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-20",
+      "reports": [
+        {
+          "ref": "2026-10-20/2026-10-20-kodama-forestry-funding",
+          "itemId": "2026-10-20-kodama-forestry-funding",
+          "editionDate": "2026-10-20",
+          "url": "https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry/",
+          "source": "robot-report",
+          "owner": "The Robot Report",
+          "role": "observer",
+          "publishedAt": "2026-10-19T15:55:12.000Z",
+          "title": "Kodama获700万美元，把林业重型设备自动化推向商用"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-20"
+}

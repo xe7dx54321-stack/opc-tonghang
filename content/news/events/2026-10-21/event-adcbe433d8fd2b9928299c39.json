@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "event-adcbe433d8fd2b9928299c39",
+  "title": "伊塔动力获超亿元种子轮融资，押注力控关节与操作平台",
+  "firstSeen": "2026-10-21",
+  "editionDate": "2026-10-21",
+  "occurrences": [
+    {
+      "id": "occ-adcbe433d8fd2b9928299c39",
+      "fact": {
+        "subject": "伊塔动力",
+        "action": "宣布完成种子与种子+轮融资",
+        "object": "超亿元融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-21",
+      "reports": [
+        {
+          "ref": "2026-10-21/2026-10-21-yita-funding-investor",
+          "itemId": "2026-10-21-yita-funding-investor",
+          "editionDate": "2026-10-21",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODk5OTEzOA==&mid=2962188960&idx=2&sn=a3672bdfb18b78dbd09cdae0c760aaeb",
+          "source": "wechat-jingwei",
+          "owner": "经纬创投",
+          "role": "principal",
+          "publishedAt": "2026-10-20T05:03:00.000Z",
+          "title": "伊塔动力获超亿元种子轮融资，押注力控关节与操作平台"
+        },
+        {
+          "ref": "2026-10-21/2026-10-21-yita-funding-report",
+          "itemId": "2026-10-21-yita-funding-report",
+          "editionDate": "2026-10-21",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247518836&idx=1&sn=c839e2bbc83c21d00093714022454468",
+          "source": "wechat-zpotentials",
+          "owner": "Z Potentials",
+          "role": "observer",
+          "publishedAt": "2026-10-20T02:26:00.000Z",
+          "title": "伊塔动力获超亿元种子轮融资，押注力控关节与操作平台"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-21"
+}

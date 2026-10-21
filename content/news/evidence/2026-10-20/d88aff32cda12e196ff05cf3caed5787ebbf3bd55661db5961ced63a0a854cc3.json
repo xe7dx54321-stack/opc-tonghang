@@ -1,0 +1,12 @@
+{
+  "snapshotId": "d88aff32cda12e196ff05cf3caed5787ebbf3bd55661db5961ced63a0a854cc3",
+  "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+  "publishedAt": "2026-10-19T18:37:27.000Z",
+  "publishedAtQuote": "October 19, 2026",
+  "retrievedAt": "2026-10-19T23:35:45.767Z",
+  "method": "agent-tool",
+  "contentHash": "c259a196df623113a16abef4437170f43119cc1c14a32d1b7f979f410c85a721",
+  "quotations": [
+    "Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation."
+  ]
+}

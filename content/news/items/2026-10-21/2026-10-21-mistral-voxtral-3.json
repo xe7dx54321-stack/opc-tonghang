@@ -1,0 +1,59 @@
+{
+  "title": "Voxtral 3",
+  "url": "https://mistral.ai/news/voxtral-3/",
+  "source": "mistral-news",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "fetchedAt": "2026-10-20T16:14:50.434Z",
+  "id": "2026-10-21-mistral-voxtral-3",
+  "entities": [
+    "Mistral AI"
+  ],
+  "publishedAt": "2026-10-20T12:00:22.000Z",
+  "summary": "Mistral 发布 Voxtral 3 语音模型和 Agent SDK，面向 50 多种语言的实时多轮对话，把识别、语音合成及工具调用组合在同一产品线；提供欧盟托管 API 与自行部署方式。",
+  "investorNote": "语音 Agent 的采购重点从单项识别准确率转向延迟、工具执行与数据部署边界的整体体验。",
+  "score": 0.83,
+  "duplicateOf": null,
+  "clusterId": "event-78ca92e2488d35ed22ba7f9d",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Mistral AI",
+    "action": "发布实时语音模型与 Agent SDK",
+    "object": "Voxtral 3",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Mistral AI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "7462437f4c2ddea8f8546df0c76c7e3959eeec2118a554425d286760b5d8c84c",
+    "originalUrl": "https://mistral.ai/news/voxtral-3/",
+    "originalPublishedAt": "2026-10-20T12:00:22.000Z",
+    "checkedAt": "2026-10-20T23:34:54.201Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "7462437f4c2ddea8f8546df0c76c7e3959eeec2118a554425d286760b5d8c84c",
+      "kind": "fact",
+      "quote": "Voxtral 3 introduces a cutting-edge voice agent SDK and state-of-the-art speech models designed for real-time, multi-step conversations across 50+ languages."
+    },
+    {
+      "snapshotId": "7462437f4c2ddea8f8546df0c76c7e3959eeec2118a554425d286760b5d8c84c",
+      "kind": "condition",
+      "quote": "Available via Mistral’s EU-hosted API or self-deployment, it ensures data sovereignty while delivering low-latency, human-like interactions for contact centers, virtual assistants, and hands-free copilots."
+    }
+  ],
+  "displayTitle": "Mistral 发布 Voxtral 3，把实时语音识别、合成与工具调用接成一套",
+  "narrative": "Mistral 发布 Voxtral 3，将转写、语音生成和工具调用组合成实时对话方案，覆盖 **50 多种语言**，可通过欧盟托管 API 使用，也支持自行部署。对客服与现场助理而言，关键比较项是打断后的响应、外部系统调用以及数据留存位置；厂商展示的语音质量仍需在真实噪声和行业词汇下复测。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次记录该具体动作；近两周历史候选无同一次发生的记录"
+  },
+  "eventId": "event-78ca92e2488d35ed22ba7f9d",
+  "occurrenceId": "occ-78ca92e2488d35ed22ba7f9d",
+  "relatedItems": []
+}

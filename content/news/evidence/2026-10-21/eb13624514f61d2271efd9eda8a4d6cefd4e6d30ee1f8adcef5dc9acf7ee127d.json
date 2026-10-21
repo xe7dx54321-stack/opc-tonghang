@@ -1,0 +1,13 @@
+{
+  "snapshotId": "eb13624514f61d2271efd9eda8a4d6cefd4e6d30ee1f8adcef5dc9acf7ee127d",
+  "url": "https://huggingface.co/blog/hf-torchtpu",
+  "publishedAt": "2026-10-20T00:00:00.758Z",
+  "publishedAtQuote": "2026-10-20T00:00:00.758Z",
+  "retrievedAt": "2026-10-20T23:34:54.364Z",
+  "method": "agent-tool",
+  "contentHash": "eef4b8af9ad18b42f27e8c2a67e69447fec86142d85eaaaf665401cae342caea",
+  "quotations": [
+    "With\nTorchTPU\n, a native PyTorch backend, TPU is now just another device. It opens up native support of TPU in the Hugging Face ecosystem.",
+    "Transformers, Diffusers and Kernels run natively on TPU. Pick a model from the Hub, send it to\n\"tpu\"\n, and you're done."
+  ]
+}

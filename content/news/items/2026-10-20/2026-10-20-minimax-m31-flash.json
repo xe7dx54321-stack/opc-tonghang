@@ -1,0 +1,62 @@
+{
+  "id": "2026-10-20-minimax-m31-flash",
+  "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
+  "url": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [],
+  "publishedAt": "2026-10-19T18:22:30.000Z",
+  "fetchedAt": "2026-10-19T18:25:32.010Z",
+  "summary": "The Decoder于10月19日报道MiniMax推出M3.1 Flash。Artificial Analysis Intelligence Index得分从前代M3的29升至42；报道给出API价格为每百万输入Token 0.15美元、输出Token 0.60美元，并提醒模型在其测试中仍有较高幻觉率。",
+  "investorNote": "低价与速度改善会加剧API价格竞争，企业采用时应把事实可靠性与总任务成本一起测量。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "event-47b4e1b215563ef0e11e10b0",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "MiniMax",
+    "action": "报道模型发布并核对独立评测",
+    "object": "M3.1 Flash",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "6d2267d2203129f3e2b2217b973c2e77de5f76b3c1bf61508cd58c7a95efd964",
+    "originalUrl": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
+    "originalPublishedAt": "2026-10-19T18:22:30.000Z",
+    "checkedAt": "2026-10-19T23:35:45.792Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "6d2267d2203129f3e2b2217b973c2e77de5f76b3c1bf61508cd58c7a95efd964",
+      "kind": "fact",
+      "quote": "MiniMax-M3.1-Flash jumps from 29 to 42 points on the Artificial Analysis Intelligence Index compared to M3, while cutting cost per task sharply."
+    },
+    {
+      "snapshotId": "6d2267d2203129f3e2b2217b973c2e77de5f76b3c1bf61508cd58c7a95efd964",
+      "kind": "condition",
+      "quote": "API pricing sits at $0.15 per million input tokens and $0.60 per million output tokens"
+    },
+    {
+      "snapshotId": "6d2267d2203129f3e2b2217b973c2e77de5f76b3c1bf61508cd58c7a95efd964",
+      "kind": "condition",
+      "quote": "The model also uses far fewer output tokens than its rivals, bringing the cost per task down to about $0.22. MiniMax says it runs three times faster than M3. One weak spot is its 93 percent hallucination rate, since the model tries to answer every test question instead of declining when it's uncertain, according to Artificial Analysis."
+    }
+  ],
+  "displayTitle": "MiniMax发布M3.1 Flash，低价推理模型把成本压到每任务约0.22美元",
+  "narrative": "MiniMax推出M3.1 Flash，The Decoder引用Artificial Analysis测试称指数得分由前代29升至42，API报价每百万输入Token 0.15美元、输出Token 0.60美元。低价直接作用于长链Agent的调用成本，但第三方测试同时提示高幻觉率；买方要比较完成任务后的人工复核和失败重试成本。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次记录该主体对该具体对象的独立动作；历史候选无同一次发生"
+  },
+  "eventId": "event-47b4e1b215563ef0e11e10b0",
+  "occurrenceId": "occ-47b4e1b215563ef0e11e10b0",
+  "relatedItems": []
+}

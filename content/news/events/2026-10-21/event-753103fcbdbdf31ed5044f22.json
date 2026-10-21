@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-753103fcbdbdf31ed5044f22",
+  "title": "Claude 设计蝎毒蛋白结合体，211 个方案中 17 个通过结合测试",
+  "firstSeen": "2026-10-21",
+  "editionDate": "2026-10-21",
+  "occurrences": [
+    {
+      "id": "occ-753103fcbdbdf31ed5044f22",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "公布实验性蛋白结合体设计与湿实验结果",
+        "object": "蝎毒神经毒素 minibinder",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-21",
+      "reports": [
+        {
+          "ref": "2026-10-21/2026-10-21-claude-scorpion-binders",
+          "itemId": "2026-10-21-claude-scorpion-binders",
+          "editionDate": "2026-10-21",
+          "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+          "source": "anthropic-official",
+          "owner": "Anthropic",
+          "role": "principal",
+          "publishedAt": "2026-10-20T00:00:00.000Z",
+          "title": "Claude 设计蝎毒蛋白结合体，211 个方案中 17 个通过结合测试"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-21"
+}

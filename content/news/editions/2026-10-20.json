@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-20",
+  "window": {
+    "start": 1792366200000,
+    "end": 1792452600000
+  },
+  "digestHash": "4f9975f1e286a43243359692ccf364b736bd60c01b85cc35ca5df78d5a14f9ff",
+  "stories": [
+    {
+      "heading": "OpenAI发布低资源编程语言评测，补上企业遗留代码盲区",
+      "itemId": "2026-10-20-openai-low-resource-coding",
+      "eventId": "event-655737b03f3b2f1fe09e862c",
+      "occurrenceId": "occ-655737b03f3b2f1fe09e862c"
+    },
+    {
+      "heading": "Tenstorrent融得15亿美元，估值升至62亿美元",
+      "itemId": "2026-10-20-tenstorrent-financing",
+      "eventId": "event-aa336dea62d8cdbbd13d9c07",
+      "occurrenceId": "occ-aa336dea62d8cdbbd13d9c07"
+    },
+    {
+      "heading": "MiniMax发布M3.1 Flash，低价推理模型把成本压到每任务约0.22美元",
+      "itemId": "2026-10-20-minimax-m31-flash",
+      "eventId": "event-47b4e1b215563ef0e11e10b0",
+      "occurrenceId": "occ-47b4e1b215563ef0e11e10b0"
+    },
+    {
+      "heading": "TorchNeuron开放Trainium原生PyTorch后端，10月20日启动公测",
+      "itemId": "2026-10-20-torchneuron-hf",
+      "eventId": "event-5f8f19de51fdacb7b224f33d",
+      "occurrenceId": "occ-5f8f19de51fdacb7b224f33d"
+    },
+    {
+      "heading": "Manifold AI报告机器人Agent在RoboDojo取得46.58分",
+      "itemId": "2026-10-20-manifold-robodojo",
+      "eventId": "event-9140ca9a4877fe7e32ca1849",
+      "occurrenceId": "occ-9140ca9a4877fe7e32ca1849"
+    },
+    {
+      "heading": "MATARIA获数千万元种子轮，押注材料研发的实验闭环",
+      "itemId": "2026-10-20-mataria-seed-round",
+      "eventId": "event-e6273a952620ac49134e59bc",
+      "occurrenceId": "occ-e6273a952620ac49134e59bc"
+    },
+    {
+      "heading": "Lovart 2.0上线设计Agent Arti，主攻可交付的个人工作流",
+      "itemId": "2026-10-20-lovart-arti-launch",
+      "eventId": "event-ab8324025610a22da5fa87f6",
+      "occurrenceId": "occ-ab8324025610a22da5fa87f6"
+    },
+    {
+      "heading": "Kodama获700万美元，把林业重型设备自动化推向商用",
+      "itemId": "2026-10-20-kodama-forestry-funding",
+      "eventId": "event-de221af6d05b2bdd10d22ca1",
+      "occurrenceId": "occ-de221af6d05b2bdd10d22ca1"
+    },
+    {
+      "heading": "铭芯启睿完成超4亿元A轮，卢涛入职并启动LPU研发",
+      "itemId": "2026-10-20-memsilicon-funding-lpu",
+      "eventId": "event-43b4f99f74c8b3318e0920a8",
+      "occurrenceId": "occ-43b4f99f74c8b3318e0920a8"
+    },
+    {
+      "heading": "达摩院玄铁发布车规E908A及自动驾驶处理器路线图",
+      "itemId": "2026-10-20-xuan-tie-auto-roadmap",
+      "eventId": "event-71a728d7dff9b4d1528b4656",
+      "occurrenceId": "occ-71a728d7dff9b4d1528b4656"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-20-amazon-torchneuron-report.json": "df9380a2027eefe7645fe3dac43ae78af0cdc702dc62c9b1ab9298b1a280ec59",
+    "2026-10-20-kodama-forestry-funding.json": "b938e6da19ba6122f9d4cbc57178a2d8f7429acb21ceac6a61d47000137d0af2",
+    "2026-10-20-lovart-arti-launch.json": "11286be77b72072a257ca88c3876cec76d4ea82a3badb8f15d8bbb4a5b169852",
+    "2026-10-20-manifold-robodojo.json": "e7f5d5800593aaa35de946e60e94aecb5f89f58ac60f1de52eb7854bb4747627",
+    "2026-10-20-mataria-seed-round.json": "08efadbb57d06566065d1dbaad394ad3b527b993e5d31e34317513f5f6cc3857",
+    "2026-10-20-memsilicon-funding-lpu.json": "badf05c74e955ab3d42bf0d6f50a0b4601a06d3959ea6ef4f2f0f7aec8a822c7",
+    "2026-10-20-minimax-m31-flash.json": "c456b067d1abfa03fcafe7f9007afe2061f6d77d5d8a3b570e1528404d22cf4d",
+    "2026-10-20-openai-low-resource-coding.json": "d6c02c26af98b41057cd9c8dc3191a8efeb7117e5e7b9d1df961bbd3a98dff71",
+    "2026-10-20-tenstorrent-financing.json": "dd9bce85cc5b27c49d8be9b0fcc8a8f92d552742d7485b0a8ad51afa88c3277d",
+    "2026-10-20-torchneuron-hf.json": "0c51e19fe691a20ca66461cf05a76ba10a97eea496fc9e4880489fdf21202619",
+    "2026-10-20-xuan-tie-auto-roadmap.json": "f8a1ced1ea9b5cbd65ef81bffe86002d9a5595eed499f51fb3b80adcf7ef7ef9"
+  },
+  "evidenceHashes": {
+    "26b79531ac784e4ae8bd43cb982694b70e6acb2e224f78264fc6569bac042611.json": "ec528a87381686cf996957b03d63dfa67ba0fa26f31008764d52a4cb8b7205ea",
+    "466b8480b6951d13eb7379431e34b4993709e15f6b20685b02a69d973a492d4a.json": "40c5105526519c0fb13a686fe064a5d60bb2925c94763963ec474c090c7a26b6",
+    "654623fad4ee7aea2b7639415f74ca289a0ded9136f463d3900b3d62787758e3.json": "c329b4c783fad43912933e2b6c4b6a13866c5e9af482911036793d5a9134c58a",
+    "6d2267d2203129f3e2b2217b973c2e77de5f76b3c1bf61508cd58c7a95efd964.json": "b8302590d9be404828d154c17275cbfcf82059589b1ebb125270faebc7201cc9",
+    "7f26cc5f1589ac02232d2cce9b1983523a05ad2d58236a7fb779579d69ff8358.json": "73c000175c19c4b5fd2d543493ab157d8bc74e1c5e7f1d87d275f37a67499423",
+    "826d934ea74be0f29b60f28c80af93a1b2dfcdaebe48b3ac1a3c4c9661524f41.json": "b11c364b53f7b86533dc08c99e36ad8c4de237ee52108d3d9ea4edba2543ab00",
+    "99770d16b86661e98b3100892200f61a47c04e8fa5dfc47ca0c6390a151f1566.json": "6c6da9aab7dd6c4737b25ed7d07309f08ccc24f853b95be96502de90037bc3f0",
+    "d88aff32cda12e196ff05cf3caed5787ebbf3bd55661db5961ced63a0a854cc3.json": "6b801c531253cac6c50d81271f2c4795c2dd48307e6ca11ab7f7c71cdfb57eb2",
+    "dc836bfb074a4fdda91d9fd33664fa8e90ed9008bf82b812db33384642bfab7a.json": "d8e91c45318a7d9615aeb539984bf824d25ae28d75675b3c5742876e92cc4116",
+    "df89fa0a2ed2d3363b7fbedf21465b1ab7f28bc5d2695547ba09289a68f534d5.json": "37d47436326961f50b9fdebdd6a03193e91393c5e76603d8e0027d88407dab49",
+    "e115b95d6d3257089e8bcdf97988ea68837fccd22b660f54c4cf9271ae7bfa14.json": "f7bb5c4ea47f8ebeb8a2df32a3d035d2d6b777b938646395f0ee47f831de3750"
+  },
+  "eventsHashes": {
+    "event-43b4f99f74c8b3318e0920a8.json": "a5bf353d313b4d6ec64e716fc75c723ca04886a2dc9007c850667d394d0f5fec",
+    "event-47b4e1b215563ef0e11e10b0.json": "e90a884d15cf5b59616a8776d36cc7b9e01a13fcbb13010f1565cb453796385c",
+    "event-5f8f19de51fdacb7b224f33d.json": "266efcff39edd99f331e274eb325adb564d0a1dd17dedabde999da2d873313f1",
+    "event-655737b03f3b2f1fe09e862c.json": "eef06b1601b1ca6c0bef282ebf138dcbb173ef5a4f32f6eed422b9fdf8add03e",
+    "event-71a728d7dff9b4d1528b4656.json": "95018a30f0cb4b9b68bcae35023a6e857c09ba4103c2cf9e6c806a3a6216b460",
+    "event-9140ca9a4877fe7e32ca1849.json": "7825988d32ab0bf4228418aa612592937e50540cd1b401ab693e8c99d5f3f36c",
+    "event-aa336dea62d8cdbbd13d9c07.json": "f960ad40d497619faa813adc632603ae2003d9e6dd1bdc5022476f9b8eefadb8",
+    "event-ab8324025610a22da5fa87f6.json": "8599e1105c23bc53662ef1f04cb81d0ff2e423043f6a02d0bf1bf8ff4b485cd7",
+    "event-de221af6d05b2bdd10d22ca1.json": "a96c66ea9e8a5d0b7c315408d88bcbbd6581e1d0e2141ec06ade66845445f6ff",
+    "event-e6273a952620ac49134e59bc.json": "4fbee60c6d0fc8ad8276db59fae593030cd900081eefec9b5a58f2d030255747"
+  }
+}

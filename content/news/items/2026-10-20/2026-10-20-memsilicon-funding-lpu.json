@@ -1,0 +1,63 @@
+{
+  "id": "2026-10-20-memsilicon-funding-lpu",
+  "title": "独家｜前Graphcore总裁卢涛加入铭芯启睿，要把LPU做成「高铁」",
+  "url": "https://www.leiphone.com/category/chips/56PWzwTNdteGx04q.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [],
+  "publishedAt": "2026-10-19T06:02:00.000Z",
+  "fetchedAt": "2026-10-19T08:13:37.305Z",
+  "summary": "雷峰网10月19日独家报道，铭芯启睿完成超4亿元人民币A轮融资，博原资本领投；前Graphcore总裁卢涛加入任CEO及联合创始人。公司在RRAM之外启动第一代LPU研发，报道中的速度和价格目标尚属研发设想。",
+  "investorNote": "存储团队进入推理计算是差异化尝试，关键是芯片流片、软件栈和真实成本验证。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "event-43b4f99f74c8b3318e0920a8",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "铭芯启睿",
+    "action": "独家报道融资与CEO任命",
+    "object": "铭芯启睿A轮和LPU研发",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "26b79531ac784e4ae8bd43cb982694b70e6acb2e224f78264fc6569bac042611",
+    "originalUrl": "https://www.leiphone.com/category/chips/56PWzwTNdteGx04q.html",
+    "originalPublishedAt": "2026-10-19T06:02:00.000Z",
+    "checkedAt": "2026-10-19T23:35:45.935Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "26b79531ac784e4ae8bd43cb982694b70e6acb2e224f78264fc6569bac042611",
+      "kind": "fact",
+      "quote": "铭芯启睿（MemSilicon）已完成超4亿元A轮融资"
+    },
+    {
+      "snapshotId": "26b79531ac784e4ae8bd43cb982694b70e6acb2e224f78264fc6569bac042611",
+      "kind": "condition",
+      "quote": "前Graphcore总裁兼大中华区总经理卢涛也已加入铭芯启睿"
+    },
+    {
+      "snapshotId": "26b79531ac784e4ae8bd43cb982694b70e6acb2e224f78264fc6569bac042611",
+      "kind": "condition",
+      "quote": "启动第一代LPU研发，将业务从存储延伸至计算。"
+    }
+  ],
+  "displayTitle": "铭芯启睿完成超4亿元A轮，卢涛入职并启动LPU研发",
+  "narrative": "雷峰网独家披露，铭芯启睿完成超4亿元A轮，前Graphcore总裁卢涛出任CEO及联合创始人，团队将在RRAM之外研发第一代LPU。融资和人事是已发生的动作；每用户每秒千Token等是产品目标。要判断存储与计算协同能否形成壁垒，需要等待流片、软件适配及客户负载数据。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次记录该主体对该具体对象的独立动作；历史候选无同一次发生"
+  },
+  "eventId": "event-43b4f99f74c8b3318e0920a8",
+  "occurrenceId": "occ-43b4f99f74c8b3318e0920a8",
+  "relatedItems": []
+}

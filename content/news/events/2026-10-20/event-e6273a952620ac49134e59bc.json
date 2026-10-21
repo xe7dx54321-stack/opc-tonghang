@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-e6273a952620ac49134e59bc",
+  "title": "MATARIA获数千万元种子轮，押注材料研发的实验闭环",
+  "firstSeen": "2026-10-20",
+  "editionDate": "2026-10-20",
+  "occurrences": [
+    {
+      "id": "occ-e6273a952620ac49134e59bc",
+      "fact": {
+        "subject": "MATARIA",
+        "action": "独家报道种子轮融资",
+        "object": "MATARIA元材新界数千万元融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-20",
+      "reports": [
+        {
+          "ref": "2026-10-20/2026-10-20-mataria-seed-round",
+          "itemId": "2026-10-20-mataria-seed-round",
+          "editionDate": "2026-10-20",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247518816&idx=1&sn=6b0b09f1d205c9436390150bbba2c016",
+          "source": "wechat-zpotentials",
+          "owner": "Z Potentials",
+          "role": "observer",
+          "publishedAt": "2026-10-19T03:00:00.000Z",
+          "title": "MATARIA获数千万元种子轮，押注材料研发的实验闭环"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-20"
+}

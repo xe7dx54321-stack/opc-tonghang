@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-aa336dea62d8cdbbd13d9c07",
+  "title": "Tenstorrent融得15亿美元，估值升至62亿美元",
+  "firstSeen": "2026-10-20",
+  "editionDate": "2026-10-20",
+  "occurrences": [
+    {
+      "id": "occ-aa336dea62d8cdbbd13d9c07",
+      "fact": {
+        "subject": "Tenstorrent",
+        "action": "报道新一轮融资",
+        "object": "15亿美元融资与62亿美元估值",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-20",
+      "reports": [
+        {
+          "ref": "2026-10-20/2026-10-20-tenstorrent-financing",
+          "itemId": "2026-10-20-tenstorrent-financing",
+          "editionDate": "2026-10-20",
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-19T18:37:27.000Z",
+          "title": "Tenstorrent融得15亿美元，估值升至62亿美元"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-20"
+}

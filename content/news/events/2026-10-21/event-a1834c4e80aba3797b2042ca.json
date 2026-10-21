@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a1834c4e80aba3797b2042ca",
+  "title": "OpenAI 收购 Orchestra Bio，补齐生物研发工作流",
+  "firstSeen": "2026-10-21",
+  "editionDate": "2026-10-21",
+  "occurrences": [
+    {
+      "id": "occ-a1834c4e80aba3797b2042ca",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "收购生物技术软件公司",
+        "object": "Orchestra Bio",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-21",
+      "reports": [
+        {
+          "ref": "2026-10-21/2026-10-21-openai-orchestra-bio",
+          "itemId": "2026-10-21-openai-orchestra-bio",
+          "editionDate": "2026-10-21",
+          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-20T20:35:10+00:00",
+          "title": "OpenAI 收购 Orchestra Bio，补齐生物研发工作流"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-21"
+}

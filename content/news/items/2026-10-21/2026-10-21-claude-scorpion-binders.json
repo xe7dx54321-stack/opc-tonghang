@@ -1,0 +1,59 @@
+{
+  "title": "How Claude designed protein binders against scorpion neurotoxins",
+  "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+  "source": "anthropic-official",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "fetchedAt": "2026-10-20T14:12:52.580Z",
+  "id": "2026-10-21-claude-scorpion-binders",
+  "entities": [
+    "Anthropic"
+  ],
+  "publishedAt": "2026-10-20T00:00:00.000Z",
+  "summary": "Anthropic 公布与 Citrini Research 合作的蝎毒蛋白结合体设计实验，Adaptyv Bio 和 Twist Bioscience 对 211 个设计做了结合测试，17 个符合项目标准；团队公开全部设计及数据。结合成功仍不等于已制成安全有效的抗毒药。",
+  "investorNote": "AI 进入生物研发的价值需要以湿实验和成药后续验证衡量，实验命中率只是第一关。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "event-753103fcbdbdf31ed5044f22",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "公布实验性蛋白结合体设计与湿实验结果",
+    "object": "蝎毒神经毒素 minibinder",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Anthropic",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d5af07def0c3b3a907af4e33288a679781a208059911148f220e92ab5cb04586",
+    "originalUrl": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "originalPublishedAt": "2026-10-20T00:00:00.000Z",
+    "checkedAt": "2026-10-20T23:34:54.173Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d5af07def0c3b3a907af4e33288a679781a208059911148f220e92ab5cb04586",
+      "kind": "fact",
+      "quote": "Teams at Adaptyv Bio and Twist Bioscience experimentally tested 211 designs for binding. Of these, 17 met our criteria."
+    },
+    {
+      "snapshotId": "d5af07def0c3b3a907af4e33288a679781a208059911148f220e92ab5cb04586",
+      "kind": "condition",
+      "quote": "The challenge, as always, is turning those binders into safe, affordable, and widely accessible drugs.\nWe share more detail in our\ntechnical report\n, and are making\nall 211 designs and their data available\n."
+    }
+  ],
+  "displayTitle": "Claude 设计蝎毒蛋白结合体，211 个方案中 17 个通过结合测试",
+  "narrative": "Anthropic 让内部研究版 Claude 设计针对蝎毒神经毒素的小蛋白结合体，并由两家实验室测试 211 个方案，其中 17 个达到该项目的结合标准。**实验室结合结果还不是抗毒药疗效**；这次真正可跟踪的是模型提出的设计能否进入后续稳定性、安全性和成本验证。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次记录该具体动作；近两周历史候选无同一次发生的记录"
+  },
+  "eventId": "event-753103fcbdbdf31ed5044f22",
+  "occurrenceId": "occ-753103fcbdbdf31ed5044f22",
+  "relatedItems": []
+}

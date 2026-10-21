@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-ab8324025610a22da5fa87f6",
+  "title": "Lovart 2.0上线设计Agent Arti，主攻可交付的个人工作流",
+  "firstSeen": "2026-10-20",
+  "editionDate": "2026-10-20",
+  "occurrences": [
+    {
+      "id": "occ-ab8324025610a22da5fa87f6",
+      "fact": {
+        "subject": "Lovart",
+        "action": "报道2.0版本上线",
+        "object": "Lovart个人设计Agent Arti",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-20",
+      "reports": [
+        {
+          "ref": "2026-10-20/2026-10-20-lovart-arti-launch",
+          "itemId": "2026-10-20-lovart-arti-launch",
+          "editionDate": "2026-10-20",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA==&mid=2247517324&idx=1&sn=4939b4b57340578f45ce48058b7bbe84",
+          "source": "wechat-founderpark",
+          "owner": "Founder Park",
+          "role": "observer",
+          "publishedAt": "2026-10-19T09:50:00.000Z",
+          "title": "Lovart 2.0上线设计Agent Arti，主攻可交付的个人工作流"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-20"
+}

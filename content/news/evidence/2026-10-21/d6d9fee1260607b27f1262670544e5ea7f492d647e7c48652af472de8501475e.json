@@ -1,0 +1,12 @@
+{
+  "snapshotId": "d6d9fee1260607b27f1262670544e5ea7f492d647e7c48652af472de8501475e",
+  "url": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
+  "publishedAt": "2026-10-20T18:56:15+00:00",
+  "publishedAtQuote": "2026-10-20T18:56:15+00:00",
+  "retrievedAt": "2026-10-20T23:34:54.339Z",
+  "method": "agent-tool",
+  "contentHash": "e381fd694647e377c502f32db54fc4b01cf1a193f7e350d40503fcd0a8be181b",
+  "quotations": [
+    "Deepseek has open-sourced DeepInfer, its internal inference framework, under the Apache License 2.0."
+  ]
+}

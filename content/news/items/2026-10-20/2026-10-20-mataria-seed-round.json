@@ -1,0 +1,53 @@
+{
+  "id": "2026-10-20-mataria-seed-round",
+  "title": "独家｜MATARIA元材新界完成数千万种子轮融资，世界级材料科学家进场，剑指AI4M终极范式",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247518816&idx=1&sn=6b0b09f1d205c9436390150bbba2c016",
+  "source": "wechat-zpotentials",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [],
+  "publishedAt": "2026-10-19T03:00:00.000Z",
+  "fetchedAt": "2026-10-19T10:46:03.627Z",
+  "summary": "Z Potentials于10月19日独家报道，材料AI公司MATARIA元材新界完成数千万元人民币种子轮，君联资本领投、小苗朗程跟投。团队提出将模型预测、物理计算、实验验证与数据回流连接成材料研发流程。",
+  "investorNote": "材料AI价值取决于产线验证和可复用实验数据，融资仅支持早期路线探索。",
+  "score": 0.7,
+  "duplicateOf": null,
+  "clusterId": "event-e6273a952620ac49134e59bc",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "MATARIA",
+    "action": "独家报道种子轮融资",
+    "object": "MATARIA元材新界数千万元融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Z Potentials",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "7f26cc5f1589ac02232d2cce9b1983523a05ad2d58236a7fb779579d69ff8358",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247518816&idx=1&sn=6b0b09f1d205c9436390150bbba2c016",
+    "originalPublishedAt": "2026-10-19T03:00:00.000Z",
+    "checkedAt": "2026-10-19T23:35:45.866Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "7f26cc5f1589ac02232d2cce9b1983523a05ad2d58236a7fb779579d69ff8358",
+      "kind": "fact",
+      "quote": "MATARIA（元材新界）宣布完成数千万人民币种子轮融资，由君联资本领投、小苗朗程跟投"
+    }
+  ],
+  "displayTitle": "MATARIA获数千万元种子轮，押注材料研发的实验闭环",
+  "narrative": "Z Potentials报道，MATARIA完成数千万元种子轮，君联资本领投。团队计划把模型预测、物理计算、实验验证与数据回流串成研发流程。材料AI的门槛不在生成候选配方，而在实验与产线反复验证；当前融资说明路线获得早期支持，客户侧结果仍需逐项核实。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次记录该主体对该具体对象的独立动作；历史候选无同一次发生"
+  },
+  "eventId": "event-e6273a952620ac49134e59bc",
+  "occurrenceId": "occ-e6273a952620ac49134e59bc",
+  "relatedItems": []
+}

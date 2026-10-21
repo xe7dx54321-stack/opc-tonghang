@@ -1,0 +1,13 @@
+{
+  "snapshotId": "654623fad4ee7aea2b7639415f74ca289a0ded9136f463d3900b3d62787758e3",
+  "url": "https://openai.com/index/low-resource-programming-languages",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAtQuote": "October 19, 2026",
+  "retrievedAt": "2026-10-19T23:35:45.713Z",
+  "method": "agent-tool",
+  "contentHash": "88f36197c4b9ac8b3f8c0d1976d23f1ffdc5aec328858ebe077e121d46d26cc4",
+  "quotations": [
+    "MultiLangBench tests whether a model can build a SQLite-compatible database engine from scratch across 20 different programming languages.",
+    "On MultiLangBench, GPT‑6 Astra achieves an average test pass rate of 87.4% across 20 programming languages, up from 26.8% for GPT‑5.6 Sol"
+  ]
+}

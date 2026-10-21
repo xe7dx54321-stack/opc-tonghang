@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-21",
+  "itemCount": 11,
+  "storyCount": 10,
+  "clusterCount": 10,
+  "files": [
+    "2026-10-21-claude-scorpion-binders.json",
+    "2026-10-21-mistral-voxtral-3.json",
+    "2026-10-21-neolix-series-e.json",
+    "2026-10-21-openai-orchestra-bio.json",
+    "2026-10-21-us-deepseek-federal-ban.json",
+    "2026-10-21-eka-series-a.json",
+    "2026-10-21-deepseek-deepinfer.json",
+    "2026-10-21-huggingface-torchtpu.json",
+    "2026-10-21-yita-funding-report.json",
+    "2026-10-21-yita-funding-investor.json",
+    "2026-10-21-anthropic-attack-surface.json"
+  ],
+  "representatives": [
+    "2026-10-21-claude-scorpion-binders",
+    "2026-10-21-mistral-voxtral-3",
+    "2026-10-21-neolix-series-e",
+    "2026-10-21-openai-orchestra-bio",
+    "2026-10-21-us-deepseek-federal-ban",
+    "2026-10-21-eka-series-a",
+    "2026-10-21-deepseek-deepinfer",
+    "2026-10-21-huggingface-torchtpu",
+    "2026-10-21-yita-funding-investor",
+    "2026-10-21-anthropic-attack-surface"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "snapshotId": "6d2267d2203129f3e2b2217b973c2e77de5f76b3c1bf61508cd58c7a95efd964",
+  "url": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
+  "publishedAt": "2026-10-19T18:22:30.000Z",
+  "publishedAtQuote": "Oct 19, 2026",
+  "retrievedAt": "2026-10-19T23:35:45.792Z",
+  "method": "agent-tool",
+  "contentHash": "ccafd99f1690cd97555f0054fcd9240202d72ab32d398644bf778cd885780cd1",
+  "quotations": [
+    "MiniMax-M3.1-Flash jumps from 29 to 42 points on the Artificial Analysis Intelligence Index compared to M3, while cutting cost per task sharply.",
+    "API pricing sits at $0.15 per million input tokens and $0.60 per million output tokens",
+    "The model also uses far fewer output tokens than its rivals, bringing the cost per task down to about $0.22. MiniMax says it runs three times faster than M3. One weak spot is its 93 percent hallucination rate, since the model tries to answer every test question instead of declining when it's uncertain, according to Artificial Analysis."
+  ]
+}

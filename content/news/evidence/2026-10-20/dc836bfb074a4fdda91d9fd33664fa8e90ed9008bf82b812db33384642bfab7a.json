@@ -1,0 +1,12 @@
+{
+  "snapshotId": "dc836bfb074a4fdda91d9fd33664fa8e90ed9008bf82b812db33384642bfab7a",
+  "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+  "publishedAt": "2026-10-19T20:09:24.000Z",
+  "publishedAtQuote": "October 19, 2026",
+  "retrievedAt": "2026-10-19T23:35:45.740Z",
+  "method": "agent-tool",
+  "contentHash": "e20c2c4ec708ecd46899fc31446151e3eb1b86f700ccbab93fe5a3e545c1df98",
+  "quotations": [
+    "It lets AI apps written with PyTorch run on Trainium by changing just one line of configuration, according to Amazon — no code rewrite required."
+  ]
+}

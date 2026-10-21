@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-0b9d153c29f65a13a50a784b",
+  "title": "Hugging Face 接入 TorchTPU，PyTorch 使用谷歌 TPU 的门槛下降",
+  "firstSeen": "2026-10-21",
+  "editionDate": "2026-10-21",
+  "occurrences": [
+    {
+      "id": "occ-0b9d153c29f65a13a50a784b",
+      "fact": {
+        "subject": "Hugging Face",
+        "action": "宣布原生 PyTorch TPU 支持",
+        "object": "TorchTPU 在 Hugging Face 生态的支持",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-21",
+      "reports": [
+        {
+          "ref": "2026-10-21/2026-10-21-huggingface-torchtpu",
+          "itemId": "2026-10-21-huggingface-torchtpu",
+          "editionDate": "2026-10-21",
+          "url": "https://huggingface.co/blog/hf-torchtpu",
+          "source": "hugging-face-blog",
+          "owner": "Hugging Face",
+          "role": "principal",
+          "publishedAt": "2026-10-20T00:00:00.758Z",
+          "title": "Hugging Face 接入 TorchTPU，PyTorch 使用谷歌 TPU 的门槛下降"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-21"
+}

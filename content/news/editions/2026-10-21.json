@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-21",
+  "window": {
+    "start": 1792452600000,
+    "end": 1792539000000
+  },
+  "digestHash": "8ecfa5120f7b6baaa7db3b4819cb6580f46e4de428213b06ae1b38c66b14737d",
+  "stories": [
+    {
+      "heading": "Claude 设计蝎毒蛋白结合体，211 个方案中 17 个通过结合测试",
+      "itemId": "2026-10-21-claude-scorpion-binders",
+      "eventId": "event-753103fcbdbdf31ed5044f22",
+      "occurrenceId": "occ-753103fcbdbdf31ed5044f22"
+    },
+    {
+      "heading": "Mistral 发布 Voxtral 3，把实时语音识别、合成与工具调用接成一套",
+      "itemId": "2026-10-21-mistral-voxtral-3",
+      "eventId": "event-78ca92e2488d35ed22ba7f9d",
+      "occurrenceId": "occ-78ca92e2488d35ed22ba7f9d"
+    },
+    {
+      "heading": "新石器完成近 4 亿美元 E 轮，无人配送竞争转向运力网络",
+      "itemId": "2026-10-21-neolix-series-e",
+      "eventId": "event-fbac7205077fb93769d2d757",
+      "occurrenceId": "occ-fbac7205077fb93769d2d757"
+    },
+    {
+      "heading": "OpenAI 收购 Orchestra Bio，补齐生物研发工作流",
+      "itemId": "2026-10-21-openai-orchestra-bio",
+      "eventId": "event-a1834c4e80aba3797b2042ca",
+      "occurrenceId": "occ-a1834c4e80aba3797b2042ca"
+    },
+    {
+      "heading": "美国要求联邦民事机构移除 DeepSeek，范围覆盖相关第三方服务",
+      "itemId": "2026-10-21-us-deepseek-federal-ban",
+      "eventId": "event-f10d93c771d9bcbaff243c6c",
+      "occurrenceId": "occ-f10d93c771d9bcbaff243c6c"
+    },
+    {
+      "heading": "Eka Robotics 完成 1.5 亿美元 A 轮，触觉抓取仍待工业验证",
+      "itemId": "2026-10-21-eka-series-a",
+      "eventId": "event-9451d2516673e25992f6689c",
+      "occurrenceId": "occ-9451d2516673e25992f6689c"
+    },
+    {
+      "heading": "DeepSeek 开源 DeepInfer，V4.1-Flash 的推理栈开始外放",
+      "itemId": "2026-10-21-deepseek-deepinfer",
+      "eventId": "event-63900e88f74c85903444a872",
+      "occurrenceId": "occ-4e5b125955ab0a1d021896db"
+    },
+    {
+      "heading": "Hugging Face 接入 TorchTPU，PyTorch 使用谷歌 TPU 的门槛下降",
+      "itemId": "2026-10-21-huggingface-torchtpu",
+      "eventId": "event-0b9d153c29f65a13a50a784b",
+      "occurrenceId": "occ-0b9d153c29f65a13a50a784b"
+    },
+    {
+      "heading": "伊塔动力获超亿元种子轮融资，押注力控关节与操作平台",
+      "itemId": "2026-10-21-yita-funding-investor",
+      "eventId": "event-adcbe433d8fd2b9928299c39",
+      "occurrenceId": "occ-adcbe433d8fd2b9928299c39"
+    },
+    {
+      "heading": "Anthropic 用 Claude 缩减代码攻击面，25 个项目识别 493 项问题",
+      "itemId": "2026-10-21-anthropic-attack-surface",
+      "eventId": "event-54617a5c017c17795f82352c",
+      "occurrenceId": "occ-54617a5c017c17795f82352c"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-21-anthropic-attack-surface.json": "7013460bb3a26eebbfe02a153f0b7f0cada8446aff21b42641f672f2e6353557",
+    "2026-10-21-claude-scorpion-binders.json": "58a112e376f5bcb6535a6abb86e83befa2f8edf2947890b0722e0d0ac67baf0f",
+    "2026-10-21-deepseek-deepinfer.json": "07431fe3975f3eb27815bffbf1667dd32e746bb551e4e270e36e5bbfaf19eb0a",
+    "2026-10-21-eka-series-a.json": "cf40dce9ad712e8885b4a36111694b36316adcbc27bd6c0f41b6bac1f8faf619",
+    "2026-10-21-huggingface-torchtpu.json": "7af952d17eea85c23e328c40d1a2367778d7f06916e81bbc9265ea270374124f",
+    "2026-10-21-mistral-voxtral-3.json": "abd42fd521a048aa589e98ef82a19c7160f1586c0f950bb012c4e2ef895e4e70",
+    "2026-10-21-neolix-series-e.json": "830c88f2f6dfa3433de92ed700f131a14ad774bb14d6f10a13d264de97597959",
+    "2026-10-21-openai-orchestra-bio.json": "c5bd97392b84f60578d3af03ff4a1e5dc8d4cc48653892bda40937f8b9e825b4",
+    "2026-10-21-us-deepseek-federal-ban.json": "4418d5cccc39ef8e0132f4b355299f152851b765ea31b0e8a9251ef464e61eb1",
+    "2026-10-21-yita-funding-investor.json": "1cbbd479b72c1245d5eaa1c2fb4dae013ab91219e3302e796bdd837b52ad9425",
+    "2026-10-21-yita-funding-report.json": "3cf8e4b6aac68e6bfc35c5e40b61f9e9a26c61d3876f2bc0e78c6d02b59fe1d3"
+  },
+  "evidenceHashes": {
+    "00c104b7917a9810dd8899f319d73d612be5f3727e220f0132ba153e9d41b489.json": "72e1d3f6244b7311abe6993a38cd368fe68860b090c93d80e8fc539072e327be",
+    "2e7997884f54edf8cfb0b8bd02ea7d794c4b3891ff62e14e186ad1c6529ec253.json": "dfef0b9d373020064f941ab5ce167e8efbe4cc25bd5798ca92c135c6c5eb696d",
+    "3a59a5fbd746421c8710d68d9a4a53d4fa7e6e9fd34c6eeb0ad62f9717186477.json": "aa5cbd96fc683bc2a57799f207b3fb3fa0223cd4c2581c0be9cd89f764fecab7",
+    "3b5af9e747387737b0d9c93bc50bac7f0d91b7cd291c425339768d1182f8eb72.json": "6dfc1f3858eeb7b43274ec7662d2d9f52e23dbe1863b51fa24675c27cc7b2ab4",
+    "490f42d5110e323939cfd567f1de7f0bece37e45946432035464b9d7fe5c8c3a.json": "a52372e8cc6046527dac533087c390b83302e709eb34306e60533bee63e27745",
+    "60205b269517f9d32a2e6dbd0c119a339491cfcd4daff6f3836ac6a8e333fada.json": "faac6083d559044f8fe6b4f8a33b1d9ca6797e8813899a726c395c1292a00183",
+    "7462437f4c2ddea8f8546df0c76c7e3959eeec2118a554425d286760b5d8c84c.json": "586638c04356750962999ddc7193441249bc661a224cdecb6ccdd9ff5f7895a4",
+    "d5af07def0c3b3a907af4e33288a679781a208059911148f220e92ab5cb04586.json": "2d80715c59ef4743866ed512169926ad1fc352cc5f4fa58577adfa495660329f",
+    "d6d9fee1260607b27f1262670544e5ea7f492d647e7c48652af472de8501475e.json": "ce149e0dc529a14bdb575326d0d059235dbc8a1478fa2dcee717b749f010e1ad",
+    "eb13624514f61d2271efd9eda8a4d6cefd4e6d30ee1f8adcef5dc9acf7ee127d.json": "e958da3476a0298f6310944411f9d52f68fa15a45d6ecff180901a3474a872c7",
+    "f8ae340254d8538a09b998b265f7b568e967dacee35251838f17f1b7f4d135a0.json": "74865ad839198dec99a7d4bdfac33e5da8db97ca69c1aa703b8cde7558c06b60"
+  },
+  "eventsHashes": {
+    "event-0b9d153c29f65a13a50a784b.json": "0a7192413cc1f3b2578f978faf764e216654b6042111371cae533b59a5ca6d66",
+    "event-54617a5c017c17795f82352c.json": "dd84cee1337cc3d918a6db622fc3eacfeb7f5e98ea7488f207ed56decdd5663d",
+    "event-63900e88f74c85903444a872.json": "6557a29f46742df6f5f793a321ffe3131f0224e8ab7a68d45cf7e14b562a472a",
+    "event-753103fcbdbdf31ed5044f22.json": "a4a3fc13f1972be23b5daaa0b70a8b54aadb46866a63db792511932088197520",
+    "event-78ca92e2488d35ed22ba7f9d.json": "03a307904e83949568ae2b4956405862d4020ffa2c0a98ecde10b5f935e6dabd",
+    "event-9451d2516673e25992f6689c.json": "38880d61c974d0e2cde030ad7c6bfed03ae5deeaeadccf1f239b1fde5ffc583d",
+    "event-a1834c4e80aba3797b2042ca.json": "04801295b1eac7e18a3989c5368cd7843bcee74a1c680986a1ec18ba162e542d",
+    "event-adcbe433d8fd2b9928299c39.json": "6a327d48681590f9775a8fabfacaa5ebd5e7adbe9e469a2b9842c50e29a96f24",
+    "event-f10d93c771d9bcbaff243c6c.json": "34f0b5bb26bfa22baed0a3b73a67d7e4480d2ac8d7630c179f8e5194dad9f8d1",
+    "event-fbac7205077fb93769d2d757.json": "37c330ab45e6f3ef971388ea3421056e940706354e8ee387400c6a3358acdc8d"
+  }
+}

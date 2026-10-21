@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-f10d93c771d9bcbaff243c6c",
+  "title": "美国要求联邦民事机构移除 DeepSeek，范围覆盖相关第三方服务",
+  "firstSeen": "2026-10-21",
+  "editionDate": "2026-10-21",
+  "occurrences": [
+    {
+      "id": "occ-f10d93c771d9bcbaff243c6c",
+      "fact": {
+        "subject": "美国国土安全部",
+        "action": "要求联邦民事机构停用与移除",
+        "object": "DeepSeek 产品与相关第三方服务",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-21",
+      "reports": [
+        {
+          "ref": "2026-10-21/2026-10-21-us-deepseek-federal-ban",
+          "itemId": "2026-10-21-us-deepseek-federal-ban",
+          "editionDate": "2026-10-21",
+          "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-20T13:07:24+00:00",
+          "title": "美国要求联邦民事机构移除 DeepSeek，范围覆盖相关第三方服务"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-21"
+}

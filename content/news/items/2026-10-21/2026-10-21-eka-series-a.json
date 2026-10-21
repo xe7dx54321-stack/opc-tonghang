@@ -1,0 +1,59 @@
+{
+  "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+  "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "fetchedAt": "2026-10-20T13:11:02.177Z",
+  "id": "2026-10-21-eka-series-a",
+  "entities": [
+    "Eka Robotics"
+  ],
+  "publishedAt": "2026-10-20T13:00:00+00:00",
+  "summary": "TechCrunch 报道，Eka Robotics 完成 1.5 亿美元 A 轮，投后估值 14.5 亿美元，由 a16z 与 F-Prime 领投。公司开发力敏夹爪与操作模型，目前与工业客户进行抓取及线缆操作试点。",
+  "investorNote": "融资和演示显示资本押注力觉操作，但真正的估值检验在于工厂场景的稳定性与单位成本。",
+  "score": 0.76,
+  "duplicateOf": null,
+  "clusterId": "event-9451d2516673e25992f6689c",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Eka Robotics",
+    "action": "完成 A 轮融资",
+    "object": "1.5 亿美元融资与机器人抓取平台",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "490f42d5110e323939cfd567f1de7f0bece37e45946432035464b9d7fe5c8c3a",
+    "originalUrl": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "originalPublishedAt": "2026-10-20T13:00:00+00:00",
+    "checkedAt": "2026-10-20T23:34:54.315Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "490f42d5110e323939cfd567f1de7f0bece37e45946432035464b9d7fe5c8c3a",
+      "kind": "fact",
+      "quote": "the startup just closed an $150 million Series A round that values it at $1.45 billion post-money, led by venture funds a16z and F-Prime."
+    },
+    {
+      "snapshotId": "490f42d5110e323939cfd567f1de7f0bece37e45946432035464b9d7fe5c8c3a",
+      "kind": "condition",
+      "quote": "Eka still needs to prove itself in the field, though. The company is working in secretive pilots with a number of industrial customers doing pick-and-place and wire manipulation, but the leap from lab to line is almost as big as the gap between sim and real."
+    }
+  ],
+  "displayTitle": "Eka Robotics 完成 1.5 亿美元 A 轮，触觉抓取仍待工业验证",
+  "narrative": "TechCrunch 报道，Eka Robotics 完成 **1.5 亿美元 A 轮**，投后估值 14.5 亿美元，押注力敏夹爪与学习模型结合的物体操作。公司正与工业客户做抓取和线缆操作试点，离可复制部署还有距离。值得看的不是演示速度，而是不同物体和工位下的稳定成功率、维护频率与人工接管成本；报道中的高性能说法主要来自公司及投资方。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次记录该具体动作；近两周历史候选无同一次发生的记录"
+  },
+  "eventId": "event-9451d2516673e25992f6689c",
+  "occurrenceId": "occ-9451d2516673e25992f6689c",
+  "relatedItems": []
+}

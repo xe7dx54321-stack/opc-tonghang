@@ -1,0 +1,13 @@
+{
+  "snapshotId": "3a59a5fbd746421c8710d68d9a4a53d4fa7e6e9fd34c6eeb0ad62f9717186477",
+  "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+  "publishedAt": "2026-10-20T13:07:24+00:00",
+  "publishedAtQuote": "2026-10-20T13:07:24+00:00",
+  "retrievedAt": "2026-10-20T23:34:54.290Z",
+  "method": "agent-tool",
+  "contentHash": "3ce95710d3888ae1de2bdfaf206127cac955fc5d3e387d73616654eee22da174",
+  "quotations": [
+    "The U.S. has ordered federal civilian agencies to stop purchasing services and products developed by Chinese AI startup\nDeepSeek\nand remove them from government IT systems",
+    "The order goes beyond banning DeepSeek’s own product, and\ncovers\nthird-party products and services built using DeepSeek technology, though agencies can request exceptions."
+  ]
+}

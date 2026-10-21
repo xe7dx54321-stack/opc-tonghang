@@ -1,0 +1,53 @@
+{
+  "id": "2026-10-20-tenstorrent-financing",
+  "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+  "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [],
+  "publishedAt": "2026-10-19T18:37:27.000Z",
+  "fetchedAt": "2026-10-19T18:55:52.662Z",
+  "summary": "TechCrunch于10月19日报道，AI推理芯片公司Tenstorrent融资15亿美元，估值62亿美元。资金将用于扩展面向开放权重模型和视频生成的芯片；报道引述CEO Jim Keller解释，公司选择保持独立发展。",
+  "investorNote": "融资额支持其继续挑战GPU生态，但商业化判断应落在Galaxy服务器部署和软件适配。",
+  "score": 0.85,
+  "duplicateOf": null,
+  "clusterId": "event-aa336dea62d8cdbbd13d9c07",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Tenstorrent",
+    "action": "报道新一轮融资",
+    "object": "15亿美元融资与62亿美元估值",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d88aff32cda12e196ff05cf3caed5787ebbf3bd55661db5961ced63a0a854cc3",
+    "originalUrl": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "originalPublishedAt": "2026-10-19T18:37:27.000Z",
+    "checkedAt": "2026-10-19T23:35:45.767Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d88aff32cda12e196ff05cf3caed5787ebbf3bd55661db5961ced63a0a854cc3",
+      "kind": "fact",
+      "quote": "Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation."
+    }
+  ],
+  "displayTitle": "Tenstorrent融得15亿美元，估值升至62亿美元",
+  "narrative": "Tenstorrent获15亿美元新融资，估值62亿美元。资金用途指向开放权重模型和视频生成负载的芯片扩展。比估值更值得跟踪的是其Galaxy服务器能否在真实客户场景持续运行模型、形成可重复交付；单轮融资不能直接证明对NVIDIA软件生态的替代。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次记录该主体对该具体对象的独立动作；历史候选无同一次发生"
+  },
+  "eventId": "event-aa336dea62d8cdbbd13d9c07",
+  "occurrenceId": "occ-aa336dea62d8cdbbd13d9c07",
+  "relatedItems": []
+}

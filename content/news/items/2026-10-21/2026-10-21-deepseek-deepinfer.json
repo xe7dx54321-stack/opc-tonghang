@@ -1,0 +1,56 @@
+{
+  "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
+  "url": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "fetchedAt": "2026-10-20T19:17:44.422Z",
+  "id": "2026-10-21-deepseek-deepinfer",
+  "entities": [
+    "DeepSeek"
+  ],
+  "publishedAt": "2026-10-20T18:56:15+00:00",
+  "summary": "The Decoder 10 月 20 日报道，DeepSeek 以 Apache 2.0 许可开源内部推理框架 DeepInfer，用于服务 V4.1-Flash；该框架基于 vLLM，官方 GitHub 仓库可访问。",
+  "investorNote": "模型性能之外，推理栈可移植性和部署成本正在成为开源模型生态的竞争变量。",
+  "score": 0.75,
+  "duplicateOf": null,
+  "clusterId": "event-63900e88f74c85903444a872",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "DeepSeek",
+    "action": "开源推理框架",
+    "object": "DeepInfer",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d6d9fee1260607b27f1262670544e5ea7f492d647e7c48652af472de8501475e",
+    "originalUrl": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
+    "originalPublishedAt": "2026-10-20T18:56:15+00:00",
+    "checkedAt": "2026-10-20T23:34:54.339Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d6d9fee1260607b27f1262670544e5ea7f492d647e7c48652af472de8501475e",
+      "kind": "fact",
+      "quote": "Deepseek has open-sourced DeepInfer, its internal inference framework, under the Apache License 2.0."
+    }
+  ],
+  "displayTitle": "DeepSeek 开源 DeepInfer，V4.1-Flash 的推理栈开始外放",
+  "narrative": "The Decoder 报道 DeepSeek 将内部推理框架 DeepInfer 以 **Apache 2.0** 开源，框架服务于 V4.1-Flash，代码仓库已公开。这是此前模型更新的直接后续：开发者现在可以检查服务层实现，而不只调用接口。开源不等于任意硬件都能达到官方吞吐，部署方仍需核对设备支持、算子和运维成本。",
+  "eventRelation": {
+    "type": "SAME_STORY",
+    "targetRef": "2026-10-18/2026-10-18-deepseek-flash-1017-decoder",
+    "reason": "10 月 18 日 V4.1-Flash 更新之后，10 月 20 日公开用于服务该模型的推理框架",
+    "newInformation": "DeepInfer 推理框架以 Apache 2.0 开源"
+  },
+  "eventId": "event-63900e88f74c85903444a872",
+  "occurrenceId": "occ-4e5b125955ab0a1d021896db",
+  "relatedItems": []
+}

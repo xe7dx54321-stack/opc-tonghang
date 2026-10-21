@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-20",
+  "itemCount": 11,
+  "storyCount": 10,
+  "clusterCount": 10,
+  "files": [
+    "2026-10-20-openai-low-resource-coding.json",
+    "2026-10-20-amazon-torchneuron-report.json",
+    "2026-10-20-tenstorrent-financing.json",
+    "2026-10-20-minimax-m31-flash.json",
+    "2026-10-20-torchneuron-hf.json",
+    "2026-10-20-manifold-robodojo.json",
+    "2026-10-20-mataria-seed-round.json",
+    "2026-10-20-lovart-arti-launch.json",
+    "2026-10-20-kodama-forestry-funding.json",
+    "2026-10-20-memsilicon-funding-lpu.json",
+    "2026-10-20-xuan-tie-auto-roadmap.json"
+  ],
+  "representatives": [
+    "2026-10-20-openai-low-resource-coding",
+    "2026-10-20-tenstorrent-financing",
+    "2026-10-20-minimax-m31-flash",
+    "2026-10-20-torchneuron-hf",
+    "2026-10-20-manifold-robodojo",
+    "2026-10-20-mataria-seed-round",
+    "2026-10-20-lovart-arti-launch",
+    "2026-10-20-kodama-forestry-funding",
+    "2026-10-20-memsilicon-funding-lpu",
+    "2026-10-20-xuan-tie-auto-roadmap"
+  ]
+}

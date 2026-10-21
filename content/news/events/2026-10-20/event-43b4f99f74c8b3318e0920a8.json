@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-43b4f99f74c8b3318e0920a8",
+  "title": "铭芯启睿完成超4亿元A轮，卢涛入职并启动LPU研发",
+  "firstSeen": "2026-10-20",
+  "editionDate": "2026-10-20",
+  "occurrences": [
+    {
+      "id": "occ-43b4f99f74c8b3318e0920a8",
+      "fact": {
+        "subject": "铭芯启睿",
+        "action": "独家报道融资与CEO任命",
+        "object": "铭芯启睿A轮和LPU研发",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-20",
+      "reports": [
+        {
+          "ref": "2026-10-20/2026-10-20-memsilicon-funding-lpu",
+          "itemId": "2026-10-20-memsilicon-funding-lpu",
+          "editionDate": "2026-10-20",
+          "url": "https://www.leiphone.com/category/chips/56PWzwTNdteGx04q.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-10-19T06:02:00.000Z",
+          "title": "铭芯启睿完成超4亿元A轮，卢涛入职并启动LPU研发"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-20"
+}

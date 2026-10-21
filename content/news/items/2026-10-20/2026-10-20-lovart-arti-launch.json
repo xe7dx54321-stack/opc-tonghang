@@ -1,0 +1,57 @@
+{
+  "id": "2026-10-20-lovart-arti-launch",
+  "title": "Lovart 2.0 发布个人设计 Agent Arti：Personal Agent 在设计赛道先落地了",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA==&mid=2247517324&idx=1&sn=4939b4b57340578f45ce48058b7bbe84",
+  "source": "wechat-founderpark",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [],
+  "publishedAt": "2026-10-19T09:50:00.000Z",
+  "fetchedAt": "2026-10-19T12:18:25.110Z",
+  "summary": "Founder Park于10月19日报道，Lovart上线2.0并发布个人设计Agent Arti。报道称它可记住审美和工作习惯、接收完整设计委托、执行调研和画布巡检，并将重复工作沉淀为Skill；新版已向用户开放。",
+  "investorNote": "垂直Agent更容易用交付物验证价值，关键是复购、可编辑性和团队协作留存。",
+  "score": 0.73,
+  "duplicateOf": null,
+  "clusterId": "event-ab8324025610a22da5fa87f6",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Lovart",
+    "action": "报道2.0版本上线",
+    "object": "Lovart个人设计Agent Arti",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Founder Park",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "df89fa0a2ed2d3363b7fbedf21465b1ab7f28bc5d2695547ba09289a68f534d5",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA==&mid=2247517324&idx=1&sn=4939b4b57340578f45ce48058b7bbe84",
+    "originalPublishedAt": "2026-10-19T09:50:00.000Z",
+    "checkedAt": "2026-10-19T23:35:45.889Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "df89fa0a2ed2d3363b7fbedf21465b1ab7f28bc5d2695547ba09289a68f534d5",
+      "kind": "fact",
+      "quote": "10 月 19 日，Lovart 上线 2.0 版本，发布了个人设计 Agent Arti。"
+    },
+    {
+      "snapshotId": "df89fa0a2ed2d3363b7fbedf21465b1ab7f28bc5d2695547ba09289a68f534d5",
+      "kind": "condition",
+      "quote": "Lovart 新版本已向所有用户开放"
+    }
+  ],
+  "displayTitle": "Lovart 2.0上线设计Agent Arti，主攻可交付的个人工作流",
+  "narrative": "Lovart在10月19日上线2.0并发布个人设计Agent Arti，产品把偏好记忆、调研、画布检查和重复操作沉淀为Skill。设计工作有明确交付物，适合检验Agent是否真正节省流程时间；其持续价值取决于交付可编辑、返工成本和用户复购，而不只是一次生成效果。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次记录该主体对该具体对象的独立动作；历史候选无同一次发生"
+  },
+  "eventId": "event-ab8324025610a22da5fa87f6",
+  "occurrenceId": "occ-ab8324025610a22da5fa87f6",
+  "relatedItems": []
+}

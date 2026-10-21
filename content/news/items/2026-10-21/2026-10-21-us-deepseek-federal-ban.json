@@ -1,0 +1,59 @@
+{
+  "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+  "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "fetchedAt": "2026-10-20T13:11:02.177Z",
+  "id": "2026-10-21-us-deepseek-federal-ban",
+  "entities": [
+    "美国国土安全部"
+  ],
+  "publishedAt": "2026-10-20T13:07:24+00:00",
+  "summary": "TechCrunch 依据美国国土安全部命令报道，联邦民事机构需停止采购并从政府系统移除 DeepSeek 的产品与服务；命令也覆盖基于 DeepSeek 技术的第三方产品和服务，但允许申请例外。",
+  "investorNote": "行政采购限制的影响不止官方应用，还可能触及模型封装服务；具体边界取决于例外审批和执行口径。",
+  "score": 0.8,
+  "duplicateOf": null,
+  "clusterId": "event-f10d93c771d9bcbaff243c6c",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "美国国土安全部",
+    "action": "要求联邦民事机构停用与移除",
+    "object": "DeepSeek 产品与相关第三方服务",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "3a59a5fbd746421c8710d68d9a4a53d4fa7e6e9fd34c6eeb0ad62f9717186477",
+    "originalUrl": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "originalPublishedAt": "2026-10-20T13:07:24+00:00",
+    "checkedAt": "2026-10-20T23:34:54.290Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "3a59a5fbd746421c8710d68d9a4a53d4fa7e6e9fd34c6eeb0ad62f9717186477",
+      "kind": "fact",
+      "quote": "The U.S. has ordered federal civilian agencies to stop purchasing services and products developed by Chinese AI startup\nDeepSeek\nand remove them from government IT systems"
+    },
+    {
+      "snapshotId": "3a59a5fbd746421c8710d68d9a4a53d4fa7e6e9fd34c6eeb0ad62f9717186477",
+      "kind": "condition",
+      "quote": "The order goes beyond banning DeepSeek’s own product, and\ncovers\nthird-party products and services built using DeepSeek technology, though agencies can request exceptions."
+    }
+  ],
+  "displayTitle": "美国要求联邦民事机构移除 DeepSeek，范围覆盖相关第三方服务",
+  "narrative": "据 TechCrunch 引述美国国土安全部命令，联邦民事机构须停止采购并移除 DeepSeek 产品和服务，**基于其技术的第三方服务也在范围内**，但可申请例外。对企业采购而言，这比封禁一个聊天应用更接近供应链审查：模型通过其他云或软件封装后仍可能需要识别。报道所述是美国联邦民事系统要求，不能外推为所有美国机构或商业用户禁用。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次记录该具体动作；近两周历史候选无同一次发生的记录"
+  },
+  "eventId": "event-f10d93c771d9bcbaff243c6c",
+  "occurrenceId": "occ-f10d93c771d9bcbaff243c6c",
+  "relatedItems": []
+}

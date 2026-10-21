@@ -1,0 +1,54 @@
+{
+  "title": "独家｜效率为王颠覆传统，具身操作与动力系统新玩家「 YITA 伊塔动力」融资破亿",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247518836&idx=1&sn=c839e2bbc83c21d00093714022454468",
+  "source": "wechat-zpotentials",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "fetchedAt": "2026-10-20T10:38:56.957Z",
+  "id": "2026-10-21-yita-funding-report",
+  "entities": [
+    "伊塔动力"
+  ],
+  "publishedAt": "2026-10-20T02:26:00.000Z",
+  "summary": "Z Potentials 报道伊塔动力完成超亿元种子及种子+轮融资，投资方包括经纬创投、商汤国香资本等；团队面向机器人动力系统和力控操作平台开发产品。部分性能和意向订单数字来自公司叙述。",
+  "investorNote": "具身硬件融资的关键是关节方案能否转化为稳定交付，意向订单不能等同于收入。",
+  "score": 0.62,
+  "duplicateOf": "2026-10-21-yita-funding-investor",
+  "clusterId": "event-adcbe433d8fd2b9928299c39",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "伊塔动力",
+    "action": "宣布完成种子与种子+轮融资",
+    "object": "超亿元融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Z Potentials",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "2e7997884f54edf8cfb0b8bd02ea7d794c4b3891ff62e14e186ad1c6529ec253",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247518836&idx=1&sn=c839e2bbc83c21d00093714022454468",
+    "originalPublishedAt": "2026-10-20T02:26:00.000Z",
+    "checkedAt": "2026-10-20T23:34:54.388Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "2e7997884f54edf8cfb0b8bd02ea7d794c4b3891ff62e14e186ad1c6529ec253",
+      "kind": "fact",
+      "quote": "「 YITA Dynamics 伊塔动力」宣布完成超亿元种子和种子+轮融资"
+    }
+  ],
+  "displayTitle": "伊塔动力获超亿元种子轮融资，押注力控关节与操作平台",
+  "narrative": "Z Potentials 报道伊塔动力完成超亿元种子及种子+轮融资，业务覆盖机器人动力系统与力控操作平台。报道列出的效率、成本和意向订单仍是公司口径，需要交付数据验证。该团队的看点是能否把关节模组的制造经验带入整臂力控，而非融资额本身。",
+  "eventRelation": {
+    "type": "SAME_OCCURRENCE",
+    "targetRef": "2026-10-21/2026-10-21-yita-funding-investor",
+    "reason": "两稿均指伊塔动力同一笔超亿元种子及种子+轮融资，投资方公告确认参与"
+  },
+  "eventId": "event-adcbe433d8fd2b9928299c39",
+  "occurrenceId": "occ-adcbe433d8fd2b9928299c39"
+}

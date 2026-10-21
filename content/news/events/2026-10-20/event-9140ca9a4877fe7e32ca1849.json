@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-9140ca9a4877fe7e32ca1849",
+  "title": "Manifold AI报告机器人Agent在RoboDojo取得46.58分",
+  "firstSeen": "2026-10-20",
+  "editionDate": "2026-10-20",
+  "occurrences": [
+    {
+      "id": "occ-9140ca9a4877fe7e32ca1849",
+      "fact": {
+        "subject": "Manifold AI",
+        "action": "报道团队发布的机器人Agent评测",
+        "object": "WorldScape R²SI在RoboDojo Agent Track的结果",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-20",
+      "reports": [
+        {
+          "ref": "2026-10-20/2026-10-20-manifold-robodojo",
+          "itemId": "2026-10-20-manifold-robodojo",
+          "editionDate": "2026-10-20",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247747279&idx=1&sn=493f1d1bc13d8276d98f419ab70b2999",
+          "source": "wechat-aitechreview",
+          "owner": "AI科技评论",
+          "role": "observer",
+          "publishedAt": "2026-10-19T04:45:00.000Z",
+          "title": "Manifold AI报告机器人Agent在RoboDojo取得46.58分"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-20"
+}

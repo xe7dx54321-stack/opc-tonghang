@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-54617a5c017c17795f82352c",
+  "title": "Anthropic 用 Claude 缩减代码攻击面，25 个项目识别 493 项问题",
+  "firstSeen": "2026-10-21",
+  "editionDate": "2026-10-21",
+  "occurrences": [
+    {
+      "id": "occ-54617a5c017c17795f82352c",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "公布 Claude 自动化攻击面缩减研究",
+        "object": "开源项目代码攻击面分析",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-21",
+      "reports": [
+        {
+          "ref": "2026-10-21/2026-10-21-anthropic-attack-surface",
+          "itemId": "2026-10-21-anthropic-attack-surface",
+          "editionDate": "2026-10-21",
+          "url": "https://www.anthropic.com/research/attack-surface-reduction",
+          "source": "anthropic-official",
+          "owner": "Anthropic",
+          "role": "principal",
+          "publishedAt": "2026-10-20T00:00:00.000Z",
+          "title": "Anthropic 用 Claude 缩减代码攻击面，25 个项目识别 493 项问题"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-21"
+}

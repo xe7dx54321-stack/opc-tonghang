@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-655737b03f3b2f1fe09e862c",
+  "title": "OpenAI发布低资源编程语言评测，补上企业遗留代码盲区",
+  "firstSeen": "2026-10-20",
+  "editionDate": "2026-10-20",
+  "occurrences": [
+    {
+      "id": "occ-655737b03f3b2f1fe09e862c",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "公布低资源语言编码评测与模型改进",
+        "object": "MultiLangBench与COBOL迁移评测",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-20",
+      "reports": [
+        {
+          "ref": "2026-10-20/2026-10-20-openai-low-resource-coding",
+          "itemId": "2026-10-20-openai-low-resource-coding",
+          "editionDate": "2026-10-20",
+          "url": "https://openai.com/index/low-resource-programming-languages",
+          "source": "openai-news",
+          "owner": "OpenAI",
+          "role": "principal",
+          "publishedAt": "2026-10-19T12:00:00.000Z",
+          "title": "OpenAI发布低资源编程语言评测，补上企业遗留代码盲区"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-20"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2026-10-20-openai-low-resource-coding",
+  "title": "Advancing Coding in Low-Resource Programming Languages",
+  "url": "https://openai.com/index/low-resource-programming-languages",
+  "source": "openai-news",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [],
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "fetchedAt": "2026-10-19T22:58:39.463Z",
+  "summary": "OpenAI在10月19日发布低资源编程语言编码能力研究，公开MultiLangBench与COBOL迁移评测。MultiLangBench覆盖20种语言中的SQLite兼容数据库构建任务；OpenAI称GPT‑6 Astra平均测试通过率87.4%，相较GPT‑5.6 Sol的26.8%提高。",
+  "investorNote": "模型编码竞争开始触及银行和工业系统的遗留语言，但迁移是否安全仍需看行为一致性与独立复现。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "event-655737b03f3b2f1fe09e862c",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "OpenAI",
+    "action": "公布低资源语言编码评测与模型改进",
+    "object": "MultiLangBench与COBOL迁移评测",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "OpenAI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "654623fad4ee7aea2b7639415f74ca289a0ded9136f463d3900b3d62787758e3",
+    "originalUrl": "https://openai.com/index/low-resource-programming-languages",
+    "originalPublishedAt": "2026-10-19T12:00:00.000Z",
+    "checkedAt": "2026-10-19T23:35:45.713Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "654623fad4ee7aea2b7639415f74ca289a0ded9136f463d3900b3d62787758e3",
+      "kind": "fact",
+      "quote": "MultiLangBench tests whether a model can build a SQLite-compatible database engine from scratch across 20 different programming languages."
+    },
+    {
+      "snapshotId": "654623fad4ee7aea2b7639415f74ca289a0ded9136f463d3900b3d62787758e3",
+      "kind": "condition",
+      "quote": "On MultiLangBench, GPT‑6 Astra achieves an average test pass rate of 87.4% across 20 programming languages, up from 26.8% for GPT‑5.6 Sol"
+    }
+  ],
+  "displayTitle": "OpenAI发布低资源编程语言评测，补上企业遗留代码盲区",
+  "narrative": "OpenAI公布覆盖20种编程语言的MultiLangBench和COBOL迁移评测，并报告GPT‑6 Astra在前者的平均测试通过率为87.4%。这把编码模型的比较从常见Web项目推到遗留系统维护；对采购方更关键的指标是迁移后业务行为能否保持一致，而不是只看生成速度。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次记录该主体对该具体对象的独立动作；历史候选无同一次发生"
+  },
+  "eventId": "event-655737b03f3b2f1fe09e862c",
+  "occurrenceId": "occ-655737b03f3b2f1fe09e862c",
+  "relatedItems": []
+}

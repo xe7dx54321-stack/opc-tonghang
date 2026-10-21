@@ -1,0 +1,59 @@
+{
+  "title": "Using Claude to reduce the attack surface of code",
+  "url": "https://www.anthropic.com/research/attack-surface-reduction",
+  "source": "anthropic-official",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "fetchedAt": "2026-10-20T21:49:28.330Z",
+  "id": "2026-10-21-anthropic-attack-surface",
+  "entities": [
+    "Anthropic"
+  ],
+  "publishedAt": "2026-10-20T00:00:00.000Z",
+  "summary": "Anthropic 公布 Claude 自动化攻击面分析研究，称在 25 个不同语言的项目中识别 493 项问题，方法聚焦减少部署时可触达的代码路径；公司明确这不会消除未知漏洞。",
+  "investorNote": "AI 安全工具的实际价值取决于修正方案能否保持软件功能和配置兼容，而非发现数本身。",
+  "score": 0.66,
+  "duplicateOf": null,
+  "clusterId": "event-54617a5c017c17795f82352c",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "公布 Claude 自动化攻击面缩减研究",
+    "object": "开源项目代码攻击面分析",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Anthropic",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "3b5af9e747387737b0d9c93bc50bac7f0d91b7cd291c425339768d1182f8eb72",
+    "originalUrl": "https://www.anthropic.com/research/attack-surface-reduction",
+    "originalPublishedAt": "2026-10-20T00:00:00.000Z",
+    "checkedAt": "2026-10-20T23:34:54.436Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "3b5af9e747387737b0d9c93bc50bac7f0d91b7cd291c425339768d1182f8eb72",
+      "kind": "fact",
+      "quote": "Specifically, we ran Claude over 25 projects (in a variety of languages), and it discovered 493 issues."
+    },
+    {
+      "snapshotId": "3b5af9e747387737b0d9c93bc50bac7f0d91b7cd291c425339768d1182f8eb72",
+      "kind": "condition",
+      "quote": "These techniques don’t remove the unknown vulnerabilities in the code, but they do make the vulnerabilities harder to reach, and thereby reduce their severity."
+    }
+  ],
+  "displayTitle": "Anthropic 用 Claude 缩减代码攻击面，25 个项目识别 493 项问题",
+  "narrative": "Anthropic 公布一项 Claude 辅助代码攻击面缩减研究：在 25 个项目中识别 **493 项问题**，重点是减少部署时不必要的可触达代码路径。它与寻找单个漏洞是不同任务；公司也明确说，缩小攻击面不会消除未知漏洞。采购这类工具时，更该看变更后功能是否一致、哪些建议需人工审批，以及误改配置的代价。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次记录该具体动作；近两周历史候选无同一次发生的记录"
+  },
+  "eventId": "event-54617a5c017c17795f82352c",
+  "occurrenceId": "occ-54617a5c017c17795f82352c",
+  "relatedItems": []
+}

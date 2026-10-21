@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-9451d2516673e25992f6689c",
+  "title": "Eka Robotics 完成 1.5 亿美元 A 轮，触觉抓取仍待工业验证",
+  "firstSeen": "2026-10-21",
+  "editionDate": "2026-10-21",
+  "occurrences": [
+    {
+      "id": "occ-9451d2516673e25992f6689c",
+      "fact": {
+        "subject": "Eka Robotics",
+        "action": "完成 A 轮融资",
+        "object": "1.5 亿美元融资与机器人抓取平台",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-21",
+      "reports": [
+        {
+          "ref": "2026-10-21/2026-10-21-eka-series-a",
+          "itemId": "2026-10-21-eka-series-a",
+          "editionDate": "2026-10-21",
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-20T13:00:00+00:00",
+          "title": "Eka Robotics 完成 1.5 亿美元 A 轮，触觉抓取仍待工业验证"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-21"
+}

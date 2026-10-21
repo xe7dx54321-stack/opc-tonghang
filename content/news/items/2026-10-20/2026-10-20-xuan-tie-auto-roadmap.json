@@ -1,0 +1,58 @@
+{
+  "id": "2026-10-20-xuan-tie-auto-roadmap",
+  "title": "达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图",
+  "url": "https://www.qbitai.com/2026/10/504238.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "embodied-ai"
+  ],
+  "entities": [],
+  "publishedAt": "2026-10-19T09:56:38.000Z",
+  "fetchedAt": "2026-10-19T15:22:32.343Z",
+  "summary": "量子位10月19日报道，达摩院玄铁在RISC-V中国峰会发布车规增强处理器E908A，并首次发布面向自动驾驶和具身智能的处理器路线图。报道引述其关于ASIL等级和下一代C950A目标性能的说法，尚属公司披露及规划。",
+  "investorNote": "车规RISC-V竞争已从通用IP走向安全认证、软件生态与量产设计导入。",
+  "score": 0.76,
+  "duplicateOf": null,
+  "clusterId": "event-71a728d7dff9b4d1528b4656",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "达摩院玄铁",
+    "action": "报道峰会发布产品与路线图",
+    "object": "玄铁E908A与车规处理器路线图",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "826d934ea74be0f29b60f28c80af93a1b2dfcdaebe48b3ac1a3c4c9661524f41",
+    "originalUrl": "https://www.qbitai.com/2026/10/504238.html",
+    "originalPublishedAt": "2026-10-19T09:56:38.000Z",
+    "checkedAt": "2026-10-19T23:35:45.957Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "826d934ea74be0f29b60f28c80af93a1b2dfcdaebe48b3ac1a3c4c9661524f41",
+      "kind": "fact",
+      "quote": "在峰会上发布了车规增强处理器玄铁E908A"
+    },
+    {
+      "snapshotId": "826d934ea74be0f29b60f28c80af93a1b2dfcdaebe48b3ac1a3c4c9661524f41",
+      "kind": "condition",
+      "quote": "达摩院还首次发布了自动驾驶和具身智能产品路线图"
+    }
+  ],
+  "displayTitle": "达摩院玄铁发布车规E908A及自动驾驶处理器路线图",
+  "narrative": "达摩院玄铁在10月19日RISC-V中国峰会上发布车规增强处理器E908A，并首次给出自动驾驶和具身智能处理器路线图。报道中的ASIL等级和下一代C950A性能是公司披露与目标，不能当成客户量产结果。后续应看车规验证、软件适配和设计导入能否跟上路线图。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次记录该主体对该具体对象的独立动作；历史候选无同一次发生"
+  },
+  "eventId": "event-71a728d7dff9b4d1528b4656",
+  "occurrenceId": "occ-71a728d7dff9b4d1528b4656",
+  "relatedItems": []
+}

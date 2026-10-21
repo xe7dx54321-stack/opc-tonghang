@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-47b4e1b215563ef0e11e10b0",
+  "title": "MiniMax发布M3.1 Flash，低价推理模型把成本压到每任务约0.22美元",
+  "firstSeen": "2026-10-20",
+  "editionDate": "2026-10-20",
+  "occurrences": [
+    {
+      "id": "occ-47b4e1b215563ef0e11e10b0",
+      "fact": {
+        "subject": "MiniMax",
+        "action": "报道模型发布并核对独立评测",
+        "object": "M3.1 Flash",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-20",
+      "reports": [
+        {
+          "ref": "2026-10-20/2026-10-20-minimax-m31-flash",
+          "itemId": "2026-10-20-minimax-m31-flash",
+          "editionDate": "2026-10-20",
+          "url": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-10-19T18:22:30.000Z",
+          "title": "MiniMax发布M3.1 Flash，低价推理模型把成本压到每任务约0.22美元"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-20"
+}

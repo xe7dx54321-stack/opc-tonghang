@@ -1,0 +1,13 @@
+{
+  "snapshotId": "7462437f4c2ddea8f8546df0c76c7e3959eeec2118a554425d286760b5d8c84c",
+  "url": "https://mistral.ai/news/voxtral-3/",
+  "publishedAt": "2026-10-20T12:00:22.000Z",
+  "publishedAtQuote": "2026-10-20T12:00:22.000Z",
+  "retrievedAt": "2026-10-20T23:34:54.201Z",
+  "method": "agent-tool",
+  "contentHash": "9c53be18c49a4b4ebe83b2a7f204516f8ba8b4b423214171ddd184b55fbe13e2",
+  "quotations": [
+    "Voxtral 3 introduces a cutting-edge voice agent SDK and state-of-the-art speech models designed for real-time, multi-step conversations across 50+ languages.",
+    "Available via Mistral’s EU-hosted API or self-deployment, it ensures data sovereignty while delivering low-latency, human-like interactions for contact centers, virtual assistants, and hands-free copilots."
+  ]
+}

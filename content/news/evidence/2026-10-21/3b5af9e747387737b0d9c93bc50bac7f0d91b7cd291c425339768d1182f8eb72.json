@@ -1,0 +1,13 @@
+{
+  "snapshotId": "3b5af9e747387737b0d9c93bc50bac7f0d91b7cd291c425339768d1182f8eb72",
+  "url": "https://www.anthropic.com/research/attack-surface-reduction",
+  "publishedAt": "2026-10-20T00:00:00.000Z",
+  "publishedAtQuote": "2026-10-20T00:00:00.000Z",
+  "retrievedAt": "2026-10-20T23:34:54.436Z",
+  "method": "agent-tool",
+  "contentHash": "c5ccc2a3b2b7e2ce08eef58605269eeca3782480448bd67f3cd4cf86818fba0d",
+  "quotations": [
+    "Specifically, we ran Claude over 25 projects (in a variety of languages), and it discovered 493 issues.",
+    "These techniques don’t remove the unknown vulnerabilities in the code, but they do make the vulnerabilities harder to reach, and thereby reduce their severity."
+  ]
+}

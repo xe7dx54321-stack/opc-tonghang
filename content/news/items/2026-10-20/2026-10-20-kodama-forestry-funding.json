@@ -1,0 +1,62 @@
+{
+  "id": "2026-10-20-kodama-forestry-funding",
+  "title": "Kodama raises $7M to bring robotics to forestry",
+  "url": "https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry/",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [],
+  "publishedAt": "2026-10-19T15:55:12.000Z",
+  "fetchedAt": "2026-10-19T16:23:48.653Z",
+  "summary": "The Robot Report于10月19日报道，Kodama Systems融资700万美元，拟支持林业现场部署、设备厂合作及监督式自主能力。报道称配备其技术的机器在过去六个月于美国东南部多个州处理超过10万吨木材。",
+  "investorNote": "林业场景强调设备利用率和远程运营成本，比通用机器人演示更接近可量化业务。",
+  "score": 0.72,
+  "duplicateOf": null,
+  "clusterId": "event-de221af6d05b2bdd10d22ca1",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Kodama Systems",
+    "action": "报道700万美元融资",
+    "object": "Kodama林业自动化商业部署",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "466b8480b6951d13eb7379431e34b4993709e15f6b20685b02a69d973a492d4a",
+    "originalUrl": "https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry/",
+    "originalPublishedAt": "2026-10-19T15:55:12.000Z",
+    "checkedAt": "2026-10-19T23:35:45.912Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "466b8480b6951d13eb7379431e34b4993709e15f6b20685b02a69d973a492d4a",
+      "kind": "fact",
+      "quote": "Kodama Systems today said it has raised $7 million to bring physical AI to forestry."
+    },
+    {
+      "snapshotId": "466b8480b6951d13eb7379431e34b4993709e15f6b20685b02a69d973a492d4a",
+      "kind": "condition",
+      "quote": "machines equipped with the company’s"
+    },
+    {
+      "snapshotId": "466b8480b6951d13eb7379431e34b4993709e15f6b20685b02a69d973a492d4a",
+      "kind": "condition",
+      "quote": "have moved more than 100,000 tons of timber across multiple states."
+    }
+  ],
+  "displayTitle": "Kodama获700万美元，把林业重型设备自动化推向商用",
+  "narrative": "Kodama Systems获700万美元新融资，将用于林业现场部署和监督式自主技术。The Robot Report称，其设备过去六个月已在美国东南部商业伐木作业中处理超过10万吨木材。这个数字来自公司及报道，提示项目已进入连续运营阶段；投资判断仍要看每台设备的人工接管率和单位木材处理成本。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期首次记录该主体对该具体对象的独立动作；历史候选无同一次发生"
+  },
+  "eventId": "event-de221af6d05b2bdd10d22ca1",
+  "occurrenceId": "occ-de221af6d05b2bdd10d22ca1",
+  "relatedItems": []
+}

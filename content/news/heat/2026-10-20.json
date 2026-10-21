@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-20",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-5f9d59b09b6c3f02cbf1",
+      "title": "MiniMax 发布 M3.1 Flash",
+      "summary": "两家独立媒体报道 MiniMax M3.1 Flash 模型上线及其价格与性能。",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "the-decoder.com",
+          "url": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight"
+        },
+        {
+          "name": "marktechpost.com",
+          "url": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release"
+        }
+      ],
+      "memberUrls": [
+        "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight",
+        "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "event-5f8f19de51fdacb7b224f33d",
+  "title": "TorchNeuron开放Trainium原生PyTorch后端，10月20日启动公测",
+  "firstSeen": "2026-10-20",
+  "editionDate": "2026-10-20",
+  "occurrences": [
+    {
+      "id": "occ-5f8f19de51fdacb7b224f33d",
+      "fact": {
+        "subject": "Hugging Face与AWS",
+        "action": "公布原生Trainium后端",
+        "object": "TorchNeuron公测",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-20",
+      "reports": [
+        {
+          "ref": "2026-10-20/2026-10-20-torchneuron-hf",
+          "itemId": "2026-10-20-torchneuron-hf",
+          "editionDate": "2026-10-20",
+          "url": "https://huggingface.co/blog/hf-torchneuron",
+          "source": "hugging-face-blog",
+          "owner": "Hugging Face",
+          "role": "principal",
+          "publishedAt": "2026-10-19T00:00:00.000Z",
+          "title": "TorchNeuron开放Trainium原生PyTorch后端，10月20日启动公测"
+        },
+        {
+          "ref": "2026-10-20/2026-10-20-amazon-torchneuron-report",
+          "itemId": "2026-10-20-amazon-torchneuron-report",
+          "editionDate": "2026-10-20",
+          "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-19T20:09:24.000Z",
+          "title": "TorchNeuron降低PyTorch迁移Trainium门槛"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-20"
+}

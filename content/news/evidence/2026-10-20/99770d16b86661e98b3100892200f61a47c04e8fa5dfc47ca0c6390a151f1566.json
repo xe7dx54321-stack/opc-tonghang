@@ -1,0 +1,13 @@
+{
+  "snapshotId": "99770d16b86661e98b3100892200f61a47c04e8fa5dfc47ca0c6390a151f1566",
+  "url": "https://huggingface.co/blog/hf-torchneuron",
+  "publishedAt": "2026-10-19T00:00:00.000Z",
+  "publishedAtQuote": "October 19, 2026",
+  "retrievedAt": "2026-10-19T23:35:45.817Z",
+  "method": "agent-tool",
+  "contentHash": "e5e96e93cfe774e64556a568b1547c333d554ad7fdd93139c2d3d9260799651e",
+  "quotations": [
+    "TorchNeuron provides a new native backend for PyTorch on AWS Trainium. Transformers, Diffusers and Kernels natively support it",
+    "Starting Oct. 20, 2026, TorchNeuron will be available as a public beta."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "snapshotId": "d5af07def0c3b3a907af4e33288a679781a208059911148f220e92ab5cb04586",
+  "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+  "publishedAt": "2026-10-20T00:00:00.000Z",
+  "publishedAtQuote": "2026-10-20T00:00:00.000Z",
+  "retrievedAt": "2026-10-20T23:34:54.173Z",
+  "method": "agent-tool",
+  "contentHash": "6828d49d9dc24bd2b048c3633cd6285288afcf956e1c439f1c1b20c49204448e",
+  "quotations": [
+    "Teams at Adaptyv Bio and Twist Bioscience experimentally tested 211 designs for binding. Of these, 17 met our criteria.",
+    "The challenge, as always, is turning those binders into safe, affordable, and widely accessible drugs.\nWe share more detail in our\ntechnical report\n, and are making\nall 211 designs and their data available\n."
+  ]
+}
