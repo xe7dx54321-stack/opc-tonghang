@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-22-waymo-vegas-airport",
+  "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+  "publishedAt": "2026-10-21T16:59:44.000Z",
+  "fact": {
+    "subject": "Waymo",
+    "action": "started offering limited airport rides",
+    "object": "Harry Reid International Airport service",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e93d3807a34b4c6cd252107cd6843e5e5f53490d7e9665cb1cfa7ed46d2dae08",
+    "originalUrl": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+    "originalPublishedAt": "2026-10-21T16:59:44.000Z",
+    "checkedAt": "2026-10-21T23:33:59.264Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e93d3807a34b4c6cd252107cd6843e5e5f53490d7e9665cb1cfa7ed46d2dae08",
+      "kind": "fact",
+      "quote": "Waymo is now shuttling customers to and from the Harry Reid International Airport in Las Vegas, with pickups and drop-offs happening at dedicated “autonomous vehicle zones” at Terminal 1 and Terminal 3, the company\nannounced\nWednesday."
+    },
+    {
+      "snapshotId": "e93d3807a34b4c6cd252107cd6843e5e5f53490d7e9665cb1cfa7ed46d2dae08",
+      "kind": "condition",
+      "quote": "The company said the rides to and from the Las Vegas airport will be limited at first to just a few riders, before opening up to all customers."
+    }
+  ],
+  "title": "Waymo starts offering rides at the Las Vegas airport",
+  "displayTitle": "Waymo 开通拉斯维加斯机场接驳，初期仅向少量乘客开放",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Waymo",
+    "Harry Reid International Airport"
+  ],
+  "fetchedAt": "2026-10-21T17:06:26.467Z",
+  "summary": "Waymo 已开始提供往返拉斯维加斯 Harry Reid 国际机场的无人车接驳，接送点设在一号和三号航站楼指定区域。服务初期只向少量乘客开放，之后才计划扩大。",
+  "investorNote": "机场是自动驾驶高价值但规则复杂的场景。接驳开通可验证调度和与机场协作能力，商业影响取决于开放范围和稳定运营。",
+  "narrative": "Waymo 已把拉斯维加斯服务延伸到 Harry Reid 国际机场，一号和三号航站楼设有指定接送区，**初期只覆盖少量乘客**。机场接驳涉及固定接驳点、排队和高峰期调度，较普通城区点到点出行更能检验运营协同。它是服务范围的实际扩张，但还不能当作全面开放或单城盈利的证据；后续要看乘客覆盖和稳定接单情况。",
+  "score": 0.76,
+  "duplicateOf": null,
+  "clusterId": "event-3b45eb6eec71e91604f441aa",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的是独立的新动作；与历史相似主体或产品的旧报道不属于同一次发生。"
+  },
+  "eventId": "event-3b45eb6eec71e91604f441aa",
+  "occurrenceId": "occ-3b45eb6eec71e91604f441aa",
+  "relatedItems": []
+}

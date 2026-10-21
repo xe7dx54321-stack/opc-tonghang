@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-c5bd31c541e7ab99df8ddfaa",
+  "title": "Flapping Airplanes 宣布完成 10 亿美元 A 轮，估值报道约 60 亿美元",
+  "firstSeen": "2026-10-22",
+  "editionDate": "2026-10-22",
+  "occurrences": [
+    {
+      "id": "occ-c5bd31c541e7ab99df8ddfaa",
+      "fact": {
+        "subject": "Flapping Airplanes",
+        "action": "announced Series A financing",
+        "object": "$1 billion funding round",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-22",
+      "reports": [
+        {
+          "ref": "2026-10-22/2026-10-22-flapping-airplanes-series-a",
+          "itemId": "2026-10-22-flapping-airplanes-series-a",
+          "editionDate": "2026-10-22",
+          "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-21T20:57:40.000Z",
+          "title": "Flapping Airplanes 宣布完成 10 亿美元 A 轮，估值报道约 60 亿美元"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-22"
+}

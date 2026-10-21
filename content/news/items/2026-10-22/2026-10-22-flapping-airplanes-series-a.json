@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-22-flapping-airplanes-series-a",
+  "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+  "publishedAt": "2026-10-21T20:57:40.000Z",
+  "fact": {
+    "subject": "Flapping Airplanes",
+    "action": "announced Series A financing",
+    "object": "$1 billion funding round",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "3bad5fc083ce1a43d69cc0569ba0517cc9a5cb858421a0d3f75f95cc62486e48",
+    "originalUrl": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+    "originalPublishedAt": "2026-10-21T20:57:40.000Z",
+    "checkedAt": "2026-10-21T23:33:59.288Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "3bad5fc083ce1a43d69cc0569ba0517cc9a5cb858421a0d3f75f95cc62486e48",
+      "kind": "fact",
+      "quote": "On Wednesday, the company\nannounced\nit had raised a $1 billion Series A round, co-led by Index and Lux,\nreportedly\nat a $6 billion valuation."
+    },
+    {
+      "snapshotId": "3bad5fc083ce1a43d69cc0569ba0517cc9a5cb858421a0d3f75f95cc62486e48",
+      "kind": "condition",
+      "quote": "The round comes just nine months after the company\nlaunched with a $180 million seed round"
+    }
+  ],
+  "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+  "displayTitle": "Flapping Airplanes 宣布完成 10 亿美元 A 轮，估值报道约 60 亿美元",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Flapping Airplanes",
+    "Index Ventures",
+    "Lux Capital"
+  ],
+  "fetchedAt": "2026-10-21T21:09:21.621Z",
+  "summary": "Flapping Airplanes 宣布完成由 Index 和 Lux 共同领投的 10 亿美元 A 轮融资；TechCrunch 报道估值约 60 亿美元，但将该估值标注为消息称。团队主攻低数据量模型训练和 GPU 利用效率。",
+  "investorNote": "资本市场继续押注训练效率路线，但大额融资与公司提出的 megakernel 技术目标之间仍缺公开产品和经济性验证。",
+  "narrative": "成立约一年的 Flapping Airplanes 宣布完成**10 亿美元 A 轮**，由 Index 和 Lux 共同领投；约 60 亿美元估值是报道援引信息，尚不等于公司确认。团队的技术叙事是把训练、推理等工作放到更高效的 GPU 执行框架中，并减少模型对海量数据的依赖。对投资人，这轮融资显示效率路线获得大额资本支持，但模型能力、算力利用率和商业回报仍需要公开结果检验。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "event-c5bd31c541e7ab99df8ddfaa",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的是独立的新动作；与历史相似主体或产品的旧报道不属于同一次发生。"
+  },
+  "eventId": "event-c5bd31c541e7ab99df8ddfaa",
+  "occurrenceId": "occ-c5bd31c541e7ab99df8ddfaa",
+  "relatedItems": []
+}

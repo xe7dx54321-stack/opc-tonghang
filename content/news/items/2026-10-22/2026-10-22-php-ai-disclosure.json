@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-22-php-ai-disclosure",
+  "url": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
+  "publishedAt": "2026-10-21T19:45:01.000Z",
+  "fact": {
+    "subject": "OpenAI, Wiz and PHP maintainers",
+    "action": "disclosed AI-assisted discovery and response",
+    "object": "critical PHP vulnerabilities",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "42104e9634010237c27d187204a8292bb42d68e401cba2b654eb6c3a3d3cbf0a",
+    "originalUrl": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
+    "originalPublishedAt": "2026-10-21T19:45:01.000Z",
+    "checkedAt": "2026-10-21T23:33:59.134Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "42104e9634010237c27d187204a8292bb42d68e401cba2b654eb6c3a3d3cbf0a",
+      "kind": "fact",
+      "quote": "AI models from OpenAI and Google found a critical PHP vulnerability that could affect millions of websites worldwide."
+    },
+    {
+      "snapshotId": "42104e9634010237c27d187204a8292bb42d68e401cba2b654eb6c3a3d3cbf0a",
+      "kind": "condition",
+      "quote": "A\ntool on GitHub\nnow lets server operators check whether their PHP version is affected."
+    }
+  ],
+  "title": "OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites",
+  "displayTitle": "AI 辅助发现 PHP 严重漏洞，OpenAI 与 Wiz 披露协同修复",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "Wiz",
+    "PHP"
+  ],
+  "fetchedAt": "2026-10-21T20:08:36.376Z",
+  "summary": "OpenAI 与安全公司 Wiz 披露 AI 辅助发现的 PHP 严重漏洞；OpenAI 说明漏洞处置经历了维护者和安全厂商的协同。当前新动作是公开披露与修复响应，不能把此前数月的漏洞发现写成当天发生。",
+  "investorNote": "这显示前沿模型已能进入大规模安全研究流程；对运营方更紧急的是检查自身 PHP 版本和补丁，而不是争论哪个模型先发现。",
+  "narrative": "OpenAI 和 Wiz 披露了借助 AI 发现的 PHP 漏洞，PHP 维护者已参与修复与发布，相关工具可帮助网站运营者核对版本。发现与协调工作发生在此前数月，今天值得关注的是公开披露后的补丁窗口。投资判断是安全研究的自动化能力正在提高，同时可能压缩防守方响应时间；具体受影响版本与升级步骤仍应以 PHP 官方公告为准。",
+  "score": 0.86,
+  "duplicateOf": null,
+  "clusterId": "event-5c76d7dd1753b90925636c1f",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的是独立的新动作；与历史相似主体或产品的旧报道不属于同一次发生。"
+  },
+  "eventId": "event-5c76d7dd1753b90925636c1f",
+  "occurrenceId": "occ-5c76d7dd1753b90925636c1f",
+  "relatedItems": []
+}

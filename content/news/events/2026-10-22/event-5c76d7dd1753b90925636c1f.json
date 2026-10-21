@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-5c76d7dd1753b90925636c1f",
+  "title": "AI 辅助发现 PHP 严重漏洞，OpenAI 与 Wiz 披露协同修复",
+  "firstSeen": "2026-10-22",
+  "editionDate": "2026-10-22",
+  "occurrences": [
+    {
+      "id": "occ-5c76d7dd1753b90925636c1f",
+      "fact": {
+        "subject": "OpenAI, Wiz and PHP maintainers",
+        "action": "disclosed AI-assisted discovery and response",
+        "object": "critical PHP vulnerabilities",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-22",
+      "reports": [
+        {
+          "ref": "2026-10-22/2026-10-22-php-ai-disclosure",
+          "itemId": "2026-10-22-php-ai-disclosure",
+          "editionDate": "2026-10-22",
+          "url": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-10-21T19:45:01.000Z",
+          "title": "AI 辅助发现 PHP 严重漏洞，OpenAI 与 Wiz 披露协同修复"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-22"
+}

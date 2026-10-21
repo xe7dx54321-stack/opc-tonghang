@@ -1,0 +1,13 @@
+{
+  "snapshotId": "f0a388ae8debd295def0dbe8626555113414b7466b34aaad3f1cd035d87e4695",
+  "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+  "publishedAt": "2026-10-21T10:45:17.000Z",
+  "publishedAtQuote": "2026-10-21T10:45:17+00:00",
+  "retrievedAt": "2026-10-21T23:33:59.187Z",
+  "method": "agent-tool",
+  "contentHash": "e1bf869a5d178c889e4bee9a53f9c761e2d281770c6451f080fc63a5b0c28ca3",
+  "quotations": [
+    "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers.",
+    "Google Cloud plans to scale its Vera Rubin-based infrastructure to as many as 960,000 Rubin GPUs across multiple sites."
+  ]
+}

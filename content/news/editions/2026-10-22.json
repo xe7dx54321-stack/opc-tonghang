@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-22",
+  "window": {
+    "start": 1792539000000,
+    "end": 1792625400000
+  },
+  "digestHash": "94c30ac854390a330dc764fc8749f55082d93dadff36b6c64ef08bd368dde49c",
+  "stories": [
+    {
+      "heading": "Anthropic 推出 Claude Duet 研究预览，向专业用户开放跨应用代理",
+      "itemId": "2026-10-22-claude-duet",
+      "eventId": "event-23216469bb46aa7b2c67469b",
+      "occurrenceId": "occ-23216469bb46aa7b2c67469b"
+    },
+    {
+      "heading": "OpenAI 模型进入 Google Cloud，企业先获私有预览",
+      "itemId": "2026-10-22-openai-google-cloud",
+      "eventId": "event-fa4ee5b55c16b77da30128bd",
+      "occurrenceId": "occ-fa4ee5b55c16b77da30128bd"
+    },
+    {
+      "heading": "AI 辅助发现 PHP 严重漏洞，OpenAI 与 Wiz 披露协同修复",
+      "itemId": "2026-10-22-php-ai-disclosure",
+      "eventId": "event-5c76d7dd1753b90925636c1f",
+      "occurrenceId": "occ-5c76d7dd1753b90925636c1f"
+    },
+    {
+      "heading": "Recursive 发布可在笔记本运行的 Flint 编程模型",
+      "itemId": "2026-10-22-recursive-flint",
+      "eventId": "event-8ab57db62f0c00bacf3efcc8",
+      "occurrenceId": "occ-8ab57db62f0c00bacf3efcc8"
+    },
+    {
+      "heading": "Google Cloud 与 NVIDIA 公布 Vera Rubin A5X 云实例，下月计划正式开放",
+      "itemId": "2026-10-22-google-vera-rubin-a5x",
+      "eventId": "event-2fd53cae6b60002850bd8821",
+      "occurrenceId": "occ-2fd53cae6b60002850bd8821"
+    },
+    {
+      "heading": "Intel 亚利桑那 Fab 62 开始安装生产设备，量产节点尚未公布",
+      "itemId": "2026-10-22-intel-fab-62-tools",
+      "eventId": "event-c4ec0a6296eda680e803a33b",
+      "occurrenceId": "occ-c4ec0a6296eda680e803a33b"
+    },
+    {
+      "heading": "AGCO 与 Agility 签约引入 Digit，人形机器人试点拟于 2027 年启动",
+      "itemId": "2026-10-22-agco-agility-digit",
+      "eventId": "event-8a9d308a9aec83273a225b1d",
+      "occurrenceId": "occ-8a9d308a9aec83273a225b1d"
+    },
+    {
+      "heading": "Waymo 开通拉斯维加斯机场接驳，初期仅向少量乘客开放",
+      "itemId": "2026-10-22-waymo-vegas-airport",
+      "eventId": "event-3b45eb6eec71e91604f441aa",
+      "occurrenceId": "occ-3b45eb6eec71e91604f441aa"
+    },
+    {
+      "heading": "小红书公布 DoSA 长上下文加速方法，称首 token 延迟降低 37% 至 48%",
+      "itemId": "2026-10-22-redtech-dosa",
+      "eventId": "event-92169bfac636b76fa4082870",
+      "occurrenceId": "occ-92169bfac636b76fa4082870"
+    },
+    {
+      "heading": "Flapping Airplanes 宣布完成 10 亿美元 A 轮，估值报道约 60 亿美元",
+      "itemId": "2026-10-22-flapping-airplanes-series-a",
+      "eventId": "event-c5bd31c541e7ab99df8ddfaa",
+      "occurrenceId": "occ-c5bd31c541e7ab99df8ddfaa"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-22-agco-agility-digit.json": "8b5dc29e655381c5a230b942b40e8a2648e6c5f21cc845a4b0315a40a6515d59",
+    "2026-10-22-claude-duet.json": "c2cf67e101d3b25111bd1f40429e795dc80c082c71062bebfa2871708978055a",
+    "2026-10-22-flapping-airplanes-series-a.json": "98e24b9418afdeedcaeeba5ba65ac4d98a329ffaeee516f15f8f669e29992b84",
+    "2026-10-22-google-vera-rubin-a5x.json": "a86dfbd18101b9604696bc8baac3e98b81e60cbfc907ad79666db2aed4dc9060",
+    "2026-10-22-intel-fab-62-tools.json": "d333f54694d8952e1257e7464c28b61432588aaff73fb96d34895616b0fe77e2",
+    "2026-10-22-openai-google-cloud.json": "9498e8ea68fbde1f5086ca4dfbd043b5bb17213024727f352799b686f9f8a8af",
+    "2026-10-22-php-ai-disclosure.json": "fe98f5c89c3384c22cbe75f7f8dc69c8957860e641d1cc289e38c83a1fb96bc0",
+    "2026-10-22-recursive-flint.json": "88e9e44d48f25c9fb04f10b0060625a474b019c968a435bc20b17e7182b1cc41",
+    "2026-10-22-redtech-dosa.json": "9023e3fed83044b3b6a42bf47b0bd1579b3cc6e89f5b5d3a999f226df6290f6e",
+    "2026-10-22-waymo-vegas-airport.json": "3a0043541ffa0e8a4503bb211a58dc9238da4abf28878fd2539163fb9e7848b6"
+  },
+  "evidenceHashes": {
+    "010b94ec59d58bcf8f6ef6476dbc5e526555d4caa6a9fd5d1530c66972ed4c96.json": "1ae5c687218a6abedbbf8ade9e7a4429336c96ee1a79b36f34056a6fa5d8b1e7",
+    "3bad5fc083ce1a43d69cc0569ba0517cc9a5cb858421a0d3f75f95cc62486e48.json": "b1ff1bfac66b95743523f7fbbd5dc5d910457bfbb56ff5ec1a0fd2aecb4d0e4d",
+    "42104e9634010237c27d187204a8292bb42d68e401cba2b654eb6c3a3d3cbf0a.json": "f83f4790c8bf7e0b51f8ceb12f0a610e7531c8c71ecae738a75010ac8db9d81a",
+    "42d396876d0e56232e5c31e676530dfa95e51c1d2738313eb720e9b6e0cc6e99.json": "f66343c61f8dcad6a358ab211b2e989642679472668cf52646504b38f7dbc2a5",
+    "4feb7a46fc4329ab63a17bb7aaec168c43191e16e32324033006cd406c9c6a19.json": "680e182bc8816b9ca2dcd6c29bfcd7323255b5641203c2d2cf6d17f70b8d0c78",
+    "545dfa68b878d446b7767fcf4286d48b58bcb2d7200f17430f1910a9ad6ed6b4.json": "09eaa93070cb4d588ffc9deb70da42b72151e0c6be7fb720c21c5ece28a4c68b",
+    "a190ad686606fbb0732b9d876ae9082e766d58ae852be26af13a45fcc4584990.json": "b1eaf30537570c679e375bf0a1886fdf5d37b128c85ee30ee37c1393aa2384c7",
+    "ddbd323f2a3ae63489b6c78bfa0cfffdfb6c24491fb5e05349484280ddf54354.json": "51253dc0f1f1bf1f89970eda2d97c37646c54327d63188cb69b8c34bada343a3",
+    "e93d3807a34b4c6cd252107cd6843e5e5f53490d7e9665cb1cfa7ed46d2dae08.json": "4bf68802a56bf01b2c5d34d0212f4698026553f2a35219cb09f61e99549e2332",
+    "f0a388ae8debd295def0dbe8626555113414b7466b34aaad3f1cd035d87e4695.json": "ef28c95f94110719291ee9d97e5d9d784ad2baa8d3f8048047d97d532be39c55"
+  },
+  "eventsHashes": {
+    "event-23216469bb46aa7b2c67469b.json": "3645d7097f495fd172ed3294689bbc3dbe293c29eaf532691de469ff757ef10a",
+    "event-2fd53cae6b60002850bd8821.json": "429dd6cef3c0dd3a0503cc67a21025db502ea94fc21ff6f075fd351a68665d46",
+    "event-3b45eb6eec71e91604f441aa.json": "a6cce9b1e97beafb0ea696cc33d9e704a7338877559392b1c953650993951cb2",
+    "event-5c76d7dd1753b90925636c1f.json": "0a034e42ad3a9229fa868c960598e5ed21e8b7233ddbcf6900fbec59c31d1e97",
+    "event-8a9d308a9aec83273a225b1d.json": "c105dd539e61299540a856f523df6f451a2e7d0b57a9f2ac8ca65f09a7c87cb7",
+    "event-8ab57db62f0c00bacf3efcc8.json": "a10e1cdbdcac0e015552255f674ddc00d4ca50e9079daf610d9967e9ddc4dd53",
+    "event-92169bfac636b76fa4082870.json": "aab23d670ceca3937320c7e7f2d420b1669b1ffcb450442d81993151ba879ac7",
+    "event-c4ec0a6296eda680e803a33b.json": "fc64b245840fef890477717ad9d20367106ee3821b7d9a17dedb5aa773ccb34c",
+    "event-c5bd31c541e7ab99df8ddfaa.json": "fc67b81f26bf094ccd7c907694a5a63cfc4e7f6670858687ee95f271c67efc51",
+    "event-fa4ee5b55c16b77da30128bd.json": "64527b8a4667cd711936418cf2764f697f6242b71a00329d49ffa823b958bbee"
+  }
+}

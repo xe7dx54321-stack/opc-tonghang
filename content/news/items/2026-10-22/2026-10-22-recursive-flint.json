@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-22-recursive-flint",
+  "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+  "publishedAt": "2026-10-21T20:27:41.000Z",
+  "fact": {
+    "subject": "Recursive",
+    "action": "released",
+    "object": "Flint local coding model",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "a190ad686606fbb0732b9d876ae9082e766d58ae852be26af13a45fcc4584990",
+    "originalUrl": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "originalPublishedAt": "2026-10-21T20:27:41.000Z",
+    "checkedAt": "2026-10-21T23:33:59.161Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "a190ad686606fbb0732b9d876ae9082e766d58ae852be26af13a45fcc4584990",
+      "kind": "fact",
+      "quote": "The company, which is trying to build AI that can improve itself, released its first model,\nFlint\n, on Wednesday. Flint is a free coding model that can run on a laptop and was built largely with the help of AI."
+    },
+    {
+      "snapshotId": "a190ad686606fbb0732b9d876ae9082e766d58ae852be26af13a45fcc4584990",
+      "kind": "condition",
+      "quote": "The model is free to download on Hugging Face, the popular site for sharing AI models, under the Apache 2.0 license"
+    }
+  ],
+  "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+  "displayTitle": "Recursive 发布可在笔记本运行的 Flint 编程模型",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Recursive",
+    "Flint"
+  ],
+  "fetchedAt": "2026-10-21T20:38:57.028Z",
+  "summary": "Recursive 发布首款编程模型 Flint，报道指出其为可在笔记本本地运行的 MoE 模型，提供 Apache 2.0 许可的下载版本。公司称自动化研究系统 Eureka Machine 参与了开发。",
+  "investorNote": "这是本地编程代理与自动化模型研发的双重验证点。评测成绩和研发效率来自公司说法，需要在公开权重和实际仓库任务中复测。",
+  "narrative": "Recursive 推出 Flint：报道描述这是一款可以在笔记本本地运行、按 Apache 2.0 许可开放的编程模型。公司称 Eureka Machine 参与模型开发，但这仍是受人监督的研发流程，不能直接推导出完全自主的模型自我改进。本地部署让代码隐私和按量调用成本有了新的选择，下一步应看开发者在真实仓库中的修复率，而不只看厂商基准。",
+  "score": 0.83,
+  "duplicateOf": null,
+  "clusterId": "event-8ab57db62f0c00bacf3efcc8",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的是独立的新动作；与历史相似主体或产品的旧报道不属于同一次发生。"
+  },
+  "eventId": "event-8ab57db62f0c00bacf3efcc8",
+  "occurrenceId": "occ-8ab57db62f0c00bacf3efcc8",
+  "relatedItems": []
+}

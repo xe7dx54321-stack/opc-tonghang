@@ -1,0 +1,14 @@
+{
+  "snapshotId": "010b94ec59d58bcf8f6ef6476dbc5e526555d4caa6a9fd5d1530c66972ed4c96",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247496757&idx=1&sn=42a95f2ad3ebc18eac32f7de5aae14e3",
+  "publishedAt": "2026-10-21T09:59:00.000Z",
+  "publishedAtQuote": "2026-10-21 17:59",
+  "retrievedAt": "2026-10-21T23:33:59.312Z",
+  "method": "rss-syndication",
+  "retrievedFrom": "https://wechat2rss.bestblogs.dev/feed/0f8c47df6fd304112518544776e0bbf1d98ba0b9.xml",
+  "contentHash": "fe15a9dd30709f88ca9146315efd353071c9f5dfc90ee5c67507a9d94ebbe274",
+  "quotations": [
+    "小红书 DoSA 保持原始评分函数下的精确 Top-K，在三款模型上将首字等待缩短约 37%～48%。",
+    "在约 1M token 的测试中，Dots3-Note-preview、GLM-5.2 和 DeepSeek-V3.2 的首 token 延迟相对各自的 SGLang 基线分别减少约 37%、46% 和 48%。"
+  ]
+}

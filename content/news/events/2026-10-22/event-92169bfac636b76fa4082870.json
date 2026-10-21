@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-92169bfac636b76fa4082870",
+  "title": "小红书公布 DoSA 长上下文加速方法，称首 token 延迟降低 37% 至 48%",
+  "firstSeen": "2026-10-22",
+  "editionDate": "2026-10-22",
+  "occurrences": [
+    {
+      "id": "occ-92169bfac636b76fa4082870",
+      "fact": {
+        "subject": "小红书技术团队",
+        "action": "公布测试结果",
+        "object": "DoSA 长上下文索引器加速方法",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-22",
+      "reports": [
+        {
+          "ref": "2026-10-22/2026-10-22-redtech-dosa",
+          "itemId": "2026-10-22-redtech-dosa",
+          "editionDate": "2026-10-22",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247496757&idx=1&sn=42a95f2ad3ebc18eac32f7de5aae14e3",
+          "source": "wechat-redtech",
+          "owner": "小红书技术REDtech",
+          "role": "principal",
+          "publishedAt": "2026-10-21T09:59:00.000Z",
+          "title": "小红书公布 DoSA 长上下文加速方法，称首 token 延迟降低 37% 至 48%"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-22"
+}

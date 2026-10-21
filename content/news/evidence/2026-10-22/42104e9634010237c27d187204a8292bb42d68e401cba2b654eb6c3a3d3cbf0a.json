@@ -1,0 +1,13 @@
+{
+  "snapshotId": "42104e9634010237c27d187204a8292bb42d68e401cba2b654eb6c3a3d3cbf0a",
+  "url": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
+  "publishedAt": "2026-10-21T19:45:01.000Z",
+  "publishedAtQuote": "2026-10-21T19:45:01+00:00",
+  "retrievedAt": "2026-10-21T23:33:59.134Z",
+  "method": "agent-tool",
+  "contentHash": "dfee0d3e63ecbcf0b34969f82cbd9f7966c831ce91bea36cdd512d2320f82c26",
+  "quotations": [
+    "AI models from OpenAI and Google found a critical PHP vulnerability that could affect millions of websites worldwide.",
+    "A\ntool on GitHub\nnow lets server operators check whether their PHP version is affected."
+  ]
+}

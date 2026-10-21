@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-8a9d308a9aec83273a225b1d",
+  "title": "AGCO 与 Agility 签约引入 Digit，人形机器人试点拟于 2027 年启动",
+  "firstSeen": "2026-10-22",
+  "editionDate": "2026-10-22",
+  "occurrences": [
+    {
+      "id": "occ-8a9d308a9aec83273a225b1d",
+      "fact": {
+        "subject": "AGCO and Agility Robotics",
+        "action": "signed commercial agreement",
+        "object": "Digit pilot at Hesston plant",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-22",
+      "reports": [
+        {
+          "ref": "2026-10-22/2026-10-22-agco-agility-digit",
+          "itemId": "2026-10-22-agco-agility-digit",
+          "editionDate": "2026-10-22",
+          "url": "https://www.therobotreport.com/agco-to-deploy-agility-digit-humanoid-in-kansas-factory/",
+          "source": "robot-report",
+          "owner": "The Robot Report",
+          "role": "observer",
+          "publishedAt": "2026-10-21T13:19:00.000Z",
+          "title": "AGCO 与 Agility 签约引入 Digit，人形机器人试点拟于 2027 年启动"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-22"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-c4ec0a6296eda680e803a33b",
+  "title": "Intel 亚利桑那 Fab 62 开始安装生产设备，量产节点尚未公布",
+  "firstSeen": "2026-10-22",
+  "editionDate": "2026-10-22",
+  "occurrences": [
+    {
+      "id": "occ-c4ec0a6296eda680e803a33b",
+      "fact": {
+        "subject": "Intel",
+        "action": "began installing production tools",
+        "object": "Fab 62 in Arizona",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-22",
+      "reports": [
+        {
+          "ref": "2026-10-22/2026-10-22-intel-fab-62-tools",
+          "itemId": "2026-10-22-intel-fab-62-tools",
+          "editionDate": "2026-10-22",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-10-21T19:35:53.000Z",
+          "title": "Intel 亚利桑那 Fab 62 开始安装生产设备，量产节点尚未公布"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-22"
+}

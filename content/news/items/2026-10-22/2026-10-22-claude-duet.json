@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-22-claude-duet",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+  "publishedAt": "2026-10-21T19:53:20.000Z",
+  "fact": {
+    "subject": "Anthropic",
+    "action": "launched research preview",
+    "object": "Claude Duet",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "4feb7a46fc4329ab63a17bb7aaec168c43191e16e32324033006cd406c9c6a19",
+    "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+    "originalPublishedAt": "2026-10-21T19:53:20.000Z",
+    "checkedAt": "2026-10-21T23:33:51.688Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "4feb7a46fc4329ab63a17bb7aaec168c43191e16e32324033006cd406c9c6a19",
+      "kind": "fact",
+      "quote": "Anthropic just announced an AI agent competitor to Meta’s Muse and OpenAI’s Dots: Claude Duet."
+    },
+    {
+      "snapshotId": "4feb7a46fc4329ab63a17bb7aaec168c43191e16e32324033006cd406c9c6a19",
+      "kind": "condition",
+      "quote": "Before any big step, like sending a payment or deleting something, Claude Duet messages you for approval."
+    }
+  ],
+  "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+  "displayTitle": "Anthropic 推出 Claude Duet 研究预览，向专业用户开放跨应用代理",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude Duet"
+  ],
+  "fetchedAt": "2026-10-21T20:08:35.413Z",
+  "summary": "Anthropic 推出面向专业人士和小企业的 Claude Duet 研究预览，可通过网页及 iOS、Android 独立应用使用。它能读取已连接应用、生成晨间简报并执行任务；支付或删除等重要动作需先征求用户批准。",
+  "investorNote": "Duet 的关键是把 Claude 的记忆、技能和应用连接转成持续运行的工作代理。研究预览阶段仍需观察授权边界、错误处理和真实任务完成率。",
+  "narrative": "Anthropic 将 Claude Duet 作为研究预览推出，目标是让代理跨已连接应用整理信息并执行工作。它有浏览器虚拟机，可做从日程安排到仪表板、预测的任务；支付和删除等重要步骤会先请求批准。对企业用户，真正的比较点是跨系统执行的可靠性与权限治理，功能清单本身还不能证明能长期托管关键流程。",
+  "score": 0.91,
+  "duplicateOf": null,
+  "clusterId": "event-23216469bb46aa7b2c67469b",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的是独立的新动作；与历史相似主体或产品的旧报道不属于同一次发生。"
+  },
+  "eventId": "event-23216469bb46aa7b2c67469b",
+  "occurrenceId": "occ-23216469bb46aa7b2c67469b",
+  "relatedItems": []
+}

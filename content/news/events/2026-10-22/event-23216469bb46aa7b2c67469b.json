@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-23216469bb46aa7b2c67469b",
+  "title": "Anthropic 推出 Claude Duet 研究预览，向专业用户开放跨应用代理",
+  "firstSeen": "2026-10-22",
+  "editionDate": "2026-10-22",
+  "occurrences": [
+    {
+      "id": "occ-23216469bb46aa7b2c67469b",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "launched research preview",
+        "object": "Claude Duet",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-22",
+      "reports": [
+        {
+          "ref": "2026-10-22/2026-10-22-claude-duet",
+          "itemId": "2026-10-22-claude-duet",
+          "editionDate": "2026-10-22",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-10-21T19:53:20.000Z",
+          "title": "Anthropic 推出 Claude Duet 研究预览，向专业用户开放跨应用代理"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-22"
+}

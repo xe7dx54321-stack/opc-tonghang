@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-22",
+  "itemCount": 10,
+  "storyCount": 10,
+  "clusterCount": 10,
+  "files": [
+    "2026-10-22-claude-duet.json",
+    "2026-10-22-openai-google-cloud.json",
+    "2026-10-22-php-ai-disclosure.json",
+    "2026-10-22-recursive-flint.json",
+    "2026-10-22-google-vera-rubin-a5x.json",
+    "2026-10-22-intel-fab-62-tools.json",
+    "2026-10-22-agco-agility-digit.json",
+    "2026-10-22-waymo-vegas-airport.json",
+    "2026-10-22-redtech-dosa.json",
+    "2026-10-22-flapping-airplanes-series-a.json"
+  ],
+  "representatives": [
+    "2026-10-22-claude-duet",
+    "2026-10-22-openai-google-cloud",
+    "2026-10-22-php-ai-disclosure",
+    "2026-10-22-recursive-flint",
+    "2026-10-22-google-vera-rubin-a5x",
+    "2026-10-22-intel-fab-62-tools",
+    "2026-10-22-agco-agility-digit",
+    "2026-10-22-waymo-vegas-airport",
+    "2026-10-22-redtech-dosa",
+    "2026-10-22-flapping-airplanes-series-a"
+  ]
+}

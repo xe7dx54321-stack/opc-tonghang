@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-fa4ee5b55c16b77da30128bd",
+  "title": "OpenAI 模型进入 Google Cloud，企业先获私有预览",
+  "firstSeen": "2026-10-22",
+  "editionDate": "2026-10-22",
+  "occurrences": [
+    {
+      "id": "occ-fa4ee5b55c16b77da30128bd",
+      "fact": {
+        "subject": "OpenAI and Google Cloud",
+        "action": "announced model distribution partnership",
+        "object": "GPT models on Google Cloud",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-22",
+      "reports": [
+        {
+          "ref": "2026-10-22/2026-10-22-openai-google-cloud",
+          "itemId": "2026-10-22-openai-google-cloud",
+          "editionDate": "2026-10-22",
+          "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+          "source": "ars-technica",
+          "owner": "Ars Technica",
+          "role": "observer",
+          "publishedAt": "2026-10-21T18:51:42.000Z",
+          "title": "OpenAI 模型进入 Google Cloud，企业先获私有预览"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-22"
+}

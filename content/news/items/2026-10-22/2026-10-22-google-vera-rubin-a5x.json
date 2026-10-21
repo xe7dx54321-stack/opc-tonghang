@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-22-google-vera-rubin-a5x",
+  "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+  "publishedAt": "2026-10-21T10:45:17.000Z",
+  "fact": {
+    "subject": "Google Cloud and NVIDIA",
+    "action": "announced availability schedule",
+    "object": "Vera Rubin A5X infrastructure",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "f0a388ae8debd295def0dbe8626555113414b7466b34aaad3f1cd035d87e4695",
+    "originalUrl": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+    "originalPublishedAt": "2026-10-21T10:45:17.000Z",
+    "checkedAt": "2026-10-21T23:33:59.187Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "f0a388ae8debd295def0dbe8626555113414b7466b34aaad3f1cd035d87e4695",
+      "kind": "fact",
+      "quote": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers."
+    },
+    {
+      "snapshotId": "f0a388ae8debd295def0dbe8626555113414b7466b34aaad3f1cd035d87e4695",
+      "kind": "condition",
+      "quote": "Google Cloud plans to scale its Vera Rubin-based infrastructure to as many as 960,000 Rubin GPUs across multiple sites."
+    }
+  ],
+  "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+  "displayTitle": "Google Cloud 与 NVIDIA 公布 Vera Rubin A5X 云实例，下月计划正式开放",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "Google Cloud",
+    "NVIDIA",
+    "Vera Rubin"
+  ],
+  "fetchedAt": "2026-10-21T10:59:57.201Z",
+  "summary": "NVIDIA 公布 Google Cloud 的 Vera Rubin A5X 基础设施方案，实例计划下月普遍开放，并计划扩展至欧洲。Google Cloud 表示多站点规模上限目标可达 96 万颗 Rubin GPU；这属于规划，不是已建成装机量。",
+  "investorNote": "芯片竞争正变成机架、网络、液冷和云交付的系统竞争。投资判断要观察交付节奏及实际利用率，不能把规划容量当作现有供给。",
+  "narrative": "Google Cloud 和 NVIDIA 把 Vera Rubin NVL72、网络与液冷整合为 A5X 云实例，官方称**普遍可用将在下月到来**，欧洲扩展也属于计划。Google Cloud 提到多站点最多 96 万颗 Rubin GPU 的规模目标，这个数字说明资本开支方向，却不是今天已经上线的容量。对算力产业链，短期可跟踪的是机架集成、部署周期和早期客户负载，而非仅看单颗 GPU 参数。",
+  "score": 0.89,
+  "duplicateOf": null,
+  "clusterId": "event-2fd53cae6b60002850bd8821",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的是独立的新动作；与历史相似主体或产品的旧报道不属于同一次发生。"
+  },
+  "eventId": "event-2fd53cae6b60002850bd8821",
+  "occurrenceId": "occ-2fd53cae6b60002850bd8821",
+  "relatedItems": []
+}

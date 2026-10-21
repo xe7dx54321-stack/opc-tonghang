@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-3b45eb6eec71e91604f441aa",
+  "title": "Waymo 开通拉斯维加斯机场接驳，初期仅向少量乘客开放",
+  "firstSeen": "2026-10-22",
+  "editionDate": "2026-10-22",
+  "occurrences": [
+    {
+      "id": "occ-3b45eb6eec71e91604f441aa",
+      "fact": {
+        "subject": "Waymo",
+        "action": "started offering limited airport rides",
+        "object": "Harry Reid International Airport service",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-22",
+      "reports": [
+        {
+          "ref": "2026-10-22/2026-10-22-waymo-vegas-airport",
+          "itemId": "2026-10-22-waymo-vegas-airport",
+          "editionDate": "2026-10-22",
+          "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-21T16:59:44.000Z",
+          "title": "Waymo 开通拉斯维加斯机场接驳，初期仅向少量乘客开放"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-22"
+}

@@ -1,0 +1,13 @@
+{
+  "snapshotId": "a190ad686606fbb0732b9d876ae9082e766d58ae852be26af13a45fcc4584990",
+  "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+  "publishedAt": "2026-10-21T20:27:41.000Z",
+  "publishedAtQuote": "2026-10-21T20:27:41+00:00",
+  "retrievedAt": "2026-10-21T23:33:59.161Z",
+  "method": "agent-tool",
+  "contentHash": "0aa524d25eae017f108965a4e9ee8fd2d3a3f0260548ab6287dc4d7cb5a06def",
+  "quotations": [
+    "The company, which is trying to build AI that can improve itself, released its first model,\nFlint\n, on Wednesday. Flint is a free coding model that can run on a laptop and was built largely with the help of AI.",
+    "The model is free to download on Hugging Face, the popular site for sharing AI models, under the Apache 2.0 license"
+  ]
+}

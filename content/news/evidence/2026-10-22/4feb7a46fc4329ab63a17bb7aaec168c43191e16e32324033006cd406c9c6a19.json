@@ -1,0 +1,13 @@
+{
+  "snapshotId": "4feb7a46fc4329ab63a17bb7aaec168c43191e16e32324033006cd406c9c6a19",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+  "publishedAt": "2026-10-21T19:53:20.000Z",
+  "publishedAtQuote": "Oct 21, 2026, 7:53 PM UTC",
+  "retrievedAt": "2026-10-21T23:33:51.688Z",
+  "method": "agent-tool",
+  "contentHash": "4d1b8af23d591c17a867f0d4a27e3b73839f1e42b5998305ba46fd304c2fa4eb",
+  "quotations": [
+    "Anthropic just announced an AI agent competitor to Meta’s Muse and OpenAI’s Dots: Claude Duet.",
+    "Before any big step, like sending a payment or deleting something, Claude Duet messages you for approval."
+  ]
+}

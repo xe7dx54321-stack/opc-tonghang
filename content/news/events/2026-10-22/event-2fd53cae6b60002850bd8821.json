@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-2fd53cae6b60002850bd8821",
+  "title": "Google Cloud 与 NVIDIA 公布 Vera Rubin A5X 云实例，下月计划正式开放",
+  "firstSeen": "2026-10-22",
+  "editionDate": "2026-10-22",
+  "occurrences": [
+    {
+      "id": "occ-2fd53cae6b60002850bd8821",
+      "fact": {
+        "subject": "Google Cloud and NVIDIA",
+        "action": "announced availability schedule",
+        "object": "Vera Rubin A5X infrastructure",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-22",
+      "reports": [
+        {
+          "ref": "2026-10-22/2026-10-22-google-vera-rubin-a5x",
+          "itemId": "2026-10-22-google-vera-rubin-a5x",
+          "editionDate": "2026-10-22",
+          "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+          "source": "nvidia-blog",
+          "owner": "NVIDIA",
+          "role": "principal",
+          "publishedAt": "2026-10-21T10:45:17.000Z",
+          "title": "Google Cloud 与 NVIDIA 公布 Vera Rubin A5X 云实例，下月计划正式开放"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-22"
+}

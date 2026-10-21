@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-22-openai-google-cloud",
+  "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+  "publishedAt": "2026-10-21T18:51:42.000Z",
+  "fact": {
+    "subject": "OpenAI and Google Cloud",
+    "action": "announced model distribution partnership",
+    "object": "GPT models on Google Cloud",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Ars Technica",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "545dfa68b878d446b7767fcf4286d48b58bcb2d7200f17430f1910a9ad6ed6b4",
+    "originalUrl": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+    "originalPublishedAt": "2026-10-21T18:51:42.000Z",
+    "checkedAt": "2026-10-21T23:33:59.106Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "545dfa68b878d446b7767fcf4286d48b58bcb2d7200f17430f1910a9ad6ed6b4",
+      "kind": "fact",
+      "quote": "OpenAI and Google have\ncome to an arrangement\nthat will see the former’s frontier models arrive in Google Cloud services."
+    },
+    {
+      "snapshotId": "545dfa68b878d446b7767fcf4286d48b58bcb2d7200f17430f1910a9ad6ed6b4",
+      "kind": "condition",
+      "quote": "Google says all three OpenAI LLMs are rolling out now in private preview for select enterprise customers."
+    }
+  ],
+  "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+  "displayTitle": "OpenAI 模型进入 Google Cloud，企业先获私有预览",
+  "source": "ars-technica",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "Google Cloud",
+    "Antigravity"
+  ],
+  "fetchedAt": "2026-10-21T21:09:22.819Z",
+  "summary": "OpenAI 与 Google Cloud 达成合作，GPT 模型将进入 Google Cloud Model Garden，并进入 Google 的 Antigravity 编程工具。三款模型先向部分企业开放私有预览，普遍可用时间仍待公布。",
+  "investorNote": "模型供应商与云平台的边界进一步松动。采购方可比较同一云平台内的不同模型，但仍需核对计费、治理和真实开放范围。",
+  "narrative": "OpenAI 模型将进入 Google Cloud 的 Model Garden，报道还指出 Google 的 Antigravity 编程工具会接入 GPT。首批是针对部分企业客户的私有预览，并非所有客户已经可以直接使用。对企业采购而言，同一平台比较 Gemini、Claude 和 GPT 的机会增加，但模型可用性、推理位置与既有云合同如何影响总成本，仍要在正式上线后核算。",
+  "score": 0.9,
+  "duplicateOf": null,
+  "clusterId": "event-fa4ee5b55c16b77da30128bd",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的是独立的新动作；与历史相似主体或产品的旧报道不属于同一次发生。"
+  },
+  "eventId": "event-fa4ee5b55c16b77da30128bd",
+  "occurrenceId": "occ-fa4ee5b55c16b77da30128bd",
+  "relatedItems": []
+}

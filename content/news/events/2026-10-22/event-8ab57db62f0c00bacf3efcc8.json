@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-8ab57db62f0c00bacf3efcc8",
+  "title": "Recursive 发布可在笔记本运行的 Flint 编程模型",
+  "firstSeen": "2026-10-22",
+  "editionDate": "2026-10-22",
+  "occurrences": [
+    {
+      "id": "occ-8ab57db62f0c00bacf3efcc8",
+      "fact": {
+        "subject": "Recursive",
+        "action": "released",
+        "object": "Flint local coding model",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-22",
+      "reports": [
+        {
+          "ref": "2026-10-22/2026-10-22-recursive-flint",
+          "itemId": "2026-10-22-recursive-flint",
+          "editionDate": "2026-10-22",
+          "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-21T20:27:41.000Z",
+          "title": "Recursive 发布可在笔记本运行的 Flint 编程模型"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-22"
+}

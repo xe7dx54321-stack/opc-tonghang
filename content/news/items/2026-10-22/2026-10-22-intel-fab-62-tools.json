@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-22-intel-fab-62-tools",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028",
+  "publishedAt": "2026-10-21T19:35:53.000Z",
+  "fact": {
+    "subject": "Intel",
+    "action": "began installing production tools",
+    "object": "Fab 62 in Arizona",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "42d396876d0e56232e5c31e676530dfa95e51c1d2738313eb720e9b6e0cc6e99",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028",
+    "originalPublishedAt": "2026-10-21T19:35:53.000Z",
+    "checkedAt": "2026-10-21T23:33:59.213Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "42d396876d0e56232e5c31e676530dfa95e51c1d2738313eb720e9b6e0cc6e99",
+      "kind": "fact",
+      "quote": "Intel on Wednesday announced that it had started installing production tools at its Fab 62 in Arizona, and the fab is on track for mass production by late 2028."
+    },
+    {
+      "snapshotId": "42d396876d0e56232e5c31e676530dfa95e51c1d2738313eb720e9b6e0cc6e99",
+      "kind": "condition",
+      "quote": "Intel has not officially assigned Intel 14A to Fab 62, although the facility has been discussed as a potential manufacturing site for the node."
+    }
+  ],
+  "title": "Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab",
+  "displayTitle": "Intel 亚利桑那 Fab 62 开始安装生产设备，量产节点尚未公布",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Intel",
+    "Fab 62"
+  ],
+  "fetchedAt": "2026-10-21T19:38:27.198Z",
+  "summary": "Intel 表示亚利桑那 Fab 62 已开始安装生产设备，目标在 2028 年底前进入量产阶段。公司尚未正式指定该厂将生产的制程节点，也未给出精确高产时间表。",
+  "investorNote": "设备入厂是从厂房建设转向产线建设的可观察进展，但节点与客户仍未确认。对设备和材料链的影响需要后续采购、验收与良率数据。",
+  "narrative": "Intel 的 Fab 62 已从厂房建设推进到**生产设备安装**，公司给出的方向是 2028 年底前进入量产。报道同时明确指出，Intel 尚未给 Fab 62 正式指定 Intel 14A 或其他节点，也没有公布确切的高产时间。这个变化对设备、工艺材料和美国本土制造链是可跟踪的里程碑；但装机开始不等于良率达标，更不能据此推定已有客户产能承诺。",
+  "score": 0.84,
+  "duplicateOf": null,
+  "clusterId": "event-c4ec0a6296eda680e803a33b",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的是独立的新动作；与历史相似主体或产品的旧报道不属于同一次发生。"
+  },
+  "eventId": "event-c4ec0a6296eda680e803a33b",
+  "occurrenceId": "occ-c4ec0a6296eda680e803a33b",
+  "relatedItems": []
+}

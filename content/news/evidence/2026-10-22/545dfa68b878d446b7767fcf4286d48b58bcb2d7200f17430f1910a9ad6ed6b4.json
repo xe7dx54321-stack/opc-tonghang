@@ -1,0 +1,13 @@
+{
+  "snapshotId": "545dfa68b878d446b7767fcf4286d48b58bcb2d7200f17430f1910a9ad6ed6b4",
+  "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+  "publishedAt": "2026-10-21T18:51:42.000Z",
+  "publishedAtQuote": "2026-10-21T18:51:42+00:00",
+  "retrievedAt": "2026-10-21T23:33:59.106Z",
+  "method": "agent-tool",
+  "contentHash": "688ba1f9c51aa72a7b4c7855852db53184b68c40cd73869a867bd9b4214d1073",
+  "quotations": [
+    "OpenAI and Google have\ncome to an arrangement\nthat will see the former’s frontier models arrive in Google Cloud services.",
+    "Google says all three OpenAI LLMs are rolling out now in private preview for select enterprise customers."
+  ]
+}
