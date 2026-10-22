@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-23-openai-decisions-api",
+  "title": "Build more responsive apps with the Decisions API",
+  "url": "https://openai.com/index/decisions-api",
+  "source": "openai-news",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-22T19:00:00.000Z",
+  "fetchedAt": "2026-10-22T19:58:52.252Z",
+  "fact": {
+    "subject": "OpenAI",
+    "action": "made generally available",
+    "object": "Decisions API",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "OpenAI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "4885593bd7f7e6431fed7327e5945be4f5267b011eb0d679c0d0f0ed0d3f5e92",
+    "originalUrl": "https://openai.com/index/decisions-api",
+    "originalPublishedAt": "2026-10-22T19:00:00.000Z",
+    "checkedAt": "2026-10-22T23:33:57.431Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "4885593bd7f7e6431fed7327e5945be4f5267b011eb0d679c0d0f0ed0d3f5e92",
+      "kind": "fact",
+      "quote": "Today, we’re making the Decisions API generally available."
+    },
+    {
+      "snapshotId": "4885593bd7f7e6431fed7327e5945be4f5267b011eb0d679c0d0f0ed0d3f5e92",
+      "kind": "condition",
+      "quote": "The API returns one of three supported answer types—a probability, choice, or score"
+    }
+  ],
+  "displayTitle": "OpenAI 将 Decisions API 正式开放，争夺高频决策调用",
+  "summary": "OpenAI 宣布 Decisions API 正式可用，面向分类、路由、工具选择等有界答案任务，返回概率、选项或评分。官方称其基于 GPT-6 Luna，并公布了多家早期客户在各自场景中的延迟与成本测试结果；这些数字不等于跨场景独立基准。",
+  "investorNote": "判断：企业 Agent 的成本竞争会深入到每一步决策调用，而非只比较生成式主模型的单次价格。",
+  "narrative": "OpenAI 把 Decisions API 从公测推向正式可用，让应用给出问题和候选答案，直接取得概率、选项或评分。它瞄准 Agent 在任务途中反复执行的分类、路由与下一步选择。官方展示的提速和降本案例来自客户各自的工作流，不能直接横向当作通用基准；真正要观察的是，这类轻量决策接口能否进入实时语音、风控和多工具编排的关键路径。",
+  "score": 0.84,
+  "entities": [
+    "OpenAI",
+    "Decisions API",
+    "GPT-6 Luna"
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当期原文报告了独立主体对具体产品、研究或监管决定的新动作；近两周事件目录无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-64e90f4896b4602253016e14",
+  "occurrenceId": "occ-64e90f4896b4602253016e14",
+  "clusterId": "event-64e90f4896b4602253016e14",
+  "duplicateOf": null,
+  "relatedItems": []
+}

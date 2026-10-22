@@ -1,0 +1,13 @@
+{
+  "snapshotId": "4885593bd7f7e6431fed7327e5945be4f5267b011eb0d679c0d0f0ed0d3f5e92",
+  "url": "https://openai.com/index/decisions-api",
+  "publishedAt": "2026-10-22T19:00:00.000Z",
+  "publishedAtQuote": "October 22, 2026",
+  "retrievedAt": "2026-10-22T23:33:57.431Z",
+  "method": "agent-tool",
+  "contentHash": "a4b842e100abc91b527ffb445086cf2160704c945af1eb35107a79a9f61adebe",
+  "quotations": [
+    "Today, we’re making the Decisions API generally available.",
+    "The API returns one of three supported answer types—a probability, choice, or score"
+  ]
+}

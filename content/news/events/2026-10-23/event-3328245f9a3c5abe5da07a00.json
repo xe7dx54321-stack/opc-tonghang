@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-3328245f9a3c5abe5da07a00",
+  "title": "AWS 开放 SageMaker 训练会话，客户可自写后训练循环",
+  "firstSeen": "2026-10-23",
+  "editionDate": "2026-10-23",
+  "occurrences": [
+    {
+      "id": "occ-3328245f9a3c5abe5da07a00",
+      "fact": {
+        "subject": "AWS",
+        "action": "made generally available",
+        "object": "SageMaker AI serverless training sessions",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-23",
+      "reports": [
+        {
+          "ref": "2026-10-23/2026-10-23-aws-sagemaker-training-sessions",
+          "itemId": "2026-10-23-aws-sagemaker-training-sessions",
+          "editionDate": "2026-10-23",
+          "url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/",
+          "source": "aws-machine-learning",
+          "owner": "AWS",
+          "role": "principal",
+          "publishedAt": "2026-10-22T18:00:04.000Z",
+          "title": "AWS 开放 SageMaker 训练会话，客户可自写后训练循环"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-23"
+}

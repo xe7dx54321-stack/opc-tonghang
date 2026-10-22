@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-cb337415bc8b384b90e77325",
+  "title": "Dream Labs 报告 9000 万美元种子融资并开放机器人 API",
+  "firstSeen": "2026-10-23",
+  "editionDate": "2026-10-23",
+  "occurrences": [
+    {
+      "id": "occ-cb337415bc8b384b90e77325",
+      "fact": {
+        "subject": "Dream Labs",
+        "action": "announced seed funding and launched",
+        "object": "Dream API and Dream-1",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-23",
+      "reports": [
+        {
+          "ref": "2026-10-23/2026-10-23-dream-labs-api-funding",
+          "itemId": "2026-10-23-dream-labs-api-funding",
+          "editionDate": "2026-10-23",
+          "url": "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/",
+          "source": "robot-report",
+          "owner": "The Robot Report",
+          "role": "observer",
+          "publishedAt": "2026-10-22T12:36:37.000Z",
+          "title": "Dream Labs 报告 9000 万美元种子融资并开放机器人 API"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-23"
+}

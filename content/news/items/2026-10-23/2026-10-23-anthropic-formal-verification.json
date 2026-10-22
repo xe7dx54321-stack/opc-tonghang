@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-23-anthropic-formal-verification",
+  "title": "LLMs are making formal software verification feasible at a much larger scale",
+  "url": "https://www.anthropic.com/research/formal-verification",
+  "source": "anthropic-official",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-22T00:00:00.000Z",
+  "fetchedAt": "2026-10-22T22:00:42.422Z",
+  "fact": {
+    "subject": "Anthropic",
+    "action": "published research demonstrating formal security proofs",
+    "object": "123 open-source libraries on RISC-V",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Anthropic",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d1e78c57c3f840de097524586807dfddfb04f44e4a889b7b8a0558ad9d03f116",
+    "originalUrl": "https://www.anthropic.com/research/formal-verification",
+    "originalPublishedAt": "2026-10-22T00:00:00.000Z",
+    "checkedAt": "2026-10-22T23:33:57.399Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d1e78c57c3f840de097524586807dfddfb04f44e4a889b7b8a0558ad9d03f116",
+      "kind": "fact",
+      "quote": "To demonstrate this, we asked Claude to prove useful security properties across 123 open-source libraries"
+    },
+    {
+      "snapshotId": "d1e78c57c3f840de097524586807dfddfb04f44e4a889b7b8a0558ad9d03f116",
+      "kind": "condition",
+      "quote": "This is still far away from fixing all possible bugs, but it does get us much closer than before"
+    }
+  ],
+  "displayTitle": "Anthropic 用 Claude 验证 123 个开源库的安全性质",
+  "summary": "Anthropic 与 Theorem 公布形式化验证实验：Claude 在 RISC-V 汇编层面为 123 个开源库证明特定安全性质，并在证明过程中发现久未检出的缺陷。证明成立依赖单线程、静态二进制、固定内存预算等假设，不能解读为软件已无任何漏洞。",
+  "investorNote": "判断：形式化验证的人工成本若持续下降，安全工具的竞争将从发现漏洞推进到能否给出可复验的保证。",
+  "narrative": "Anthropic 与 Theorem 把 Claude 用于 123 个开源库的形式化验证，在 RISC-V 汇编层面证明特定安全性质，并公开部分证明供复验。它针对的是限定运行环境与明确规格下的性质，不能据此宣称软件没有其他漏洞。研究的商业含义在于，安全工具开始有机会把“发现问题”推进到“交付可检查的证明”，但证明范围与建模假设会决定真实价值。",
+  "score": 0.86,
+  "entities": [
+    "Anthropic",
+    "Claude",
+    "Theorem"
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当期原文报告了独立主体对具体产品、研究或监管决定的新动作；近两周事件目录无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-2d81346e874148e288ad832c",
+  "occurrenceId": "occ-2d81346e874148e288ad832c",
+  "clusterId": "event-2d81346e874148e288ad832c",
+  "duplicateOf": null,
+  "relatedItems": []
+}

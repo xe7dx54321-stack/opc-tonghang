@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-23",
+  "window": {
+    "start": 1792625400000,
+    "end": 1792711800000
+  },
+  "digestHash": "5cddf74134235b7379acad5df630b8789acf378f54b1e378e11e1c672d21bf58",
+  "stories": [
+    {
+      "heading": "Anthropic 用 Claude 验证 123 个开源库的安全性质",
+      "itemId": "2026-10-23-anthropic-formal-verification",
+      "eventId": "event-2d81346e874148e288ad832c",
+      "occurrenceId": "occ-2d81346e874148e288ad832c"
+    },
+    {
+      "heading": "OpenAI 将 Decisions API 正式开放，争夺高频决策调用",
+      "itemId": "2026-10-23-openai-decisions-api",
+      "eventId": "event-64e90f4896b4602253016e14",
+      "occurrenceId": "occ-64e90f4896b4602253016e14"
+    },
+    {
+      "heading": "AWS 开放 SageMaker 训练会话，客户可自写后训练循环",
+      "itemId": "2026-10-23-aws-sagemaker-training-sessions",
+      "eventId": "event-3328245f9a3c5abe5da07a00",
+      "occurrenceId": "occ-3328245f9a3c5abe5da07a00"
+    },
+    {
+      "heading": "1Password 推出代理登录流程，凭据不再交给 Agent",
+      "itemId": "2026-10-23-onepassword-agent-login",
+      "eventId": "event-c08409c1a13d6652b9d36913",
+      "occurrenceId": "occ-c08409c1a13d6652b9d36913"
+    },
+    {
+      "heading": "Canva 推出自研 Craft 图像模型，先规划版式再生成",
+      "itemId": "2026-10-23-canva-craft-image-model",
+      "eventId": "event-9d269ef2ded3f26b3ee369db",
+      "occurrenceId": "occ-9d269ef2ded3f26b3ee369db"
+    },
+    {
+      "heading": "FCC 首次按芯片来源规则拦截两款设备",
+      "itemId": "2026-10-23-fcc-hivision-chip-block",
+      "eventId": "event-2dce2a8d9cfb6898e6848155",
+      "occurrenceId": "occ-2dce2a8d9cfb6898e6848155"
+    },
+    {
+      "heading": "Google 发布 Agent Compute Engine，为每个代理分配隔离微虚机",
+      "itemId": "2026-10-23-google-agent-compute-engine",
+      "eventId": "event-6eb2ad1f126bd9f7c7224a6f",
+      "occurrenceId": "occ-6eb2ad1f126bd9f7c7224a6f"
+    },
+    {
+      "heading": "NVIDIA 发布 Minerva，统一监测 AI 工厂的设备与作业",
+      "itemId": "2026-10-23-nvidia-minerva-platform",
+      "eventId": "event-db91d5feda02d71f86ea999d",
+      "occurrenceId": "occ-db91d5feda02d71f86ea999d"
+    },
+    {
+      "heading": "NVIDIA 扩展 Cosmos，补齐世界模型的数据、训练与仿真工具",
+      "itemId": "2026-10-23-nvidia-cosmos-tools",
+      "eventId": "event-f31f730b0514c5832e196a14",
+      "occurrenceId": "occ-f31f730b0514c5832e196a14"
+    },
+    {
+      "heading": "Dream Labs 报告 9000 万美元种子融资并开放机器人 API",
+      "itemId": "2026-10-23-dream-labs-api-funding",
+      "eventId": "event-cb337415bc8b384b90e77325",
+      "occurrenceId": "occ-cb337415bc8b384b90e77325"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-23-anthropic-formal-verification.json": "0c83cb6438f2f5f16815e499b33e7c691d02b727c5f435228666f9741e6474d1",
+    "2026-10-23-aws-sagemaker-training-sessions.json": "446308a839750dc9eb6969d696bb5be76b741e16d50ed4fbd78181b3f1a4be82",
+    "2026-10-23-canva-craft-image-model.json": "c21bff3e79985c1be73c81ff03a6837466e46488eb5e295172c35a94e0330727",
+    "2026-10-23-dream-labs-api-funding.json": "e83b0e2c043351f88b4be33db965f562f1e22e66a0a3fa8cc3627cd1fbc92599",
+    "2026-10-23-fcc-hivision-chip-block.json": "5c51a585b362b547947fdc2ac74f3fa6599a2b41a02d32b5709d31c1df60780d",
+    "2026-10-23-google-agent-compute-engine.json": "cd2ee907c430530bbbe9aa6eaacb0f9e0389c306fc33127a8a1e4b7d55126553",
+    "2026-10-23-nvidia-cosmos-tools.json": "97f84509313909ee416d485b7e881ddc4e44582d87e3bfddabf6cf9fa31a2ec5",
+    "2026-10-23-nvidia-minerva-platform.json": "024764261c22984edf05a1fb59ba727d58c050ac8dd7424a84aa512371e813e6",
+    "2026-10-23-onepassword-agent-login.json": "c318a238a99cc875d388295c545ffa3d65cae52a44b613ddf620188384aefa5a",
+    "2026-10-23-openai-decisions-api.json": "9d65c5d04f0aeaf43127aeceeae0fbf124a8f5092fc6b920b54a5ee52786632b"
+  },
+  "evidenceHashes": {
+    "00f2e6a8ad4fa97ffaa85b35b020b651e957ea8b304eb601d253c0f9a6ef4b6c.json": "b436c4ed8e4868d623a2eb70e0639dfb0dadcf40618a898235c9eb04d5026464",
+    "323851bd3d1684c8241b3bedbec93577dacaed73fdd7e1dc706492ef0dff7ef9.json": "23ffa1c82384247e2cac76020e0e858c38511d5a28280c639e0e57bff016ae97",
+    "4885593bd7f7e6431fed7327e5945be4f5267b011eb0d679c0d0f0ed0d3f5e92.json": "c2a6cc6181b8100d631a774f3adfadf53f8042e0551d7bda891e5d0e43972eed",
+    "54a398c2a3b212f9b3dd831b6d6c377e0b398bb72af04f5a5dbfb76c66a4673a.json": "b931939c7aabdff99c97317fdfaefaf5333b07c879ad4c01ad428d965968f87d",
+    "609773332aa9ea8d4508739c85d571cc8c90326e2ba2cc16c93da6ff2fa0dcbd.json": "d1a25233773d6935a53f9e7dff4d30aae95d95c86a2aaf086edf809b5d52c1fd",
+    "ab0b049021269e445d2b2877abd5c4ae4abd9d8f1b933a10c6b6989e72217a3e.json": "18814ba6b2e626173df22149a4e399cdc5119620345b57f37a820fbdb9d9cc39",
+    "ba72dec593e51e0a376ef422dd563a2850124655b3c62230a809db12bd583e4c.json": "833cc3a7cb5018c204dce58a18da14fa1c54f8bb373d900a89e1ffccfe208461",
+    "c2d2c79ac3bab638cdbf7be7ab8eee62d41d0c1fb5f20c1444a40fb923e6b4a5.json": "2ed2411bd8de1f7192f4ae2c3705c38ce79c35f94be88f464d59297d6c74dcf1",
+    "d1e78c57c3f840de097524586807dfddfb04f44e4a889b7b8a0558ad9d03f116.json": "b7b06b62154a843cf89338bbc40b0775b76467c6c4b41f07a1791e658ea2f110",
+    "efcff0be4443a5137b24efe28b503df3b3b139579e9714dd94c26afe8e9e2282.json": "3ae3811f831f9caec9827191b7930405f34bfaba81d85e2db3870adcad50bbf1"
+  },
+  "eventsHashes": {
+    "event-2d81346e874148e288ad832c.json": "23a6247e03150f7e205d43439dd55abf584d9d00d9da5a4dc3a9ffa5ca04b047",
+    "event-2dce2a8d9cfb6898e6848155.json": "c5ba0ec83f4992adefda8035f483bfd48051364cbe98e421f2dd20a44433bb56",
+    "event-3328245f9a3c5abe5da07a00.json": "de0d9af05fe4d06b49445e38da068e805bc99a6df817d39debb7281445cc6596",
+    "event-64e90f4896b4602253016e14.json": "f4c4a508d4f9304fba2c91be94e5417266c1ff45a090a8ac3113e729fe763420",
+    "event-6eb2ad1f126bd9f7c7224a6f.json": "75e7f1037d41b4f587ae6ad14a54740742252757fe5bb7e3707315dc8d473dd9",
+    "event-9d269ef2ded3f26b3ee369db.json": "a5805773b6fdb54d57741ecf5a47339440aed75e16ca90009fc439bb968445f8",
+    "event-c08409c1a13d6652b9d36913.json": "46c6a7c633d8daf3b57119d544c23531afce08929bfc772681a9a154db407b25",
+    "event-cb337415bc8b384b90e77325.json": "796e869baba520024cbfae477f5cc15ddb6589ec920178a1eec7ab116eb8affe",
+    "event-db91d5feda02d71f86ea999d.json": "9c4ff0ec2f310653f0b3c5f2254552650419765ca34b0bd2001a230b2852d177",
+    "event-f31f730b0514c5832e196a14.json": "33345da7bceb5be9c74ed2a080f0c6e1e8faf61d521cdeea53fdc08f62ce58f4"
+  }
+}

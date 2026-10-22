@@ -1,0 +1,13 @@
+{
+  "snapshotId": "323851bd3d1684c8241b3bedbec93577dacaed73fdd7e1dc706492ef0dff7ef9",
+  "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+  "publishedAt": "2026-10-22T05:00:27.000Z",
+  "publishedAtQuote": "2026-10-22",
+  "retrievedAt": "2026-10-22T23:33:57.613Z",
+  "method": "agent-tool",
+  "contentHash": "a498401826b783a7018ed6146b56dd0d2c6e1685fab044e11956b8bc0f76044a",
+  "quotations": [
+    "NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints.",
+    "New Cosmos 3 Nano model variants for simulation enable developers to test autonomous policies in repeatable, hard-to-capture, multiview multisensor scenarios."
+  ]
+}

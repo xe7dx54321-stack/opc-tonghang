@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-db91d5feda02d71f86ea999d",
+  "title": "NVIDIA 发布 Minerva，统一监测 AI 工厂的设备与作业",
+  "firstSeen": "2026-10-23",
+  "editionDate": "2026-10-23",
+  "occurrences": [
+    {
+      "id": "occ-db91d5feda02d71f86ea999d",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "launched",
+        "object": "Minerva AIOps platform for AI factories",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-23",
+      "reports": [
+        {
+          "ref": "2026-10-23/2026-10-23-nvidia-minerva-platform",
+          "itemId": "2026-10-23-nvidia-minerva-platform",
+          "editionDate": "2026-10-23",
+          "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+          "source": "nvidia-blog",
+          "owner": "NVIDIA",
+          "role": "principal",
+          "publishedAt": "2026-10-22T15:00:02.000Z",
+          "title": "NVIDIA 发布 Minerva，统一监测 AI 工厂的设备与作业"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-23"
+}

@@ -1,0 +1,13 @@
+{
+  "snapshotId": "ba72dec593e51e0a376ef422dd563a2850124655b3c62230a809db12bd583e4c",
+  "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
+  "publishedAt": "2026-10-22T17:50:09.000Z",
+  "publishedAtQuote": "2026-10-22",
+  "retrievedAt": "2026-10-22T23:33:57.564Z",
+  "method": "agent-tool",
+  "contentHash": "138a6c32ccfd22b63f4c132957f5baf606f93522d101d21a9865887ef6807d04",
+  "quotations": [
+    "Google announced Agent Compute Engine, a service that gives each AI agent its own isolated virtual machine.",
+    "The service already powers Gemini and will open for preview in the coming months."
+  ]
+}

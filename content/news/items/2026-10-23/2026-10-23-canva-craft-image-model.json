@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-23-canva-craft-image-model",
+  "title": "Canva releases its first image generation model",
+  "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-22T19:00:00.000Z",
+  "fetchedAt": "2026-10-22T19:28:36.622Z",
+  "fact": {
+    "subject": "Canva",
+    "action": "released",
+    "object": "Canva Craft image generation model",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "c2d2c79ac3bab638cdbf7be7ab8eee62d41d0c1fb5f20c1444a40fb923e6b4a5",
+    "originalUrl": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "originalPublishedAt": "2026-10-22T19:00:00.000Z",
+    "checkedAt": "2026-10-22T23:33:57.514Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "c2d2c79ac3bab638cdbf7be7ab8eee62d41d0c1fb5f20c1444a40fb923e6b4a5",
+      "kind": "fact",
+      "quote": "Design platform Canva released its first image generation model, called Canva Craft, developed by its research team to compete with same-category models from Google, OpenAI, ByteDance, and Meta."
+    },
+    {
+      "snapshotId": "c2d2c79ac3bab638cdbf7be7ab8eee62d41d0c1fb5f20c1444a40fb923e6b4a5",
+      "kind": "condition",
+      "quote": "Canva Craft is available on the company’s platform to all users, who can access the model from the Dream Lab tab."
+    }
+  ],
+  "displayTitle": "Canva 推出自研 Craft 图像模型，先规划版式再生成",
+  "summary": "Canva 发布首个自研图像生成模型 Canva Craft。公司称模型先理解提示并规划元素空间关系、比例和文字，再生成图像；已向平台用户开放，并计划经 API 与 MCP 接入其他应用。对 Canva 而言，模型与可编辑设计流程的衔接比单张图像指标更关键。",
+  "investorNote": "判断：设计平台自研模型的优势如果成立，会体现在编辑回路和单位生成成本，而非只凭首轮画质排名。",
+  "narrative": "Canva 推出 Craft，先把用户意图拆成版式、元素关系和文字规划，再生成图像。公司还希望把输出转回可编辑的分层设计，并向现有平台用户开放。相比纯图片生成器，Canva 的差异在于把模型嵌进从草稿到修改的工作流；能否在反复局部修改时保持稳定，比一张漂亮样图更影响专业用户留存。自研也让它对质量、速度和外部模型费用有更多控制。",
+  "score": 0.69,
+  "entities": [
+    "Canva",
+    "Canva Craft"
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当期原文报告了独立主体对具体产品、研究或监管决定的新动作；近两周事件目录无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-9d269ef2ded3f26b3ee369db",
+  "occurrenceId": "occ-9d269ef2ded3f26b3ee369db",
+  "clusterId": "event-9d269ef2ded3f26b3ee369db",
+  "duplicateOf": null,
+  "relatedItems": []
+}

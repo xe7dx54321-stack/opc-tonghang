@@ -1,0 +1,13 @@
+{
+  "snapshotId": "c2d2c79ac3bab638cdbf7be7ab8eee62d41d0c1fb5f20c1444a40fb923e6b4a5",
+  "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+  "publishedAt": "2026-10-22T19:00:00.000Z",
+  "publishedAtQuote": "2026-10-22",
+  "retrievedAt": "2026-10-22T23:33:57.514Z",
+  "method": "agent-tool",
+  "contentHash": "7132846e89474c43852ca2fbd32d2e6c1d163d79cabbb6c524a1bce283f8e2cd",
+  "quotations": [
+    "Design platform Canva released its first image generation model, called Canva Craft, developed by its research team to compete with same-category models from Google, OpenAI, ByteDance, and Meta.",
+    "Canva Craft is available on the company’s platform to all users, who can access the model from the Dream Lab tab."
+  ]
+}

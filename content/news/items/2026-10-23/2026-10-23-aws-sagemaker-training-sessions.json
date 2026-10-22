@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-23-aws-sagemaker-training-sessions",
+  "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
+  "url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/",
+  "source": "aws-machine-learning",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-22T18:00:04.000Z",
+  "fetchedAt": "2026-10-22T18:27:51.172Z",
+  "fact": {
+    "subject": "AWS",
+    "action": "made generally available",
+    "object": "SageMaker AI serverless training sessions",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "AWS",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "609773332aa9ea8d4508739c85d571cc8c90326e2ba2cc16c93da6ff2fa0dcbd",
+    "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/",
+    "originalPublishedAt": "2026-10-22T18:00:04.000Z",
+    "checkedAt": "2026-10-22T23:33:57.459Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "609773332aa9ea8d4508739c85d571cc8c90326e2ba2cc16c93da6ff2fa0dcbd",
+      "kind": "fact",
+      "quote": "today, we’re expanding it with the general availability launch of training sessions."
+    },
+    {
+      "snapshotId": "609773332aa9ea8d4508739c85d571cc8c90326e2ba2cc16c93da6ff2fa0dcbd",
+      "kind": "condition",
+      "quote": "You write and coordinate the training loop, including custom loss functions or reward signals. SageMaker AI handles GPU allocation, distributed execution, fault recovery, and checkpoint storage."
+    }
+  ],
+  "displayTitle": "AWS 开放 SageMaker 训练会话，客户可自写后训练循环",
+  "summary": "AWS 宣布 SageMaker AI serverless model customization 的 training sessions 正式可用。开发者可控制损失函数、奖励信号和训练循环，AWS 负责 GPU 分配、分布式执行、故障恢复与 checkpoint 存储，面向多轮强化学习等后训练任务。",
+  "investorNote": "判断：模型定制平台的差异化正从提供训练算力，转向让客户保留算法控制权同时外包集群运维。",
+  "narrative": "AWS 将 SageMaker AI 的 training sessions 正式开放。客户可写自己的训练循环、损失函数与奖励信号，同时把 GPU 分配、分布式运行、故障恢复和检查点交给平台。对要做多轮 Agent 强化学习的团队，这降低的是基础设施接线成本，并未替代数据、评测与奖励设计。平台竞争因此会落在“保留实验自由度时省掉多少运维”上，而不只是算力租赁单价。",
+  "score": 0.73,
+  "entities": [
+    "AWS",
+    "SageMaker AI"
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当期原文报告了独立主体对具体产品、研究或监管决定的新动作；近两周事件目录无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-3328245f9a3c5abe5da07a00",
+  "occurrenceId": "occ-3328245f9a3c5abe5da07a00",
+  "clusterId": "event-3328245f9a3c5abe5da07a00",
+  "duplicateOf": null,
+  "relatedItems": []
+}

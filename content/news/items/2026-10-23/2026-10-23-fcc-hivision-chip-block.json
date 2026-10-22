@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-23-fcc-hivision-chip-block",
+  "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+  "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "publishedAt": "2026-10-22T20:23:48.000Z",
+  "fetchedAt": "2026-10-22T20:59:34.751Z",
+  "fact": {
+    "subject": "FCC",
+    "action": "blocked two devices under new chip policy",
+    "object": "devices containing HiVision Hi3516CV610 SoC",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "54a398c2a3b212f9b3dd831b6d6c377e0b398bb72af04f5a5dbfb76c66a4673a",
+    "originalUrl": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+    "originalPublishedAt": "2026-10-22T20:23:48.000Z",
+    "checkedAt": "2026-10-22T23:33:57.538Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "54a398c2a3b212f9b3dd831b6d6c377e0b398bb72af04f5a5dbfb76c66a4673a",
+      "kind": "fact",
+      "quote": "Today, it’s exercising that power for the first time, blocking two gadgets because they contain “foreign surveillance chips,”"
+    },
+    {
+      "snapshotId": "54a398c2a3b212f9b3dd831b6d6c377e0b398bb72af04f5a5dbfb76c66a4673a",
+      "kind": "fact",
+      "quote": "it’s a HiVision Hi3516CV610 UHD Smart Vision SoC"
+    }
+  ],
+  "displayTitle": "FCC 首次按芯片来源规则拦截两款设备",
+  "summary": "The Verge 报道，美国 FCC 首次使用近期获得的设备审查权，拦截两款含 HiVision Hi3516CV610 视觉 SoC 的设备。机构尚未公开具体设备型号；报道指出 HiVision 与华为的隶属关系是该芯片被纳入规则的关键。",
+  "investorNote": "判断：芯片来源审查扩展到终端设备认证，会把供应链替换压力传导给摄像头等成品厂商。",
+  "narrative": "FCC 近日取得按芯片来源阻断设备认证的权限，今天首次据此拦截两款设备。The Verge 查到涉及 HiVision Hi3516CV610 视觉 SoC，但 FCC 未公布具体设备型号。这里的变化是审查对象从品牌或整机进一步深入到内部芯片，摄像头模组和终端厂商需要能追溯所用器件的供应链。案件范围目前仍很窄，不能据此推断所有同类芯片或已售设备被全面禁用。",
+  "score": 0.72,
+  "entities": [
+    "FCC",
+    "HiVision",
+    "Hi3516CV610"
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当期原文报告了独立主体对具体产品、研究或监管决定的新动作；近两周事件目录无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-2dce2a8d9cfb6898e6848155",
+  "occurrenceId": "occ-2dce2a8d9cfb6898e6848155",
+  "clusterId": "event-2dce2a8d9cfb6898e6848155",
+  "duplicateOf": null,
+  "relatedItems": []
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6eb2ad1f126bd9f7c7224a6f",
+  "title": "Google 发布 Agent Compute Engine，为每个代理分配隔离微虚机",
+  "firstSeen": "2026-10-23",
+  "editionDate": "2026-10-23",
+  "occurrences": [
+    {
+      "id": "occ-6eb2ad1f126bd9f7c7224a6f",
+      "fact": {
+        "subject": "Google",
+        "action": "announced",
+        "object": "Agent Compute Engine isolated microVM runtime",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-23",
+      "reports": [
+        {
+          "ref": "2026-10-23/2026-10-23-google-agent-compute-engine",
+          "itemId": "2026-10-23-google-agent-compute-engine",
+          "editionDate": "2026-10-23",
+          "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-10-22T17:50:09.000Z",
+          "title": "Google 发布 Agent Compute Engine，为每个代理分配隔离微虚机"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-23"
+}

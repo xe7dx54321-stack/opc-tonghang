@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-23-nvidia-minerva-platform",
+  "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+  "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-22T15:00:02.000Z",
+  "fetchedAt": "2026-10-22T15:24:33.457Z",
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "launched",
+    "object": "Minerva AIOps platform for AI factories",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "ab0b049021269e445d2b2877abd5c4ae4abd9d8f1b933a10c6b6989e72217a3e",
+    "originalUrl": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+    "originalPublishedAt": "2026-10-22T15:00:02.000Z",
+    "checkedAt": "2026-10-22T23:33:57.588Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "ab0b049021269e445d2b2877abd5c4ae4abd9d8f1b933a10c6b6989e72217a3e",
+      "kind": "fact",
+      "quote": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive."
+    },
+    {
+      "snapshotId": "ab0b049021269e445d2b2877abd5c4ae4abd9d8f1b933a10c6b6989e72217a3e",
+      "kind": "condition",
+      "quote": "IREN is among the NVIDIA partners using Minerva to optimize its AI factories."
+    }
+  ],
+  "displayTitle": "NVIDIA 发布 Minerva，统一监测 AI 工厂的设备与作业",
+  "summary": "NVIDIA 推出 Minerva AIOps 平台，汇集 GPU、网络、存储、调度器和 AI 作业的遥测，构建动态知识图谱以定位故障。IREN 已列为使用方，另有伙伴计划部署；发布稿没有给出可独立复验的整体产能提升数字。",
+  "investorNote": "判断：大规模 GPU 集群的经济性不仅取决于芯片利用率，也取决于故障发现和修复对有效训练时间的影响。",
+  "narrative": "NVIDIA 发布 Minerva，将 GPU、网络、存储、调度器和模型作业的遥测放进同一张动态关系图，试图把零散告警还原为影响任务的具体故障。IREN 是已使用的伙伴，其他厂商仍处在计划部署阶段。对大集群运营者，单块器件的退化可以拖慢整项训练任务，因此排障速度会直接影响有效产出。NVIDIA 目前主要提供功能与伙伴案例，量化收益还需在不同规模集群上验证。",
+  "score": 0.72,
+  "entities": [
+    "NVIDIA",
+    "Minerva",
+    "IREN"
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当期原文报告了独立主体对具体产品、研究或监管决定的新动作；近两周事件目录无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-db91d5feda02d71f86ea999d",
+  "occurrenceId": "occ-db91d5feda02d71f86ea999d",
+  "clusterId": "event-db91d5feda02d71f86ea999d",
+  "duplicateOf": null,
+  "relatedItems": []
+}

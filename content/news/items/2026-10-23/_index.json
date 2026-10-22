@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-23",
+  "itemCount": 10,
+  "storyCount": 10,
+  "clusterCount": 10,
+  "files": [
+    "2026-10-23-anthropic-formal-verification.json",
+    "2026-10-23-openai-decisions-api.json",
+    "2026-10-23-aws-sagemaker-training-sessions.json",
+    "2026-10-23-onepassword-agent-login.json",
+    "2026-10-23-canva-craft-image-model.json",
+    "2026-10-23-fcc-hivision-chip-block.json",
+    "2026-10-23-google-agent-compute-engine.json",
+    "2026-10-23-nvidia-minerva-platform.json",
+    "2026-10-23-nvidia-cosmos-tools.json",
+    "2026-10-23-dream-labs-api-funding.json"
+  ],
+  "representatives": [
+    "2026-10-23-anthropic-formal-verification",
+    "2026-10-23-openai-decisions-api",
+    "2026-10-23-aws-sagemaker-training-sessions",
+    "2026-10-23-onepassword-agent-login",
+    "2026-10-23-canva-craft-image-model",
+    "2026-10-23-fcc-hivision-chip-block",
+    "2026-10-23-google-agent-compute-engine",
+    "2026-10-23-nvidia-minerva-platform",
+    "2026-10-23-nvidia-cosmos-tools",
+    "2026-10-23-dream-labs-api-funding"
+  ]
+}

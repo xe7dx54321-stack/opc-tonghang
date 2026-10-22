@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-2d81346e874148e288ad832c",
+  "title": "Anthropic 用 Claude 验证 123 个开源库的安全性质",
+  "firstSeen": "2026-10-23",
+  "editionDate": "2026-10-23",
+  "occurrences": [
+    {
+      "id": "occ-2d81346e874148e288ad832c",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "published research demonstrating formal security proofs",
+        "object": "123 open-source libraries on RISC-V",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-23",
+      "reports": [
+        {
+          "ref": "2026-10-23/2026-10-23-anthropic-formal-verification",
+          "itemId": "2026-10-23-anthropic-formal-verification",
+          "editionDate": "2026-10-23",
+          "url": "https://www.anthropic.com/research/formal-verification",
+          "source": "anthropic-official",
+          "owner": "Anthropic",
+          "role": "principal",
+          "publishedAt": "2026-10-22T00:00:00.000Z",
+          "title": "Anthropic 用 Claude 验证 123 个开源库的安全性质"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-23"
+}

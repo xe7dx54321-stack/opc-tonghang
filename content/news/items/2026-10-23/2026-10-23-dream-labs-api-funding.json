@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-23-dream-labs-api-funding",
+  "title": "Dream Labs raises $90M and launches Dream API",
+  "url": "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "publishedAt": "2026-10-22T12:36:37.000Z",
+  "fetchedAt": "2026-10-22T13:22:31.375Z",
+  "fact": {
+    "subject": "Dream Labs",
+    "action": "announced seed funding and launched",
+    "object": "Dream API and Dream-1",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "00f2e6a8ad4fa97ffaa85b35b020b651e957ea8b304eb601d253c0f9a6ef4b6c",
+    "originalUrl": "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/",
+    "originalPublishedAt": "2026-10-22T12:36:37.000Z",
+    "checkedAt": "2026-10-22T23:33:57.636Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "00f2e6a8ad4fa97ffaa85b35b020b651e957ea8b304eb601d253c0f9a6ef4b6c",
+      "kind": "fact",
+      "quote": "Dream Labs this week said it has raised $90 million in seed funding. The company also launched Dream API, a publicly available application programming interface"
+    },
+    {
+      "snapshotId": "00f2e6a8ad4fa97ffaa85b35b020b651e957ea8b304eb601d253c0f9a6ef4b6c",
+      "kind": "condition",
+      "quote": "Dream Labs said its Dream-1 flagship model works across robots from different manufacturers."
+    }
+  ],
+  "displayTitle": "Dream Labs 报告 9000 万美元种子融资并开放机器人 API",
+  "summary": "The Robot Report 报道 Dream Labs 本周宣布完成 9000 万美元种子融资，并推出 Dream API，将摄像头画面和自然语言指令转为机器人动作。公司称 Dream-1 能跨不同厂商的夹爪机器人迁移，但通用适配仍属公司自述，已公开演示主要集中桌面任务。",
+  "investorNote": "判断：机器人基础模型若能成为跨硬件 API，价值会从单台本体转向持续服务开发者的模型与数据平台。",
+  "narrative": "Dream Labs 据报道完成 9000 万美元种子融资，同时开放 Dream API，让开发者把机器人画面与自然语言指令送入模型，取得动作输出。公司主张 Dream-1 可跨不同厂商的夹爪机器人迁移，并提供远程试玩与定制微调。最该拆开的两个命题是“在受控桌面任务能工作”和“对任意新硬件即插即用”；后者目前主要是公司说法。资金重点投向算力，也显示跨本体模型的训练与服务成本仍高。",
+  "score": 0.76,
+  "entities": [
+    "Dream Labs",
+    "Dream-1",
+    "Dream API"
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当期原文报告了独立主体对具体产品、研究或监管决定的新动作；近两周事件目录无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-cb337415bc8b384b90e77325",
+  "occurrenceId": "occ-cb337415bc8b384b90e77325",
+  "clusterId": "event-cb337415bc8b384b90e77325",
+  "duplicateOf": null,
+  "relatedItems": []
+}

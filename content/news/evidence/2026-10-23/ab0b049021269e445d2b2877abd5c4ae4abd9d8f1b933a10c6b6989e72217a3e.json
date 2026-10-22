@@ -1,0 +1,13 @@
+{
+  "snapshotId": "ab0b049021269e445d2b2877abd5c4ae4abd9d8f1b933a10c6b6989e72217a3e",
+  "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+  "publishedAt": "2026-10-22T15:00:02.000Z",
+  "publishedAtQuote": "2026-10-22",
+  "retrievedAt": "2026-10-22T23:33:57.588Z",
+  "method": "agent-tool",
+  "contentHash": "8947dd9453e5a499f854e4b2d18fcb0ab92480eac4374d6ca85b38a1dfe0bb00",
+  "quotations": [
+    "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive.",
+    "IREN is among the NVIDIA partners using Minerva to optimize its AI factories."
+  ]
+}

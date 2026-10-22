@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-9d269ef2ded3f26b3ee369db",
+  "title": "Canva 推出自研 Craft 图像模型，先规划版式再生成",
+  "firstSeen": "2026-10-23",
+  "editionDate": "2026-10-23",
+  "occurrences": [
+    {
+      "id": "occ-9d269ef2ded3f26b3ee369db",
+      "fact": {
+        "subject": "Canva",
+        "action": "released",
+        "object": "Canva Craft image generation model",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-23",
+      "reports": [
+        {
+          "ref": "2026-10-23/2026-10-23-canva-craft-image-model",
+          "itemId": "2026-10-23-canva-craft-image-model",
+          "editionDate": "2026-10-23",
+          "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-22T19:00:00.000Z",
+          "title": "Canva 推出自研 Craft 图像模型，先规划版式再生成"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-23"
+}

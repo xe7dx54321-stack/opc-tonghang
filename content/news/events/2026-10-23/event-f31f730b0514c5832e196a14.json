@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-f31f730b0514c5832e196a14",
+  "title": "NVIDIA 扩展 Cosmos，补齐世界模型的数据、训练与仿真工具",
+  "firstSeen": "2026-10-23",
+  "editionDate": "2026-10-23",
+  "occurrences": [
+    {
+      "id": "occ-f31f730b0514c5832e196a14",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "expanded",
+        "object": "Cosmos tools for world models",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-23",
+      "reports": [
+        {
+          "ref": "2026-10-23/2026-10-23-nvidia-cosmos-tools",
+          "itemId": "2026-10-23-nvidia-cosmos-tools",
+          "editionDate": "2026-10-23",
+          "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+          "source": "nvidia-blog",
+          "owner": "NVIDIA",
+          "role": "principal",
+          "publishedAt": "2026-10-22T05:00:27.000Z",
+          "title": "NVIDIA 扩展 Cosmos，补齐世界模型的数据、训练与仿真工具"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-23"
+}

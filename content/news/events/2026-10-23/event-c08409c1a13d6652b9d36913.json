@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-c08409c1a13d6652b9d36913",
+  "title": "1Password 推出代理登录流程，凭据不再交给 Agent",
+  "firstSeen": "2026-10-23",
+  "editionDate": "2026-10-23",
+  "occurrences": [
+    {
+      "id": "occ-c08409c1a13d6652b9d36913",
+      "fact": {
+        "subject": "1Password",
+        "action": "launched",
+        "object": "1Password for Agents credential delegation",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-23",
+      "reports": [
+        {
+          "ref": "2026-10-23/2026-10-23-onepassword-agent-login",
+          "itemId": "2026-10-23-onepassword-agent-login",
+          "editionDate": "2026-10-23",
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-22T19:07:09.000Z",
+          "title": "1Password 推出代理登录流程，凭据不再交给 Agent"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-23"
+}

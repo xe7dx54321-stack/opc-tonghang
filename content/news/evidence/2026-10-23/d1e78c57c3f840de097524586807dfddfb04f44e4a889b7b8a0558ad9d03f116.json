@@ -1,0 +1,13 @@
+{
+  "snapshotId": "d1e78c57c3f840de097524586807dfddfb04f44e4a889b7b8a0558ad9d03f116",
+  "url": "https://www.anthropic.com/research/formal-verification",
+  "publishedAt": "2026-10-22T00:00:00.000Z",
+  "publishedAtQuote": "2026-10-22",
+  "retrievedAt": "2026-10-22T23:33:57.399Z",
+  "method": "agent-tool",
+  "contentHash": "df238ec8690662c0d634e24b4db7c8d37d2a169b17cf392bb03136d771040c16",
+  "quotations": [
+    "To demonstrate this, we asked Claude to prove useful security properties across 123 open-source libraries",
+    "This is still far away from fixing all possible bugs, but it does get us much closer than before"
+  ]
+}

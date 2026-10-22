@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-2dce2a8d9cfb6898e6848155",
+  "title": "FCC 首次按芯片来源规则拦截两款设备",
+  "firstSeen": "2026-10-23",
+  "editionDate": "2026-10-23",
+  "occurrences": [
+    {
+      "id": "occ-2dce2a8d9cfb6898e6848155",
+      "fact": {
+        "subject": "FCC",
+        "action": "blocked two devices under new chip policy",
+        "object": "devices containing HiVision Hi3516CV610 SoC",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-23",
+      "reports": [
+        {
+          "ref": "2026-10-23/2026-10-23-fcc-hivision-chip-block",
+          "itemId": "2026-10-23-fcc-hivision-chip-block",
+          "editionDate": "2026-10-23",
+          "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-10-22T20:23:48.000Z",
+          "title": "FCC 首次按芯片来源规则拦截两款设备"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-23"
+}

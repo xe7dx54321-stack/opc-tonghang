@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-23-google-agent-compute-engine",
+  "title": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
+  "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-22T17:50:09.000Z",
+  "fetchedAt": "2026-10-22T17:57:15.749Z",
+  "fact": {
+    "subject": "Google",
+    "action": "announced",
+    "object": "Agent Compute Engine isolated microVM runtime",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "ba72dec593e51e0a376ef422dd563a2850124655b3c62230a809db12bd583e4c",
+    "originalUrl": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
+    "originalPublishedAt": "2026-10-22T17:50:09.000Z",
+    "checkedAt": "2026-10-22T23:33:57.564Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "ba72dec593e51e0a376ef422dd563a2850124655b3c62230a809db12bd583e4c",
+      "kind": "fact",
+      "quote": "Google announced Agent Compute Engine, a service that gives each AI agent its own isolated virtual machine."
+    },
+    {
+      "snapshotId": "ba72dec593e51e0a376ef422dd563a2850124655b3c62230a809db12bd583e4c",
+      "kind": "condition",
+      "quote": "The service already powers Gemini and will open for preview in the coming months."
+    }
+  ],
+  "displayTitle": "Google 发布 Agent Compute Engine，为每个代理分配隔离微虚机",
+  "summary": "The Decoder 报道 Google 发布 Agent Compute Engine：每个 AI Agent 在独立 microVM 中运行，服务已支持 Gemini，外部预览计划在未来数月开放。Google 同时介绍自动暂停、共享内存和治理功能，性能数字来自公司自身测试。",
+  "investorNote": "判断：企业级 Agent 的基础成本与安全边界，越来越取决于运行时隔离和暂停恢复能力。",
+  "narrative": "Google 把 Agent Compute Engine 定位为专门的代理运行环境：每个 Agent 拥有隔离的微虚机，闲置时可以暂停，并在需要时恢复。它已经为 Gemini 提供底层能力，面向外部客户的预览仍在未来数月。独立环境能限制不同代理之间的影响，但也可能把部署成本推高；Google 正试图用资源复用抵消这笔成本。企业采购时应关注的是隔离边界、恢复延迟和治理工具在真实负载下能否同时成立。",
+  "score": 0.81,
+  "entities": [
+    "Google",
+    "Agent Compute Engine",
+    "Gemini"
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当期原文报告了独立主体对具体产品、研究或监管决定的新动作；近两周事件目录无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-6eb2ad1f126bd9f7c7224a6f",
+  "occurrenceId": "occ-6eb2ad1f126bd9f7c7224a6f",
+  "clusterId": "event-6eb2ad1f126bd9f7c7224a6f",
+  "duplicateOf": null,
+  "relatedItems": []
+}

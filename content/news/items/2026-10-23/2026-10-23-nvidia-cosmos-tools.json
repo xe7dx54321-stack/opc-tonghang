@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-23-nvidia-cosmos-tools",
+  "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+  "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "publishedAt": "2026-10-22T05:00:27.000Z",
+  "fetchedAt": "2026-10-22T05:15:20.350Z",
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "expanded",
+    "object": "Cosmos tools for world models",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "323851bd3d1684c8241b3bedbec93577dacaed73fdd7e1dc706492ef0dff7ef9",
+    "originalUrl": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+    "originalPublishedAt": "2026-10-22T05:00:27.000Z",
+    "checkedAt": "2026-10-22T23:33:57.613Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "323851bd3d1684c8241b3bedbec93577dacaed73fdd7e1dc706492ef0dff7ef9",
+      "kind": "fact",
+      "quote": "NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints."
+    },
+    {
+      "snapshotId": "323851bd3d1684c8241b3bedbec93577dacaed73fdd7e1dc706492ef0dff7ef9",
+      "kind": "condition",
+      "quote": "New Cosmos 3 Nano model variants for simulation enable developers to test autonomous policies in repeatable, hard-to-capture, multiview multisensor scenarios."
+    }
+  ],
+  "displayTitle": "NVIDIA 扩展 Cosmos，补齐世界模型的数据、训练与仿真工具",
+  "summary": "NVIDIA 扩展 Cosmos 平台，新增 Data Factory 蓝图、训练优化工具和 Cosmos 3 Nano 仿真变体，覆盖多模态数据处理、模型适配、闭环政策测试和部署。官方提供 Porsche、ANYbotics 等应用案例，但预期节省不能直接当作全行业实测结果。",
+  "investorNote": "判断：世界模型的竞争将从单个模型权重，延伸到可重复的数据生产和仿真评估流程。",
+  "narrative": "NVIDIA 扩展 Cosmos，不只更新模型，还把数据策划、合成场景、后训练和策略仿真接到同一套工具链。新 Nano 变体面向多视角、多传感器的闭环测试，服务自动驾驶和双臂机器人在上机前反复验证策略。这里的商业抓手是开发流程：真实世界难捕捉的罕见场景能否用合成数据补齐，并在仿真里稳定复现。案例中的效率预期来自公司和合作方，仍需要看真实任务迁移效果。",
+  "score": 0.82,
+  "entities": [
+    "NVIDIA",
+    "Cosmos",
+    "Cosmos Data Factory"
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当期原文报告了独立主体对具体产品、研究或监管决定的新动作；近两周事件目录无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-f31f730b0514c5832e196a14",
+  "occurrenceId": "occ-f31f730b0514c5832e196a14",
+  "clusterId": "event-f31f730b0514c5832e196a14",
+  "duplicateOf": null,
+  "relatedItems": []
+}
