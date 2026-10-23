@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-027d229f721e75a532d67c6f",
+  "title": "美国拟统一自动驾驶车辆青色标志灯标准",
+  "firstSeen": "2026-10-24",
+  "editionDate": "2026-10-24",
+  "occurrences": [
+    {
+      "id": "occ-027d229f721e75a532d67c6f",
+      "fact": {
+        "subject": "美国NHTSA",
+        "action": "提出",
+        "object": "自动驾驶车辆青色标志灯标准修订",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-24",
+      "reports": [
+        {
+          "ref": "2026-10-24/2026-10-24-feds-want-robotaxis-to-signal-im-driving-with-cyan-colored-l",
+          "itemId": "2026-10-24-feds-want-robotaxis-to-signal-im-driving-with-cyan-colored-l",
+          "editionDate": "2026-10-24",
+          "url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-10-23T15:24:45.000Z",
+          "title": "美国拟统一自动驾驶车辆青色标志灯标准"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-24"
+}

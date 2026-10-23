@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-4a9f626880a05b25ed5babf4",
+  "title": "月之暗面发布 Kimi K3.1 Pro，开放权重仍待兑现",
+  "firstSeen": "2026-10-24",
+  "editionDate": "2026-10-24",
+  "occurrences": [
+    {
+      "id": "occ-4a9f626880a05b25ed5babf4",
+      "fact": {
+        "subject": "月之暗面",
+        "action": "发布",
+        "object": "Kimi K3.1 Pro",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-24",
+      "reports": [
+        {
+          "ref": "2026-10-24/2026-10-24-chinese-ai-model-kimi-k31-pro-is-closing-in-on-anthropics-cl",
+          "itemId": "2026-10-24-chinese-ai-model-kimi-k31-pro-is-closing-in-on-anthropics-cl",
+          "editionDate": "2026-10-24",
+          "url": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-10-23T19:00:07.000Z",
+          "title": "月之暗面发布 Kimi K3.1 Pro，开放权重仍待兑现"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-24"
+}

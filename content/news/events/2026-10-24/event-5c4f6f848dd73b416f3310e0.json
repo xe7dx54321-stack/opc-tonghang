@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-5c4f6f848dd73b416f3310e0",
+  "title": "Anthropic 公布 UK AISI 旧网络测试事件的对齐评估",
+  "firstSeen": "2026-10-24",
+  "editionDate": "2026-10-24",
+  "occurrences": [
+    {
+      "id": "occ-5c4f6f848dd73b416f3310e0",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "发布",
+        "object": "UK AISI 网络测试事件的对齐评估",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-24",
+      "reports": [
+        {
+          "ref": "2026-10-24/2026-10-24-an-alignment-assessment-of-the-uk-aisi-cybertesting-incident",
+          "itemId": "2026-10-24-an-alignment-assessment-of-the-uk-aisi-cybertesting-incident",
+          "editionDate": "2026-10-24",
+          "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+          "source": "anthropic-official",
+          "owner": "Anthropic",
+          "role": "principal",
+          "publishedAt": "2026-10-23T00:00:00.000Z",
+          "title": "Anthropic 公布 UK AISI 旧网络测试事件的对齐评估"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-24"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2026-10-24-solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ip",
+  "title": "Solidigm confirms plans to build a fab in the US, abandons IPO plans",
+  "url": "https://www.tomshardware.com/pc-components/ssds/solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ipo-plans-unfavorable-stock-market-conditions-and-semiconductor-share-price-trends-reasons-given",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "SK海力士",
+    "Solidigm"
+  ],
+  "publishedAt": "2026-10-23T15:21:16.000Z",
+  "fetchedAt": "2026-10-23T15:48:16.323Z",
+  "summary": "SK海力士10月23日说明 Solidigm 暂停潜在 pre-IPO 和 IPO 方案评估，理由是市场条件和股价趋势；公司同时表示美国新增生产设施的资金需求仍在，具体产能、投资额和建设时间表尚未披露。",
+  "investorNote": "判断：AI 数据中心 SSD 需求推动扩产，但资本市场融资路径暂时受阻，后续需要观察母公司资产负债表如何承接投资。",
+  "score": 0.85,
+  "duplicateOf": null,
+  "clusterId": "event-2b476fd1054fbd3d9a1d6909",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "SK海力士",
+    "action": "停止评估",
+    "object": "Solidigm潜在IPO并推进美国新工厂",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "3fc2c27ab2351da95b6a534e52d456c515f876f1db7b69a489b9b65b9ee45398",
+    "originalUrl": "https://www.tomshardware.com/pc-components/ssds/solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ipo-plans-unfavorable-stock-market-conditions-and-semiconductor-share-price-trends-reasons-given",
+    "originalPublishedAt": "2026-10-23T15:21:16.000Z",
+    "checkedAt": "2026-10-23T23:35:13.735Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "3fc2c27ab2351da95b6a534e52d456c515f876f1db7b69a489b9b65b9ee45398",
+      "kind": "fact",
+      "quote": "SK hynix confirmed it plans to build a new fab for Solidigm in the U.S. to address growing demand for enterprise SSDs."
+    },
+    {
+      "snapshotId": "3fc2c27ab2351da95b6a534e52d456c515f876f1db7b69a489b9b65b9ee45398",
+      "kind": "fact",
+      "quote": "it has discontinued its review of both pre-IPO financing and an IPO"
+    }
+  ],
+  "displayTitle": "SK海力士暂停 Solidigm 上市评估，仍拟扩建美国工厂",
+  "narrative": "SK 海力士宣布停止评估 Solidigm 的潜在上市及上市前融资方案，理由是市场环境和半导体股价趋势。公司称，美国新增生产设施的需求仍在；**工厂投资额、产能和开工时间尚未披露**。这把扩产问题从估值窗口转向资金安排：企业级 SSD 需求强劲不等于融资无约束，后续要看 SK 海力士采取何种资本方案。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次停止上市评估及美国工厂资金安排为新的公司决定。"
+  },
+  "eventId": "event-2b476fd1054fbd3d9a1d6909",
+  "occurrenceId": "occ-2b476fd1054fbd3d9a1d6909",
+  "relatedItems": []
+}

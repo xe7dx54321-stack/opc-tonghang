@@ -1,0 +1,55 @@
+{
+  "id": "2026-10-24-yizhu-ai-chip-financing",
+  "title": "融资10亿+元，亿铸科技加速通用存算一体产业化",
+  "url": "https://www.leiphone.com/category/industrynews/ADXEXKrCVSzoJ36i.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "亿铸科技"
+  ],
+  "publishedAt": "2026-10-23T07:16:00.000Z",
+  "fetchedAt": "2026-10-23T08:08:42.229Z",
+  "summary": "雷峰网10月23日报道，亿铸科技完成超过10亿元融资，继续研发通用存算一体与3D DRAM相关架构，并推进产品产业化；报道未披露本轮投资方与芯片量产、客户订单。",
+  "investorNote": "判断：资金规模显示存算一体路线持续获资本支持，商业判断仍需等待流片、软件兼容和客户验证。",
+  "score": 0.76,
+  "duplicateOf": null,
+  "clusterId": "event-6d52285f412e1349e56d5a8c",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "亿铸科技",
+    "action": "完成",
+    "object": "超过10亿元融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "17849add7ad6512527f4b375766e8ef749eb84051be5d21d9cc305d0815bfc39",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/ADXEXKrCVSzoJ36i.html",
+    "originalPublishedAt": "2026-10-23T07:16:00.000Z",
+    "checkedAt": "2026-10-23T23:35:13.713Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "17849add7ad6512527f4b375766e8ef749eb84051be5d21d9cc305d0815bfc39",
+      "kind": "fact",
+      "quote": "国内首家通用存算一体架构（GP-IMC®）AI大算力芯片公司亿铸科技完成10亿+元融资。"
+    }
+  ],
+  "displayTitle": "亿铸科技获超 10 亿元融资，推进存算一体 AI 芯片",
+  "narrative": "雷峰网报道，亿铸科技完成**超 10 亿元融资**，计划继续投入通用存算一体 AI 芯片研发与产品产业化。报道介绍其路线涉及 3D DRAM 存算一体及 CUDA、PyTorch 兼容，但没有给出本轮投资方、量产节奏或已签订单。融资能支持下一轮验证，尚不能等同于商业出货；观察重点是流片良率、软件迁移成本和客户实际部署。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次融资是独立资本事件，未找到历史同轮报道。"
+  },
+  "eventId": "event-6d52285f412e1349e56d5a8c",
+  "occurrenceId": "occ-6d52285f412e1349e56d5a8c",
+  "relatedItems": []
+}

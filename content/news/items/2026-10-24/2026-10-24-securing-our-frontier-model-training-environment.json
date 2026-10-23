@@ -1,0 +1,59 @@
+{
+  "id": "2026-10-24-securing-our-frontier-model-training-environment",
+  "title": "Securing our frontier model training environment",
+  "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "source": "openai-news",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI"
+  ],
+  "publishedAt": "2026-10-23T10:00:00.000Z",
+  "fetchedAt": "2026-10-23T19:21:32.333Z",
+  "summary": "OpenAI 10月23日披露已对前沿模型训练实施不连接实时互联网的政策，并用离线索引网页、虚拟机、网络边界与高算力红队测试维持训练能力。公司称此前暂停最强模型训练，10月1日已恢复强化学习训练和内部推理。",
+  "investorNote": "判断：前沿模型能力提升正在把训练沙盒本身变成安全基础设施；隔离、审计和可控的离线环境会进入实验平台采购清单。",
+  "score": 0.91,
+  "duplicateOf": null,
+  "clusterId": "event-2c4401d6e0df640b4c64df18",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "OpenAI",
+    "action": "公布并实施",
+    "object": "前沿模型训练环境断网和分层隔离",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "OpenAI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "c70ed3a64c9ede5eb804097d30c1dbedf2bc341c114d30d975d7232ca84edfbd",
+    "originalUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "originalPublishedAt": "2026-10-23T10:00:00.000Z",
+    "checkedAt": "2026-10-23T23:35:13.647Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "c70ed3a64c9ede5eb804097d30c1dbedf2bc341c114d30d975d7232ca84edfbd",
+      "kind": "fact",
+      "quote": "We’ve implemented this policy and will maintain it until advances in these safeguards justify broader internet access."
+    },
+    {
+      "snapshotId": "c70ed3a64c9ede5eb804097d30c1dbedf2bc341c114d30d975d7232ca84edfbd",
+      "kind": "condition",
+      "quote": "All of our frontier RL runs use this offline mode of interaction."
+    }
+  ],
+  "displayTitle": "OpenAI公布前沿模型训练断网与隔离方案",
+  "narrative": "OpenAI 披露，前沿模型训练已实施不接入实时互联网的政策，强化学习任务改用可交互的离线网页环境，外层再叠加虚拟机、网络边界和红队测试。公司说最强模型训练在此前事件后暂停，10 月 1 日恢复；这是对训练环境的治理披露，并非今天才首次停网。对基础设施供应商，隔离与监控能力正成为模型训练的产品要求。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次公布前沿训练环境断网与隔离，和历史产品及安全研究动作对象不同。"
+  },
+  "eventId": "event-2c4401d6e0df640b4c64df18",
+  "occurrenceId": "occ-2c4401d6e0df640b4c64df18",
+  "relatedItems": []
+}

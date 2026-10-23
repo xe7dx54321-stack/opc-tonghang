@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-2b476fd1054fbd3d9a1d6909",
+  "title": "SK海力士暂停 Solidigm 上市评估，仍拟扩建美国工厂",
+  "firstSeen": "2026-10-24",
+  "editionDate": "2026-10-24",
+  "occurrences": [
+    {
+      "id": "occ-2b476fd1054fbd3d9a1d6909",
+      "fact": {
+        "subject": "SK海力士",
+        "action": "停止评估",
+        "object": "Solidigm潜在IPO并推进美国新工厂",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-24",
+      "reports": [
+        {
+          "ref": "2026-10-24/2026-10-24-solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ip",
+          "itemId": "2026-10-24-solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ip",
+          "editionDate": "2026-10-24",
+          "url": "https://www.tomshardware.com/pc-components/ssds/solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ipo-plans-unfavorable-stock-market-conditions-and-semiconductor-share-price-trends-reasons-given",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-10-23T15:21:16.000Z",
+          "title": "SK海力士暂停 Solidigm 上市评估，仍拟扩建美国工厂"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-24"
+}

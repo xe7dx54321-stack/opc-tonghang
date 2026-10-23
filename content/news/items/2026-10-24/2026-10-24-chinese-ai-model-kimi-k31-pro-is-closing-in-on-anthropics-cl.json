@@ -1,0 +1,60 @@
+{
+  "id": "2026-10-24-chinese-ai-model-kimi-k31-pro-is-closing-in-on-anthropics-cl",
+  "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
+  "url": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "月之暗面",
+    "Kimi K3.1 Pro"
+  ],
+  "publishedAt": "2026-10-23T19:00:07.000Z",
+  "fetchedAt": "2026-10-23T19:21:39.406Z",
+  "summary": "月之暗面推出 Kimi K3.1 Pro；The Decoder 10月23日报道其在 Artificial Analysis 指数达到55分，比前代提高11分，API报价下降约三分之一。官方博客称有100万 token上下文和高速版，完整权重计划11月4日前发布。",
+  "investorNote": "判断：模型表现和价格同时改善会挤压同档闭源 API 的定价空间，但权重开放仍是计划，落地后需复核运行成本。",
+  "score": 0.93,
+  "duplicateOf": null,
+  "clusterId": "event-4a9f626880a05b25ed5babf4",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "月之暗面",
+    "action": "发布",
+    "object": "Kimi K3.1 Pro",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "46bfbeb2d7be6c0b26226724470ee146ae5f368b8c720cad012a29291207335a",
+    "originalUrl": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/",
+    "originalPublishedAt": "2026-10-23T19:00:07.000Z",
+    "checkedAt": "2026-10-23T23:35:13.669Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "46bfbeb2d7be6c0b26226724470ee146ae5f368b8c720cad012a29291207335a",
+      "kind": "fact",
+      "quote": "Chinese AI company Moonshot AI has released Kimi K3.1 Pro"
+    },
+    {
+      "snapshotId": "46bfbeb2d7be6c0b26226724470ee146ae5f368b8c720cad012a29291207335a",
+      "kind": "condition",
+      "quote": "If Moonshot releases the model weights as planned by November 4, 2026"
+    }
+  ],
+  "displayTitle": "月之暗面发布 Kimi K3.1 Pro，开放权重仍待兑现",
+  "narrative": "The Decoder 报道，月之暗面发布 Kimi K3.1 Pro，在 Artificial Analysis 指数取得 55 分，比前代增加 11 分；官方介绍给出 100 万 token 上下文，并推出更快的 Highspeed 版本。当前可用渠道包括 Kimi 产品与 API，完整权重仍计划在 11 月 4 日前公布。投资判断应把今日可用的接口与尚未兑现的权重开放分开，价格下降也需与实际吞吐和部署成本一起比较。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "Kimi K3.1 Pro 是本期新型号发布，历史候选无相同具体发布。"
+  },
+  "eventId": "event-4a9f626880a05b25ed5babf4",
+  "occurrenceId": "occ-4a9f626880a05b25ed5babf4",
+  "relatedItems": []
+}

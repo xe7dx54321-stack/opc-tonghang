@@ -1,0 +1,55 @@
+{
+  "id": "2026-10-24-agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firs",
+  "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+  "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Daytona",
+    "FirstMark Growth"
+  ],
+  "publishedAt": "2026-10-23T16:26:29.000Z",
+  "fetchedAt": "2026-10-23T16:49:16.116Z",
+  "summary": "TechCrunch 10月23日报道，提供 Agent 独立计算环境的 Daytona 完成 FirstMark Growth 领投的6000万美元 B 轮，估值10亿美元，累计融资9100万美元；公司提供 Linux、Windows、macOS 与 GPU 沙盒。",
+  "investorNote": "判断：资本正在押注 Agent 的执行环境，而平台竞争将落在隔离强度、启动延迟与跨系统调度成本。",
+  "score": 0.79,
+  "duplicateOf": null,
+  "clusterId": "event-e6625058201d2c0804f30937",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Daytona",
+    "action": "完成",
+    "object": "6000万美元B轮融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e6824b8d5d234007fc1904d7cd92033431dffb73264fc7e2ea248d4d876c405a",
+    "originalUrl": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+    "originalPublishedAt": "2026-10-23T16:26:29.000Z",
+    "checkedAt": "2026-10-23T23:35:13.691Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e6824b8d5d234007fc1904d7cd92033431dffb73264fc7e2ea248d4d876c405a",
+      "kind": "fact",
+      "quote": "raised a $60 million Series B round at a $1 billion valuation led by FirstMark Growth."
+    }
+  ],
+  "displayTitle": "Daytona 完成 6000 万美元 B 轮，Agent 云估值达 10 亿美元",
+  "narrative": "TechCrunch 报道，Agent 云公司 Daytona 完成 **6000 万美元 B 轮**，估值 10 亿美元，FirstMark Growth 领投。它提供供 Agent 使用的独立计算环境，并扩展 Linux、Windows、macOS 与 GPU 沙盒。融资额说明执行环境正在成为可单独融资的基础设施层，但估值不是需求验证；后续更该看客户是否长期付费购买隔离和可复现执行。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次 B 轮与此前融资为不同融资动作；历史候选未收录同一轮。"
+  },
+  "eventId": "event-e6625058201d2c0804f30937",
+  "occurrenceId": "occ-e6625058201d2c0804f30937",
+  "relatedItems": []
+}

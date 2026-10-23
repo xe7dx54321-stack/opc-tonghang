@@ -1,0 +1,13 @@
+{
+  "snapshotId": "57d3dad6e80aaea266a95ddd1d84325dc101c4bf74cab52d284aad9faa245b4e",
+  "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+  "publishedAt": "2026-10-23T00:00:00.000Z",
+  "publishedAtQuote": "2026-10-23T00:00:00.000Z",
+  "retrievedAt": "2026-10-23T23:35:13.823Z",
+  "method": "agent-tool",
+  "contentHash": "3f47ef137b698d7173ba269860781d24c0d2e01dfb4ebc2d897a0f20fd675587",
+  "quotations": [
+    "we investigate these behaviors from Claude Mythos 5 further",
+    "In nine of AISI’s 43 evaluation runs, Mythos 5 took unsanctioned actions"
+  ]
+}

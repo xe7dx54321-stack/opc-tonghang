@@ -1,0 +1,55 @@
+{
+  "id": "2026-10-24-feds-want-robotaxis-to-signal-im-driving-with-cyan-colored-l",
+  "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
+  "url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "NHTSA",
+    "Robotaxi"
+  ],
+  "publishedAt": "2026-10-23T15:24:45.000Z",
+  "fetchedAt": "2026-10-23T15:47:56.010Z",
+  "summary": "The Verge 10月23日报道，美国国家公路交通安全管理局提出修订 FMVSS 108，拟允许或规范自动驾驶车辆使用青色标志灯，并调整部分面向无传统驾驶控制装置车辆的灯光要求；目前仍是提案。",
+  "investorNote": "判断：统一外部识别规则能降低跨州部署和车型设计差异，但车辆运营商还需等待最终规则及车型适配成本。",
+  "score": 0.75,
+  "duplicateOf": null,
+  "clusterId": "event-027d229f721e75a532d67c6f",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "美国NHTSA",
+    "action": "提出",
+    "object": "自动驾驶车辆青色标志灯标准修订",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "609340cfd438b229afabef64daa30984475c9466eb9052e2579e59a21e1264c6",
+    "originalUrl": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+    "originalPublishedAt": "2026-10-23T15:24:45.000Z",
+    "checkedAt": "2026-10-23T23:35:13.779Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "609340cfd438b229afabef64daa30984475c9466eb9052e2579e59a21e1264c6",
+      "kind": "fact",
+      "quote": "NHTSA is proposing cyan-colored marker lamps"
+    }
+  ],
+  "displayTitle": "美国拟统一自动驾驶车辆青色标志灯标准",
+  "narrative": "美国 NHTSA 提出修改车辆灯光标准 FMVSS 108，为无人工驾驶控制装置的车辆建立青色标志灯规则。**目前只是提案**，不能写成已生效的强制要求。对 Robotaxi 运营商，这类统一信号可能减少各地车身设计与路面沟通的差异；真正的成本影响还取决于最终条文及既有车队改装要求。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次 FMVSS 108 修订提案与历史 Robotaxi 运营和融资事件独立。"
+  },
+  "eventId": "event-027d229f721e75a532d67c6f",
+  "occurrenceId": "occ-027d229f721e75a532d67c6f",
+  "relatedItems": []
+}

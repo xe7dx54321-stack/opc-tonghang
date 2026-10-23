@@ -1,0 +1,56 @@
+{
+  "id": "2026-10-24-hikrobot-mobile-robot-launch",
+  "title": "覆盖存、拣、运全场景，海康机器人2026移动机器人新品发布会举行",
+  "url": "https://www.leiphone.com/category/robot/h4vGHMyQ6b8drzy6.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "海康机器人",
+    "STRP",
+    "HAPS"
+  ],
+  "publishedAt": "2026-10-23T10:15:00.000Z",
+  "fetchedAt": "2026-10-23T12:43:27.846Z",
+  "summary": "雷峰网报道海康机器人10月23日举行移动机器人新品发布会，升级 STRP 箱式存拣方案并推出明智系列产品；HAPS拣选系统结合3D视觉、移动机器人和关节机器人，报道中的效率数字来自公司方案介绍。",
+  "investorNote": "判断：厂内物流机器人竞争更接近整套交付与调度效率，而非单机演示；应以项目验收数据检验宣传指标。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "event-78eb7691e108b34a655770d7",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "海康机器人",
+    "action": "发布",
+    "object": "移动机器人存拣运升级方案与明智系列",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "f0cf1a224880139482342f31c6aa977f2bf334a20df48e9b63dcd4ab2a08d91b",
+    "originalUrl": "https://www.leiphone.com/category/robot/h4vGHMyQ6b8drzy6.html",
+    "originalPublishedAt": "2026-10-23T10:15:00.000Z",
+    "checkedAt": "2026-10-23T23:35:13.757Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "f0cf1a224880139482342f31c6aa977f2bf334a20df48e9b63dcd4ab2a08d91b",
+      "kind": "fact",
+      "quote": "10月23日，海康机器人以“全链·进化”为主题，举办2026移动机器人新品发布会暨CeMAT预展专场，聚焦“存、拣、运”全流程，发布箱式方案全新升级并推出“明智”系列单体智能产品"
+    }
+  ],
+  "displayTitle": "海康机器人发布存拣运新品，推进厂内物流一体化",
+  "narrative": "海康机器人 10 月 23 日发布升级后的 STRP 箱式存拣方案和“明智”系列移动机器人，覆盖存、拣、运，并把 3D 视觉、移动平台和关节机器人接入 HAPS 拣选系统。报道列出的吞吐、成本和准确率是公司方案口径，尚需项目验收验证。对工业机器人采购而言，一体化调度和标准化交付比单台机器人的动作更接近可计费价值。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "10月23日新品发布会的具体产品动作，历史候选无同一发生。"
+  },
+  "eventId": "event-78eb7691e108b34a655770d7",
+  "occurrenceId": "occ-78eb7691e108b34a655770d7",
+  "relatedItems": []
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-24",
+  "itemCount": 9,
+  "storyCount": 9,
+  "clusterCount": 9,
+  "files": [
+    "2026-10-24-securing-our-frontier-model-training-environment.json",
+    "2026-10-24-chinese-ai-model-kimi-k31-pro-is-closing-in-on-anthropics-cl.json",
+    "2026-10-24-agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firs.json",
+    "2026-10-24-yizhu-ai-chip-financing.json",
+    "2026-10-24-solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ip.json",
+    "2026-10-24-hikrobot-mobile-robot-launch.json",
+    "2026-10-24-feds-want-robotaxis-to-signal-im-driving-with-cyan-colored-l.json",
+    "2026-10-24-qwen-go-my-apps-preview.json",
+    "2026-10-24-an-alignment-assessment-of-the-uk-aisi-cybertesting-incident.json"
+  ],
+  "representatives": [
+    "2026-10-24-securing-our-frontier-model-training-environment",
+    "2026-10-24-chinese-ai-model-kimi-k31-pro-is-closing-in-on-anthropics-cl",
+    "2026-10-24-agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firs",
+    "2026-10-24-yizhu-ai-chip-financing",
+    "2026-10-24-solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ip",
+    "2026-10-24-hikrobot-mobile-robot-launch",
+    "2026-10-24-feds-want-robotaxis-to-signal-im-driving-with-cyan-colored-l",
+    "2026-10-24-qwen-go-my-apps-preview",
+    "2026-10-24-an-alignment-assessment-of-the-uk-aisi-cybertesting-incident"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-78eb7691e108b34a655770d7",
+  "title": "海康机器人发布存拣运新品，推进厂内物流一体化",
+  "firstSeen": "2026-10-24",
+  "editionDate": "2026-10-24",
+  "occurrences": [
+    {
+      "id": "occ-78eb7691e108b34a655770d7",
+      "fact": {
+        "subject": "海康机器人",
+        "action": "发布",
+        "object": "移动机器人存拣运升级方案与明智系列",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-24",
+      "reports": [
+        {
+          "ref": "2026-10-24/2026-10-24-hikrobot-mobile-robot-launch",
+          "itemId": "2026-10-24-hikrobot-mobile-robot-launch",
+          "editionDate": "2026-10-24",
+          "url": "https://www.leiphone.com/category/robot/h4vGHMyQ6b8drzy6.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-10-23T10:15:00.000Z",
+          "title": "海康机器人发布存拣运新品，推进厂内物流一体化"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-24"
+}

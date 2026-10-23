@@ -1,0 +1,60 @@
+{
+  "id": "2026-10-24-qwen-go-my-apps-preview",
+  "title": "「千问Go!」上线“我的应用”，支持搭建长期、可分享的专属应用",
+  "url": "https://www.leiphone.com/category/industrynews/rTNQlAtTr6ROkXI1.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "千问Go!",
+    "Meoo"
+  ],
+  "publishedAt": "2026-10-23T02:55:00.000Z",
+  "fetchedAt": "2026-10-23T05:05:59.843Z",
+  "summary": "雷峰网10月23日报道，千问Go!新增我的应用功能，用户可用对话生成并分享可持续更新数据的应用；阿里云 Meoo 提供搭建、数据库与部署服务。该功能以及云端Pro目前均处邀测。",
+  "investorNote": "判断：对话生成应用的差异点开始从界面生成转向持久数据和部署能力，真实使用频率仍待公开验证。",
+  "score": 0.68,
+  "duplicateOf": null,
+  "clusterId": "event-f0263f8e380d0a95e95153bb",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "千问Go!",
+    "action": "上线邀测",
+    "object": "我的应用功能",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "3ba6b42466b9ee5d35f8cba8f78d31e28d0308464f58f3b5a64e978d0d56b7ba",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/rTNQlAtTr6ROkXI1.html",
+    "originalPublishedAt": "2026-10-23T02:55:00.000Z",
+    "checkedAt": "2026-10-23T23:35:13.801Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "3ba6b42466b9ee5d35f8cba8f78d31e28d0308464f58f3b5a64e978d0d56b7ba",
+      "kind": "fact",
+      "quote": "10月23日消息，「千问Go!」上线新功能“我的应用”。"
+    },
+    {
+      "snapshotId": "3ba6b42466b9ee5d35f8cba8f78d31e28d0308464f58f3b5a64e978d0d56b7ba",
+      "kind": "condition",
+      "quote": "目前“我的应用”及支持操作云手机、云电脑的云端Pro均处于邀测阶段"
+    }
+  ],
+  "displayTitle": "千问 Go! 邀测“我的应用”，对话生成可长期运行的应用",
+  "narrative": "千问 Go! 新增“我的应用”，用户通过对话生成可分享、可持续更新数据的应用；底层接入阿里云 Meoo 的数据库配置和部署服务。**目前处于邀测阶段**，云端 Pro 调用其他应用数据还需用户授权。产品方向从一次性小工具走向持久应用，但是否形成高频留存，仍要看真实用户能否持续维护数据和工作流。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "我的应用为10月23日新增功能，区别于历史其他千问产品动作。"
+  },
+  "eventId": "event-f0263f8e380d0a95e95153bb",
+  "occurrenceId": "occ-f0263f8e380d0a95e95153bb",
+  "relatedItems": []
+}

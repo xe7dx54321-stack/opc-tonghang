@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-e6625058201d2c0804f30937",
+  "title": "Daytona 完成 6000 万美元 B 轮，Agent 云估值达 10 亿美元",
+  "firstSeen": "2026-10-24",
+  "editionDate": "2026-10-24",
+  "occurrences": [
+    {
+      "id": "occ-e6625058201d2c0804f30937",
+      "fact": {
+        "subject": "Daytona",
+        "action": "完成",
+        "object": "6000万美元B轮融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-24",
+      "reports": [
+        {
+          "ref": "2026-10-24/2026-10-24-agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firs",
+          "itemId": "2026-10-24-agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firs",
+          "editionDate": "2026-10-24",
+          "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-23T16:26:29.000Z",
+          "title": "Daytona 完成 6000 万美元 B 轮，Agent 云估值达 10 亿美元"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-24"
+}

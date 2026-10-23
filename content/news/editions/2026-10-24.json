@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-24",
+  "window": {
+    "start": 1792711800000,
+    "end": 1792798200000
+  },
+  "digestHash": "11e3f5b76b18c71c13dc6aaf6daecd561825191eff0ee5c6c06b586a53009496",
+  "stories": [
+    {
+      "heading": "OpenAI公布前沿模型训练断网与隔离方案",
+      "itemId": "2026-10-24-securing-our-frontier-model-training-environment",
+      "eventId": "event-2c4401d6e0df640b4c64df18",
+      "occurrenceId": "occ-2c4401d6e0df640b4c64df18"
+    },
+    {
+      "heading": "月之暗面发布 Kimi K3.1 Pro，开放权重仍待兑现",
+      "itemId": "2026-10-24-chinese-ai-model-kimi-k31-pro-is-closing-in-on-anthropics-cl",
+      "eventId": "event-4a9f626880a05b25ed5babf4",
+      "occurrenceId": "occ-4a9f626880a05b25ed5babf4"
+    },
+    {
+      "heading": "Daytona 完成 6000 万美元 B 轮，Agent 云估值达 10 亿美元",
+      "itemId": "2026-10-24-agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firs",
+      "eventId": "event-e6625058201d2c0804f30937",
+      "occurrenceId": "occ-e6625058201d2c0804f30937"
+    },
+    {
+      "heading": "亿铸科技获超 10 亿元融资，推进存算一体 AI 芯片",
+      "itemId": "2026-10-24-yizhu-ai-chip-financing",
+      "eventId": "event-6d52285f412e1349e56d5a8c",
+      "occurrenceId": "occ-6d52285f412e1349e56d5a8c"
+    },
+    {
+      "heading": "SK海力士暂停 Solidigm 上市评估，仍拟扩建美国工厂",
+      "itemId": "2026-10-24-solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ip",
+      "eventId": "event-2b476fd1054fbd3d9a1d6909",
+      "occurrenceId": "occ-2b476fd1054fbd3d9a1d6909"
+    },
+    {
+      "heading": "海康机器人发布存拣运新品，推进厂内物流一体化",
+      "itemId": "2026-10-24-hikrobot-mobile-robot-launch",
+      "eventId": "event-78eb7691e108b34a655770d7",
+      "occurrenceId": "occ-78eb7691e108b34a655770d7"
+    },
+    {
+      "heading": "美国拟统一自动驾驶车辆青色标志灯标准",
+      "itemId": "2026-10-24-feds-want-robotaxis-to-signal-im-driving-with-cyan-colored-l",
+      "eventId": "event-027d229f721e75a532d67c6f",
+      "occurrenceId": "occ-027d229f721e75a532d67c6f"
+    },
+    {
+      "heading": "千问 Go! 邀测“我的应用”，对话生成可长期运行的应用",
+      "itemId": "2026-10-24-qwen-go-my-apps-preview",
+      "eventId": "event-f0263f8e380d0a95e95153bb",
+      "occurrenceId": "occ-f0263f8e380d0a95e95153bb"
+    },
+    {
+      "heading": "Anthropic 公布 UK AISI 旧网络测试事件的对齐评估",
+      "itemId": "2026-10-24-an-alignment-assessment-of-the-uk-aisi-cybertesting-incident",
+      "eventId": "event-5c4f6f848dd73b416f3310e0",
+      "occurrenceId": "occ-5c4f6f848dd73b416f3310e0"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-24-agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firs.json": "997c8cf0095df76664370a13c314efb03285f14ef12b8fda872d69d0db85f570",
+    "2026-10-24-an-alignment-assessment-of-the-uk-aisi-cybertesting-incident.json": "63a96836e77da9c279e147b52a09c31501787ddcba80dc2c18663af3e5b91b0d",
+    "2026-10-24-chinese-ai-model-kimi-k31-pro-is-closing-in-on-anthropics-cl.json": "211d6e18333f12765d6db842d58a06f8fdf04c431a027bce0f94079e3fcf357e",
+    "2026-10-24-feds-want-robotaxis-to-signal-im-driving-with-cyan-colored-l.json": "00fe2c766bc6db3ad1e8b272f2df28fc59760f34f2c34873ca7a0290a33d3c1e",
+    "2026-10-24-hikrobot-mobile-robot-launch.json": "5daae1726b94e4dec44a9cd36a9569ccc65432f76a8d3c185924854a3cb9f748",
+    "2026-10-24-qwen-go-my-apps-preview.json": "550ac30e650d7f1ca4aecf7dbebc467ed30acc03af148571c4429cac8cbd560f",
+    "2026-10-24-securing-our-frontier-model-training-environment.json": "15c32dfdce83be58040d71b86473be4d87c2cbacdae474a7bb8c3a075eee3a27",
+    "2026-10-24-solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ip.json": "050039b533b0d773b7c359a7ca9148e5b331d96b09b969b96efa5f4682631a2c",
+    "2026-10-24-yizhu-ai-chip-financing.json": "26556f7e9ae8a9029d1886d425c2889f94cbcbd51c1e27cac09ced6f7ce4765d"
+  },
+  "evidenceHashes": {
+    "17849add7ad6512527f4b375766e8ef749eb84051be5d21d9cc305d0815bfc39.json": "3dedcbdd856086806e78796fbff2546b5ab1a9736de654372f87f54514f950e6",
+    "3ba6b42466b9ee5d35f8cba8f78d31e28d0308464f58f3b5a64e978d0d56b7ba.json": "6f4bae447d2a199304a02954ed4a77b80768c963bc6a9d8b588ed6961863e255",
+    "3fc2c27ab2351da95b6a534e52d456c515f876f1db7b69a489b9b65b9ee45398.json": "b6722839075d28031482395520a7a27f0ac9c7cd31872e84ca7fdd07a6479126",
+    "46bfbeb2d7be6c0b26226724470ee146ae5f368b8c720cad012a29291207335a.json": "df56f51b1af551be7dae9e53672829b5315dff28250f270e0c40fdb9991fd8c0",
+    "57d3dad6e80aaea266a95ddd1d84325dc101c4bf74cab52d284aad9faa245b4e.json": "cf8e314f060ec38c0721a9a9af74768bc9ca125b1e496808845f369127d1ce95",
+    "609340cfd438b229afabef64daa30984475c9466eb9052e2579e59a21e1264c6.json": "a8b027852ce7f20b3551c688f20075d5444a0e2dcabd15c7f4bb67baaab09017",
+    "c70ed3a64c9ede5eb804097d30c1dbedf2bc341c114d30d975d7232ca84edfbd.json": "d6d0c16d57938a9b6a573a2bf350e6dbc32da7e8b8bb117cd7c352647e6ca76b",
+    "e6824b8d5d234007fc1904d7cd92033431dffb73264fc7e2ea248d4d876c405a.json": "0320e93b73f3d18c292c0e2fb9b852fcbee97b0c395420c9460937cd90641008",
+    "f0cf1a224880139482342f31c6aa977f2bf334a20df48e9b63dcd4ab2a08d91b.json": "4cda7e652c8fe8104d3a2f40b1258f3a797a590274522eede720f2de183ecc5f"
+  },
+  "eventsHashes": {
+    "event-027d229f721e75a532d67c6f.json": "82c2485a8c89bb958b43609b7b1d2f9234cbc3e999a0a6dbb1d1ecbe33e7dd2f",
+    "event-2b476fd1054fbd3d9a1d6909.json": "c970147548410441379f222a765a556f6ffd1e52e4e782cfc0d7b6d6d8280a2e",
+    "event-2c4401d6e0df640b4c64df18.json": "4fdbde0743d07893c4cfac0f471a8910c74f6df88799745759ef0e6be5185e91",
+    "event-4a9f626880a05b25ed5babf4.json": "d4c2bc60c86123b6f35f438c8d4351d29b3b2b282c8424db86fcf02faf19434f",
+    "event-5c4f6f848dd73b416f3310e0.json": "ec4222f04cfa57384782f18f7e8273fef5261a7c03a1d63ee2eaf69e2abe7812",
+    "event-6d52285f412e1349e56d5a8c.json": "c79d1e4a5cd45589133ffb6fd5319751d3ac347f1da189172254a7821a0d937c",
+    "event-78eb7691e108b34a655770d7.json": "85ac28807877a82051efa1043ec666926251603390ec1cfbbf987a703df58646",
+    "event-e6625058201d2c0804f30937.json": "f05eb5c33b8e48e91f90cd3d5dfe658e89148fb93c63909a51b5468a349bc59f",
+    "event-f0263f8e380d0a95e95153bb.json": "c65c127abddadfea13f50fda7fbb64ac26196ff5272b25a994f265bbcbe57494"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-2c4401d6e0df640b4c64df18",
+  "title": "OpenAI公布前沿模型训练断网与隔离方案",
+  "firstSeen": "2026-10-24",
+  "editionDate": "2026-10-24",
+  "occurrences": [
+    {
+      "id": "occ-2c4401d6e0df640b4c64df18",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "公布并实施",
+        "object": "前沿模型训练环境断网和分层隔离",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-24",
+      "reports": [
+        {
+          "ref": "2026-10-24/2026-10-24-securing-our-frontier-model-training-environment",
+          "itemId": "2026-10-24-securing-our-frontier-model-training-environment",
+          "editionDate": "2026-10-24",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "openai-news",
+          "owner": "OpenAI",
+          "role": "principal",
+          "publishedAt": "2026-10-23T10:00:00.000Z",
+          "title": "OpenAI公布前沿模型训练断网与隔离方案"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-24"
+}

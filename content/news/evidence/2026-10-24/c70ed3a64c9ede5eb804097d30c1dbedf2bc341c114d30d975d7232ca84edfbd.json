@@ -1,0 +1,13 @@
+{
+  "snapshotId": "c70ed3a64c9ede5eb804097d30c1dbedf2bc341c114d30d975d7232ca84edfbd",
+  "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "publishedAt": "2026-10-23T10:00:00.000Z",
+  "publishedAtQuote": "October 23, 2026",
+  "retrievedAt": "2026-10-23T23:35:13.647Z",
+  "method": "agent-tool",
+  "contentHash": "86830be8fe0ec9fc908db3a135973903b370b14b4c6a0cfceb3518a6b1d32ffe",
+  "quotations": [
+    "We’ve implemented this policy and will maintain it until advances in these safeguards justify broader internet access.",
+    "All of our frontier RL runs use this offline mode of interaction."
+  ]
+}

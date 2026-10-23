@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-f0263f8e380d0a95e95153bb",
+  "title": "千问 Go! 邀测“我的应用”，对话生成可长期运行的应用",
+  "firstSeen": "2026-10-24",
+  "editionDate": "2026-10-24",
+  "occurrences": [
+    {
+      "id": "occ-f0263f8e380d0a95e95153bb",
+      "fact": {
+        "subject": "千问Go!",
+        "action": "上线邀测",
+        "object": "我的应用功能",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-24",
+      "reports": [
+        {
+          "ref": "2026-10-24/2026-10-24-qwen-go-my-apps-preview",
+          "itemId": "2026-10-24-qwen-go-my-apps-preview",
+          "editionDate": "2026-10-24",
+          "url": "https://www.leiphone.com/category/industrynews/rTNQlAtTr6ROkXI1.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-10-23T02:55:00.000Z",
+          "title": "千问 Go! 邀测“我的应用”，对话生成可长期运行的应用"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-24"
+}
