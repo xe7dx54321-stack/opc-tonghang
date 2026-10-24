@@ -1,0 +1,13 @@
+{
+  "snapshotId": "5074c300d999f9cf6c082514494f999de1604ccbc75b83bb5e334f2761b76cbb",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
+  "publishedAt": "2026-10-23T23:39:00.000Z",
+  "publishedAtQuote": "2026-10-23T23:39:00Z",
+  "retrievedAt": "2026-10-24T23:35:26.954Z",
+  "method": "agent-tool",
+  "contentHash": "54c5c5d58d6954c81a4120b6cae8fb2acf7393267a928cd7c56e474daff69a12",
+  "quotations": [
+    "Added the Monitor tool and plugin monitors on Bedrock, Vertex, and Foundry, and when telemetry or nonessential traffic is disabled; long foreground sleeps are now blocked there too",
+    "[Cloud sessions] Added Claude Code cloud sessions and Remote Control permissions to Enterprise custom roles, so Owners can control access to each by role"
+  ]
+}

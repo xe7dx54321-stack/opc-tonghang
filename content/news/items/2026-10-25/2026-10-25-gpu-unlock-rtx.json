@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-25-gpu-unlock-rtx",
+  "url": "https://www.appinn.com/nvidia-gpu-ai-compute-unlock/",
+  "publishedAt": "2026-10-24T17:26:36+08:00",
+  "fact": {
+    "subject": "GPU Unlock 开发者社区",
+    "action": "公布和实测",
+    "object": "RTX 30 系 Tensor Core 吞吐解锁",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "小众软件",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "84527926edf1dcd72c6b6ab4de2b163e73264636d70ca1fd9fc648a35926eb70",
+    "originalUrl": "https://www.appinn.com/nvidia-gpu-ai-compute-unlock/",
+    "originalPublishedAt": "2026-10-24T17:26:36+08:00",
+    "checkedAt": "2026-10-24T23:35:26.978Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "84527926edf1dcd72c6b6ab4de2b163e73264636d70ca1fd9fc648a35926eb70",
+      "kind": "fact",
+      "quote": "最近，有开发者发现，部分英伟达 RTX 30 系列显卡的 Tensor Core 在执行特定矩阵运算时，存在人为设置的速度限制。"
+    },
+    {
+      "snapshotId": "84527926edf1dcd72c6b6ab4de2b163e73264636d70ca1fd9fc648a35926eb70",
+      "kind": "condition",
+      "quote": "16K 提示词处理速度：\n提升 16%\n首个 token 等待时间：缩短约 14%\n生成速度：基本没有变化"
+    }
+  ],
+  "title": "英伟达显卡的 AI 算力被人为限制了？有人成功解锁，性能接近翻倍",
+  "displayTitle": "社区解锁 RTX 30 Tensor Core 吞吐，实际推理收益因负载而异",
+  "source": "web-search",
+  "sourceTier": 3,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "NVIDIA",
+    "RTX 30",
+    "GPU Unlock"
+  ],
+  "fetchedAt": "2026-10-24T23:36:40.628325+00:00",
+  "summary": "小众软件10月24日整理开发者的RTX 30系Tensor Core解锁与测试：部分矩阵运算吞吐显著增加，但本地模型提示词处理只提高约16%，生成速度基本不变；llama.cpp量化模型的社区测试未见明显收益。",
+  "investorNote": "硬件指标翻倍不等于推理任务翻倍；应按模型、算子、功耗和稳定性逐项验证。",
+  "narrative": "小众软件整理了 RTX 30 系显卡 Tensor Core 吞吐解锁及社区测试。某些矩阵运算可见大幅加速，但文中一项 RTX 3090 的 Strata 测试里，16K 提示词处理只提高约16%，生成速度基本不变；另一项量化模型测试几乎没有差别。对本地推理，芯片理论吞吐与端到端收益之间仍隔着算子覆盖、内存瓶颈和兼容性，底层修改也需要先在非生产设备验证。",
+  "score": 0.67,
+  "duplicateOf": null,
+  "clusterId": "event-17723bf98fabf3c063007d2c",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对本期独立动作，近两周事件候选中无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-17723bf98fabf3c063007d2c",
+  "occurrenceId": "occ-17723bf98fabf3c063007d2c",
+  "relatedItems": []
+}

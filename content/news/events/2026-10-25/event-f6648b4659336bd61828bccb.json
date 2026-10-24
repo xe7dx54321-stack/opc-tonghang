@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-f6648b4659336bd61828bccb",
+  "title": "厘清智能公布 PrismWAM 与 RoboDoctor，机器人模型转向物理状态与执行纠错",
+  "firstSeen": "2026-10-25",
+  "editionDate": "2026-10-25",
+  "occurrences": [
+    {
+      "id": "occ-f6648b4659336bd61828bccb",
+      "fact": {
+        "subject": "厘清智能",
+        "action": "公布",
+        "object": "PrismWAM 与 RoboDoctor",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-25",
+      "reports": [
+        {
+          "ref": "2026-10-25/2026-10-25-prismwam-robodoctor",
+          "itemId": "2026-10-25-prismwam-robodoctor",
+          "editionDate": "2026-10-25",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651069794&idx=1&sn=27a6d06d4f43e6c032d7f79db1222815",
+          "source": "wechat-jiqizhixin",
+          "owner": "机器之心",
+          "role": "observer",
+          "publishedAt": "2026-10-24T04:30:00.000Z",
+          "title": "厘清智能公布 PrismWAM 与 RoboDoctor，机器人模型转向物理状态与执行纠错"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-25"
+}

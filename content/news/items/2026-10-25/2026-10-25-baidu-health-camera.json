@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-25-baidu-health-camera",
+  "url": "https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html",
+  "publishedAt": "2026-10-24T08:37:00.000Z",
+  "fact": {
+    "subject": "百度健康",
+    "action": "发布",
+    "object": "好医矩阵与健康相机",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "4a1c4bb4de97c136619a4287c04a814e2204f2f885e6808c0df1485e6405fd50",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html",
+    "originalPublishedAt": "2026-10-24T08:37:00.000Z",
+    "checkedAt": "2026-10-24T23:35:26.903Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "4a1c4bb4de97c136619a4287c04a814e2204f2f885e6808c0df1485e6405fd50",
+      "kind": "fact",
+      "quote": "10月24日，百度健康宣布升级文心健康管家，发布「好医矩阵」和「健康相机」。"
+    },
+    {
+      "snapshotId": "4a1c4bb4de97c136619a4287c04a814e2204f2f885e6808c0df1485e6405fd50",
+      "kind": "condition",
+      "quote": "好医答咨询室里入驻了15万+全三甲真人医生，为患者提供7*24小时的在线服务，最快1分钟就能响应。"
+    }
+  ],
+  "title": "行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机",
+  "displayTitle": "百度健康推出健康相机与好医矩阵，把 AI 问诊接到真人医生",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "百度健康",
+    "文心健康管家",
+    "健康相机"
+  ],
+  "fetchedAt": "2026-10-24T11:03:43.195Z",
+  "summary": "雷峰网10月24日报道，百度健康升级文心健康管家，推出可接受视频、语音和图片输入的健康相机，以及包含好医答等服务的好医矩阵。报道转述公司称好医答有15万余名三甲医生在线，尚无独立效果评估。",
+  "investorNote": "医疗AI商业化更取决于输入质量、医生接管和可追溯性，而不只看月活；厂商规模数字需按自述处理。",
+  "narrative": "百度健康发布健康相机与好医矩阵：前者让用户用视频、方言语音或图片描述问题，后者把 AI 整理的信息接到真人医生咨询。雷峰网转述的医生规模和用户数属于公司口径，不能据此推断诊断准确率。产品真正要解决的是患者描述不全与医生复核之间的衔接；能否减少重复问答、避免误分诊，需要临床流程里的可核查结果。",
+  "score": 0.71,
+  "duplicateOf": null,
+  "clusterId": "event-f11e6a4cb206309d53177bad",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对本期独立动作，近两周事件候选中无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-f11e6a4cb206309d53177bad",
+  "occurrenceId": "occ-f11e6a4cb206309d53177bad",
+  "relatedItems": []
+}

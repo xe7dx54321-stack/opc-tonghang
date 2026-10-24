@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-25-oryon-efficiency-core",
+  "url": "https://chipsandcheese.com/p/performance-oryon-qualcomms-little",
+  "publishedAt": "2026-10-24T23:13:33.000Z",
+  "fact": {
+    "subject": "Chips and Cheese",
+    "action": "发布实测分析",
+    "object": "Snapdragon X2 Elite Oryon 小核微架构",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Chips and Cheese",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "ced9dd4b5e0914e40b7d55d33fcf03b54e808a96bc6f040d3516b38dbb4b532e",
+    "originalUrl": "https://chipsandcheese.com/p/performance-oryon-qualcomms-little",
+    "originalPublishedAt": "2026-10-24T23:13:33.000Z",
+    "checkedAt": "2026-10-24T23:36:03.158Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "ced9dd4b5e0914e40b7d55d33fcf03b54e808a96bc6f040d3516b38dbb4b532e",
+      "kind": "fact",
+      "quote": "Qualcomm’s Snapdragon X2 Elite uses a hybrid core setup, breaking away from the all-big-core strategy that the company previously used with in-house core designs."
+    },
+    {
+      "snapshotId": "ced9dd4b5e0914e40b7d55d33fcf03b54e808a96bc6f040d3516b38dbb4b532e",
+      "kind": "condition",
+      "quote": "Qualcomm’s E-Core is a 4-wide out-of-order architecture running at 3.6 GHz"
+    },
+    {
+      "snapshotId": "ced9dd4b5e0914e40b7d55d33fcf03b54e808a96bc6f040d3516b38dbb4b532e",
+      "kind": "condition",
+      "quote": "For their E-Cores though, Qualcomm seems to be focusing harder on reducing power consumption than increasing throughput for multithreaded applications."
+    }
+  ],
+  "title": "“Performance” Oryon: Qualcomm’s Little Core",
+  "displayTitle": "Chips and Cheese 实测 Oryon 小核：骁龙 X2 转向大小核配置",
+  "source": "chips-and-cheese",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Qualcomm",
+    "Snapdragon X2 Elite",
+    "Oryon"
+  ],
+  "fetchedAt": "2026-10-24T23:30:15.332Z",
+  "summary": "Chips and Cheese于北京时间10月25日07:13发布Snapdragon X2 Elite小核微架构分析。作者实测4发射、3.6GHz核心的分支预测、缓存和带宽，指出高通从此前自研核心全大核设计转向混合配置；这是一台样机上的微架构观察。",
+  "investorNote": "移动PC芯片竞争不只比较峰值单核跑分，还要看后台任务、能耗与大小核调度的系统效果。",
+  "narrative": "Chips and Cheese 对骁龙 X2 Elite 的 Oryon 小核做了微架构实测：高通从此前自研核心的全大核路线转向混合配置，样机中的小核为4发射、3.6GHz。作者观察到较大的指令缓存与克制的吞吐设计，推断设计更偏向低功耗任务。对 PC 芯片竞争，这使调度与每瓦性能比单一峰值跑分更关键；样机测试也不能直接代表所有机型的续航。",
+  "score": 0.73,
+  "duplicateOf": null,
+  "clusterId": "event-4a55e550edc04f426dd1a33e",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对本期独立动作，近两周事件候选中无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-4a55e550edc04f426dd1a33e",
+  "occurrenceId": "occ-4a55e550edc04f426dd1a33e",
+  "relatedItems": []
+}

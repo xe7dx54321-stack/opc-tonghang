@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-25-alipay-payathon",
+  "url": "https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html",
+  "publishedAt": "2026-10-24T08:49:00.000Z",
+  "fact": {
+    "subject": "支付宝AI支付",
+    "action": "发起",
+    "object": "PAYATHON 2026 开发者黑客松",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "98f5006aa2f19bce9a9717f7fd9153fecf9f644f2a722226edd9ad8a517527c9",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html",
+    "originalPublishedAt": "2026-10-24T08:49:00.000Z",
+    "checkedAt": "2026-10-24T23:35:26.929Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "98f5006aa2f19bce9a9717f7fd9153fecf9f644f2a722226edd9ad8a517527c9",
+      "kind": "fact",
+      "quote": "面向这股浪潮，10月24日，支付宝AI支付联合观猹发起“PAYATHON 2026”年度黑客松，邀请开发者带着应用、Skill 或 Agent 参赛：接入支付，把创意推向真实市场，争夺 20 万元总奖池。报名截至12月1日，线下决赛将于12月26日举行。"
+    },
+    {
+      "snapshotId": "98f5006aa2f19bce9a9717f7fd9153fecf9f644f2a722226edd9ad8a517527c9",
+      "kind": "condition",
+      "quote": "大赛不仅考核产品功能的完整度与技术实现，更将“商业化表现”与“真实用户付费”列为关键评选指标"
+    }
+  ],
+  "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
+  "displayTitle": "支付宝AI支付发起 PAYATHON，把 Agent 作品的真实付费纳入评选",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "支付宝AI支付",
+    "PAYATHON 2026"
+  ],
+  "fetchedAt": "2026-10-24T11:03:43.195Z",
+  "summary": "雷峰网10月24日报道，支付宝AI支付与观猹发起PAYATHON 2026黑客松，邀请应用、Skill和Agent接入支付，报名截至12月1日，总奖池20万元。赛事强调商业化表现与真实用户付费，尚不能代表生态已有大规模交易。",
+  "investorNote": "支付基础设施开始用实际成交筛选AI应用，但赛事案例只能作为早期需求信号，不能当作产品市场匹配证明。",
+  "narrative": "支付宝AI支付与观猹在10月24日发起 PAYATHON 2026，邀请应用、Skill 与 Agent 接入支付，赛事把真实付费列为评选指标。20万元奖池和展示订单属于赛事条件与个案，离可重复商业模式仍有距离。这个动作的看点是开发工具之后的收款与履约环节开始被平台主动争夺；应追踪参赛产品赛后是否仍有复购。",
+  "score": 0.56,
+  "duplicateOf": null,
+  "clusterId": "event-da006c77dcaf987cfa250c6a",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对本期独立动作，近两周事件候选中无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-da006c77dcaf987cfa250c6a",
+  "occurrenceId": "occ-da006c77dcaf987cfa250c6a",
+  "relatedItems": []
+}

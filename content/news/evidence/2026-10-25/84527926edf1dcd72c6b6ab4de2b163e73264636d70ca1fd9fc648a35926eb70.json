@@ -1,0 +1,13 @@
+{
+  "snapshotId": "84527926edf1dcd72c6b6ab4de2b163e73264636d70ca1fd9fc648a35926eb70",
+  "url": "https://www.appinn.com/nvidia-gpu-ai-compute-unlock/",
+  "publishedAt": "2026-10-24T17:26:36+08:00",
+  "publishedAtQuote": "2026-10-24T17:26:36+08:00",
+  "retrievedAt": "2026-10-24T23:35:26.978Z",
+  "method": "agent-tool",
+  "contentHash": "8fb73d3079cf09c6ea8d8c8e230c5216d6c96931948e31f5f760a3862538232b",
+  "quotations": [
+    "最近，有开发者发现，部分英伟达 RTX 30 系列显卡的 Tensor Core 在执行特定矩阵运算时，存在人为设置的速度限制。",
+    "16K 提示词处理速度：\n提升 16%\n首个 token 等待时间：缩短约 14%\n生成速度：基本没有变化"
+  ]
+}

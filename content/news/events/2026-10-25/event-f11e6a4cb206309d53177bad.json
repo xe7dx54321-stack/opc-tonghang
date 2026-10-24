@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-f11e6a4cb206309d53177bad",
+  "title": "百度健康推出健康相机与好医矩阵，把 AI 问诊接到真人医生",
+  "firstSeen": "2026-10-25",
+  "editionDate": "2026-10-25",
+  "occurrences": [
+    {
+      "id": "occ-f11e6a4cb206309d53177bad",
+      "fact": {
+        "subject": "百度健康",
+        "action": "发布",
+        "object": "好医矩阵与健康相机",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-25",
+      "reports": [
+        {
+          "ref": "2026-10-25/2026-10-25-baidu-health-camera",
+          "itemId": "2026-10-25-baidu-health-camera",
+          "editionDate": "2026-10-25",
+          "url": "https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-10-24T08:37:00.000Z",
+          "title": "百度健康推出健康相机与好医矩阵，把 AI 问诊接到真人医生"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-25"
+}

@@ -1,0 +1,14 @@
+{
+  "snapshotId": "1e787b09eead6a04461a6e57e8376e7b0534da76bbeb1bdc3306552c9d8e351b",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651069794&idx=1&sn=27a6d06d4f43e6c032d7f79db1222815",
+  "publishedAt": "2026-10-24T04:30:00.000Z",
+  "publishedAtQuote": "2026-10-24 12:30",
+  "retrievedAt": "2026-10-24T23:35:26.852Z",
+  "method": "rss-syndication",
+  "retrievedFrom": "https://wechat2rss.bestblogs.dev/feed/8d97af31b0de9e48da74558af128a4673d78c9a3.xml",
+  "contentHash": "c32ae1ab9412ce2ee65ea78321162c59a0f8d6f9206c0a4b082a27d1def9ebdd",
+  "quotations": [
+    "近日，厘清智能创始人、清华大学人工智能学院李一鸣教授团队发布了两项 Physical AI 研究成果：世界动作模型 PrismWAM，以及面向机器人执行诊断与持续改进的 Agentic 框架 RoboDoctor。",
+    "在没有动作数据预训练的情况下，PrismWAM 在两类场景上的 平均成功率达到 83.67%，取得官方榜单第一名 （截至 2026 年 10 月 23 日）。"
+  ]
+}

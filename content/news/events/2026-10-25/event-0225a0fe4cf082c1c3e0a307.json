@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-0225a0fe4cf082c1c3e0a307",
+  "title": "Claude Code v2.1.310 增加监控工具与企业云会话权限",
+  "firstSeen": "2026-10-25",
+  "editionDate": "2026-10-25",
+  "occurrences": [
+    {
+      "id": "occ-0225a0fe4cf082c1c3e0a307",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "发布",
+        "object": "Claude Code v2.1.310",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-25",
+      "reports": [
+        {
+          "ref": "2026-10-25/2026-10-25-claude-code-2310",
+          "itemId": "2026-10-25-claude-code-2310",
+          "editionDate": "2026-10-25",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
+          "source": "claude-code-releases",
+          "owner": "Anthropic",
+          "role": "principal",
+          "publishedAt": "2026-10-23T23:39:00.000Z",
+          "title": "Claude Code v2.1.310 增加监控工具与企业云会话权限"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-25"
+}

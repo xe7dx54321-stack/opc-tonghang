@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-25",
+  "itemCount": 7,
+  "storyCount": 7,
+  "clusterCount": 7,
+  "files": [
+    "2026-10-25-prismwam-robodoctor.json",
+    "2026-10-25-bytedance-jimeng-xiaoyunque.json",
+    "2026-10-25-baidu-health-camera.json",
+    "2026-10-25-alipay-payathon.json",
+    "2026-10-25-claude-code-2310.json",
+    "2026-10-25-gpu-unlock-rtx.json",
+    "2026-10-25-oryon-efficiency-core.json"
+  ],
+  "representatives": [
+    "2026-10-25-prismwam-robodoctor",
+    "2026-10-25-bytedance-jimeng-xiaoyunque",
+    "2026-10-25-baidu-health-camera",
+    "2026-10-25-alipay-payathon",
+    "2026-10-25-claude-code-2310",
+    "2026-10-25-gpu-unlock-rtx",
+    "2026-10-25-oryon-efficiency-core"
+  ]
+}

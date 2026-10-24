@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-25-claude-code-2310",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
+  "publishedAt": "2026-10-23T23:39:00.000Z",
+  "fact": {
+    "subject": "Anthropic",
+    "action": "发布",
+    "object": "Claude Code v2.1.310",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Anthropic",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "5074c300d999f9cf6c082514494f999de1604ccbc75b83bb5e334f2761b76cbb",
+    "originalUrl": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
+    "originalPublishedAt": "2026-10-23T23:39:00.000Z",
+    "checkedAt": "2026-10-24T23:35:26.954Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "5074c300d999f9cf6c082514494f999de1604ccbc75b83bb5e334f2761b76cbb",
+      "kind": "fact",
+      "quote": "Added the Monitor tool and plugin monitors on Bedrock, Vertex, and Foundry, and when telemetry or nonessential traffic is disabled; long foreground sleeps are now blocked there too"
+    },
+    {
+      "snapshotId": "5074c300d999f9cf6c082514494f999de1604ccbc75b83bb5e334f2761b76cbb",
+      "kind": "condition",
+      "quote": "[Cloud sessions] Added Claude Code cloud sessions and Remote Control permissions to Enterprise custom roles, so Owners can control access to each by role"
+    }
+  ],
+  "title": "v2.1.310",
+  "displayTitle": "Claude Code v2.1.310 增加监控工具与企业云会话权限",
+  "source": "claude-code-releases",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude Code"
+  ],
+  "fetchedAt": "2026-10-23T23:54:39.277Z",
+  "summary": "Anthropic在北京时间10月24日07:39发布Claude Code v2.1.310。官方更新说明新增Monitor工具与插件监控，并将云会话和Remote Control权限纳入企业自定义角色；同时修复若干网关、清理和权限显示问题。",
+  "investorNote": "Agent运维开始补上可见性与角色控制，采购方仍应核对监控覆盖面和实际权限执行。",
+  "narrative": "Anthropic 的 Claude Code v2.1.310 增加 Monitor 工具与插件监控，并允许企业自定义角色分别控制云会话和 Remote Control。版本还修复网关兼容、后台清理和权限提示问题。对企业部署，监控和角色配置比小幅交互改动更有分量：管理员需要知道远程会话由谁启动、哪些操作被记录，以及禁用遥测时本地监控是否仍按预期工作。",
+  "score": 0.61,
+  "duplicateOf": null,
+  "clusterId": "event-0225a0fe4cf082c1c3e0a307",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对本期独立动作，近两周事件候选中无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-0225a0fe4cf082c1c3e0a307",
+  "occurrenceId": "occ-0225a0fe4cf082c1c3e0a307",
+  "relatedItems": []
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-17723bf98fabf3c063007d2c",
+  "title": "社区解锁 RTX 30 Tensor Core 吞吐，实际推理收益因负载而异",
+  "firstSeen": "2026-10-25",
+  "editionDate": "2026-10-25",
+  "occurrences": [
+    {
+      "id": "occ-17723bf98fabf3c063007d2c",
+      "fact": {
+        "subject": "GPU Unlock 开发者社区",
+        "action": "公布和实测",
+        "object": "RTX 30 系 Tensor Core 吞吐解锁",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-25",
+      "reports": [
+        {
+          "ref": "2026-10-25/2026-10-25-gpu-unlock-rtx",
+          "itemId": "2026-10-25-gpu-unlock-rtx",
+          "editionDate": "2026-10-25",
+          "url": "https://www.appinn.com/nvidia-gpu-ai-compute-unlock/",
+          "source": "web-search",
+          "owner": "小众软件",
+          "role": "observer",
+          "publishedAt": "2026-10-24T17:26:36+08:00",
+          "title": "社区解锁 RTX 30 Tensor Core 吞吐，实际推理收益因负载而异"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-25"
+}

@@ -1,0 +1,14 @@
+{
+  "snapshotId": "ced9dd4b5e0914e40b7d55d33fcf03b54e808a96bc6f040d3516b38dbb4b532e",
+  "url": "https://chipsandcheese.com/p/performance-oryon-qualcomms-little",
+  "publishedAt": "2026-10-24T23:13:33.000Z",
+  "publishedAtQuote": "2026-10-24T23:13:33+00:00",
+  "retrievedAt": "2026-10-24T23:36:03.158Z",
+  "method": "agent-tool",
+  "contentHash": "4b59e8ff6aa88fef086be446ba7f799c82c6cb63e6867718b318627749a223ac",
+  "quotations": [
+    "Qualcomm’s Snapdragon X2 Elite uses a hybrid core setup, breaking away from the all-big-core strategy that the company previously used with in-house core designs.",
+    "Qualcomm’s E-Core is a 4-wide out-of-order architecture running at 3.6 GHz",
+    "For their E-Cores though, Qualcomm seems to be focusing harder on reducing power consumption than increasing throughput for multithreaded applications."
+  ]
+}

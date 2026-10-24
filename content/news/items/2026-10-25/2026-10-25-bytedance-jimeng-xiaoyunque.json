@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-25-bytedance-jimeng-xiaoyunque",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&mid=2247518762&idx=1&sn=cadc73f1e69bb09e3277c4dfbb0a4a42",
+  "publishedAt": "2026-10-24T09:19:00.000Z",
+  "fact": {
+    "subject": "剪映",
+    "action": "整合",
+    "object": "小云雀与即梦 AI 视频应用",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "智能涌现",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d77e4cc760b91108e0c7e622c21a6bafdd0267febd46d24ff139171c04534142",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&mid=2247518762&idx=1&sn=cadc73f1e69bb09e3277c4dfbb0a4a42",
+    "originalPublishedAt": "2026-10-24T09:19:00.000Z",
+    "checkedAt": "2026-10-24T23:35:26.876Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d77e4cc760b91108e0c7e622c21a6bafdd0267febd46d24ff139171c04534142",
+      "kind": "fact",
+      "quote": "《智能涌现》从知情人士处获悉，近期剪映内部完成了一次业务整合，AI短剧创作平台小云雀并入智能创作平台即梦，产品仍保留独立入口。"
+    },
+    {
+      "snapshotId": "d77e4cc760b91108e0c7e622c21a6bafdd0267febd46d24ff139171c04534142",
+      "kind": "condition",
+      "quote": "我们了解到，此次调整主要是资源整合，目前即梦已经接入了小云雀短剧相关能力。调整后，小云雀的运营由即梦运营和市场负责人陈欣然负责，产品团队没有变化。"
+    }
+  ],
+  "title": "独家｜字节AI应用再整合：小云雀并入即梦",
+  "displayTitle": "剪映将小云雀并入即梦，AI 视频应用开始合并资源",
+  "source": "wechat-zhinengyongxian",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "字节跳动",
+    "剪映",
+    "即梦",
+    "小云雀"
+  ],
+  "fetchedAt": "2026-10-24T10:33:30.382Z",
+  "summary": "智能涌现10月24日独家援引知情人士称，剪映已将AI短剧创作平台小云雀并入即梦，但仍保留独立入口；即梦已接入小云雀短剧相关能力，产品团队暂未变化。报道还称增长与投入回报压力促使资源聚焦。",
+  "investorNote": "若模型能力能被外部视频应用复用，自有前端产品必须用留存和付费证明独立价值；相关经营数字仍待公司披露。",
+  "narrative": "据智能涌现援引知情人士的独家报道，剪映把小云雀并入即梦，小云雀仍保留独立入口，短剧能力已接入即梦，产品团队暂未变化。这是媒体的内部调整消息，字节尚未公开经营数据。它提示视频模型能力与前端应用价值开始分开核算：当外部视频 Agent 也能接入同一底座，自有产品需要用获客、留存和付费证明额外价值。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "event-02409bc0ced279dd56ad96e5",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对本期独立动作，近两周事件候选中无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-02409bc0ced279dd56ad96e5",
+  "occurrenceId": "occ-02409bc0ced279dd56ad96e5",
+  "relatedItems": []
+}

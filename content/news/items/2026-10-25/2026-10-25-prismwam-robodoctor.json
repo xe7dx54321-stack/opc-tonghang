@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-25-prismwam-robodoctor",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651069794&idx=1&sn=27a6d06d4f43e6c032d7f79db1222815",
+  "publishedAt": "2026-10-24T04:30:00.000Z",
+  "fact": {
+    "subject": "厘清智能",
+    "action": "公布",
+    "object": "PrismWAM 与 RoboDoctor",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "机器之心",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "1e787b09eead6a04461a6e57e8376e7b0534da76bbeb1bdc3306552c9d8e351b",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651069794&idx=1&sn=27a6d06d4f43e6c032d7f79db1222815",
+    "originalPublishedAt": "2026-10-24T04:30:00.000Z",
+    "checkedAt": "2026-10-24T23:35:26.852Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "1e787b09eead6a04461a6e57e8376e7b0534da76bbeb1bdc3306552c9d8e351b",
+      "kind": "fact",
+      "quote": "近日，厘清智能创始人、清华大学人工智能学院李一鸣教授团队发布了两项 Physical AI 研究成果：世界动作模型 PrismWAM，以及面向机器人执行诊断与持续改进的 Agentic 框架 RoboDoctor。"
+    },
+    {
+      "snapshotId": "1e787b09eead6a04461a6e57e8376e7b0534da76bbeb1bdc3306552c9d8e351b",
+      "kind": "condition",
+      "quote": "在没有动作数据预训练的情况下，PrismWAM 在两类场景上的 平均成功率达到 83.67%，取得官方榜单第一名 （截至 2026 年 10 月 23 日）。"
+    }
+  ],
+  "title": "RoboTwin第一、RoboDojo领跑：Physical AI的下一轮Scaling，为什么是Physics？",
+  "displayTitle": "厘清智能公布 PrismWAM 与 RoboDoctor，机器人模型转向物理状态与执行纠错",
+  "source": "wechat-jiqizhixin",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [
+    "厘清智能",
+    "PrismWAM",
+    "RoboDoctor"
+  ],
+  "fetchedAt": "2026-10-24T10:03:03.811Z",
+  "summary": "机器之心10月24日报道，厘清智能团队公布世界动作模型 PrismWAM 与机器人执行诊断框架 RoboDoctor。报道列出 RoboTwin 2.0 和 RoboDojo 的基准成绩，但这仍是团队公布的研究设定与结果，不能视作跨真实工厂的独立验证。",
+  "investorNote": "值得跟踪的是把几何状态预测与执行后纠错连成闭环；投资判断仍需看真实硬件、跨场景复现和数据成本。",
+  "narrative": "厘清智能团队公布 PrismWAM 和 RoboDoctor，分别处理机器人动作前的物理状态预测与执行后的诊断纠错。机器之心列出的 RoboTwin 2.0 成绩来自研究设定，尚不能推成工厂部署能力。对具身团队，更可比较的下一步是同一策略在不同硬件和未见场景里的成功率，以及达到该成绩所需的数据与人工干预。",
+  "score": 0.76,
+  "duplicateOf": null,
+  "clusterId": "event-f6648b4659336bd61828bccb",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对本期独立动作，近两周事件候选中无可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-f6648b4659336bd61828bccb",
+  "occurrenceId": "occ-f6648b4659336bd61828bccb",
+  "relatedItems": []
+}

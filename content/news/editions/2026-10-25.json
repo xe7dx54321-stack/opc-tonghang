@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-25",
+  "window": {
+    "start": 1792798200000,
+    "end": 1792884600000
+  },
+  "digestHash": "8260d45f4c9e05d2b4be3742109b1c05383ccd9d5c573eee1e9d0a875c98a5ab",
+  "stories": [
+    {
+      "heading": "剪映将小云雀并入即梦，AI 视频应用开始合并资源",
+      "itemId": "2026-10-25-bytedance-jimeng-xiaoyunque",
+      "eventId": "event-02409bc0ced279dd56ad96e5",
+      "occurrenceId": "occ-02409bc0ced279dd56ad96e5"
+    },
+    {
+      "heading": "厘清智能公布 PrismWAM 与 RoboDoctor，机器人模型转向物理状态与执行纠错",
+      "itemId": "2026-10-25-prismwam-robodoctor",
+      "eventId": "event-f6648b4659336bd61828bccb",
+      "occurrenceId": "occ-f6648b4659336bd61828bccb"
+    },
+    {
+      "heading": "百度健康推出健康相机与好医矩阵，把 AI 问诊接到真人医生",
+      "itemId": "2026-10-25-baidu-health-camera",
+      "eventId": "event-f11e6a4cb206309d53177bad",
+      "occurrenceId": "occ-f11e6a4cb206309d53177bad"
+    },
+    {
+      "heading": "Chips and Cheese 实测 Oryon 小核：骁龙 X2 转向大小核配置",
+      "itemId": "2026-10-25-oryon-efficiency-core",
+      "eventId": "event-4a55e550edc04f426dd1a33e",
+      "occurrenceId": "occ-4a55e550edc04f426dd1a33e"
+    },
+    {
+      "heading": "社区解锁 RTX 30 Tensor Core 吞吐，实际推理收益因负载而异",
+      "itemId": "2026-10-25-gpu-unlock-rtx",
+      "eventId": "event-17723bf98fabf3c063007d2c",
+      "occurrenceId": "occ-17723bf98fabf3c063007d2c"
+    },
+    {
+      "heading": "Claude Code v2.1.310 增加监控工具与企业云会话权限",
+      "itemId": "2026-10-25-claude-code-2310",
+      "eventId": "event-0225a0fe4cf082c1c3e0a307",
+      "occurrenceId": "occ-0225a0fe4cf082c1c3e0a307"
+    },
+    {
+      "heading": "支付宝AI支付发起 PAYATHON，把 Agent 作品的真实付费纳入评选",
+      "itemId": "2026-10-25-alipay-payathon",
+      "eventId": "event-da006c77dcaf987cfa250c6a",
+      "occurrenceId": "occ-da006c77dcaf987cfa250c6a"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-25-alipay-payathon.json": "25f98367e9301184b25206287123c7ce1effe1a702d7a7ae695f94ce679e8b66",
+    "2026-10-25-baidu-health-camera.json": "760bc6896513287d78045dd2bbc020323f2c15b848a3888b57369edbd681cf64",
+    "2026-10-25-bytedance-jimeng-xiaoyunque.json": "79a36e1e159cc21c97d2550cc87dafc5c9996c018385abb5455d1eae71e5ccbf",
+    "2026-10-25-claude-code-2310.json": "3723fc8b56348a04b214d7ceea60a041420c5bdd0b03ed7021b5e96eb54f311f",
+    "2026-10-25-gpu-unlock-rtx.json": "d89ab8cad49676b4d2a133cc4aef5f58bd0d973c5e80cd3abad69ec596ccc777",
+    "2026-10-25-oryon-efficiency-core.json": "a17af170df5c41866b5a16a1b040fd5577f8b2e05908da0386c83974dc74fefe",
+    "2026-10-25-prismwam-robodoctor.json": "d3696c11f09642aefdb28aa751ced4347dc29126b73fbe056ba3f5c949fdc16d"
+  },
+  "evidenceHashes": {
+    "1e787b09eead6a04461a6e57e8376e7b0534da76bbeb1bdc3306552c9d8e351b.json": "e06000606a83fb9c53cd549dca87845e54b1ee4ca3ebe38202116181967be8ab",
+    "4a1c4bb4de97c136619a4287c04a814e2204f2f885e6808c0df1485e6405fd50.json": "9cc04909204e522ac0ea98c8f8aef999d3f570f44acf1828e62ab8af93514c42",
+    "5074c300d999f9cf6c082514494f999de1604ccbc75b83bb5e334f2761b76cbb.json": "ca40f79b41939563ed5311d09348fa192394068997a42ee5098f7f9d5c776a75",
+    "84527926edf1dcd72c6b6ab4de2b163e73264636d70ca1fd9fc648a35926eb70.json": "6a628ba3a0873ebd75c31fcbbb106498b3a12b59d7308def027f69cb0c4ae494",
+    "98f5006aa2f19bce9a9717f7fd9153fecf9f644f2a722226edd9ad8a517527c9.json": "da5c303f0138de45b38fc1279677e0d5a8c1428b9d1419b289ad6a44784000b0",
+    "ced9dd4b5e0914e40b7d55d33fcf03b54e808a96bc6f040d3516b38dbb4b532e.json": "6ff1822483d1055515681d2cecf56afb57b60d836ddf471a350c04ec9f619db9",
+    "d77e4cc760b91108e0c7e622c21a6bafdd0267febd46d24ff139171c04534142.json": "0c1c175aded7811d6b28148ef050b4e64577f5b40e32a64795170d0292d34626"
+  },
+  "eventsHashes": {
+    "event-0225a0fe4cf082c1c3e0a307.json": "9cb0b23bd0ef575f4033393313a4d28f73abdcf92cf9bbf53816e522fa7c3ed7",
+    "event-02409bc0ced279dd56ad96e5.json": "86af78975960928c0562f524872de9fe6f38f882ef1ecb6751203d850351fdf2",
+    "event-17723bf98fabf3c063007d2c.json": "d9c6f74de02c59e4601a1cd6c45d74f2ef7c3bd7f431453fa3f0e45edb0d4209",
+    "event-4a55e550edc04f426dd1a33e.json": "a6fadae5228c628974727f64947e686482e520699b9ad2b1d66d0c72d1d8a666",
+    "event-da006c77dcaf987cfa250c6a.json": "a109b0d8cd07cd87aae997a3a02099f38a95eb15dfb25dcd730d4893b6e3c805",
+    "event-f11e6a4cb206309d53177bad.json": "1e8e4e0d4dc2a90e84a3d8d570fd49488dc694e23d56be44e3acf427e4c34cd8",
+    "event-f6648b4659336bd61828bccb.json": "da8c86b2cf2ecee156eb069331ac519e4d47854712984ea7c2500f1d69473f00"
+  }
+}

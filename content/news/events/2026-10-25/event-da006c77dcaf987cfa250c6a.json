@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-da006c77dcaf987cfa250c6a",
+  "title": "支付宝AI支付发起 PAYATHON，把 Agent 作品的真实付费纳入评选",
+  "firstSeen": "2026-10-25",
+  "editionDate": "2026-10-25",
+  "occurrences": [
+    {
+      "id": "occ-da006c77dcaf987cfa250c6a",
+      "fact": {
+        "subject": "支付宝AI支付",
+        "action": "发起",
+        "object": "PAYATHON 2026 开发者黑客松",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-25",
+      "reports": [
+        {
+          "ref": "2026-10-25/2026-10-25-alipay-payathon",
+          "itemId": "2026-10-25-alipay-payathon",
+          "editionDate": "2026-10-25",
+          "url": "https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-10-24T08:49:00.000Z",
+          "title": "支付宝AI支付发起 PAYATHON，把 Agent 作品的真实付费纳入评选"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-25"
+}

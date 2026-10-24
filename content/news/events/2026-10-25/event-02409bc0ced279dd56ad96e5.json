@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-02409bc0ced279dd56ad96e5",
+  "title": "剪映将小云雀并入即梦，AI 视频应用开始合并资源",
+  "firstSeen": "2026-10-25",
+  "editionDate": "2026-10-25",
+  "occurrences": [
+    {
+      "id": "occ-02409bc0ced279dd56ad96e5",
+      "fact": {
+        "subject": "剪映",
+        "action": "整合",
+        "object": "小云雀与即梦 AI 视频应用",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-25",
+      "reports": [
+        {
+          "ref": "2026-10-25/2026-10-25-bytedance-jimeng-xiaoyunque",
+          "itemId": "2026-10-25-bytedance-jimeng-xiaoyunque",
+          "editionDate": "2026-10-25",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&mid=2247518762&idx=1&sn=cadc73f1e69bb09e3277c4dfbb0a4a42",
+          "source": "wechat-zhinengyongxian",
+          "owner": "智能涌现",
+          "role": "observer",
+          "publishedAt": "2026-10-24T09:19:00.000Z",
+          "title": "剪映将小云雀并入即梦，AI 视频应用开始合并资源"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-25"
+}

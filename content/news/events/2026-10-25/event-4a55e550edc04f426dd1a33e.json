@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-4a55e550edc04f426dd1a33e",
+  "title": "Chips and Cheese 实测 Oryon 小核：骁龙 X2 转向大小核配置",
+  "firstSeen": "2026-10-25",
+  "editionDate": "2026-10-25",
+  "occurrences": [
+    {
+      "id": "occ-4a55e550edc04f426dd1a33e",
+      "fact": {
+        "subject": "Chips and Cheese",
+        "action": "发布实测分析",
+        "object": "Snapdragon X2 Elite Oryon 小核微架构",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-25",
+      "reports": [
+        {
+          "ref": "2026-10-25/2026-10-25-oryon-efficiency-core",
+          "itemId": "2026-10-25-oryon-efficiency-core",
+          "editionDate": "2026-10-25",
+          "url": "https://chipsandcheese.com/p/performance-oryon-qualcomms-little",
+          "source": "chips-and-cheese",
+          "owner": "Chips and Cheese",
+          "role": "observer",
+          "publishedAt": "2026-10-24T23:13:33.000Z",
+          "title": "Chips and Cheese 实测 Oryon 小核：骁龙 X2 转向大小核配置"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-25"
+}
