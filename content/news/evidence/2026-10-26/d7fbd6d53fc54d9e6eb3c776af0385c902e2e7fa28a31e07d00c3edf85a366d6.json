@@ -1,0 +1,13 @@
+{
+  "snapshotId": "d7fbd6d53fc54d9e6eb3c776af0385c902e2e7fa28a31e07d00c3edf85a366d6",
+  "url": "https://minimaxir.com/2026/10/cheap-llms/",
+  "publishedAt": "2026-10-25T14:00:00-07:00",
+  "publishedAtQuote": "2026-10-25T14:00:00-07:00",
+  "retrievedAt": "2026-10-25T23:36:07.717Z",
+  "method": "agent-tool",
+  "contentHash": "6f7c961daf298dc0ace9e14a7ae925a5dc04d4840146c189e8d6dfefa87b8b03",
+  "quotations": [
+    "Data from Vercel’s AI model gateway supporting the decreasing cost-per-token trend to 43.3% of the April 2026 cost. However, aggregate spend has been increasing because the models are getting better faster than they’re getting cheaper!",
+    "When using agents for coding, cache read costs are the vast majority (96% - 99%) of the total token expenditure as the cache is what contains the entire previous conversation each turn."
+  ]
+}

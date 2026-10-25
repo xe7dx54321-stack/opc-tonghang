@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-dcb2168f34dee9a7eb37df17",
+  "title": "Mivium披露GaN粉体参数，验证重点仍在下游工艺",
+  "firstSeen": "2026-10-26",
+  "editionDate": "2026-10-26",
+  "occurrences": [
+    {
+      "id": "occ-dcb2168f34dee9a7eb37df17",
+      "fact": {
+        "subject": "Mivium",
+        "action": "在采访中披露",
+        "object": "GaN粉体粒径与第三方表征情况",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-26",
+      "reports": [
+        {
+          "ref": "2026-10-26/2026-10-26-mivium-gan-materials",
+          "itemId": "2026-10-26-mivium-gan-materials",
+          "editionDate": "2026-10-26",
+          "url": "https://semiwiki.com/ceo-interviews/374522-ceo-interview-with-eric-tsai-of-mivium/",
+          "source": "semiwiki",
+          "owner": "Mivium",
+          "role": "principal",
+          "publishedAt": "2026-10-25T18:00:01+00:00",
+          "title": "Mivium披露GaN粉体参数，验证重点仍在下游工艺"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-26"
+}

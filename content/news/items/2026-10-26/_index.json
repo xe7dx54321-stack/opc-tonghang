@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-26",
+  "itemCount": 6,
+  "storyCount": 6,
+  "clusterCount": 6,
+  "files": [
+    "2026-10-26-llm-price-analysis.json",
+    "2026-10-26-mivium-gan-materials.json",
+    "2026-10-26-cornelis-ai-networking.json",
+    "2026-10-26-jukebox-agent-runtime.json",
+    "2026-10-26-itera-fluid-circuit-board.json",
+    "2026-10-26-raiderchip-edge-npu.json"
+  ],
+  "representatives": [
+    "2026-10-26-llm-price-analysis",
+    "2026-10-26-mivium-gan-materials",
+    "2026-10-26-cornelis-ai-networking",
+    "2026-10-26-jukebox-agent-runtime",
+    "2026-10-26-itera-fluid-circuit-board",
+    "2026-10-26-raiderchip-edge-npu"
+  ]
+}

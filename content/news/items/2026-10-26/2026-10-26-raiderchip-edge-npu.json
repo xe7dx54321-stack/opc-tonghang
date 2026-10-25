@@ -1,0 +1,67 @@
+{
+  "id": "2026-10-26-raiderchip-edge-npu",
+  "title": "Executive Interview with Victor Lopez of RaiderChip",
+  "url": "https://semiwiki.com/ceo-interviews/374846-executive-interview-with-victor-lopez-of-raiderchip/",
+  "source": "semiwiki",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "RaiderChip",
+    "Kairós",
+    "MuJoCo"
+  ],
+  "publishedAt": "2026-10-25T15:00:28+00:00",
+  "fetchedAt": "2026-10-25T15:29:52.585Z",
+  "summary": "RaiderChip CTO在10月25日SemiWiki采访中称，Kairós首代芯片仍处流片前阶段；现有FPGA原型支持50多种模型，可供保密协议下评估。其机器人演示中声学、推理与控制等十个模型据称在单个NPU原型并发运行，属公司自报演示。",
+  "investorNote": "边缘NPU需要在实际功耗、延迟和模型升级成本上验证，FPGA演示不能替代流片后性能。",
+  "score": 0.65,
+  "duplicateOf": null,
+  "clusterId": "event-7c843c069f4dc14c5eaa9d8e",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "RaiderChip首席技术官Victor Lopez",
+    "action": "在采访中披露",
+    "object": "边缘NPU的FPGA原型与流片进度",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "RaiderChip",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "6545e66a36b571d0a6f31f3c469d7962e715e69d657fcf127530152013e80c5d",
+    "originalUrl": "https://semiwiki.com/ceo-interviews/374846-executive-interview-with-victor-lopez-of-raiderchip/",
+    "originalPublishedAt": "2026-10-25T15:00:28+00:00",
+    "checkedAt": "2026-10-25T23:39:36.572Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "6545e66a36b571d0a6f31f3c469d7962e715e69d657fcf127530152013e80c5d",
+      "kind": "fact",
+      "quote": "We are currently moving towards the tape-out of Kairós, our first-generation chip."
+    },
+    {
+      "snapshotId": "6545e66a36b571d0a6f31f3c469d7962e715e69d657fcf127530152013e80c5d",
+      "kind": "fact",
+      "quote": "All ten models, including speech recognition, reasoning, and robotic control policies, are resident and execute concurrently on a single NPU, locally and in real time, without any cloud connection."
+    },
+    {
+      "snapshotId": "6545e66a36b571d0a6f31f3c469d7962e715e69d657fcf127530152013e80c5d",
+      "kind": "condition",
+      "quote": "offering demonstrations on our FPGA-based NPU prototype, which supports more than 50 models and is available for evaluation under a non-disclosure agreement."
+    }
+  ],
+  "displayTitle": "RaiderChip披露边缘NPU原型进度，首代芯片尚待流片",
+  "narrative": "RaiderChip首席技术官在10月25日采访里把进度讲得比较清楚：Kairós第一代芯片仍向流片推进，目前可供客户评估的是FPGA原型。公司称原型支持50多种模型，并在机器人仿真演示中让语音识别、四十亿参数推理模型和控制策略等十个模型在一个NPU上并发运行。机器人动力学在MuJoCo中模拟，推理硬件是原型板；这不是实体机器人量产验证，也没有流片后功耗数据。边缘芯片投资的关键比较，是把模型更新适配、推理延迟、整机功耗和软件移植工作放在同一张表里。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "RaiderChip当日采访披露边缘NPU原型和流片状态，与其他采访所述产品不同。"
+  },
+  "eventId": "event-7c843c069f4dc14c5eaa9d8e",
+  "occurrenceId": "occ-7c843c069f4dc14c5eaa9d8e",
+  "relatedItems": []
+}

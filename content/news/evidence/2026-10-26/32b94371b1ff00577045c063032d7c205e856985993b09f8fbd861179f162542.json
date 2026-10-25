@@ -1,0 +1,13 @@
+{
+  "snapshotId": "32b94371b1ff00577045c063032d7c205e856985993b09f8fbd861179f162542",
+  "url": "https://github.com/socrates6969/jukebox-os",
+  "publishedAt": "2026-10-25T16:26:57Z",
+  "publishedAtQuote": "2026-10-25T16:26:57Z",
+  "retrievedAt": "2026-10-25T23:36:07.743Z",
+  "method": "agent-tool",
+  "contentHash": "65a3aafa48fc591abd3089b8c90a1dcabfa464680863425cf5b1442f2c721056",
+  "quotations": [
+    "The Deterministic Flight-Recorder, ACID Tool Sandbox & Time-Travel Runtime for Multi-Agent Systems",
+    "Side effects only hit the real world when your verifier calls"
+  ]
+}

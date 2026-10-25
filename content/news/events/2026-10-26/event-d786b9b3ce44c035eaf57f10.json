@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-d786b9b3ce44c035eaf57f10",
+  "title": "Jukebox-OS新建开源仓库，探索Agent执行回放与事务沙箱",
+  "firstSeen": "2026-10-26",
+  "editionDate": "2026-10-26",
+  "occurrences": [
+    {
+      "id": "occ-d786b9b3ce44c035eaf57f10",
+      "fact": {
+        "subject": "Jukebox-OS项目作者",
+        "action": "创建开源仓库",
+        "object": "多Agent执行记录与事务沙箱实验项目",
+        "occurredAt": "2026-10-25T16:26:57Z"
+      },
+      "firstSeen": "2026-10-26",
+      "reports": [
+        {
+          "ref": "2026-10-26/2026-10-26-jukebox-agent-runtime",
+          "itemId": "2026-10-26-jukebox-agent-runtime",
+          "editionDate": "2026-10-26",
+          "url": "https://github.com/socrates6969/jukebox-os",
+          "source": "hacker-news",
+          "owner": "Jukebox-OS project",
+          "role": "principal",
+          "publishedAt": "2026-10-25T16:26:57Z",
+          "title": "Jukebox-OS新建开源仓库，探索Agent执行回放与事务沙箱"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-26"
+}

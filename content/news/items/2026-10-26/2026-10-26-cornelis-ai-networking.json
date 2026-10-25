@@ -1,0 +1,68 @@
+{
+  "id": "2026-10-26-cornelis-ai-networking",
+  "title": "CEO Interview with Lisa Spelman of Cornelis",
+  "url": "https://semiwiki.com/ceo-interviews/374432-ceo-interview-with-lisa-spelman-of-cornelis/",
+  "source": "semiwiki",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "Cornelis",
+    "Active Compute Fabric",
+    "UALink",
+    "Ultra Ethernet"
+  ],
+  "publishedAt": "2026-10-25T13:00:07+00:00",
+  "fetchedAt": "2026-10-25T13:27:36.651Z",
+  "summary": "Cornelis首席执行官在10月25日SemiWiki采访中称，第三代高性能网络平台正在开发，已有50多个OEM与ODM设计导入，并称其设备部署于500多个数据中心。她解释本月已公布的Active Compute Fabric方案，强调在NIC与交换机加入可编程计算。数字均为公司自述。",
+  "investorNote": "AI集群网络价值应按有效GPU利用率与客户设计导入核对，采访中的部署数字仍待外部验证。",
+  "score": 0.65,
+  "duplicateOf": null,
+  "clusterId": "event-83d154c18fedd3d82524a91a",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Cornelis首席执行官Lisa Spelman",
+    "action": "在采访中披露",
+    "object": "AI网络平台的设计导入与部署情况",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Cornelis",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "6c2b0cdd08215a8201e686782b48a247984383a1384f3fde34c2a7e117e7fbf2",
+    "originalUrl": "https://semiwiki.com/ceo-interviews/374432-ceo-interview-with-lisa-spelman-of-cornelis/",
+    "originalPublishedAt": "2026-10-25T13:00:07+00:00",
+    "checkedAt": "2026-10-25T23:36:07.742Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "6c2b0cdd08215a8201e686782b48a247984383a1384f3fde34c2a7e117e7fbf2",
+      "kind": "fact",
+      "quote": "We’re working on the third generation of our high-performance networking platform, with more than 50 OEM and ODM design wins."
+    },
+    {
+      "snapshotId": "6c2b0cdd08215a8201e686782b48a247984383a1384f3fde34c2a7e117e7fbf2",
+      "kind": "fact",
+      "quote": "We’re deployed in over 500 datacenters including new large-scale deployments at Lawrence Livermore National Lab and the Texas Advanced Computing Center."
+    },
+    {
+      "snapshotId": "6c2b0cdd08215a8201e686782b48a247984383a1384f3fde34c2a7e117e7fbf2",
+      "kind": "condition",
+      "quote": "That’s the idea behind the Active Compute Fabric™ we announced this month."
+    }
+  ],
+  "displayTitle": "Cornelis披露AI网络设计导入，强调计算与交换协同",
+  "narrative": "Cornelis首席执行官在10月25日的SemiWiki采访中称，第三代高性能网络平台已有超过50个OEM和ODM设计导入，设备部署在逾500个数据中心。她同时解释本月较早公布的Active Compute Fabric：在网卡和交换机的路径上加入可编程RISC-V核，试图减少MoE路由等通信等待。采访给出的是公司的产品定位与自报规模，并非当天新发布芯片或经审计的销售数字。值得跟的是客户侧能否测到更高的有效加速器利用率。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "Cornelis采访披露网络平台设计导入与部署情况，与Mivium材料业务无关。"
+  },
+  "eventId": "event-83d154c18fedd3d82524a91a",
+  "occurrenceId": "occ-83d154c18fedd3d82524a91a",
+  "relatedItems": []
+}

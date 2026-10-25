@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-26",
+  "window": {
+    "start": 1792884600000,
+    "end": 1792971000000
+  },
+  "digestHash": "94c36f081aba2e68f0152c31283e169eb88e21cee7866987ee17065d23d10824",
+  "stories": [
+    {
+      "heading": "模型调用价格继续下降，缓存成本成企业账单关键",
+      "itemId": "2026-10-26-llm-price-analysis",
+      "eventId": "event-e2948d7ad5951efbe91ef305",
+      "occurrenceId": "occ-e2948d7ad5951efbe91ef305"
+    },
+    {
+      "heading": "RaiderChip披露边缘NPU原型进度，首代芯片尚待流片",
+      "itemId": "2026-10-26-raiderchip-edge-npu",
+      "eventId": "event-7c843c069f4dc14c5eaa9d8e",
+      "occurrenceId": "occ-7c843c069f4dc14c5eaa9d8e"
+    },
+    {
+      "heading": "Cornelis披露AI网络设计导入，强调计算与交换协同",
+      "itemId": "2026-10-26-cornelis-ai-networking",
+      "eventId": "event-83d154c18fedd3d82524a91a",
+      "occurrenceId": "occ-83d154c18fedd3d82524a91a"
+    },
+    {
+      "heading": "Mivium披露GaN粉体参数，验证重点仍在下游工艺",
+      "itemId": "2026-10-26-mivium-gan-materials",
+      "eventId": "event-dcb2168f34dee9a7eb37df17",
+      "occurrenceId": "occ-dcb2168f34dee9a7eb37df17"
+    },
+    {
+      "heading": "Itera披露液态金属可重布线电路板，客户验证仍待观察",
+      "itemId": "2026-10-26-itera-fluid-circuit-board",
+      "eventId": "event-ca379913a86dd5ca956d7d90",
+      "occurrenceId": "occ-ca379913a86dd5ca956d7d90"
+    },
+    {
+      "heading": "Jukebox-OS新建开源仓库，探索Agent执行回放与事务沙箱",
+      "itemId": "2026-10-26-jukebox-agent-runtime",
+      "eventId": "event-d786b9b3ce44c035eaf57f10",
+      "occurrenceId": "occ-d786b9b3ce44c035eaf57f10"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-26-cornelis-ai-networking.json": "b28b5f15f17d2a17a368b87a95248bc8df5c82e2aecf15df87e3fa122771bc09",
+    "2026-10-26-itera-fluid-circuit-board.json": "b01625cdf399a984a7d6c4109e835410742ae138b96eec093dcec17440798cb3",
+    "2026-10-26-jukebox-agent-runtime.json": "87c58f33cc619d03ba7bd2cf980b717591fc22a12ffe5c8186997b1439f54d09",
+    "2026-10-26-llm-price-analysis.json": "81e575392c3fe458438a025631fc189ad9e7f40b26d11b5fb72d6ca4a0a71681",
+    "2026-10-26-mivium-gan-materials.json": "e461160660d4e6caa4ba323b556573f3d0afca787ba17d2502407803f52f75dd",
+    "2026-10-26-raiderchip-edge-npu.json": "fc1367ac4608038e78804fbed301be83058135365255db4686814cd50d8c42aa"
+  },
+  "evidenceHashes": {
+    "0733873c28bfbbcc996aff20aa25d30a81684c487eabb1eb85b48f4e0f65f902.json": "d196100268b226f6d43b4378a0cbe87e8ae4ef20fa211d3ba061ed9d8d59589c",
+    "16ee558b6edfaf8f75f26364b15b2ebceb0d80010d6202f97bfb36e1299fb90c.json": "d4814eda382ee68cbcd4faec2475b144df660fc4702cfea2684b4beab256ebc8",
+    "32b94371b1ff00577045c063032d7c205e856985993b09f8fbd861179f162542.json": "6a749aa06c1e7c4a7ebe911cae0d18e3583c16b0ff9c33dce204ae0697a69f35",
+    "6545e66a36b571d0a6f31f3c469d7962e715e69d657fcf127530152013e80c5d.json": "6241995f08d194e57b31028df388a2e47ed00f544166057fbec8f87c7a970a44",
+    "6c2b0cdd08215a8201e686782b48a247984383a1384f3fde34c2a7e117e7fbf2.json": "16c4e7067daa743817b589ee2a87bf68e0d6ed5bfeae8934f94400acc201cace",
+    "d7fbd6d53fc54d9e6eb3c776af0385c902e2e7fa28a31e07d00c3edf85a366d6.json": "1476ce7a345d16c6e34e40a7642016fc9a8f1d75a402d92b7ff6c01ad0798175"
+  },
+  "eventsHashes": {
+    "event-7c843c069f4dc14c5eaa9d8e.json": "e6214f4a1f5c88e161d773f7d7146095609811d6778d0a5d9ab2707c01a6b48e",
+    "event-83d154c18fedd3d82524a91a.json": "0d8533eb61a3d4e460e380821e0a3c4dd660f82c8936cd6f36487f144ff6bb2c",
+    "event-ca379913a86dd5ca956d7d90.json": "aa6e81d2b188e722388a7a17273e90525aead216e945d3b52cb191582790bf7d",
+    "event-d786b9b3ce44c035eaf57f10.json": "14ae7266865466f36ffd7c5921eebaf293b51a824604a661dac4d1e31a28c5b9",
+    "event-dcb2168f34dee9a7eb37df17.json": "34e15daacfd7a8cb94ac8f22f07734cee78a0e47e847b2d6de3a646d7a2412fe",
+    "event-e2948d7ad5951efbe91ef305.json": "5fb1b8b0470fe160bf1d1e13a398f5c68f4731fe56e92bada47e69f2ff2b7636"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "2026-10-26-llm-price-analysis",
+  "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+  "url": "https://minimaxir.com/2026/10/cheap-llms/",
+  "source": "hnrss-frontpage",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "Anthropic",
+    "DeepSeek",
+    "OpenRouter",
+    "Vercel"
+  ],
+  "publishedAt": "2026-10-25T14:00:00-07:00",
+  "fetchedAt": "2026-10-25T22:05:06.179Z",
+  "summary": "Max Woolf在10月25日发表价格比较，梳理数月来OpenAI、Anthropic及开放模型的价格调整。文章引用Vercel网关数据称每token成本降至2026年4月的43.3%，同时总支出仍在增长；并指出编程Agent的缓存读取可能主导账单。",
+  "investorNote": "价格下降并不等于企业AI预算下降；应同时跟踪缓存命中、任务调用量和总支出。",
+  "score": 0.76,
+  "duplicateOf": null,
+  "clusterId": "event-e2948d7ad5951efbe91ef305",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Max Woolf",
+    "action": "发布比较分析",
+    "object": "OpenAI、Anthropic与开放模型的模型调用价格",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Max Woolf",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d7fbd6d53fc54d9e6eb3c776af0385c902e2e7fa28a31e07d00c3edf85a366d6",
+    "originalUrl": "https://minimaxir.com/2026/10/cheap-llms/",
+    "originalPublishedAt": "2026-10-25T14:00:00-07:00",
+    "checkedAt": "2026-10-25T23:36:07.717Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d7fbd6d53fc54d9e6eb3c776af0385c902e2e7fa28a31e07d00c3edf85a366d6",
+      "kind": "fact",
+      "quote": "Data from Vercel’s AI model gateway supporting the decreasing cost-per-token trend to 43.3% of the April 2026 cost. However, aggregate spend has been increasing because the models are getting better faster than they’re getting cheaper!"
+    },
+    {
+      "snapshotId": "d7fbd6d53fc54d9e6eb3c776af0385c902e2e7fa28a31e07d00c3edf85a366d6",
+      "kind": "condition",
+      "quote": "When using agents for coding, cache read costs are the vast majority (96% - 99%) of the total token expenditure as the cache is what contains the entire previous conversation each turn."
+    }
+  ],
+  "displayTitle": "模型调用价格继续下降，缓存成本成企业账单关键",
+  "narrative": "Max Woolf新发表的价格比较把OpenAI、Anthropic与开放模型的降价放到同一张时间线上。文中引用Vercel网关数据称，每token成本降至4月的43.3%，但总支出仍增长；他尤其提醒编程Agent的长对话会让缓存读取占据账单大头。这是一篇当日分析，不是某家公司今天再次降价。对采购方，单看输入和输出单价会低估真实任务成本，还要核对缓存命中率与调用量。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "10月25日新发表的跨厂商价格与任务成本分析；与单一客户合同折扣不是同一次动作。"
+  },
+  "eventId": "event-e2948d7ad5951efbe91ef305",
+  "occurrenceId": "occ-e2948d7ad5951efbe91ef305",
+  "relatedItems": []
+}

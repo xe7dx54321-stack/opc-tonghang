@@ -1,0 +1,61 @@
+{
+  "id": "2026-10-26-jukebox-agent-runtime",
+  "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
+  "url": "https://github.com/socrates6969/jukebox-os",
+  "source": "hacker-news",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Jukebox-OS",
+    "Rust",
+    "Python"
+  ],
+  "publishedAt": "2026-10-25T16:26:57Z",
+  "fetchedAt": "2026-10-25T23:30:11.988Z",
+  "summary": "Jukebox-OS仓库于10月25日创建，README将项目描述为多Agent执行记录、离线回放及写入提交控制的实验性运行时。仓库材料列出文件写入、命令与工具调用拦截设计，但性能数字和生产适用性尚无独立验证。",
+  "investorNote": "Agent运行时的可回放性与副作用控制值得试验，但新仓库需看代码可用性和真实用户。",
+  "score": 0.42,
+  "duplicateOf": null,
+  "clusterId": "event-d786b9b3ce44c035eaf57f10",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Jukebox-OS项目作者",
+    "action": "创建开源仓库",
+    "object": "多Agent执行记录与事务沙箱实验项目",
+    "occurredAt": "2026-10-25T16:26:57Z"
+  },
+  "sourceIdentity": {
+    "owner": "Jukebox-OS project",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "32b94371b1ff00577045c063032d7c205e856985993b09f8fbd861179f162542",
+    "originalUrl": "https://github.com/socrates6969/jukebox-os",
+    "originalPublishedAt": "2026-10-25T16:26:57Z",
+    "checkedAt": "2026-10-25T23:36:07.743Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "32b94371b1ff00577045c063032d7c205e856985993b09f8fbd861179f162542",
+      "kind": "fact",
+      "quote": "The Deterministic Flight-Recorder, ACID Tool Sandbox & Time-Travel Runtime for Multi-Agent Systems"
+    },
+    {
+      "snapshotId": "32b94371b1ff00577045c063032d7c205e856985993b09f8fbd861179f162542",
+      "kind": "condition",
+      "quote": "Side effects only hit the real world when your verifier calls"
+    }
+  ],
+  "displayTitle": "Jukebox-OS新建开源仓库，探索Agent执行回放与事务沙箱",
+  "narrative": "10月25日新建的Jukebox-OS仓库把Agent工具调用记录、回放和副作用提交放在一个运行时中。README称文件写入、命令等先进入临时层，由验证器决定提交或回滚。这是项目作者描述的设计，仓库刚创建，尚不能根据README里的性能表推断生产环境可靠性。它指向一个实际工程痛点：多步Agent出错后，团队需要知道哪一步触发了外部副作用，并能重放排查。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当日新建的开源Agent运行时仓库，是独立于其他入选事项的新项目。"
+  },
+  "eventId": "event-d786b9b3ce44c035eaf57f10",
+  "occurrenceId": "occ-d786b9b3ce44c035eaf57f10",
+  "relatedItems": []
+}

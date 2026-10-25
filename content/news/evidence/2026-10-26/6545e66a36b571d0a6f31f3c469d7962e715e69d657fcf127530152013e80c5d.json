@@ -1,0 +1,14 @@
+{
+  "snapshotId": "6545e66a36b571d0a6f31f3c469d7962e715e69d657fcf127530152013e80c5d",
+  "url": "https://semiwiki.com/ceo-interviews/374846-executive-interview-with-victor-lopez-of-raiderchip/",
+  "publishedAt": "2026-10-25T15:00:28+00:00",
+  "publishedAtQuote": "2026-10-25T15:00:28+00:00",
+  "retrievedAt": "2026-10-25T23:39:36.572Z",
+  "method": "agent-tool",
+  "contentHash": "30d312a8deec97919c9ac29f3a1c76650c4fca71e98767aece336aec9778dfe7",
+  "quotations": [
+    "We are currently moving towards the tape-out of Kairós, our first-generation chip.",
+    "All ten models, including speech recognition, reasoning, and robotic control policies, are resident and execute concurrently on a single NPU, locally and in real time, without any cloud connection.",
+    "offering demonstrations on our FPGA-based NPU prototype, which supports more than 50 models and is available for evaluation under a non-disclosure agreement."
+  ]
+}

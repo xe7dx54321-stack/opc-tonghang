@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-83d154c18fedd3d82524a91a",
+  "title": "Cornelis披露AI网络设计导入，强调计算与交换协同",
+  "firstSeen": "2026-10-26",
+  "editionDate": "2026-10-26",
+  "occurrences": [
+    {
+      "id": "occ-83d154c18fedd3d82524a91a",
+      "fact": {
+        "subject": "Cornelis首席执行官Lisa Spelman",
+        "action": "在采访中披露",
+        "object": "AI网络平台的设计导入与部署情况",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-26",
+      "reports": [
+        {
+          "ref": "2026-10-26/2026-10-26-cornelis-ai-networking",
+          "itemId": "2026-10-26-cornelis-ai-networking",
+          "editionDate": "2026-10-26",
+          "url": "https://semiwiki.com/ceo-interviews/374432-ceo-interview-with-lisa-spelman-of-cornelis/",
+          "source": "semiwiki",
+          "owner": "Cornelis",
+          "role": "principal",
+          "publishedAt": "2026-10-25T13:00:07+00:00",
+          "title": "Cornelis披露AI网络设计导入，强调计算与交换协同"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-26"
+}

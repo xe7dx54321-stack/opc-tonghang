@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-ca379913a86dd5ca956d7d90",
+  "title": "Itera披露液态金属可重布线电路板，客户验证仍待观察",
+  "firstSeen": "2026-10-26",
+  "editionDate": "2026-10-26",
+  "occurrences": [
+    {
+      "id": "occ-ca379913a86dd5ca956d7d90",
+      "fact": {
+        "subject": "Itera首席执行官AJ Cooper",
+        "action": "在采访中披露",
+        "object": "液态金属可重布线电路板的技术与客户进度",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-26",
+      "reports": [
+        {
+          "ref": "2026-10-26/2026-10-26-itera-fluid-circuit-board",
+          "itemId": "2026-10-26-itera-fluid-circuit-board",
+          "editionDate": "2026-10-26",
+          "url": "https://semiwiki.com/ceo-interviews/374969-aj-cooper-is-the-co-founder-and-ceo-of-itera/",
+          "source": "semiwiki",
+          "owner": "Itera",
+          "role": "principal",
+          "publishedAt": "2026-10-25T16:00:53+00:00",
+          "title": "Itera披露液态金属可重布线电路板，客户验证仍待观察"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-26"
+}

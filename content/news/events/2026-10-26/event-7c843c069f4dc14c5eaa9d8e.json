@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-7c843c069f4dc14c5eaa9d8e",
+  "title": "RaiderChip披露边缘NPU原型进度，首代芯片尚待流片",
+  "firstSeen": "2026-10-26",
+  "editionDate": "2026-10-26",
+  "occurrences": [
+    {
+      "id": "occ-7c843c069f4dc14c5eaa9d8e",
+      "fact": {
+        "subject": "RaiderChip首席技术官Victor Lopez",
+        "action": "在采访中披露",
+        "object": "边缘NPU的FPGA原型与流片进度",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-26",
+      "reports": [
+        {
+          "ref": "2026-10-26/2026-10-26-raiderchip-edge-npu",
+          "itemId": "2026-10-26-raiderchip-edge-npu",
+          "editionDate": "2026-10-26",
+          "url": "https://semiwiki.com/ceo-interviews/374846-executive-interview-with-victor-lopez-of-raiderchip/",
+          "source": "semiwiki",
+          "owner": "RaiderChip",
+          "role": "principal",
+          "publishedAt": "2026-10-25T15:00:28+00:00",
+          "title": "RaiderChip披露边缘NPU原型进度，首代芯片尚待流片"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-26"
+}

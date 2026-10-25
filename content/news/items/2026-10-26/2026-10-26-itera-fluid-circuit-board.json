@@ -1,0 +1,59 @@
+{
+  "id": "2026-10-26-itera-fluid-circuit-board",
+  "title": "AJ Cooper is the Co-Founder and CEO of Itera",
+  "url": "https://semiwiki.com/ceo-interviews/374969-aj-cooper-is-the-co-founder-and-ceo-of-itera/",
+  "source": "semiwiki",
+  "sourceTier": 2,
+  "topic": [
+    "other"
+  ],
+  "entities": [
+    "Itera"
+  ],
+  "publishedAt": "2026-10-25T16:00:53+00:00",
+  "fetchedAt": "2026-10-25T16:31:24.642Z",
+  "summary": "Itera首席执行官在10月25日SemiWiki采访中介绍液态金属玻璃基板电路板，称电润湿技术可在一分钟内重绘连接，并称一家全球前五汽车OEM及国防客户预留产能。技术参数和客户进度均为公司采访口径，未取得客户独立确认。",
+  "investorNote": "若可在真实器件上快速更改互连，硬件原型周转将改变；应验证信号完整性、成本与客户实际订单。",
+  "score": 0.63,
+  "duplicateOf": null,
+  "clusterId": "event-ca379913a86dd5ca956d7d90",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Itera首席执行官AJ Cooper",
+    "action": "在采访中披露",
+    "object": "液态金属可重布线电路板的技术与客户进度",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Itera",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "0733873c28bfbbcc996aff20aa25d30a81684c487eabb1eb85b48f4e0f65f902",
+    "originalUrl": "https://semiwiki.com/ceo-interviews/374969-aj-cooper-is-the-co-founder-and-ceo-of-itera/",
+    "originalPublishedAt": "2026-10-25T16:00:53+00:00",
+    "checkedAt": "2026-10-25T23:39:36.548Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "0733873c28bfbbcc996aff20aa25d30a81684c487eabb1eb85b48f4e0f65f902",
+      "kind": "fact",
+      "quote": "Compared to a traditional PCB with etched copper, the fluid board uses liquid metal on glass substrates. Electrowetting is used so the traces can be redrawn to match a new design in under a minute."
+    },
+    {
+      "snapshotId": "0733873c28bfbbcc996aff20aa25d30a81684c487eabb1eb85b48f4e0f65f902",
+      "kind": "condition",
+      "quote": "Today, a top 5 global auto OEM and defense neoprimes have reserved our production capacity."
+    }
+  ],
+  "displayTitle": "Itera披露液态金属可重布线电路板，客户验证仍待观察",
+  "narrative": "Itera首席执行官在新采访中介绍一种液态金属玻璃基板电路板：用电润湿重绘连接，按公司说法可在一分钟内改线，让工程师用真实元件而非纯仿真验证设计。公司还称一家全球前五汽车厂商及国防客户预留产能。两项说法均来自受访公司，不能把预留产能写成已交付订单。这里值得检验的是重新布线后信号完整性、可重复性和远程测试成本；如果这些指标成立，硬件原型从数周制板转向更快的真实电路试验才有商业意义。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "Itera当日采访披露可重布线PCB技术和客户验证线索，是独立硬件事项。"
+  },
+  "eventId": "event-ca379913a86dd5ca956d7d90",
+  "occurrenceId": "occ-ca379913a86dd5ca956d7d90",
+  "relatedItems": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2026-10-26-mivium-gan-materials",
+  "title": "CEO Interview with Eric Tsai of Mivium",
+  "url": "https://semiwiki.com/ceo-interviews/374522-ceo-interview-with-eric-tsai-of-mivium/",
+  "source": "semiwiki",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Mivium",
+    "GaN"
+  ],
+  "publishedAt": "2026-10-25T18:00:01+00:00",
+  "fetchedAt": "2026-10-25T18:02:39.834Z",
+  "summary": "Mivium首席执行官在10月25日SemiWiki采访中称，公司已生产300至500纳米、纤锌矿相氮化镓粉体，并称有第三方SEM、EDS、XRD等表征。公司明确表示当前可讨论的产品是粉体，下游薄膜仍处研发阶段。",
+  "investorNote": "粉体表征只是起点，晶体生长和外延客户的批间一致性测试才决定商业化位置。",
+  "score": 0.62,
+  "duplicateOf": null,
+  "clusterId": "event-dcb2168f34dee9a7eb37df17",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Mivium",
+    "action": "在采访中披露",
+    "object": "GaN粉体粒径与第三方表征情况",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Mivium",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "16ee558b6edfaf8f75f26364b15b2ebceb0d80010d6202f97bfb36e1299fb90c",
+    "originalUrl": "https://semiwiki.com/ceo-interviews/374522-ceo-interview-with-eric-tsai-of-mivium/",
+    "originalPublishedAt": "2026-10-25T18:00:01+00:00",
+    "checkedAt": "2026-10-25T23:36:07.736Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "16ee558b6edfaf8f75f26364b15b2ebceb0d80010d6202f97bfb36e1299fb90c",
+      "kind": "fact",
+      "quote": "Our announced material is phase-pure hexagonal wurtzite GaN in a 300 to 500 nanometer range, with uniform distribution and faceted morphology. Independent third-party characterization using SEM, EDS, XRD, XPS, GDMS and ICP-MS confirms it."
+    },
+    {
+      "snapshotId": "16ee558b6edfaf8f75f26364b15b2ebceb0d80010d6202f97bfb36e1299fb90c",
+      "kind": "condition",
+      "quote": "Powder is the product we can talk about today. Everything downstream is R&D."
+    }
+  ],
+  "displayTitle": "Mivium披露GaN粉体参数，验证重点仍在下游工艺",
+  "narrative": "SemiWiki在10月25日刊出的采访中，Mivium首席执行官披露其氮化镓粉体粒径为300至500纳米，并称已做SEM、XRD等第三方表征。这里的证据来自公司在采访中的陈述，不能把“有表征”写成“已获客户量产认证”。Mivium自己也把现阶段产品限定为粉体，薄膜仍属研发。对上游材料投资，核心问题是批次一致性与下游晶体生长、薄膜工艺的适配，而非单次粒径数据。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "Mivium在当日采访中披露其GaN粉体技术参数；与其他半导体企业采访并非同一事项。"
+  },
+  "eventId": "event-dcb2168f34dee9a7eb37df17",
+  "occurrenceId": "occ-dcb2168f34dee9a7eb37df17",
+  "relatedItems": []
+}

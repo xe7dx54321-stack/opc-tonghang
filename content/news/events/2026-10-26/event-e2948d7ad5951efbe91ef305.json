@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-e2948d7ad5951efbe91ef305",
+  "title": "模型调用价格继续下降，缓存成本成企业账单关键",
+  "firstSeen": "2026-10-26",
+  "editionDate": "2026-10-26",
+  "occurrences": [
+    {
+      "id": "occ-e2948d7ad5951efbe91ef305",
+      "fact": {
+        "subject": "Max Woolf",
+        "action": "发布比较分析",
+        "object": "OpenAI、Anthropic与开放模型的模型调用价格",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-26",
+      "reports": [
+        {
+          "ref": "2026-10-26/2026-10-26-llm-price-analysis",
+          "itemId": "2026-10-26-llm-price-analysis",
+          "editionDate": "2026-10-26",
+          "url": "https://minimaxir.com/2026/10/cheap-llms/",
+          "source": "hnrss-frontpage",
+          "owner": "Max Woolf",
+          "role": "observer",
+          "publishedAt": "2026-10-25T14:00:00-07:00",
+          "title": "模型调用价格继续下降，缓存成本成企业账单关键"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-26"
+}
