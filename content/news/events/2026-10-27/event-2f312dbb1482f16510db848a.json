@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-2f312dbb1482f16510db848a",
+  "title": "趋境科技完成超13亿元B轮，押注推理服务规模化",
+  "firstSeen": "2026-10-27",
+  "editionDate": "2026-10-27",
+  "occurrences": [
+    {
+      "id": "occ-2f312dbb1482f16510db848a",
+      "fact": {
+        "subject": "趋境科技",
+        "action": "完成",
+        "object": "超过13亿元B轮融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-27",
+      "reports": [
+        {
+          "ref": "2026-10-27/2026-10-27-approaching-series-b",
+          "itemId": "2026-10-27-approaching-series-b",
+          "editionDate": "2026-10-27",
+          "url": "https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-10-26T02:37:00.000Z",
+          "title": "趋境科技完成超13亿元B轮，押注推理服务规模化"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-27"
+}

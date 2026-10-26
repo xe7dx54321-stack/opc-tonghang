@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-77304c7d4f6f1953a3030212",
+  "title": "Anthropic公开提交IPO招股书，收入增长与算力义务同时曝光",
+  "firstSeen": "2026-10-27",
+  "editionDate": "2026-10-27",
+  "occurrences": [
+    {
+      "id": "occ-77304c7d4f6f1953a3030212",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "公开申报",
+        "object": "拟议IPO的S-1招股书",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-27",
+      "reports": [
+        {
+          "ref": "2026-10-27/2026-10-27-anthropic-ipo-filing",
+          "itemId": "2026-10-27-anthropic-ipo-filing",
+          "editionDate": "2026-10-27",
+          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-26T14:35:22.000Z",
+          "title": "Anthropic公开提交IPO招股书，收入增长与算力义务同时曝光"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-27"
+}

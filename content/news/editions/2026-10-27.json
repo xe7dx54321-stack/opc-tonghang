@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-27",
+  "window": {
+    "start": 1792971000000,
+    "end": 1793057400000
+  },
+  "digestHash": "338d3ce890b1807181f1abc73c3e654fc874102ffaea8fc3ec7e1231b74feaeb",
+  "stories": [
+    {
+      "heading": "Anthropic公开提交IPO招股书，收入增长与算力义务同时曝光",
+      "itemId": "2026-10-27-anthropic-ipo-filing",
+      "eventId": "event-77304c7d4f6f1953a3030212",
+      "occurrenceId": "occ-77304c7d4f6f1953a3030212"
+    },
+    {
+      "heading": "SpaceX披露约400亿美元GPU租赁融资承诺",
+      "itemId": "2026-10-27-spacex-apollo-gpu",
+      "eventId": "event-6a57209388fdf360e1e91bc0",
+      "occurrenceId": "occ-6a57209388fdf360e1e91bc0"
+    },
+    {
+      "heading": "OpenAI发布GPT-6.1 Terra，API价格较前代减半",
+      "itemId": "2026-10-27-gpt-61-terra",
+      "eventId": "event-7841f097d438f218ab0cf617",
+      "occurrenceId": "occ-7841f097d438f218ab0cf617"
+    },
+    {
+      "heading": "Cadence公布Maestro专用模型，芯片设计Agent先向少数客户开放",
+      "itemId": "2026-10-27-cadence-maestro",
+      "eventId": "event-1e5de1b2f4d694092e26236a",
+      "occurrenceId": "occ-1e5de1b2f4d694092e26236a"
+    },
+    {
+      "heading": "美光披露下一代DRAM路线：晶圆键合后引入High-NA EUV",
+      "itemId": "2026-10-27-micron-dram-roadmap",
+      "eventId": "event-486503b91dd65062173a8349",
+      "occurrenceId": "occ-486503b91dd65062173a8349"
+    },
+    {
+      "heading": "Bedrock Robotics获6亿美元C轮，自动挖掘机进入工地运营",
+      "itemId": "2026-10-27-bedrock-series-c",
+      "eventId": "event-81d1896e2420dd5374b5bacd",
+      "occurrenceId": "occ-81d1896e2420dd5374b5bacd"
+    },
+    {
+      "heading": "Agility与GXO扩大Digit仓库部署，新增站点仍待落地",
+      "itemId": "2026-10-27-agility-gxo-digit",
+      "eventId": "event-fc4848de5bfc8108d411289d",
+      "occurrenceId": "occ-fc4848de5bfc8108d411289d"
+    },
+    {
+      "heading": "趋境科技完成超13亿元B轮，押注推理服务规模化",
+      "itemId": "2026-10-27-approaching-series-b",
+      "eventId": "event-2f312dbb1482f16510db848a",
+      "occurrenceId": "occ-2f312dbb1482f16510db848a"
+    },
+    {
+      "heading": "Cloudflare披露已修复的GLM-5.3跨租户缓存暴露",
+      "itemId": "2026-10-27-cloudflare-kv-disclosure",
+      "eventId": "event-01542b658e4637062c10042e",
+      "occurrenceId": "occ-01542b658e4637062c10042e"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-27-agility-gxo-digit.json": "94ac66e83dcc152dd120dcf4038d1d7d33d3e7d0cf66f872e9fe8ff7b2751615",
+    "2026-10-27-anthropic-ipo-filing.json": "25fdab619b98d1c0c05582b298a4a200b64dad608bc0b4302b5437d58e49691b",
+    "2026-10-27-approaching-series-b.json": "335ee3e9f8b6b08c9625fe1309cc84a11b0097762fe9f53e49442c94c4019e8c",
+    "2026-10-27-bedrock-series-c.json": "c9e6c7a9d3f3fa814a5d589a19f26adcbabe95396b1d0b5093c1b03851644930",
+    "2026-10-27-cadence-maestro.json": "798ac52135a2b1bd033377420b8a26fefddcb2f46b7ca9f08b3182c14f3ef9cb",
+    "2026-10-27-cloudflare-kv-disclosure.json": "a90fc44113c0a990f5780ded862ffc819dc57d2ab74a3bf256f6e94d3412527d",
+    "2026-10-27-gpt-61-terra.json": "2c6bd0728b9957b27ab6bec0779c8bd26b74508e254d6b13239dd37c580dba23",
+    "2026-10-27-micron-dram-roadmap.json": "59db67982c321c3ff0adcbd8e4595a2cc33417205c3398f934e65d48ed5d1d06",
+    "2026-10-27-spacex-apollo-gpu.json": "96204815024e4c40c566648ce30804ca93bf32c4d42c10303a872a6225ed949e"
+  },
+  "evidenceHashes": {
+    "1fe6ddccab805bff81ef43529dc2930888d87b4f6bc0320392ac508b9bea94c8.json": "9ab4c03c212d3cecdb4e8a99a9febd590659c84d074ca4ef6a52b362277ef818",
+    "59b195f1de35f0b7afdeef4914d3aaff73df99ccaf1ba318e6df6b79cedfe077.json": "12777ad9df9c2eee573a6e470784b05c19c4443c2eb69a6445f5f5e2ad787eb6",
+    "5afae70e00af816ce481257f8cc9adfbc5c324675694b2d16e81ee7e7e1a21ab.json": "9b319286642684a6286730a0e3c9018f69e872e5f9c389c74f2b24dcc260e334",
+    "987519928d80fc3fcda38acfabd1cbe2726ee86c1a957377128fdb9c360af2fa.json": "9c83f787c38eac22f62d68c71e5fca3552a236a1febf9294ecc70a7e59c323ef",
+    "b7ac708c37a9dbe8036c4038b4dc61fc8619036c19be373f24a288b41ccc2a4c.json": "701e134239c283cf008ab9c71f53529c10686e3e7ae9b0157bd967ea730e180d",
+    "ba4ab5983023ddfcd7a64c43c799a91250d8c5d898288ec74fab554d6dc8e47e.json": "207c3e46e362d77d2d5e2a1388a3aaedaf76760243434f33b45d44967cb0bb5f",
+    "db1bb0cb880a328fe1536dc4c425e9f157c46c7d3812d385a8c0ad0545b3d389.json": "7cbfd2abeedd487a5c29ad274d7e0b89738bdda2e24b82a9ba02be92ec850619",
+    "e50dda105b1aec95db3fb0d026ad8290fde3eff76e5bca46e4738ada07d176df.json": "0422f9d1e71ab62e9c11544fb9f58b7c045e173640ac873c54710be210ad2410",
+    "fee507e357ba8131fc10380fcd4848ecf1beb6e5048e3d01b7207191dd4a35ff.json": "ebe0d84a458f94b6a49aefb84ebf9a38226bf6c43111b477e792f050459be16e"
+  },
+  "eventsHashes": {
+    "event-01542b658e4637062c10042e.json": "1ef93b195425441c8b126d8d4fe7f78afd756a3d235fac04280c29bac047d457",
+    "event-1e5de1b2f4d694092e26236a.json": "5dfaecc6c20e845de69a8feb976cf64c9a70dfa0e0568d7147c8842b6fcfff57",
+    "event-2f312dbb1482f16510db848a.json": "b0638afea27dc7b37788279333abc3e22d2c8a92f2e882fbebb54d4f602a678f",
+    "event-486503b91dd65062173a8349.json": "c8a07f7955668c8156d28c65171ab186b183ee3daa8b6b0cc819d1a0bcfe2193",
+    "event-6a57209388fdf360e1e91bc0.json": "c02ffd1ccd6f303f0f1bb244a1cfede77c26865b0343a528f8666dabdc27f949",
+    "event-77304c7d4f6f1953a3030212.json": "f5f9017773055f8ba8bd432bedd157fc09f2fc2e3de4b5a402340484acd56bed",
+    "event-7841f097d438f218ab0cf617.json": "940219c6073354ce6673973e6286628e53979cfd44fb69c26d324067a629cc8f",
+    "event-81d1896e2420dd5374b5bacd.json": "ec94edea05d09d3757c6711a5ecab16de1672feb2dcca60e8747fe6977fa4d13",
+    "event-fc4848de5bfc8108d411289d.json": "8a0ad34c319ea853c62cb7292d4a44211bd0ee6e57848b6ce623bfdd771656ea"
+  }
+}

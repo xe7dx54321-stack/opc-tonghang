@@ -1,0 +1,13 @@
+{
+  "snapshotId": "5afae70e00af816ce481257f8cc9adfbc5c324675694b2d16e81ee7e7e1a21ab",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
+  "publishedAt": "2026-10-26T13:20:00.000Z",
+  "publishedAtQuote": "2026-10-26T13:20:00Z",
+  "retrievedAt": "2026-10-26T23:32:40.127Z",
+  "method": "agent-tool",
+  "contentHash": "a228ac99175dea697018b79b9149b8e99ebb59a798a2630e52c673816066fae2",
+  "quotations": [
+    "Cadence, one of the largest electronic design automation (EDA) companies, has unveiled Maestro, its new portfolio of domain-specialized AI models tailored for its chip design agents, in",
+    "One constant that keeps popping up with agentic EDA is the need to nail down what the numbers actually measure. "
+  ]
+}

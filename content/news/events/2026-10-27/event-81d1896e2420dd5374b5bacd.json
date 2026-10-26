@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-81d1896e2420dd5374b5bacd",
+  "title": "Bedrock Robotics获6亿美元C轮，自动挖掘机进入工地运营",
+  "firstSeen": "2026-10-27",
+  "editionDate": "2026-10-27",
+  "occurrences": [
+    {
+      "id": "occ-81d1896e2420dd5374b5bacd",
+      "fact": {
+        "subject": "Bedrock Robotics",
+        "action": "完成",
+        "object": "6亿美元C轮融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-27",
+      "reports": [
+        {
+          "ref": "2026-10-27/2026-10-27-bedrock-series-c",
+          "itemId": "2026-10-27-bedrock-series-c",
+          "editionDate": "2026-10-27",
+          "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-26T17:45:00.000Z",
+          "title": "Bedrock Robotics获6亿美元C轮，自动挖掘机进入工地运营"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-27"
+}

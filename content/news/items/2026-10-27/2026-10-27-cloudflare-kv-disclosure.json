@@ -1,0 +1,61 @@
+{
+  "source": "hnrss-frontpage",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-26T22:56:35.537Z",
+  "id": "2026-10-27-cloudflare-kv-disclosure",
+  "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+  "displayTitle": "Cloudflare披露已修复的GLM-5.3跨租户缓存暴露",
+  "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+  "publishedAt": "2026-10-26T22:01:23.889Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Cloudflare",
+    "SGLang",
+    "GLM-5.3"
+  ],
+  "summary": "Cloudflare10月26日公开技术报告：8月27日至9月9日期间，其Workers AI的GLM-5.3因配置不匹配叠加SGLang问题，155个响应包含其他客户请求数据；服务已于9月9日修复恢复，未发现其他模型受影响。",
+  "investorNote": "这次公开的是旧事件的技术复盘，说明长上下文推理的KV缓存隔离要成为基础设施尽调项。",
+  "narrative": "Cloudflare今天公开一份已修复事故的技术复盘：8月27日至9月9日，Workers AI上的GLM-5.3在超长输入下出现跨请求KV缓存暴露，公司确认155个响应受影响。问题来自缓存容量配置与SGLang处理超长请求的缺陷叠加；模型已在9月9日恢复服务。它不是今天新发生的数据泄露。对模型托管服务，值得检查的是缓存页释放、跨节点传输和超长请求边界能否被系统性测试，而不只是模型本身的安全评测。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "event-01542b658e4637062c10042e",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Cloudflare",
+    "action": "披露修复报告",
+    "object": "GLM-5.3 Workers AI跨请求KV缓存暴露",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Cloudflare",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "b7ac708c37a9dbe8036c4038b4dc61fc8619036c19be373f24a288b41ccc2a4c",
+    "originalUrl": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "originalPublishedAt": "2026-10-26T22:01:23.889Z",
+    "checkedAt": "2026-10-26T23:32:40.156Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "b7ac708c37a9dbe8036c4038b4dc61fc8619036c19be373f24a288b41ccc2a4c",
+      "kind": "fact",
+      "quote": "Today we are publishing this report alongside a post fromÂ SGLang, the open-source inference engine that we use, as a coordinated disclosure.Â This post describes the bug that caused this issue, our response timeline, and the subsequent hardening we have conducted on our production SGLang deployments. We also detail our continued efforts with the upstream maintainers of SGLang to address this and similar bugs."
+    },
+    {
+      "snapshotId": "b7ac708c37a9dbe8036c4038b4dc61fc8619036c19be373f24a288b41ccc2a4c",
+      "kind": "condition",
+      "quote": "Between August 27 and September 9, a small number of customers using the GLM 5.3 Workers AI model received responses that contained data from other customers' requests made to the same model shortly before theirs. In total, 155 responses were affected, all to prompts longer than 681,280 tokens."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对为本窗口内的独立发布或披露；近两周事件目录未见同一次动作"
+  },
+  "eventId": "event-01542b658e4637062c10042e",
+  "occurrenceId": "occ-01542b658e4637062c10042e",
+  "relatedItems": []
+}

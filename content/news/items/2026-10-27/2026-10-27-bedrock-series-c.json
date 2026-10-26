@@ -1,0 +1,59 @@
+{
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-26T17:53:03.114Z",
+  "id": "2026-10-27-bedrock-series-c",
+  "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+  "displayTitle": "Bedrock Robotics获6亿美元C轮，自动挖掘机进入工地运营",
+  "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+  "publishedAt": "2026-10-26T17:45:00.000Z",
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Bedrock Robotics"
+  ],
+  "summary": "TechCrunch报道，Bedrock Robotics完成6亿美元C轮融资，估值41亿美元，由CapitalG和Emergence Capital共同领投。其改装套件已在内华达和得州工地商业运营，但规模、利用率仍待观察。",
+  "investorNote": "重型设备自动化从试点进入实际工地是重要信号，规模化回报取决于项目周期和安全责任。",
+  "narrative": "Bedrock Robotics完成6亿美元C轮，报道估值41亿美元。公司的自动驾驶改装套件已装到挖掘机上，在内华达水处理工程和得州土方项目商业运营；这比单纯展示机器人视频更接近可收费的场景。融资规模反映资本对施工劳动力缺口的押注，不过工地差异、设备停机率和安全责任尚无法从融资新闻里判断。",
+  "score": 0.86,
+  "duplicateOf": null,
+  "clusterId": "event-81d1896e2420dd5374b5bacd",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Bedrock Robotics",
+    "action": "完成",
+    "object": "6亿美元C轮融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e50dda105b1aec95db3fb0d026ad8290fde3eff76e5bca46e4738ada07d176df",
+    "originalUrl": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+    "originalPublishedAt": "2026-10-26T17:45:00.000Z",
+    "checkedAt": "2026-10-26T23:32:40.007Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e50dda105b1aec95db3fb0d026ad8290fde3eff76e5bca46e4738ada07d176df",
+      "kind": "fact",
+      "quote": "Bedrock Robotics has raised $600 million in a funding round that values the autonomous vehicle technology startup at $4.1 billion, marking a speedy ascent for the two-year-old company."
+    },
+    {
+      "snapshotId": "e50dda105b1aec95db3fb0d026ad8290fde3eff76e5bca46e4738ada07d176df",
+      "kind": "condition",
+      "quote": "Bedrock Robotics has developed a self-driving kit that can be retrofitted onto construction and other worksite vehicles. Excavators outfitted with Bedrock’s autonomous-driving tech are now commercially operating at a Nevada-based water treatment facility, an earthwork site run by Champion Site Prep in Texas"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对为本窗口内的独立发布或披露；近两周事件目录未见同一次动作"
+  },
+  "eventId": "event-81d1896e2420dd5374b5bacd",
+  "occurrenceId": "occ-81d1896e2420dd5374b5bacd",
+  "relatedItems": []
+}

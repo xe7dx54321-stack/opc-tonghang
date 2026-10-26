@@ -1,0 +1,62 @@
+{
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-26T16:51:40.135Z",
+  "id": "2026-10-27-spacex-apollo-gpu",
+  "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+  "displayTitle": "SpaceX披露约400亿美元GPU租赁融资承诺",
+  "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+  "publishedAt": "2026-10-26T16:46:36.000Z",
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "SpaceX",
+    "Apollo",
+    "NVIDIA"
+  ],
+  "summary": "TechCrunch依据监管文件报道，SpaceX达成约400亿美元AI芯片及数据中心设备融资承诺。Apollo管理的实体将购入设备并租给SpaceX，租期约五至五年零三个月，交易仍有交割条件，设备预计2027年上半年开始交付。",
+  "investorNote": "大规模芯片投资正在转向资产租赁和融资结构，需区分融资承诺与已到货算力。",
+  "narrative": "SpaceX披露约400亿美元的芯片和数据中心设备融资承诺：Apollo管理的实体买入硬件，再向SpaceX出租。租期从各批设备交付起约五年至五年零三个月，交易预期年底前完成，仍受交割条件约束；租赁预计2027年上半年随设备到货启动。这里的关键变化是算力扩建获得新的融资路径，但承诺额度不能直接换算成今天已部署的GPU或实际收入。",
+  "score": 0.88,
+  "duplicateOf": null,
+  "clusterId": "event-6a57209388fdf360e1e91bc0",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "SpaceX",
+    "action": "披露融资承诺",
+    "object": "约400亿美元GPU及数据中心设备租赁融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "1fe6ddccab805bff81ef43529dc2930888d87b4f6bc0320392ac508b9bea94c8",
+    "originalUrl": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "originalPublishedAt": "2026-10-26T16:46:36.000Z",
+    "checkedAt": "2026-10-26T23:32:39.941Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "1fe6ddccab805bff81ef43529dc2930888d87b4f6bc0320392ac508b9bea94c8",
+      "kind": "fact",
+      "quote": "SpaceX has reached a binding commitment for roughly $40 billion in financing for AI chips and related data center equipment, the company"
+    },
+    {
+      "snapshotId": "1fe6ddccab805bff81ef43529dc2930888d87b4f6bc0320392ac508b9bea94c8",
+      "kind": "condition",
+      "quote": "SpaceX expects the deal to close by year-end, subject to closing conditions, with leases starting in the first half of 2027 as the GPUs and related equipment arrive."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对为本窗口内的独立发布或披露；近两周事件目录未见同一次动作"
+  },
+  "eventId": "event-6a57209388fdf360e1e91bc0",
+  "occurrenceId": "occ-6a57209388fdf360e1e91bc0",
+  "relatedItems": []
+}

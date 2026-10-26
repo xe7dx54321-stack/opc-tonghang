@@ -1,0 +1,13 @@
+{
+  "snapshotId": "db1bb0cb880a328fe1536dc4c425e9f157c46c7d3812d385a8c0ad0545b3d389",
+  "url": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+  "publishedAt": "2026-10-26T20:30:55.000Z",
+  "publishedAtQuote": "2026-10-26T20:30:55+00:00",
+  "retrievedAt": "2026-10-26T23:32:40.039Z",
+  "method": "agent-tool",
+  "contentHash": "ed6cc6dfa7839b99f0ce0218796f8e30f6f3ee9a769947b260bde2b27e9e47ea",
+  "quotations": [
+    "OpenAI has released GPT-6.1 Terra, a model it says pushes the cost-to-performance boundary further than any of its predecessors. API prices are half those of GPT-5.6 Terra.",
+    "Terra is OpenAI's closest competitor to Anthropic's mid-tier Sonnet series at half the price. Input tokens cost $1 per million, output tokens $5, compared to $2 and $10 for Claude Sonnet 5.5 and $2 and $12 for GPT-5.6 Terra. Cached inputs drop to just $0.05 per million tokens, a quarter of the previous rate."
+  ]
+}

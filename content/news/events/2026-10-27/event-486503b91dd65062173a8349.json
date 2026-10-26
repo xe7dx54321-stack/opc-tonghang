@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-486503b91dd65062173a8349",
+  "title": "美光披露下一代DRAM路线：晶圆键合后引入High-NA EUV",
+  "firstSeen": "2026-10-27",
+  "editionDate": "2026-10-27",
+  "occurrences": [
+    {
+      "id": "occ-486503b91dd65062173a8349",
+      "fact": {
+        "subject": "Micron",
+        "action": "披露路线",
+        "object": "DRAM晶圆键合与High-NA EUV路线",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-27",
+      "reports": [
+        {
+          "ref": "2026-10-27/2026-10-27-micron-dram-roadmap",
+          "itemId": "2026-10-27-micron-dram-roadmap",
+          "editionDate": "2026-10-27",
+          "url": "https://www.tomshardware.com/pc-components/dram/micron-plans-to-use-wafer-bonding-and-high-na-euv-for-next-gen-dram-company-also-developing-vertical-high-bandwidth-memory-and-vertical-edge-inference-memory-integrated-directly-on-top-of-processors",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-10-26T14:00:00.000Z",
+          "title": "美光披露下一代DRAM路线：晶圆键合后引入High-NA EUV"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-27"
+}

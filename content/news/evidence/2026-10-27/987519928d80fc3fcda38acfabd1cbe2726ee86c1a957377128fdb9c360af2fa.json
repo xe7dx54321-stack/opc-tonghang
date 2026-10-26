@@ -1,0 +1,13 @@
+{
+  "snapshotId": "987519928d80fc3fcda38acfabd1cbe2726ee86c1a957377128fdb9c360af2fa",
+  "url": "https://www.tomshardware.com/pc-components/dram/micron-plans-to-use-wafer-bonding-and-high-na-euv-for-next-gen-dram-company-also-developing-vertical-high-bandwidth-memory-and-vertical-edge-inference-memory-integrated-directly-on-top-of-processors",
+  "publishedAt": "2026-10-26T14:00:00.000Z",
+  "publishedAtQuote": "2026-10-26T14:00:00Z",
+  "retrievedAt": "2026-10-26T23:32:40.097Z",
+  "method": "agent-tool",
+  "contentHash": "0bd187d3b8478ae0141e7dc42bcf1346682bf3edf5644a3387bb14f4ca354f07",
+  "quotations": [
+    "Micron's current 1γ DRAM process is already in high-volume manufacturing, whereas its successor, 1δ, is scheduled to enter volume production in the second half of 2027. The latter promises a mid-20% increase in bit density and is optimized for future AI memory products, including HBM5, vHBM, and vEIM. Beyond 1δ, Micron plans to introduce wafer bonding with its 1ε process, which is currently under development. However, the company has not disclosed how it intends to implement wafer bonding or what improvements it expects from the technology.",
+    "Micron is also developing 3D DRAM technologies and lists two generations — 3D1 and 3D2 — in its roadmap already. However, the company has not disclosed its architectures or launch schedules, as it intends to introduce 3D DRAM only when the technology offers sufficient advantages in manufacturing costs, complexity, and performance over conventional planar DRAM."
+  ]
+}

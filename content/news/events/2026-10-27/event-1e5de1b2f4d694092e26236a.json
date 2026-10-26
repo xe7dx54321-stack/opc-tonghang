@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-1e5de1b2f4d694092e26236a",
+  "title": "Cadence公布Maestro专用模型，芯片设计Agent先向少数客户开放",
+  "firstSeen": "2026-10-27",
+  "editionDate": "2026-10-27",
+  "occurrences": [
+    {
+      "id": "occ-1e5de1b2f4d694092e26236a",
+      "fact": {
+        "subject": "Cadence",
+        "action": "公布",
+        "object": "Maestro芯片设计专用模型系列",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-27",
+      "reports": [
+        {
+          "ref": "2026-10-27/2026-10-27-cadence-maestro",
+          "itemId": "2026-10-27-cadence-maestro",
+          "editionDate": "2026-10-27",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-10-26T13:20:00.000Z",
+          "title": "Cadence公布Maestro专用模型，芯片设计Agent先向少数客户开放"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-27"
+}

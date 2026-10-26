@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-7841f097d438f218ab0cf617",
+  "title": "OpenAI发布GPT-6.1 Terra，API价格较前代减半",
+  "firstSeen": "2026-10-27",
+  "editionDate": "2026-10-27",
+  "occurrences": [
+    {
+      "id": "occ-7841f097d438f218ab0cf617",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "发布",
+        "object": "GPT-6.1 Terra",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-27",
+      "reports": [
+        {
+          "ref": "2026-10-27/2026-10-27-gpt-61-terra",
+          "itemId": "2026-10-27-gpt-61-terra",
+          "editionDate": "2026-10-27",
+          "url": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-10-26T20:30:55.000Z",
+          "title": "OpenAI发布GPT-6.1 Terra，API价格较前代减半"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-27"
+}

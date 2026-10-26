@@ -1,0 +1,13 @@
+{
+  "snapshotId": "b7ac708c37a9dbe8036c4038b4dc61fc8619036c19be373f24a288b41ccc2a4c",
+  "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+  "publishedAt": "2026-10-26T22:01:23.889Z",
+  "publishedAtQuote": "2026-10-26T22:01:23.889Z",
+  "retrievedAt": "2026-10-26T23:32:40.156Z",
+  "method": "agent-tool",
+  "contentHash": "dfd5e3826712002b94c6ee0812a5cd2a677e8c33376bd6647f514638f66709f1",
+  "quotations": [
+    "Today we are publishing this report alongside a post fromÂ SGLang, the open-source inference engine that we use, as a coordinated disclosure.Â This post describes the bug that caused this issue, our response timeline, and the subsequent hardening we have conducted on our production SGLang deployments. We also detail our continued efforts with the upstream maintainers of SGLang to address this and similar bugs.",
+    "Between August 27 and September 9, a small number of customers using the GLM 5.3 Workers AI model received responses that contained data from other customers' requests made to the same model shortly before theirs. In total, 155 responses were affected, all to prompts longer than 681,280 tokens."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6a57209388fdf360e1e91bc0",
+  "title": "SpaceX披露约400亿美元GPU租赁融资承诺",
+  "firstSeen": "2026-10-27",
+  "editionDate": "2026-10-27",
+  "occurrences": [
+    {
+      "id": "occ-6a57209388fdf360e1e91bc0",
+      "fact": {
+        "subject": "SpaceX",
+        "action": "披露融资承诺",
+        "object": "约400亿美元GPU及数据中心设备租赁融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-27",
+      "reports": [
+        {
+          "ref": "2026-10-27/2026-10-27-spacex-apollo-gpu",
+          "itemId": "2026-10-27-spacex-apollo-gpu",
+          "editionDate": "2026-10-27",
+          "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-26T16:46:36.000Z",
+          "title": "SpaceX披露约400亿美元GPU租赁融资承诺"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-27"
+}

@@ -1,0 +1,61 @@
+{
+  "source": "robot-report",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-26T14:49:39.737Z",
+  "id": "2026-10-27-agility-gxo-digit",
+  "title": "Agility and GXO Logistics plan expanded deployment of Digit humanoid",
+  "displayTitle": "Agility与GXO扩大Digit仓库部署，新增站点仍待落地",
+  "url": "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/",
+  "publishedAt": "2026-10-26T14:05:21.000Z",
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Agility Robotics",
+    "GXO",
+    "Digit"
+  ],
+  "summary": "The Robot Report报道两家公司宣布扩大合作，拟在GXO其他站点部署Digit，报道后段称新协议预计2027年初开始部署Digit 4，具体地点在文中存在前后不一致，故不列地点。",
+  "investorNote": "从单仓商业试点扩至多站点才是人形机器人可复制性的测试，公告仍不等于已完成扩张。",
+  "narrative": "Agility Robotics与GXO宣布扩大Digit在物流仓库中的应用。两家公司已有商业运营经验，但这次新增部署预计到2027年初才开始，报道对地点的表述前后不一致，因此现在只能确认扩张计划，不能写成新仓已经运行。衡量这笔合作的重点将是跨站点稳定性、任务切换和运营成本，而不是新增机器人数量的口号。",
+  "score": 0.77,
+  "duplicateOf": null,
+  "clusterId": "event-fc4848de5bfc8108d411289d",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Agility Robotics与GXO Logistics",
+    "action": "扩大部署",
+    "object": "Digit人形机器人",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "ba4ab5983023ddfcd7a64c43c799a91250d8c5d898288ec74fab554d6dc8e47e",
+    "originalUrl": "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/",
+    "originalPublishedAt": "2026-10-26T14:05:21.000Z",
+    "checkedAt": "2026-10-26T23:32:40.068Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "ba4ab5983023ddfcd7a64c43c799a91250d8c5d898288ec74fab554d6dc8e47e",
+      "kind": "fact",
+      "quote": "Agility Robotics and GXO Logistics today said they are expanding their partnership to deploy Agility’s Digit humanoid robot in GXO sites in North Carolina and Tennessee."
+    },
+    {
+      "snapshotId": "ba4ab5983023ddfcd7a64c43c799a91250d8c5d898288ec74fab554d6dc8e47e",
+      "kind": "condition",
+      "quote": "Under the expanded agreement, Digit will support e-commerce fulfillment at GXO sites in Statesville, Tenn., and Lebanon, Ind. The companies said they expect to begin deployments of Digit 4 in in early 2027."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对为本窗口内的独立发布或披露；近两周事件目录未见同一次动作"
+  },
+  "eventId": "event-fc4848de5bfc8108d411289d",
+  "occurrenceId": "occ-fc4848de5bfc8108d411289d",
+  "relatedItems": []
+}

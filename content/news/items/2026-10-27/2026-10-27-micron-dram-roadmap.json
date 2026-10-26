@@ -1,0 +1,61 @@
+{
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-26T14:19:02.849Z",
+  "id": "2026-10-27-micron-dram-roadmap",
+  "title": "Micron plans to use wafer bonding and High-NA EUV for next-gen DRAM",
+  "displayTitle": "美光披露下一代DRAM路线：晶圆键合后引入High-NA EUV",
+  "url": "https://www.tomshardware.com/pc-components/dram/micron-plans-to-use-wafer-bonding-and-high-na-euv-for-next-gen-dram-company-also-developing-vertical-high-bandwidth-memory-and-vertical-edge-inference-memory-integrated-directly-on-top-of-processors",
+  "publishedAt": "2026-10-26T14:00:00.000Z",
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Micron",
+    "DRAM",
+    "High-NA EUV"
+  ],
+  "summary": "Tom’s Hardware根据美光技术活动报道，1δ DRAM计划2027年下半年量产，后续节点拟采用晶圆键合与High-NA EUV；3D DRAM仍是平行研发路线，尚无量产时间。",
+  "investorNote": "存储扩密度从单一线宽微缩转向键合与新光刻组合，但路线图并非量产证明。",
+  "narrative": "美光披露未来DRAM路线：现有1γ已量产，1δ计划2027年下半年进入量产；再往后引入晶圆键合，并在更后续节点考虑High-NA EUV。报道还提到垂直HBM和3D DRAM，但公司尚未给出后者的量产时间。对设备、材料和封装投资而言，关注点会从单纯缩小单元转向键合良率、热管理与成本，这些目前仍属于路线图和工程验证问题。",
+  "score": 0.79,
+  "duplicateOf": null,
+  "clusterId": "event-486503b91dd65062173a8349",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Micron",
+    "action": "披露路线",
+    "object": "DRAM晶圆键合与High-NA EUV路线",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "987519928d80fc3fcda38acfabd1cbe2726ee86c1a957377128fdb9c360af2fa",
+    "originalUrl": "https://www.tomshardware.com/pc-components/dram/micron-plans-to-use-wafer-bonding-and-high-na-euv-for-next-gen-dram-company-also-developing-vertical-high-bandwidth-memory-and-vertical-edge-inference-memory-integrated-directly-on-top-of-processors",
+    "originalPublishedAt": "2026-10-26T14:00:00.000Z",
+    "checkedAt": "2026-10-26T23:32:40.097Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "987519928d80fc3fcda38acfabd1cbe2726ee86c1a957377128fdb9c360af2fa",
+      "kind": "fact",
+      "quote": "Micron's current 1γ DRAM process is already in high-volume manufacturing, whereas its successor, 1δ, is scheduled to enter volume production in the second half of 2027. The latter promises a mid-20% increase in bit density and is optimized for future AI memory products, including HBM5, vHBM, and vEIM. Beyond 1δ, Micron plans to introduce wafer bonding with its 1ε process, which is currently under development. However, the company has not disclosed how it intends to implement wafer bonding or what improvements it expects from the technology."
+    },
+    {
+      "snapshotId": "987519928d80fc3fcda38acfabd1cbe2726ee86c1a957377128fdb9c360af2fa",
+      "kind": "condition",
+      "quote": "Micron is also developing 3D DRAM technologies and lists two generations — 3D1 and 3D2 — in its roadmap already. However, the company has not disclosed its architectures or launch schedules, as it intends to introduce 3D DRAM only when the technology offers sufficient advantages in manufacturing costs, complexity, and performance over conventional planar DRAM."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对为本窗口内的独立发布或披露；近两周事件目录未见同一次动作"
+  },
+  "eventId": "event-486503b91dd65062173a8349",
+  "occurrenceId": "occ-486503b91dd65062173a8349",
+  "relatedItems": []
+}

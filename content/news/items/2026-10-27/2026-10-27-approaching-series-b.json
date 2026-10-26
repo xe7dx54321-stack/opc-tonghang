@@ -1,0 +1,60 @@
+{
+  "source": "leiphone",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-26T04:39:53.782Z",
+  "id": "2026-10-27-approaching-series-b",
+  "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+  "displayTitle": "趋境科技完成超13亿元B轮，押注推理服务规模化",
+  "url": "https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html",
+  "publishedAt": "2026-10-26T02:37:00.000Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "趋境科技",
+    "ATaaS"
+  ],
+  "summary": "雷峰网10月26日报道，趋境科技完成超过13亿元人民币B轮融资，年内累计融资24亿元。资金拟投向Token产能、ATaaS平台和推理技术。营收、产能及增长数据主要来自公司和投资方表述，尚需客户侧验证。",
+  "investorNote": "国产推理服务商获得大额融资，说明资本开始押注Token交付，但单位经济和稳定性仍需要真实合同检验。",
+  "narrative": "雷峰网披露趋境科技完成超13亿元B轮，参与方包括多家地方产业资本。公司称年内累计募得24亿元，并计划将资金用于Token产能、ATaaS平台与交付体系。真正影响估值的不是“Token工厂”这个名字，而是高负载下的单位成本、稳定性和客户续费；报道里的增长与产能由公司及投资方提供，目前还不能当作经审计的经营结果。",
+  "score": 0.75,
+  "duplicateOf": null,
+  "clusterId": "event-2f312dbb1482f16510db848a",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "趋境科技",
+    "action": "完成",
+    "object": "超过13亿元B轮融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "fee507e357ba8131fc10380fcd4848ecf1beb6e5048e3d01b7207191dd4a35ff",
+    "originalUrl": "https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html",
+    "originalPublishedAt": "2026-10-26T02:37:00.000Z",
+    "checkedAt": "2026-10-26T23:32:39.909Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "fee507e357ba8131fc10380fcd4848ecf1beb6e5048e3d01b7207191dd4a35ff",
+      "kind": "fact",
+      "quote": "获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。多项核心经营指标在半年内实现超十倍速增长，持续获得产业和资本的高度认可。"
+    },
+    {
+      "snapshotId": "fee507e357ba8131fc10380fcd4848ecf1beb6e5048e3d01b7207191dd4a35ff",
+      "kind": "condition",
+      "quote": "本轮募集的资金将重点投向高品质 AI Token 产能扩张、ATaaS（Approaching.AI Token as a Service）平台升级迭代、推理底层技术和新产品的研发，以及商业化合作与交付体系完善等方面。"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对为本窗口内的独立发布或披露；近两周事件目录未见同一次动作"
+  },
+  "eventId": "event-2f312dbb1482f16510db848a",
+  "occurrenceId": "occ-2f312dbb1482f16510db848a",
+  "relatedItems": []
+}

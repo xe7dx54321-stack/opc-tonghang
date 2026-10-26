@@ -1,0 +1,61 @@
+{
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-26T13:48:23.708Z",
+  "id": "2026-10-27-cadence-maestro",
+  "title": "Cadence reveals Maestro, fine-tuned AI models built to run specialized chip design agents, with early access coming for ",
+  "displayTitle": "Cadence公布Maestro专用模型，芯片设计Agent先向少数客户开放",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
+  "publishedAt": "2026-10-26T13:20:00.000Z",
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "Cadence",
+    "Maestro"
+  ],
+  "summary": "Tom’s Hardware报道Cadence推出Maestro芯片设计专用模型系列，计划2026年第四季度向选定客户提供早期访问。Cadence声称在初步比较中结果质量最多提高30%、Token效率最多提高5倍，但未充分披露测量口径。",
+  "investorNote": "EDA代理的竞争从通用模型调用转向领域后训练与确定性求解器，商业效果仍需客户项目验证。",
+  "narrative": "Cadence公布Maestro系列，把专用模型接入芯片设计Agent，计划在2026年第四季度先让选定客户试用。公司声称初测结果质量最多提升30%、Token效率最多提升5倍，但报道指出质量指标的具体口径并不清楚。对EDA市场，这意味着模型正在嵌入工具链和确定性求解器；是否真正缩短设计周期，还要等客户项目而不是只看厂商基准。",
+  "score": 0.81,
+  "duplicateOf": null,
+  "clusterId": "event-1e5de1b2f4d694092e26236a",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Cadence",
+    "action": "公布",
+    "object": "Maestro芯片设计专用模型系列",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "5afae70e00af816ce481257f8cc9adfbc5c324675694b2d16e81ee7e7e1a21ab",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
+    "originalPublishedAt": "2026-10-26T13:20:00.000Z",
+    "checkedAt": "2026-10-26T23:32:40.127Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "5afae70e00af816ce481257f8cc9adfbc5c324675694b2d16e81ee7e7e1a21ab",
+      "kind": "fact",
+      "quote": "Cadence, one of the largest electronic design automation (EDA) companies, has unveiled Maestro, its new portfolio of domain-specialized AI models tailored for its chip design agents, in"
+    },
+    {
+      "snapshotId": "5afae70e00af816ce481257f8cc9adfbc5c324675694b2d16e81ee7e7e1a21ab",
+      "kind": "condition",
+      "quote": "One constant that keeps popping up with agentic EDA is the need to nail down what the numbers actually measure. "
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对为本窗口内的独立发布或披露；近两周事件目录未见同一次动作"
+  },
+  "eventId": "event-1e5de1b2f4d694092e26236a",
+  "occurrenceId": "occ-1e5de1b2f4d694092e26236a",
+  "relatedItems": []
+}

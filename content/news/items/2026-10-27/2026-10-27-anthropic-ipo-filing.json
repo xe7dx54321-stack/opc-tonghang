@@ -1,0 +1,60 @@
+{
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-26T14:49:24.822Z",
+  "id": "2026-10-27-anthropic-ipo-filing",
+  "title": "Anthropic officially files for its public debut",
+  "displayTitle": "Anthropic公开提交IPO招股书，收入增长与算力义务同时曝光",
+  "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+  "publishedAt": "2026-10-26T14:35:22.000Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude"
+  ],
+  "summary": "TechCrunch核对公开S-1称，Anthropic拟以ANT代码上市。2026年上半年收入163亿美元、营业亏损6.93亿美元，净亏损807亿美元主要受可转债非现金会计调整影响。七位创始人拟通过Founder LLC控制50.1%投票权。",
+  "investorNote": "公开申报给出了企业客户与资本开支的可核查窗口，净亏损必须区分经营亏损和会计调整。",
+  "narrative": "Anthropic向市场公开提交S-1，拟以“ANT”上市。TechCrunch根据文件披露：2026年上半年收入163亿美元、营业亏损6.93亿美元；807亿美元净亏损主要受可转债相关的非现金会计调整影响，不能简单理解为同额现金烧掉。文件也披露大客户数量和创始人拟保留的50.1%投票权。对投资人更有用的问题是：企业收入的留存与算力采购义务能否长期匹配，招股书让这两端第一次可以放在同一张表里看。",
+  "score": 0.94,
+  "duplicateOf": null,
+  "clusterId": "event-77304c7d4f6f1953a3030212",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "公开申报",
+    "object": "拟议IPO的S-1招股书",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "59b195f1de35f0b7afdeef4914d3aaff73df99ccaf1ba318e6df6b79cedfe077",
+    "originalUrl": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "originalPublishedAt": "2026-10-26T14:35:22.000Z",
+    "checkedAt": "2026-10-26T23:32:39.974Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "59b195f1de35f0b7afdeef4914d3aaff73df99ccaf1ba318e6df6b79cedfe077",
+      "kind": "fact",
+      "quote": "filed for an initial public offering"
+    },
+    {
+      "snapshotId": "59b195f1de35f0b7afdeef4914d3aaff73df99ccaf1ba318e6df6b79cedfe077",
+      "kind": "condition",
+      "quote": "Anthropic, which plans to list under the ticker “ANT,” recorded revenue of $16.3 billion for the first half of 2026, up from $1.2 billion in the same period last year, according to the firm’s latest SEC filing."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对为本窗口内的独立发布或披露；近两周事件目录未见同一次动作"
+  },
+  "eventId": "event-77304c7d4f6f1953a3030212",
+  "occurrenceId": "occ-77304c7d4f6f1953a3030212",
+  "relatedItems": []
+}

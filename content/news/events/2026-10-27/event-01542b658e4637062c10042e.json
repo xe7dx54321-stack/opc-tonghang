@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-01542b658e4637062c10042e",
+  "title": "Cloudflare披露已修复的GLM-5.3跨租户缓存暴露",
+  "firstSeen": "2026-10-27",
+  "editionDate": "2026-10-27",
+  "occurrences": [
+    {
+      "id": "occ-01542b658e4637062c10042e",
+      "fact": {
+        "subject": "Cloudflare",
+        "action": "披露修复报告",
+        "object": "GLM-5.3 Workers AI跨请求KV缓存暴露",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-27",
+      "reports": [
+        {
+          "ref": "2026-10-27/2026-10-27-cloudflare-kv-disclosure",
+          "itemId": "2026-10-27-cloudflare-kv-disclosure",
+          "editionDate": "2026-10-27",
+          "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+          "source": "hnrss-frontpage",
+          "owner": "Cloudflare",
+          "role": "principal",
+          "publishedAt": "2026-10-26T22:01:23.889Z",
+          "title": "Cloudflare披露已修复的GLM-5.3跨租户缓存暴露"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-27"
+}

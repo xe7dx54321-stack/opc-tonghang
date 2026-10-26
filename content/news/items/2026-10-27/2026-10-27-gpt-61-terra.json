@@ -1,0 +1,60 @@
+{
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-26T20:55:13.392Z",
+  "id": "2026-10-27-gpt-61-terra",
+  "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+  "displayTitle": "OpenAI发布GPT-6.1 Terra，API价格较前代减半",
+  "url": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+  "publishedAt": "2026-10-26T20:30:55.000Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "GPT-6.1 Terra"
+  ],
+  "summary": "The Decoder报道OpenAI推出GPT-6.1 Terra，API价格较GPT-5.6 Terra降低约50%，主打视觉理解和电脑操作；价格及基准表现需按官方设定和具体任务比较，不能泛化为所有任务成本减半。",
+  "investorNote": "中档模型的价格和电脑操作能力一起推进，企业采购需看单任务完成成本而非单纯token单价。",
+  "narrative": "OpenAI推出GPT-6.1 Terra，The Decoder核对其标准API价格较GPT-5.6 Terra降低一半，并强调视觉推理和电脑操作。官方给出的基准数据显示同价位能力上升，但任务完成成本还受推理强度、输出长度与失败重试影响。这个发布更值得看的，是中档模型开始正面承担桌面工作流：采购方应比较每个完成任务的成本和错误率，而不是只比每百万Token报价。",
+  "score": 0.87,
+  "duplicateOf": null,
+  "clusterId": "event-7841f097d438f218ab0cf617",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "OpenAI",
+    "action": "发布",
+    "object": "GPT-6.1 Terra",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "db1bb0cb880a328fe1536dc4c425e9f157c46c7d3812d385a8c0ad0545b3d389",
+    "originalUrl": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+    "originalPublishedAt": "2026-10-26T20:30:55.000Z",
+    "checkedAt": "2026-10-26T23:32:40.039Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "db1bb0cb880a328fe1536dc4c425e9f157c46c7d3812d385a8c0ad0545b3d389",
+      "kind": "fact",
+      "quote": "OpenAI has released GPT-6.1 Terra, a model it says pushes the cost-to-performance boundary further than any of its predecessors. API prices are half those of GPT-5.6 Terra."
+    },
+    {
+      "snapshotId": "db1bb0cb880a328fe1536dc4c425e9f157c46c7d3812d385a8c0ad0545b3d389",
+      "kind": "condition",
+      "quote": "Terra is OpenAI's closest competitor to Anthropic's mid-tier Sonnet series at half the price. Input tokens cost $1 per million, output tokens $5, compared to $2 and $10 for Claude Sonnet 5.5 and $2 and $12 for GPT-5.6 Terra. Cached inputs drop to just $0.05 per million tokens, a quarter of the previous rate."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "已核对为本窗口内的独立发布或披露；近两周事件目录未见同一次动作"
+  },
+  "eventId": "event-7841f097d438f218ab0cf617",
+  "occurrenceId": "occ-7841f097d438f218ab0cf617",
+  "relatedItems": []
+}
