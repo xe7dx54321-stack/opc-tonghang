@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-28-chipagents-ic-star",
+  "title": "ChipAgents Expands AI Across Chip Design. The Test Is Faster, Verified Results",
+  "url": "https://semiwiki.com/eda/chipagents-ai/375026-chipagents-expands-ai-across-chip-design-the-test-is-faster-verified-results/",
+  "source": "semiwiki",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "publishedAt": "2026-10-27T17:00:45.000Z",
+  "fetchedAt": "2026-10-27T17:15:10.292Z",
+  "summary": "ChipAgents is expanding its agentic AI platform across digital and analog semiconductor engineering, aiming to connect fragmented design workflows through a common system that can plan tasks, operate engineering tools and evaluate results. The Santa Clara company says its IC-Star engine combines organizational design … Read More The post ChipAgents Expands AI Across Chip Design. The Test Is Faster, Verified Results appeared first on SemiWiki.",
+  "investorNote": "芯片设计 Agent 的可验证流程与工具集成比代码生成演示更接近付费需求。",
+  "score": 0.66,
+  "fact": {
+    "subject": "ChipAgents",
+    "action": "扩展",
+    "object": "IC-Star 芯片设计 Agent 平台至数字与模拟设计",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "SemiWiki",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "6f8dc652ad5c4f1d80bf8529000442fbcfb9445f2ab9d6c7c9b237450565e0a2",
+    "originalUrl": "https://semiwiki.com/eda/chipagents-ai/375026-chipagents-expands-ai-across-chip-design-the-test-is-faster-verified-results/",
+    "originalPublishedAt": "2026-10-27T17:00:45.000Z",
+    "checkedAt": "2026-10-27T23:35:59.833Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "6f8dc652ad5c4f1d80bf8529000442fbcfb9445f2ab9d6c7c9b237450565e0a2",
+      "kind": "fact",
+      "quote": "ChipAgents is expanding its agentic AI platform across digital and analog semiconductor engineering"
+    },
+    {
+      "snapshotId": "6f8dc652ad5c4f1d80bf8529000442fbcfb9445f2ab9d6c7c9b237450565e0a2",
+      "kind": "fact",
+      "quote": "its IC-Star engine combines organizational design knowledge, agent orchestration, dynamic AI model selection and physics-aware intelligence."
+    },
+    {
+      "snapshotId": "6f8dc652ad5c4f1d80bf8529000442fbcfb9445f2ab9d6c7c9b237450565e0a2",
+      "kind": "condition",
+      "quote": "with engineers retaining control over requirements, critical decisions and final signoff."
+    }
+  ],
+  "displayTitle": "ChipAgents 扩展 IC-Star，打通数字与模拟芯片设计流程",
+  "narrative": "SemiWiki 报道 ChipAgents 扩展 IC-Star，计划让设计 Agent 在数字与模拟电路流程中协同规划、调用工具并复核结果，工程师仍负责关键决策与签核。公司称已有 200 多家半导体企业部署，属于厂商口径。这里值得看的是模拟设计必须经过仿真与物理约束闭环，单纯生成 RTL 不足以形成可交付的 EDA 工具。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期新动作是平台覆盖范围扩展，不把旧客户案例当成今日新签约。"
+  },
+  "eventId": "event-424282ac6817d2b5554ad3f0",
+  "occurrenceId": "occ-424282ac6817d2b5554ad3f0",
+  "clusterId": "event-424282ac6817d2b5554ad3f0",
+  "duplicateOf": null,
+  "relatedItems": []
+}

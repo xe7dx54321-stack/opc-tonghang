@@ -1,0 +1,14 @@
+{
+  "snapshotId": "196499f1edcde9c36f40bef8c431507c8cbe792828acc17c69be4ab212ad3b6c",
+  "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+  "publishedAt": "2026-10-27T17:35:28.000Z",
+  "publishedAtQuote": "Tue, 27 Oct 2026 17:35:28 +0000",
+  "retrievedAt": "2026-10-27T23:35:59.651Z",
+  "method": "agent-tool",
+  "contentHash": "82b0cac5bcd287684278e3dba905c580f3121d38014ae8b1278c8ff203dfb4fe",
+  "quotations": [
+    "We introduce a sleep phase in continual learning, enabling large language models to continuously integrate new facts and enhance reasoning while mitigating catastrophic forgetting or static knowledge cutoffs.",
+    "alternating between active interaction and offline memory consolidation allows LLMs to continuously acquire new facts, retain long-context knowledge up to 10M tokens, and improve complex reasoning.",
+    "our framework operates entirely within a fixed model architecture and human-defined training rules."
+  ]
+}

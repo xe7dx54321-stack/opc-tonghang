@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-28",
+  "itemCount": 10,
+  "storyCount": 10,
+  "clusterCount": 10,
+  "files": [
+    "2026-10-28-anthropic-vulnerability-chains.json",
+    "2026-10-28-openai-oracle-apps.json",
+    "2026-10-28-google-sleep-framework.json",
+    "2026-10-28-ant-lingguang-2.json",
+    "2026-10-28-deepmind-genie-4.json",
+    "2026-10-28-liquid-lfm3.json",
+    "2026-10-28-anybotics-anymal-x.json",
+    "2026-10-28-embotech-bmw-million.json",
+    "2026-10-28-chipagents-ic-star.json",
+    "2026-10-28-senyue-prea.json"
+  ],
+  "representatives": [
+    "2026-10-28-anthropic-vulnerability-chains",
+    "2026-10-28-openai-oracle-apps",
+    "2026-10-28-google-sleep-framework",
+    "2026-10-28-ant-lingguang-2",
+    "2026-10-28-deepmind-genie-4",
+    "2026-10-28-liquid-lfm3",
+    "2026-10-28-anybotics-anymal-x",
+    "2026-10-28-embotech-bmw-million",
+    "2026-10-28-chipagents-ic-star",
+    "2026-10-28-senyue-prea"
+  ]
+}

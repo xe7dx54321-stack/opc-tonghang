@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-28-deepmind-genie-4",
+  "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+  "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "publishedAt": "2026-10-27T16:30:57.000Z",
+  "fetchedAt": "2026-10-27T16:44:36.108Z",
+  "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+  "investorNote": "交互式世界模型可成为机器人测试和内容制作工具，但要看长时一致性与真实物理迁移。",
+  "score": 0.86,
+  "fact": {
+    "subject": "Google DeepMind",
+    "action": "发布研究预览",
+    "object": "Genie 4 世界模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "871bd04cd53ceab451449e944ffd103ee9519e8ab61fc6d0b9832055f999de81",
+    "originalUrl": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "originalPublishedAt": "2026-10-27T16:30:57.000Z",
+    "checkedAt": "2026-10-27T23:35:59.714Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "871bd04cd53ceab451449e944ffd103ee9519e8ab61fc6d0b9832055f999de81",
+      "kind": "fact",
+      "quote": "Google DeepMind released its newest world model, Genie 4, in research preview on Tuesday."
+    },
+    {
+      "snapshotId": "871bd04cd53ceab451449e944ffd103ee9519e8ab61fc6d0b9832055f999de81",
+      "kind": "fact",
+      "quote": "The model also generates real-time audio that matches the simulated world, including music, ambient noises, and interactive dialogue."
+    },
+    {
+      "snapshotId": "871bd04cd53ceab451449e944ffd103ee9519e8ab61fc6d0b9832055f999de81",
+      "kind": "condition",
+      "quote": "It can maintain a consistent scene for up to two minutes, double its predecessor’s limit"
+    }
+  ],
+  "displayTitle": "Google DeepMind 发布 Genie 4 研究预览，世界模型可实时改场景",
+  "narrative": "Google DeepMind 发布 Genie 4 研究预览。TechCrunch 核对的新能力包括同步生成环境音与对话、在模拟运行中用文本改变场景，以及最长约两分钟的一致性维持；Gemini 参与规划与检查。它把世界模型更接近交互式仿真，但目前仍是受限研究预览，不能把演示中的机器人用途等同于已验证的现实控制能力。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "Genie 4 当天研究预览是独立于旧版本 Genie 3 的新模型发布。"
+  },
+  "eventId": "event-9371b3868cb8da847d31a04b",
+  "occurrenceId": "occ-9371b3868cb8da847d31a04b",
+  "clusterId": "event-9371b3868cb8da847d31a04b",
+  "duplicateOf": null,
+  "relatedItems": []
+}

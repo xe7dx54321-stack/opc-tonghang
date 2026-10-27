@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-424282ac6817d2b5554ad3f0",
+  "title": "ChipAgents 扩展 IC-Star，打通数字与模拟芯片设计流程",
+  "firstSeen": "2026-10-28",
+  "editionDate": "2026-10-28",
+  "occurrences": [
+    {
+      "id": "occ-424282ac6817d2b5554ad3f0",
+      "fact": {
+        "subject": "ChipAgents",
+        "action": "扩展",
+        "object": "IC-Star 芯片设计 Agent 平台至数字与模拟设计",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-28",
+      "reports": [
+        {
+          "ref": "2026-10-28/2026-10-28-chipagents-ic-star",
+          "itemId": "2026-10-28-chipagents-ic-star",
+          "editionDate": "2026-10-28",
+          "url": "https://semiwiki.com/eda/chipagents-ai/375026-chipagents-expands-ai-across-chip-design-the-test-is-faster-verified-results/",
+          "source": "semiwiki",
+          "owner": "SemiWiki",
+          "role": "observer",
+          "publishedAt": "2026-10-27T17:00:45.000Z",
+          "title": "ChipAgents 扩展 IC-Star，打通数字与模拟芯片设计流程"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-28"
+}

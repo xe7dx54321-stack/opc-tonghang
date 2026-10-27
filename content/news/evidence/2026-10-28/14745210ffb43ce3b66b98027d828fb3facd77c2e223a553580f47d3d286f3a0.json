@@ -1,0 +1,14 @@
+{
+  "snapshotId": "14745210ffb43ce3b66b98027d828fb3facd77c2e223a553580f47d3d286f3a0",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "publishedAt": "2026-10-27T17:16:52.000Z",
+  "publishedAtQuote": "Tue, 27 Oct 2026 17:16:52 GMT",
+  "retrievedAt": "2026-10-27T23:35:59.745Z",
+  "method": "agent-tool",
+  "contentHash": "3bfa5c5c6be7b87e84fd722bd9798156aadd7f3ba741da0451f0cb8086a71642",
+  "quotations": [
+    "vision, audio, omni, and decision models onto one shared backbone, all in the 2B parameter range.",
+    "six 2B-class models (text, vision, audio, omni, and decision) trained from LFM3-1.7B-Base",
+    "All LFM3 models are open-weight and available on Hugging Face today"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-ac53f9dc87fec3f5228ecc2e",
+  "title": "Google Research 提出大模型持续学习的“睡眠”框架",
+  "firstSeen": "2026-10-28",
+  "editionDate": "2026-10-28",
+  "occurrences": [
+    {
+      "id": "occ-ac53f9dc87fec3f5228ecc2e",
+      "fact": {
+        "subject": "Google Research",
+        "action": "提出",
+        "object": "大模型持续学习的 sleep framework",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-28",
+      "reports": [
+        {
+          "ref": "2026-10-28/2026-10-28-google-sleep-framework",
+          "itemId": "2026-10-28-google-sleep-framework",
+          "editionDate": "2026-10-28",
+          "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+          "source": "google-research",
+          "owner": "Google Research",
+          "role": "principal",
+          "publishedAt": "2026-10-27T17:35:28.000Z",
+          "title": "Google Research 提出大模型持续学习的“睡眠”框架"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-28"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6bae613a680308e83b60ce24",
+  "title": "Embotech 与 BMW 厂内自动驾驶移车累计达 100 万辆",
+  "firstSeen": "2026-10-28",
+  "editionDate": "2026-10-28",
+  "occurrences": [
+    {
+      "id": "occ-6bae613a680308e83b60ce24",
+      "fact": {
+        "subject": "Embotech 与 BMW",
+        "action": "披露运营里程碑",
+        "object": "自动驾驶厂内移车累计 100 万辆",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-28",
+      "reports": [
+        {
+          "ref": "2026-10-28/2026-10-28-embotech-bmw-million",
+          "itemId": "2026-10-28-embotech-bmw-million",
+          "editionDate": "2026-10-28",
+          "url": "https://www.therobotreport.com/embotech-bmw-move-1m-vehicles-automated-driving-technology/",
+          "source": "robot-report",
+          "owner": "The Robot Report",
+          "role": "observer",
+          "publishedAt": "2026-10-27T12:45:27.000Z",
+          "title": "Embotech 与 BMW 厂内自动驾驶移车累计达 100 万辆"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-28"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6a87d9bda5bb79f5d2849ac8",
+  "title": "蚂蚁发布灵光 2.0，Personal Agent 开始持续管事",
+  "firstSeen": "2026-10-28",
+  "editionDate": "2026-10-28",
+  "occurrences": [
+    {
+      "id": "occ-6a87d9bda5bb79f5d2849ac8",
+      "fact": {
+        "subject": "蚂蚁集团",
+        "action": "发布",
+        "object": "灵光 2.0 Personal Agent",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-28",
+      "reports": [
+        {
+          "ref": "2026-10-28/2026-10-28-ant-lingguang-2",
+          "itemId": "2026-10-28-ant-lingguang-2",
+          "editionDate": "2026-10-28",
+          "url": "https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-10-27T01:55:00.000Z",
+          "title": "蚂蚁发布灵光 2.0，Personal Agent 开始持续管事"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-28"
+}

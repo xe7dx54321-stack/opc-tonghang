@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-28-ant-lingguang-2",
+  "title": "蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了",
+  "url": "https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-27T01:55:00.000Z",
+  "fetchedAt": "2026-10-27T04:01:18.016Z",
+  "summary": "机票订完后，AI 24小时盯价，发现降价及时提醒；翻看日常账单，AI识别可能闲置的续费订阅，帮你省钱；家长顾不上查看班级群，AI也能梳理老师通知、提取待办事项……这些过去需要用户自己发现、记住和安排的生活琐事，如今正开始由AI主动接手。 10月27日，蚂蚁集团发布灵光2.0，推动AI助理从被动响应指令、完成单次任务，向主动发现需求、持续管理事务的演进。 与传统对话式AI及任务型Agent相比，灵光2.0的一大变化，是将AI介入任务的起点进一步前移。 过去，用户需要先发现问题、提出需求，再由AI执行；如今，在获得用户授权后，灵光能够结合已接入的信息与服务，主动识别潜在需求，并发起分析、监测和跟进，并在需要用户关注的节点及时提醒。AI不再只是等待指令的工具，而开始成为能够持续管理事务的助手。 这一变化背后，是灵光2.0对跨会话记忆、长程任务调度和工具连接能力的全面升级。依托独立云主机，灵光能够突破单次对话的限制，在用户退出对话后继续运行任务，并根据新的信息和状态变化动态跟进，让AI从一次性的任务执行转向长期、持续的事务管理。 灵光管理事务的能力正在进",
+  "investorNote": "个人 Agent 的壁垒正在转向长期运行、工具连接与可撤销授权，而非单轮对话。",
+  "score": 0.82,
+  "fact": {
+    "subject": "蚂蚁集团",
+    "action": "发布",
+    "object": "灵光 2.0 Personal Agent",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "f3ad989bcc46eb49f718626fd37f8aab8539b3670b206c5c32474e4b40bec163",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html",
+    "originalPublishedAt": "2026-10-27T01:55:00.000Z",
+    "checkedAt": "2026-10-27T23:35:59.683Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "f3ad989bcc46eb49f718626fd37f8aab8539b3670b206c5c32474e4b40bec163",
+      "kind": "fact",
+      "quote": "10月27日，蚂蚁集团发布灵光2.0，推动AI助理从被动响应指令、完成单次任务，向主动发现需求、持续管理事务的演进。"
+    },
+    {
+      "snapshotId": "f3ad989bcc46eb49f718626fd37f8aab8539b3670b206c5c32474e4b40bec163",
+      "kind": "condition",
+      "quote": "在获得用户授权后，灵光能够结合已接入的信息与服务，主动识别潜在需求，并发起分析、监测和跟进"
+    },
+    {
+      "snapshotId": "f3ad989bcc46eb49f718626fd37f8aab8539b3670b206c5c32474e4b40bec163",
+      "kind": "fact",
+      "quote": "灵光已内置支付宝账单、会员、出行，以及钉钉、飞书、邮箱、米家等服务能力"
+    }
+  ],
+  "displayTitle": "蚂蚁发布灵光 2.0，Personal Agent 开始持续管事",
+  "narrative": "蚂蚁集团发布灵光 2.0，把助理从单次指令扩展到跨会话记忆、长程任务调度和持续提醒。雷峰网列出的场景包括获授权后查看支付宝账单、监测机酒价格，并连接钉钉、飞书、邮箱和米家。产品价值取决于持续任务能否稳定执行，也取决于身份、授权撤销和敏感数据治理；报道所述能力与实际使用覆盖仍需分开看。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "10 月 27 日发布的 2.0 版本是新动作；其他采访和体验稿围绕同一次发布。"
+  },
+  "eventId": "event-6a87d9bda5bb79f5d2849ac8",
+  "occurrenceId": "occ-6a87d9bda5bb79f5d2849ac8",
+  "clusterId": "event-6a87d9bda5bb79f5d2849ac8",
+  "duplicateOf": null,
+  "relatedItems": []
+}

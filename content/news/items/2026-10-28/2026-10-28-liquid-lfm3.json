@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-28-liquid-lfm3",
+  "title": "Build specialized multimodal models with LFM3",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "source": "hugging-face-blog",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-27T17:16:52.000Z",
+  "fetchedAt": "2026-10-27T17:45:24.753Z",
+  "summary": "Build specialized multimodal models with LFM3",
+  "investorNote": "小模型竞争从参数榜转向模态覆盖、微调成本和端侧实际吞吐。",
+  "score": 0.76,
+  "fact": {
+    "subject": "Liquid AI",
+    "action": "发布",
+    "object": "LFM3 多模态模型家族",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Liquid AI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "14745210ffb43ce3b66b98027d828fb3facd77c2e223a553580f47d3d286f3a0",
+    "originalUrl": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "originalPublishedAt": "2026-10-27T17:16:52.000Z",
+    "checkedAt": "2026-10-27T23:35:59.745Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "14745210ffb43ce3b66b98027d828fb3facd77c2e223a553580f47d3d286f3a0",
+      "kind": "fact",
+      "quote": "vision, audio, omni, and decision models onto one shared backbone, all in the 2B parameter range."
+    },
+    {
+      "snapshotId": "14745210ffb43ce3b66b98027d828fb3facd77c2e223a553580f47d3d286f3a0",
+      "kind": "fact",
+      "quote": "six 2B-class models (text, vision, audio, omni, and decision) trained from LFM3-1.7B-Base"
+    },
+    {
+      "snapshotId": "14745210ffb43ce3b66b98027d828fb3facd77c2e223a553580f47d3d286f3a0",
+      "kind": "condition",
+      "quote": "All LFM3 models are open-weight and available on Hugging Face today"
+    }
+  ],
+  "displayTitle": "Liquid AI 开放 LFM3 多模态模型，瞄准端侧专用化",
+  "narrative": "Liquid AI 在官方 Hugging Face 博客发布 LFM3：六款约 2B 参数级模型覆盖文本、视觉、音频、全模态和决策任务，共用一套骨干，并开放权重。团队强调单卡微调和端侧部署，文本模型在 4-bit 量化下约占 1 GB。其性能比较来自厂商材料，投资判断应落在开发者是否真能以较低成本做场景定制。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当天官方发布的 LFM3 系列，与过往 LFM2 不同。"
+  },
+  "eventId": "event-4fcc9a049e58183e5a5ca0d8",
+  "occurrenceId": "occ-4fcc9a049e58183e5a5ca0d8",
+  "clusterId": "event-4fcc9a049e58183e5a5ca0d8",
+  "duplicateOf": null,
+  "relatedItems": []
+}

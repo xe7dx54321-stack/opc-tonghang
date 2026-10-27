@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-28",
+  "window": {
+    "start": 1793057400000,
+    "end": 1793143800000
+  },
+  "digestHash": "3760a0827111a3e09b6605299705c31d3c5ab84d110754032e03e2dae6aa66e6",
+  "stories": [
+    {
+      "heading": "Google DeepMind 发布 Genie 4 研究预览，世界模型可实时改场景",
+      "itemId": "2026-10-28-deepmind-genie-4",
+      "eventId": "event-9371b3868cb8da847d31a04b",
+      "occurrenceId": "occ-9371b3868cb8da847d31a04b"
+    },
+    {
+      "heading": "Anthropic 披露 Claude 辅助发现的浏览器漏洞利用链",
+      "itemId": "2026-10-28-anthropic-vulnerability-chains",
+      "eventId": "event-f10be47a939cbf1a6d0ec586",
+      "occurrenceId": "occ-f10be47a939cbf1a6d0ec586"
+    },
+    {
+      "heading": "OpenAI 与 Oracle 扩大合作，企业应用拟接入 ChatGPT",
+      "itemId": "2026-10-28-openai-oracle-apps",
+      "eventId": "event-db477957b702ef141ddbd88c",
+      "occurrenceId": "occ-db477957b702ef141ddbd88c"
+    },
+    {
+      "heading": "蚂蚁发布灵光 2.0，Personal Agent 开始持续管事",
+      "itemId": "2026-10-28-ant-lingguang-2",
+      "eventId": "event-6a87d9bda5bb79f5d2849ac8",
+      "occurrenceId": "occ-6a87d9bda5bb79f5d2849ac8"
+    },
+    {
+      "heading": "Liquid AI 开放 LFM3 多模态模型，瞄准端侧专用化",
+      "itemId": "2026-10-28-liquid-lfm3",
+      "eventId": "event-4fcc9a049e58183e5a5ca0d8",
+      "occurrenceId": "occ-4fcc9a049e58183e5a5ca0d8"
+    },
+    {
+      "heading": "Google Research 提出大模型持续学习的“睡眠”框架",
+      "itemId": "2026-10-28-google-sleep-framework",
+      "eventId": "event-ac53f9dc87fec3f5228ecc2e",
+      "occurrenceId": "occ-ac53f9dc87fec3f5228ecc2e"
+    },
+    {
+      "heading": "ChipAgents 扩展 IC-Star，打通数字与模拟芯片设计流程",
+      "itemId": "2026-10-28-chipagents-ic-star",
+      "eventId": "event-424282ac6817d2b5554ad3f0",
+      "occurrenceId": "occ-424282ac6817d2b5554ad3f0"
+    },
+    {
+      "heading": "ANYbotics 开始交付防爆巡检四足机器人 ANYmal X",
+      "itemId": "2026-10-28-anybotics-anymal-x",
+      "eventId": "event-f1428e61396e88f3f7368121",
+      "occurrenceId": "occ-f1428e61396e88f3f7368121"
+    },
+    {
+      "heading": "Embotech 与 BMW 厂内自动驾驶移车累计达 100 万辆",
+      "itemId": "2026-10-28-embotech-bmw-million",
+      "eventId": "event-6bae613a680308e83b60ce24",
+      "occurrenceId": "occ-6bae613a680308e83b60ce24"
+    },
+    {
+      "heading": "森越成行获千万元级 Pre-A 融资，智能膝关节已量产",
+      "itemId": "2026-10-28-senyue-prea",
+      "eventId": "event-beaac3bb0ae41829220f9f2a",
+      "occurrenceId": "occ-beaac3bb0ae41829220f9f2a"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-28-ant-lingguang-2.json": "a5f94c527ddb2dcc70258130c4312658a571a1b12a3f093bf851f673932db385",
+    "2026-10-28-anthropic-vulnerability-chains.json": "56e3865754cc0ca0b02fbc23999ad80b99a396b32e6731fe225191423c06b641",
+    "2026-10-28-anybotics-anymal-x.json": "cdd2722bac8c4ed8a5d354496debfb120f55ce6fdbdace315bdbdf4e96c0b2c5",
+    "2026-10-28-chipagents-ic-star.json": "1116f1b982f4f036bbc7e0f0482337af6efa058789e2f94e930f1b9e319b0fda",
+    "2026-10-28-deepmind-genie-4.json": "34cfc4c78bc7362e2169440f2a24541ae6416b40a9d4069a425201a7c7a03f01",
+    "2026-10-28-embotech-bmw-million.json": "116bda85bbb2397555090ded200cefc2c168b99989acf16e39efa32795b52ebd",
+    "2026-10-28-google-sleep-framework.json": "ebb41ba2456dd47e67137ef9ea6ab0fc10b9055a34b3345d21f51a404fccb0da",
+    "2026-10-28-liquid-lfm3.json": "cc81d360817253346a6825817588ba681159dc88e3c27fde123a60e5e5682da8",
+    "2026-10-28-openai-oracle-apps.json": "c3a1abb122078d27f8671474da0df4b62114070eded287449170e2f3b0134b27",
+    "2026-10-28-senyue-prea.json": "a77d14450ff3c09331d5b7c5f1f97558a0ee3cbbc4ecb96cf148df973911bca4"
+  },
+  "evidenceHashes": {
+    "14745210ffb43ce3b66b98027d828fb3facd77c2e223a553580f47d3d286f3a0.json": "c01ff3532667765b9d6a54567e0048fad34490af4519c990f166765493d98b07",
+    "196499f1edcde9c36f40bef8c431507c8cbe792828acc17c69be4ab212ad3b6c.json": "6900b7418f3f855cc9bfa6a8fc74796118edb2d52d86e21c0a25a7d16f66b605",
+    "3ec7a50eb8969cfc58f2e0d4c922ae0fe3e9f97030f14715e4389175479c309b.json": "5d5ab4825a234803180d73ae264bbf30321538b69487cf521639b290f9abae43",
+    "6f8dc652ad5c4f1d80bf8529000442fbcfb9445f2ab9d6c7c9b237450565e0a2.json": "5abacfdf55d1977c7dc7b3e2f41c3051c7e8760dbb7e7716f49a69664a19b5ce",
+    "71cf0c1dc4511fa3f7b6abe24eb35729432bca24a2f16c13eca1a2b570be4092.json": "cb7460d97f07278467e6f54f96231d179d8a2b940daad7d8c66b658e8ff30b38",
+    "871bd04cd53ceab451449e944ffd103ee9519e8ab61fc6d0b9832055f999de81.json": "93332a4132cd9e7b3e0a289d277ca1033d3c78dc148253ddab0eaf1fb3dc4fb5",
+    "cfe2a32675b234ac11271ee7025ea93c737e35a57be21465eacaa4b1cecf1915.json": "cdde408e30f70a1257da1147168a2e0ef6ce00c4ca3b5c3e1cab11137aa06b09",
+    "e65bbfcafcdd4e2bb55648e66766506a02dfe4625e7fe303d3fa3f7f6c8880a7.json": "4bb9e3e6aa18cdee49cb53618d22eaa5b4524d536ae6efdc0c49ef26a3235bb7",
+    "f3ad989bcc46eb49f718626fd37f8aab8539b3670b206c5c32474e4b40bec163.json": "7473ba33180d0ef0267c1d9e71b5cbe790d2bbf98d4ceed51db9a5451de81f3e",
+    "fbafd892a43f5b1aa062d19c4570bb4c420fa204e475e419fba698554ccc0379.json": "a964088d3665e17b37b10341f4f6079b81ddf7da9b1656c7e28d8efc3ce2cee3"
+  },
+  "eventsHashes": {
+    "event-424282ac6817d2b5554ad3f0.json": "a0e74bd84bb44ae98546ad638b9f007ed90436a938e8c37e53666e8bf2b448cf",
+    "event-4fcc9a049e58183e5a5ca0d8.json": "977be547d316196b17f44c6e0a0bc149f9a55f99bb40d767b6202b4c28621a49",
+    "event-6a87d9bda5bb79f5d2849ac8.json": "07b2e2acb396ab342af7023cca743c6be41aacb0089ad3e1303771b566d08cf5",
+    "event-6bae613a680308e83b60ce24.json": "7af93d4b18c090961028d343d766437762d77ba49ee1dbbeed1674f3b30e0f42",
+    "event-9371b3868cb8da847d31a04b.json": "742eaa81ab06b75bfb8564f7dc036e1e71ac7238afae0624e4d555a72e09a9a2",
+    "event-ac53f9dc87fec3f5228ecc2e.json": "7416cb27650f5950cb77874cebf47324d5d4daefb8029983256c9ffee694e691",
+    "event-beaac3bb0ae41829220f9f2a.json": "7b7a84a50dc3a0a1b5db8fb0a3a2b94c2f4270262a99760da73748732b0347fd",
+    "event-db477957b702ef141ddbd88c.json": "5e197f3ea71f8833743a64406aca70f4a0440200cb3f38740133bc301a63a8b4",
+    "event-f10be47a939cbf1a6d0ec586.json": "ffd9e995cce5debdb4bbb944b919283e74221beec443c4ea7302c63c8a4449e4",
+    "event-f1428e61396e88f3f7368121.json": "b7bfa344799c047d6a0267ada7f23905003afb27d2e59306b849c473205f578d"
+  }
+}

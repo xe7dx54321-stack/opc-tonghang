@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-28-senyue-prea",
+  "title": "独家｜“把AI装进人的腿里”，清华校友刘得锐又拿到钱了",
+  "url": "https://www.chinaventure.com.cn/news/114-20261027-393783.html",
+  "source": "web-search",
+  "sourceTier": 3,
+  "topic": [
+    "embodied-ai"
+  ],
+  "publishedAt": "2026-10-27T10:13:50+08:00",
+  "fetchedAt": "2026-10-27T20:46:34+08:00",
+  "summary": "独家｜“把AI装进人的腿里”，清华校友刘得锐又拿到钱了 10月27日， 投中网独家获悉，森越成行（成都）科技有限公司（简称“森越成行”）已于近日完成千万元级别Pre-A轮融资，由云启资本独家投资。 此前，他们已获得祥峰投资、险峰长青等投资。 这家成立于2025年的公司，由两位清华校友刘得锐和高杰在成都创立。以人体增强为",
+  "investorNote": "医疗辅助与人体增强硬件已有具体订单线索，但营收、交付和合规仍需继续核实。",
+  "score": 0.67,
+  "fact": {
+    "subject": "森越成行",
+    "action": "完成",
+    "object": "千万元级 Pre-A 融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "投中网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "fbafd892a43f5b1aa062d19c4570bb4c420fa204e475e419fba698554ccc0379",
+    "originalUrl": "https://www.chinaventure.com.cn/news/114-20261027-393783.html",
+    "originalPublishedAt": "2026-10-27T10:13:50+08:00",
+    "checkedAt": "2026-10-27T23:35:59.861Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "fbafd892a43f5b1aa062d19c4570bb4c420fa204e475e419fba698554ccc0379",
+      "kind": "fact",
+      "quote": "森越成行（成都）科技有限公司（简称“森越成行”）已于近日完成千万元级别Pre-A轮融资，由云启资本独家投资。"
+    },
+    {
+      "snapshotId": "fbafd892a43f5b1aa062d19c4570bb4c420fa204e475e419fba698554ccc0379",
+      "kind": "fact",
+      "quote": "首款产品Synrise S5仿生智能液压膝关节，不仅在欧洲市场完成落地验证，还在境内外市场获得了超千万元订单。"
+    },
+    {
+      "snapshotId": "fbafd892a43f5b1aa062d19c4570bb4c420fa204e475e419fba698554ccc0379",
+      "kind": "condition",
+      "quote": "他们正在研发的下一款产品，是能够主动输出动力的膝关节。"
+    }
+  ],
+  "displayTitle": "森越成行获千万元级 Pre-A 融资，智能膝关节已量产",
+  "narrative": "投中网 10 月 27 日独家披露，森越成行近日完成由云启资本独投的千万元级 Pre-A 融资。公司称 Synrise S5 智能液压膝关节已量产、在欧洲完成落地验证，境内外订单超过千万元；下一代主动动力膝关节仍在研发。对具身团队来说，真实人体步态数据、质量控制和渠道付款比“机器人概念”更能说明商业进展。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "投中网当日独家披露融资；融资完成时间仅写“近日”，occurredAt 保持空。"
+  },
+  "eventId": "event-beaac3bb0ae41829220f9f2a",
+  "occurrenceId": "occ-beaac3bb0ae41829220f9f2a",
+  "clusterId": "event-beaac3bb0ae41829220f9f2a",
+  "duplicateOf": null,
+  "relatedItems": []
+}

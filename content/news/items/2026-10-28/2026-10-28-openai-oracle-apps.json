@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-28-openai-oracle-apps",
+  "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+  "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+  "source": "openai-news",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "publishedAt": "2026-10-27T07:00:00.000Z",
+  "fetchedAt": "2026-10-27T17:14:51.556Z",
+  "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+  "investorNote": "企业 Agent 的竞争焦点正在转向现有业务系统的授权、采购与治理入口。",
+  "score": 0.78,
+  "fact": {
+    "subject": "OpenAI 与 Oracle",
+    "action": "扩展合作",
+    "object": "Oracle 应用与数据接入 ChatGPT 及新产品",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "OpenAI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "3ec7a50eb8969cfc58f2e0d4c922ae0fe3e9f97030f14715e4389175479c309b",
+    "originalUrl": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "originalPublishedAt": "2026-10-27T07:00:00.000Z",
+    "checkedAt": "2026-10-27T23:35:59.617Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "3ec7a50eb8969cfc58f2e0d4c922ae0fe3e9f97030f14715e4389175479c309b",
+      "kind": "fact",
+      "quote": "OpenAI and Oracle are bringing Oracle applications and data into ChatGPT and powering new Oracle products and services with OpenAI models and products."
+    },
+    {
+      "snapshotId": "3ec7a50eb8969cfc58f2e0d4c922ae0fe3e9f97030f14715e4389175479c309b",
+      "kind": "condition",
+      "quote": "Oracle is developing Oracle AI Workspace"
+    },
+    {
+      "snapshotId": "3ec7a50eb8969cfc58f2e0d4c922ae0fe3e9f97030f14715e4389175479c309b",
+      "kind": "condition",
+      "quote": "Oracle customers in the U.S. can purchase access to the OpenAI API, Codex, and ChatGPT Work through Oracle Marketplace"
+    }
+  ],
+  "displayTitle": "OpenAI 与 Oracle 扩大合作，企业应用拟接入 ChatGPT",
+  "narrative": "OpenAI 与 Oracle 宣布扩展合作：Oracle 正开发 AI Workspace，计划让用户在 ChatGPT 中读取获准的企业应用数据并完成工作流；Oracle 也公布安全、SMB 套餐和应用构建产品。美国客户可经 Oracle Marketplace 采购 OpenAI 服务。这里的关键是企业身份、权限和采购渠道被接进 Agent 入口，但 Workspace 仍处开发阶段，不能写成全面上线。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当天合作公告新增 Oracle 应用集成及多个产品计划，已有的两家公司云合作只是背景。"
+  },
+  "eventId": "event-db477957b702ef141ddbd88c",
+  "occurrenceId": "occ-db477957b702ef141ddbd88c",
+  "clusterId": "event-db477957b702ef141ddbd88c",
+  "duplicateOf": null,
+  "relatedItems": []
+}

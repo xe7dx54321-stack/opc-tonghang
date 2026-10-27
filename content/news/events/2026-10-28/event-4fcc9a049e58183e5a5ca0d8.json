@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-4fcc9a049e58183e5a5ca0d8",
+  "title": "Liquid AI 开放 LFM3 多模态模型，瞄准端侧专用化",
+  "firstSeen": "2026-10-28",
+  "editionDate": "2026-10-28",
+  "occurrences": [
+    {
+      "id": "occ-4fcc9a049e58183e5a5ca0d8",
+      "fact": {
+        "subject": "Liquid AI",
+        "action": "发布",
+        "object": "LFM3 多模态模型家族",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-28",
+      "reports": [
+        {
+          "ref": "2026-10-28/2026-10-28-liquid-lfm3",
+          "itemId": "2026-10-28-liquid-lfm3",
+          "editionDate": "2026-10-28",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "source": "hugging-face-blog",
+          "owner": "Liquid AI",
+          "role": "principal",
+          "publishedAt": "2026-10-27T17:16:52.000Z",
+          "title": "Liquid AI 开放 LFM3 多模态模型，瞄准端侧专用化"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-28"
+}

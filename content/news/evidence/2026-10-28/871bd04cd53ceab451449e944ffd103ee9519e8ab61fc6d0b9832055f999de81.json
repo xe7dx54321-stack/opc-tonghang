@@ -1,0 +1,14 @@
+{
+  "snapshotId": "871bd04cd53ceab451449e944ffd103ee9519e8ab61fc6d0b9832055f999de81",
+  "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+  "publishedAt": "2026-10-27T16:30:57.000Z",
+  "publishedAtQuote": "Tue, 27 Oct 2026 16:30:57 +0000",
+  "retrievedAt": "2026-10-27T23:35:59.714Z",
+  "method": "agent-tool",
+  "contentHash": "c8fe865ffca589c2600af2396e871a29cc7d7320c47faa1cd1fbca458f4c46cc",
+  "quotations": [
+    "Google DeepMind released its newest world model, Genie 4, in research preview on Tuesday.",
+    "The model also generates real-time audio that matches the simulated world, including music, ambient noises, and interactive dialogue.",
+    "It can maintain a consistent scene for up to two minutes, double its predecessor’s limit"
+  ]
+}

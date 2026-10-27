@@ -1,0 +1,14 @@
+{
+  "snapshotId": "71cf0c1dc4511fa3f7b6abe24eb35729432bca24a2f16c13eca1a2b570be4092",
+  "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+  "publishedAt": "2026-10-27T00:00:00.000Z",
+  "publishedAtQuote": "2026-10-27T00:00:00.000Z",
+  "retrievedAt": "2026-10-27T23:35:59.583Z",
+  "method": "agent-tool",
+  "contentHash": "ad09e9b89ef502bdb78bfccb2138740914ea561c675a4c6fd191312798da433d",
+  "quotations": [
+    "Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems.",
+    "In this post, we share details of five attack chains, which led to remote code execution and other critical impacts with little to no user interaction.",
+    "We reported each vulnerability to the affected vendor under our coordinated vulnerability disclosure"
+  ]
+}

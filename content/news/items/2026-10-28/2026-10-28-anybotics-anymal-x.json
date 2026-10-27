@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-28-anybotics-anymal-x",
+  "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
+  "url": "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "publishedAt": "2026-10-27T14:29:58.000Z",
+  "fetchedAt": "2026-10-27T15:13:29.205Z",
+  "summary": "ANYbotics has designed the ANYmal X inspection robot to comply with the strictest safety standards of the oil, gas, and chemical industries. The post ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres appeared first on The Robot Report.",
+  "investorNote": "工业机器人商业化要从演示跨到危险场景认证、稳定运行和维护系统集成。",
+  "score": 0.75,
+  "fact": {
+    "subject": "ANYbotics",
+    "action": "推出并交付",
+    "object": "防爆环境巡检四足机器人 ANYmal X",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e65bbfcafcdd4e2bb55648e66766506a02dfe4625e7fe303d3fa3f7f6c8880a7",
+    "originalUrl": "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/",
+    "originalPublishedAt": "2026-10-27T14:29:58.000Z",
+    "checkedAt": "2026-10-27T23:35:59.774Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e65bbfcafcdd4e2bb55648e66766506a02dfe4625e7fe303d3fa3f7f6c8880a7",
+      "kind": "fact",
+      "quote": "ANYbotics AG today launched ANYmal X, which it claimed is “the world’s first legged inspection robot for explosive atmospheres.”"
+    },
+    {
+      "snapshotId": "e65bbfcafcdd4e2bb55648e66766506a02dfe4625e7fe303d3fa3f7f6c8880a7",
+      "kind": "condition",
+      "quote": "ANYbotics built ANYmal X to comply with the ATEX standard in Europe and IECEx globally."
+    },
+    {
+      "snapshotId": "e65bbfcafcdd4e2bb55648e66766506a02dfe4625e7fe303d3fa3f7f6c8880a7",
+      "kind": "fact",
+      "quote": "the field-tested, industrial-grade robot now being delivered to customers."
+    }
+  ],
+  "displayTitle": "ANYbotics 开始交付防爆巡检四足机器人 ANYmal X",
+  "narrative": "ANYbotics 推出并开始向客户交付 ANYmal X，面向油气和化工等有爆炸性气氛的设施巡检。The Robot Report 报道其按欧洲 ATEX 和全球 IECEx 要求设计，搭载热成像、声学、视觉与气体传感器。核心门槛不在四足形态本身，而在每个高功率部件的安全认证，以及能否把巡检读数接入维护流程。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当天推出并开始交付的新型号，区别于 ANYbotics 既有巡检机器人。"
+  },
+  "eventId": "event-f1428e61396e88f3f7368121",
+  "occurrenceId": "occ-f1428e61396e88f3f7368121",
+  "clusterId": "event-f1428e61396e88f3f7368121",
+  "duplicateOf": null,
+  "relatedItems": []
+}

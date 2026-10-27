@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-f1428e61396e88f3f7368121",
+  "title": "ANYbotics 开始交付防爆巡检四足机器人 ANYmal X",
+  "firstSeen": "2026-10-28",
+  "editionDate": "2026-10-28",
+  "occurrences": [
+    {
+      "id": "occ-f1428e61396e88f3f7368121",
+      "fact": {
+        "subject": "ANYbotics",
+        "action": "推出并交付",
+        "object": "防爆环境巡检四足机器人 ANYmal X",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-28",
+      "reports": [
+        {
+          "ref": "2026-10-28/2026-10-28-anybotics-anymal-x",
+          "itemId": "2026-10-28-anybotics-anymal-x",
+          "editionDate": "2026-10-28",
+          "url": "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/",
+          "source": "robot-report",
+          "owner": "The Robot Report",
+          "role": "observer",
+          "publishedAt": "2026-10-27T14:29:58.000Z",
+          "title": "ANYbotics 开始交付防爆巡检四足机器人 ANYmal X"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-28"
+}

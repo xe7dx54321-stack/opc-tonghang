@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-db477957b702ef141ddbd88c",
+  "title": "OpenAI 与 Oracle 扩大合作，企业应用拟接入 ChatGPT",
+  "firstSeen": "2026-10-28",
+  "editionDate": "2026-10-28",
+  "occurrences": [
+    {
+      "id": "occ-db477957b702ef141ddbd88c",
+      "fact": {
+        "subject": "OpenAI 与 Oracle",
+        "action": "扩展合作",
+        "object": "Oracle 应用与数据接入 ChatGPT 及新产品",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-28",
+      "reports": [
+        {
+          "ref": "2026-10-28/2026-10-28-openai-oracle-apps",
+          "itemId": "2026-10-28-openai-oracle-apps",
+          "editionDate": "2026-10-28",
+          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "source": "openai-news",
+          "owner": "OpenAI",
+          "role": "principal",
+          "publishedAt": "2026-10-27T07:00:00.000Z",
+          "title": "OpenAI 与 Oracle 扩大合作，企业应用拟接入 ChatGPT"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-28"
+}

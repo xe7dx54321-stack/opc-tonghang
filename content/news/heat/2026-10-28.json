@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-28",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-ce0a77abe188b64e7bbb",
+      "title": "Google DeepMind 发布 Genie 4 研究预览",
+      "summary": "官方发布与媒体报道对应同一次 Genie 4 世界模型发布。",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "deepmind.google",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation"
+        },
+        {
+          "name": "techcrunch.com",
+          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering"
+        }
+      ],
+      "memberUrls": [
+        "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+        "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering"
+      ]
+    }
+  ]
+}

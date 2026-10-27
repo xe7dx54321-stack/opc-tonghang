@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-28-embotech-bmw-million",
+  "title": "Embotech and BMW move 1M vehicles with automated driving technology",
+  "url": "https://www.therobotreport.com/embotech-bmw-move-1m-vehicles-automated-driving-technology/",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "publishedAt": "2026-10-27T12:45:27.000Z",
+  "fetchedAt": "2026-10-27T13:10:59.321Z",
+  "summary": "Embotech is automatically moving 3,500 vehicles around the clock daily across four BMW sites in the U.K. and Germany. The post Embotech and BMW move 1M vehicles with automated driving technology appeared first on The Robot Report.",
+  "investorNote": "封闭场景自动驾驶的订单逻辑更取决于吞吐、停机率与改造成本。",
+  "score": 0.73,
+  "fact": {
+    "subject": "Embotech 与 BMW",
+    "action": "披露运营里程碑",
+    "object": "自动驾驶厂内移车累计 100 万辆",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "cfe2a32675b234ac11271ee7025ea93c737e35a57be21465eacaa4b1cecf1915",
+    "originalUrl": "https://www.therobotreport.com/embotech-bmw-move-1m-vehicles-automated-driving-technology/",
+    "originalPublishedAt": "2026-10-27T12:45:27.000Z",
+    "checkedAt": "2026-10-27T23:35:59.805Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "cfe2a32675b234ac11271ee7025ea93c737e35a57be21465eacaa4b1cecf1915",
+      "kind": "fact",
+      "quote": "Embotech and BMW today said they have moved 1 million vehicles using Embotech’s automated driving technology across four sites in the U.K. and Germany."
+    },
+    {
+      "snapshotId": "cfe2a32675b234ac11271ee7025ea93c737e35a57be21465eacaa4b1cecf1915",
+      "kind": "fact",
+      "quote": "about 3,500 vehicle movements a day, with more than 99.5% availability."
+    },
+    {
+      "snapshotId": "cfe2a32675b234ac11271ee7025ea93c737e35a57be21465eacaa4b1cecf1915",
+      "kind": "condition",
+      "quote": "vehicles don’t need self-driving capabilities or extra sensors"
+    }
+  ],
+  "displayTitle": "Embotech 与 BMW 厂内自动驾驶移车累计达 100 万辆",
+  "narrative": "Embotech 与 BMW 披露，四处英德工厂累计利用厂内自动驾驶系统移动 100 万辆车，当前约每日 3500 次、系统可用率超过 99.5%。报道指出感知主要装在厂区基础设施，车辆无需加装自动驾驶传感器。这个里程碑证明封闭工业场景已有持续运行规模，但不能外推为开放道路 L4 商业化。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "新事实是 100 万次累计运营里程碑及当下部署规模，不把系统最初部署写成今日首发。"
+  },
+  "eventId": "event-6bae613a680308e83b60ce24",
+  "occurrenceId": "occ-6bae613a680308e83b60ce24",
+  "clusterId": "event-6bae613a680308e83b60ce24",
+  "duplicateOf": null,
+  "relatedItems": []
+}

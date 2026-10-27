@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-beaac3bb0ae41829220f9f2a",
+  "title": "森越成行获千万元级 Pre-A 融资，智能膝关节已量产",
+  "firstSeen": "2026-10-28",
+  "editionDate": "2026-10-28",
+  "occurrences": [
+    {
+      "id": "occ-beaac3bb0ae41829220f9f2a",
+      "fact": {
+        "subject": "森越成行",
+        "action": "完成",
+        "object": "千万元级 Pre-A 融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-28",
+      "reports": [
+        {
+          "ref": "2026-10-28/2026-10-28-senyue-prea",
+          "itemId": "2026-10-28-senyue-prea",
+          "editionDate": "2026-10-28",
+          "url": "https://www.chinaventure.com.cn/news/114-20261027-393783.html",
+          "source": "web-search",
+          "owner": "投中网",
+          "role": "observer",
+          "publishedAt": "2026-10-27T10:13:50+08:00",
+          "title": "森越成行获千万元级 Pre-A 融资，智能膝关节已量产"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-28"
+}

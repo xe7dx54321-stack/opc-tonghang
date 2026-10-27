@@ -1,0 +1,14 @@
+{
+  "snapshotId": "3ec7a50eb8969cfc58f2e0d4c922ae0fe3e9f97030f14715e4389175479c309b",
+  "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+  "publishedAt": "2026-10-27T07:00:00.000Z",
+  "publishedAtQuote": "Tue, 27 Oct 2026 07:00:00 GMT",
+  "retrievedAt": "2026-10-27T23:35:59.617Z",
+  "method": "agent-tool",
+  "contentHash": "674037449583243d165c8a9be3dd945c66ed983a248e33da178abf75cd86a551",
+  "quotations": [
+    "OpenAI and Oracle are bringing Oracle applications and data into ChatGPT and powering new Oracle products and services with OpenAI models and products.",
+    "Oracle is developing Oracle AI Workspace",
+    "Oracle customers in the U.S. can purchase access to the OpenAI API, Codex, and ChatGPT Work through Oracle Marketplace"
+  ]
+}

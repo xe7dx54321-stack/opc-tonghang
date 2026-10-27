@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-9371b3868cb8da847d31a04b",
+  "title": "Google DeepMind 发布 Genie 4 研究预览，世界模型可实时改场景",
+  "firstSeen": "2026-10-28",
+  "editionDate": "2026-10-28",
+  "occurrences": [
+    {
+      "id": "occ-9371b3868cb8da847d31a04b",
+      "fact": {
+        "subject": "Google DeepMind",
+        "action": "发布研究预览",
+        "object": "Genie 4 世界模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-28",
+      "reports": [
+        {
+          "ref": "2026-10-28/2026-10-28-deepmind-genie-4",
+          "itemId": "2026-10-28-deepmind-genie-4",
+          "editionDate": "2026-10-28",
+          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-27T16:30:57.000Z",
+          "title": "Google DeepMind 发布 Genie 4 研究预览，世界模型可实时改场景"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-28"
+}
