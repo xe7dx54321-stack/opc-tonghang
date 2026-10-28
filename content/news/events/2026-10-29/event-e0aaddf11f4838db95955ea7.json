@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-e0aaddf11f4838db95955ea7",
+  "title": "微软首次披露 Azure 季度收入：332 亿美元",
+  "firstSeen": "2026-10-29",
+  "editionDate": "2026-10-29",
+  "occurrences": [
+    {
+      "id": "occ-e0aaddf11f4838db95955ea7",
+      "fact": {
+        "subject": "Microsoft",
+        "action": "首次披露",
+        "object": "Azure 季度收入",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-29",
+      "reports": [
+        {
+          "ref": "2026-10-29/2026-10-29-azure-quarterly-revenue",
+          "itemId": "2026-10-29-azure-quarterly-revenue",
+          "editionDate": "2026-10-29",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-28T21:58:32.000Z",
+          "title": "微软首次披露 Azure 季度收入：332 亿美元"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-29"
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-29-gemini-carbon",
+  "title": "Gemini 4 Carbon: Our next frontier model",
+  "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+  "source": "deepmind",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Gemini",
+    "Carbon",
+    "Our"
+  ],
+  "publishedAt": "2026-10-28T17:00:00+00:00",
+  "fetchedAt": "2026-10-28T17:04:46.801Z",
+  "fact": {
+    "subject": "Google DeepMind",
+    "action": "宣布",
+    "object": "Gemini 4 Carbon 模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Google DeepMind",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "70ad0ca7a483968defa0fb5ae4e87ee8a465b60540d17125978e51c384df9e56",
+    "originalUrl": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "originalPublishedAt": "2026-10-28T17:00:00+00:00",
+    "checkedAt": "2026-10-28T23:34:16.790Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "70ad0ca7a483968defa0fb5ae4e87ee8a465b60540d17125978e51c384df9e56",
+      "kind": "fact",
+      "quote": "Today, we’re announcing the next frontier model: Gemini 4 Carbon, our strongest model with state-of-the-art cybersecurity and long horizon capabilities."
+    },
+    {
+      "snapshotId": "70ad0ca7a483968defa0fb5ae4e87ee8a465b60540d17125978e51c384df9e56",
+      "kind": "condition",
+      "quote": "We’re continuing to gather feedback and iterate on guardrails before making Carbon available to developers, businesses, and consumers via our product surfaces as soon as possible."
+    },
+    {
+      "snapshotId": "70ad0ca7a483968defa0fb5ae4e87ee8a465b60540d17125978e51c384df9e56",
+      "kind": "fact",
+      "quote": "SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and CWE-bench (71.0%) for patching."
+    },
+    {
+      "snapshotId": "70ad0ca7a483968defa0fb5ae4e87ee8a465b60540d17125978e51c384df9e56",
+      "kind": "condition",
+      "quote": "Gemini 4 Carbon will launch at the same introductory price"
+    },
+    {
+      "snapshotId": "70ad0ca7a483968defa0fb5ae4e87ee8a465b60540d17125978e51c384df9e56",
+      "kind": "fact",
+      "quote": "Carbon ranks #1 on the recently updated v5.0 of\nArtificial Analysis Intelligence Index\nat 59."
+    },
+    {
+      "snapshotId": "70ad0ca7a483968defa0fb5ae4e87ee8a465b60540d17125978e51c384df9e56",
+      "kind": "condition",
+      "quote": "as Argon at $2 per million input tokens and $10 per million output tokens, with cached input tokens priced at 95% off input token price."
+    }
+  ],
+  "displayTitle": "Google 发布 Gemini 4 Carbon，先向网络防御团队开放",
+  "summary": "Google DeepMind 于 10 月 28 日宣布 Gemini 4 Carbon，称其在 Artificial Analysis Intelligence Index v5.0 得分 59，并在三个网络安全测试中取得 88.2%、54.8% 和 71.0%。目前仅向部分网络防御者提供访问，公开产品和开发者渠道尚未开放。",
+  "investorNote": "安全能力是本次发布的主轴，但基准分数与大规模真实部署之间仍有距离；先看受限开放后的独立实测。",
+  "narrative": "Google DeepMind 发布 Gemini 4 Carbon，主打长程任务与网络安全。官方披露多项安全基准结果，同时明确本周仅向部分防御团队开放；对企业采购来说，性能排名尚不能代替可用性和权限边界。",
+  "score": 0.93,
+  "duplicateOf": null,
+  "clusterId": "event-398478568c34db125cc046ff",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的具体动作与近两周事件索引中条目无可确认的同次发生或直接后续关系。"
+  },
+  "eventId": "event-398478568c34db125cc046ff",
+  "occurrenceId": "occ-398478568c34db125cc046ff",
+  "relatedItems": []
+}

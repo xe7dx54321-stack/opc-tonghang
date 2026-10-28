@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-40b1fb116131e126ca8fb183",
+  "title": "北美工业机器人三季度订单同比增 24.8%",
+  "firstSeen": "2026-10-29",
+  "editionDate": "2026-10-29",
+  "occurrences": [
+    {
+      "id": "occ-40b1fb116131e126ca8fb183",
+      "fact": {
+        "subject": "A3",
+        "action": "公布",
+        "object": "2026 年第三季度北美机器人订单数据",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-29",
+      "reports": [
+        {
+          "ref": "2026-10-29/2026-10-29-robot-orders-q3",
+          "itemId": "2026-10-29-robot-orders-q3",
+          "editionDate": "2026-10-29",
+          "url": "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/",
+          "source": "robot-report",
+          "owner": "The Robot Report",
+          "role": "relayer",
+          "publishedAt": "2026-10-28T18:59:30.000Z",
+          "title": "北美工业机器人三季度订单同比增 24.8%"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-29"
+}

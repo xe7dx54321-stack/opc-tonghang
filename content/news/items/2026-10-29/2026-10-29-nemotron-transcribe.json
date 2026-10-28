@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-29-nemotron-transcribe",
+  "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+  "source": "hugging-face-blog",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "NVIDIA Nemotron",
+    "Transcribe",
+    "Granary",
+    "Adapt"
+  ],
+  "publishedAt": "2026-10-28T14:58:17.000Z",
+  "fetchedAt": "2026-10-28T15:02:40.462Z",
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "发布",
+    "object": "Nemotron 3.5 Transcribe 与 Granary v2",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "254f9871b784c0600e437dcb1011a18ef7bc062d0062654cedeed7b78a2c7d6f",
+    "originalUrl": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "originalPublishedAt": "2026-10-28T14:58:17.000Z",
+    "checkedAt": "2026-10-28T23:34:16.891Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "254f9871b784c0600e437dcb1011a18ef7bc062d0062654cedeed7b78a2c7d6f",
+      "kind": "fact",
+      "quote": "It brings transcription, speaker attribution (diarization), translation, and audio question answering into one checkpoint: it transcribes 40 languages, translates 31 of them to or from English, and attributes speakers in 13. It handles recordings up to an hour long and labels up to eight speakers."
+    },
+    {
+      "snapshotId": "254f9871b784c0600e437dcb1011a18ef7bc062d0062654cedeed7b78a2c7d6f",
+      "kind": "fact",
+      "quote": "only about 4B of its 30B parameters are active per token."
+    }
+  ],
+  "displayTitle": "英伟达发布 Nemotron 3.5 Transcribe：一套模型处理转写与说话人识别",
+  "summary": "英伟达在 Hugging Face 发布开源权重 Nemotron 3.5 Transcribe，并同步介绍 Granary v2 数据管线。官方称该模型可转写 40 种语言、与英语双向翻译其中 31 种，并在 13 种语言中标注说话人；输入为最长一小时的录音。",
+  "investorNote": "把转写、翻译和说话人识别合入同一模型，降低语音工作流集成成本；具体效果仍要按语种和录音场景测试。",
+  "narrative": "英伟达发布 Nemotron 3.5 Transcribe 与 Granary v2，前者将转写、翻译、说话人识别和音频问答合到一套开源权重模型中。官方列出的 40 种转写语言与一小时录音上限适合会议和后处理场景，实时语音能力不能由此推定。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "event-5bf73bec98563c0a06ae30f8",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的具体动作与近两周事件索引中条目无可确认的同次发生或直接后续关系。"
+  },
+  "eventId": "event-5bf73bec98563c0a06ae30f8",
+  "occurrenceId": "occ-5bf73bec98563c0a06ae30f8",
+  "relatedItems": []
+}

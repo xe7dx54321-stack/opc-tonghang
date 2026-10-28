@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-29-azure-quarterly-revenue",
+  "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+  "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Microsoft",
+    "Azure",
+    "But",
+    "AWS"
+  ],
+  "publishedAt": "2026-10-28T21:58:32.000Z",
+  "fetchedAt": "2026-10-28T22:08:08.123Z",
+  "fact": {
+    "subject": "Microsoft",
+    "action": "首次披露",
+    "object": "Azure 季度收入",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e4a98dd46661a192e302083ed9529c2598debc84ec7f60b3071e5c0c5a705167",
+    "originalUrl": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "originalPublishedAt": "2026-10-28T21:58:32.000Z",
+    "checkedAt": "2026-10-28T23:34:16.832Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e4a98dd46661a192e302083ed9529c2598debc84ec7f60b3071e5c0c5a705167",
+      "kind": "fact",
+      "quote": "reported that Azure brought in a healthy $33.2 billion\nin revenue for the July-September quarter, up 48% from a year earlier."
+    },
+    {
+      "snapshotId": "e4a98dd46661a192e302083ed9529c2598debc84ec7f60b3071e5c0c5a705167",
+      "kind": "fact",
+      "quote": "It accounted for roughly 36% of Microsoft’s $92.3 billion in quarterly revenue."
+    }
+  ],
+  "displayTitle": "微软首次披露 Azure 季度收入：332 亿美元",
+  "summary": "微软本季首次单列 Azure 美元收入，TechCrunch 根据财报报道，7—9 月收入为 332 亿美元，同比增长 48%；同期微软总收入 923 亿美元，Azure 约占 36%。",
+  "investorNote": "Azure 绝对收入可直接与 AWS 和 Google Cloud 比较，云业务估值从增长率叙事进入规模与资本开支的双重检验。",
+  "narrative": "微软首次公布 Azure 单季收入，7—9 月为 332 亿美元、同比增长 48%。这一披露使外界能直接核对其云业务规模，也让 AI 基础设施投入究竟带来多少可计量收入更容易被追问。",
+  "score": 0.88,
+  "duplicateOf": null,
+  "clusterId": "event-e0aaddf11f4838db95955ea7",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的具体动作与近两周事件索引中条目无可确认的同次发生或直接后续关系。"
+  },
+  "eventId": "event-e0aaddf11f4838db95955ea7",
+  "occurrenceId": "occ-e0aaddf11f4838db95955ea7",
+  "relatedItems": []
+}

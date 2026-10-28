@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-7195830996aebd0b9ae025fd",
+  "title": "蚂蚁百灵开源 Ling-3.1-flash-1019 与基础模型",
+  "firstSeen": "2026-10-29",
+  "editionDate": "2026-10-29",
+  "occurrences": [
+    {
+      "id": "occ-7195830996aebd0b9ae025fd",
+      "fact": {
+        "subject": "蚂蚁百灵",
+        "action": "开源",
+        "object": "Ling-3.1-flash-1019 与基础模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-29",
+      "reports": [
+        {
+          "ref": "2026-10-29/2026-10-29-ling-flash-1019",
+          "itemId": "2026-10-29-ling-flash-1019",
+          "editionDate": "2026-10-29",
+          "url": "https://www.qbitai.com/2026/10/505928.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "observer",
+          "publishedAt": "2026-10-28T04:04:48.000Z",
+          "title": "蚂蚁百灵开源 Ling-3.1-flash-1019 与基础模型"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-29"
+}

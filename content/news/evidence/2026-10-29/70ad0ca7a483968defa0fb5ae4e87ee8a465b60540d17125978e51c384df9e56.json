@@ -1,0 +1,17 @@
+{
+  "snapshotId": "70ad0ca7a483968defa0fb5ae4e87ee8a465b60540d17125978e51c384df9e56",
+  "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+  "publishedAt": "2026-10-28T17:00:00+00:00",
+  "publishedAtQuote": "published_time: 2026-10-28T17:00:00+00:00",
+  "retrievedAt": "2026-10-28T23:34:16.790Z",
+  "method": "agent-tool",
+  "contentHash": "00ba84b0895a2e62f0f83827cd24f035ee6acd8f949474642aab1eaa415198ca",
+  "quotations": [
+    "Today, we’re announcing the next frontier model: Gemini 4 Carbon, our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+    "We’re continuing to gather feedback and iterate on guardrails before making Carbon available to developers, businesses, and consumers via our product surfaces as soon as possible.",
+    "SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and CWE-bench (71.0%) for patching.",
+    "Gemini 4 Carbon will launch at the same introductory price",
+    "Carbon ranks #1 on the recently updated v5.0 of\nArtificial Analysis Intelligence Index\nat 59.",
+    "as Argon at $2 per million input tokens and $10 per million output tokens, with cached input tokens priced at 95% off input token price."
+  ]
+}

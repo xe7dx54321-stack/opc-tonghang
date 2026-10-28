@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-5bf73bec98563c0a06ae30f8",
+  "title": "英伟达发布 Nemotron 3.5 Transcribe：一套模型处理转写与说话人识别",
+  "firstSeen": "2026-10-29",
+  "editionDate": "2026-10-29",
+  "occurrences": [
+    {
+      "id": "occ-5bf73bec98563c0a06ae30f8",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "发布",
+        "object": "Nemotron 3.5 Transcribe 与 Granary v2",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-29",
+      "reports": [
+        {
+          "ref": "2026-10-29/2026-10-29-nemotron-transcribe",
+          "itemId": "2026-10-29-nemotron-transcribe",
+          "editionDate": "2026-10-29",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "source": "hugging-face-blog",
+          "owner": "NVIDIA",
+          "role": "principal",
+          "publishedAt": "2026-10-28T14:58:17.000Z",
+          "title": "英伟达发布 Nemotron 3.5 Transcribe：一套模型处理转写与说话人识别"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-29"
+}

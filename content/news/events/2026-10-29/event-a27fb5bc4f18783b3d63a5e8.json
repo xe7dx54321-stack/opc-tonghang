@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a27fb5bc4f18783b3d63a5e8",
+  "title": "Kodiak 签下 75 辆无人卡车合同，2028 年起向 DTL 交付",
+  "firstSeen": "2026-10-29",
+  "editionDate": "2026-10-29",
+  "occurrences": [
+    {
+      "id": "occ-a27fb5bc4f18783b3d63a5e8",
+      "fact": {
+        "subject": "Kodiak AI",
+        "action": "签订",
+        "object": "DTL Transport 公路无人卡车商业合同",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-29",
+      "reports": [
+        {
+          "ref": "2026-10-29/2026-10-29-kodiak-dtl-contract",
+          "itemId": "2026-10-29-kodiak-dtl-contract",
+          "editionDate": "2026-10-29",
+          "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-28T13:00:00.000Z",
+          "title": "Kodiak 签下 75 辆无人卡车合同，2028 年起向 DTL 交付"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-29"
+}

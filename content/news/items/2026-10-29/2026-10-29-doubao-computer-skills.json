@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-29-doubao-computer-skills",
+  "title": "豆包工作能力升级：操作电脑可录制成技能，锁屏后也能继续任务",
+  "url": "https://www.leiphone.com/category/industrynews/MYDTBZqQkhfVtkte.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Mac",
+    "AI Agent",
+    "Computer Use",
+    "AI"
+  ],
+  "publishedAt": "2026-10-28T07:00:00.000Z",
+  "fetchedAt": "2026-10-28T09:26:43.880Z",
+  "fact": {
+    "subject": "豆包工作",
+    "action": "升级",
+    "object": "电脑操作录制与锁屏任务功能",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "447b7380a2542b24f01eb744c9644b54d6a073f4894a50b11fcf0634181237fb",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/MYDTBZqQkhfVtkte.html",
+    "originalPublishedAt": "2026-10-28T07:00:00.000Z",
+    "checkedAt": "2026-10-28T23:34:16.948Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "447b7380a2542b24f01eb744c9644b54d6a073f4894a50b11fcf0634181237fb",
+      "kind": "fact",
+      "quote": "用户现在可以录制电脑操作，把演示过程保存为可复用技能；另外，需要操作电脑的任务可在 Mac 锁屏后继续执行，用户也可通过手机下达任务、查看结果。"
+    },
+    {
+      "snapshotId": "447b7380a2542b24f01eb744c9644b54d6a073f4894a50b11fcf0634181237fb",
+      "kind": "condition",
+      "quote": "使用时，Mac 需保持开机、联网，豆包客户端持续运行，设备保持唤醒。"
+    }
+  ],
+  "displayTitle": "豆包工作新增电脑操作录制，Mac 锁屏后可继续任务",
+  "summary": "雷峰网 10 月 28 日报道，豆包工作新增将电脑操作录制为可复用技能的功能，并支持经授权后在 Mac 锁屏时继续执行任务，用户还可通过手机下达任务和查看结果。Mac 需保持开机、联网、客户端运行并唤醒。",
+  "investorNote": "从逐次解释步骤转向示教复用，是桌面 Agent 进入重复工作流的一次产品变化；实际可靠性取决于权限和异常处理。",
+  "narrative": "豆包工作上线电脑操作录制与 Mac 锁屏执行能力。用户演示一次流程后可保存为技能，之后在授权范围内复用；锁屏执行仍要求设备开机联网、客户端运行并保持唤醒。桌面 Agent 的竞争点开始落在持续任务而非单次回答。",
+  "score": 0.81,
+  "duplicateOf": null,
+  "clusterId": "event-33f938e462488151f6417345",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的具体动作与近两周事件索引中条目无可确认的同次发生或直接后续关系。"
+  },
+  "eventId": "event-33f938e462488151f6417345",
+  "occurrenceId": "occ-33f938e462488151f6417345",
+  "relatedItems": []
+}

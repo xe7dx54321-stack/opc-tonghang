@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-29",
+  "window": {
+    "start": 1793143800000,
+    "end": 1793230200000
+  },
+  "digestHash": "6201e57a7864c5e4d79666cbc72aaf795188cb73798104ebd755395f4eb08363",
+  "stories": [
+    {
+      "heading": "Google 发布 Gemini 4 Carbon，先向网络防御团队开放",
+      "itemId": "2026-10-29-gemini-carbon",
+      "eventId": "event-398478568c34db125cc046ff",
+      "occurrenceId": "occ-398478568c34db125cc046ff"
+    },
+    {
+      "heading": "微软首次披露 Azure 季度收入：332 亿美元",
+      "itemId": "2026-10-29-azure-quarterly-revenue",
+      "eventId": "event-e0aaddf11f4838db95955ea7",
+      "occurrenceId": "occ-e0aaddf11f4838db95955ea7"
+    },
+    {
+      "heading": "Google 向美国开发者预览 Connected Apps Platform",
+      "itemId": "2026-10-29-google-connected-apps",
+      "eventId": "event-6ddae0c391249e1e9ce8b54c",
+      "occurrenceId": "occ-6ddae0c391249e1e9ce8b54c"
+    },
+    {
+      "heading": "英伟达发布 Nemotron 3.5 Transcribe：一套模型处理转写与说话人识别",
+      "itemId": "2026-10-29-nemotron-transcribe",
+      "eventId": "event-5bf73bec98563c0a06ae30f8",
+      "occurrenceId": "occ-5bf73bec98563c0a06ae30f8"
+    },
+    {
+      "heading": "OpenAI 与 ServiceNow 扩大合作，工作流接入 ChatGPT",
+      "itemId": "2026-10-29-openai-servicenow",
+      "eventId": "event-d8e1c109610ae1e823546873",
+      "occurrenceId": "occ-d8e1c109610ae1e823546873"
+    },
+    {
+      "heading": "豆包工作新增电脑操作录制，Mac 锁屏后可继续任务",
+      "itemId": "2026-10-29-doubao-computer-skills",
+      "eventId": "event-33f938e462488151f6417345",
+      "occurrenceId": "occ-33f938e462488151f6417345"
+    },
+    {
+      "heading": "蚂蚁百灵开源 Ling-3.1-flash-1019 与基础模型",
+      "itemId": "2026-10-29-ling-flash-1019",
+      "eventId": "event-7195830996aebd0b9ae025fd",
+      "occurrenceId": "occ-7195830996aebd0b9ae025fd"
+    },
+    {
+      "heading": "超进化智能完成数亿元天使轮融资，押注研究基础模型",
+      "itemId": "2026-10-29-superevolution-financing",
+      "eventId": "event-e66eb20dbc5b95175c844dc6",
+      "occurrenceId": "occ-e66eb20dbc5b95175c844dc6"
+    },
+    {
+      "heading": "马来西亚披露 AI 芯片转运案：30 台服务器于 10 月 15 日被查获",
+      "itemId": "2026-10-29-malaysia-ai-chips",
+      "eventId": "event-b02aff32848790002514f991",
+      "occurrenceId": "occ-b02aff32848790002514f991"
+    },
+    {
+      "heading": "北美工业机器人三季度订单同比增 24.8%",
+      "itemId": "2026-10-29-robot-orders-q3",
+      "eventId": "event-40b1fb116131e126ca8fb183",
+      "occurrenceId": "occ-40b1fb116131e126ca8fb183"
+    },
+    {
+      "heading": "Kodiak 签下 75 辆无人卡车合同，2028 年起向 DTL 交付",
+      "itemId": "2026-10-29-kodiak-dtl-contract",
+      "eventId": "event-a27fb5bc4f18783b3d63a5e8",
+      "occurrenceId": "occ-a27fb5bc4f18783b3d63a5e8"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-29-azure-quarterly-revenue.json": "a3eb1fdbc302d102cce30093cbf19e366f8b49e540dc0fffcea44a1158aee593",
+    "2026-10-29-doubao-computer-skills.json": "537641ae5dcf35200f0e7ac3930079a2fd6f74eb35bc12a3696faf0d41b440c3",
+    "2026-10-29-gemini-carbon.json": "c4ce7481d8348b44f3b14990f44443bc5375c608804c52d1c2be2158bd2eb0c2",
+    "2026-10-29-google-connected-apps.json": "d8234176abb3fc6a77a05f25402b1119265c781ee593907f3835415cb9780602",
+    "2026-10-29-kodiak-dtl-contract.json": "541df4f4aac31c358d7a361ac7a790269f6ee4a99f4a5726924ab0b1030568ce",
+    "2026-10-29-ling-flash-1019.json": "764f0c142a14af4080b77e7d72b5aeb76508553446244ae5216d8520869627cb",
+    "2026-10-29-malaysia-ai-chips.json": "61187764eff0820cea5652ef578ac5d70f971e4f166d2904f3da41d45e5ccd34",
+    "2026-10-29-nemotron-transcribe.json": "6063559ffd28040653629eacd7d2fe33603eaa8942fc51e3aa220fda08b9295c",
+    "2026-10-29-openai-servicenow.json": "ab22da56db591232ad9800f76c0a2441ca05cf231ab160defd1014054eab24c9",
+    "2026-10-29-robot-orders-q3.json": "bc33aebefe7d2f9f24b6a617a292ff4c7afdf9f3114e705deb67ace692ecda26",
+    "2026-10-29-superevolution-financing.json": "002804a29a39fe62f2265b63b3e8d4b02cb08c7bde2918360bb9594afd5f200e"
+  },
+  "evidenceHashes": {
+    "254f9871b784c0600e437dcb1011a18ef7bc062d0062654cedeed7b78a2c7d6f.json": "7b373d408d2204200fdb1a9119f1e6bd57c3597ce9e9fb9e1cab021f29ecee12",
+    "2edde5c1231cfb7bbb2a9f9298da307ea14a5a89752e6e5039f5d1b792118aff.json": "e0ff2d0357dc68c1600de408c52899c5a509fc44ae20649c63461d49417c6dee",
+    "447b7380a2542b24f01eb744c9644b54d6a073f4894a50b11fcf0634181237fb.json": "26d7c934dbea2a13fbf8aa799aded2ec96dc4958ba2985108a2f4f927d20bca4",
+    "49dad6280ecf906c1c2be27016cc988f827e9098cd206811076dcc95de1fcde0.json": "6a82db329c9863fbaca1da2e55056e64e16fdd64b32cdc22265f4de8b59b246c",
+    "554be86c6bf2cb5c0105e3181c11fa79ed809fa8575bc3c7456e0d128f9f9631.json": "765a8e77bef093c6cdf573cba4bea34d0a3dcaac3f52ae9d8ea9931d848d108c",
+    "6137a62e7d1604e76f5a2b0903d46dcd4b4a4c127eb787787ac7b918e9ca0cc0.json": "8b7a6ccaabb9684f5b6988ead0edafb85f650f39218212d020e9cb16b1542e61",
+    "70ad0ca7a483968defa0fb5ae4e87ee8a465b60540d17125978e51c384df9e56.json": "86e3518f2ab2543e07e4d5071771122a4d84fa85c86dac8b3daea0809b44504f",
+    "74cfdfd58e848acf6abf287ce85e22b8f8920c6cc1c6e07e84b2bef9f136a2c6.json": "a34f325b80ba775a7c02f3b83809a9efc93d5db77133167dd4764b4884a92d9a",
+    "b5ebcdec500c9dec77cb2dd492bb46a382fc81855d04fcd6cf661cfcd73e25c5.json": "255b9378fce64f829e9a2fd0bdd1a74c0c42942a8e54232e7682632178a5e1b5",
+    "c604868e468fc21977de6ae8db2ebcd72f43f2ecb4ed9e715d80d9d350766e1a.json": "d320d5c60e07af821cc8412a882f0fd7cab2a19c4703e2307b27a546644950fb",
+    "e4a98dd46661a192e302083ed9529c2598debc84ec7f60b3071e5c0c5a705167.json": "b4c9b3a4f587405787fa5ddec1adf13f82ad9a7991c54889783471f9ce113299"
+  },
+  "eventsHashes": {
+    "event-33f938e462488151f6417345.json": "94c5270fb9188cb51c3d377e4c2823d9959bfafcb50ed9923ce38a4a8cf68bd3",
+    "event-398478568c34db125cc046ff.json": "18ff80d8915618d439285738c9014a934d5aaaff9a3f662f4419debfed98d32a",
+    "event-40b1fb116131e126ca8fb183.json": "c5420111c9e54bf02f001bf466402f318824be4139b7ab180cf2d061f1a78e48",
+    "event-5bf73bec98563c0a06ae30f8.json": "4deed83dd6c7885a93e30f2a06c14e4612a76001e691a62fa6c138cd6a4439ed",
+    "event-6ddae0c391249e1e9ce8b54c.json": "f18f8853c228c54cb40b918641827d0a4bccc672f46481ebe21a4e4f4054d221",
+    "event-7195830996aebd0b9ae025fd.json": "563dc99f142afc4a3499aee8bd5ab1fcce04f90de2793c65e105176ccd3a67a4",
+    "event-a27fb5bc4f18783b3d63a5e8.json": "6ff33aaa58f31ee3d30b358021b6d091e3bb275eacd7019c83538f7900eb8f84",
+    "event-b02aff32848790002514f991.json": "975c7f9fd620c33b094f720924c340dd0006fb1c2fb8f6cafec3a5a540ec912b",
+    "event-d8e1c109610ae1e823546873.json": "47b8177895ccb63b13dc948f2aa6d6c8eaefc5eb96ce558ffee8f41ff11e9b7f",
+    "event-e0aaddf11f4838db95955ea7.json": "99dc9b3590eef6bcfd0f1f44990ad5c4c5ae446476847e4ef3bcee3f2b1b2d27",
+    "event-e66eb20dbc5b95175c844dc6.json": "a3cce972e07856337a00fa63386857e61a5bf7bcb871a8fe8cc75ee1a1b5f7c9"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-29-malaysia-ai-chips",
+  "title": "Malaysia seizes $12 million worth of advanced AI chips hidden inside 30 servers",
+  "url": "https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Malaysia",
+    "AI",
+    "Malaysian",
+    "Kuala Lumpur International Airport"
+  ],
+  "publishedAt": "2026-10-28T17:02:14.000Z",
+  "fetchedAt": "2026-10-28T17:35:15.564Z",
+  "fact": {
+    "subject": "马来西亚海关",
+    "action": "披露",
+    "object": "10 月 15 日查获的 AI 芯片转运案",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "49dad6280ecf906c1c2be27016cc988f827e9098cd206811076dcc95de1fcde0",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub",
+    "originalPublishedAt": "2026-10-28T17:02:14.000Z",
+    "checkedAt": "2026-10-28T23:34:17.028Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "49dad6280ecf906c1c2be27016cc988f827e9098cd206811076dcc95de1fcde0",
+      "kind": "fact",
+      "quote": "officials found 30 servers containing the chips at Kuala Lumpur International Airport’s free trade zone on October 15th."
+    },
+    {
+      "snapshotId": "49dad6280ecf906c1c2be27016cc988f827e9098cd206811076dcc95de1fcde0",
+      "kind": "condition",
+      "quote": "Several key facts remain unknown, including the chip type, country of manufacture, final destination, and intended recipient"
+    },
+    {
+      "snapshotId": "49dad6280ecf906c1c2be27016cc988f827e9098cd206811076dcc95de1fcde0",
+      "kind": "fact",
+      "quote": "Malaysian customs have seized over $12 million (49.5 million Malaysian ringgit) worth of advanced AI chips in a single bust"
+    }
+  ],
+  "displayTitle": "马来西亚披露 AI 芯片转运案：30 台服务器于 10 月 15 日被查获",
+  "summary": "Tom’s Hardware 于 10 月 28 日援引 Reuters 报道，马来西亚海关披露 10 月 15 日在吉隆坡机场自由贸易区查获 30 台装有先进 AI 芯片的服务器，估值约 4950 万林吉特。芯片型号、原产地、最终目的地和收货方尚未公开。",
+  "investorNote": "这起旧日查获的新披露显示转运监管压力，但现有材料无法推断芯片流向中国或涉及具体厂商。",
+  "narrative": "马来西亚海关通过 10 月 28 日报道披露一宗 10 月 15 日查获的 AI 芯片转运案，涉及 30 台服务器、价值约 4950 万林吉特。最终目的地、芯片型号与收货方仍未知；判断出口管制影响时不能把这些空白填成确定结论。",
+  "score": 0.65,
+  "duplicateOf": null,
+  "clusterId": "event-b02aff32848790002514f991",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的具体动作与近两周事件索引中条目无可确认的同次发生或直接后续关系。"
+  },
+  "eventId": "event-b02aff32848790002514f991",
+  "occurrenceId": "occ-b02aff32848790002514f991",
+  "relatedItems": []
+}

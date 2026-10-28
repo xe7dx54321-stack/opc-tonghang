@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6ddae0c391249e1e9ce8b54c",
+  "title": "Google 向美国开发者预览 Connected Apps Platform",
+  "firstSeen": "2026-10-29",
+  "editionDate": "2026-10-29",
+  "occurrences": [
+    {
+      "id": "occ-6ddae0c391249e1e9ce8b54c",
+      "fact": {
+        "subject": "Google",
+        "action": "开放预览",
+        "object": "Connected Apps Platform",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-29",
+      "reports": [
+        {
+          "ref": "2026-10-29/2026-10-29-google-connected-apps",
+          "itemId": "2026-10-29-google-connected-apps",
+          "editionDate": "2026-10-29",
+          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-28T17:00:00.000Z",
+          "title": "Google 向美国开发者预览 Connected Apps Platform"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-29"
+}

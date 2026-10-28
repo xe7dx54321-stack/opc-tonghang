@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-33f938e462488151f6417345",
+  "title": "豆包工作新增电脑操作录制，Mac 锁屏后可继续任务",
+  "firstSeen": "2026-10-29",
+  "editionDate": "2026-10-29",
+  "occurrences": [
+    {
+      "id": "occ-33f938e462488151f6417345",
+      "fact": {
+        "subject": "豆包工作",
+        "action": "升级",
+        "object": "电脑操作录制与锁屏任务功能",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-29",
+      "reports": [
+        {
+          "ref": "2026-10-29/2026-10-29-doubao-computer-skills",
+          "itemId": "2026-10-29-doubao-computer-skills",
+          "editionDate": "2026-10-29",
+          "url": "https://www.leiphone.com/category/industrynews/MYDTBZqQkhfVtkte.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "title": "豆包工作新增电脑操作录制，Mac 锁屏后可继续任务"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-29"
+}

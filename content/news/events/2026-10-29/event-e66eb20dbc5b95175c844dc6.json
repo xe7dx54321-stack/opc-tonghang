@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-e66eb20dbc5b95175c844dc6",
+  "title": "超进化智能完成数亿元天使轮融资，押注研究基础模型",
+  "firstSeen": "2026-10-29",
+  "editionDate": "2026-10-29",
+  "occurrences": [
+    {
+      "id": "occ-e66eb20dbc5b95175c844dc6",
+      "fact": {
+        "subject": "超进化智能",
+        "action": "完成",
+        "object": "数亿元天使轮融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-29",
+      "reports": [
+        {
+          "ref": "2026-10-29/2026-10-29-superevolution-financing",
+          "itemId": "2026-10-29-superevolution-financing",
+          "editionDate": "2026-10-29",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&mid=2247518783&idx=1&sn=8d9b3e324f371201fa4c7be32cb3707a",
+          "source": "wechat-zhinengyongxian",
+          "owner": "智能涌现",
+          "role": "observer",
+          "publishedAt": "2026-10-28T03:00:00.000Z",
+          "title": "超进化智能完成数亿元天使轮融资，押注研究基础模型"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-29"
+}

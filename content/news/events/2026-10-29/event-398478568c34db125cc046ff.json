@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-398478568c34db125cc046ff",
+  "title": "Google 发布 Gemini 4 Carbon，先向网络防御团队开放",
+  "firstSeen": "2026-10-29",
+  "editionDate": "2026-10-29",
+  "occurrences": [
+    {
+      "id": "occ-398478568c34db125cc046ff",
+      "fact": {
+        "subject": "Google DeepMind",
+        "action": "宣布",
+        "object": "Gemini 4 Carbon 模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-29",
+      "reports": [
+        {
+          "ref": "2026-10-29/2026-10-29-gemini-carbon",
+          "itemId": "2026-10-29-gemini-carbon",
+          "editionDate": "2026-10-29",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "source": "deepmind",
+          "owner": "Google DeepMind",
+          "role": "principal",
+          "publishedAt": "2026-10-28T17:00:00+00:00",
+          "title": "Google 发布 Gemini 4 Carbon，先向网络防御团队开放"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-29"
+}

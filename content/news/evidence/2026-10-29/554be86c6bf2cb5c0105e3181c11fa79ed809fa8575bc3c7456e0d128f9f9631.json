@@ -1,0 +1,13 @@
+{
+  "snapshotId": "554be86c6bf2cb5c0105e3181c11fa79ed809fa8575bc3c7456e0d128f9f9631",
+  "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+  "publishedAt": "2026-10-28T13:15:00.000Z",
+  "publishedAtQuote": "October 28, 2026",
+  "retrievedAt": "2026-10-28T23:34:16.920Z",
+  "method": "agent-tool",
+  "contentHash": "bd92e8d689453e8832771f1ffde85b40855edbd6b8f074935214d9eae9f0bea9",
+  "quotations": [
+    "OpenAI and ServiceNow are expanding our partnership to bring more of our models and agents into ServiceNow products and connect ServiceNow workflows with ChatGPT and Codex.",
+    "ServiceNow is also previewing interactive experiences inside ChatGPT."
+  ]
+}

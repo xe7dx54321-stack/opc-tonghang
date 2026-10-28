@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-d8e1c109610ae1e823546873",
+  "title": "OpenAI 与 ServiceNow 扩大合作，工作流接入 ChatGPT",
+  "firstSeen": "2026-10-29",
+  "editionDate": "2026-10-29",
+  "occurrences": [
+    {
+      "id": "occ-d8e1c109610ae1e823546873",
+      "fact": {
+        "subject": "OpenAI 与 ServiceNow",
+        "action": "扩大合作",
+        "object": "企业工作流集成",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-29",
+      "reports": [
+        {
+          "ref": "2026-10-29/2026-10-29-openai-servicenow",
+          "itemId": "2026-10-29-openai-servicenow",
+          "editionDate": "2026-10-29",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "source": "openai-news",
+          "owner": "OpenAI",
+          "role": "principal",
+          "publishedAt": "2026-10-28T13:15:00.000Z",
+          "title": "OpenAI 与 ServiceNow 扩大合作，工作流接入 ChatGPT"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-29"
+}

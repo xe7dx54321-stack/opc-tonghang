@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-29-superevolution-financing",
+  "title": "融资数亿元，前上海AI Lab大模型负责人创业，打造能自进化的研究基础模型｜智能涌现首发",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&mid=2247518783&idx=1&sn=8d9b3e324f371201fa4c7be32cb3707a",
+  "source": "wechat-zhinengyongxian",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AI Lab"
+  ],
+  "publishedAt": "2026-10-28T03:00:00.000Z",
+  "fetchedAt": "2026-10-28T10:27:39.525Z",
+  "fact": {
+    "subject": "超进化智能",
+    "action": "完成",
+    "object": "数亿元天使轮融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "智能涌现",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "6137a62e7d1604e76f5a2b0903d46dcd4b4a4c127eb787787ac7b918e9ca0cc0",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&mid=2247518783&idx=1&sn=8d9b3e324f371201fa4c7be32cb3707a",
+    "originalPublishedAt": "2026-10-28T03:00:00.000Z",
+    "checkedAt": "2026-10-28T23:34:17.001Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "6137a62e7d1604e76f5a2b0903d46dcd4b4a4c127eb787787ac7b918e9ca0cc0",
+      "kind": "fact",
+      "quote": "《智能涌现》获悉，由前 上海 AI Lab大模型负责人陈恺创办的公司超进化智能近期已完成数亿元天使轮融资，蓝驰创投领投，商汤国香资本、联想之星、英诺基金、 水木校友基金 等机构联合投资，澜松资本担任长期财务顾问。"
+    }
+  ],
+  "displayTitle": "超进化智能完成数亿元天使轮融资，押注研究基础模型",
+  "summary": "智能涌现 10 月 28 日首发，前上海 AI Lab 大模型负责人陈恺创办的超进化智能近期完成数亿元天使轮融资，由蓝驰创投领投，多家机构跟投。公司于今年 8 月创立，目标是构建自进化研究基础模型。",
+  "investorNote": "这是一支具备大模型训练履历的新团队，融资强度值得看；技术兑现仍要落到可公开复现的科研任务。",
+  "narrative": "智能涌现披露，陈恺创办的超进化智能完成数亿元天使轮融资，蓝驰创投领投。团队押注能持续推进研究任务的基础模型，但目前公开信息主要是团队与融资，模型能力仍需后续产品或评测验证。",
+  "score": 0.76,
+  "duplicateOf": null,
+  "clusterId": "event-e66eb20dbc5b95175c844dc6",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的具体动作与近两周事件索引中条目无可确认的同次发生或直接后续关系。"
+  },
+  "eventId": "event-e66eb20dbc5b95175c844dc6",
+  "occurrenceId": "occ-e66eb20dbc5b95175c844dc6",
+  "relatedItems": []
+}

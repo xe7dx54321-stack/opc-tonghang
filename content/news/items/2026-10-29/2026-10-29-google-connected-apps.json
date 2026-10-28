@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-29-google-connected-apps",
+  "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+  "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "As AI",
+    "Google",
+    "Gemini",
+    "Search",
+    "AI"
+  ],
+  "publishedAt": "2026-10-28T17:00:00.000Z",
+  "fetchedAt": "2026-10-28T17:04:44.011Z",
+  "fact": {
+    "subject": "Google",
+    "action": "开放预览",
+    "object": "Connected Apps Platform",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "c604868e468fc21977de6ae8db2ebcd72f43f2ecb4ed9e715d80d9d350766e1a",
+    "originalUrl": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "originalPublishedAt": "2026-10-28T17:00:00.000Z",
+    "checkedAt": "2026-10-28T23:34:16.861Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "c604868e468fc21977de6ae8db2ebcd72f43f2ecb4ed9e715d80d9d350766e1a",
+      "kind": "fact",
+      "quote": "The platform preview is currently available in beta to developers in the U.S., and will allow developers to build and submit apps that can be used across Google’s products."
+    },
+    {
+      "snapshotId": "c604868e468fc21977de6ae8db2ebcd72f43f2ecb4ed9e715d80d9d350766e1a",
+      "kind": "condition",
+      "quote": "The new Connected Apps platform is in public preview for U.S. developers who sign up for the waitlist. Google did not share when it would become more broadly available."
+    },
+    {
+      "snapshotId": "c604868e468fc21977de6ae8db2ebcd72f43f2ecb4ed9e715d80d9d350766e1a",
+      "kind": "fact",
+      "quote": "over 50 Connected Apps available in Gemini,"
+    }
+  ],
+  "displayTitle": "Google 向美国开发者预览 Connected Apps Platform",
+  "summary": "Google 推出 Connected Apps Platform 公开预览，美国开发者可通过 MCP 或 Android AppFunctions 接入服务，并申请让应用在 Gemini、Google Search 中调用；目前开放范围限美国登记候补的开发者。",
+  "investorNote": "平台若形成分发入口，应用开发者要同时衡量 Agent 内操作的转化率、品牌控制和对 Google 的流量依赖。",
+  "narrative": "Google 开放 Connected Apps Platform 预览，让美国开发者把服务接入 Gemini 和搜索中的 AI 体验。它提供接入、提交与效果监测工具，但目前需要登记候补，距全面开放仍有一步；应用分发入口正在向 Agent 对话迁移。",
+  "score": 0.83,
+  "duplicateOf": null,
+  "clusterId": "event-6ddae0c391249e1e9ce8b54c",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的具体动作与近两周事件索引中条目无可确认的同次发生或直接后续关系。"
+  },
+  "eventId": "event-6ddae0c391249e1e9ce8b54c",
+  "occurrenceId": "occ-6ddae0c391249e1e9ce8b54c",
+  "relatedItems": []
+}

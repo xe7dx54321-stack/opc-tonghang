@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-b02aff32848790002514f991",
+  "title": "马来西亚披露 AI 芯片转运案：30 台服务器于 10 月 15 日被查获",
+  "firstSeen": "2026-10-29",
+  "editionDate": "2026-10-29",
+  "occurrences": [
+    {
+      "id": "occ-b02aff32848790002514f991",
+      "fact": {
+        "subject": "马来西亚海关",
+        "action": "披露",
+        "object": "10 月 15 日查获的 AI 芯片转运案",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-29",
+      "reports": [
+        {
+          "ref": "2026-10-29/2026-10-29-malaysia-ai-chips",
+          "itemId": "2026-10-29-malaysia-ai-chips",
+          "editionDate": "2026-10-29",
+          "url": "https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "relayer",
+          "publishedAt": "2026-10-28T17:02:14.000Z",
+          "title": "马来西亚披露 AI 芯片转运案：30 台服务器于 10 月 15 日被查获"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-29"
+}

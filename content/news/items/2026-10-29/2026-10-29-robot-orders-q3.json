@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-29-robot-orders-q3",
+  "title": "North American robot orders climb 24.8% in Q3 of 2026, says A3",
+  "url": "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "North American",
+    "Robot",
+    "The",
+    "The Robot Report"
+  ],
+  "publishedAt": "2026-10-28T18:59:30.000Z",
+  "fetchedAt": "2026-10-28T19:36:39.282Z",
+  "fact": {
+    "subject": "A3",
+    "action": "公布",
+    "object": "2026 年第三季度北美机器人订单数据",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "74cfdfd58e848acf6abf287ce85e22b8f8920c6cc1c6e07e84b2bef9f136a2c6",
+    "originalUrl": "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/",
+    "originalPublishedAt": "2026-10-28T18:59:30.000Z",
+    "checkedAt": "2026-10-28T23:34:17.055Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "74cfdfd58e848acf6abf287ce85e22b8f8920c6cc1c6e07e84b2bef9f136a2c6",
+      "kind": "fact",
+      "quote": "North American companies ordered 10,989 robots valued at $723.5 million in the third quarter of 2026, according to the latest data from the Association for Advancing Automation, or A3. Orders increased 24.8% in units and 26.1% in value compared with the third quarter of 2025, making it the strongest quarter of the year so far, it said."
+    },
+    {
+      "snapshotId": "74cfdfd58e848acf6abf287ce85e22b8f8920c6cc1c6e07e84b2bef9f136a2c6",
+      "kind": "fact",
+      "quote": "Orders from automotive component suppliers climbed 90.4%, continuing the strong demand from that segment seen earlier in the year."
+    }
+  ],
+  "displayTitle": "北美工业机器人三季度订单同比增 24.8%",
+  "summary": "The Robot Report 10 月 28 日援引 A3 最新数据，北美企业 2026 年三季度订购 10989 台机器人、总值 7.235 亿美元，数量和金额分别同比增长 24.8% 与 26.1%；汽车零部件行业订单数量同比增 90.4%。",
+  "investorNote": "订单增幅由多个制造业板块驱动，比单一人形机器人演示更能反映工业自动化的实际资本开支。",
+  "narrative": "A3 数据显示，北美三季度工业机器人订单达 10989 台、价值 7.235 亿美元，数量同比增长 24.8%。汽车零部件订单增幅尤其大，半导体和电子领域也增长；对机器人供应链而言，已下订单比演示热度更接近需求信号。",
+  "score": 0.77,
+  "duplicateOf": null,
+  "clusterId": "event-40b1fb116131e126ca8fb183",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的具体动作与近两周事件索引中条目无可确认的同次发生或直接后续关系。"
+  },
+  "eventId": "event-40b1fb116131e126ca8fb183",
+  "occurrenceId": "occ-40b1fb116131e126ca8fb183",
+  "relatedItems": []
+}

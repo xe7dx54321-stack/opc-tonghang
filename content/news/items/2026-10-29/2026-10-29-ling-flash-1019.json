@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-29-ling-flash-1019",
+  "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+  "url": "https://www.qbitai.com/2026/10/505928.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Personal Agent",
+    "Ling"
+  ],
+  "publishedAt": "2026-10-28T04:04:48.000Z",
+  "fetchedAt": "2026-10-28T05:53:42.856Z",
+  "fact": {
+    "subject": "蚂蚁百灵",
+    "action": "开源",
+    "object": "Ling-3.1-flash-1019 与基础模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "2edde5c1231cfb7bbb2a9f9298da307ea14a5a89752e6e5039f5d1b792118aff",
+    "originalUrl": "https://www.qbitai.com/2026/10/505928.html",
+    "originalPublishedAt": "2026-10-28T04:04:48.000Z",
+    "checkedAt": "2026-10-28T23:34:16.975Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "2edde5c1231cfb7bbb2a9f9298da307ea14a5a89752e6e5039f5d1b792118aff",
+      "kind": "fact",
+      "quote": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。"
+    },
+    {
+      "snapshotId": "2edde5c1231cfb7bbb2a9f9298da307ea14a5a89752e6e5039f5d1b792118aff",
+      "kind": "fact",
+      "quote": "流程自动化AutomationBench-AA得分从62%提升至68%；科学问题求解CritPt得分从18%提升至26%"
+    }
+  ],
+  "displayTitle": "蚂蚁百灵开源 Ling-3.1-flash-1019 与基础模型",
+  "summary": "量子位 10 月 28 日报道，蚂蚁百灵开源 Ling-3.1-flash-1019，并同步开放 Ling-3.1-flash-base。报道称新版本聚焦 Personal Agent 的复杂工作流与多步骤任务，并列出多项模型评测提升；评测数字主要来自项目方。",
+  "investorNote": "基础权重与后训练版本同时开放，有利于开发者针对真实流程做适配；基准提升需要下游任务验证。",
+  "narrative": "蚂蚁百灵开源 Ling-3.1-flash-1019 和基础模型，把重点放在 Personal Agent 的多步骤任务。量子位转述的评测提升说明研发方向，但多为厂商数据；投资人更应看开源后的真实任务复现与开发者采用。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "event-7195830996aebd0b9ae025fd",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的具体动作与近两周事件索引中条目无可确认的同次发生或直接后续关系。"
+  },
+  "eventId": "event-7195830996aebd0b9ae025fd",
+  "occurrenceId": "occ-7195830996aebd0b9ae025fd",
+  "relatedItems": []
+}

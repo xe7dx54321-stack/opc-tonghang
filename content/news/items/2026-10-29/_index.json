@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-29",
+  "itemCount": 11,
+  "storyCount": 11,
+  "clusterCount": 11,
+  "files": [
+    "2026-10-29-gemini-carbon.json",
+    "2026-10-29-azure-quarterly-revenue.json",
+    "2026-10-29-google-connected-apps.json",
+    "2026-10-29-nemotron-transcribe.json",
+    "2026-10-29-openai-servicenow.json",
+    "2026-10-29-doubao-computer-skills.json",
+    "2026-10-29-ling-flash-1019.json",
+    "2026-10-29-superevolution-financing.json",
+    "2026-10-29-malaysia-ai-chips.json",
+    "2026-10-29-robot-orders-q3.json",
+    "2026-10-29-kodiak-dtl-contract.json"
+  ],
+  "representatives": [
+    "2026-10-29-gemini-carbon",
+    "2026-10-29-azure-quarterly-revenue",
+    "2026-10-29-google-connected-apps",
+    "2026-10-29-nemotron-transcribe",
+    "2026-10-29-openai-servicenow",
+    "2026-10-29-doubao-computer-skills",
+    "2026-10-29-ling-flash-1019",
+    "2026-10-29-superevolution-financing",
+    "2026-10-29-malaysia-ai-chips",
+    "2026-10-29-robot-orders-q3",
+    "2026-10-29-kodiak-dtl-contract"
+  ]
+}

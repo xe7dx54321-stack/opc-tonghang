@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-29-openai-servicenow",
+  "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+  "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+  "source": "openai-news",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "ServiceNow",
+    "ChatGPT",
+    "Codex"
+  ],
+  "publishedAt": "2026-10-28T13:15:00.000Z",
+  "fetchedAt": "2026-10-28T20:37:04.268Z",
+  "fact": {
+    "subject": "OpenAI 与 ServiceNow",
+    "action": "扩大合作",
+    "object": "企业工作流集成",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "OpenAI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "554be86c6bf2cb5c0105e3181c11fa79ed809fa8575bc3c7456e0d128f9f9631",
+    "originalUrl": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "originalPublishedAt": "2026-10-28T13:15:00.000Z",
+    "checkedAt": "2026-10-28T23:34:16.920Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "554be86c6bf2cb5c0105e3181c11fa79ed809fa8575bc3c7456e0d128f9f9631",
+      "kind": "fact",
+      "quote": "OpenAI and ServiceNow are expanding our partnership to bring more of our models and agents into ServiceNow products and connect ServiceNow workflows with ChatGPT and Codex."
+    },
+    {
+      "snapshotId": "554be86c6bf2cb5c0105e3181c11fa79ed809fa8575bc3c7456e0d128f9f9631",
+      "kind": "condition",
+      "quote": "ServiceNow is also previewing interactive experiences inside ChatGPT."
+    }
+  ],
+  "displayTitle": "OpenAI 与 ServiceNow 扩大合作，工作流接入 ChatGPT",
+  "summary": "OpenAI 10 月 28 日宣布扩大与 ServiceNow 的既有合作，计划把 ServiceNow 业务上下文与工作流动作接入 ChatGPT，并将 OpenAI 模型用于 ServiceNow 的应用开发和安全等产品；交互体验目前处于预览。",
+  "investorNote": "企业 Agent 的价值越来越取决于权限、业务上下文和实际可执行动作，合作落地需看客户如何配置访问范围。",
+  "narrative": "OpenAI 与 ServiceNow 扩大合作，计划让员工在 ChatGPT 中查询和处理 ServiceNow 记录，并把模型带入开发与安全工作流。官方称客户可自行选择开放的能力，操作遵循现有业务规则；相关交互体验仍在预览。",
+  "score": 0.8,
+  "duplicateOf": null,
+  "clusterId": "event-d8e1c109610ae1e823546873",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的具体动作与近两周事件索引中条目无可确认的同次发生或直接后续关系。"
+  },
+  "eventId": "event-d8e1c109610ae1e823546873",
+  "occurrenceId": "occ-d8e1c109610ae1e823546873",
+  "relatedItems": []
+}
