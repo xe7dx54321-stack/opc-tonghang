@@ -1,0 +1,60 @@
+{
+  "id": "2026-10-30-juqiao-seriesa-funding",
+  "title": "独家｜蚂蚁领投矩侨工业亿元融资，柔性触觉切入构建Physical AI全模态人类数据感知底座",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519058&idx=1&sn=84e1428b508ea05fc23feb619293f587",
+  "source": "wechat-zpotentials",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-29T01:39:00.000Z",
+  "fetchedAt": "2026-10-29T10:48:08.541Z",
+  "displayTitle": "蚂蚁集团领投矩侨工业亿元 A 轮，押注柔性触觉",
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "矩侨工业",
+    "蚂蚁集团"
+  ],
+  "summary": "Z Potentials 于 10 月 29 日独家报道，柔性织物触觉传感企业矩侨工业近日完成亿元 A 轮融资，蚂蚁集团领投。公司计划将资金用于电子皮肤量产、触觉与多模态感知研发，以及机器人等场景拓展；其交付与客户数字来自报道中的公司信息。",
+  "investorNote": "触觉传感器要成为机器人数据入口，量产一致性与标定质量比演示精度更关键；本轮融资将检验其从样品到规模交付的能力。",
+  "narrative": "矩侨工业完成亿元级 A 轮融资，由蚂蚁集团领投，资金重点投向织物电子皮肤量产与触觉数据技术。报道描述其手套和全身皮肤方案已进入多类应用，但客户和交付规模仍需独立核实；对具身产业更关键的是大量设备长期使用时的标定一致性。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "event-84040adde8e326da39d20eaa",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "矩侨工业",
+    "action": "完成融资",
+    "object": "蚂蚁集团领投的亿元A轮",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Z Potentials",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8f600807534ce541bb6cf5b3256fe42a4eb4aa037f12373de1a2a740a6aa723a",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519058&idx=1&sn=84e1428b508ea05fc23feb619293f587",
+    "originalPublishedAt": "2026-10-29T01:39:00.000Z",
+    "checkedAt": "2026-10-29T23:36:16.642Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8f600807534ce541bb6cf5b3256fe42a4eb4aa037f12373de1a2a740a6aa723a",
+      "kind": "fact",
+      "quote": "矩侨工业近日完成亿元A轮融资，由蚂蚁集团领投，老股东零以创投、威海港融及青岛和信跟投 ，多维资本担任长期独家财务顾问 。"
+    },
+    {
+      "snapshotId": "8f600807534ce541bb6cf5b3256fe42a4eb4aa037f12373de1a2a740a6aa723a",
+      "kind": "condition",
+      "quote": "本轮资金将主要用于织物电子皮肤规模化量产与交付、触觉及多模态感知技术研发，以及机器人、智能家居和医疗康养等场景的产品拓展。"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "独家披露的融资动作，与其他机器人本体发布不同"
+  },
+  "eventId": "event-84040adde8e326da39d20eaa",
+  "occurrenceId": "occ-84040adde8e326da39d20eaa",
+  "relatedItems": []
+}

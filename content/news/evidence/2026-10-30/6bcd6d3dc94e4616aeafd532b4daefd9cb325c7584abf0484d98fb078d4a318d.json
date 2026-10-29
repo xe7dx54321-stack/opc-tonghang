@@ -1,0 +1,13 @@
+{
+  "snapshotId": "6bcd6d3dc94e4616aeafd532b4daefd9cb325c7584abf0484d98fb078d4a318d",
+  "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+  "publishedAt": "2026-10-29T13:00:00.000Z",
+  "publishedAtQuote": "2026-10-29T13:00:00+00:00",
+  "retrievedAt": "2026-10-29T23:36:16.583Z",
+  "method": "agent-tool",
+  "contentHash": "a45696ab8585e945a6e853612965728de554bf7fd731ec38028d63f01eefe060",
+  "quotations": [
+    "The company said on Thursday that it is acquiring Daily, the maker and maintainer of one of the most popular open source voice AI infrastructures, Pipecat.",
+    "The companies didn’t disclose the deal amount but said that they will keep Pipecat open source."
+  ]
+}

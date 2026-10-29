@@ -1,0 +1,60 @@
+{
+  "id": "2026-10-30-model-spec-update",
+  "title": "An updated Model Spec for more capable and beneficial AI",
+  "url": "https://openai.com/index/updated-model-spec",
+  "source": "openai-news",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-29T17:00:00.000Z",
+  "fetchedAt": "2026-10-29T17:55:42.801Z",
+  "displayTitle": "OpenAI 更新 Model Spec：以五项价值重写模型行为指引",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "Model Spec"
+  ],
+  "summary": "OpenAI 于 10 月 29 日更新公开的 Model Spec，把行为指引归纳为忠实于人的意图、减少伤害、诚实透明、人的自主性和关怀五项价值，同时调整部分默认行为与监管说明。这是规范更新，不等于当天已向全部产品部署新模型。",
+  "investorNote": "对 Agent 产品团队，模型能力提升后更难靠逐条禁令覆盖情境；规范中如何分配开发者、用户与平台的决定权，会影响应用可控性。",
+  "narrative": "OpenAI 更新 Model Spec，将行为指引围绕五项核心价值重组，并补充上下文、监督与自主性相关说明。规范把平台、开发者和用户的权限层次写得更清楚；它体现的是模型行为目标的修订，不能据此推断具体产品已同步改变。",
+  "score": 0.83,
+  "duplicateOf": null,
+  "clusterId": "event-85b3f497e3d0dfd73d1416e0",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "OpenAI",
+    "action": "更新",
+    "object": "Model Spec 五项核心价值",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "OpenAI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "9c3e0d17ebd5e5f2c4fa73496f04518ec4cc1f36b43dbdee6286cabb21b424bd",
+    "originalUrl": "https://openai.com/index/updated-model-spec",
+    "originalPublishedAt": "2026-10-29T17:00:00.000Z",
+    "checkedAt": "2026-10-29T23:36:16.448Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "9c3e0d17ebd5e5f2c4fa73496f04518ec4cc1f36b43dbdee6286cabb21b424bd",
+      "kind": "fact",
+      "quote": "Today we’re updating the Model Spec ⁠ (opens in a new window) , our public description of how we want our models to behave. The update reorganizes its guidance around five underlying values: faithfulness to human intent , harm minimization , honesty and transparency , human agency , and care . This reflects an aim of our work on value alignment : for models to understand and apply human values in unfamiliar situations, while remaining faithful to human intent. Alongside clearer explanations of existing principles, the revision adds guidance on context, oversight, and agency, adjusts some behavioral defaults, and retires much of the detailed s"
+    },
+    {
+      "snapshotId": "9c3e0d17ebd5e5f2c4fa73496f04518ec4cc1f36b43dbdee6286cabb21b424bd",
+      "kind": "condition",
+      "quote": "Faithfulness to human intent is the foundation of this approach: understanding and helping people pursue what matters to them. OpenAI writes the Spec, sets boundaries, and trains models to respect them; developers direct applications within those boundaries; and users direct the model’s work subject to those constraints. Our models should expand people’s ability to shape their own lives by helping them understand the world, discover possibilities, and pursue the goals they choose, while taking seriously how that assistance affects others. Faithfulness to human intent and the remaining four values organize the Spec and guide how our models sho"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "公开规范本次更新，与近期模型新闻不同"
+  },
+  "eventId": "event-85b3f497e3d0dfd73d1416e0",
+  "occurrenceId": "occ-85b3f497e3d0dfd73d1416e0",
+  "relatedItems": []
+}

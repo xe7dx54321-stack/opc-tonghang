@@ -1,0 +1,13 @@
+{
+  "snapshotId": "7d11f6d58354f93a8416632240950923874dd8595f59cfd10476ebb523e2871a",
+  "url": "https://mistral.ai/news/mistral-large-4-oss/",
+  "publishedAt": "2026-10-29T12:00:07.000Z",
+  "publishedAtQuote": "2026-10-29T12:00:07.000Z",
+  "retrievedAt": "2026-10-29T23:36:16.483Z",
+  "method": "agent-tool",
+  "contentHash": "8520daf38eecc43e9995335486bfbe5dd1fd68a4af7e6a3376eada8c637d403a",
+  "quotations": [
+    "Today, we're releasing the weights of this improved Mistral Large 4. The new model also features substantial gains in reasoning efficiency that give developers greater performance while lowering inference costs.",
+    "The model is available to use under the Mistral Ecosystem Open-Weight license , a modified MIT license. The model is free to use, modify, fine-tune, and commercialize, with a single condition: businesses that operate a Model-as-a-Service offering must obtain a separate commercial license from Mistral before using the model commercially."
+  ]
+}

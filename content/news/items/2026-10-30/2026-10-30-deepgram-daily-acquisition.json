@@ -1,0 +1,61 @@
+{
+  "id": "2026-10-30-deepgram-daily-acquisition",
+  "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+  "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-29T13:00:00.000Z",
+  "fetchedAt": "2026-10-29T13:20:29.173Z",
+  "displayTitle": "Deepgram 宣布收购 Daily，承诺保持 Pipecat 开源",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Deepgram",
+    "Daily",
+    "Pipecat"
+  ],
+  "summary": "TechCrunch 10 月 29 日报道，语音 AI 公司 Deepgram 宣布收购实时音视频基础设施公司 Daily，交易金额未披露。Daily 维护开源语音 Agent 框架 Pipecat，双方表示收购后会继续保持其开源。",
+  "investorNote": "语音 Agent 的竞争点正从单一识别模型扩到实时通信与编排栈；维持 Pipecat 的供应商中立性是保住开发者生态的关键。",
+  "narrative": "Deepgram 宣布收购 Daily，把语音识别能力与实时音视频基础设施、Pipecat 编排框架放进同一家公司。双方未披露交易金额，并表示 Pipecat 将继续开源、维持供应商中立；这个承诺若落实，才有助于避免生态用户因被单一模型供应商绑定而迁移。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "event-9c0030550ca86a5e845db28a",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Deepgram",
+    "action": "宣布收购",
+    "object": "Daily及其Pipecat语音AI框架",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "6bcd6d3dc94e4616aeafd532b4daefd9cb325c7584abf0484d98fb078d4a318d",
+    "originalUrl": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+    "originalPublishedAt": "2026-10-29T13:00:00.000Z",
+    "checkedAt": "2026-10-29T23:36:16.583Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "6bcd6d3dc94e4616aeafd532b4daefd9cb325c7584abf0484d98fb078d4a318d",
+      "kind": "fact",
+      "quote": "The company said on Thursday that it is acquiring Daily, the maker and maintainer of one of the most popular open source voice AI infrastructures, Pipecat."
+    },
+    {
+      "snapshotId": "6bcd6d3dc94e4616aeafd532b4daefd9cb325c7584abf0484d98fb078d4a318d",
+      "kind": "condition",
+      "quote": "The companies didn’t disclose the deal amount but said that they will keep Pipecat open source."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "收购宣布与其他语音模型发布独立"
+  },
+  "eventId": "event-9c0030550ca86a5e845db28a",
+  "occurrenceId": "occ-9c0030550ca86a5e845db28a",
+  "relatedItems": []
+}

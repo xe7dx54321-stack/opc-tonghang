@@ -1,0 +1,60 @@
+{
+  "id": "2026-10-30-mistral-large4-weights",
+  "title": "Le Chonk: Built for Coders, Trusted by Defenders.",
+  "url": "https://mistral.ai/news/mistral-large-4-oss/",
+  "source": "mistral-news",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-29T12:00:07.000Z",
+  "fetchedAt": "2026-10-29T14:21:45.474Z",
+  "displayTitle": "Mistral 开放 Large 4 改进版权重，云服务商须另取商用许可",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Mistral AI",
+    "Le Chonk"
+  ],
+  "summary": "Mistral 于 10 月 29 日开放改进版 Mistral Large 4（Le Chonk）权重。模型此前已进入公开预览，本次新增的是权重下载与进一步强化的编码、防御网络安全能力；其改版 MIT 许可允许多数商业使用，但提供模型即服务的企业须另取商用许可。",
+  "investorNote": "开放权重降低企业自托管门槛，许可中的模型即服务限制则保留了平台分发收入，评估时要把部署自由和再销售权分开看。",
+  "narrative": "Mistral 开放了此前已预览的 Large 4 改进版权重，主打编码与防御网络安全场景。企业可以下载、自托管和微调，但若经营 Model-as-a-Service，需另向 Mistral 取得商用许可；因此“开放权重”对企业内部部署和云平台转售的含义并不相同。",
+  "score": 0.91,
+  "duplicateOf": null,
+  "clusterId": "event-76a88df4fbcefa933cbabc90",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Mistral AI",
+    "action": "开放权重",
+    "object": "Mistral Large 4 Le Chonk 改进版",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Mistral AI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "7d11f6d58354f93a8416632240950923874dd8595f59cfd10476ebb523e2871a",
+    "originalUrl": "https://mistral.ai/news/mistral-large-4-oss/",
+    "originalPublishedAt": "2026-10-29T12:00:07.000Z",
+    "checkedAt": "2026-10-29T23:36:16.483Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "7d11f6d58354f93a8416632240950923874dd8595f59cfd10476ebb523e2871a",
+      "kind": "fact",
+      "quote": "Today, we're releasing the weights of this improved Mistral Large 4. The new model also features substantial gains in reasoning efficiency that give developers greater performance while lowering inference costs."
+    },
+    {
+      "snapshotId": "7d11f6d58354f93a8416632240950923874dd8595f59cfd10476ebb523e2871a",
+      "kind": "condition",
+      "quote": "The model is available to use under the Mistral Ecosystem Open-Weight license , a modified MIT license. The model is free to use, modify, fine-tune, and commercialize, with a single condition: businesses that operate a Model-as-a-Service offering must obtain a separate commercial license from Mistral before using the model commercially."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次开放权重是新动作，区别于本月早些时候的预览"
+  },
+  "eventId": "event-76a88df4fbcefa933cbabc90",
+  "occurrenceId": "occ-76a88df4fbcefa933cbabc90",
+  "relatedItems": []
+}

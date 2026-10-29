@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-30",
+  "itemCount": 9,
+  "storyCount": 9,
+  "clusterCount": 9,
+  "files": [
+    "2026-10-30-model-spec-update.json",
+    "2026-10-30-mistral-large4-weights.json",
+    "2026-10-30-dream-construction-seed.json",
+    "2026-10-30-wabi-agent-funding.json",
+    "2026-10-30-deepgram-daily-acquisition.json",
+    "2026-10-30-jingshuo-prea-funding.json",
+    "2026-10-30-juqiao-seriesa-funding.json",
+    "2026-10-30-agibot-worken-launch.json",
+    "2026-10-30-intel-novalake-18ap.json"
+  ],
+  "representatives": [
+    "2026-10-30-model-spec-update",
+    "2026-10-30-mistral-large4-weights",
+    "2026-10-30-dream-construction-seed",
+    "2026-10-30-wabi-agent-funding",
+    "2026-10-30-deepgram-daily-acquisition",
+    "2026-10-30-jingshuo-prea-funding",
+    "2026-10-30-juqiao-seriesa-funding",
+    "2026-10-30-agibot-worken-launch",
+    "2026-10-30-intel-novalake-18ap"
+  ]
+}

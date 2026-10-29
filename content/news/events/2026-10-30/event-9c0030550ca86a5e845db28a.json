@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-9c0030550ca86a5e845db28a",
+  "title": "Deepgram 宣布收购 Daily，承诺保持 Pipecat 开源",
+  "firstSeen": "2026-10-30",
+  "editionDate": "2026-10-30",
+  "occurrences": [
+    {
+      "id": "occ-9c0030550ca86a5e845db28a",
+      "fact": {
+        "subject": "Deepgram",
+        "action": "宣布收购",
+        "object": "Daily及其Pipecat语音AI框架",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-30",
+      "reports": [
+        {
+          "ref": "2026-10-30/2026-10-30-deepgram-daily-acquisition",
+          "itemId": "2026-10-30-deepgram-daily-acquisition",
+          "editionDate": "2026-10-30",
+          "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-29T13:00:00.000Z",
+          "title": "Deepgram 宣布收购 Daily，承诺保持 Pipecat 开源"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-30"
+}

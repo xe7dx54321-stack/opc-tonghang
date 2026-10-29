@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-84040adde8e326da39d20eaa",
+  "title": "蚂蚁集团领投矩侨工业亿元 A 轮，押注柔性触觉",
+  "firstSeen": "2026-10-30",
+  "editionDate": "2026-10-30",
+  "occurrences": [
+    {
+      "id": "occ-84040adde8e326da39d20eaa",
+      "fact": {
+        "subject": "矩侨工业",
+        "action": "完成融资",
+        "object": "蚂蚁集团领投的亿元A轮",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-30",
+      "reports": [
+        {
+          "ref": "2026-10-30/2026-10-30-juqiao-seriesa-funding",
+          "itemId": "2026-10-30-juqiao-seriesa-funding",
+          "editionDate": "2026-10-30",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519058&idx=1&sn=84e1428b508ea05fc23feb619293f587",
+          "source": "wechat-zpotentials",
+          "owner": "Z Potentials",
+          "role": "observer",
+          "publishedAt": "2026-10-29T01:39:00.000Z",
+          "title": "蚂蚁集团领投矩侨工业亿元 A 轮，押注柔性触觉"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-30"
+}

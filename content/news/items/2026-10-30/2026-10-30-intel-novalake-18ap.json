@@ -1,0 +1,61 @@
+{
+  "id": "2026-10-30-intel-novalake-18ap",
+  "title": "Intel confirms Nova Lake will use advanced 18A-P node, with more details due at CES",
+  "url": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-29T21:55:48.000Z",
+  "fetchedAt": "2026-10-29T21:59:16.020Z",
+  "displayTitle": "Intel 确认 Nova Lake 将使用 18A-P 制程",
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Intel",
+    "Nova Lake",
+    "18A-P"
+  ],
+  "summary": "Tom’s Hardware 10 月 29 日报道，Intel 首席执行官陈立武在第三季度财报电话会称 Nova Lake 将成为首款采用 Intel 18A-P 的客户端产品，并计划于次年 CES 披露更多信息。报道指出尚未确认具体哪些芯粒使用该制程，因此不能说整颗处理器都由 18A-P 制造。",
+  "investorNote": "18A-P 进入客户端路线图对 Intel 制造业务有意义，但实际芯粒分工、良率和外部客户订单仍是验证商业价值的关键。",
+  "narrative": "Intel 在第三季度财报电话会上确认，Nova Lake 将使用改进版 18A-P 制程，并计划在下一届 CES 公布更多细节。现阶段公司尚未说明具体芯粒的制造分工；对晶圆制造竞争而言，路线图确认是进展，量产良率与真实订单仍需后续数据检验。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "event-29e6f351490a0d2a061bdeda",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Intel",
+    "action": "在财报电话会确认",
+    "object": "Nova Lake 使用 18A-P 制程",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom's Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "5b9b8acc8303b6078d7577d2bffafa3f2763f8e4458207c124b9bb7cf71f4c98",
+    "originalUrl": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus",
+    "originalPublishedAt": "2026-10-29T21:55:48.000Z",
+    "checkedAt": "2026-10-29T23:36:16.703Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "5b9b8acc8303b6078d7577d2bffafa3f2763f8e4458207c124b9bb7cf71f4c98",
+      "kind": "fact",
+      "quote": "Intel's next-gen Nova Lake desktop processors will be the first client product to use Intel's enhanced 18A-P node, CEO Lip-Bu Tan confirmed in the company's Q3 2026 earnings call. The chief executive also said that the company intends to share more about Nova Lake at CES in January. The company's chief financial officer shared that Intel intends to take Panther Lake capacity offline to build more Granite Rapids data center CPUs."
+    },
+    {
+      "snapshotId": "5b9b8acc8303b6078d7577d2bffafa3f2763f8e4458207c124b9bb7cf71f4c98",
+      "kind": "condition",
+      "quote": "\"Nova Lake, our first Intel 18A-P client product, is tracking ahead of schedule, with design wins expecting to be twice those of Panther Lake at launch,\" Tan said in his prepared remarks. \"We look forward to sharing more at CES in January.\""
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "财报电话会确认制程路线，与此前关于具体芯粒的传闻不同"
+  },
+  "eventId": "event-29e6f351490a0d2a061bdeda",
+  "occurrenceId": "occ-29e6f351490a0d2a061bdeda",
+  "relatedItems": []
+}

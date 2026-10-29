@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-76a88df4fbcefa933cbabc90",
+  "title": "Mistral 开放 Large 4 改进版权重，云服务商须另取商用许可",
+  "firstSeen": "2026-10-30",
+  "editionDate": "2026-10-30",
+  "occurrences": [
+    {
+      "id": "occ-76a88df4fbcefa933cbabc90",
+      "fact": {
+        "subject": "Mistral AI",
+        "action": "开放权重",
+        "object": "Mistral Large 4 Le Chonk 改进版",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-30",
+      "reports": [
+        {
+          "ref": "2026-10-30/2026-10-30-mistral-large4-weights",
+          "itemId": "2026-10-30-mistral-large4-weights",
+          "editionDate": "2026-10-30",
+          "url": "https://mistral.ai/news/mistral-large-4-oss/",
+          "source": "mistral-news",
+          "owner": "Mistral AI",
+          "role": "principal",
+          "publishedAt": "2026-10-29T12:00:07.000Z",
+          "title": "Mistral 开放 Large 4 改进版权重，云服务商须另取商用许可"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-30"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-d2c5733e7d7f9f7c0c2cba84",
+  "title": "文远知行旗下景烁科技披露数千万美元 Pre-A 融资",
+  "firstSeen": "2026-10-30",
+  "editionDate": "2026-10-30",
+  "occurrences": [
+    {
+      "id": "occ-d2c5733e7d7f9f7c0c2cba84",
+      "fact": {
+        "subject": "景烁科技",
+        "action": "披露首次融资",
+        "object": "数千万美元Pre-A轮融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-30",
+      "reports": [
+        {
+          "ref": "2026-10-30/2026-10-30-jingshuo-prea-funding",
+          "itemId": "2026-10-30-jingshuo-prea-funding",
+          "editionDate": "2026-10-30",
+          "url": "https://www.qbitai.com/2026/10/506281.html",
+          "source": "qbitai",
+          "owner": "景烁科技",
+          "role": "principal",
+          "publishedAt": "2026-10-29T03:27:50.000Z",
+          "title": "文远知行旗下景烁科技披露数千万美元 Pre-A 融资"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-30"
+}

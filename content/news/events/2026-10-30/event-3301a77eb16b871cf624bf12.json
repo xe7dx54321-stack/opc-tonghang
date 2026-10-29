@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-3301a77eb16b871cf624bf12",
+  "title": "智元提出 Worken 指标，并发布新一轮具身产品",
+  "firstSeen": "2026-10-30",
+  "editionDate": "2026-10-30",
+  "occurrences": [
+    {
+      "id": "occ-3301a77eb16b871cf624bf12",
+      "fact": {
+        "subject": "智元机器人 AGIBOT",
+        "action": "提出并发布",
+        "object": "Worken有效智能工时及同期机器人平台更新",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-30",
+      "reports": [
+        {
+          "ref": "2026-10-30/2026-10-30-agibot-worken-launch",
+          "itemId": "2026-10-30-agibot-worken-launch",
+          "editionDate": "2026-10-30",
+          "url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
+          "source": "robot-report",
+          "owner": "The Robot Report",
+          "role": "observer",
+          "publishedAt": "2026-10-29T04:01:46.000Z",
+          "title": "智元提出 Worken 指标，并发布新一轮具身产品"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-30"
+}

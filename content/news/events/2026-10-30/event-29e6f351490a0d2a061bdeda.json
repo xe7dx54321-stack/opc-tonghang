@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-29e6f351490a0d2a061bdeda",
+  "title": "Intel 确认 Nova Lake 将使用 18A-P 制程",
+  "firstSeen": "2026-10-30",
+  "editionDate": "2026-10-30",
+  "occurrences": [
+    {
+      "id": "occ-29e6f351490a0d2a061bdeda",
+      "fact": {
+        "subject": "Intel",
+        "action": "在财报电话会确认",
+        "object": "Nova Lake 使用 18A-P 制程",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-30",
+      "reports": [
+        {
+          "ref": "2026-10-30/2026-10-30-intel-novalake-18ap",
+          "itemId": "2026-10-30-intel-novalake-18ap",
+          "editionDate": "2026-10-30",
+          "url": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus",
+          "source": "tomshardware",
+          "owner": "Tom's Hardware",
+          "role": "observer",
+          "publishedAt": "2026-10-29T21:55:48.000Z",
+          "title": "Intel 确认 Nova Lake 将使用 18A-P 制程"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-30"
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-30",
+  "window": {
+    "start": 1793230200000,
+    "end": 1793316600000
+  },
+  "digestHash": "b5060ba46b1e5664400354e9e0c263d159fc485ec5d5bdc452b8a60d222828a7",
+  "stories": [
+    {
+      "heading": "Mistral 开放 Large 4 改进版权重，云服务商须另取商用许可",
+      "itemId": "2026-10-30-mistral-large4-weights",
+      "eventId": "event-76a88df4fbcefa933cbabc90",
+      "occurrenceId": "occ-76a88df4fbcefa933cbabc90"
+    },
+    {
+      "heading": "OpenAI 更新 Model Spec：以五项价值重写模型行为指引",
+      "itemId": "2026-10-30-model-spec-update",
+      "eventId": "event-85b3f497e3d0dfd73d1416e0",
+      "occurrenceId": "occ-85b3f497e3d0dfd73d1416e0"
+    },
+    {
+      "heading": "Deepgram 宣布收购 Daily，承诺保持 Pipecat 开源",
+      "itemId": "2026-10-30-deepgram-daily-acquisition",
+      "eventId": "event-9c0030550ca86a5e845db28a",
+      "occurrenceId": "occ-9c0030550ca86a5e845db28a"
+    },
+    {
+      "heading": "建筑世界模型公司 Dream 获 1700 万美元种子轮融资",
+      "itemId": "2026-10-30-dream-construction-seed",
+      "eventId": "event-fafcf484209b52ca2a8266cd",
+      "occurrenceId": "occ-fafcf484209b52ca2a8266cd"
+    },
+    {
+      "heading": "个人 Agent 公司 Wabi 融资 5500 万美元，估值 12.5 亿美元",
+      "itemId": "2026-10-30-wabi-agent-funding",
+      "eventId": "event-5189a4b9c870962be3a5147c",
+      "occurrenceId": "occ-5189a4b9c870962be3a5147c"
+    },
+    {
+      "heading": "智元提出 Worken 指标，并发布新一轮具身产品",
+      "itemId": "2026-10-30-agibot-worken-launch",
+      "eventId": "event-3301a77eb16b871cf624bf12",
+      "occurrenceId": "occ-3301a77eb16b871cf624bf12"
+    },
+    {
+      "heading": "蚂蚁集团领投矩侨工业亿元 A 轮，押注柔性触觉",
+      "itemId": "2026-10-30-juqiao-seriesa-funding",
+      "eventId": "event-84040adde8e326da39d20eaa",
+      "occurrenceId": "occ-84040adde8e326da39d20eaa"
+    },
+    {
+      "heading": "文远知行旗下景烁科技披露数千万美元 Pre-A 融资",
+      "itemId": "2026-10-30-jingshuo-prea-funding",
+      "eventId": "event-d2c5733e7d7f9f7c0c2cba84",
+      "occurrenceId": "occ-d2c5733e7d7f9f7c0c2cba84"
+    },
+    {
+      "heading": "Intel 确认 Nova Lake 将使用 18A-P 制程",
+      "itemId": "2026-10-30-intel-novalake-18ap",
+      "eventId": "event-29e6f351490a0d2a061bdeda",
+      "occurrenceId": "occ-29e6f351490a0d2a061bdeda"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-30-agibot-worken-launch.json": "a0ead6ad162d410232b6f5154b63ef16155cb73e88dc6003a68df301d69274c6",
+    "2026-10-30-deepgram-daily-acquisition.json": "71a42382e385311fe8f48514c08a68cd47bd7f36e611934573cef2720b4a8604",
+    "2026-10-30-dream-construction-seed.json": "5d5543d499e08f5db5491552d4444a0891ac0e3434f7aff30eb567133b5f6140",
+    "2026-10-30-intel-novalake-18ap.json": "3888844c67247c385c0ff42a421a363aaffcb09a3dabd0af6a35e9a70d51b5de",
+    "2026-10-30-jingshuo-prea-funding.json": "c1c01e155ed6737391bd8887b1882c865c392d442382014a70d4ddee84656758",
+    "2026-10-30-juqiao-seriesa-funding.json": "09b4f0e10f7a49f98e62ef5eb5aaf6abf51650527c26e392fa020912d2e11f7c",
+    "2026-10-30-mistral-large4-weights.json": "10cd87060ce00acf8e15d6aa3ec6ad124be2878eb8954d3cbc41aed358667868",
+    "2026-10-30-model-spec-update.json": "470f35035ecfa323d47dffe1969eb3faeafc11f0bdb538fe7b3466eaa303f5a1",
+    "2026-10-30-wabi-agent-funding.json": "29677efb708a1e70227640b709a240643197d2816bf2bf56ea9d35a17a1ff30c"
+  },
+  "evidenceHashes": {
+    "5b9b8acc8303b6078d7577d2bffafa3f2763f8e4458207c124b9bb7cf71f4c98.json": "3b3a077f6b5a2225358de09d972f370bc9dc92b7c607fa5ca6d2bba49bdc7731",
+    "6bcd6d3dc94e4616aeafd532b4daefd9cb325c7584abf0484d98fb078d4a318d.json": "5696b40b59ccfa08209769e204cf57ecc2ad41414a7d0c5389d8352033d7c96a",
+    "7d11f6d58354f93a8416632240950923874dd8595f59cfd10476ebb523e2871a.json": "af886940f0dbdb82a90d77b94e2bbb0cf2f6f8d7cb5c22ca685cc3206043d3b8",
+    "8f600807534ce541bb6cf5b3256fe42a4eb4aa037f12373de1a2a740a6aa723a.json": "62478f3d0a274f2169080db3a2b419b3415e9732c7146be2660f7c7928f36d73",
+    "90f2bc6f5bcb768b660da182c3d4960cff8ba5da5ab3641a6772d049ab065f65.json": "5740f6faefe5f6c29a39289454bcea92b8dec53a749ff3f123cc372a0474dbd2",
+    "9c3e0d17ebd5e5f2c4fa73496f04518ec4cc1f36b43dbdee6286cabb21b424bd.json": "fb15107ba972208157ed1d15ead33f294ced22acba4d0de727ece00b980d0df7",
+    "ad32e676e3fb05eae095fbb82efdd6fb41716640329b157aeb62bc408ff1a276.json": "2fd805ea5da06d02aee7bfc170c723af9bddc2e0f8f792df9ebb322d51ff5885",
+    "b16cd35c1b3c8880f166f84f94812893c90ed43f0080cfed42e9d4e20af14f83.json": "c5d44dc9033281a3bf25056e5ca6793010d6aad9921b99e067432b9cc34c5c7b",
+    "f54d090a6c2cddb4e95c5f3aca7eb0ea15d483bb7f71d6a38d4e40ee93093daf.json": "141bcf6bed3b1414177a11cac5b5ee0f67de37d017d9534dfc8833334a46b14d"
+  },
+  "eventsHashes": {
+    "event-29e6f351490a0d2a061bdeda.json": "f61979933a55b4ebffcc5e48cc99e0aa198890a82da7a48ff7bbf9bf5951d44b",
+    "event-3301a77eb16b871cf624bf12.json": "970c2985659ecbc85c7956f5bc41b7fc04aa1d2606a37e949220cc00aba32f7b",
+    "event-5189a4b9c870962be3a5147c.json": "8c10d8828eda1527b2791b5eae8cb3b8fb7ac0cff744403dddba9cea1efcc493",
+    "event-76a88df4fbcefa933cbabc90.json": "8689f14d66feb23e2275ccba261932a5468967f54377e4b6efc2edd58f13acfd",
+    "event-84040adde8e326da39d20eaa.json": "8137acd3c84dd4e2d539e14e1924ab00c7eeb12e7e31432f3dab8bf852cda862",
+    "event-85b3f497e3d0dfd73d1416e0.json": "848c96057683b641b975b1cb588b27f7ccbbee30d932135c79ecf1b386186e40",
+    "event-9c0030550ca86a5e845db28a.json": "ad5818a806b637454bb4daadf720e287f7eeee26ab3149a7281bbea89916b127",
+    "event-d2c5733e7d7f9f7c0c2cba84.json": "0a37e05dfe11001ea1a667cd8c7824591fa072022e5c56a5384e3b4aeedf522a",
+    "event-fafcf484209b52ca2a8266cd.json": "84cb9166190cc058f51af792e90856be37bf9634499ab9a84615876f16783c7f"
+  }
+}

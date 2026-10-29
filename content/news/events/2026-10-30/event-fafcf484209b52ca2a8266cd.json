@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-fafcf484209b52ca2a8266cd",
+  "title": "建筑世界模型公司 Dream 获 1700 万美元种子轮融资",
+  "firstSeen": "2026-10-30",
+  "editionDate": "2026-10-30",
+  "occurrences": [
+    {
+      "id": "occ-fafcf484209b52ca2a8266cd",
+      "fact": {
+        "subject": "Dream",
+        "action": "公布种子轮融资并推出产品",
+        "object": "1700万美元融资与建筑世界模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-30",
+      "reports": [
+        {
+          "ref": "2026-10-30/2026-10-30-dream-construction-seed",
+          "itemId": "2026-10-30-dream-construction-seed",
+          "editionDate": "2026-10-30",
+          "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-29T16:21:00.000Z",
+          "title": "建筑世界模型公司 Dream 获 1700 万美元种子轮融资"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-30"
+}

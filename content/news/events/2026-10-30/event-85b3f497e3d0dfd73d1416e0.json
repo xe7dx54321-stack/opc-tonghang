@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-85b3f497e3d0dfd73d1416e0",
+  "title": "OpenAI 更新 Model Spec：以五项价值重写模型行为指引",
+  "firstSeen": "2026-10-30",
+  "editionDate": "2026-10-30",
+  "occurrences": [
+    {
+      "id": "occ-85b3f497e3d0dfd73d1416e0",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "更新",
+        "object": "Model Spec 五项核心价值",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-30",
+      "reports": [
+        {
+          "ref": "2026-10-30/2026-10-30-model-spec-update",
+          "itemId": "2026-10-30-model-spec-update",
+          "editionDate": "2026-10-30",
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "openai-news",
+          "owner": "OpenAI",
+          "role": "principal",
+          "publishedAt": "2026-10-29T17:00:00.000Z",
+          "title": "OpenAI 更新 Model Spec：以五项价值重写模型行为指引"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-30"
+}

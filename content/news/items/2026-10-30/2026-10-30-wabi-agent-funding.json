@@ -1,0 +1,60 @@
+{
+  "id": "2026-10-30-wabi-agent-funding",
+  "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+  "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-29T14:35:26.000Z",
+  "fetchedAt": "2026-10-29T14:52:24.368Z",
+  "displayTitle": "个人 Agent 公司 Wabi 融资 5500 万美元，估值 12.5 亿美元",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Wabi",
+    "Eugenia Kuyda"
+  ],
+  "summary": "TechCrunch 10 月 29 日报道，Wabi 宣布融资 5500 万美元，估值 12.5 亿美元。公司由 Replika 创始人 Eugenia Kuyda 创办，最近把产品从提示词生成小应用转向可按用户需求生成界面的个人 Agent。",
+  "investorNote": "资金押注的是 AI 助手的交互入口而非模型本身；估值能否兑现，取决于用户是否持续把具体任务交给这一入口。",
+  "narrative": "Wabi 宣布获得 5500 万美元新融资，估值达 12.5 亿美元。公司近期从“用提示词做小应用”转向个人 Agent 与 AI 消息界面，融资反映投资人愿为新的用户入口付费；但报道没有给出留存或收入数据，不能仅凭估值证明产品已形成稳定需求。",
+  "score": 0.66,
+  "duplicateOf": null,
+  "clusterId": "event-5189a4b9c870962be3a5147c",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Wabi",
+    "action": "宣布融资",
+    "object": "5500万美元融资与个人代理产品",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "ad32e676e3fb05eae095fbb82efdd6fb41716640329b157aeb62bc408ff1a276",
+    "originalUrl": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+    "originalPublishedAt": "2026-10-29T14:35:26.000Z",
+    "checkedAt": "2026-10-29T23:36:16.549Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "ad32e676e3fb05eae095fbb82efdd6fb41716640329b157aeb62bc408ff1a276",
+      "kind": "fact",
+      "quote": "said it has raised $55 million at a $1.25 billion valuation."
+    },
+    {
+      "snapshotId": "ad32e676e3fb05eae095fbb82efdd6fb41716640329b157aeb62bc408ff1a276",
+      "kind": "condition",
+      "quote": "Founded by Eugenia Kuyda, who previously founded the AI companion startup Replika, Wabi originally focused on allowing anyone to build apps using prompts . Last month, however, the startup announced a pivot of sorts to become an AI messenger."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "融资与产品转向是本次新事实"
+  },
+  "eventId": "event-5189a4b9c870962be3a5147c",
+  "occurrenceId": "occ-5189a4b9c870962be3a5147c",
+  "relatedItems": []
+}

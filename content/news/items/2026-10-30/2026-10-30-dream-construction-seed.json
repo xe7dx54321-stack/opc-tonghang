@@ -1,0 +1,60 @@
+{
+  "id": "2026-10-30-dream-construction-seed",
+  "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+  "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-29T16:21:00.000Z",
+  "fetchedAt": "2026-10-29T16:24:36.883Z",
+  "displayTitle": "建筑世界模型公司 Dream 获 1700 万美元种子轮融资",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Dream",
+    "Andreessen Horowitz"
+  ],
+  "summary": "TechCrunch 10 月 29 日报道，前 Palantir 高管创立的 Dream 结束隐身并获得 a16z 领投的 1700 万美元种子融资，产品以建筑许可档案等数据训练模型，面向建筑设计、工程和成本预估。公司称产品已有付费客户并用于得州和加州的十个项目。",
+  "investorNote": "建筑设计的关键约束是结构与规范，能否从概念图走向可审查的工程输出，比生成效果更决定其替代传统软件的能力。",
+  "narrative": "Dream 带着 1700 万美元种子轮融资公开亮相，试图让模型参与建筑方案与工程设计。创始人称模型利用美国建筑许可档案中的数据训练，产品已在得州和加州十个项目中使用；这些商业化与技术能力仍主要来自公司陈述，后续应看设计结果能否经过实际工程审查。",
+  "score": 0.68,
+  "duplicateOf": null,
+  "clusterId": "event-fafcf484209b52ca2a8266cd",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Dream",
+    "action": "公布种子轮融资并推出产品",
+    "object": "1700万美元融资与建筑世界模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "b16cd35c1b3c8880f166f84f94812893c90ed43f0080cfed42e9d4e20af14f83",
+    "originalUrl": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "originalPublishedAt": "2026-10-29T16:21:00.000Z",
+    "checkedAt": "2026-10-29T23:36:16.517Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "b16cd35c1b3c8880f166f84f94812893c90ed43f0080cfed42e9d4e20af14f83",
+      "kind": "fact",
+      "quote": "Dream has emerged from stealth with $17 million in seed funding led by Andreessen Horowitz, alongside other backers, including SV Angel, XYZ, and Zigg Capital. The startup aims to replace cumbersome, outdated AEC tools like Autodesk’s AutoCAD and Revit."
+    },
+    {
+      "snapshotId": "b16cd35c1b3c8880f166f84f94812893c90ed43f0080cfed42e9d4e20af14f83",
+      "kind": "condition",
+      "quote": "Dream has already begun selling its product to AEC professionals and developers, who use the model to conceptualize building designs and estimate overall costs, according to the founders. The platform is already deployed across 10 active projects in Texas and California."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "建筑设计世界模型公司，与历史 Dream Labs 机器人 API 事件主体不同"
+  },
+  "eventId": "event-fafcf484209b52ca2a8266cd",
+  "occurrenceId": "occ-fafcf484209b52ca2a8266cd",
+  "relatedItems": []
+}

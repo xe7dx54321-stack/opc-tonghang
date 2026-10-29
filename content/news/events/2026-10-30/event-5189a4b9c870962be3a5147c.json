@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-5189a4b9c870962be3a5147c",
+  "title": "个人 Agent 公司 Wabi 融资 5500 万美元，估值 12.5 亿美元",
+  "firstSeen": "2026-10-30",
+  "editionDate": "2026-10-30",
+  "occurrences": [
+    {
+      "id": "occ-5189a4b9c870962be3a5147c",
+      "fact": {
+        "subject": "Wabi",
+        "action": "宣布融资",
+        "object": "5500万美元融资与个人代理产品",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-30",
+      "reports": [
+        {
+          "ref": "2026-10-30/2026-10-30-wabi-agent-funding",
+          "itemId": "2026-10-30-wabi-agent-funding",
+          "editionDate": "2026-10-30",
+          "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-29T14:35:26.000Z",
+          "title": "个人 Agent 公司 Wabi 融资 5500 万美元，估值 12.5 亿美元"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-30"
+}

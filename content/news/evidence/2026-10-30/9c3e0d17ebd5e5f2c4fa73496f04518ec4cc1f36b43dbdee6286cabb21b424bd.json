@@ -1,0 +1,13 @@
+{
+  "snapshotId": "9c3e0d17ebd5e5f2c4fa73496f04518ec4cc1f36b43dbdee6286cabb21b424bd",
+  "url": "https://openai.com/index/updated-model-spec",
+  "publishedAt": "2026-10-29T17:00:00.000Z",
+  "publishedAtQuote": "Security Oct 29, 2026",
+  "retrievedAt": "2026-10-29T23:36:16.448Z",
+  "method": "agent-tool",
+  "contentHash": "05f91fc67ecd534a51841cf5611c34ca962a443caf43b58bc4cf654fe75c4585",
+  "quotations": [
+    "Today we’re updating the Model Spec ⁠ (opens in a new window) , our public description of how we want our models to behave. The update reorganizes its guidance around five underlying values: faithfulness to human intent , harm minimization , honesty and transparency , human agency , and care . This reflects an aim of our work on value alignment : for models to understand and apply human values in unfamiliar situations, while remaining faithful to human intent. Alongside clearer explanations of existing principles, the revision adds guidance on context, oversight, and agency, adjusts some behavioral defaults, and retires much of the detailed s",
+    "Faithfulness to human intent is the foundation of this approach: understanding and helping people pursue what matters to them. OpenAI writes the Spec, sets boundaries, and trains models to respect them; developers direct applications within those boundaries; and users direct the model’s work subject to those constraints. Our models should expand people’s ability to shape their own lives by helping them understand the world, discover possibilities, and pursue the goals they choose, while taking seriously how that assistance affects others. Faithfulness to human intent and the remaining four values organize the Spec and guide how our models sho"
+  ]
+}

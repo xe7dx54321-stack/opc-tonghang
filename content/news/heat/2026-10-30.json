@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-30",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-03b3f66f307b0d0131bb",
+      "title": "智元在创新日提出 Worken 指标",
+      "summary": "两家媒体报道智元10月29日创新日提出按活跃设备、自主工时和产出效率衡量机器人生产力。",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "therobotreport.com",
+          "url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026"
+        },
+        {
+          "name": "mp.weixin.qq.com",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&idx=1&mid=2247748170&sn=da405f6af64c77dad519296a85eeaa7a"
+        }
+      ],
+      "memberUrls": [
+        "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026",
+        "https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&idx=1&mid=2247748170&sn=da405f6af64c77dad519296a85eeaa7a"
+      ]
+    }
+  ]
+}

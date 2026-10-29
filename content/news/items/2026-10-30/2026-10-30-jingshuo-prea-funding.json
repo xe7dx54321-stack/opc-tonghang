@@ -1,0 +1,60 @@
+{
+  "id": "2026-10-30-jingshuo-prea-funding",
+  "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+  "url": "https://www.qbitai.com/2026/10/506281.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "publishedAt": "2026-10-29T03:27:50.000Z",
+  "fetchedAt": "2026-10-29T04:43:01.946Z",
+  "displayTitle": "文远知行旗下景烁科技披露数千万美元 Pre-A 融资",
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "景烁科技",
+    "文远知行"
+  ],
+  "summary": "量子位刊载景烁科技提供的材料称，文远知行旗下景烁科技于 10 月 29 日披露首次融资，获嘉御资本、香港科技园、天狼星资本等投资数千万美元，资金将用于物理 AI 数据平台和世界模型。文章为公司提供的授权转载。",
+  "investorNote": "物理 AI 数据基础设施仍吸引早期资本，但客户和订单规模均为公司自述，交易判断应等合同与实际收入核实。",
+  "narrative": "景烁科技披露获得数千万美元 Pre-A 轮投资，投资方包括嘉御资本、香港科技园和天狼星资本。它从文远知行业务中发展物理 AI 数据、模型与采集设备；现有报道是公司提供的授权转载，关于客户规模和订单的数字应视为公司口径，融资事实之外仍需单独尽调。",
+  "score": 0.64,
+  "duplicateOf": null,
+  "clusterId": "event-d2c5733e7d7f9f7c0c2cba84",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "景烁科技",
+    "action": "披露首次融资",
+    "object": "数千万美元Pre-A轮融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "景烁科技",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "90f2bc6f5bcb768b660da182c3d4960cff8ba5da5ab3641a6772d049ab065f65",
+    "originalUrl": "https://www.qbitai.com/2026/10/506281.html",
+    "originalPublishedAt": "2026-10-29T03:27:50.000Z",
+    "checkedAt": "2026-10-29T23:36:16.613Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "90f2bc6f5bcb768b660da182c3d4960cff8ba5da5ab3641a6772d049ab065f65",
+      "kind": "fact",
+      "quote": "10月29日，文远知行（NASDAQ: WRD，HKEX: 0800）披露旗下子公司景烁科技首次融资进展，景烁科技目前已获嘉御资本、HKSTP香港科技园、天狼星资本等资方数千万美元的pre-A轮共同投资。"
+    },
+    {
+      "snapshotId": "90f2bc6f5bcb768b660da182c3d4960cff8ba5da5ab3641a6772d049ab065f65",
+      "kind": "condition",
+      "quote": "本文由景烁科技提供，量子位获授权转载，观点归原作者所有。"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "公司提供的融资披露，不能当独立报道增加来源数"
+  },
+  "eventId": "event-d2c5733e7d7f9f7c0c2cba84",
+  "occurrenceId": "occ-d2c5733e7d7f9f7c0c2cba84",
+  "relatedItems": []
+}
