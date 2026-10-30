@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-90690ab2592f1e44783a2fcd",
+  "title": "Apple Intelligence 将随 iOS 27.3 测试版进入中国，首批不含新 Siri",
+  "firstSeen": "2026-10-31",
+  "editionDate": "2026-10-31",
+  "occurrences": [
+    {
+      "id": "occ-90690ab2592f1e44783a2fcd",
+      "fact": {
+        "subject": "Apple",
+        "action": "宣布引入",
+        "object": "Apple Intelligence 中国区 iOS 27.3 测试版",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-31",
+      "reports": [
+        {
+          "ref": "2026-10-31/2026-10-31-apple-intelligence-china",
+          "itemId": "2026-10-31-apple-intelligence-china",
+          "editionDate": "2026-10-31",
+          "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-10-30T22:32:53.000Z",
+          "title": "Apple Intelligence 将随 iOS 27.3 测试版进入中国，首批不含新 Siri"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-31"
+}

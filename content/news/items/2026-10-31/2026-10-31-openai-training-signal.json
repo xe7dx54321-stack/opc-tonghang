@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-31-openai-training-signal",
+  "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+  "publishedAt": "2026-10-30T09:30:00.000Z",
+  "fact": {
+    "subject": "OpenAI",
+    "action": "宣布支持",
+    "object": "跨服务商 AI 训练偏好信号",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "OpenAI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "1b4a2ba19d3595731a84f315b9aaaf800284efb53fed6514bf5341eb00b45878",
+    "originalUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "originalPublishedAt": "2026-10-30T09:30:00.000Z",
+    "checkedAt": "2026-10-30T23:34:48.593Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "1b4a2ba19d3595731a84f315b9aaaf800284efb53fed6514bf5341eb00b45878",
+      "kind": "fact",
+      "quote": "Today, we’re announcing that OpenAI will honor a common signal ⁠ (opens in a new window) in robots.txt, the file that lets websites express their preferences about the use of their content for foundational generative AI training. This voluntary effort makes it easier for publishers and website operators to communicate the same preference to multiple participating providers at once."
+    }
+  ],
+  "title": "Making it easier for websites to express AI training preferences",
+  "source": "openai-news",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-30T18:18:10.551Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "IETF",
+    "robots.txt"
+  ],
+  "displayTitle": "OpenAI 支持统一 AI 训练偏好信号，网站可在 robots.txt 表态",
+  "summary": "OpenAI 宣布将尊重一个写在 robots.txt 中的统一信号，让网站向多个参与的 AI 服务商表达训练数据使用偏好。该信号预计未来数月实施，原有爬虫控制继续生效。",
+  "investorNote": "统一信号降低网站逐家维护爬虫规则的成本，但参与者范围与具体执行方式仍决定其实际约束力。",
+  "narrative": "OpenAI 宣布将支持在 robots.txt 中表达的统一 AI 训练偏好信号，网站无需只靠逐个识别爬虫来传达选择。公司称会在未来数月实施，并保留现有爬虫控制；眼下是标准承诺，尚非已经上线的跨行业执行机制。对内容平台和模型公司，真正要观察的是参与方覆盖率与后续具体实现。",
+  "score": 0.77,
+  "duplicateOf": null,
+  "clusterId": "event-9b10a91ac74b85ba8c81a61c",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期已核实的新动作；近两周目录无同一次发生的历史代表稿。"
+  },
+  "eventId": "event-9b10a91ac74b85ba8c81a61c",
+  "occurrenceId": "occ-9b10a91ac74b85ba8c81a61c",
+  "relatedItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "snapshotId": "4aba265489cc89371e83124d050fb4d912899d8e6714889c04633d3f7e762522",
+  "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+  "publishedAt": "2026-10-30T21:09:54.000Z",
+  "publishedAtQuote": "2026-10-30T21:09:54+00:00",
+  "retrievedAt": "2026-10-30T23:34:48.733Z",
+  "method": "agent-tool",
+  "contentHash": "4065449065b71dd7ee007cd10f1bb8d1a2ebbe362d2be5eaf21b9e896f71e037",
+  "quotations": [
+    "The compromised package was a VS Code extension available in the marketplace of Cursor, a maker of AI-assisted developer tools, the company said Friday. The malicious version, 2.1.313, subsequently affected “at most 5,000 users,” presumably when they either downloaded it or their systems automatically fetched and installed it. Anthropic pushed version 2.1."
+  ]
+}

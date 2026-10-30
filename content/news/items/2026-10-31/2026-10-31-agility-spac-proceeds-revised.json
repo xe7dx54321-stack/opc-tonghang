@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-31-agility-spac-proceeds-revised",
+  "url": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/",
+  "publishedAt": "2026-10-30T16:19:16.000Z",
+  "fact": {
+    "subject": "Agility Robotics",
+    "action": "下调预期",
+    "object": "SPAC 交易融资额至约 4.65 亿美元",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "14f189b9f523067abfc5c74e1066b9473711ab0f65d41685149e684d44838e5a",
+    "originalUrl": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/",
+    "originalPublishedAt": "2026-10-30T16:19:16.000Z",
+    "checkedAt": "2026-10-30T23:34:48.764Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "14f189b9f523067abfc5c74e1066b9473711ab0f65d41685149e684d44838e5a",
+      "kind": "fact",
+      "quote": "Agility Robotics Inc. and Churchill Capital Corp XI today said that they expect Agility to raise about $465 million in its proposed merger with the special-purpose acquisition company, or SPAC."
+    }
+  ],
+  "title": "Humanoid developer Agility now expects to raise $465M in SPAC deal",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-30T16:47:00.820Z",
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Agility Robotics",
+    "Digit",
+    "Churchill Capital Corp XI"
+  ],
+  "displayTitle": "Agility 下调 SPAC 融资预期至约 4.65 亿美元，交易仍待批准",
+  "summary": "The Robot Report 报道，Agility 与 Churchill Capital Corp XI 将拟议 SPAC 合并的预期融资额从 6.2 亿美元下调至约 4.65 亿美元，包含信托账户、PIPE 和此前已收到的 1 亿美元；交易拟于 11 月初完成，仍需股东批准。",
+  "investorNote": "资金预期收缩比挂牌故事更值得看，融资结构和已有订单能否支撑 2027 年交付仍待检验。",
+  "narrative": "The Robot Report 报道，Agility Robotics 与 Churchill Capital Corp XI 将拟议 SPAC 合并的预期融资额调整为约 **4.65 亿美元**，低于今年 6 月所说的 6.2 亿美元。其中包含约 1.64 亿美元信托资金、约 2.01 亿美元 PIPE，以及此前已经收到的 1 亿美元，不能把全部数额理解成今日新到账。交易预计 11 月 4 日完成，但仍受股东批准等条件约束。对人形机器人公司，融资额的修订比上市标签更能检验量产前的资本缓冲。",
+  "score": 0.79,
+  "duplicateOf": null,
+  "clusterId": "event-806b981a21d1a123b018c994",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期已核实的新动作；近两周目录无同一次发生的历史代表稿。"
+  },
+  "eventId": "event-806b981a21d1a123b018c994",
+  "occurrenceId": "occ-806b981a21d1a123b018c994",
+  "relatedItems": []
+}

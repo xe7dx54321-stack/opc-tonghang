@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-31-openai-community-safety",
+  "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+  "publishedAt": "2026-10-30T09:00:00.000Z",
+  "fact": {
+    "subject": "OpenAI",
+    "action": "公布",
+    "object": "社区安全报告计划及未成年人防护",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "OpenAI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8b807fe46972c9c63cf3267b9c1178d3ee4f30ae47c12134d292a063a9d64dc7",
+    "originalUrl": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "originalPublishedAt": "2026-10-30T09:00:00.000Z",
+    "checkedAt": "2026-10-30T23:34:48.632Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8b807fe46972c9c63cf3267b9c1178d3ee4f30ae47c12134d292a063a9d64dc7",
+      "kind": "fact",
+      "quote": "We’re making two announcements to further our work in this area: a new Community Safeguards Report and more restrictions around firearms content for minors. Keeping communities safe ⁠ continues to be a top priority for OpenAI."
+    }
+  ],
+  "title": "Community safety report and new protections for teens",
+  "source": "openai-news",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-30T17:17:05.744Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "ChatGPT"
+  ],
+  "displayTitle": "OpenAI 公布社区安全报告计划，收紧未成年人枪支内容规则",
+  "summary": "OpenAI 宣布计划推出社区安全报告，披露暴力风险识别、升级处理和防护效果，并进一步限制未成年人接触枪支相关内容。公司称 2026 年第三季度向执法部门转介了 200 多项线索。",
+  "investorNote": "这把模型安全从抽象政策推进到可定期披露的运营指标，但转介数量和防护效果不可画等号。",
+  "narrative": "OpenAI 同日宣布两项社区安全措施：筹备定期报告，说明暴力风险的识别与处理；加强未成年人枪支内容限制。公司称第三季度向执法部门转介了 200 多项线索，这是其自身披露的运营数据，不能据此推断具体干预成效。对大型 AI 产品，安全能力正更多体现为持续监测、升级与透明披露，而不只是模型回答时的一次拒绝。",
+  "score": 0.67,
+  "duplicateOf": null,
+  "clusterId": "event-e5e00e3979f721456088cdd2",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期已核实的新动作；近两周目录无同一次发生的历史代表稿。"
+  },
+  "eventId": "event-e5e00e3979f721456088cdd2",
+  "occurrenceId": "occ-e5e00e3979f721456088cdd2",
+  "relatedItems": []
+}

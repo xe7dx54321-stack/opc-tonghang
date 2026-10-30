@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-31-claude-cursor-extension-backdoor",
+  "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+  "publishedAt": "2026-10-30T21:09:54.000Z",
+  "fact": {
+    "subject": "Cursor",
+    "action": "披露",
+    "object": "Claude Code 扩展在 Cursor 市场遭植入后门",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Ars Technica",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "4aba265489cc89371e83124d050fb4d912899d8e6714889c04633d3f7e762522",
+    "originalUrl": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+    "originalPublishedAt": "2026-10-30T21:09:54.000Z",
+    "checkedAt": "2026-10-30T23:34:48.733Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "4aba265489cc89371e83124d050fb4d912899d8e6714889c04633d3f7e762522",
+      "kind": "fact",
+      "quote": "The compromised package was a VS Code extension available in the marketplace of Cursor, a maker of AI-assisted developer tools, the company said Friday. The malicious version, 2.1.313, subsequently affected “at most 5,000 users,” presumably when they either downloaded it or their systems automatically fetched and installed it. Anthropic pushed version 2.1."
+    }
+  ],
+  "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+  "source": "ars-technica",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-30T22:51:12.085Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude Code",
+    "Cursor"
+  ],
+  "displayTitle": "Cursor 市场的 Claude Code 扩展遭植入后门，波及上限约 5000 用户",
+  "summary": "Ars Technica 根据 Cursor 与安全研究者的信息报道，Cursor 扩展市场中的官方 Claude Code 扩展 2.1.313 版本遭植入 SSH 后门，可能触及至多约 5000 名用户。入侵者如何取得发布权限仍未知。",
+  "investorNote": "Agent 工具的扩展分发渠道成为高权限攻击面，企业采购需将签名、更新和撤回能力纳入评估。",
+  "narrative": "Ars Technica 报道，Cursor 扩展市场里的 Claude Code 扩展 2.1.313 版本遭植入后门，Cursor 称受影响用户**至多约 5000 人**。恶意代码试图设置 SSH 持久访问与反向连接；这描述的是攻击能力和潜在暴露面，实际数据外泄范围尚未确定。研究者指出问题版本由 Anthropic 在该市场的官方账号分发，但账号如何失守仍无定论。开发工具能接触源码、凭据和本地文件，这次事件把扩展更新链的权限问题推到了企业部署审查前台。",
+  "score": 0.89,
+  "duplicateOf": null,
+  "clusterId": "event-79fe57cb944d7434793c94a3",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期已核实的新动作；近两周目录无同一次发生的历史代表稿。"
+  },
+  "eventId": "event-79fe57cb944d7434793c94a3",
+  "occurrenceId": "occ-79fe57cb944d7434793c94a3",
+  "relatedItems": []
+}

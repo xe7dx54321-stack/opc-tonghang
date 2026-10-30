@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-31-google-suncatcher-satellite",
+  "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+  "publishedAt": "2026-10-30T18:21:38.000Z",
+  "fact": {
+    "subject": "Google",
+    "action": "公布",
+    "object": "Project Suncatcher 卫星 TPU 首次在轨推理",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "2c7191c3174462409628f8825b3148cbffbccc51415984da9580aca379df2b0e",
+    "originalUrl": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+    "originalPublishedAt": "2026-10-30T18:21:38.000Z",
+    "checkedAt": "2026-10-30T23:34:48.700Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "2c7191c3174462409628f8825b3148cbffbccc51415984da9580aca379df2b0e",
+      "kind": "fact",
+      "quote": "Google’s AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite’s Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in silent grace Starlight feeds my core."
+    }
+  ],
+  "title": "Google’s satellite AI server transmits its first response to Earth",
+  "source": "theverge",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-30T18:48:37.020Z",
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "Google",
+    "Project Suncatcher",
+    "TPU",
+    "Gemma 4"
+  ],
+  "displayTitle": "Google 卫星 TPU 完成首次在轨推理，太空数据中心仍在试验期",
+  "summary": "据 The Verge 报道，Google 在 Project Suncatcher 卫星上启动 TPU，Gemma 4 完成了一次生成太空主题俳句的推理请求。卫星本月稍早发射，后续仍需测试芯片和通信系统。",
+  "investorNote": "在轨推理证明了单次硬件运行，离规模化太空算力的散热、电力、通信和成本验证仍有距离。",
+  "narrative": "据 The Verge 对 Google 公告的报道，Project Suncatcher 卫星上的 TPU 已启动，搭载的 Gemma 4 完成一次太空主题俳句请求。这是**单次在轨推理演示**，足以证明芯片与软件链路在该环境下工作，却还不能证明太空数据中心的商业可行性。后续更值得看持续运行、通信、供电和散热测试，而不是把一次生成内容等同于算力供给。",
+  "score": 0.68,
+  "duplicateOf": null,
+  "clusterId": "event-679687fa9adb0c071b15e737",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期已核实的新动作；近两周目录无同一次发生的历史代表稿。"
+  },
+  "eventId": "event-679687fa9adb0c071b15e737",
+  "occurrenceId": "occ-679687fa9adb0c071b15e737",
+  "relatedItems": []
+}

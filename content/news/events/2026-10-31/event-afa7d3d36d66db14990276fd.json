@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-afa7d3d36d66db14990276fd",
+  "title": "Waymo 与丰田确定日本制造 bZ4X 车队，2027 年先做自动驾驶验证",
+  "firstSeen": "2026-10-31",
+  "editionDate": "2026-10-31",
+  "occurrences": [
+    {
+      "id": "occ-afa7d3d36d66db14990276fd",
+      "fact": {
+        "subject": "Waymo 与 Toyota",
+        "action": "公布",
+        "object": "日本制造 bZ4X 自动驾驶车队及 2027 年测试计划",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-31",
+      "reports": [
+        {
+          "ref": "2026-10-31/2026-10-31-waymo-toyota-japan-fleet",
+          "itemId": "2026-10-31-waymo-toyota-japan-fleet",
+          "editionDate": "2026-10-31",
+          "url": "https://waymo.com/blog/2026/10/toyota-bz4x-partnership",
+          "source": "waymo-blog",
+          "owner": "Waymo",
+          "role": "principal",
+          "publishedAt": "2026-10-30T00:00:00.000Z",
+          "title": "Waymo 与丰田确定日本制造 bZ4X 车队，2027 年先做自动驾驶验证"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-31"
+}

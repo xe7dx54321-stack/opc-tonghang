@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-21813a9ce902554a0bf5412a",
+  "title": "天数智芯披露天垓 300 推理测试，特定配置下吞吐约为 H200 的 1.05 倍",
+  "firstSeen": "2026-10-31",
+  "editionDate": "2026-10-31",
+  "occurrences": [
+    {
+      "id": "occ-21813a9ce902554a0bf5412a",
+      "fact": {
+        "subject": "天数智芯",
+        "action": "披露",
+        "object": "天垓 300 推理测试与异构计算方案",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-31",
+      "reports": [
+        {
+          "ref": "2026-10-31/2026-10-31-iluvatar-tiangai-300-benchmark",
+          "itemId": "2026-10-31-iluvatar-tiangai-300-benchmark",
+          "editionDate": "2026-10-31",
+          "url": "https://www.leiphone.com/category/chips/748GRHfg9VPRbp7x.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-10-30T09:02:00.000Z",
+          "title": "天数智芯披露天垓 300 推理测试，特定配置下吞吐约为 H200 的 1.05 倍"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-31"
+}

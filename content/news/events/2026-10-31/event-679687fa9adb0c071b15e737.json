@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-679687fa9adb0c071b15e737",
+  "title": "Google 卫星 TPU 完成首次在轨推理，太空数据中心仍在试验期",
+  "firstSeen": "2026-10-31",
+  "editionDate": "2026-10-31",
+  "occurrences": [
+    {
+      "id": "occ-679687fa9adb0c071b15e737",
+      "fact": {
+        "subject": "Google",
+        "action": "公布",
+        "object": "Project Suncatcher 卫星 TPU 首次在轨推理",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-31",
+      "reports": [
+        {
+          "ref": "2026-10-31/2026-10-31-google-suncatcher-satellite",
+          "itemId": "2026-10-31-google-suncatcher-satellite",
+          "editionDate": "2026-10-31",
+          "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-10-30T18:21:38.000Z",
+          "title": "Google 卫星 TPU 完成首次在轨推理，太空数据中心仍在试验期"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-31"
+}

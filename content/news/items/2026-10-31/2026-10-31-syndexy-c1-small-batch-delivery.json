@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-31-syndexy-c1-small-batch-delivery",
+  "url": "https://www.leiphone.com/category/industrynews/CLO1sIKJzw59DmrI.html",
+  "publishedAt": "2026-10-30T02:43:00.000Z",
+  "fact": {
+    "subject": "瞬恒智能",
+    "action": "宣布完成",
+    "object": "SynDexy C1 首次小批量交付",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "c8e4c0e942c34cc97e1df121721f70e9d7c95910b6104d67329a8cf2fb2fed63",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/CLO1sIKJzw59DmrI.html",
+    "originalPublishedAt": "2026-10-30T02:43:00.000Z",
+    "checkedAt": "2026-10-30T23:34:48.825Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "c8e4c0e942c34cc97e1df121721f70e9d7c95910b6104d67329a8cf2fb2fed63",
+      "kind": "fact",
+      "quote": "今日，瞬恒智能（SynDexy）宣布，自研灵巧操作人形机器人SynDexy C1完成首次小批量交付。 今日，瞬恒智能（SynDexy）宣布，自研灵巧操作人形机器人SynDexy C1完成首次小批量交付，产品正式从研发验证迈向工程化交付与场景应用新阶段，进一步推动具身智能在工业制造领域的商业化落地。 本次交付的机器人将应用于消费电子、电子元器件领域客户工厂的精密装配工序。此类工序对精度与稳定性要求极高，在此前测试中，SynDexy C1关键任务成功率超过 98%，展现出面向工业精细操作场景的应用潜力。"
+    }
+  ],
+  "title": "瞬恒智能自研灵巧操作人形机器人SynDexy C1首次实现小批量交付",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-30T05:04:48.761Z",
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "瞬恒智能",
+    "SynDexy C1"
+  ],
+  "displayTitle": "瞬恒智能称 SynDexy C1 首次小批量交付，指向电子制造精细装配",
+  "summary": "雷峰网刊载瞬恒智能公告称，SynDexy C1 双臂轮式人形机器人完成首次小批量交付，目标应用于消费电子和电子元器件工厂的精密装配；所述 98% 任务成功率来自此前测试，客户与交付规模未披露。",
+  "investorNote": "小批量交付比演示更接近客户现场，但缺少客户、数量和长期运行指标，商业化仍需追踪。",
+  "narrative": "雷峰网刊载的公司消息称，瞬恒智能 SynDexy C1 已首次小批量交付，拟用于消费电子和电子元器件工厂的精密装配。公司介绍其采用视触力融合，并称此前测试的关键任务成功率超过 98%；**客户名称、交付数量和现场连续运行结果没有披露**。这一动作比展台演示更接近产线，但现阶段只能确认公司宣布交付，不能据单次测试推断规模化稳定性。",
+  "score": 0.68,
+  "duplicateOf": null,
+  "clusterId": "event-6870e1b30bc2b8ec57621b8b",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期已核实的新动作；近两周目录无同一次发生的历史代表稿。"
+  },
+  "eventId": "event-6870e1b30bc2b8ec57621b8b",
+  "occurrenceId": "occ-6870e1b30bc2b8ec57621b8b",
+  "relatedItems": []
+}

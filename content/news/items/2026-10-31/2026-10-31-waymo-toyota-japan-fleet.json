@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-31-waymo-toyota-japan-fleet",
+  "url": "https://waymo.com/blog/2026/10/toyota-bz4x-partnership",
+  "publishedAt": "2026-10-30T00:00:00.000Z",
+  "fact": {
+    "subject": "Waymo 与 Toyota",
+    "action": "公布",
+    "object": "日本制造 bZ4X 自动驾驶车队及 2027 年测试计划",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Waymo",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "7f1dbe7a4bb7f760dadb8f9fc624e9384fbb31ebd6e509fafc50faa425beb920",
+    "originalUrl": "https://waymo.com/blog/2026/10/toyota-bz4x-partnership",
+    "originalPublishedAt": "2026-10-30T00:00:00.000Z",
+    "checkedAt": "2026-10-30T23:34:48.795Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "7f1dbe7a4bb7f760dadb8f9fc624e9384fbb31ebd6e509fafc50faa425beb920",
+      "kind": "fact",
+      "quote": "Toyota Motor Corporation (“Toyota”) and Waymo today announced the next phase of their autonomous driving collaboration, in pursuit of a world with safer streets and freedom of movement for all. Building on the preliminary agreement announced in April 2025, Toyota and Waymo will begin initial operations to test and validate an autonomous Toyota bZ4X fleet in Japan in 2027, with deployment to the United Kingdom and other Waymo-serviced markets planned for the following years."
+    }
+  ],
+  "title": "Toyota and Waymo Advance Autonomous Driving Collaboration for Safer Streets and Freedom of Movement for All",
+  "source": "waymo-blog",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-30T07:06:43.152Z",
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Waymo",
+    "Toyota",
+    "bZ4X"
+  ],
+  "displayTitle": "Waymo 与丰田确定日本制造 bZ4X 车队，2027 年先做自动驾驶验证",
+  "summary": "Waymo 与丰田宣布深化 2025 年达成的合作，由丰田日本高冈工厂组装并集成 Waymo 自动驾驶硬件的 bZ4X 车队，2027 年在日本开始测试验证，英国等市场计划此后推进。",
+  "investorNote": "把自动驾驶硬件集成前移到整车工厂，是从改装车队走向规模化制造的重要验证步骤。",
+  "narrative": "Waymo 与丰田公布了去年合作的下一阶段：丰田将在日本高冈工厂把 bZ4X 车体组装与 Waymo 自动驾驶硬件集成放进同一生产流程，**2027 年先在日本测试验证**，英国及其他市场排在其后。这不是东京已开通 Robotaxi 服务。价值在于把原先车后改装的工作前移到量产制造环节；能否由此降低车队部署成本，还要看验证、产能与当地运营许可。",
+  "score": 0.86,
+  "duplicateOf": null,
+  "clusterId": "event-afa7d3d36d66db14990276fd",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期已核实的新动作；近两周目录无同一次发生的历史代表稿。"
+  },
+  "crossSources": [
+    {
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+      "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X"
+    }
+  ],
+  "eventId": "event-afa7d3d36d66db14990276fd",
+  "occurrenceId": "occ-afa7d3d36d66db14990276fd",
+  "relatedItems": []
+}

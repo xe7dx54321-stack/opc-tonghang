@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-31-apple-intelligence-china",
+  "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+  "publishedAt": "2026-10-30T22:32:53.000Z",
+  "fact": {
+    "subject": "Apple",
+    "action": "宣布引入",
+    "object": "Apple Intelligence 中国区 iOS 27.3 测试版",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "f1b122f4e27bcbff5a12e74eac7315babd312acf57feee14d7b2c1831c98e26f",
+    "originalUrl": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+    "originalPublishedAt": "2026-10-30T22:32:53.000Z",
+    "checkedAt": "2026-10-30T23:34:48.665Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "f1b122f4e27bcbff5a12e74eac7315babd312acf57feee14d7b2c1831c98e26f",
+      "kind": "fact",
+      "quote": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website , as reported by MacRumors . The Apple Intelligence features will be available first in an iOS 27.3 beta that’s set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn’t bring the new Siri AI to China."
+    }
+  ],
+  "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+  "source": "theverge",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-30T22:51:11.323Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Apple",
+    "Apple Intelligence",
+    "iOS 27.3"
+  ],
+  "displayTitle": "Apple Intelligence 将随 iOS 27.3 测试版进入中国，首批不含新 Siri",
+  "summary": "据 The Verge 援引苹果中国公告，Apple Intelligence 将于 11 月 4 日的 iOS 27.3 测试版首次向中国用户提供部分功能，正式版计划 12 月发布；新 Siri 不在首批范围。",
+  "investorNote": "中国区落地终于有明确测试时间，但首批功能边界意味着生态预期需分阶段兑现。",
+  "narrative": "据 The Verge 援引苹果中国公告，Apple Intelligence 将在 11 月 4 日发布的 iOS 27.3 测试版进入中国，正式版计划于 12 月推出。首批包括通知摘要、翻译、改写和视觉智能等已有能力，**新 Siri 不在这一批**。这是一份发布计划，不是功能已经普遍可用；对国内模型与应用合作方，关键观察点是实际支持范围、上线稳定性和后续 Siri 路线。",
+  "score": 0.83,
+  "duplicateOf": null,
+  "clusterId": "event-90690ab2592f1e44783a2fcd",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期已核实的新动作；近两周目录无同一次发生的历史代表稿。"
+  },
+  "eventId": "event-90690ab2592f1e44783a2fcd",
+  "occurrenceId": "occ-90690ab2592f1e44783a2fcd",
+  "relatedItems": []
+}

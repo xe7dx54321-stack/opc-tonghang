@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-9b10a91ac74b85ba8c81a61c",
+  "title": "OpenAI 支持统一 AI 训练偏好信号，网站可在 robots.txt 表态",
+  "firstSeen": "2026-10-31",
+  "editionDate": "2026-10-31",
+  "occurrences": [
+    {
+      "id": "occ-9b10a91ac74b85ba8c81a61c",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "宣布支持",
+        "object": "跨服务商 AI 训练偏好信号",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-31",
+      "reports": [
+        {
+          "ref": "2026-10-31/2026-10-31-openai-training-signal",
+          "itemId": "2026-10-31-openai-training-signal",
+          "editionDate": "2026-10-31",
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "source": "openai-news",
+          "owner": "OpenAI",
+          "role": "principal",
+          "publishedAt": "2026-10-30T09:30:00.000Z",
+          "title": "OpenAI 支持统一 AI 训练偏好信号，网站可在 robots.txt 表态"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-31"
+}

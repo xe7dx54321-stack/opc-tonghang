@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-31-baidu-search-ai-api-upgrade",
+  "url": "https://www.leiphone.com/category/industrynews/7pQrGMmdsjx5dOSR.html",
+  "publishedAt": "2026-10-30T07:30:00.000Z",
+  "fact": {
+    "subject": "百度",
+    "action": "发布",
+    "object": "百度 APP 四项 AI 升级与搜索 AI API",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "1e4f8af9c3b89244e775785c53f5d7097c99030726ee6a9b8e41194cb05d3e3f",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/7pQrGMmdsjx5dOSR.html",
+    "originalPublishedAt": "2026-10-30T07:30:00.000Z",
+    "checkedAt": "2026-10-30T23:34:48.855Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "1e4f8af9c3b89244e775785c53f5d7097c99030726ee6a9b8e41194cb05d3e3f",
+      "kind": "fact",
+      "quote": "10 月 30 日，百度 APP 在北京举办产品升级沟通会。百度搜索实现递归自我进化，并全新升级搜索 AI API，活动期间最低价仅需 4.9 元/千次，低于 10 月 30 日，百度 APP 在北京举办产品升级沟通会。百度搜索实现递归自我进化，并全新升级搜索 AI API，活动期间最低价仅需 4.9 元/千次，低于 DeepSeek 搜索 API。同时围绕搜索框、AI 镜头、GUI 可视化、AI 互动应用等方向推出重大升级，给用户带来更智能、更聪明、更好玩的体验，在助力用户“搞定一切”上更进一步。 升级后的百度 APP，文心助手让搜索从「一次问答」走向「一份交付」，复杂问题和高频事务可直接交付成果物，长期任务则持续跟踪、主动提醒，目前已覆盖 170 余种场景。AI 镜头从「定格」走向「流动」，支持多目标同步识别与动态追踪，并可用东北话、四川话、粤语等 9 种方言实时对话。"
+    }
+  ],
+  "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-30T09:07:56.545Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "百度",
+    "百度 APP",
+    "搜索 AI API"
+  ],
+  "displayTitle": "百度 APP 更新 AI 搜索与接口，活动价降至每千次 4.9 元",
+  "summary": "雷峰网报道百度 10 月 30 日发布百度 APP 四项 AI 升级，包括文心助手长任务交付、动态视觉识别、互动搜索页面及搜索 AI API；后者活动期间最低为每千次 4.9 元。",
+  "investorNote": "搜索能力从问答向任务交付和开发者接口延伸，需分清促销价与常态单位经济性。",
+  "narrative": "据雷峰网报道，百度 10 月 30 日发布百度 APP 的多项 AI 更新：文心助手扩展长任务交付，AI 镜头支持动态识别，搜索结果加入互动界面，同时升级搜索 AI API。接口**活动期间最低每千次 4.9 元**，这是限时条件下的价格，不能直接当常态定价比较。百度称搜索可以“递归自我进化”，但文章没有给出独立评测；真正可跟踪的是接口调用效果、开发者留存与促销结束后的价格。",
+  "score": 0.69,
+  "duplicateOf": null,
+  "clusterId": "event-22f48c0dcafcb04c324fe6b8",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期已核实的新动作；近两周目录无同一次发生的历史代表稿。"
+  },
+  "eventId": "event-22f48c0dcafcb04c324fe6b8",
+  "occurrenceId": "occ-22f48c0dcafcb04c324fe6b8",
+  "relatedItems": []
+}

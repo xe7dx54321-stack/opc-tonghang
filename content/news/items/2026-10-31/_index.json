@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-31",
+  "itemCount": 10,
+  "storyCount": 10,
+  "clusterCount": 10,
+  "files": [
+    "2026-10-31-openai-training-signal.json",
+    "2026-10-31-openai-community-safety.json",
+    "2026-10-31-apple-intelligence-china.json",
+    "2026-10-31-google-suncatcher-satellite.json",
+    "2026-10-31-claude-cursor-extension-backdoor.json",
+    "2026-10-31-agility-spac-proceeds-revised.json",
+    "2026-10-31-waymo-toyota-japan-fleet.json",
+    "2026-10-31-syndexy-c1-small-batch-delivery.json",
+    "2026-10-31-baidu-search-ai-api-upgrade.json",
+    "2026-10-31-iluvatar-tiangai-300-benchmark.json"
+  ],
+  "representatives": [
+    "2026-10-31-openai-training-signal",
+    "2026-10-31-openai-community-safety",
+    "2026-10-31-apple-intelligence-china",
+    "2026-10-31-google-suncatcher-satellite",
+    "2026-10-31-claude-cursor-extension-backdoor",
+    "2026-10-31-agility-spac-proceeds-revised",
+    "2026-10-31-waymo-toyota-japan-fleet",
+    "2026-10-31-syndexy-c1-small-batch-delivery",
+    "2026-10-31-baidu-search-ai-api-upgrade",
+    "2026-10-31-iluvatar-tiangai-300-benchmark"
+  ]
+}

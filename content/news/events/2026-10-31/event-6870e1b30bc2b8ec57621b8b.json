@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6870e1b30bc2b8ec57621b8b",
+  "title": "瞬恒智能称 SynDexy C1 首次小批量交付，指向电子制造精细装配",
+  "firstSeen": "2026-10-31",
+  "editionDate": "2026-10-31",
+  "occurrences": [
+    {
+      "id": "occ-6870e1b30bc2b8ec57621b8b",
+      "fact": {
+        "subject": "瞬恒智能",
+        "action": "宣布完成",
+        "object": "SynDexy C1 首次小批量交付",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-31",
+      "reports": [
+        {
+          "ref": "2026-10-31/2026-10-31-syndexy-c1-small-batch-delivery",
+          "itemId": "2026-10-31-syndexy-c1-small-batch-delivery",
+          "editionDate": "2026-10-31",
+          "url": "https://www.leiphone.com/category/industrynews/CLO1sIKJzw59DmrI.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "relayer",
+          "publishedAt": "2026-10-30T02:43:00.000Z",
+          "title": "瞬恒智能称 SynDexy C1 首次小批量交付，指向电子制造精细装配"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-31"
+}

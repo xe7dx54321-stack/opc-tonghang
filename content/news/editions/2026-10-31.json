@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-31",
+  "window": {
+    "start": 1793316600000,
+    "end": 1793403000000
+  },
+  "digestHash": "affe8a51b9a79073ff4e182592be827ed5fa0e19396d2626e4b729663243f172",
+  "stories": [
+    {
+      "heading": "Cursor 市场的 Claude Code 扩展遭植入后门，波及上限约 5000 用户",
+      "itemId": "2026-10-31-claude-cursor-extension-backdoor",
+      "eventId": "event-79fe57cb944d7434793c94a3",
+      "occurrenceId": "occ-79fe57cb944d7434793c94a3"
+    },
+    {
+      "heading": "Apple Intelligence 将随 iOS 27.3 测试版进入中国，首批不含新 Siri",
+      "itemId": "2026-10-31-apple-intelligence-china",
+      "eventId": "event-90690ab2592f1e44783a2fcd",
+      "occurrenceId": "occ-90690ab2592f1e44783a2fcd"
+    },
+    {
+      "heading": "Waymo 与丰田确定日本制造 bZ4X 车队，2027 年先做自动驾驶验证",
+      "itemId": "2026-10-31-waymo-toyota-japan-fleet",
+      "eventId": "event-afa7d3d36d66db14990276fd",
+      "occurrenceId": "occ-afa7d3d36d66db14990276fd"
+    },
+    {
+      "heading": "Agility 下调 SPAC 融资预期至约 4.65 亿美元，交易仍待批准",
+      "itemId": "2026-10-31-agility-spac-proceeds-revised",
+      "eventId": "event-806b981a21d1a123b018c994",
+      "occurrenceId": "occ-806b981a21d1a123b018c994"
+    },
+    {
+      "heading": "天数智芯披露天垓 300 推理测试，特定配置下吞吐约为 H200 的 1.05 倍",
+      "itemId": "2026-10-31-iluvatar-tiangai-300-benchmark",
+      "eventId": "event-21813a9ce902554a0bf5412a",
+      "occurrenceId": "occ-21813a9ce902554a0bf5412a"
+    },
+    {
+      "heading": "瞬恒智能称 SynDexy C1 首次小批量交付，指向电子制造精细装配",
+      "itemId": "2026-10-31-syndexy-c1-small-batch-delivery",
+      "eventId": "event-6870e1b30bc2b8ec57621b8b",
+      "occurrenceId": "occ-6870e1b30bc2b8ec57621b8b"
+    },
+    {
+      "heading": "百度 APP 更新 AI 搜索与接口，活动价降至每千次 4.9 元",
+      "itemId": "2026-10-31-baidu-search-ai-api-upgrade",
+      "eventId": "event-22f48c0dcafcb04c324fe6b8",
+      "occurrenceId": "occ-22f48c0dcafcb04c324fe6b8"
+    },
+    {
+      "heading": "OpenAI 支持统一 AI 训练偏好信号，网站可在 robots.txt 表态",
+      "itemId": "2026-10-31-openai-training-signal",
+      "eventId": "event-9b10a91ac74b85ba8c81a61c",
+      "occurrenceId": "occ-9b10a91ac74b85ba8c81a61c"
+    },
+    {
+      "heading": "OpenAI 公布社区安全报告计划，收紧未成年人枪支内容规则",
+      "itemId": "2026-10-31-openai-community-safety",
+      "eventId": "event-e5e00e3979f721456088cdd2",
+      "occurrenceId": "occ-e5e00e3979f721456088cdd2"
+    },
+    {
+      "heading": "Google 卫星 TPU 完成首次在轨推理，太空数据中心仍在试验期",
+      "itemId": "2026-10-31-google-suncatcher-satellite",
+      "eventId": "event-679687fa9adb0c071b15e737",
+      "occurrenceId": "occ-679687fa9adb0c071b15e737"
+    }
+  ],
+  "itemHashes": {
+    "2026-10-31-agility-spac-proceeds-revised.json": "7f7f6fb89f806f492a0d824b04ea1db1dfd778736880f1a6e68747b151475234",
+    "2026-10-31-apple-intelligence-china.json": "f3308e465e7fdad31e5b79d949edfc40cccda119eb6cdcf04e21d2625a014aed",
+    "2026-10-31-baidu-search-ai-api-upgrade.json": "f6f300d8ac0ff77c8f1e306fe456753a383569604689898a124627a9c5399340",
+    "2026-10-31-claude-cursor-extension-backdoor.json": "1d0fee98fdfd264fa9495e11a8e965870fed3574d64a91013098ba7bbc159800",
+    "2026-10-31-google-suncatcher-satellite.json": "9c720b58aff344f9d5e81409b2fa4ef23fac132ae68ee19c5648fdbe097a1a4d",
+    "2026-10-31-iluvatar-tiangai-300-benchmark.json": "6e6fed43d917d415e6df4ebe8f841e0ad60aa41db36a78cdd1392c0743a37c2d",
+    "2026-10-31-openai-community-safety.json": "734b85f549e7bdca573377eb511189d362c7838a6964abd15ec3d4c0b59d31c5",
+    "2026-10-31-openai-training-signal.json": "5e2ded592276e4aec8c2ff32d711f2f336552ee364af9d63a74756d97099b5b1",
+    "2026-10-31-syndexy-c1-small-batch-delivery.json": "1cd028aba8f30f28f9edcbaad0de3cc09ac8390349696dee8b570ab8bd4b6e67",
+    "2026-10-31-waymo-toyota-japan-fleet.json": "59cbeab1723697345e02070da2e9b2fa37460ee820cd5dcb1374f24ec958c590"
+  },
+  "evidenceHashes": {
+    "14f189b9f523067abfc5c74e1066b9473711ab0f65d41685149e684d44838e5a.json": "7ec347d8af1d82fc9c848a0454a4271eba054c7bea9edbba08684acc4ec2521a",
+    "1b4a2ba19d3595731a84f315b9aaaf800284efb53fed6514bf5341eb00b45878.json": "9b08aa5fbc3e4848ebef51cd210daf114d072f254fdcd4b09dce07651cde029b",
+    "1e4f8af9c3b89244e775785c53f5d7097c99030726ee6a9b8e41194cb05d3e3f.json": "b7f6b289206dbf4f3b78ec2a401ddb77b0a215a6456aa7a0b2270981b1319963",
+    "2c7191c3174462409628f8825b3148cbffbccc51415984da9580aca379df2b0e.json": "0605c69cde84aebb9127a35520fa85bf2a162119a7916d802d8751a55ae90224",
+    "4aba265489cc89371e83124d050fb4d912899d8e6714889c04633d3f7e762522.json": "ed28337bd561ec39747696e2e69f28b7cf3985619186fa6f20e98edf2a32cca6",
+    "7f1dbe7a4bb7f760dadb8f9fc624e9384fbb31ebd6e509fafc50faa425beb920.json": "b97de1828de5e81f690b1560856532a2f743db144c440ea3a05a3c747c05291d",
+    "8b807fe46972c9c63cf3267b9c1178d3ee4f30ae47c12134d292a063a9d64dc7.json": "02b80dda510a0feacc4d746b05d855ad26d1fb139c6a51562e6359bdef27ed0e",
+    "c7ee8b798376ef772375673d3ddaf21d44c1bf14e569fce5801c2035bd909988.json": "b634553f34d175736147e7a3250a72817d91c782abe9e665bbf02821437662ae",
+    "c8e4c0e942c34cc97e1df121721f70e9d7c95910b6104d67329a8cf2fb2fed63.json": "5314ab5a9b796ab53e10744cb40b112f6ec90f9a3e7bfbb3432fb3f19ec6c47a",
+    "f1b122f4e27bcbff5a12e74eac7315babd312acf57feee14d7b2c1831c98e26f.json": "bf8b26bdcd007cd9af9a3a54304af7f777a0cd53ae58de5d65a5ffba239cc06b"
+  },
+  "eventsHashes": {
+    "event-21813a9ce902554a0bf5412a.json": "d38e29e97b688848412805961e2d1ad909896a77fc31956b01c362b95d95f2ed",
+    "event-22f48c0dcafcb04c324fe6b8.json": "e7d913ec8cb0c050950664165e4203c91f92d9e031d8379df41162e897cbc5a7",
+    "event-679687fa9adb0c071b15e737.json": "6762061c59e9100d3d7794a4ae2ceee5f2f2462f319f2c17135947ce669580ba",
+    "event-6870e1b30bc2b8ec57621b8b.json": "2840beb6e2b088f977e56aba298c64544c2d3051f247680f23fd72bc97bfa198",
+    "event-79fe57cb944d7434793c94a3.json": "2b5cc695d22213f0c8fb08fd3a7975cb23739dd598614ac2e762b48b653ce754",
+    "event-806b981a21d1a123b018c994.json": "f6b939fee92fa3c97bd4a71b273839cc041e9cde35f8bb98b7df8d124ddf3ced",
+    "event-90690ab2592f1e44783a2fcd.json": "e50149c6e7845abc7802b40e2a1ad241882c3e97a707622c4cbfbf785c1fe0b6",
+    "event-9b10a91ac74b85ba8c81a61c.json": "56ea97155f42fe17dd920997d43518a3aec5d30f68c04475bb5dbb13000e58ab",
+    "event-afa7d3d36d66db14990276fd.json": "4e22cae19087a92865d9bbdcc7a80b7849477b2d2a4d105efe0068083edd3e20",
+    "event-e5e00e3979f721456088cdd2.json": "861f2aa5e592b8f7e3c4bf80b0a6927e8ce444677013b1c69b797ec255182a8d"
+  }
+}

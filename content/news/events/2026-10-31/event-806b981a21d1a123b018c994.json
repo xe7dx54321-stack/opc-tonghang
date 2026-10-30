@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-806b981a21d1a123b018c994",
+  "title": "Agility 下调 SPAC 融资预期至约 4.65 亿美元，交易仍待批准",
+  "firstSeen": "2026-10-31",
+  "editionDate": "2026-10-31",
+  "occurrences": [
+    {
+      "id": "occ-806b981a21d1a123b018c994",
+      "fact": {
+        "subject": "Agility Robotics",
+        "action": "下调预期",
+        "object": "SPAC 交易融资额至约 4.65 亿美元",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-31",
+      "reports": [
+        {
+          "ref": "2026-10-31/2026-10-31-agility-spac-proceeds-revised",
+          "itemId": "2026-10-31-agility-spac-proceeds-revised",
+          "editionDate": "2026-10-31",
+          "url": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/",
+          "source": "robot-report",
+          "owner": "The Robot Report",
+          "role": "observer",
+          "publishedAt": "2026-10-30T16:19:16.000Z",
+          "title": "Agility 下调 SPAC 融资预期至约 4.65 亿美元，交易仍待批准"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-31"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-31",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-c315d9fc942ff8571ac4",
+      "title": "Waymo 与丰田推进日本制造 Robotaxi 车队",
+      "summary": "丰田将在日本工厂整合 Waymo 硬件，双方计划 2027 年开始验证。",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "waymo.com",
+          "url": "https://waymo.com/blog/2026/10/toyota-bz4x-partnership"
+        },
+        {
+          "name": "theverge.com",
+          "url": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x"
+        }
+      ],
+      "memberUrls": [
+        "https://waymo.com/blog/2026/10/toyota-bz4x-partnership",
+        "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x"
+      ]
+    }
+  ]
+}

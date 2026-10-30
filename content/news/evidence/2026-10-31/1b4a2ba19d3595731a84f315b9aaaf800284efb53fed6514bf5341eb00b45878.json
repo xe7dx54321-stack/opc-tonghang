@@ -1,0 +1,12 @@
+{
+  "snapshotId": "1b4a2ba19d3595731a84f315b9aaaf800284efb53fed6514bf5341eb00b45878",
+  "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+  "publishedAt": "2026-10-30T09:30:00.000Z",
+  "publishedAtQuote": "October 30, 2026",
+  "retrievedAt": "2026-10-30T23:34:48.593Z",
+  "method": "agent-tool",
+  "contentHash": "24820266e92ff384d62e3748cbe323fa3e096e22bbc62c32028295f2fe0da49c",
+  "quotations": [
+    "Today, we’re announcing that OpenAI will honor a common signal ⁠ (opens in a new window) in robots.txt, the file that lets websites express their preferences about the use of their content for foundational generative AI training. This voluntary effort makes it easier for publishers and website operators to communicate the same preference to multiple participating providers at once."
+  ]
+}

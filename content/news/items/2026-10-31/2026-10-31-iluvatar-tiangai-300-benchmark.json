@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-10-31-iluvatar-tiangai-300-benchmark",
+  "url": "https://www.leiphone.com/category/chips/748GRHfg9VPRbp7x.html",
+  "publishedAt": "2026-10-30T09:02:00.000Z",
+  "fact": {
+    "subject": "天数智芯",
+    "action": "披露",
+    "object": "天垓 300 推理测试与异构计算方案",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "c7ee8b798376ef772375673d3ddaf21d44c1bf14e569fce5801c2035bd909988",
+    "originalUrl": "https://www.leiphone.com/category/chips/748GRHfg9VPRbp7x.html",
+    "originalPublishedAt": "2026-10-30T09:02:00.000Z",
+    "checkedAt": "2026-10-30T23:34:48.883Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "c7ee8b798376ef772375673d3ddaf21d44c1bf14e569fce5801c2035bd909988",
+      "kind": "fact",
+      "quote": "天数智芯表示，今年完成的一组第三方测试中， 在典型PD分离部署下，天垓300折算单卡端到端吞吐达到H200的1.05倍。 这表明国产通用GPU在特定高端推理负载中，已经拥有与H200直接竞争的性能基础。 但从性能接近到客户采购，再到持续扩容，中间仍隔着系统效率、软件适配和稳定交付。 当硬件具备竞争力，国产GPU怎样把这种能力转化为客户持续使用的理由？ 当推理催生更多专用芯片，通用GPU的独特价值是什么？ 从云端天垓300到端侧彤央系列，天数智芯也在拓展产品布局，将竞争延伸到不同形态的算力需求中。 天垓300对比H200实测，性能小幅领先 过去很长一段时间，峰值算力是国产AI芯片受到关注的重要指标。但对最终用户而言，设备每秒真正产出多少有效Token，比参数表上的理论算力更接近采购决策。 天数智芯披露的第三方测试覆盖四大主流模型、三类场景。其中，1.05倍指典型PD分离部署下，折算单卡的整体端到端吞吐，反映的是特定模型与部署条件下的系统表现。"
+    }
+  ],
+  "title": "天数智芯天垓300实测对标H200，国产GPU接下来拼什么？",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "fetchedAt": "2026-10-30T09:07:56.545Z",
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "天数智芯",
+    "天垓 300",
+    "H200"
+  ],
+  "displayTitle": "天数智芯披露天垓 300 推理测试，特定配置下吞吐约为 H200 的 1.05 倍",
+  "summary": "雷峰网报道天数智芯媒体开放日披露的测试：在典型预填充与解码分离配置下，天垓 300 折算单卡端到端吞吐为 H200 的 1.05 倍。该数字来自公司展示的第三方测试，文章未提供可复现的完整测试资料。",
+  "investorNote": "限定工作负载下的吞吐接近 H200 有信号，但采购还需检验全栈适配、持续运行和成本。",
+  "narrative": "雷峰网在天数智芯媒体开放日看到天垓 300 的推理展示。公司披露的一组第三方测试称，在**典型 PD 分离部署、折算单卡端到端吞吐**这一限定口径下，其结果为 H200 的 1.05 倍；这不是所有模型、所有场景都领先。公司还展示让 GPU 承担预填充及注意力计算、由合作 XPU 处理专家网络的分工方案。对采购方，接下来的核验重点是测试能否复现、软件适配和长期交付成本。",
+  "score": 0.69,
+  "duplicateOf": null,
+  "clusterId": "event-21813a9ce902554a0bf5412a",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期已核实的新动作；近两周目录无同一次发生的历史代表稿。"
+  },
+  "eventId": "event-21813a9ce902554a0bf5412a",
+  "occurrenceId": "occ-21813a9ce902554a0bf5412a",
+  "relatedItems": []
+}

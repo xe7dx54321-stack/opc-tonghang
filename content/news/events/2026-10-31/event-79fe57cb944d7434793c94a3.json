@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-79fe57cb944d7434793c94a3",
+  "title": "Cursor 市场的 Claude Code 扩展遭植入后门，波及上限约 5000 用户",
+  "firstSeen": "2026-10-31",
+  "editionDate": "2026-10-31",
+  "occurrences": [
+    {
+      "id": "occ-79fe57cb944d7434793c94a3",
+      "fact": {
+        "subject": "Cursor",
+        "action": "披露",
+        "object": "Claude Code 扩展在 Cursor 市场遭植入后门",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-31",
+      "reports": [
+        {
+          "ref": "2026-10-31/2026-10-31-claude-cursor-extension-backdoor",
+          "itemId": "2026-10-31-claude-cursor-extension-backdoor",
+          "editionDate": "2026-10-31",
+          "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+          "source": "ars-technica",
+          "owner": "Ars Technica",
+          "role": "observer",
+          "publishedAt": "2026-10-30T21:09:54.000Z",
+          "title": "Cursor 市场的 Claude Code 扩展遭植入后门，波及上限约 5000 用户"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-31"
+}

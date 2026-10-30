@@ -1,0 +1,12 @@
+{
+  "snapshotId": "2c7191c3174462409628f8825b3148cbffbccc51415984da9580aca379df2b0e",
+  "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+  "publishedAt": "2026-10-30T18:21:38.000Z",
+  "publishedAtQuote": "Oct 30, 2026, 6:21 PM UTC",
+  "retrievedAt": "2026-10-30T23:34:48.700Z",
+  "method": "agent-tool",
+  "contentHash": "0be912d08c0a1a6b5c90a118b2e0f9834c1454fa080ddadd99b82b770f61482e",
+  "quotations": [
+    "Google’s AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite’s Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in silent grace Starlight feeds my core."
+  ]
+}

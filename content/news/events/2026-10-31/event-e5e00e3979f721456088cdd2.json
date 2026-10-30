@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-e5e00e3979f721456088cdd2",
+  "title": "OpenAI 公布社区安全报告计划，收紧未成年人枪支内容规则",
+  "firstSeen": "2026-10-31",
+  "editionDate": "2026-10-31",
+  "occurrences": [
+    {
+      "id": "occ-e5e00e3979f721456088cdd2",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "公布",
+        "object": "社区安全报告计划及未成年人防护",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-10-31",
+      "reports": [
+        {
+          "ref": "2026-10-31/2026-10-31-openai-community-safety",
+          "itemId": "2026-10-31-openai-community-safety",
+          "editionDate": "2026-10-31",
+          "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "source": "openai-news",
+          "owner": "OpenAI",
+          "role": "principal",
+          "publishedAt": "2026-10-30T09:00:00.000Z",
+          "title": "OpenAI 公布社区安全报告计划，收紧未成年人枪支内容规则"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-10-31"
+}
