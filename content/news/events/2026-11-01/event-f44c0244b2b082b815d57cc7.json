@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-f44c0244b2b082b815d57cc7",
+  "title": "OpenAI 拟将 Daybreak Blue 会话用于训练，并追加单独退出选项",
+  "firstSeen": "2026-11-01",
+  "editionDate": "2026-11-01",
+  "occurrences": [
+    {
+      "id": "occ-f44c0244b2b082b815d57cc7",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "通知调整数据训练政策",
+        "object": "Daybreak Blue会话数据",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-01",
+      "reports": [
+        {
+          "ref": "2026-11-01/2026-11-01-openai-daybreak-data",
+          "itemId": "2026-11-01-openai-daybreak-data",
+          "editionDate": "2026-11-01",
+          "url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+          "source": "the-decoder",
+          "owner": "THE DECODER",
+          "role": "observer",
+          "publishedAt": "2026-10-31T16:38:37.000Z",
+          "title": "OpenAI 拟将 Daybreak Blue 会话用于训练，并追加单独退出选项"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-01"
+}

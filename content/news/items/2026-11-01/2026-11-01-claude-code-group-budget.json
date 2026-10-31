@@ -1,0 +1,62 @@
+{
+  "id": "2026-11-01-claude-code-group-budget",
+  "title": "v2.1.316",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
+  "source": "claude-code-releases",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude Code"
+  ],
+  "publishedAt": "2026-10-31T01:01:35.000Z",
+  "fetchedAt": "2026-10-31T01:23:10.255Z",
+  "summary": "Anthropic在10月31日发布Claude Code v2.1.316，更新说明加入Claude apps gateway的团队共享月预算，可叠加成员各自限额；同时增加子代理默认effort设置。",
+  "investorNote": "企业部署编程代理时，预算控制与子代理资源配置会逐步成为管理层能力，但本次仍是版本级更新。",
+  "score": 0.61,
+  "duplicateOf": null,
+  "clusterId": "event-0225a0fe4cf082c1c3e0a307",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "发布版本并增加共享预算",
+    "object": "Claude Code v2.1.316",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Anthropic",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "9a54e11af2285cb27e4d8cda7cc1b6bf02997873f6f497b5de17ee1777c48a98",
+    "originalUrl": "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
+    "originalPublishedAt": "2026-10-31T01:01:35.000Z",
+    "checkedAt": "2026-10-31T23:37:40.907Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "9a54e11af2285cb27e4d8cda7cc1b6bf02997873f6f497b5de17ee1777c48a98",
+      "kind": "fact",
+      "quote": "Added pooled group budgets to the Claude apps gateway: one monthly budget that a group's members share"
+    },
+    {
+      "snapshotId": "9a54e11af2285cb27e4d8cda7cc1b6bf02997873f6f497b5de17ee1777c48a98",
+      "kind": "condition",
+      "quote": "to set the effort level subagents run at when nothing else names one, instead of inheriting the session's"
+    }
+  ],
+  "displayTitle": "Claude Code 新版加入团队共享月预算设置",
+  "narrative": "Anthropic发布Claude Code v2.1.316，更新说明加入网关层的**团队共享月预算**，可与个人限额并用，并提供子代理默认effort设置。这是小版本的管理能力升级，适合关注多席位代理成本控制的团队，尚不能说明实际成本会自动下降。",
+  "eventRelation": {
+    "type": "SAME_STORY",
+    "targetRef": "2026-10-25/2026-10-25-claude-code-2310",
+    "reason": "同一Claude Code产品线的后续版本更新，区别于此前版本的监控与权限变化。",
+    "newInformation": "v2.1.316新增团队共享月预算及子代理默认effort配置。"
+  },
+  "eventId": "event-0225a0fe4cf082c1c3e0a307",
+  "occurrenceId": "occ-7a68ccd25207e88f969ee57f",
+  "relatedItems": []
+}

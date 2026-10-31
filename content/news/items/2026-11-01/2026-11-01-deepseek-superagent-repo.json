@@ -1,0 +1,60 @@
+{
+  "id": "2026-11-01-deepseek-superagent-repo",
+  "title": "DeepSeek dsh-superagent research prototype",
+  "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+  "source": "hacker-news",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "DeepSeek",
+    "dsh-superagent"
+  ],
+  "publishedAt": "2026-10-31T09:32:46.000Z",
+  "fetchedAt": "2026-10-31T23:30:26.446Z",
+  "summary": "DeepSeek于10月31日创建并公开dsh-superagent代码仓库。这是面向单个GitHub仓库的主动编程代理研究原型，可监听授权请求并在独立会话中处理任务、回复PR；README明确称并非正式产品或生产就绪软件。",
+  "investorNote": "从单次问答转向持续监听和有权限的工作流是重要方向，但研究原型的可靠性、权限与人类注意力成本仍待实测。",
+  "score": 0.84,
+  "duplicateOf": null,
+  "clusterId": "event-b37f3070e84948d2673c261f",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "DeepSeek",
+    "action": "公开研究原型代码",
+    "object": "dsh-superagent",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "DeepSeek",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "a023723d5e15bea1970c0e344eed072e809f0fe18595ad7ba07331601167c977",
+    "originalUrl": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "originalPublishedAt": "2026-10-31T09:32:46.000Z",
+    "checkedAt": "2026-10-31T23:37:40.720Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "a023723d5e15bea1970c0e344eed072e809f0fe18595ad7ba07331601167c977",
+      "kind": "fact",
+      "quote": "Research prototype for reference only, not an official DeepSeek product."
+    },
+    {
+      "snapshotId": "a023723d5e15bea1970c0e344eed072e809f0fe18595ad7ba07331601167c977",
+      "kind": "condition",
+      "quote": "dsh-superagent is a proactive coding agent for one GitHub repository, packaged as a bundle for DeepSeek Harness."
+    }
+  ],
+  "displayTitle": "DeepSeek 开源单仓库主动编程代理研究原型",
+  "narrative": "DeepSeek公开dsh-superagent研究原型：它面向单个GitHub仓库，接收授权请求，在独立会话中执行任务并把结果送回原对话。**仓库明确说明这不是正式产品，也未达到生产就绪状态**；价值在于展示持续代理如何组织授权、任务和人工介入。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "10月31日新建并公开的dsh-superagent仓库，与此前DeepInfer推理栈不是同一次产品动作。"
+  },
+  "eventId": "event-b37f3070e84948d2673c261f",
+  "occurrenceId": "occ-b37f3070e84948d2673c261f",
+  "relatedItems": []
+}

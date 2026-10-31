@@ -1,0 +1,60 @@
+{
+  "id": "2026-11-01-openai-daybreak-data",
+  "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
+  "url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "Daybreak Blue"
+  ],
+  "publishedAt": "2026-10-31T16:38:37.000Z",
+  "fetchedAt": "2026-10-31T17:09:07.280Z",
+  "summary": "THE DECODER据发给Trusted Access成员的邮件报道，OpenAI计划11月29日起将Daybreak Blue会话数据用于训练，后续邮件承诺提供单独退出选项；安全审核标记的交互仍可能用于安全目的。",
+  "investorNote": "安全研究平台的数据边界直接影响企业及研究团队的使用信任，关键在退出机制和例外条款能否清楚执行。",
+  "score": 0.75,
+  "duplicateOf": null,
+  "clusterId": "event-f44c0244b2b082b815d57cc7",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "OpenAI",
+    "action": "通知调整数据训练政策",
+    "object": "Daybreak Blue会话数据",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "THE DECODER",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "f1cc7e0a0eefe2c751ff2dc393f3cc9009039b197c75e26b74f085782fcbd779",
+    "originalUrl": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+    "originalPublishedAt": "2026-10-31T16:38:37.000Z",
+    "checkedAt": "2026-10-31T23:37:40.816Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "f1cc7e0a0eefe2c751ff2dc393f3cc9009039b197c75e26b74f085782fcbd779",
+      "kind": "fact",
+      "quote": "Starting November 29, OpenAI will use Daybreak Blue session data to train its models."
+    },
+    {
+      "snapshotId": "f1cc7e0a0eefe2c751ff2dc393f3cc9009039b197c75e26b74f085782fcbd779",
+      "kind": "condition",
+      "quote": "OpenAI followed up with a second email promising a separate opt-out."
+    }
+  ],
+  "displayTitle": "OpenAI 拟将 Daybreak Blue 会话用于训练，并追加单独退出选项",
+  "narrative": "THE DECODER据发给Trusted Access成员的邮件报道，OpenAI计划从11月29日起把Daybreak Blue会话数据用于模型训练，随后又承诺设置单独的退出选项。**变化尚未生效，退出与安全审核例外要分开看**。对安全研究团队而言，是否能明确控制敏感会话的后续用途，比功能更新更关键。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期新的Daybreak Blue训练数据政策邮件，非此前Model Spec更新。"
+  },
+  "eventId": "event-f44c0244b2b082b815d57cc7",
+  "occurrenceId": "occ-f44c0244b2b082b815d57cc7",
+  "relatedItems": []
+}

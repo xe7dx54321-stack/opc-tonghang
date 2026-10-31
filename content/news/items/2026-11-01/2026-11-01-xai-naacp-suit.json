@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-01-xai-naacp-suit",
+  "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+  "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "xAI",
+    "NAACP",
+    "Colossus"
+  ],
+  "publishedAt": "2026-10-31T21:17:03.000Z",
+  "fetchedAt": "2026-10-31T21:42:46.782Z",
+  "summary": "美国联邦法官驳回xAI要求撤销NAACP《清洁空气法》诉讼的动议。原告指控Colossus数据中心使用燃气轮机未取得所需许可，法院只决定诉讼可继续，尚未裁定污染指控成立。",
+  "investorNote": "算力基础设施的许可与社区诉讼会影响数据中心落地节奏，需追踪后续审理与实际合规成本。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "event-328fad5b179dd18308fcc81a",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "美国联邦法院",
+    "action": "驳回撤诉请求",
+    "object": "NAACP针对xAI数据中心燃气轮机的诉讼",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "bf6791b17fb96d8a6b56d18273bb738ee5960a8c85db6a9ee8627e2310b15bf6",
+    "originalUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "originalPublishedAt": "2026-10-31T21:17:03.000Z",
+    "checkedAt": "2026-10-31T23:37:40.786Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "bf6791b17fb96d8a6b56d18273bb738ee5960a8c85db6a9ee8627e2310b15bf6",
+      "kind": "fact",
+      "quote": "A federal judge denied a motion by xAI seeking to dismiss an NAACP lawsuit"
+    },
+    {
+      "snapshotId": "bf6791b17fb96d8a6b56d18273bb738ee5960a8c85db6a9ee8627e2310b15bf6",
+      "kind": "condition",
+      "quote": "the plaintiffs’ claims will proceed"
+    }
+  ],
+  "displayTitle": "美国法院准许 NAACP 针对 xAI 数据中心的排放诉讼继续审理",
+  "narrative": "TechCrunch报道，美国联邦法官驳回xAI要求撤销NAACP诉讼的动议，案件将继续审理。原告指控Colossus数据中心的燃气轮机缺少所需排放许可，xAI主张设备属于可移动来源。**法院这次处理的是能否继续起诉，并未判定污染指控成立**；算力园区的许可风险正在成为建设周期的一部分。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期法院新的程序性裁定，与此前数据中心建设消息不同。"
+  },
+  "eventId": "event-328fad5b179dd18308fcc81a",
+  "occurrenceId": "occ-328fad5b179dd18308fcc81a",
+  "relatedItems": []
+}

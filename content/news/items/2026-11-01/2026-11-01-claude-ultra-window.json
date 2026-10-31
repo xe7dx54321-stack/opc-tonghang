@@ -1,0 +1,60 @@
+{
+  "id": "2026-11-01-claude-ultra-window",
+  "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+  "url": "https://www.qbitai.com/2026/10/506855.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude Ultra"
+  ],
+  "publishedAt": "2026-10-31T05:05:29.000Z",
+  "fetchedAt": "2026-10-31T07:59:05.932Z",
+  "summary": "Anthropic将Max 20x改名为Ultra，月费仍为200美元；已验证账户可不受五小时窗口限制地使用服务，但每周额度仍为Pro的10倍。新账户需先完成验证。",
+  "investorNote": "高价订阅的调整重点是连续使用体验，不是每周可用总量增加；高频开发者需要看实际限额。",
+  "score": 0.73,
+  "duplicateOf": null,
+  "clusterId": "event-6a664692a9aaa757abd71bda",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "调整订阅套餐使用窗口",
+    "object": "Claude Ultra",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "fe25e015729b1c545d2d1e04c41f4dc797658ea01d6d044d1ea9cf75c39e6175",
+    "originalUrl": "https://www.qbitai.com/2026/10/506855.html",
+    "originalPublishedAt": "2026-10-31T05:05:29.000Z",
+    "checkedAt": "2026-10-31T23:37:40.607Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "fe25e015729b1c545d2d1e04c41f4dc797658ea01d6d044d1ea9cf75c39e6175",
+      "kind": "fact",
+      "quote": "原来的Max 5x和Max 20x正式改名，分别变成Max和Ultra。"
+    },
+    {
+      "snapshotId": "fe25e015729b1c545d2d1e04c41f4dc797658ea01d6d044d1ea9cf75c39e6175",
+      "kind": "condition",
+      "quote": "每周使用额度保持不变，仍为Pro用户的10倍。"
+    }
+  ],
+  "displayTitle": "Claude Ultra 向已验证账户取消五小时窗口，周额度不变",
+  "narrative": "Anthropic将每月200美元的Max 20x改名为Ultra，已验证账户开始移除五小时使用窗口；**每周额度仍为Pro的10倍**，新账户需等待验证。这改善了连续任务的节奏，却没有增加周总量。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期新的Claude个人订阅规则调整；近两周没有同次发生的历史报道。"
+  },
+  "eventId": "event-6a664692a9aaa757abd71bda",
+  "occurrenceId": "occ-6a664692a9aaa757abd71bda",
+  "relatedItems": []
+}

@@ -6,24 +6,6 @@
   "editionDate": "2026-10-14",
   "occurrences": [
     {
-      "id": "occ-1d86a5ada110ed0733c211f1",
-      "fact": null,
-      "firstSeen": "2026-10-01",
-      "reports": [
-        {
-          "ref": "2026-10-01/2026-10-01-google-gemini-4-argon",
-          "itemId": "2026-10-01-google-gemini-4-argon",
-          "editionDate": "2026-10-01",
-          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-          "source": "deepmind",
-          "owner": "deepmind",
-          "role": "unknown",
-          "publishedAt": "2026-09-30T20:00:00.000Z",
-          "title": "Google 发布 Gemini 4 Argon，先向可信网络防御者开放"
-        }
-      ]
-    },
-    {
       "id": "occ-661ad15024652e1eead77110",
       "fact": {
         "subject": "Google",

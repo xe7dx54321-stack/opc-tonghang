@@ -1,0 +1,60 @@
+{
+  "id": "2026-11-01-deepseek-superagent",
+  "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+  "url": "https://www.qbitai.com/2026/10/506904.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "DeepSeek",
+    "dsh-superagent"
+  ],
+  "publishedAt": "2026-10-31T13:49:44.000Z",
+  "fetchedAt": "2026-10-31T19:41:31.657Z",
+  "summary": "量子位报道DeepSeek发布Super-agent架构和代码；文章介绍Router/Worker分层与模拟20项工作请求的初步测试，但这些数据属团队自测，不能等同生产效果。",
+  "investorNote": "该报道有助于理解原型设计，但性能数字应作为小规模内部实验看待，与官方仓库归为同一动作。",
+  "score": 0.76,
+  "duplicateOf": "2026-11-01-deepseek-superagent-repo",
+  "clusterId": "event-b37f3070e84948d2673c261f",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "DeepSeek",
+    "action": "公开研究原型",
+    "object": "dsh-superagent",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "5f70a3271316ba3dafc21a41eff62b80383a900a3e5a209993054918155c6f76",
+    "originalUrl": "https://www.qbitai.com/2026/10/506904.html",
+    "originalPublishedAt": "2026-10-31T13:49:44.000Z",
+    "checkedAt": "2026-10-31T23:37:40.686Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "5f70a3271316ba3dafc21a41eff62b80383a900a3e5a209993054918155c6f76",
+      "kind": "fact",
+      "quote": "DeepSeek团队还进行了一组初步实验"
+    },
+    {
+      "snapshotId": "5f70a3271316ba3dafc21a41eff62b80383a900a3e5a209993054918155c6f76",
+      "kind": "condition",
+      "quote": "Super-agent任务完成时间中位数：12.4分钟，95分位任务完成时间：15.7分钟。"
+    }
+  ],
+  "displayTitle": "DeepSeek 开源单仓库主动编程代理研究原型",
+  "narrative": "量子位补充了DeepSeek主动编程代理的Router/Worker架构及内部模拟测试：20项工作请求、每组重复五次。实验结果提供方向性线索，尚不足以证明生产环境收益。",
+  "eventRelation": {
+    "type": "SAME_OCCURRENCE",
+    "targetRef": "2026-11-01/2026-11-01-deepseek-superagent-repo",
+    "reason": "报道指向同一个DeepSeek dsh-superagent原型及仓库，解释同一次公开动作。"
+  },
+  "eventId": "event-b37f3070e84948d2673c261f",
+  "occurrenceId": "occ-b37f3070e84948d2673c261f"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-01-anthropic-watermark",
+  "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+  "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude",
+    "SynthID"
+  ],
+  "publishedAt": "2026-10-31T19:20:55.000Z",
+  "fetchedAt": "2026-10-31T19:41:33.429Z",
+  "summary": "THE DECODER据Anthropic客户邮件报道，公司将文本水印扩展到四款Claude模型；Opus 4.6与Sonnet 4.6仅在temperature、top_p、top_k保持默认设置时启用水印，意味着这两款旧模型可通过调整参数避开。",
+  "investorNote": "水印的实际覆盖率取决于API配置和检测能力；企业若用于合规，不应把有条件的水印当成普适证明。",
+  "score": 0.72,
+  "duplicateOf": null,
+  "clusterId": "event-53b6bfdfcc56a7b9b2afef9f",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "扩大文本水印范围",
+    "object": "四款Claude模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "THE DECODER",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "f2cf7b1f30d9753eb07401b121a3915c9cb915fc26aada00a99990de8650b049",
+    "originalUrl": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+    "originalPublishedAt": "2026-10-31T19:20:55.000Z",
+    "checkedAt": "2026-10-31T23:37:40.847Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "f2cf7b1f30d9753eb07401b121a3915c9cb915fc26aada00a99990de8650b049",
+      "kind": "fact",
+      "quote": "Anthropic is expanding its text watermark to four more Claude models"
+    },
+    {
+      "snapshotId": "f2cf7b1f30d9753eb07401b121a3915c9cb915fc26aada00a99990de8650b049",
+      "kind": "condition",
+      "quote": "On Claude Opus 4.6 and Claude Sonnet 4.6, Anthropic says the watermark kicks in only when developers leave the three sampling parameters at their default values."
+    }
+  ],
+  "displayTitle": "Anthropic 扩大 Claude 文本水印，旧模型默认采样参数是限制",
+  "narrative": "据THE DECODER取得的客户邮件，Anthropic把文本水印扩展至四款Claude模型。不过Opus 4.6与Sonnet 4.6只有在三个采样参数保持默认时才应用水印，开发者改动参数便可能绕开。**合规使用需要核对具体模型和参数**，不能把“支持水印”理解为所有输出都带有可检测标记。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期邮件披露的旧模型水印扩展，与近两周其它Claude功能更新对象不同。"
+  },
+  "eventId": "event-53b6bfdfcc56a7b9b2afef9f",
+  "occurrenceId": "occ-53b6bfdfcc56a7b9b2afef9f",
+  "relatedItems": []
+}

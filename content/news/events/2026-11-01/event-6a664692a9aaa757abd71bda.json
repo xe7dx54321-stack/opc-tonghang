@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6a664692a9aaa757abd71bda",
+  "title": "Claude Ultra 向已验证账户取消五小时窗口，周额度不变",
+  "firstSeen": "2026-11-01",
+  "editionDate": "2026-11-01",
+  "occurrences": [
+    {
+      "id": "occ-6a664692a9aaa757abd71bda",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "调整订阅套餐使用窗口",
+        "object": "Claude Ultra",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-01",
+      "reports": [
+        {
+          "ref": "2026-11-01/2026-11-01-claude-ultra-window",
+          "itemId": "2026-11-01-claude-ultra-window",
+          "editionDate": "2026-11-01",
+          "url": "https://www.qbitai.com/2026/10/506855.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "observer",
+          "publishedAt": "2026-10-31T05:05:29.000Z",
+          "title": "Claude Ultra 向已验证账户取消五小时窗口，周额度不变"
+        },
+        {
+          "ref": "2026-11-01/2026-11-01-claude-ultra-wechat",
+          "itemId": "2026-11-01-claude-ultra-wechat",
+          "editionDate": "2026-11-01",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071332&idx=2&sn=9dacc8ad2d49132915dd05571bef77a7",
+          "source": "wechat-jiqizhixin",
+          "owner": "机器之心",
+          "role": "observer",
+          "publishedAt": "2026-10-31T07:28:00.000Z",
+          "title": "Claude Ultra 向已验证账户取消五小时窗口，周额度不变"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-01"
+}

@@ -1,0 +1,13 @@
+{
+  "snapshotId": "f2cf7b1f30d9753eb07401b121a3915c9cb915fc26aada00a99990de8650b049",
+  "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+  "publishedAt": "2026-10-31T19:20:55.000Z",
+  "publishedAtQuote": "2026-10-31T19:20:55+00:00",
+  "retrievedAt": "2026-10-31T23:37:40.847Z",
+  "method": "agent-tool",
+  "contentHash": "81b26ba6152ebff72f48b13c9b5c5c0280fdec8d232a4c2f04e02a30fb356b79",
+  "quotations": [
+    "Anthropic is expanding its text watermark to four more Claude models",
+    "On Claude Opus 4.6 and Claude Sonnet 4.6, Anthropic says the watermark kicks in only when developers leave the three sampling parameters at their default values."
+  ]
+}

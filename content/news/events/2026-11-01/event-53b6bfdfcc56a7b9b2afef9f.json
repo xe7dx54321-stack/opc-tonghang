@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-53b6bfdfcc56a7b9b2afef9f",
+  "title": "Anthropic 扩大 Claude 文本水印，旧模型默认采样参数是限制",
+  "firstSeen": "2026-11-01",
+  "editionDate": "2026-11-01",
+  "occurrences": [
+    {
+      "id": "occ-53b6bfdfcc56a7b9b2afef9f",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "扩大文本水印范围",
+        "object": "四款Claude模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-01",
+      "reports": [
+        {
+          "ref": "2026-11-01/2026-11-01-anthropic-watermark",
+          "itemId": "2026-11-01-anthropic-watermark",
+          "editionDate": "2026-11-01",
+          "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+          "source": "the-decoder",
+          "owner": "THE DECODER",
+          "role": "observer",
+          "publishedAt": "2026-10-31T19:20:55.000Z",
+          "title": "Anthropic 扩大 Claude 文本水印，旧模型默认采样参数是限制"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-01"
+}

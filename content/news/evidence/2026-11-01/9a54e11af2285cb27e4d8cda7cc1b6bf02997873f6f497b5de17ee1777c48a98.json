@@ -1,0 +1,13 @@
+{
+  "snapshotId": "9a54e11af2285cb27e4d8cda7cc1b6bf02997873f6f497b5de17ee1777c48a98",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
+  "publishedAt": "2026-10-31T01:01:35.000Z",
+  "publishedAtQuote": "2026-10-31T01:01:35Z",
+  "retrievedAt": "2026-10-31T23:37:40.907Z",
+  "method": "agent-tool",
+  "contentHash": "54a8e288e81cfecee27419ee7b24f5efb9bd04824b02518e3f361c046f872c49",
+  "quotations": [
+    "Added pooled group budgets to the Claude apps gateway: one monthly budget that a group's members share",
+    "to set the effort level subagents run at when nothing else names one, instead of inheriting the session's"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2026-11-01-claude-ultra-wechat",
+  "title": "刚刚，Claude每月200美元套餐取消5小时限制",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071332&idx=2&sn=9dacc8ad2d49132915dd05571bef77a7",
+  "source": "wechat-jiqizhixin",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude Ultra"
+  ],
+  "publishedAt": "2026-10-31T07:28:00.000Z",
+  "fetchedAt": "2026-10-31T10:01:38.582Z",
+  "summary": "机器之心转存正文同样写明Max 20x更名为Ultra，已验证账户解除五小时窗口，新账户仍需验证；每周额度仍是Pro的10倍。",
+  "investorNote": "该转载支持条件核对，但与量子位报道同属Anthropic一次订阅政策变化，不额外计一件新闻。",
+  "score": 0.67,
+  "duplicateOf": "2026-11-01-claude-ultra-window",
+  "clusterId": "event-6a664692a9aaa757abd71bda",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "调整订阅套餐使用窗口",
+    "object": "Claude Ultra",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "机器之心",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e4bcd4f0c1c708cf58431c7d66eeb06d3f2cd79d55803d70069d464147b90649",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071332&idx=2&sn=9dacc8ad2d49132915dd05571bef77a7",
+    "originalPublishedAt": "2026-10-31T07:28:00.000Z",
+    "checkedAt": "2026-10-31T23:37:40.652Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e4bcd4f0c1c708cf58431c7d66eeb06d3f2cd79d55803d70069d464147b90649",
+      "kind": "fact",
+      "quote": "Anthropic 开始为已验证的 Ultra 账户解除 5 小时使用限制"
+    },
+    {
+      "snapshotId": "e4bcd4f0c1c708cf58431c7d66eeb06d3f2cd79d55803d70069d464147b90649",
+      "kind": "condition",
+      "quote": "新注册的 Ultra 账户暂时仍受 5 小时限制约束"
+    }
+  ],
+  "displayTitle": "Claude Ultra 向已验证账户取消五小时窗口，周额度不变",
+  "narrative": "机器之心报道了同一项Claude Ultra套餐调整，确认已验证账户先移除五小时窗口，新账户仍需验证。每周额度不变，因此这项调整主要影响使用节奏。",
+  "eventRelation": {
+    "type": "SAME_OCCURRENCE",
+    "targetRef": "2026-11-01/2026-11-01-claude-ultra-window",
+    "reason": "两篇均报道Anthropic同一次Max 20x更名Ultra及已验证账户取消五小时窗口。"
+  },
+  "eventId": "event-6a664692a9aaa757abd71bda",
+  "occurrenceId": "occ-6a664692a9aaa757abd71bda"
+}

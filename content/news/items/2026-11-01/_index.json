@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-01",
+  "itemCount": 8,
+  "storyCount": 6,
+  "clusterCount": 6,
+  "files": [
+    "2026-11-01-claude-ultra-window.json",
+    "2026-11-01-claude-ultra-wechat.json",
+    "2026-11-01-deepseek-superagent.json",
+    "2026-11-01-deepseek-superagent-repo.json",
+    "2026-11-01-xai-naacp-suit.json",
+    "2026-11-01-openai-daybreak-data.json",
+    "2026-11-01-anthropic-watermark.json",
+    "2026-11-01-claude-code-group-budget.json"
+  ],
+  "representatives": [
+    "2026-11-01-claude-ultra-window",
+    "2026-11-01-deepseek-superagent-repo",
+    "2026-11-01-xai-naacp-suit",
+    "2026-11-01-openai-daybreak-data",
+    "2026-11-01-anthropic-watermark",
+    "2026-11-01-claude-code-group-budget"
+  ]
+}

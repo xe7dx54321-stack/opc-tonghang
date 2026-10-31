@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-01",
+  "window": {
+    "start": 1793403000000,
+    "end": 1793489400000
+  },
+  "digestHash": "b0f4955bd5e335ac5d42b59507028256b206c495fa6b24042f00312270450fea",
+  "stories": [
+    {
+      "heading": "DeepSeek 开源单仓库主动编程代理研究原型",
+      "itemId": "2026-11-01-deepseek-superagent-repo",
+      "eventId": "event-b37f3070e84948d2673c261f",
+      "occurrenceId": "occ-b37f3070e84948d2673c261f"
+    },
+    {
+      "heading": "美国法院准许 NAACP 针对 xAI 数据中心的排放诉讼继续审理",
+      "itemId": "2026-11-01-xai-naacp-suit",
+      "eventId": "event-328fad5b179dd18308fcc81a",
+      "occurrenceId": "occ-328fad5b179dd18308fcc81a"
+    },
+    {
+      "heading": "OpenAI 拟将 Daybreak Blue 会话用于训练，并追加单独退出选项",
+      "itemId": "2026-11-01-openai-daybreak-data",
+      "eventId": "event-f44c0244b2b082b815d57cc7",
+      "occurrenceId": "occ-f44c0244b2b082b815d57cc7"
+    },
+    {
+      "heading": "Anthropic 扩大 Claude 文本水印，旧模型默认采样参数是限制",
+      "itemId": "2026-11-01-anthropic-watermark",
+      "eventId": "event-53b6bfdfcc56a7b9b2afef9f",
+      "occurrenceId": "occ-53b6bfdfcc56a7b9b2afef9f"
+    },
+    {
+      "heading": "Claude Ultra 向已验证账户取消五小时窗口，周额度不变",
+      "itemId": "2026-11-01-claude-ultra-window",
+      "eventId": "event-6a664692a9aaa757abd71bda",
+      "occurrenceId": "occ-6a664692a9aaa757abd71bda"
+    },
+    {
+      "heading": "Claude Code 新版加入团队共享月预算设置",
+      "itemId": "2026-11-01-claude-code-group-budget",
+      "eventId": "event-0225a0fe4cf082c1c3e0a307",
+      "occurrenceId": "occ-7a68ccd25207e88f969ee57f"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-01-anthropic-watermark.json": "b3e4c7297c6a1292994ff230a55f1d09070979c55b042e0c90c4c084661ffdb5",
+    "2026-11-01-claude-code-group-budget.json": "659ca2353b7640d5a01b915b0cd7eeb5fb53e6ef5c888f46bba85666e582ddb7",
+    "2026-11-01-claude-ultra-wechat.json": "5aa8ead59d915c178aff0c841687500c48a486c7131063968b03705db4971667",
+    "2026-11-01-claude-ultra-window.json": "4489db66c774cb675a4da9c4f239e4a1fe3bceddfea82d74ff6db5ff328938ea",
+    "2026-11-01-deepseek-superagent-repo.json": "0fb1ff27ab76e44444a170f8fb83676c1547d656c68025e026c8c96828c88e10",
+    "2026-11-01-deepseek-superagent.json": "42a9a69cf6d5e4f4ccde86fa08e0eb59f97bc9f817cedb2aa39372c7bb2531e1",
+    "2026-11-01-openai-daybreak-data.json": "d125682158dcc90cc7e9966e7437ce868d738d4e588041a3f6b50c28d4c83b37",
+    "2026-11-01-xai-naacp-suit.json": "510642264856edcbce444675127837187d6471d466ea8870cd4baca404537e60"
+  },
+  "evidenceHashes": {
+    "5f70a3271316ba3dafc21a41eff62b80383a900a3e5a209993054918155c6f76.json": "18da582a1fc58437d48f036e7fb0bba2101b22065056924e4688a30a4c635071",
+    "9a54e11af2285cb27e4d8cda7cc1b6bf02997873f6f497b5de17ee1777c48a98.json": "02b77f300704c7767418aefc057f74f281222e3cf229150fdd86fb9a3bfcff6f",
+    "a023723d5e15bea1970c0e344eed072e809f0fe18595ad7ba07331601167c977.json": "4223e5aea980434bd47f1e006837322a196803aefa350befd071ba8a5fc5f564",
+    "bf6791b17fb96d8a6b56d18273bb738ee5960a8c85db6a9ee8627e2310b15bf6.json": "6656c406195eeab720ea01bd8603f37d3ce21a94d9d8cb12d5c65bf3eec87cdd",
+    "e4bcd4f0c1c708cf58431c7d66eeb06d3f2cd79d55803d70069d464147b90649.json": "ddf85f7e430c711333181e1f42b1844bfa2fce71d7e8632acc24d7a210a6af76",
+    "f1cc7e0a0eefe2c751ff2dc393f3cc9009039b197c75e26b74f085782fcbd779.json": "e5123445c414011ff10f15690dc635088c14fbb0d54c7beee4e3b29ad6855ac4",
+    "f2cf7b1f30d9753eb07401b121a3915c9cb915fc26aada00a99990de8650b049.json": "e7a3ddf0b554743508de09f6124cf6faa6a1277e6eb01b1332ec400c1c50b5fb",
+    "fe25e015729b1c545d2d1e04c41f4dc797658ea01d6d044d1ea9cf75c39e6175.json": "fca47a77b93783a3239125de5dbefb93eeb426bb41f9177ad807bb6b6b94ad70"
+  },
+  "eventsHashes": {
+    "event-0225a0fe4cf082c1c3e0a307.json": "ef82c7202d2eab1bad8ce2057205f86646d828802a1f3fb2f155312db172b37b",
+    "event-328fad5b179dd18308fcc81a.json": "30d952a4f72654065d894b1df1b37876a42f751cec6dba272e79ab4dc1883d0c",
+    "event-53b6bfdfcc56a7b9b2afef9f.json": "d5f62166f5437c0011c68b2c3d8c9355792060febade025ad730dd3e2d8f887d",
+    "event-6a664692a9aaa757abd71bda.json": "e0c58b3534f4246d8fd24fc1c71aa94ca61568c30c2597fc7b5c93d8a04fb2f4",
+    "event-b37f3070e84948d2673c261f.json": "28298c6b9f3676ccb4c6f84b363135f2cd31e72392583136158e0ced070ab297",
+    "event-f44c0244b2b082b815d57cc7.json": "5f7bb6430fe05113539dfb4c9bd7fafb9ca72e900fdd214c7ede4d036a5257f3"
+  }
+}

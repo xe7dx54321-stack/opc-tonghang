@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-01",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-120ff8dacd03d412a2e7",
+      "title": "Claude Ultra取消已验证用户的五小时窗口",
+      "summary": "两篇报道确认同一次订阅规则调整，周额度仍为Pro的10倍。",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "qbitai.com",
+          "url": "https://www.qbitai.com/2026/10/506855.html"
+        },
+        {
+          "name": "mp.weixin.qq.com",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&idx=2&mid=2651071332&sn=9dacc8ad2d49132915dd05571bef77a7"
+        }
+      ],
+      "memberUrls": [
+        "https://www.qbitai.com/2026/10/506855.html",
+        "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&idx=2&mid=2651071332&sn=9dacc8ad2d49132915dd05571bef77a7"
+      ]
+    }
+  ]
+}

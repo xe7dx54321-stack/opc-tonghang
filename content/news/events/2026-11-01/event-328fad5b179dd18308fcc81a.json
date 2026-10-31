@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-328fad5b179dd18308fcc81a",
+  "title": "美国法院准许 NAACP 针对 xAI 数据中心的排放诉讼继续审理",
+  "firstSeen": "2026-11-01",
+  "editionDate": "2026-11-01",
+  "occurrences": [
+    {
+      "id": "occ-328fad5b179dd18308fcc81a",
+      "fact": {
+        "subject": "美国联邦法院",
+        "action": "驳回撤诉请求",
+        "object": "NAACP针对xAI数据中心燃气轮机的诉讼",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-01",
+      "reports": [
+        {
+          "ref": "2026-11-01/2026-11-01-xai-naacp-suit",
+          "itemId": "2026-11-01-xai-naacp-suit",
+          "editionDate": "2026-11-01",
+          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-10-31T21:17:03.000Z",
+          "title": "美国法院准许 NAACP 针对 xAI 数据中心的排放诉讼继续审理"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-01"
+}

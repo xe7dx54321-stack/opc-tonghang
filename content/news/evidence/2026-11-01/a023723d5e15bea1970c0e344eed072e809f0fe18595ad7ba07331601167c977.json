@@ -1,0 +1,13 @@
+{
+  "snapshotId": "a023723d5e15bea1970c0e344eed072e809f0fe18595ad7ba07331601167c977",
+  "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+  "publishedAt": "2026-10-31T09:32:46.000Z",
+  "publishedAtQuote": "2026-10-31T09:32:46Z",
+  "retrievedAt": "2026-10-31T23:37:40.720Z",
+  "method": "agent-tool",
+  "contentHash": "a13ef39346898cd2bc00ec63c6dc5804156b1f2951d5c645480cfb1cc02cb31a",
+  "quotations": [
+    "Research prototype for reference only, not an official DeepSeek product.",
+    "dsh-superagent is a proactive coding agent for one GitHub repository, packaged as a bundle for DeepSeek Harness."
+  ]
+}
