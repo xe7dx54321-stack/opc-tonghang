@@ -1,0 +1,13 @@
+{
+  "snapshotId": "8dbf81f5bbc8c2ed8451124f351bea98d27b5e59d73c34d29de08c2b9e322de3",
+  "url": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/",
+  "publishedAt": "2026-11-01T14:00:58.000Z",
+  "publishedAtQuote": "2026-11-01T14:00:58+00:00",
+  "retrievedAt": "2026-11-01T23:36:50.272Z",
+  "method": "agent-tool",
+  "contentHash": "ac733cf20aac1864590f4c808d06c6c79da49fca27f7bee88e696efcdf79feb7",
+  "quotations": [
+    "VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem.",
+    "The count may change following vendor and vulnerability-authority review, and some findings do not yet have CVE tracking numbers."
+  ]
+}

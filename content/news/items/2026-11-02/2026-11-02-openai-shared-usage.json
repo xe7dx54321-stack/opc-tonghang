@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-02-openai-shared-usage",
+  "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+  "displayTitle": "OpenAI明确ChatGPT与Codex将从12月共享用量额度",
+  "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "ChatGPT",
+    "Codex"
+  ],
+  "publishedAt": "2026-11-01T09:51:06.000Z",
+  "fetchedAt": "2026-11-01T10:23:33.925Z",
+  "summary": "The Decoder在11月1日核对OpenAI更新的帮助中心后报道，自12月起Plus、Pro和Business套餐的ChatGPT与Codex将共享用量额度，按token计量；Instant聊天不计入共享额度。变更尚未正式生效。",
+  "investorNote": "共享额度使编程和复杂聊天任务争用同一预算；需观察各模型token消耗与企业采购成本，而非直接推断订阅涨价。",
+  "narrative": "The Decoder核对OpenAI帮助中心后报道，**从12月起，Plus、Pro和Business的ChatGPT与Codex将共用一份按token计量的额度**；Instant聊天不从这份额度扣减。规则目前是预告，不能写成已经执行。这个改动把原先分开感知的聊天与编程消耗放进同一预算：高频使用复杂模型的团队，采购时需要比较任务的实际token消耗和额外积分成本。官方还称用户可在设置中查看余额与重置时间，达到上限后可等待、升级或购买积分。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "event-3d1c7bdeda0c35e831a5cad4",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "OpenAI",
+    "action": "在帮助中心明确",
+    "object": "ChatGPT与Codex未来共享用量额度",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "4220b34f4c1080038d942688231612e020495bd5dc1d89bc202485b9961aa0d8",
+    "originalUrl": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+    "originalPublishedAt": "2026-11-01T09:51:06.000Z",
+    "checkedAt": "2026-11-01T23:36:50.239Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "4220b34f4c1080038d942688231612e020495bd5dc1d89bc202485b9961aa0d8",
+      "kind": "fact",
+      "quote": "Starting in December, Plus, Pro, and Business plans will share a single token budget across ChatGPT and Codex, according to an updated OpenAI support page, as OpenAI folds Work's agentic features into the main interface."
+    },
+    {
+      "snapshotId": "4220b34f4c1080038d942688231612e020495bd5dc1d89bc202485b9961aa0d8",
+      "kind": "condition",
+      "quote": "Chats with Instant models won't count toward the budget, so on paper ChatGPT stays a flat-rate service, but heavy usage on cheaper plans will likely mean lower-quality results."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期独立的具体动作；近两周事件索引无同次发生或直接后续记录。"
+  },
+  "eventId": "event-3d1c7bdeda0c35e831a5cad4",
+  "occurrenceId": "occ-3d1c7bdeda0c35e831a5cad4",
+  "relatedItems": []
+}

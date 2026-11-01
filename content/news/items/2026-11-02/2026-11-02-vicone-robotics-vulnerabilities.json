@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-02-vicone-robotics-vulnerabilities",
+  "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
+  "displayTitle": "VicOne披露机器人软件28项初步漏洞发现，仍待复核",
+  "url": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [
+    "VicOne",
+    "机器人软件供应链"
+  ],
+  "publishedAt": "2026-11-01T14:00:58.000Z",
+  "fetchedAt": "2026-11-01T14:27:34.037Z",
+  "summary": "VicOne在11月1日的赞助内容中称，AI辅助研究在两天内于物理AI和机器人相关软件发现28项初步归类为零日漏洞的线索，涉及开发训练、仿真验证和运行环节。公司明确称数量可能随厂商和漏洞机构复核改变，部分尚无CVE编号。",
+  "investorNote": "漏洞披露若获复核，会使机器人训练与仿真工具链的安全审计更重要；现阶段不能把28项全部当作已确认可利用漏洞。",
+  "narrative": "VicOne在The Robot Report刊载的赞助内容中称，团队借助AI在不到两天内找出机器人软件生态的**28项初步漏洞发现**。公司把它们暂归为零日漏洞，同时明确提醒：数量可能在厂商及漏洞机构复核后变化，部分还没有CVE编号。因此这不是28个已被独立确认、可逐一复现的攻击案例。值得跟进的是受影响组件和补丁清单是否公开；机器人公司用到的训练、仿真和运行工具链，都需要能追溯版本与部署范围。",
+  "score": 0.59,
+  "duplicateOf": null,
+  "clusterId": "event-0a5f04380834e70d375915b6",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "VicOne",
+    "action": "披露初步研究结果",
+    "object": "机器人软件生态28项疑似零日漏洞发现",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "VicOne",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8dbf81f5bbc8c2ed8451124f351bea98d27b5e59d73c34d29de08c2b9e322de3",
+    "originalUrl": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/",
+    "originalPublishedAt": "2026-11-01T14:00:58.000Z",
+    "checkedAt": "2026-11-01T23:36:50.272Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8dbf81f5bbc8c2ed8451124f351bea98d27b5e59d73c34d29de08c2b9e322de3",
+      "kind": "fact",
+      "quote": "VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem."
+    },
+    {
+      "snapshotId": "8dbf81f5bbc8c2ed8451124f351bea98d27b5e59d73c34d29de08c2b9e322de3",
+      "kind": "condition",
+      "quote": "The count may change following vendor and vulnerability-authority review, and some findings do not yet have CVE tracking numbers."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期独立的具体动作；近两周事件索引无同次发生或直接后续记录。"
+  },
+  "eventId": "event-0a5f04380834e70d375915b6",
+  "occurrenceId": "occ-0a5f04380834e70d375915b6",
+  "relatedItems": []
+}

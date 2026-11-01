@@ -1,0 +1,63 @@
+{
+  "id": "2026-11-02-altman-samsung-meeting",
+  "title": "Sam Altman meets Samsung leadership to discuss AI data centers and memory supply",
+  "displayTitle": "OpenAI与三星高层会面讨论AI合作，未公布新内存订单",
+  "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "Samsung",
+    "Sam Altman",
+    "DRAM"
+  ],
+  "publishedAt": "2026-11-01T14:21:23.000Z",
+  "fetchedAt": "2026-11-01T14:27:34.955Z",
+  "summary": "Tom’s Hardware在11月1日援引彭博并核对三星说法报道，Sam Altman在韩国与约50名三星高管会面，讨论AI技术、应用及双方合作。三星强调现有合作及未来商机，没有宣布新的内存供货协议。",
+  "investorNote": "AI基础设施对存储的需求让模型公司更主动接触内存厂；会面不等于新增采购订单，半导体投资判断仍需合同与产能证据。",
+  "narrative": "Tom’s Hardware援引彭博报道，Sam Altman在韩国与约50名三星高管会面；三星的确认重点是AI技术、应用和既有合作。**这次没有公布新的内存供货合同**，不能把会面直接折算成DRAM或HBM订单。对半导体链条，这仍是一个可观察信号：大型模型公司正在更直接地与存储原厂讨论长期基础设施需求。真正会改变供需预期的，是后续明确的采购量、交付节奏和产能安排。",
+  "score": 0.64,
+  "duplicateOf": null,
+  "clusterId": "event-e41045f383f26f272a6c1311",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "OpenAI与三星",
+    "action": "高层会面讨论",
+    "object": "AI基础设施合作及内存供应",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom's Hardware",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "c2f15389b4bef4fde65b24b3a26ed454e6843ff259e9f3d6212293d636f93b66",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+    "originalPublishedAt": "2026-11-01T14:21:23.000Z",
+    "checkedAt": "2026-11-01T23:36:50.304Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "c2f15389b4bef4fde65b24b3a26ed454e6843ff259e9f3d6212293d636f93b66",
+      "kind": "fact",
+      "quote": "OpenAI CEO Sam Altman has met with about 50 senior Samsung executives in South Korea, as the company seeks to expand its Artificial Intelligence and memory capacity, Bloomberg reports."
+    },
+    {
+      "snapshotId": "c2f15389b4bef4fde65b24b3a26ed454e6843ff259e9f3d6212293d636f93b66",
+      "kind": "condition",
+      "quote": "Samsung, however, emphasized more on AI transformation and future business opportunities, rather than announcing a new memory supply agreement."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期独立的具体动作；近两周事件索引无同次发生或直接后续记录。"
+  },
+  "eventId": "event-e41045f383f26f272a6c1311",
+  "occurrenceId": "occ-e41045f383f26f272a6c1311",
+  "relatedItems": []
+}

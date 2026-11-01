@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-02",
+  "itemCount": 4,
+  "storyCount": 4,
+  "clusterCount": 4,
+  "files": [
+    "2026-11-02-westlake-world-model-center.json",
+    "2026-11-02-openai-shared-usage.json",
+    "2026-11-02-vicone-robotics-vulnerabilities.json",
+    "2026-11-02-altman-samsung-meeting.json"
+  ],
+  "representatives": [
+    "2026-11-02-westlake-world-model-center",
+    "2026-11-02-openai-shared-usage",
+    "2026-11-02-vicone-robotics-vulnerabilities",
+    "2026-11-02-altman-samsung-meeting"
+  ]
+}

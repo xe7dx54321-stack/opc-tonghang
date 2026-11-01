@@ -1,0 +1,62 @@
+{
+  "id": "2026-11-02-westlake-world-model-center",
+  "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+  "displayTitle": "西湖大学成立世界模型研究中心，聚焦物理智能",
+  "url": "https://www.qbitai.com/2026/11/507076.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "entities": [
+    "西湖大学",
+    "西湖世界模型研究中心",
+    "Awomo"
+  ],
+  "publishedAt": "2026-11-01T13:28:10.000Z",
+  "fetchedAt": "2026-11-01T14:27:18.926Z",
+  "summary": "量子位11月1日报道，西湖大学的世界模型研究中心于10月31日在云谷校区成立；这是聚焦物理智能的校级交叉科研平台，由于开丞任主任、金耀初任首席科学家。报道还介绍了AutoLab此前孵化的Awomo，后者并非本次新成立项目。",
+  "investorNote": "研究中心把基础研究与已孵化企业放在同一生态中；真正的投资跟踪点是后续可重复的真实场景验证，而非成立仪式。",
+  "narrative": "量子位11月1日报道，西湖世界模型研究中心在10月31日于云谷校区成立，定位为西湖大学面向物理智能的校级交叉科研平台，由于开丞担任主任。报道提到的Awomo公司和既有融资属于背景，不能算当天的新交易。**中心成立提供了研究与产业合作的组织载体**；对投资人而言，后续更有价值的证据是世界模型在真实机器人任务上的可复现表现和商业部署，而不是研究中心本身的规模。",
+  "score": 0.69,
+  "duplicateOf": null,
+  "clusterId": "event-b6696282501438ecc34e93ea",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "西湖大学",
+    "action": "成立",
+    "object": "西湖世界模型研究中心",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "2428a17ff30732bac4fac02de9fb4622b41f745b0d7c38c7c07a1a54d4e766f8",
+    "originalUrl": "https://www.qbitai.com/2026/11/507076.html",
+    "originalPublishedAt": "2026-11-01T13:28:10.000Z",
+    "checkedAt": "2026-11-01T23:36:44.487Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "2428a17ff30732bac4fac02de9fb4622b41f745b0d7c38c7c07a1a54d4e766f8",
+      "kind": "fact",
+      "quote": "10月31日，西湖世界模型研究中心在云谷校区成立。"
+    },
+    {
+      "snapshotId": "2428a17ff30732bac4fac02de9fb4622b41f745b0d7c38c7c07a1a54d4e766f8",
+      "kind": "condition",
+      "quote": "西湖世界模型研究中心（Westlake World Model Center）于2026年10月正式成立，是西湖大学面向物理智能领域设立的校级交叉科研平台。"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期独立的具体动作；近两周事件索引无同次发生或直接后续记录。"
+  },
+  "eventId": "event-b6696282501438ecc34e93ea",
+  "occurrenceId": "occ-b6696282501438ecc34e93ea",
+  "relatedItems": []
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-e41045f383f26f272a6c1311",
+  "title": "OpenAI与三星高层会面讨论AI合作，未公布新内存订单",
+  "firstSeen": "2026-11-02",
+  "editionDate": "2026-11-02",
+  "occurrences": [
+    {
+      "id": "occ-e41045f383f26f272a6c1311",
+      "fact": {
+        "subject": "OpenAI与三星",
+        "action": "高层会面讨论",
+        "object": "AI基础设施合作及内存供应",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-02",
+      "reports": [
+        {
+          "ref": "2026-11-02/2026-11-02-altman-samsung-meeting",
+          "itemId": "2026-11-02-altman-samsung-meeting",
+          "editionDate": "2026-11-02",
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+          "source": "tomshardware",
+          "owner": "Tom's Hardware",
+          "role": "relayer",
+          "publishedAt": "2026-11-01T14:21:23.000Z",
+          "title": "OpenAI与三星高层会面讨论AI合作，未公布新内存订单"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-02"
+}

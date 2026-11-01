@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-b6696282501438ecc34e93ea",
+  "title": "西湖大学成立世界模型研究中心，聚焦物理智能",
+  "firstSeen": "2026-11-02",
+  "editionDate": "2026-11-02",
+  "occurrences": [
+    {
+      "id": "occ-b6696282501438ecc34e93ea",
+      "fact": {
+        "subject": "西湖大学",
+        "action": "成立",
+        "object": "西湖世界模型研究中心",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-02",
+      "reports": [
+        {
+          "ref": "2026-11-02/2026-11-02-westlake-world-model-center",
+          "itemId": "2026-11-02-westlake-world-model-center",
+          "editionDate": "2026-11-02",
+          "url": "https://www.qbitai.com/2026/11/507076.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "observer",
+          "publishedAt": "2026-11-01T13:28:10.000Z",
+          "title": "西湖大学成立世界模型研究中心，聚焦物理智能"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-02"
+}

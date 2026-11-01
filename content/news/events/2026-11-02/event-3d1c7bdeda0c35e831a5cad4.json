@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-3d1c7bdeda0c35e831a5cad4",
+  "title": "OpenAI明确ChatGPT与Codex将从12月共享用量额度",
+  "firstSeen": "2026-11-02",
+  "editionDate": "2026-11-02",
+  "occurrences": [
+    {
+      "id": "occ-3d1c7bdeda0c35e831a5cad4",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "在帮助中心明确",
+        "object": "ChatGPT与Codex未来共享用量额度",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-02",
+      "reports": [
+        {
+          "ref": "2026-11-02/2026-11-02-openai-shared-usage",
+          "itemId": "2026-11-02-openai-shared-usage",
+          "editionDate": "2026-11-02",
+          "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "relayer",
+          "publishedAt": "2026-11-01T09:51:06.000Z",
+          "title": "OpenAI明确ChatGPT与Codex将从12月共享用量额度"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-02"
+}

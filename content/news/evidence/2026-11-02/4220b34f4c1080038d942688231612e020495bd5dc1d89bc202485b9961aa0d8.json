@@ -1,0 +1,13 @@
+{
+  "snapshotId": "4220b34f4c1080038d942688231612e020495bd5dc1d89bc202485b9961aa0d8",
+  "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+  "publishedAt": "2026-11-01T09:51:06.000Z",
+  "publishedAtQuote": "2026-11-01T09:51:06+00:00",
+  "retrievedAt": "2026-11-01T23:36:50.239Z",
+  "method": "agent-tool",
+  "contentHash": "019f61d10f3e5044e92aa786ea390fbd1609ffcb0e6c77ce5c244e305c667e25",
+  "quotations": [
+    "Starting in December, Plus, Pro, and Business plans will share a single token budget across ChatGPT and Codex, according to an updated OpenAI support page, as OpenAI folds Work's agentic features into the main interface.",
+    "Chats with Instant models won't count toward the budget, so on paper ChatGPT stays a flat-rate service, but heavy usage on cheaper plans will likely mean lower-quality results."
+  ]
+}

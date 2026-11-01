@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-02",
+  "window": {
+    "start": 1793489400000,
+    "end": 1793575800000
+  },
+  "digestHash": "ea86c5f368e0da43ee6cca496a9174ae90dff21b087474e8bbb3eb57066aee3f",
+  "stories": [
+    {
+      "heading": "OpenAI明确ChatGPT与Codex将从12月共享用量额度",
+      "itemId": "2026-11-02-openai-shared-usage",
+      "eventId": "event-3d1c7bdeda0c35e831a5cad4",
+      "occurrenceId": "occ-3d1c7bdeda0c35e831a5cad4"
+    },
+    {
+      "heading": "西湖大学成立世界模型研究中心，聚焦物理智能",
+      "itemId": "2026-11-02-westlake-world-model-center",
+      "eventId": "event-b6696282501438ecc34e93ea",
+      "occurrenceId": "occ-b6696282501438ecc34e93ea"
+    },
+    {
+      "heading": "OpenAI与三星高层会面讨论AI合作，未公布新内存订单",
+      "itemId": "2026-11-02-altman-samsung-meeting",
+      "eventId": "event-e41045f383f26f272a6c1311",
+      "occurrenceId": "occ-e41045f383f26f272a6c1311"
+    },
+    {
+      "heading": "VicOne披露机器人软件28项初步漏洞发现，仍待复核",
+      "itemId": "2026-11-02-vicone-robotics-vulnerabilities",
+      "eventId": "event-0a5f04380834e70d375915b6",
+      "occurrenceId": "occ-0a5f04380834e70d375915b6"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-02-altman-samsung-meeting.json": "e370e68e4360e48cb26d17a7b18441e248ccf69d201b0c32018fc9acd40e7ec9",
+    "2026-11-02-openai-shared-usage.json": "15a2114e642535c5bcca972831ff1ffc38235b41e5da3c2240546c5bad331e92",
+    "2026-11-02-vicone-robotics-vulnerabilities.json": "6c9a7946020b4ee8d6accff16e7d8a2198746bad66d8e1d3f43e652a9ad11527",
+    "2026-11-02-westlake-world-model-center.json": "5d610e963e81c80f5410b7e6edea2e693b4410259149692a8052d4af5aacd479"
+  },
+  "evidenceHashes": {
+    "2428a17ff30732bac4fac02de9fb4622b41f745b0d7c38c7c07a1a54d4e766f8.json": "5edf92d259952c834d2f2202be25fbaccca52a36038a66db1eb7538008b6392c",
+    "4220b34f4c1080038d942688231612e020495bd5dc1d89bc202485b9961aa0d8.json": "b814505ad6eaae05d747ff47be2217b4073f68553b39d94133d4843bd18022b5",
+    "8dbf81f5bbc8c2ed8451124f351bea98d27b5e59d73c34d29de08c2b9e322de3.json": "edaa8d4da5a473d378404d07c36a10f9959680c199c4db9bd0e42827fa2e1673",
+    "c2f15389b4bef4fde65b24b3a26ed454e6843ff259e9f3d6212293d636f93b66.json": "6163a125ffad9803f113ab0fad4e501531318ae1fe65e47eb374ebbbe740b0ee"
+  },
+  "eventsHashes": {
+    "event-0a5f04380834e70d375915b6.json": "f2ee9ff94b268594f6f851c50e0cee4b8851c85250b7252f6451bc26b519009b",
+    "event-3d1c7bdeda0c35e831a5cad4.json": "3f8628d2249fc549f962cb1b62d59b481fe6345a10b1c15db8e43402ac36dc2e",
+    "event-b6696282501438ecc34e93ea.json": "679b0c4d011ab450fe734302cd3af00060874a757de3eea28190eb19c5175f47",
+    "event-e41045f383f26f272a6c1311.json": "c403bd5c81de9a2d3ddf171463453c0c7e75b602fd764e7a4a540a4eb60d6daf"
+  }
+}
