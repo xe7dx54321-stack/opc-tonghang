@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-03",
+  "itemCount": 10,
+  "storyCount": 9,
+  "clusterCount": 9,
+  "files": [
+    "2026-11-03-marvell-lumentum.json",
+    "2026-11-03-anthropic-s1-update.json",
+    "2026-11-03-longcat-25.json",
+    "2026-11-03-openai-grid-protectors.json",
+    "2026-11-03-oracle-20b-financing.json",
+    "2026-11-03-chatgpt-work-merge.json",
+    "2026-11-03-tutor-series-b.json",
+    "2026-11-03-roboscience-a2.json",
+    "2026-11-03-sparsegear.json",
+    "2026-11-03-lifeval.json"
+  ],
+  "representatives": [
+    "2026-11-03-marvell-lumentum",
+    "2026-11-03-anthropic-s1-update",
+    "2026-11-03-longcat-25",
+    "2026-11-03-openai-grid-protectors",
+    "2026-11-03-oracle-20b-financing",
+    "2026-11-03-tutor-series-b",
+    "2026-11-03-roboscience-a2",
+    "2026-11-03-sparsegear",
+    "2026-11-03-lifeval"
+  ]
+}

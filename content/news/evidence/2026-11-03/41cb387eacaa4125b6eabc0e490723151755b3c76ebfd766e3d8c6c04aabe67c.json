@@ -1,0 +1,15 @@
+{
+  "snapshotId": "41cb387eacaa4125b6eabc0e490723151755b3c76ebfd766e3d8c6c04aabe67c",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813189&idx=2&sn=bcd51d736aaa55eec93388c7a0c78af4",
+  "publishedAt": "2026-11-02T10:34:00.000Z",
+  "publishedAtQuote": "2026-11-02 18:34",
+  "retrievedAt": "2026-11-02T23:34:01.216Z",
+  "method": "rss-syndication",
+  "retrievedFrom": "https://wechat2rss.bestblogs.dev/feed/cfd52b4245ca6119b2fda4ef934832c689028927.xml",
+  "contentHash": "ade49e8aa106d7bd87fbe79d223e421bdfb714ed66a8e6bbeaac078b63cbac48",
+  "quotations": [
+    "智东西11月2日报道，今日，美团LongCat团队发布面向 长程智能体任务 的原生多模态模型 LongCat-2.5 。 该模型总参数量为 1.6万亿 ，每个Token激活约 480亿参数 ，在LongCat-2.0的基础上，重点强化 原生视觉理解与智能体编程能力 。 在美团公布的自动化任务基准AutomationBench、通用Agent任务基准LongCatClawBench等几项基准测评中，LongCat-2.5均 领先Claud",
+    "该模型总参数量为 1.6万亿 ，每个Token激活约 480亿参数 ，在LongCat-2.0的基础上，重点强化 原生视觉理解与智能体编程能力 。 在美团公布的自动化任务基准AutomationBench、通用Agent任务基准LongCatClawBench等几项基准测评中，LongCat-2.5均 领先Claude-Opus-5、GPT-5.6-Sol等模型 ；在终端操作基准Terminal Bench v4.0上，LongCat-",
+    "但 画面细节、空间与图层关系 仍有提升空间， PPT排版 也可以进一步优化。 首先，我们让模型制作一段“鹈鹕骑自行车”的HTML动画，LongCat-2.5生成的动画完成度较高，主体突出，画面风格保持一致，细节也比较丰富。不过，鹈鹕的围巾稍微有些歪， 画面细节有一定的提升空间 。 后面，我们又让LongCat-2.5解读亚马逊第三季度财报，并生成一份带图表的 PPT。 LongCat-2.5搭建的分析框架比较完整，趋势图、结构图和风险提"
+  ]
+}

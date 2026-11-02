@@ -1,0 +1,14 @@
+{
+  "snapshotId": "607e9b36212c266c7da3b70bc923bc8b8906f182ea9fa67cf4c401f39c94e47b",
+  "url": "https://www.therobotreport.com/tutor-intelligence-raises-series-b-to-scale-model-training-robot-deployments/",
+  "publishedAt": "2026-11-02T19:25:59+00:00",
+  "publishedAtQuote": "2026-11-02T19:25:59+00:00",
+  "retrievedAt": "2026-11-02T23:34:19.116Z",
+  "method": "agent-tool",
+  "contentHash": "ab576f5aaef493caac01e6533f2e051115b250c5fb8cf3abcadc955baa5f738e",
+  "quotations": [
+    "Tutor Intelligence Inc. today said it has raised $75 million in Series B funding as it works toward general-purpose robotics. “It’s not only that Tutor’s models let robots do jobs that robots have never been able to do b",
+    "The company has deployed fleets of internet-connected robots into production environments, where they do real work for customers with input from remote operators known as “tutors.” It uses the real-world data to train be",
+    "Instead of a robots-as-a-service ( RaaS ) model, business pay Tutor by the hour or by the pick, the same way they pay for manual labor. Customers make no upfront purchase and sign no long-term contract, added Tutor. The "
+  ]
+}

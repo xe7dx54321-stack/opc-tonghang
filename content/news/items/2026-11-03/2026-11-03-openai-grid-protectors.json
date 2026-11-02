@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-03-openai-grid-protectors",
+  "title": "Introducing the Grid Protectors Program",
+  "displayTitle": "OpenAI启动Grid Protectors计划，承诺数据中心在电网紧张时降载",
+  "url": "https://openai.com/index/grid-protectors-program",
+  "source": "openai-news",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI"
+  ],
+  "publishedAt": "2026-11-02T15:00:00.000Z",
+  "fetchedAt": "2026-11-02T15:16:32.396Z",
+  "summary": "OpenAI发布Grid Protectors计划，与公用事业公司和监管方制定未来算力园区需求响应安排。佐治亚州Effingham County项目与Georgia Power的协议包括最高1000兆瓦弹性需求响应，园区尚待运行。",
+  "investorNote": "电力接入的社会许可成为AI算力扩张的关键约束，但承诺的灵活负荷要等园区运行后验证。",
+  "narrative": "OpenAI宣布Grid Protectors计划，准备让未来算力园区在电网紧张时减少用电，并与公用事业公司约定可降载规模、速度和时长。其佐治亚州项目协议含最高1000兆瓦的弹性需求响应，但园区尚未运行，这仍是设计与合同承诺。AI算力竞争的约束正在延伸到电网调度和地方电价，执行数据比宣布的容量更关键。",
+  "score": 0.83,
+  "duplicateOf": null,
+  "clusterId": "event-3725276b500c7b13c4a38a75",
+  "fact": {
+    "subject": "OpenAI",
+    "action": "启动",
+    "object": "Grid Protectors电网计划",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "OpenAI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "1d0e0deaa96d54e2ef0d4b2e2d1b4338e4c077bf16c0ff573ef488468f61105a",
+    "originalUrl": "https://openai.com/index/grid-protectors-program",
+    "originalPublishedAt": "2026-11-02T15:00:00.000Z",
+    "checkedAt": "2026-11-02T23:34:01.251Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "1d0e0deaa96d54e2ef0d4b2e2d1b4338e4c077bf16c0ff573ef488468f61105a",
+      "kind": "fact",
+      "quote": "Today we’re launching the Grid Protectors Program , a national effort to support affordable, reliable electricity for families and businesses in the communities where we build. Working with utilities, regulators and poli"
+    },
+    {
+      "snapshotId": "1d0e0deaa96d54e2ef0d4b2e2d1b4338e4c077bf16c0ff573ef488468f61105a",
+      "kind": "condition",
+      "quote": "Our agreement with Georgia Power also includes ⁠ (opens in a new window) up to 1,000 megawatts of flexible demand response, freeing up power to help keep air conditioning running in hundreds of thousands of homes during "
+    },
+    {
+      "snapshotId": "1d0e0deaa96d54e2ef0d4b2e2d1b4338e4c077bf16c0ff573ef488468f61105a",
+      "kind": "condition",
+      "quote": "Once the campus is operating, we can reduce the power we draw during times of need, helping preserve electricity for other customers. Our agreement with Georgia Power also includes ⁠ (opens in a new window) up to 1,000 m"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的是独立的新动作，未确认与历史报道属于同次发生"
+  },
+  "eventId": "event-3725276b500c7b13c4a38a75",
+  "occurrenceId": "occ-3725276b500c7b13c4a38a75",
+  "relatedItems": []
+}

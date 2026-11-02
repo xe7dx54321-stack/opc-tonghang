@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-7636ea421013ec03b7a98edc",
+  "title": "Oracle申报200亿美元股债融资，为AI基础设施扩张筹资",
+  "firstSeen": "2026-11-03",
+  "editionDate": "2026-11-03",
+  "occurrences": [
+    {
+      "id": "occ-7636ea421013ec03b7a98edc",
+      "fact": {
+        "subject": "Oracle",
+        "action": "申报发行",
+        "object": "100亿美元股票和100亿美元债券",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-03",
+      "reports": [
+        {
+          "ref": "2026-11-03/2026-11-03-oracle-20b-financing",
+          "itemId": "2026-11-03-oracle-20b-financing",
+          "editionDate": "2026-11-03",
+          "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+          "source": "hnrss-frontpage",
+          "owner": "CNBC",
+          "role": "observer",
+          "publishedAt": "2026-11-02T14:03:44+00:00",
+          "title": "Oracle申报200亿美元股债融资，为AI基础设施扩张筹资"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-03"
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-03",
+  "window": {
+    "start": 1793575800000,
+    "end": 1793662200000
+  },
+  "digestHash": "7a389d4364ff93129af9b9274124b1391991741e364592e528ef05019a06f244",
+  "stories": [
+    {
+      "heading": "Marvell拟以1150亿美元企业价值收购Lumentum，打通AI互连芯片与光学器件",
+      "itemId": "2026-11-03-marvell-lumentum",
+      "eventId": "event-76455c41f0d6e5d7f0ab8257",
+      "occurrenceId": "occ-76455c41f0d6e5d7f0ab8257"
+    },
+    {
+      "heading": "Anthropic更新IPO招股书：第三季度收入约170亿美元，增速环比放缓",
+      "itemId": "2026-11-03-anthropic-s1-update",
+      "eventId": "event-77304c7d4f6f1953a3030212",
+      "occurrenceId": "occ-c033680c091a46da11127a1f"
+    },
+    {
+      "heading": "美团发布LongCat-2.5：原生多模态与长程Agent共同训练",
+      "itemId": "2026-11-03-longcat-25",
+      "eventId": "event-240065beef19b76ab34d9416",
+      "occurrenceId": "occ-240065beef19b76ab34d9416"
+    },
+    {
+      "heading": "OpenAI启动Grid Protectors计划，承诺数据中心在电网紧张时降载",
+      "itemId": "2026-11-03-openai-grid-protectors",
+      "eventId": "event-3725276b500c7b13c4a38a75",
+      "occurrenceId": "occ-3725276b500c7b13c4a38a75"
+    },
+    {
+      "heading": "Oracle申报200亿美元股债融资，为AI基础设施扩张筹资",
+      "itemId": "2026-11-03-oracle-20b-financing",
+      "eventId": "event-7636ea421013ec03b7a98edc",
+      "occurrenceId": "occ-7636ea421013ec03b7a98edc"
+    },
+    {
+      "heading": "Tutor Intelligence完成7500万美元B轮，扩张机器人训练与部署",
+      "itemId": "2026-11-03-tutor-series-b",
+      "eventId": "event-aeae61d5e15c10821d065ab9",
+      "occurrenceId": "occ-aeae61d5e15c10821d065ab9"
+    },
+    {
+      "heading": "RoboScience机器科学完成数亿元A2轮，产业资本加注具身",
+      "itemId": "2026-11-03-roboscience-a2",
+      "eventId": "event-986e14d3a59353dd21da9a53",
+      "occurrenceId": "occ-986e14d3a59353dd21da9a53"
+    },
+    {
+      "heading": "小红书披露SparseGear稀疏训练引擎，重分配HBM与主机资源",
+      "itemId": "2026-11-03-sparsegear",
+      "eventId": "event-bbc42f541858f036ecf9615f",
+      "occurrenceId": "occ-bbc42f541858f036ecf9615f"
+    },
+    {
+      "heading": "OpenAI发布LifeVal评测，衡量AI处理日常事务的能力",
+      "itemId": "2026-11-03-lifeval",
+      "eventId": "event-9fbdb21e777a9848c77f33b7",
+      "occurrenceId": "occ-9fbdb21e777a9848c77f33b7"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-03-anthropic-s1-update.json": "cee1a80dda88e06fd126558107606031a5423ad09be47a25c71465c420be3a83",
+    "2026-11-03-chatgpt-work-merge.json": "ba23c79393092fb7f05191485b45bbabd561702ae0a4911cbada1b7675d6475a",
+    "2026-11-03-lifeval.json": "29d16e38145a880f8d97bc0caf89489b9e31d6574e9d8c61df29d0b4dc76afc7",
+    "2026-11-03-longcat-25.json": "d08419339f590ba8809447e3c8e7347852fdaf06a612174fd196240cd834b8e1",
+    "2026-11-03-marvell-lumentum.json": "4942aef094b944166f450a04d0a2e2f916ba8a72d8ea8f535071999ee7c53fce",
+    "2026-11-03-openai-grid-protectors.json": "4fb213d6fa93efcfa882309d4e6da31fc1481f8e3fb2631177881d456ca233d8",
+    "2026-11-03-oracle-20b-financing.json": "613a4f53eab1a700fb47229accabb13025381abaaec54f95fc26cc924a22e0f0",
+    "2026-11-03-roboscience-a2.json": "38dbf9024a0e7500b782920c290f6ca200b9ceca2084429ae4538507665ae50c",
+    "2026-11-03-sparsegear.json": "a5fc45e60617af552daaeba001c02e2f6f47c5ffad9fbdcafa77426f6f55f67d",
+    "2026-11-03-tutor-series-b.json": "77a288d5addf268ea6fcb6d00ee7eaa381f684b1c8c38ca7c2d3eecf3681e5cf"
+  },
+  "evidenceHashes": {
+    "1d0e0deaa96d54e2ef0d4b2e2d1b4338e4c077bf16c0ff573ef488468f61105a.json": "f4e19da325ab410be516382d65454dc0bcc2de0674b3469789ce47520d1533ca",
+    "1f2c04206ad0941c7f17cc8704801d8d0bed896e99450ca9dfa1b5b2f3bc7e18.json": "75b54b5f0ccbf5e031e1388ed330d86b265e0984eb5b14ba43ad31d327870264",
+    "25e0e42a7f1551b84614857ed299347612599a68481c570ef35353634c3bf18d.json": "568329e43ed264fc45cea0483280d7d1061ac30168a6fbb0277bc04f2b981231",
+    "41cb387eacaa4125b6eabc0e490723151755b3c76ebfd766e3d8c6c04aabe67c.json": "bbd7fab8248d09765241c93c20e62a4f77ba05592a1b9012a754e580afe5f09c",
+    "444e30a708c21918453cfc3ab0e14e05cb8954ce3218a2f1dbbc95935d605c5c.json": "6b26c545a19ede07a99b6db9321a8c52b876fb3f6d7f57fb5c43fda1255b6be3",
+    "607e9b36212c266c7da3b70bc923bc8b8906f182ea9fa67cf4c401f39c94e47b.json": "dae296fff718a87697c91267912c8dc889d5ac6f6c98ee84ff249dd9301a5b5a",
+    "6383f317566f83fdbe3d56b1e20031a0e9357102aa06aec9d954a47cafe01e14.json": "ce062ca70602325cf74e0fd8289ab09345931164429d01e93f205e6052b44bdb",
+    "807d0fa8c22f9afc747ba5c189aa7bca797712210b48e3b58526970827de5e64.json": "adc46e7076e2b57df73ce652135dc91ad26c9441f38021b913db7f9a4c33f72d",
+    "9c27aaed27dbd71e312e1d9ba521f640433de0b0e9ada70d466d1d3eb2517b39.json": "0a8aba4a61969e13aebc74d9b17fcad7975579d723021fe3921d8389bc1925d4",
+    "a9c21fa0ffc5f373e9bbb8e39bbe5f3b67bf555ea160eff27b1f6545f606a99d.json": "7dce9e09c59b80c5749439701a91ca07ecdd2c968988b63d718898b7413efc51"
+  },
+  "eventsHashes": {
+    "event-240065beef19b76ab34d9416.json": "03eced0edb819101aba369a7999a9589d542ff53a4600fd17030867942a1eb96",
+    "event-3725276b500c7b13c4a38a75.json": "103607b68afd9fe237c9c98f4badecc125124d0b76c21490e905d5896479a27c",
+    "event-3d1c7bdeda0c35e831a5cad4.json": "3c49f62f599a8363f13ea497c83bfde47ac0dc8d42573eb72e0d5c02672c6eca",
+    "event-7636ea421013ec03b7a98edc.json": "9639a7921d069fd8a7e65d88b1891923a48cca3347d057b17375e495962fc0ba",
+    "event-76455c41f0d6e5d7f0ab8257.json": "ba2ef9eb83ba1b5bbf8c4c1c0a9290f99915d5cc4995dca6cbb75039faa235ad",
+    "event-77304c7d4f6f1953a3030212.json": "8cf66c035bfd538d647aa382b1cb485b00c32c19d2ea576026a073a1e3ae60ae",
+    "event-986e14d3a59353dd21da9a53.json": "24e2d1ad805dba407fa337b7ee43895f55d283e3808b120164d44584491a8a24",
+    "event-9fbdb21e777a9848c77f33b7.json": "680a9ba7658f9825e7853c29c2e4a7921f8c8d7305406a77e55ed4e09db212e7",
+    "event-aeae61d5e15c10821d065ab9.json": "564677be569ead5b4a2d7cd15596d21a6f6d5c46756c47b3824489a9f796196c",
+    "event-bbc42f541858f036ecf9615f.json": "e535ac236cb262465cf41a4a88b343b780a0fc5e1437107c244df977f0d39a07"
+  }
+}

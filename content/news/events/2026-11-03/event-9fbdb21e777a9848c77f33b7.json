@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-9fbdb21e777a9848c77f33b7",
+  "title": "OpenAI发布LifeVal评测，衡量AI处理日常事务的能力",
+  "firstSeen": "2026-11-03",
+  "editionDate": "2026-11-03",
+  "occurrences": [
+    {
+      "id": "occ-9fbdb21e777a9848c77f33b7",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "发布",
+        "object": "LifeVal日常事务评测",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-03",
+      "reports": [
+        {
+          "ref": "2026-11-03/2026-11-03-lifeval",
+          "itemId": "2026-11-03-lifeval",
+          "editionDate": "2026-11-03",
+          "url": "https://openai.com/index/lifeval",
+          "source": "openai-news",
+          "owner": "OpenAI",
+          "role": "principal",
+          "publishedAt": "2026-11-02T09:00:00.000Z",
+          "title": "OpenAI发布LifeVal评测，衡量AI处理日常事务的能力"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-03"
+}

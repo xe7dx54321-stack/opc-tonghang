@@ -1,0 +1,13 @@
+{
+  "snapshotId": "1f2c04206ad0941c7f17cc8704801d8d0bed896e99450ca9dfa1b5b2f3bc7e18",
+  "url": "https://openai.com/index/lifeval",
+  "publishedAt": "2026-11-02T09:00:00.000Z",
+  "publishedAtQuote": "November 2, 2026",
+  "retrievedAt": "2026-11-02T23:34:01.465Z",
+  "method": "agent-tool",
+  "contentHash": "ff6a327ff6e4d2b1cad87707e5eec62a01f1bf2377edfb4dab169fa6e4d9164b",
+  "quotations": [
+    "To measure model performance over time on everyday tasks, we built an evaluation of tasks covering areas where users wanted the most help from AI and personal agents. We used this evaluation to track and drive improvemen",
+    "we expanded on these existing surveys with a new demographically representative survey of 3,995 respondents. For each task, we asked a variety of questions to identify the areas where everyday people most wanted help fro"
+  ]
+}

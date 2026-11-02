@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-bbc42f541858f036ecf9615f",
+  "title": "小红书披露SparseGear稀疏训练引擎，重分配HBM与主机资源",
+  "firstSeen": "2026-11-03",
+  "editionDate": "2026-11-03",
+  "occurrences": [
+    {
+      "id": "occ-bbc42f541858f036ecf9615f",
+      "fact": {
+        "subject": "小红书REDtech",
+        "action": "披露",
+        "object": "SparseGear稀疏训练引擎架构与效果",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-03",
+      "reports": [
+        {
+          "ref": "2026-11-03/2026-11-03-sparsegear",
+          "itemId": "2026-11-03-sparsegear",
+          "editionDate": "2026-11-03",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247496939&idx=1&sn=de12e5f3e5f301170425ad24eef08cce",
+          "source": "wechat-redtech",
+          "owner": "小红书REDtech",
+          "role": "principal",
+          "publishedAt": "2026-11-02T09:59:00.000Z",
+          "title": "小红书披露SparseGear稀疏训练引擎，重分配HBM与主机资源"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-03"
+}

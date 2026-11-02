@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-03-roboscience-a2",
+  "title": "产业资本继续押注具身：斯坦福双子星创办的黑马公司 RoboScience 机器科学，宣布完成 A2 轮融资",
+  "displayTitle": "RoboScience机器科学完成数亿元A2轮，产业资本加注具身",
+  "url": "https://www.leiphone.com/category/ai/GqrJT2vlPFBxElDY.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "RoboScience机器科学"
+  ],
+  "publishedAt": "2026-11-02T10:23:00.000Z",
+  "fetchedAt": "2026-11-02T13:14:33.765Z",
+  "summary": "雷峰网报道，RoboScience机器科学于11月2日完成数亿元A2轮融资，由琥珀资本、鸿瑞达投资和上海半导体产投联合领投，其他产业与财务投资方跟投。",
+  "investorNote": "产业资本参与说明具身融资正在评估部署与供应链协同，但经营数据仍需独立核实。",
+  "narrative": "雷峰网称RoboScience机器科学于11月2日完成数亿元A2轮，琥珀资本、鸿瑞达投资、上海半导体产投联合领投。报道列举其仿真、模型和轮式机器人产品，但这些既有成果不能算成本期新发布。对投资人更直接的问题是，这轮产业资本加注后，客户项目能否转化为持续交付和可核实的收入。",
+  "score": 0.71,
+  "duplicateOf": null,
+  "clusterId": "event-986e14d3a59353dd21da9a53",
+  "fact": {
+    "subject": "RoboScience机器科学",
+    "action": "完成",
+    "object": "数亿元A2轮融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "9c27aaed27dbd71e312e1d9ba521f640433de0b0e9ada70d466d1d3eb2517b39",
+    "originalUrl": "https://www.leiphone.com/category/ai/GqrJT2vlPFBxElDY.html",
+    "originalPublishedAt": "2026-11-02T10:23:00.000Z",
+    "checkedAt": "2026-11-02T23:34:01.384Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "9c27aaed27dbd71e312e1d9ba521f640433de0b0e9ada70d466d1d3eb2517b39",
+      "kind": "fact",
+      "quote": "AI 科技评论获悉，11 月 2 日，RoboScience 机器科学完成 A2 轮融资。 据悉，本轮由琥珀资本、鸿瑞达投资、上海半导体产投 联合领投，360 战投、爽资本、国联民生资本、金鼎资本及多家上市公司平台跟投，融资金额达到了数亿 元。 这意味着，这家 2025 年 3 月才正式开始运营的具身公司， 先后已完成五轮融资。 据 AI 科技评论了解，近期具身行业融资市场并不乐观。过去一年，这个赛道的融资叙事换了好几轮：最早讲世界模型"
+    },
+    {
+      "snapshotId": "9c27aaed27dbd71e312e1d9ba521f640433de0b0e9ada70d466d1d3eb2517b39",
+      "kind": "condition",
+      "quote": "本轮由琥珀资本、鸿瑞达投资、上海半导体产投 联合领投，360 战投、爽资本、国联民生资本、金鼎资本及多家上市公司平台跟投，融资金额达到了数亿 元。 这意味着，这家 2025 年 3 月才正式开始运营的具身公司， 先后已完成五轮融资。 据 AI 科技评论了解，近期具身行业融资市场并不乐观。过去一年，这个赛道的融资叙事换了好几轮：最早讲世界模型就能拿到钱；后来光讲技术不够了，得讲落地，讲进工厂的 ROI ；再后来，得有\"具身 RSI \"（递"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的是独立的新动作，未确认与历史报道属于同次发生"
+  },
+  "eventId": "event-986e14d3a59353dd21da9a53",
+  "occurrenceId": "occ-986e14d3a59353dd21da9a53",
+  "relatedItems": []
+}

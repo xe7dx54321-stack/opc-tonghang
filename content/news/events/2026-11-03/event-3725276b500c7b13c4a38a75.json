@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-3725276b500c7b13c4a38a75",
+  "title": "OpenAI启动Grid Protectors计划，承诺数据中心在电网紧张时降载",
+  "firstSeen": "2026-11-03",
+  "editionDate": "2026-11-03",
+  "occurrences": [
+    {
+      "id": "occ-3725276b500c7b13c4a38a75",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "启动",
+        "object": "Grid Protectors电网计划",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-03",
+      "reports": [
+        {
+          "ref": "2026-11-03/2026-11-03-openai-grid-protectors",
+          "itemId": "2026-11-03-openai-grid-protectors",
+          "editionDate": "2026-11-03",
+          "url": "https://openai.com/index/grid-protectors-program",
+          "source": "openai-news",
+          "owner": "OpenAI",
+          "role": "principal",
+          "publishedAt": "2026-11-02T15:00:00.000Z",
+          "title": "OpenAI启动Grid Protectors计划，承诺数据中心在电网紧张时降载"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-03"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-03",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-8d43fc71b761688617ac",
+      "title": "美团发布LongCat-2.5",
+      "summary": "美团发布面向长程智能体任务的原生多模态模型。",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "leiphone.com",
+          "url": "https://www.leiphone.com/category/industrynews/mUPVr3RF0MHNmn3t.html"
+        },
+        {
+          "name": "mp.weixin.qq.com",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw%3D%3D&idx=2&mid=2652813189&sn=bcd51d736aaa55eec93388c7a0c78af4"
+        }
+      ],
+      "memberUrls": [
+        "https://www.leiphone.com/category/industrynews/mUPVr3RF0MHNmn3t.html",
+        "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw%3D%3D&idx=2&mid=2652813189&sn=bcd51d736aaa55eec93388c7a0c78af4"
+      ]
+    }
+  ]
+}

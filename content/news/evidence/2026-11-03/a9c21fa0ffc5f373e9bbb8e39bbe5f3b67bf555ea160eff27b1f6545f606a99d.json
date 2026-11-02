@@ -1,0 +1,14 @@
+{
+  "snapshotId": "a9c21fa0ffc5f373e9bbb8e39bbe5f3b67bf555ea160eff27b1f6545f606a99d",
+  "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+  "publishedAt": "2026-11-02T13:57:53.000Z",
+  "publishedAtQuote": "November 2, 2026",
+  "retrievedAt": "2026-11-02T23:34:01.318Z",
+  "method": "agent-tool",
+  "contentHash": "e14f6ca618e7875e1b30d992c6f5bea861f6c8d3206c62c7213c4bd5a396fc1c",
+  "quotations": [
+    "OpenAI is now gearing up to merge the Chat and Work tabs within the ChatGPT experience, according to an email sent to users. OpenAI said that initially, this experience will be available to select users for feedback befo",
+    "OpenAI said that initially, this experience will be available to select users for feedback before it is rolled out widely. “This will enable you to move from exploring an idea to having ChatGPT carry it through, all in o",
+    "Codex will remain a separate experience in the ChatGPT desktop app,” the email said. OpenAI also said with this transition, both ChatGPT and Codex will draw tokens from the same allowance pool. It said this change won’t "
+  ]
+}

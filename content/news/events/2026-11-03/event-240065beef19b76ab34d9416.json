@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-240065beef19b76ab34d9416",
+  "title": "美团发布LongCat-2.5：原生多模态与长程Agent共同训练",
+  "firstSeen": "2026-11-03",
+  "editionDate": "2026-11-03",
+  "occurrences": [
+    {
+      "id": "occ-240065beef19b76ab34d9416",
+      "fact": {
+        "subject": "美团LongCat团队",
+        "action": "发布",
+        "object": "LongCat-2.5原生多模态模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-03",
+      "reports": [
+        {
+          "ref": "2026-11-03/2026-11-03-longcat-25",
+          "itemId": "2026-11-03-longcat-25",
+          "editionDate": "2026-11-03",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813189&idx=2&sn=bcd51d736aaa55eec93388c7a0c78af4",
+          "source": "wechat-zhidongxi",
+          "owner": "智东西",
+          "role": "observer",
+          "publishedAt": "2026-11-02T10:34:00.000Z",
+          "title": "美团发布LongCat-2.5：原生多模态与长程Agent共同训练"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-03"
+}

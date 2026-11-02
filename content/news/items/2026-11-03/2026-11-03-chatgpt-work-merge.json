@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-03-chatgpt-work-merge",
+  "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+  "displayTitle": "OpenAI拟合并ChatGPT聊天与Work界面，Codex仍保留独立入口",
+  "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI"
+  ],
+  "publishedAt": "2026-11-02T13:57:53.000Z",
+  "fetchedAt": "2026-11-02T14:15:35.967Z",
+  "summary": "据TechCrunch获得的用户邮件，OpenAI计划把ChatGPT的Chat和Work标签合并，先向部分用户开放反馈，再扩大范围；Codex在桌面应用中仍保留独立体验，ChatGPT与Codex使用同一额度池。",
+  "investorNote": "操作系统级Agent入口的整合改变用户任务流，但先期只是小范围测试。",
+  "narrative": "TechCrunch援引OpenAI发给用户的邮件称，ChatGPT准备把聊天与Work标签合并，让用户从讨论想法直接转入文件、插件和网页任务；这项体验先向部分用户开放征求反馈。Codex在桌面端仍是独立入口，但两者将共享额度池。对Agent产品而言，入口与用量限制已经是能力之外的真实竞争变量。",
+  "score": 0.3,
+  "duplicateOf": null,
+  "clusterId": "event-3d1c7bdeda0c35e831a5cad4",
+  "fact": {
+    "subject": "OpenAI",
+    "action": "计划合并",
+    "object": "ChatGPT聊天与Work界面",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "a9c21fa0ffc5f373e9bbb8e39bbe5f3b67bf555ea160eff27b1f6545f606a99d",
+    "originalUrl": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "originalPublishedAt": "2026-11-02T13:57:53.000Z",
+    "checkedAt": "2026-11-02T23:34:01.318Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "a9c21fa0ffc5f373e9bbb8e39bbe5f3b67bf555ea160eff27b1f6545f606a99d",
+      "kind": "fact",
+      "quote": "OpenAI is now gearing up to merge the Chat and Work tabs within the ChatGPT experience, according to an email sent to users. OpenAI said that initially, this experience will be available to select users for feedback befo"
+    },
+    {
+      "snapshotId": "a9c21fa0ffc5f373e9bbb8e39bbe5f3b67bf555ea160eff27b1f6545f606a99d",
+      "kind": "condition",
+      "quote": "OpenAI said that initially, this experience will be available to select users for feedback before it is rolled out widely. “This will enable you to move from exploring an idea to having ChatGPT carry it through, all in o"
+    },
+    {
+      "snapshotId": "a9c21fa0ffc5f373e9bbb8e39bbe5f3b67bf555ea160eff27b1f6545f606a99d",
+      "kind": "condition",
+      "quote": "Codex will remain a separate experience in the ChatGPT desktop app,” the email said. OpenAI also said with this transition, both ChatGPT and Codex will draw tokens from the same allowance pool. It said this change won’t "
+    }
+  ],
+  "eventRelation": {
+    "type": "SAME_STORY",
+    "targetRef": "2026-11-02/2026-11-02-openai-shared-usage",
+    "reason": "此前报道已说明Work并入聊天界面及共享额度，本次邮件仅补充试点范围和Codex入口",
+    "newInformation": "先向部分用户征求反馈，Codex在桌面端仍保留独立入口"
+  },
+  "eventId": "event-3d1c7bdeda0c35e831a5cad4",
+  "occurrenceId": "occ-0abcf9201383659e69f016c3"
+}

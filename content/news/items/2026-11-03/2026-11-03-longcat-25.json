@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-03-longcat-25",
+  "title": "美团发1.6万亿参数新模型，通用Agent测试超Opus-5，国产芯特别优化",
+  "displayTitle": "美团发布LongCat-2.5：原生多模态与长程Agent共同训练",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813189&idx=2&sn=bcd51d736aaa55eec93388c7a0c78af4",
+  "source": "wechat-zhidongxi",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "美团LongCat团队"
+  ],
+  "publishedAt": "2026-11-02T10:34:00.000Z",
+  "fetchedAt": "2026-11-02T15:47:31.805Z",
+  "summary": "美团发布LongCat-2.5，总参数1.6万亿、每Token激活约480亿，重点强化视觉理解与智能体编程。智东西实测发现视觉编程和PPT生成可用，但细节与排版仍有不足；跑分领先说法来自美团公布的基准。",
+  "investorNote": "国产算力上的大模型竞争已从参数规模转向长程任务训练与工具链效果，第三方实测仍需扩展。",
+  "narrative": "美团LongCat团队发布LongCat-2.5，称总参数1.6万亿、每Token激活约480亿，采用视觉与文本统一输入的原生多模态架构，并强化长程编程任务。智东西的初步实测看到动画和PPT生成能力，也指出图层细节、页面密度和排版问题。美团公布的基准成绩属于厂商自测，真正要跟踪的是复杂工程任务的独立复现和国产算力训练效率。",
+  "score": 0.88,
+  "duplicateOf": null,
+  "clusterId": "event-240065beef19b76ab34d9416",
+  "fact": {
+    "subject": "美团LongCat团队",
+    "action": "发布",
+    "object": "LongCat-2.5原生多模态模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "智东西",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "41cb387eacaa4125b6eabc0e490723151755b3c76ebfd766e3d8c6c04aabe67c",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813189&idx=2&sn=bcd51d736aaa55eec93388c7a0c78af4",
+    "originalPublishedAt": "2026-11-02T10:34:00.000Z",
+    "checkedAt": "2026-11-02T23:34:01.216Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "41cb387eacaa4125b6eabc0e490723151755b3c76ebfd766e3d8c6c04aabe67c",
+      "kind": "fact",
+      "quote": "智东西11月2日报道，今日，美团LongCat团队发布面向 长程智能体任务 的原生多模态模型 LongCat-2.5 。 该模型总参数量为 1.6万亿 ，每个Token激活约 480亿参数 ，在LongCat-2.0的基础上，重点强化 原生视觉理解与智能体编程能力 。 在美团公布的自动化任务基准AutomationBench、通用Agent任务基准LongCatClawBench等几项基准测评中，LongCat-2.5均 领先Claud"
+    },
+    {
+      "snapshotId": "41cb387eacaa4125b6eabc0e490723151755b3c76ebfd766e3d8c6c04aabe67c",
+      "kind": "condition",
+      "quote": "该模型总参数量为 1.6万亿 ，每个Token激活约 480亿参数 ，在LongCat-2.0的基础上，重点强化 原生视觉理解与智能体编程能力 。 在美团公布的自动化任务基准AutomationBench、通用Agent任务基准LongCatClawBench等几项基准测评中，LongCat-2.5均 领先Claude-Opus-5、GPT-5.6-Sol等模型 ；在终端操作基准Terminal Bench v4.0上，LongCat-"
+    },
+    {
+      "snapshotId": "41cb387eacaa4125b6eabc0e490723151755b3c76ebfd766e3d8c6c04aabe67c",
+      "kind": "condition",
+      "quote": "但 画面细节、空间与图层关系 仍有提升空间， PPT排版 也可以进一步优化。 首先，我们让模型制作一段“鹈鹕骑自行车”的HTML动画，LongCat-2.5生成的动画完成度较高，主体突出，画面风格保持一致，细节也比较丰富。不过，鹈鹕的围巾稍微有些歪， 画面细节有一定的提升空间 。 后面，我们又让LongCat-2.5解读亚马逊第三季度财报，并生成一份带图表的 PPT。 LongCat-2.5搭建的分析框架比较完整，趋势图、结构图和风险提"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的是独立的新动作，未确认与历史报道属于同次发生"
+  },
+  "eventId": "event-240065beef19b76ab34d9416",
+  "occurrenceId": "occ-240065beef19b76ab34d9416",
+  "relatedItems": []
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-03-tutor-series-b",
+  "title": "Tutor Intelligence raises Series B to scale model training, robot deployments",
+  "displayTitle": "Tutor Intelligence完成7500万美元B轮，扩张机器人训练与部署",
+  "url": "https://www.therobotreport.com/tutor-intelligence-raises-series-b-to-scale-model-training-robot-deployments/",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Tutor Intelligence"
+  ],
+  "publishedAt": "2026-11-02T19:25:59+00:00",
+  "fetchedAt": "2026-11-02T19:51:39.634Z",
+  "summary": "Tutor Intelligence宣布完成7500万美元B轮融资，支持其机器人模型训练和商业部署。公司在客户现场部署联网机器人，由远程“tutors”介入并获取训练数据，按小时或拣选量收费。",
+  "investorNote": "真实场景数据与部署成本的闭环是具身公司融资后能否扩张的关键。",
+  "narrative": "Tutor Intelligence宣布完成7500万美元B轮融资，资金投向机器人模型训练和商业部署。其做法是在客户现场让Sonny等机器人承担拣选工作，遇到困难时由远程操作员介入，再将数据用于模型训练；收费按工时或拣选量，不要求客户先买设备。融资能扩大样本和设备规模，但“数据飞轮”是否改善单位经济性，仍要看现场表现。",
+  "score": 0.75,
+  "duplicateOf": null,
+  "clusterId": "event-aeae61d5e15c10821d065ab9",
+  "fact": {
+    "subject": "Tutor Intelligence",
+    "action": "宣布完成",
+    "object": "7500万美元B轮融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "607e9b36212c266c7da3b70bc923bc8b8906f182ea9fa67cf4c401f39c94e47b",
+    "originalUrl": "https://www.therobotreport.com/tutor-intelligence-raises-series-b-to-scale-model-training-robot-deployments/",
+    "originalPublishedAt": "2026-11-02T19:25:59+00:00",
+    "checkedAt": "2026-11-02T23:34:19.116Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "607e9b36212c266c7da3b70bc923bc8b8906f182ea9fa67cf4c401f39c94e47b",
+      "kind": "fact",
+      "quote": "Tutor Intelligence Inc. today said it has raised $75 million in Series B funding as it works toward general-purpose robotics. “It’s not only that Tutor’s models let robots do jobs that robots have never been able to do b"
+    },
+    {
+      "snapshotId": "607e9b36212c266c7da3b70bc923bc8b8906f182ea9fa67cf4c401f39c94e47b",
+      "kind": "condition",
+      "quote": "The company has deployed fleets of internet-connected robots into production environments, where they do real work for customers with input from remote operators known as “tutors.” It uses the real-world data to train be"
+    },
+    {
+      "snapshotId": "607e9b36212c266c7da3b70bc923bc8b8906f182ea9fa67cf4c401f39c94e47b",
+      "kind": "condition",
+      "quote": "Instead of a robots-as-a-service ( RaaS ) model, business pay Tutor by the hour or by the pick, the same way they pay for manual labor. Customers make no upfront purchase and sign no long-term contract, added Tutor. The "
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的是独立的新动作，未确认与历史报道属于同次发生"
+  },
+  "eventId": "event-aeae61d5e15c10821d065ab9",
+  "occurrenceId": "occ-aeae61d5e15c10821d065ab9",
+  "relatedItems": []
+}

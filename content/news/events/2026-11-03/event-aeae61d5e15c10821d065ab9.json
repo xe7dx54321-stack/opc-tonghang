@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-aeae61d5e15c10821d065ab9",
+  "title": "Tutor Intelligence完成7500万美元B轮，扩张机器人训练与部署",
+  "firstSeen": "2026-11-03",
+  "editionDate": "2026-11-03",
+  "occurrences": [
+    {
+      "id": "occ-aeae61d5e15c10821d065ab9",
+      "fact": {
+        "subject": "Tutor Intelligence",
+        "action": "宣布完成",
+        "object": "7500万美元B轮融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-03",
+      "reports": [
+        {
+          "ref": "2026-11-03/2026-11-03-tutor-series-b",
+          "itemId": "2026-11-03-tutor-series-b",
+          "editionDate": "2026-11-03",
+          "url": "https://www.therobotreport.com/tutor-intelligence-raises-series-b-to-scale-model-training-robot-deployments/",
+          "source": "robot-report",
+          "owner": "The Robot Report",
+          "role": "observer",
+          "publishedAt": "2026-11-02T19:25:59+00:00",
+          "title": "Tutor Intelligence完成7500万美元B轮，扩张机器人训练与部署"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-03"
+}

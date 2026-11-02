@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-03-anthropic-s1-update",
+  "title": "Anthropic releases amended IPO prospectus with third-quarter financials",
+  "displayTitle": "Anthropic更新IPO招股书：第三季度收入约170亿美元，增速环比放缓",
+  "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+  "source": "hnrss-frontpage",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic"
+  ],
+  "publishedAt": "2026-11-02T14:32:13+00:00",
+  "fetchedAt": "2026-11-02T15:16:55.391Z",
+  "summary": "Anthropic更新提交SEC的S-1文件。前九个月收入332.4亿美元，第三季度约170亿美元；季度环比收入增长约47%，低于前两季度的144%与132%。第三季度净亏损约232.9亿美元。",
+  "investorNote": "营收体量仍快速扩大，但季度增长率和算力承诺更能影响IPO估值。",
+  "narrative": "Anthropic向SEC提交修订版S-1，补入第三季度财务数据：当季收入约170亿美元，环比增长47%，低于前两个季度的144%和132%。当季净亏损约232.9亿美元。对IPO定价而言，新增信息不是“收入仍在增长”，而是增长斜率、算力承诺和会计亏损需要同时解释；净亏损数字也不能直接当作经营现金消耗。",
+  "score": 0.93,
+  "duplicateOf": null,
+  "clusterId": "event-77304c7d4f6f1953a3030212",
+  "fact": {
+    "subject": "Anthropic",
+    "action": "更新",
+    "object": "IPO招股书第三季度财务数据",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "CNBC",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "807d0fa8c22f9afc747ba5c189aa7bca797712210b48e3b58526970827de5e64",
+    "originalUrl": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+    "originalPublishedAt": "2026-11-02T14:32:13+00:00",
+    "checkedAt": "2026-11-02T23:34:01.182Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "807d0fa8c22f9afc747ba5c189aa7bca797712210b48e3b58526970827de5e64",
+      "kind": "fact",
+      "quote": "Anthropic reported updated financials as part of an amended Form S-1 filing with the Securities and Exchange Commission. The company said it generated $33.24 billion in revenue for the nine months ended Sept. 30, up roug"
+    },
+    {
+      "snapshotId": "807d0fa8c22f9afc747ba5c189aa7bca797712210b48e3b58526970827de5e64",
+      "kind": "condition",
+      "quote": "Third-quarter revenue increased around 47%, a steep drop from 144% growth in Q2 and 132% in Q1. The company reported a net loss of $23.29 billion during its third quarter. Read more CNBC Anthropic news Anthropic's path t"
+    },
+    {
+      "snapshotId": "807d0fa8c22f9afc747ba5c189aa7bca797712210b48e3b58526970827de5e64",
+      "kind": "condition",
+      "quote": "The company reported a net loss of $23.29 billion during its third quarter. Read more CNBC Anthropic news Anthropic's path to the Nasdaq just got a lot bumpier Chart: Anthropic’s cash pile towers over nearly every U.S. c"
+    }
+  ],
+  "eventRelation": {
+    "type": "SAME_STORY",
+    "targetRef": "2026-10-27/2026-10-27-anthropic-ipo-filing",
+    "reason": "修订同一IPO申报材料，新增第三季度财务数据",
+    "newInformation": "第三季度收入约170亿美元、环比增47%，并披露当季净亏损约232.9亿美元"
+  },
+  "eventId": "event-77304c7d4f6f1953a3030212",
+  "occurrenceId": "occ-c033680c091a46da11127a1f",
+  "relatedItems": []
+}

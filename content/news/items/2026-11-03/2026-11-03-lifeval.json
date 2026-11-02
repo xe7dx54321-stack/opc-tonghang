@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-03-lifeval",
+  "title": "LifeVal",
+  "displayTitle": "OpenAI发布LifeVal评测，衡量AI处理日常事务的能力",
+  "url": "https://openai.com/index/lifeval",
+  "source": "openai-news",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI"
+  ],
+  "publishedAt": "2026-11-02T09:00:00.000Z",
+  "fetchedAt": "2026-11-02T17:48:52.854Z",
+  "summary": "OpenAI发布LifeVal，以照护、教育、家庭管理、财务和政府服务等日常事务衡量个人助理的任务能力。任务选择结合时间使用调查和3995名受访者的新调查，结果与评测设计均由OpenAI提供。",
+  "investorNote": "Agent评测开始从单次问答转向实际任务完成，但自建评测需要外部复核。",
+  "narrative": "OpenAI发布LifeVal，把个人助理评测放到托育、教育、财务、购物和政府服务等日常任务中。任务筛选参考时间使用研究，并扩展了一项3995人的调查。与只测问答准确率相比，这更接近产品真正要承担的工作；但指标、任务样本和成绩均由OpenAI设计与公布，尚不能据此推断跨产品的真实用户效果。",
+  "score": 0.69,
+  "duplicateOf": null,
+  "clusterId": "event-9fbdb21e777a9848c77f33b7",
+  "fact": {
+    "subject": "OpenAI",
+    "action": "发布",
+    "object": "LifeVal日常事务评测",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "OpenAI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "1f2c04206ad0941c7f17cc8704801d8d0bed896e99450ca9dfa1b5b2f3bc7e18",
+    "originalUrl": "https://openai.com/index/lifeval",
+    "originalPublishedAt": "2026-11-02T09:00:00.000Z",
+    "checkedAt": "2026-11-02T23:34:01.465Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "1f2c04206ad0941c7f17cc8704801d8d0bed896e99450ca9dfa1b5b2f3bc7e18",
+      "kind": "fact",
+      "quote": "To measure model performance over time on everyday tasks, we built an evaluation of tasks covering areas where users wanted the most help from AI and personal agents. We used this evaluation to track and drive improvemen"
+    },
+    {
+      "snapshotId": "1f2c04206ad0941c7f17cc8704801d8d0bed896e99450ca9dfa1b5b2f3bc7e18",
+      "kind": "condition",
+      "quote": "we expanded on these existing surveys with a new demographically representative survey of 3,995 respondents. For each task, we asked a variety of questions to identify the areas where everyday people most wanted help fro"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的是独立的新动作，未确认与历史报道属于同次发生"
+  },
+  "eventId": "event-9fbdb21e777a9848c77f33b7",
+  "occurrenceId": "occ-9fbdb21e777a9848c77f33b7",
+  "relatedItems": []
+}

@@ -1,0 +1,14 @@
+{
+  "snapshotId": "6383f317566f83fdbe3d56b1e20031a0e9357102aa06aec9d954a47cafe01e14",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247496939&idx=1&sn=de12e5f3e5f301170425ad24eef08cce",
+  "publishedAt": "2026-11-02T09:59:00.000Z",
+  "publishedAtQuote": "2026-11-02 17:59",
+  "retrievedAt": "2026-11-02T23:34:01.420Z",
+  "method": "rss-syndication",
+  "retrievedFrom": "https://wechat2rss.bestblogs.dev/feed/0f8c47df6fd304112518544776e0bbf1d98ba0b9.xml",
+  "contentHash": "58761451f098f19ff0cf8e0b3ad642a3dfc79be3c26206b0bad2d03c944dfd39",
+  "quotations": [
+    "小红书自研稀疏训练引擎 SparseGear 重新设计了稀疏参数的计算、存储与通信方式，构建 HBM-Friendly 高性能多级稀疏参数存储架构，提升参数供给效率，为 Dense 扩展释放显存空间。 导读 随着小红书搜广推模型的序列长度向万级增长、Dense 参数规模向百亿级扩展，训练系统既要提高稀疏参数供给效率，也要为 Dense 计算留出更多显存空间。小红书自研训练引擎 SparseGear 从调整资源分工入手，充分利用主机资源与",
+    "最终在多个业务场景取得了 20%～300% 的训练性能收益。 01 业务背景与架构瓶颈 小红书的搜广推业务持续探索长序列建模和更大规模的 Dense 网络。更长的行为序列可以为模型提供更完整的用户历史，帮助刻画长期兴趣及其变化；更大规模的 Dense 网络则为复杂特征交互提供更强的表达能力。 与此同时，多模型并行迭代已成为业务研发的常态。因此，训练系统既要支撑单个模型的规模扩展，也要控制多模型迭代的整体成本。原有 TorchLarC 训"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "event-3d1c7bdeda0c35e831a5cad4",
+  "title": "OpenAI明确ChatGPT与Codex将从12月共享用量额度",
+  "firstSeen": "2026-11-02",
+  "editionDate": "2026-11-03",
+  "occurrences": [
+    {
+      "id": "occ-3d1c7bdeda0c35e831a5cad4",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "在帮助中心明确",
+        "object": "ChatGPT与Codex未来共享用量额度",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-02",
+      "reports": [
+        {
+          "ref": "2026-11-02/2026-11-02-openai-shared-usage",
+          "itemId": "2026-11-02-openai-shared-usage",
+          "editionDate": "2026-11-02",
+          "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "relayer",
+          "publishedAt": "2026-11-01T09:51:06.000Z",
+          "title": "OpenAI明确ChatGPT与Codex将从12月共享用量额度"
+        }
+      ]
+    },
+    {
+      "id": "occ-0abcf9201383659e69f016c3",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "计划合并",
+        "object": "ChatGPT聊天与Work界面",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-03",
+      "reports": [
+        {
+          "ref": "2026-11-03/2026-11-03-chatgpt-work-merge",
+          "itemId": "2026-11-03-chatgpt-work-merge",
+          "editionDate": "2026-11-03",
+          "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-02T13:57:53.000Z",
+          "title": "OpenAI拟合并ChatGPT聊天与Work界面，Codex仍保留独立入口"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-03"
+}

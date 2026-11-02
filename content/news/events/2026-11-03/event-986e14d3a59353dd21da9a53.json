@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-986e14d3a59353dd21da9a53",
+  "title": "RoboScience机器科学完成数亿元A2轮，产业资本加注具身",
+  "firstSeen": "2026-11-03",
+  "editionDate": "2026-11-03",
+  "occurrences": [
+    {
+      "id": "occ-986e14d3a59353dd21da9a53",
+      "fact": {
+        "subject": "RoboScience机器科学",
+        "action": "完成",
+        "object": "数亿元A2轮融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-03",
+      "reports": [
+        {
+          "ref": "2026-11-03/2026-11-03-roboscience-a2",
+          "itemId": "2026-11-03-roboscience-a2",
+          "editionDate": "2026-11-03",
+          "url": "https://www.leiphone.com/category/ai/GqrJT2vlPFBxElDY.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-02T10:23:00.000Z",
+          "title": "RoboScience机器科学完成数亿元A2轮，产业资本加注具身"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-03"
+}

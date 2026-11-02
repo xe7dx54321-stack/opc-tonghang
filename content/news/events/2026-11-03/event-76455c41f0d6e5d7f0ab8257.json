@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-76455c41f0d6e5d7f0ab8257",
+  "title": "Marvell拟以1150亿美元企业价值收购Lumentum，打通AI互连芯片与光学器件",
+  "firstSeen": "2026-11-03",
+  "editionDate": "2026-11-03",
+  "occurrences": [
+    {
+      "id": "occ-76455c41f0d6e5d7f0ab8257",
+      "fact": {
+        "subject": "Marvell",
+        "action": "签署收购协议",
+        "object": "Lumentum",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-03",
+      "reports": [
+        {
+          "ref": "2026-11-03/2026-11-03-marvell-lumentum",
+          "itemId": "2026-11-03-marvell-lumentum",
+          "editionDate": "2026-11-03",
+          "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-02T17:54:11.000Z",
+          "title": "Marvell拟以1150亿美元企业价值收购Lumentum，打通AI互连芯片与光学器件"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-03"
+}
