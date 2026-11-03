@@ -1,0 +1,73 @@
+{
+  "id": "2026-11-04-baidu-apollo-world",
+  "title": "AI教AI开车！百度Apollo World世界模型叩开无人驾驶产业“AGI时刻”",
+  "url": "https://www.leiphone.com/category/industrynews/NVxn28w1vAG2qbFy.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [
+    "AI",
+    "Apollo World",
+    "AGI",
+    "AI Day",
+    "Apollo",
+    "IDG",
+    "AI Driver",
+    "EASY",
+    "Grand View Research"
+  ],
+  "publishedAt": "2026-11-03T13:59:00.000Z",
+  "fetchedAt": "2026-11-03T16:10:39.755Z",
+  "summary": "百度Apollo在11月3日的AI Day首次披露Apollo World全模态世界模型，称它把虚拟交通参与者建模为能决策与互动的智能体，并生成相机、激光雷达观测以形成驾驶闭环。报道说该模型已用于萝卜快跑的全球化测试与验证。",
+  "investorNote": "自动驾驶仿真竞争的核心正在转向多主体交互和闭环安全验证，厂商公布的虚拟里程不能代替真实道路安全结果。",
+  "score": 0.84,
+  "duplicateOf": null,
+  "clusterId": "event-773fd7a5744c6cf18041732d",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "百度Apollo",
+    "action": "首次披露",
+    "object": "Apollo World智能体驱动全模态世界模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "cdb831da89a24860165691bb230715f10e4039ff828eca3863d279bb64a19c1f",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/NVxn28w1vAG2qbFy.html",
+    "originalPublishedAt": "2026-11-03T13:59:00.000Z",
+    "checkedAt": "2026-11-03T23:40:25.935Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "cdb831da89a24860165691bb230715f10e4039ff828eca3863d279bb64a19c1f",
+      "kind": "fact",
+      "quote": "11月3日，在深圳举行的百度AI Day·Apollo专场上，百度Apollo首次披露面向物理AI的智能体驱动全模态世界模型Apollo World"
+    },
+    {
+      "snapshotId": "cdb831da89a24860165691bb230715f10e4039ff828eca3863d279bb64a19c1f",
+      "kind": "condition",
+      "quote": "Apollo World可实时生成相机、激光雷达等多模态观测数据"
+    },
+    {
+      "snapshotId": "cdb831da89a24860165691bb230715f10e4039ff828eca3863d279bb64a19c1f",
+      "kind": "condition",
+      "quote": "行业人士分析，Apollo World可“日行十万公里”"
+    }
+  ],
+  "displayTitle": "百度首次披露Apollo World：把交通参与者做成可交互智能体",
+  "narrative": "据雷峰网现场报道，百度把世界模型定位为无人车的闭环验证环境，而非单纯视频生成器。交通参与者可随无人车动作改变行为，仿真环境再反馈多模态观测；其效果仍需看公开测试指标与真实路测相关性。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文描述独立的新披露或进展，近两周事件目录中没有同一次发生的可确认记录"
+  },
+  "eventId": "event-773fd7a5744c6cf18041732d",
+  "occurrenceId": "occ-773fd7a5744c6cf18041732d",
+  "relatedItems": []
+}

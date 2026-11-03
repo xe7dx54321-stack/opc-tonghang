@@ -1,0 +1,77 @@
+{
+  "id": "2026-11-04-crowdstrike-fiddler-dreadnode",
+  "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+  "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "CrowdStrike",
+    "AI",
+    "Fiddler AI",
+    "Dreadnode"
+  ],
+  "publishedAt": "2026-11-03T17:56:52.000Z",
+  "fetchedAt": "2026-11-03T18:12:31.612Z",
+  "summary": "CrowdStrike于11月3日宣布分别签署收购Fiddler AI和Dreadnode的协议，前者侧重Agent可观测性，后者做上线前自动安全测试。TechCrunch报道两笔交易合计接近5亿美元，金额来自媒体援引而非公司公告。",
+  "investorNote": "安全厂商正在把Agent的上线前测试和运行时行为监控并入现有平台，整合落地比交易金额更值得跟踪。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "event-8125a459a3f0eae8253cacea",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "CrowdStrike",
+    "action": "宣布收购",
+    "object": "Fiddler AI和Dreadnode两家AI安全公司",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "780568d44959769a48a9d0468fd91a1055926be76c08b1a1ed1b68c1d129f5a9",
+    "originalUrl": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+    "originalPublishedAt": "2026-11-03T17:56:52.000Z",
+    "checkedAt": "2026-11-03T23:40:26.049Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "780568d44959769a48a9d0468fd91a1055926be76c08b1a1ed1b68c1d129f5a9",
+      "kind": "fact",
+      "quote": "CrowdStrike is buying two AI security companies"
+    },
+    {
+      "snapshotId": "780568d44959769a48a9d0468fd91a1055926be76c08b1a1ed1b68c1d129f5a9",
+      "kind": "condition",
+      "quote": "Fiddler AI"
+    },
+    {
+      "snapshotId": "780568d44959769a48a9d0468fd91a1055926be76c08b1a1ed1b68c1d129f5a9",
+      "kind": "condition",
+      "quote": "Dreadnode"
+    },
+    {
+      "snapshotId": "780568d44959769a48a9d0468fd91a1055926be76c08b1a1ed1b68c1d129f5a9",
+      "kind": "fact",
+      "quote": "it will buy\nFiddler AI\n, which makes observability software for monitoring AI agents inside enterprises, and\nDreadnode\n, which helps companies automate security testing specifically aimed at detecting flaws in AI models, apps, and agents before they are set live."
+    },
+    {
+      "snapshotId": "780568d44959769a48a9d0468fd91a1055926be76c08b1a1ed1b68c1d129f5a9",
+      "kind": "condition",
+      "quote": "The company is paying around $400 million for Fiddler AI, and about $95 million for Dreadnode,\naccording to The Wall Street Journal"
+    }
+  ],
+  "displayTitle": "CrowdStrike拟收购Fiddler与Dreadnode，补齐Agent观测和攻防测试",
+  "narrative": "这两笔尚待交割的收购对应Agent安全链条的两端：Dreadnode测试模型与应用弱点，Fiddler记录并解释运行行为。CrowdStrike试图把结果接入Falcon平台；产品何时普遍可用以及客户是否统一采购，仍要看后续交付。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文描述独立的新披露或进展，近两周事件目录中没有同一次发生的可确认记录"
+  },
+  "eventId": "event-8125a459a3f0eae8253cacea",
+  "occurrenceId": "occ-8125a459a3f0eae8253cacea",
+  "relatedItems": []
+}

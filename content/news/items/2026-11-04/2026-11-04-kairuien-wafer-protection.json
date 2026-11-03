@@ -1,0 +1,57 @@
+{
+  "id": "2026-11-04-kairuien-wafer-protection",
+  "title": "国内首个半导体工艺保护流体材料重大突破",
+  "url": "https://www.leiphone.com/category/industrynews/PHr6tfngmZX7R5db.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [],
+  "publishedAt": "2026-11-03T09:41:00.000Z",
+  "fetchedAt": "2026-11-03T12:36:37.507Z",
+  "summary": "雷峰网11月3日报道，上海凯锐恩开发晶圆级流体成型保护材料及配套热压设备，并称在晶圆减薄和切割保护场景完成多轮工艺验证。报道未提供客户姓名、良率对比或量产规模。",
+  "investorNote": "国产封装材料进入客户工艺验证是有用的跟踪信号，但量产能力和性能领先仍需客户数据证明。",
+  "score": 0.68,
+  "duplicateOf": null,
+  "clusterId": "event-39c664608ba01205499de8f7",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "上海凯锐恩",
+    "action": "披露研发及工艺验证进展",
+    "object": "晶圆级流体成型保护材料和热压设备",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "7a0316caa4feb76d50ffea0fa2d730cfc99996b7eaa6f67e67196dc17478d475",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/PHr6tfngmZX7R5db.html",
+    "originalPublishedAt": "2026-11-03T09:41:00.000Z",
+    "checkedAt": "2026-11-03T23:40:25.992Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "7a0316caa4feb76d50ffea0fa2d730cfc99996b7eaa6f67e67196dc17478d475",
+      "kind": "fact",
+      "quote": "上海凯锐恩半导体科技有限公司成功开发出应用于晶圆级工艺保护的流体成型材料及配套热压成型设备"
+    },
+    {
+      "snapshotId": "7a0316caa4feb76d50ffea0fa2d730cfc99996b7eaa6f67e67196dc17478d475",
+      "kind": "condition",
+      "quote": "在晶圆减薄保护、晶圆切割保护等多种场景中完成多轮工艺验证"
+    }
+  ],
+  "displayTitle": "上海凯锐恩披露晶圆保护流体材料及热压设备验证进展",
+  "narrative": "材料与设备一体化是晶圆减薄、切割保护的具体切入点；目前公开材料只支持“完成多轮验证”的表述。对投资判断，更关键的是客户导入、良率、残留与成本数据，不能把报道中的“国际领先”直接写成已证实结论。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文描述独立的新披露或进展，近两周事件目录中没有同一次发生的可确认记录"
+  },
+  "eventId": "event-39c664608ba01205499de8f7",
+  "occurrenceId": "occ-39c664608ba01205499de8f7",
+  "relatedItems": []
+}

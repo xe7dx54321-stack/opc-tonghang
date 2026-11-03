@@ -1,0 +1,65 @@
+{
+  "title": "AMD Reports Third Quarter 2026 Financial Results",
+  "url": "https://newsroom.amd.com/news/amd-reports-third-quarter-2026-earnings/",
+  "source": "web-search",
+  "sourceTier": 3,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "AMD"
+  ],
+  "fetchedAt": "2026-11-03T23:40:26.148462+00:00",
+  "summary": "AMD于11月3日公布第三季度财报：集团营收134亿美元，数据中心业务收入85亿美元，同比增长97%。公司预计第四季度营收约170亿美元，上下浮动3%，中值同比增长约66%；这些是公司披露的实际业绩与前瞻指引。",
+  "investorNote": "数据中心收入接近翻倍是AMD在AI算力和服务器市场的重要兑现，但第四季度指引仍需后续交付验证。",
+  "score": 0.94,
+  "duplicateOf": null,
+  "clusterId": "event-07d43f91553e8261857df2a3",
+  "schemaVersion": 2,
+  "id": "2026-11-04-amd-q3-earnings",
+  "publishedAt": "2026-11-03T21:19:37.365Z",
+  "fact": {
+    "subject": "AMD",
+    "action": "公布第三季度业绩与第四季度指引",
+    "object": "数据中心收入和集团营收",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "AMD",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "ba7a7c9216f82cb3dd09453eeca9f8397a9aa0185eff4d16163fae1807d7a04f",
+    "originalUrl": "https://newsroom.amd.com/news/amd-reports-third-quarter-2026-earnings/",
+    "originalPublishedAt": "2026-11-03T21:19:37.365Z",
+    "checkedAt": "2026-11-03T23:40:26.144Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "ba7a7c9216f82cb3dd09453eeca9f8397a9aa0185eff4d16163fae1807d7a04f",
+      "kind": "fact",
+      "quote": "Third quarter revenue was $13.4 billion"
+    },
+    {
+      "snapshotId": "ba7a7c9216f82cb3dd09453eeca9f8397a9aa0185eff4d16163fae1807d7a04f",
+      "kind": "condition",
+      "quote": "Data Center segment revenue was a record $8.5 billion, up 97% year-over-year"
+    },
+    {
+      "snapshotId": "ba7a7c9216f82cb3dd09453eeca9f8397a9aa0185eff4d16163fae1807d7a04f",
+      "kind": "condition",
+      "quote": "For the fourth quarter of 2026, AMD expects revenue to be approximately $17 billion"
+    }
+  ],
+  "displayTitle": "AMD第三季度数据中心收入85亿美元，同比增长97%",
+  "narrative": "AMD数据中心业务的85亿美元收入是已实现结果，与对下一季度约170亿美元集团收入的预测应分开看。EPYC和Instinct需求推动本季增长；投资判断要继续核对GPU交付、毛利率及大客户集中度。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文描述独立的新披露或进展，近两周事件目录中没有同一次发生的可确认记录"
+  },
+  "eventId": "event-07d43f91553e8261857df2a3",
+  "occurrenceId": "occ-07d43f91553e8261857df2a3",
+  "relatedItems": []
+}

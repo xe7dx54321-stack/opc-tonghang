@@ -1,0 +1,74 @@
+{
+  "id": "2026-11-04-ant-lingbo-wuzhen",
+  "title": "中国开源走向物理世界，蚂蚁灵波携机器人通用大脑亮相乌镇",
+  "url": "https://www.leiphone.com/category/industrynews/ADcxxdwtaojQvzhp.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [
+    "LingBot",
+    "GitHub Star",
+    "Physical Intelligence",
+    "Generalist AI",
+    "OpenWAM",
+    "VA",
+    "FastOPD",
+    "VLA",
+    "Map",
+    "LeRobot",
+    "Vision",
+    "World",
+    "SGLang",
+    "FlashDreams",
+    "AFDE"
+  ],
+  "publishedAt": "2026-11-03T13:41:00.000Z",
+  "fetchedAt": "2026-11-03T16:10:39.755Z",
+  "summary": "蚂蚁灵波在乌镇峰会展示开源机器人通用大脑及与国大药房合作的智慧药房场景。雷峰网报道，展位模拟窄通道取药流程，相关方案已在上海部分门店运行；公司还在工业上下料和物流场景验证一脑多机。",
+  "investorNote": "机器人大脑的商业价值取决于跨本体复用和门店稳定运行，展会演示与规模化部署应分开评价。",
+  "score": 0.75,
+  "duplicateOf": null,
+  "clusterId": "event-3563c1a89e351404f8221b43",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "蚂蚁灵波",
+    "action": "在乌镇展示",
+    "object": "机器人通用大脑与智慧药房场景",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d5c958336a5f0bd79bc6b6c9805fe3e73d93ce08a5babb44189f2890313fc307",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/ADcxxdwtaojQvzhp.html",
+    "originalPublishedAt": "2026-11-03T13:41:00.000Z",
+    "checkedAt": "2026-11-03T23:40:25.965Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d5c958336a5f0bd79bc6b6c9805fe3e73d93ce08a5babb44189f2890313fc307",
+      "kind": "fact",
+      "quote": "蚂蚁集团旗下具身智能公司蚂蚁灵波，携全栈开源的机器人通用大脑亮相乌镇"
+    },
+    {
+      "snapshotId": "d5c958336a5f0bd79bc6b6c9805fe3e73d93ce08a5babb44189f2890313fc307",
+      "kind": "condition",
+      "quote": "峰会期间，蚂蚁灵波与国大药房在乌镇世界互联网科技馆联合呈现机器人智慧药房。"
+    }
+  ],
+  "displayTitle": "蚂蚁灵波在乌镇展示机器人通用大脑与智慧药房场景",
+  "narrative": "这一条的新信息是乌镇展出的药房连续作业与更多本体适配。既有开源模型的下载量只说明开发者接触面，不能代替门店稼动率；验证重点是同一模型在不同场景中的迁移成本。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文描述独立的新披露或进展，近两周事件目录中没有同一次发生的可确认记录"
+  },
+  "eventId": "event-3563c1a89e351404f8221b43",
+  "occurrenceId": "occ-3563c1a89e351404f8221b43",
+  "relatedItems": []
+}

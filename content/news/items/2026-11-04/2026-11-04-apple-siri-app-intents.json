@@ -1,0 +1,67 @@
+{
+  "id": "2026-11-04-apple-siri-app-intents",
+  "title": "Apple starts giving Siri AI access to third-party apps",
+  "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Apple",
+    "Siri AI",
+    "As",
+    "Tuesday"
+  ],
+  "publishedAt": "2026-11-03T20:16:17.000Z",
+  "fetchedAt": "2026-11-03T20:44:29.454Z",
+  "summary": "Apple于11月3日开放Siri AI第三方应用动作的开发者预览，配合iOS 27.3等测试版，允许开发者通过App Intents让Siri理解上下文并执行应用内任务。The Verge于当日核对了开放范围与预览条件。",
+  "investorNote": "操作系统级Agent接口的价值在跨应用执行与开发者采用率，测试版不等于所有用户已可使用。",
+  "score": 0.85,
+  "duplicateOf": null,
+  "clusterId": "event-144ad7ef189af1a1be19d6d6",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Apple",
+    "action": "开放开发者预览",
+    "object": "Siri AI第三方应用动作接口",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "066de5523746436205d5d38824162c5d2278c5ff3224b0c16338c4317971f839",
+    "originalUrl": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+    "originalPublishedAt": "2026-11-03T20:16:17.000Z",
+    "checkedAt": "2026-11-03T23:40:26.082Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "066de5523746436205d5d38824162c5d2278c5ff3224b0c16338c4317971f839",
+      "kind": "fact",
+      "quote": "Apple will now let Siri AI perform actions across third-party apps."
+    },
+    {
+      "snapshotId": "066de5523746436205d5d38824162c5d2278c5ff3224b0c16338c4317971f839",
+      "kind": "condition",
+      "quote": "The update, which is rolling out as part of a Developer Preview"
+    },
+    {
+      "snapshotId": "066de5523746436205d5d38824162c5d2278c5ff3224b0c16338c4317971f839",
+      "kind": "fact",
+      "quote": "As part of the iOS 27.3 update rolling out on Tuesday, Apple"
+    }
+  ],
+  "displayTitle": "Apple向第三方开放Siri AI应用动作开发者预览",
+  "narrative": "Apple把Siri AI的动作能力扩到第三方应用，入口从回答问题转向调用应用完成任务。当前是开发者预览，覆盖效果取决于开发者接入、授权和失败处理；这一步更像平台接口开放，而非一次完整消费端上线。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文描述独立的新披露或进展，近两周事件目录中没有同一次发生的可确认记录"
+  },
+  "eventId": "event-144ad7ef189af1a1be19d6d6",
+  "occurrenceId": "occ-144ad7ef189af1a1be19d6d6",
+  "relatedItems": []
+}

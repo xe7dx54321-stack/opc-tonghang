@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-04",
+  "itemCount": 9,
+  "storyCount": 9,
+  "clusterCount": 9,
+  "files": [
+    "2026-11-04-openai-physical-engineering.json",
+    "2026-11-04-baidu-apollo-world.json",
+    "2026-11-04-ant-lingbo-wuzhen.json",
+    "2026-11-04-kairuien-wafer-protection.json",
+    "2026-11-04-fal-series-f.json",
+    "2026-11-04-crowdstrike-fiddler-dreadnode.json",
+    "2026-11-04-apple-siri-app-intents.json",
+    "2026-11-04-metacircle-financing.json",
+    "2026-11-04-amd-q3-earnings.json"
+  ],
+  "representatives": [
+    "2026-11-04-openai-physical-engineering",
+    "2026-11-04-baidu-apollo-world",
+    "2026-11-04-ant-lingbo-wuzhen",
+    "2026-11-04-kairuien-wafer-protection",
+    "2026-11-04-fal-series-f",
+    "2026-11-04-crowdstrike-fiddler-dreadnode",
+    "2026-11-04-apple-siri-app-intents",
+    "2026-11-04-metacircle-financing",
+    "2026-11-04-amd-q3-earnings"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "snapshotId": "59c717c9064ae3b87c9b27a9cd15d6b81d8b6f7cac420b969b3d5a3ef5579af0",
+  "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+  "publishedAt": "2026-11-03T12:00:00.000Z",
+  "publishedAtQuote": "November 3, 2026",
+  "retrievedAt": "2026-11-03T23:40:25.895Z",
+  "method": "agent-tool",
+  "contentHash": "424426b6c3ec35b6277b69d52d15bc86fe1d0276448218219633594aab3baf1d",
+  "quotations": [
+    "Today, we’re sharing advances in how OpenAI models help engineers design, simulate, and build physical products.",
+    "Getting the device ready for manufacturing still required several rounds of review and iteration.",
+    "A newer internal model achieved an average score of 0.875, compared with 0.594 for GPT‑6 Astra at its highest reasoning setting.",
+    "Two team members designed this test device with Astra in under a week while working on it as a side project. A contract manufacturer built a small batch of prototypes in under a month."
+  ]
+}

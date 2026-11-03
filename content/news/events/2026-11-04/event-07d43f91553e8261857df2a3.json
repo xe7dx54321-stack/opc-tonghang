@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-07d43f91553e8261857df2a3",
+  "title": "AMD第三季度数据中心收入85亿美元，同比增长97%",
+  "firstSeen": "2026-11-04",
+  "editionDate": "2026-11-04",
+  "occurrences": [
+    {
+      "id": "occ-07d43f91553e8261857df2a3",
+      "fact": {
+        "subject": "AMD",
+        "action": "公布第三季度业绩与第四季度指引",
+        "object": "数据中心收入和集团营收",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-04",
+      "reports": [
+        {
+          "ref": "2026-11-04/2026-11-04-amd-q3-earnings",
+          "itemId": "2026-11-04-amd-q3-earnings",
+          "editionDate": "2026-11-04",
+          "url": "https://newsroom.amd.com/news/amd-reports-third-quarter-2026-earnings/",
+          "source": "web-search",
+          "owner": "AMD",
+          "role": "principal",
+          "publishedAt": "2026-11-03T21:19:37.365Z",
+          "title": "AMD第三季度数据中心收入85亿美元，同比增长97%"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-04"
+}

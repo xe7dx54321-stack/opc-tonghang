@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-858b889f08400662cc241a6c",
+  "title": "元环智能完成两轮合计数亿元融资，押注“元模型”路线",
+  "firstSeen": "2026-11-04",
+  "editionDate": "2026-11-04",
+  "occurrences": [
+    {
+      "id": "occ-858b889f08400662cc241a6c",
+      "fact": {
+        "subject": "元环智能",
+        "action": "宣布完成",
+        "object": "种子轮与种子+轮合计数亿元融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-04",
+      "reports": [
+        {
+          "ref": "2026-11-04/2026-11-04-metacircle-financing",
+          "itemId": "2026-11-04-metacircle-financing",
+          "editionDate": "2026-11-04",
+          "url": "https://www.leiphone.com/category/industrynews/HzAPRXlFEuzBUnsf.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-03T05:16:00.000Z",
+          "title": "元环智能完成两轮合计数亿元融资，押注“元模型”路线"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-04"
+}

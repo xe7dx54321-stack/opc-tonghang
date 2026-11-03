@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-39c664608ba01205499de8f7",
+  "title": "上海凯锐恩披露晶圆保护流体材料及热压设备验证进展",
+  "firstSeen": "2026-11-04",
+  "editionDate": "2026-11-04",
+  "occurrences": [
+    {
+      "id": "occ-39c664608ba01205499de8f7",
+      "fact": {
+        "subject": "上海凯锐恩",
+        "action": "披露研发及工艺验证进展",
+        "object": "晶圆级流体成型保护材料和热压设备",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-04",
+      "reports": [
+        {
+          "ref": "2026-11-04/2026-11-04-kairuien-wafer-protection",
+          "itemId": "2026-11-04-kairuien-wafer-protection",
+          "editionDate": "2026-11-04",
+          "url": "https://www.leiphone.com/category/industrynews/PHr6tfngmZX7R5db.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-03T09:41:00.000Z",
+          "title": "上海凯锐恩披露晶圆保护流体材料及热压设备验证进展"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-04"
+}

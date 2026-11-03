@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-0033f8db2850753176e22ded",
+  "title": "OpenAI展示Astra参与硬件设计：原型已造出，量产约束仍需人工审查",
+  "firstSeen": "2026-11-04",
+  "editionDate": "2026-11-04",
+  "occurrences": [
+    {
+      "id": "occ-0033f8db2850753176e22ded",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "公布工程设计与制造工作流测试",
+        "object": "Astra、Codex在机械和电气设计中的应用",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-04",
+      "reports": [
+        {
+          "ref": "2026-11-04/2026-11-04-openai-physical-engineering",
+          "itemId": "2026-11-04-openai-physical-engineering",
+          "editionDate": "2026-11-04",
+          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+          "source": "openai-news",
+          "owner": "OpenAI",
+          "role": "principal",
+          "publishedAt": "2026-11-03T12:00:00.000Z",
+          "title": "OpenAI展示Astra参与硬件设计：原型已造出，量产约束仍需人工审查"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-04"
+}

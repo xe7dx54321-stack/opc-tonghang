@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-144ad7ef189af1a1be19d6d6",
+  "title": "Apple向第三方开放Siri AI应用动作开发者预览",
+  "firstSeen": "2026-11-04",
+  "editionDate": "2026-11-04",
+  "occurrences": [
+    {
+      "id": "occ-144ad7ef189af1a1be19d6d6",
+      "fact": {
+        "subject": "Apple",
+        "action": "开放开发者预览",
+        "object": "Siri AI第三方应用动作接口",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-04",
+      "reports": [
+        {
+          "ref": "2026-11-04/2026-11-04-apple-siri-app-intents",
+          "itemId": "2026-11-04-apple-siri-app-intents",
+          "editionDate": "2026-11-04",
+          "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-11-03T20:16:17.000Z",
+          "title": "Apple向第三方开放Siri AI应用动作开发者预览"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-04"
+}

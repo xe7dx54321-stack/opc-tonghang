@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-46e58c17a78a76fb58c3dfcf",
+  "title": "Fal获13亿美元F轮融资，估值升至160亿美元",
+  "firstSeen": "2026-11-04",
+  "editionDate": "2026-11-04",
+  "occurrences": [
+    {
+      "id": "occ-46e58c17a78a76fb58c3dfcf",
+      "fact": {
+        "subject": "Fal",
+        "action": "完成融资",
+        "object": "13亿美元Series F及160亿美元估值",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-04",
+      "reports": [
+        {
+          "ref": "2026-11-04/2026-11-04-fal-series-f",
+          "itemId": "2026-11-04-fal-series-f",
+          "editionDate": "2026-11-04",
+          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-03T19:34:43.000Z",
+          "title": "Fal获13亿美元F轮融资，估值升至160亿美元"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-04"
+}

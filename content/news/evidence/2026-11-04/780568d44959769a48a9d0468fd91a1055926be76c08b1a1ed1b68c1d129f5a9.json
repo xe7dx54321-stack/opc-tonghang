@@ -1,0 +1,16 @@
+{
+  "snapshotId": "780568d44959769a48a9d0468fd91a1055926be76c08b1a1ed1b68c1d129f5a9",
+  "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+  "publishedAt": "2026-11-03T17:56:52.000Z",
+  "publishedAtQuote": "2026-11-03T17:56:52+00:00",
+  "retrievedAt": "2026-11-03T23:40:26.049Z",
+  "method": "agent-tool",
+  "contentHash": "362750b84923c0d27309d7215c424aaf2402228fb0404d6364d54b6650960810",
+  "quotations": [
+    "CrowdStrike is buying two AI security companies",
+    "Fiddler AI",
+    "Dreadnode",
+    "it will buy\nFiddler AI\n, which makes observability software for monitoring AI agents inside enterprises, and\nDreadnode\n, which helps companies automate security testing specifically aimed at detecting flaws in AI models, apps, and agents before they are set live.",
+    "The company is paying around $400 million for Fiddler AI, and about $95 million for Dreadnode,\naccording to The Wall Street Journal"
+  ]
+}

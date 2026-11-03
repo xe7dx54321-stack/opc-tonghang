@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-04",
+  "window": {
+    "start": 1793662200000,
+    "end": 1793748600000
+  },
+  "digestHash": "9883e6ec93539e352c89654baba5e448f63d73c9a441c54dc84376bf5ceda2b3",
+  "stories": [
+    {
+      "heading": "AMD第三季度数据中心收入85亿美元，同比增长97%",
+      "itemId": "2026-11-04-amd-q3-earnings",
+      "eventId": "event-07d43f91553e8261857df2a3",
+      "occurrenceId": "occ-07d43f91553e8261857df2a3"
+    },
+    {
+      "heading": "OpenAI展示Astra参与硬件设计：原型已造出，量产约束仍需人工审查",
+      "itemId": "2026-11-04-openai-physical-engineering",
+      "eventId": "event-0033f8db2850753176e22ded",
+      "occurrenceId": "occ-0033f8db2850753176e22ded"
+    },
+    {
+      "heading": "Apple向第三方开放Siri AI应用动作开发者预览",
+      "itemId": "2026-11-04-apple-siri-app-intents",
+      "eventId": "event-144ad7ef189af1a1be19d6d6",
+      "occurrenceId": "occ-144ad7ef189af1a1be19d6d6"
+    },
+    {
+      "heading": "CrowdStrike拟收购Fiddler与Dreadnode，补齐Agent观测和攻防测试",
+      "itemId": "2026-11-04-crowdstrike-fiddler-dreadnode",
+      "eventId": "event-8125a459a3f0eae8253cacea",
+      "occurrenceId": "occ-8125a459a3f0eae8253cacea"
+    },
+    {
+      "heading": "Fal获13亿美元F轮融资，估值升至160亿美元",
+      "itemId": "2026-11-04-fal-series-f",
+      "eventId": "event-46e58c17a78a76fb58c3dfcf",
+      "occurrenceId": "occ-46e58c17a78a76fb58c3dfcf"
+    },
+    {
+      "heading": "百度首次披露Apollo World：把交通参与者做成可交互智能体",
+      "itemId": "2026-11-04-baidu-apollo-world",
+      "eventId": "event-773fd7a5744c6cf18041732d",
+      "occurrenceId": "occ-773fd7a5744c6cf18041732d"
+    },
+    {
+      "heading": "蚂蚁灵波在乌镇展示机器人通用大脑与智慧药房场景",
+      "itemId": "2026-11-04-ant-lingbo-wuzhen",
+      "eventId": "event-3563c1a89e351404f8221b43",
+      "occurrenceId": "occ-3563c1a89e351404f8221b43"
+    },
+    {
+      "heading": "上海凯锐恩披露晶圆保护流体材料及热压设备验证进展",
+      "itemId": "2026-11-04-kairuien-wafer-protection",
+      "eventId": "event-39c664608ba01205499de8f7",
+      "occurrenceId": "occ-39c664608ba01205499de8f7"
+    },
+    {
+      "heading": "元环智能完成两轮合计数亿元融资，押注“元模型”路线",
+      "itemId": "2026-11-04-metacircle-financing",
+      "eventId": "event-858b889f08400662cc241a6c",
+      "occurrenceId": "occ-858b889f08400662cc241a6c"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-04-amd-q3-earnings.json": "2eb9e99ab880e980914449b2efbbcb93bba329d8c06b196c8417d94dd08d205c",
+    "2026-11-04-ant-lingbo-wuzhen.json": "b43d208e29d7d890f934cdeb571e8445b11f3f58a91f7a62d8aa784c1ef9b456",
+    "2026-11-04-apple-siri-app-intents.json": "fc348421b37154df0008db17543b3b6664343580ce591281f5569fe8346e392e",
+    "2026-11-04-baidu-apollo-world.json": "d445eaf9e0de559d9786bb0d39e4f27b64a188a370d0e52a5346ac19d2ca5d49",
+    "2026-11-04-crowdstrike-fiddler-dreadnode.json": "d40dabe6ea4a17649dc96fd21b7f6d15b8a3b0b9b63cf4dd0da647a233eb2c85",
+    "2026-11-04-fal-series-f.json": "d5169141fb30d0efa41925739c2579cc0d6b05cebf88719c80d49ec23d078b87",
+    "2026-11-04-kairuien-wafer-protection.json": "fd0e86939d4378aa224455b1fd54dbd7827a8cbe01dd86546121b5d1bbf0ee86",
+    "2026-11-04-metacircle-financing.json": "3fe6e6ed7c8238dc6459ccb203893515b00c2684c27380f605a54fc264e71546",
+    "2026-11-04-openai-physical-engineering.json": "72239e70048ae448a2c432837f93f54229c05e321f8406bcaf5b0edff63ec149"
+  },
+  "evidenceHashes": {
+    "066de5523746436205d5d38824162c5d2278c5ff3224b0c16338c4317971f839.json": "6e8ac342d1ed43020e056b219fae6931d685fd09137dde696003ce4f1fed737e",
+    "4a04dfe7528cb1d0bd002fe4d520f056b0ce12bcae0b0c9da5bceb55e1354f79.json": "e75c581b346789639117ff4ff4ed07510bd2cb3ef70d350f909b16b194a0c281",
+    "59c717c9064ae3b87c9b27a9cd15d6b81d8b6f7cac420b969b3d5a3ef5579af0.json": "90104399971f7a5483a841aa8535910ffbe9b497d8cbb996ff4745c67e1ffc87",
+    "780568d44959769a48a9d0468fd91a1055926be76c08b1a1ed1b68c1d129f5a9.json": "abb1eee2f065c95af21a8ffb7f28e63f20a68a78907fccaebf12622b07312a58",
+    "7a0316caa4feb76d50ffea0fa2d730cfc99996b7eaa6f67e67196dc17478d475.json": "ec079618a08c348001924f7f352dc2fcd601b54cf54e1bb059b668e6ab54bee3",
+    "af5cd74339a2ae4d87e4c995b365eb2e54933735ab74a41d647e2d07ff3dde70.json": "16a3c01926cbf39f4dd911c2c1eb5369a750b4d3742849dcc67aff3cf3e2a810",
+    "ba7a7c9216f82cb3dd09453eeca9f8397a9aa0185eff4d16163fae1807d7a04f.json": "ba913bdcf9c492d1f51948274676b9c89eaa635a4829a1c78244bcbe10f5e6a8",
+    "cdb831da89a24860165691bb230715f10e4039ff828eca3863d279bb64a19c1f.json": "a2a217eded0b6c0c283bb7ec8589a2d92b9dc95f16d88ed06858f6d318184fc5",
+    "d5c958336a5f0bd79bc6b6c9805fe3e73d93ce08a5babb44189f2890313fc307.json": "f4d9d8e1517618020d638a27820014a896e4b229be2b0327cc3fe905c105fd41"
+  },
+  "eventsHashes": {
+    "event-0033f8db2850753176e22ded.json": "808245a3e098753b0b9e59e4e61eb6d531d4484f97e8af3c8e89ef30fd47d8a8",
+    "event-07d43f91553e8261857df2a3.json": "de0603479e6e9a82ce7663464d3baeaa26e5574df7be7ff612144d33d2758b7a",
+    "event-144ad7ef189af1a1be19d6d6.json": "bc6e551e83f485bde5a67ba0b6d7f535086fa3a22f7bc6e16a4ed467bc48051f",
+    "event-3563c1a89e351404f8221b43.json": "2f0f03f948143be4413d051d0ba59bd6ebb4a35b8ff17d17c63b2217d2eeb80c",
+    "event-39c664608ba01205499de8f7.json": "44eeac6a6a5ad3b50c661164ce36378539bc174bba48c62ee1ba7544a3fb0ecc",
+    "event-46e58c17a78a76fb58c3dfcf.json": "bdf65d875c3b3c5ae7a6d2d64c08caa3dcef1d8122b0ed56b5d9f3f370344c85",
+    "event-773fd7a5744c6cf18041732d.json": "13e3253c4d1b930dbe07afcdcb2c7895de09659a5a9bb0cf52d0814146d7c843",
+    "event-8125a459a3f0eae8253cacea.json": "b3eb8cca8b68c6b1936028bddb4c01a03396340c9ecf1baa947816e600b07c53",
+    "event-858b889f08400662cc241a6c.json": "216ab7b12d2712d6af579a35d113f5cd347a29ddbacb95276ffb4fcf83a15571"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-773fd7a5744c6cf18041732d",
+  "title": "百度首次披露Apollo World：把交通参与者做成可交互智能体",
+  "firstSeen": "2026-11-04",
+  "editionDate": "2026-11-04",
+  "occurrences": [
+    {
+      "id": "occ-773fd7a5744c6cf18041732d",
+      "fact": {
+        "subject": "百度Apollo",
+        "action": "首次披露",
+        "object": "Apollo World智能体驱动全模态世界模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-04",
+      "reports": [
+        {
+          "ref": "2026-11-04/2026-11-04-baidu-apollo-world",
+          "itemId": "2026-11-04-baidu-apollo-world",
+          "editionDate": "2026-11-04",
+          "url": "https://www.leiphone.com/category/industrynews/NVxn28w1vAG2qbFy.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-03T13:59:00.000Z",
+          "title": "百度首次披露Apollo World：把交通参与者做成可交互智能体"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-04"
+}

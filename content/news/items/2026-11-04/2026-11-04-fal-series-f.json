@@ -1,0 +1,67 @@
+{
+  "id": "2026-11-04-fal-series-f",
+  "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+  "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AI",
+    "Fal",
+    "The",
+    "Bessemer"
+  ],
+  "publishedAt": "2026-11-03T19:34:43.000Z",
+  "fetchedAt": "2026-11-03T19:43:47.407Z",
+  "summary": "TechCrunch于11月3日报道，多模态模型推理平台Fal完成13亿美元F轮融资，由Bessemer领投，Nvidia等参与，估值160亿美元。公司同时披露E轮和F轮合计融资16.5亿美元。",
+  "investorNote": "融资估值反映市场看好可调用的多模态推理需求，后续应核对毛利率而非只看调用规模。",
+  "score": 0.87,
+  "duplicateOf": null,
+  "clusterId": "event-46e58c17a78a76fb58c3dfcf",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Fal",
+    "action": "完成融资",
+    "object": "13亿美元Series F及160亿美元估值",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "af5cd74339a2ae4d87e4c995b365eb2e54933735ab74a41d647e2d07ff3dde70",
+    "originalUrl": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "originalPublishedAt": "2026-11-03T19:34:43.000Z",
+    "checkedAt": "2026-11-03T23:40:26.021Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "af5cd74339a2ae4d87e4c995b365eb2e54933735ab74a41d647e2d07ff3dde70",
+      "kind": "fact",
+      "quote": "has raised $1.3 billion in its latest funding round led by Bessemer Venture Partners"
+    },
+    {
+      "snapshotId": "af5cd74339a2ae4d87e4c995b365eb2e54933735ab74a41d647e2d07ff3dde70",
+      "kind": "condition",
+      "quote": "The deal values Fal at $16 billion, double its $8 billion valuation in April"
+    },
+    {
+      "snapshotId": "af5cd74339a2ae4d87e4c995b365eb2e54933735ab74a41d647e2d07ff3dde70",
+      "kind": "fact",
+      "quote": "its Series E and F rounds at the same time, noting that a combined $1.65 billion was raised across both."
+    }
+  ],
+  "displayTitle": "Fal获13亿美元F轮融资，估值升至160亿美元",
+  "narrative": "Fal的筹码是把视频、图像和音频模型变成统一可调用服务。160亿美元估值较4月翻倍，说明资本在押注推理分发层；但算力成本高，收入增长并不自动转化为可持续利润。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文描述独立的新披露或进展，近两周事件目录中没有同一次发生的可确认记录"
+  },
+  "eventId": "event-46e58c17a78a76fb58c3dfcf",
+  "occurrenceId": "occ-46e58c17a78a76fb58c3dfcf",
+  "relatedItems": []
+}

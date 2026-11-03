@@ -1,0 +1,75 @@
+{
+  "id": "2026-11-04-openai-physical-engineering",
+  "title": "Accelerating engineering for the physical world",
+  "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+  "source": "openai-news",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "entities": [
+    "Accelerating",
+    "Discover",
+    "ChatGPT",
+    "Codex",
+    "CAD",
+    "PCB"
+  ],
+  "publishedAt": "2026-11-03T12:00:00.000Z",
+  "fetchedAt": "2026-11-03T19:13:22.551Z",
+  "summary": "OpenAI于11月3日公布Astra和Codex参与机械、电气及系统工程的试验，两名成员用不足一周设计出可与Codex对话的设备，代工厂随后制成小批原型。公司同时承认制造公差、装配细节和工厂限制仍须多轮人工审查。",
+  "investorNote": "工程设计的真正门槛在制造可行性与跨学科约束，原型速度不能直接等同于量产能力。",
+  "score": 0.91,
+  "duplicateOf": null,
+  "clusterId": "event-0033f8db2850753176e22ded",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "OpenAI",
+    "action": "公布工程设计与制造工作流测试",
+    "object": "Astra、Codex在机械和电气设计中的应用",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "OpenAI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "59c717c9064ae3b87c9b27a9cd15d6b81d8b6f7cac420b969b3d5a3ef5579af0",
+    "originalUrl": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "originalPublishedAt": "2026-11-03T12:00:00.000Z",
+    "checkedAt": "2026-11-03T23:40:25.895Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "59c717c9064ae3b87c9b27a9cd15d6b81d8b6f7cac420b969b3d5a3ef5579af0",
+      "kind": "fact",
+      "quote": "Today, we’re sharing advances in how OpenAI models help engineers design, simulate, and build physical products."
+    },
+    {
+      "snapshotId": "59c717c9064ae3b87c9b27a9cd15d6b81d8b6f7cac420b969b3d5a3ef5579af0",
+      "kind": "condition",
+      "quote": "Getting the device ready for manufacturing still required several rounds of review and iteration."
+    },
+    {
+      "snapshotId": "59c717c9064ae3b87c9b27a9cd15d6b81d8b6f7cac420b969b3d5a3ef5579af0",
+      "kind": "fact",
+      "quote": "A newer internal model achieved an average score of 0.875, compared with 0.594 for GPT‑6 Astra at its highest reasoning setting."
+    },
+    {
+      "snapshotId": "59c717c9064ae3b87c9b27a9cd15d6b81d8b6f7cac420b969b3d5a3ef5579af0",
+      "kind": "fact",
+      "quote": "Two team members designed this test device with Astra in under a week while working on it as a side project. A contract manufacturer built a small batch of prototypes in under a month."
+    }
+  ],
+  "displayTitle": "OpenAI展示Astra参与硬件设计：原型已造出，量产约束仍需人工审查",
+  "narrative": "OpenAI展示了Astra辅助完成外壳、PCB与软件集成的硬件原型，并公开制造环节仍需人工复核的限制。内部BenchCAD 2.0成绩提升说明能力在进步，但这是公司自测，不能外推成端到端无人制造。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期原文描述独立的新披露或进展，近两周事件目录中没有同一次发生的可确认记录"
+  },
+  "eventId": "event-0033f8db2850753176e22ded",
+  "occurrenceId": "occ-0033f8db2850753176e22ded",
+  "relatedItems": []
+}
