@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-05",
+  "window": {
+    "start": 1793748600000,
+    "end": 1793835000000
+  },
+  "digestHash": "8f9487abb5c3fe1f7b658f0dff0f98bd4d4399d93af4fa882aad0e63cda2091c",
+  "stories": [
+    {
+      "heading": "OpenAI拟收购Pierre，补齐Codex的代码存储与审查工具",
+      "itemId": "2026-11-05-openai-pierre",
+      "eventId": "event-b675bfe82cf19fbca63b5f72",
+      "occurrenceId": "occ-b675bfe82cf19fbca63b5f72"
+    },
+    {
+      "heading": "腾讯发布Hy4正式版：视觉与电脑操作上线，权重尚待开源",
+      "itemId": "2026-11-05-tencent-hy4",
+      "eventId": "event-a514981bc7764f1e8dadd59f",
+      "occurrenceId": "occ-a514981bc7764f1e8dadd59f"
+    },
+    {
+      "heading": "Meta收购并行编码Agent工具Conductor，云服务将关闭",
+      "itemId": "2026-11-05-meta-conductor",
+      "eventId": "event-6f6559231f68afb8566eb3ee",
+      "occurrenceId": "occ-6f6559231f68afb8566eb3ee"
+    },
+    {
+      "heading": "Waymo与Uber在奥斯汀和亚特兰大的独家安排将于2028年结束",
+      "itemId": "2026-11-05-waymo-uber-exclusivity",
+      "eventId": "event-8cdaa77415a0d703d3b25ebe",
+      "occurrenceId": "occ-8cdaa77415a0d703d3b25ebe"
+    },
+    {
+      "heading": "Anthropic推出FlashProve原型，尝试证明模型回复的来源",
+      "itemId": "2026-11-05-anthropic-flashprove",
+      "eventId": "event-aa7b10e7223f3e20a15ce974",
+      "occurrenceId": "occ-aa7b10e7223f3e20a15ce974"
+    },
+    {
+      "heading": "Ricursive发布Ripple-65B预览版，押注代码Agent与芯片设计",
+      "itemId": "2026-11-05-ricursive-ripple65b",
+      "eventId": "event-fc1693651aa3f1f3e71bd22f",
+      "occurrenceId": "occ-fc1693651aa3f1f3e71bd22f"
+    },
+    {
+      "heading": "灵感机器人获数千万元天使轮，押注视触觉与力控",
+      "itemId": "2026-11-05-linggan-touch-seed",
+      "eventId": "event-bac14002a9ba0b63c52c791b",
+      "occurrenceId": "occ-bac14002a9ba0b63c52c791b"
+    },
+    {
+      "heading": "雷峰网称后摩智能完成数十亿元B轮，继续投入端侧存算一体",
+      "itemId": "2026-11-05-houmo-seriesb",
+      "eventId": "event-a64719a24f5841d988494028",
+      "occurrenceId": "occ-a64719a24f5841d988494028"
+    },
+    {
+      "heading": "openJiuwen上线视听双流记忆，长视频按事件建索引",
+      "itemId": "2026-11-05-openjiuwen-omnimem",
+      "eventId": "event-d1903811451ca7e32beb7a9b",
+      "occurrenceId": "occ-d1903811451ca7e32beb7a9b"
+    },
+    {
+      "heading": "LiberAI发布Liber-0，尝试用人类动作数据训练机器人操作",
+      "itemId": "2026-11-05-liberai-liber0",
+      "eventId": "event-2a1b7d69d72b59ac8c452e95",
+      "occurrenceId": "occ-2a1b7d69d72b59ac8c452e95"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-05-anthropic-flashprove.json": "a1c1ea6f8973cdedc6d3e8e826111330263da33d05716894e7bbf9dcd0c3e5f7",
+    "2026-11-05-houmo-seriesb.json": "1b673129ff9f24bad206eae81d9c99418abe82d0d33e5e1d8c57584a6a4bdb84",
+    "2026-11-05-liberai-liber0.json": "c5c83cf1b59bcc46e28a2a50c019fd48ea48fa038f04d532eb33d0021a22902b",
+    "2026-11-05-linggan-touch-seed.json": "2a7e42a1d944879fc6ca6c83dd629997d40cf0ebf3b20c897bcf27a470c16f27",
+    "2026-11-05-meta-conductor.json": "835a81ec95572da2d392999687d4c84f0d5dc99e216f57fedcdceb2db7e47546",
+    "2026-11-05-openai-pierre.json": "ce2a4f75cbad08095bfaaf947a3ea6cc09698ae33cf1359401505e6f2484cf79",
+    "2026-11-05-openjiuwen-omnimem.json": "fca176b023435467944d2c4cb56dda2f8040cf4c82052e298daa10bb21d4e7ee",
+    "2026-11-05-ricursive-ripple65b.json": "6813f5acbd216dce4edd10877b2fff0b7c2622a06b2cbff381bb5eeefeb0c1a4",
+    "2026-11-05-tencent-hy4.json": "3a2eed0c4f236d2a4b16d7c1f114fb9a9da8998f20f8b36b2c1d35cac76b06a8",
+    "2026-11-05-waymo-uber-exclusivity.json": "fb2ee996555dcf8424695945cf7ee07bd8050196a495493820066796ff6b532f"
+  },
+  "evidenceHashes": {
+    "094329e72f69a45af880872f76dab7d8228fb65461560071eac48109c92b783f.json": "81e68c7d935032bea12a68d70302bbd722261152f29407351f74222c5f9230ec",
+    "16f394cbd1baa9fd55ae6caf860774ed40f5f618f80e91ed1e25a63b86d41a47.json": "82f7bb3b4c66283a9dc4a9909893beb9240ff01dec4270b64db95abfe8f4487c",
+    "2cc4dffce098a7d037f54b0688797a724a03d28306530dd85988fb5f6fd1d0ee.json": "69372963c300b4a2cb9ae2a691e12c43a41a840f7fa63501fd30a5def13a3e46",
+    "70e389c292eb80e9f30045b727254d5d5875d3f3cd7e59dda55d55423bf3bde3.json": "85adfabbc1e0e11f639f286c94a662da982de55edf7ace3538115b48f4be5b12",
+    "8ef0713d5ae52d39de7def9fc2e1b46d35a5ec6c473d0d7c6c87edf4e1effb59.json": "e1aedd807029644e36397d835da13a0c549fd873a772f18ba35a7b345f3a6895",
+    "abdeba4f313712962f3530f5874d8e0687a32d9739b02ea4a8bfc521b3c31d46.json": "ae2aed49e336a810df9ae6cd0bb3c82172b696dd00511f2f0903c2782c7c097f",
+    "b325983a995306086e6dd08b4e6eb836298a0c65a04d84612796d9f4689bd18d.json": "e668109177c2e9ad42774b03cf98c715fc867656a3307d2943c979867eacbfa7",
+    "cd72b40c52f685197863fac4e59fa7895d3baa3fdc089903c7e14c11c57f6c51.json": "807118970d07ba2d41803dc5727325e3191978de92b05b0bd9ef72bc26a7865f",
+    "d866d3a260fa12902469f53f5e28c0ca12f03d02d6cb200850c4f781db84f721.json": "d28c3daa6445602f76334a12179e80c94d9d089d150166beb4b2c27a3437fb62",
+    "f073194ea13a0167c1d5e078a575ac94bc260943c018d9625d21c724b7e03715.json": "f5cae16e1bab7e37a4a3d8d6f11d7a9cde2d040fae09d5cbbc41f5dc75e6e7a4"
+  },
+  "eventsHashes": {
+    "event-2a1b7d69d72b59ac8c452e95.json": "30d9cb90f43857c306a1689f6b16433b76b1e2d07f0954d9d6372f41b7534eba",
+    "event-6f6559231f68afb8566eb3ee.json": "0c36ecc99528c16659aee58ff86ae11c74829848135283d45ec6002b9a34eda9",
+    "event-8cdaa77415a0d703d3b25ebe.json": "b718cf5b6934602d36b52d822c8c56c0667aba729428c3ac825dec8736161bfd",
+    "event-a514981bc7764f1e8dadd59f.json": "62022ab0eecddb45ded4b578c84e07e16d9f0b65fdcceb8dccbbfa3708d804f9",
+    "event-a64719a24f5841d988494028.json": "e7fdee18e314da03622326ae84cb50029d433499568fb1f0893f0962601f6771",
+    "event-aa7b10e7223f3e20a15ce974.json": "8f37363b6d60b4ee62e524e70be873810f0d6f2c4179c03e635c6e3bb22abe5d",
+    "event-b675bfe82cf19fbca63b5f72.json": "fc85d39ff2273dc0f417d85c4fc7f813972e913124154929ab2dca9bef7abdf4",
+    "event-bac14002a9ba0b63c52c791b.json": "dac5003934572e617dd5334cbeb43fe8e4a051f3dbb5583c526c046beb310498",
+    "event-d1903811451ca7e32beb7a9b.json": "eec9f745a0eeafab14f3f60693cdae97917078bf6632c5c2e7ce249832c58406",
+    "event-fc1693651aa3f1f3e71bd22f.json": "98765b27096ed810a3cfada636c69787ea2e20445186252ec6dea9ad7a9e831a"
+  }
+}

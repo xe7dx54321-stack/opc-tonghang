@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-05",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-7016a36f872c541dcbfc",
+      "title": "OpenAI拟收购Pierre",
+      "summary": "OpenAI宣布拟收购Pierre以扩展Codex代码工具，交易尚待交割。",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "openai.com",
+          "url": "https://openai.com/index/openai-to-acquire-pierre"
+        },
+        {
+          "name": "the-decoder.com",
+          "url": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents"
+        }
+      ],
+      "memberUrls": [
+        "https://openai.com/index/openai-to-acquire-pierre",
+        "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents"
+      ]
+    }
+  ]
+}

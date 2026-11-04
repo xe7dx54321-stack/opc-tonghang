@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-05",
+  "itemCount": 10,
+  "storyCount": 10,
+  "clusterCount": 10,
+  "files": [
+    "2026-11-05-openai-pierre.json",
+    "2026-11-05-openjiuwen-omnimem.json",
+    "2026-11-05-meta-conductor.json",
+    "2026-11-05-waymo-uber-exclusivity.json",
+    "2026-11-05-anthropic-flashprove.json",
+    "2026-11-05-ricursive-ripple65b.json",
+    "2026-11-05-linggan-touch-seed.json",
+    "2026-11-05-houmo-seriesb.json",
+    "2026-11-05-tencent-hy4.json",
+    "2026-11-05-liberai-liber0.json"
+  ],
+  "representatives": [
+    "2026-11-05-openai-pierre",
+    "2026-11-05-openjiuwen-omnimem",
+    "2026-11-05-meta-conductor",
+    "2026-11-05-waymo-uber-exclusivity",
+    "2026-11-05-anthropic-flashprove",
+    "2026-11-05-ricursive-ripple65b",
+    "2026-11-05-linggan-touch-seed",
+    "2026-11-05-houmo-seriesb",
+    "2026-11-05-tencent-hy4",
+    "2026-11-05-liberai-liber0"
+  ]
+}

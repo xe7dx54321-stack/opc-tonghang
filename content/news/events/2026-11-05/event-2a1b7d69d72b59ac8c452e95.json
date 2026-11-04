@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-2a1b7d69d72b59ac8c452e95",
+  "title": "LiberAI发布Liber-0，尝试用人类动作数据训练机器人操作",
+  "firstSeen": "2026-11-05",
+  "editionDate": "2026-11-05",
+  "occurrences": [
+    {
+      "id": "occ-2a1b7d69d72b59ac8c452e95",
+      "fact": {
+        "subject": "LiberAI",
+        "action": "introduced",
+        "object": "Liber-0 world action model",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-05",
+      "reports": [
+        {
+          "ref": "2026-11-05/2026-11-05-liberai-liber0",
+          "itemId": "2026-11-05-liberai-liber0",
+          "editionDate": "2026-11-05",
+          "url": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/",
+          "source": "robot-report",
+          "owner": "LiberAI",
+          "role": "principal",
+          "publishedAt": "2026-11-04T15:02:57Z",
+          "title": "LiberAI发布Liber-0，尝试用人类动作数据训练机器人操作"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-05"
+}

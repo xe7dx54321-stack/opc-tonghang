@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6f6559231f68afb8566eb3ee",
+  "title": "Meta收购并行编码Agent工具Conductor，云服务将关闭",
+  "firstSeen": "2026-11-05",
+  "editionDate": "2026-11-05",
+  "occurrences": [
+    {
+      "id": "occ-6f6559231f68afb8566eb3ee",
+      "fact": {
+        "subject": "Meta",
+        "action": "acquired",
+        "object": "Conductor",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-05",
+      "reports": [
+        {
+          "ref": "2026-11-05/2026-11-05-meta-conductor",
+          "itemId": "2026-11-05-meta-conductor",
+          "editionDate": "2026-11-05",
+          "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-04T21:10:56Z",
+          "title": "Meta收购并行编码Agent工具Conductor，云服务将关闭"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-05"
+}

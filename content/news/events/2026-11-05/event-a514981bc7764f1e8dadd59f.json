@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a514981bc7764f1e8dadd59f",
+  "title": "腾讯发布Hy4正式版：视觉与电脑操作上线，权重尚待开源",
+  "firstSeen": "2026-11-05",
+  "editionDate": "2026-11-05",
+  "occurrences": [
+    {
+      "id": "occ-a514981bc7764f1e8dadd59f",
+      "fact": {
+        "subject": "腾讯",
+        "action": "released",
+        "object": "Hy4 正式版",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-05",
+      "reports": [
+        {
+          "ref": "2026-11-05/2026-11-05-tencent-hy4",
+          "itemId": "2026-11-05-tencent-hy4",
+          "editionDate": "2026-11-05",
+          "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999387&idx=2&sn=01508cb12ec8ee8a5c8b53b891fb595b",
+          "source": "wechat-tencent-research",
+          "owner": "腾讯",
+          "role": "principal",
+          "publishedAt": "2026-11-04T18:10:00+08:00",
+          "title": "腾讯发布Hy4正式版：视觉与电脑操作上线，权重尚待开源"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-05"
+}

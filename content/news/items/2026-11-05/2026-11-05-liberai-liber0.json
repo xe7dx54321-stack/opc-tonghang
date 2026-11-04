@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-05-liberai-liber0",
+  "url": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/",
+  "publishedAt": "2026-11-04T15:02:57Z",
+  "fact": {
+    "subject": "LiberAI",
+    "action": "introduced",
+    "object": "Liber-0 world action model",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "LiberAI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "abdeba4f313712962f3530f5874d8e0687a32d9739b02ea4a8bfc521b3c31d46",
+    "originalUrl": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/",
+    "originalPublishedAt": "2026-11-04T15:02:57Z",
+    "checkedAt": "2026-11-04T23:36:29.093Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "abdeba4f313712962f3530f5874d8e0687a32d9739b02ea4a8bfc521b3c31d46",
+      "kind": "fact",
+      "quote": "LiberAI\nhas introduced Liber-0, a world action model (WAM) pretrained on more than 2.2 million hours of human experience. The Beijing-based startup said the model combines human video with glove-recorded motion and embodiment-conditioned learning to transfer human manipulation experience to robots."
+    },
+    {
+      "snapshotId": "abdeba4f313712962f3530f5874d8e0687a32d9739b02ea4a8bfc521b3c31d46",
+      "kind": "condition",
+      "quote": "Here, zero-shot means the evaluated checkpoint was not trained on robot demonstrations collected specifically for these target tasks; pretraining still included robot data."
+    },
+    {
+      "snapshotId": "abdeba4f313712962f3530f5874d8e0687a32d9739b02ea4a8bfc521b3c31d46",
+      "kind": "condition",
+      "quote": "LiberAI reported task success rates of 63.5% on pick-and-place tasks, 34.0% on non-pick-and-place manipulation tasks and 10.5% on challenging non-pick-and-place and long-horizon tasks, with an overall success rate of 36.0% across 600 trials."
+    }
+  ],
+  "title": "LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action",
+  "displayTitle": "LiberAI发布Liber-0，尝试用人类动作数据训练机器人操作",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [
+    "LiberAI",
+    "Liber-0"
+  ],
+  "fetchedAt": "2026-11-04T15:29:36.669Z",
+  "summary": "The Robot Report刊登LiberAI赞助内容，介绍Liber-0世界动作模型及其以人类视频和手套动作数据预训练的路线；60项任务的成功率为公司自测。",
+  "investorNote": "人类动作数据可降低逐任务遥操作采集成本，但零样本定义仍包含既有机器人预训练，距离稳定复杂操作有明显差距。",
+  "narrative": "LiberAI在The Robot Report的赞助内容中介绍Liber-0，称模型使用超过220万小时的人类经验数据，并在60项由GPT-6提出的任务、600次试验中取得36%总体成功率。**这里的“零样本”只指没有为目标任务另采机器人示教**，预训练仍使用机器人数据；复杂长程任务成功率为10.5%。这条路线的价值是减少逐任务示教，但这些数字来自厂商测试，距离可持续部署还有明显验证空间。",
+  "score": 0.66,
+  "duplicateOf": null,
+  "clusterId": "event-2a1b7d69d72b59ac8c452e95",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当日独立动作；与近两周已存事件的具体发生不同"
+  },
+  "eventId": "event-2a1b7d69d72b59ac8c452e95",
+  "occurrenceId": "occ-2a1b7d69d72b59ac8c452e95",
+  "relatedItems": []
+}

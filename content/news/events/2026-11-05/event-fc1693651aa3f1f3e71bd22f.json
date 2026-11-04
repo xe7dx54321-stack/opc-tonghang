@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-fc1693651aa3f1f3e71bd22f",
+  "title": "Ricursive发布Ripple-65B预览版，押注代码Agent与芯片设计",
+  "firstSeen": "2026-11-05",
+  "editionDate": "2026-11-05",
+  "occurrences": [
+    {
+      "id": "occ-fc1693651aa3f1f3e71bd22f",
+      "fact": {
+        "subject": "Ricursive Intelligence",
+        "action": "released preview",
+        "object": "Ripple-65B open-weight model",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-05",
+      "reports": [
+        {
+          "ref": "2026-11-05/2026-11-05-ricursive-ripple65b",
+          "itemId": "2026-11-05-ricursive-ripple65b",
+          "editionDate": "2026-11-05",
+          "url": "https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/",
+          "source": "marktechpost",
+          "owner": "MarkTechPost",
+          "role": "observer",
+          "publishedAt": "2026-11-04T21:01:06Z",
+          "title": "Ricursive发布Ripple-65B预览版，押注代码Agent与芯片设计"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-05"
+}

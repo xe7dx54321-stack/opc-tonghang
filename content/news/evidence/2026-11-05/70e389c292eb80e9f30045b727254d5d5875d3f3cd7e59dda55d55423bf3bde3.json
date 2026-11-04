@@ -1,0 +1,13 @@
+{
+  "snapshotId": "70e389c292eb80e9f30045b727254d5d5875d3f3cd7e59dda55d55423bf3bde3",
+  "url": "https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/",
+  "publishedAt": "2026-11-04T21:01:06Z",
+  "publishedAtQuote": "2026-11-04T21:01:06+00:00",
+  "retrievedAt": "2026-11-04T23:36:01.868Z",
+  "method": "agent-tool",
+  "contentHash": "702907a701c453889f0d811cc959242c830257cf91452b12c64cafac4e8b08ea",
+  "quotations": [
+    "Ricursive Intelligence\njust released\nRipple-65B Preview\n. Ripple-65B Preview is a 65B dense open-weight model from Ricursive, pretrained from scratch for agentic coding. It is a general-purpose variant of the proprietary model behind Ricursive’s AI chip design platform. The main claim:\n80.52 on Terminal-Bench 2.1\n, the top self-reported score among US open-weight models. Every MoE rival it beats on that test carries 501B to 975B total parameters.",
+    "The release includes\n3 checkpoints\n: an instruction-tuned BF16 model, an\nNVFP4 version\n, and a\nBF16 base model\n. All ship under Apache 2.0. Pretraining used a text-only corpus, mostly English and code, at 8K sequence length."
+  ]
+}

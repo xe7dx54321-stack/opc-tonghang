@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-05-linggan-touch-seed",
+  "url": "https://www.leiphone.com/category/industrynews/30nTa8g0yzQmZGys.html",
+  "publishedAt": "2026-11-05T00:38:00+08:00",
+  "fact": {
+    "subject": "灵感机器人",
+    "action": "completed angel financing",
+    "object": "数千万元融资与Lux视触觉传感器",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "f073194ea13a0167c1d5e078a575ac94bc260943c018d9625d21c724b7e03715",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/30nTa8g0yzQmZGys.html",
+    "originalPublishedAt": "2026-11-05T00:38:00+08:00",
+    "checkedAt": "2026-11-04T23:36:01.899Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "f073194ea13a0167c1d5e078a575ac94bc260943c018d9625d21c724b7e03715",
+      "kind": "fact",
+      "quote": "雷峰网·鲸犀独家获悉，\n触觉智能企业“灵感机器人”新近完成数千万元天使轮融资\n，投资方包括力合资本、合\n肥\n创新投\n等机\n构，治臻咨询担任财务顾问。"
+    },
+    {
+      "snapshotId": "f073194ea13a0167c1d5e078a575ac94bc260943c018d9625d21c724b7e03715",
+      "kind": "condition",
+      "quote": "公司发布的 Lux 系列视触觉传感器已经在多个领域实现了规模化落地\n，其具备超高力场分辨率、原生多模态、多维力感知等特性，并且依靠更小的物距与体积，可以适配机械臂、夹爪、灵巧手等硬件。"
+    }
+  ],
+  "title": "独家 | 腾讯前高级研究员获数千万投资，锚定物理AI接触智能",
+  "displayTitle": "灵感机器人获数千万元天使轮，押注视触觉与力控",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "灵感机器人",
+    "Lux"
+  ],
+  "fetchedAt": "2026-11-04T19:02:57.749Z",
+  "summary": "雷峰网独家报道灵感机器人新近完成数千万元天使轮，投资方包括力合资本、合肥创新投；公司Lux视触觉传感器已用于机械臂、夹爪等场景。",
+  "investorNote": "灵巧操作的瓶颈之一是接触力与滑移感知；融资能否转化为标准化交付和持续订单，比演示指标更能验证这条路线。",
+  "narrative": "雷峰网独家披露，灵感机器人完成**数千万元天使轮融资**，投资方包括力合资本、合肥创新投。报道介绍，其Lux视触觉传感器从同次成像中提取受力、形变和滑移信息，可装到机械臂、夹爪和灵巧手上；公司称已有规模化交付，但未披露客户和出货量。融资计划用于产线与量产能力。机器人精细操作的难点在接触反馈，下一步更有说服力的指标是跨本体适配和持续交付，而非单次实验表现。",
+  "score": 0.72,
+  "duplicateOf": null,
+  "clusterId": "event-bac14002a9ba0b63c52c791b",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当日独立动作；与近两周已存事件的具体发生不同"
+  },
+  "eventId": "event-bac14002a9ba0b63c52c791b",
+  "occurrenceId": "occ-bac14002a9ba0b63c52c791b",
+  "relatedItems": []
+}

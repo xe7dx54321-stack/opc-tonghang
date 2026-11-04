@@ -1,0 +1,14 @@
+{
+  "snapshotId": "cd72b40c52f685197863fac4e59fa7895d3baa3fdc089903c7e14c11c57f6c51",
+  "url": "https://www.qbitai.com/2026/11/507533.html",
+  "publishedAt": "2026-11-04T10:49:02+08:00",
+  "publishedAtQuote": "2026-11-04\n10:49:02",
+  "retrievedAt": "2026-11-04T23:36:01.739Z",
+  "method": "agent-tool",
+  "contentHash": "9aa7fd847c89bd2384de4725fd7806bd3523bfdb6b3ecabbba5d605f350f1774",
+  "quotations": [
+    "openJiuwen AgentMemory\n正式上线了多模态记忆能力\nOmniMem-Lens\n：按秒盲切是记忆碎片化的元凶，按真实事件记忆才是正解——召回精度最高提升\n45.7%\n，在线问答时延最高降低\n97%\n。",
+    "在通用长视频基准Video-MME-L上提升8%，长视频理解基准LVbench上提升6.4%。\n最亮眼的是\nEgoLife-QA上的+45.7%\n——这个评测集以第一人称视角记录一整天的日常生活，事件密集、细节琐碎，恰恰是固定切分最容易失效的场景，也最能体现“按真实事件组织记忆”的价值。",
+    "视频越长，VLM直答需要“啃”的画面就越多，时延也就越长——LVbench上Qwen3-VL-8B要等34.5秒，OmniMem-Lens只需\n1.72秒\n，快了整整\n20倍\n。"
+  ]
+}

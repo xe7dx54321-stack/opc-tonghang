@@ -1,0 +1,13 @@
+{
+  "snapshotId": "16f394cbd1baa9fd55ae6caf860774ed40f5f618f80e91ed1e25a63b86d41a47",
+  "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+  "publishedAt": "2026-11-04T15:23:49Z",
+  "publishedAtQuote": "2026-11-04T15:23:49+00:00",
+  "retrievedAt": "2026-11-04T23:36:01.838Z",
+  "method": "agent-tool",
+  "contentHash": "4c2470f69551d3f19c6756e32f9697bd31b45e5ba2a2c8ae36d9b111ae1e9ded",
+  "quotations": [
+    "Anthropic says its new open-source research prototype FlashProve is designed to tackle this problem.",
+    "The system currently only proves contexts of up to 1,024 tokens, far below the context windows of current models. It hides the model's weights but not its underlying architecture. And the proof only works when the model picks the single most likely next token, not with the randomized outputs that chatbots typically produce in everyday use."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-05-anthropic-flashprove",
+  "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+  "publishedAt": "2026-11-04T15:23:49Z",
+  "fact": {
+    "subject": "Anthropic",
+    "action": "released research prototype",
+    "object": "FlashProve cryptographic inference verification",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "16f394cbd1baa9fd55ae6caf860774ed40f5f618f80e91ed1e25a63b86d41a47",
+    "originalUrl": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+    "originalPublishedAt": "2026-11-04T15:23:49Z",
+    "checkedAt": "2026-11-04T23:36:01.838Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "16f394cbd1baa9fd55ae6caf860774ed40f5f618f80e91ed1e25a63b86d41a47",
+      "kind": "fact",
+      "quote": "Anthropic says its new open-source research prototype FlashProve is designed to tackle this problem."
+    },
+    {
+      "snapshotId": "16f394cbd1baa9fd55ae6caf860774ed40f5f618f80e91ed1e25a63b86d41a47",
+      "kind": "condition",
+      "quote": "The system currently only proves contexts of up to 1,024 tokens, far below the context windows of current models. It hides the model's weights but not its underlying architecture. And the proof only works when the model picks the single most likely next token, not with the randomized outputs that chatbots typically produce in everyday use."
+    }
+  ],
+  "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
+  "displayTitle": "Anthropic推出FlashProve原型，尝试证明模型回复的来源",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "FlashProve"
+  ],
+  "fetchedAt": "2026-11-04T15:29:24.433Z",
+  "summary": "The Decoder报道Anthropic发布开源研究原型FlashProve，借助密码学证明回复由指定模型权重生成；目前上下文和采样方式限制明显。",
+  "investorNote": "模型路由和代理服务越多，客户越需要验证实际调用的模型身份；该原型距日常推理部署仍有性能和适用条件门槛。",
+  "narrative": "The Decoder报道Anthropic推出FlashProve研究原型：服务方先承诺模型权重，再为回复附上可验证的密码学证明，目标是让客户确认实际运行的模型。其现阶段**只能证明不超过1024 token的上下文，且要求选择最高概率下一词**，不能直接覆盖普通聊天的随机采样。模型调用经过越来越多路由层时，身份可验证性确有商业价值，但这仍是研究成果，不能当成现成的生产级审计方案。",
+  "score": 0.73,
+  "duplicateOf": null,
+  "clusterId": "event-aa7b10e7223f3e20a15ce974",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当日独立动作；与近两周已存事件的具体发生不同"
+  },
+  "eventId": "event-aa7b10e7223f3e20a15ce974",
+  "occurrenceId": "occ-aa7b10e7223f3e20a15ce974",
+  "relatedItems": []
+}

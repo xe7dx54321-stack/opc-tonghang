@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-05-waymo-uber-exclusivity",
+  "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
+  "publishedAt": "2026-11-04T18:12:30Z",
+  "fact": {
+    "subject": "Waymo",
+    "action": "announced end of exclusivity in 2028",
+    "object": "Uber Austin and Atlanta robotaxi arrangement",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8ef0713d5ae52d39de7def9fc2e1b46d35a5ec6c473d0d7c6c87edf4e1effb59",
+    "originalUrl": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
+    "originalPublishedAt": "2026-11-04T18:12:30Z",
+    "checkedAt": "2026-11-04T23:36:01.806Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8ef0713d5ae52d39de7def9fc2e1b46d35a5ec6c473d0d7c6c87edf4e1effb59",
+      "kind": "fact",
+      "quote": "Waymo will end its exclusivity with Uber in the Austin and Atlanta markets starting in January 2028, co-CEO Tekedra Mawakana told Bloomberg News in a\nreport\npublished Wednesday.\nThe robotaxi company will offer rides directly through its own smartphone app, like it does in other cities."
+    },
+    {
+      "snapshotId": "8ef0713d5ae52d39de7def9fc2e1b46d35a5ec6c473d0d7c6c87edf4e1effb59",
+      "kind": "condition",
+      "quote": "Uber confirmed to TechCrunch Wednesday that it still plans to host Waymo robotaxis on its app for as long as the two companies agree."
+    }
+  ],
+  "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
+  "displayTitle": "Waymo与Uber在奥斯汀和亚特兰大的独家安排将于2028年结束",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Waymo",
+    "Uber"
+  ],
+  "fetchedAt": "2026-11-04T20:34:26.714Z",
+  "summary": "TechCrunch根据Waymo联席CEO对彭博的表述报道，Waymo从2028年1月起结束奥斯汀和亚特兰大的Uber独家安排，并计划通过自有App接单；Uber仍可保留Waymo车辆入口。",
+  "investorNote": "这一调整把Waymo从Uber单一渠道转向双渠道分发；实际订单迁移和车队运营分工仍须观察，不能理解成两家公司立即全面分手。",
+  "narrative": "Waymo联席CEO向彭博表示，奥斯汀和亚特兰大两地与Uber的**独家安排将在2028年1月结束**，Waymo届时计划像其他城市一样通过自有App提供行程。TechCrunch又从Uber确认，双方同意的情况下Uber应用仍可展示Waymo车辆。这是渠道控制权的调整，并非立即终止合作；若Waymo能直接掌握用户关系，Uber在机器人出租车流量入口上的议价位置会受到检验。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "event-8cdaa77415a0d703d3b25ebe",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当日独立动作；与近两周已存事件的具体发生不同"
+  },
+  "eventId": "event-8cdaa77415a0d703d3b25ebe",
+  "occurrenceId": "occ-8cdaa77415a0d703d3b25ebe",
+  "relatedItems": []
+}

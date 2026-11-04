@@ -1,0 +1,14 @@
+{
+  "snapshotId": "094329e72f69a45af880872f76dab7d8228fb65461560071eac48109c92b783f",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999387&idx=2&sn=01508cb12ec8ee8a5c8b53b891fb595b",
+  "publishedAt": "2026-11-04T18:10:00+08:00",
+  "publishedAtQuote": "2026-11-04 18:10 北京",
+  "retrievedAt": "2026-11-04T23:36:01.964Z",
+  "method": "rss-syndication",
+  "retrievedFrom": "https://wechat2rss.bestblogs.dev/feed/6152301e0978bffb0a8284cab339262b9764dcfb.xml",
+  "contentHash": "b9eca16d8348c3cbab59b6291befe808585d8f67169538ab7419a158a26628d6",
+  "quotations": [
+    "今天，我们发布 Hy4 正式版。随着模型能力的再次全面跃升，Hy 首次跻身最强开源模型之列。 相比于 Hy4 preview，Hy4 显著扩展了预训练和后训练规模，首次引入了视觉能力，并大幅提升了指令遵循、长文理解、长程任务、深度研究等各项综合能力。",
+    "Hy4 已在腾讯云和 OpenRouter 上线，并可在 CodeBuddy / WorkBuddy、元宝、ima 等产品上体验，性能显著超过 Hy4 preview 的同时维持相同 API 价格。 我们计划开源模型权 重，并已联合 vLLM/SGLang 社区以及 Infe ract Inc. 提供开源生态支持。我们计划届时也发布模型系统卡片，包括更全面的安全评估等细节。"
+  ]
+}

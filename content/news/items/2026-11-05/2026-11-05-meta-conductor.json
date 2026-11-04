@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-05-meta-conductor",
+  "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+  "publishedAt": "2026-11-04T21:10:56Z",
+  "fact": {
+    "subject": "Meta",
+    "action": "acquired",
+    "object": "Conductor",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "b325983a995306086e6dd08b4e6eb836298a0c65a04d84612796d9f4689bd18d",
+    "originalUrl": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "originalPublishedAt": "2026-11-04T21:10:56Z",
+    "checkedAt": "2026-11-04T23:36:01.771Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "b325983a995306086e6dd08b4e6eb836298a0c65a04d84612796d9f4689bd18d",
+      "kind": "fact",
+      "quote": "Meta has acquired\nConductor\n, an AI coding startup that allows users to spin up software projects by deploying multiple agents into parallel workspaces."
+    },
+    {
+      "snapshotId": "b325983a995306086e6dd08b4e6eb836298a0c65a04d84612796d9f4689bd18d",
+      "kind": "condition",
+      "quote": "I have big news: Conductor is joining Meta,”\nwrote\nthe startup’s founder and CEO, Charlie Holtz, on Wednesday. “We have some big, crazy plans for the next interface,” he added, teasing that the company would have “something new” for customers to use by “early next year.”"
+    },
+    {
+      "snapshotId": "b325983a995306086e6dd08b4e6eb836298a0c65a04d84612796d9f4689bd18d",
+      "kind": "condition",
+      "quote": "Holtz said that, until early next year, Conductor’s core features would continue to work as they previously have. The exception is Conductor’s cloud service, which will shut down on November 20, after which the company will begin deleting user cloud data."
+    }
+  ],
+  "title": "Meta acquires AI coding startup Conductor",
+  "displayTitle": "Meta收购并行编码Agent工具Conductor，云服务将关闭",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Meta",
+    "Conductor"
+  ],
+  "fetchedAt": "2026-11-04T21:35:49.682Z",
+  "summary": "TechCrunch报道Meta已收购Conductor；公司公告确认加入Meta，并表示Conductor Cloud将在11月逐步停止服务。",
+  "investorNote": "并行编码Agent的界面与工作区管理可能成为平台竞争的一部分；对现有客户而言，云工作区迁移安排比收购价格更紧迫。",
+  "narrative": "TechCrunch报道Meta收购了并行编码Agent工具Conductor，公司创始人也确认加入Meta。Conductor允许工程师在多个隔离工作区让Agent同时处理项目；其更新日志显示，**Conductor Cloud将在11月20日关闭**，本地版在2027年初前继续获得模型更新和关键修复。Meta买到的是一套多Agent工作流和产品团队，现有用户眼下则需要处理云工作区迁移。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "event-6f6559231f68afb8566eb3ee",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当日独立动作；与近两周已存事件的具体发生不同"
+  },
+  "eventId": "event-6f6559231f68afb8566eb3ee",
+  "occurrenceId": "occ-6f6559231f68afb8566eb3ee",
+  "relatedItems": []
+}

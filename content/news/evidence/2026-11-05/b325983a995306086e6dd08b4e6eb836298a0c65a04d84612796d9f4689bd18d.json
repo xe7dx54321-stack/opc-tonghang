@@ -1,0 +1,14 @@
+{
+  "snapshotId": "b325983a995306086e6dd08b4e6eb836298a0c65a04d84612796d9f4689bd18d",
+  "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+  "publishedAt": "2026-11-04T21:10:56Z",
+  "publishedAtQuote": "2026-11-04T21:10:56+00:00",
+  "retrievedAt": "2026-11-04T23:36:01.771Z",
+  "method": "agent-tool",
+  "contentHash": "f9a4e91bf0253c9c44bccf6e622a923fc0264631074b126ab15b3e5d74ad1005",
+  "quotations": [
+    "Meta has acquired\nConductor\n, an AI coding startup that allows users to spin up software projects by deploying multiple agents into parallel workspaces.",
+    "I have big news: Conductor is joining Meta,”\nwrote\nthe startup’s founder and CEO, Charlie Holtz, on Wednesday. “We have some big, crazy plans for the next interface,” he added, teasing that the company would have “something new” for customers to use by “early next year.”",
+    "Holtz said that, until early next year, Conductor’s core features would continue to work as they previously have. The exception is Conductor’s cloud service, which will shut down on November 20, after which the company will begin deleting user cloud data."
+  ]
+}

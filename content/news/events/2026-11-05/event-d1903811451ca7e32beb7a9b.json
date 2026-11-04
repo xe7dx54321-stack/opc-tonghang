@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-d1903811451ca7e32beb7a9b",
+  "title": "openJiuwen上线视听双流记忆，长视频按事件建索引",
+  "firstSeen": "2026-11-05",
+  "editionDate": "2026-11-05",
+  "occurrences": [
+    {
+      "id": "occ-d1903811451ca7e32beb7a9b",
+      "fact": {
+        "subject": "openJiuwen",
+        "action": "released",
+        "object": "AgentMemory 0.2.0 OmniMem-Lens",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-05",
+      "reports": [
+        {
+          "ref": "2026-11-05/2026-11-05-openjiuwen-omnimem",
+          "itemId": "2026-11-05-openjiuwen-omnimem",
+          "editionDate": "2026-11-05",
+          "url": "https://www.qbitai.com/2026/11/507533.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "observer",
+          "publishedAt": "2026-11-04T10:49:02+08:00",
+          "title": "openJiuwen上线视听双流记忆，长视频按事件建索引"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-05"
+}

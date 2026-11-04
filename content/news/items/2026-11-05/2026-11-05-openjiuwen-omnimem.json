@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-05-openjiuwen-omnimem",
+  "url": "https://www.qbitai.com/2026/11/507533.html",
+  "publishedAt": "2026-11-04T10:49:02+08:00",
+  "fact": {
+    "subject": "openJiuwen",
+    "action": "released",
+    "object": "AgentMemory 0.2.0 OmniMem-Lens",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "cd72b40c52f685197863fac4e59fa7895d3baa3fdc089903c7e14c11c57f6c51",
+    "originalUrl": "https://www.qbitai.com/2026/11/507533.html",
+    "originalPublishedAt": "2026-11-04T10:49:02+08:00",
+    "checkedAt": "2026-11-04T23:36:01.739Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "cd72b40c52f685197863fac4e59fa7895d3baa3fdc089903c7e14c11c57f6c51",
+      "kind": "fact",
+      "quote": "openJiuwen AgentMemory\n正式上线了多模态记忆能力\nOmniMem-Lens\n：按秒盲切是记忆碎片化的元凶，按真实事件记忆才是正解——召回精度最高提升\n45.7%\n，在线问答时延最高降低\n97%\n。"
+    },
+    {
+      "snapshotId": "cd72b40c52f685197863fac4e59fa7895d3baa3fdc089903c7e14c11c57f6c51",
+      "kind": "condition",
+      "quote": "在通用长视频基准Video-MME-L上提升8%，长视频理解基准LVbench上提升6.4%。\n最亮眼的是\nEgoLife-QA上的+45.7%\n——这个评测集以第一人称视角记录一整天的日常生活，事件密集、细节琐碎，恰恰是固定切分最容易失效的场景，也最能体现“按真实事件组织记忆”的价值。"
+    },
+    {
+      "snapshotId": "cd72b40c52f685197863fac4e59fa7895d3baa3fdc089903c7e14c11c57f6c51",
+      "kind": "condition",
+      "quote": "视频越长，VLM直答需要“啃”的画面就越多，时延也就越长——LVbench上Qwen3-VL-8B要等34.5秒，OmniMem-Lens只需\n1.72秒\n，快了整整\n20倍\n。"
+    }
+  ],
+  "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+  "displayTitle": "openJiuwen上线视听双流记忆，长视频按事件建索引",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "openJiuwen",
+    "AgentMemory",
+    "OmniMem-Lens"
+  ],
+  "fetchedAt": "2026-11-04T03:49:19.481Z",
+  "summary": "量子位报道openJiuwen在AgentMemory 0.2.0中上线OmniMem-Lens，以视频与音频线索识别事件边界并建立分层记忆。",
+  "investorNote": "这类组件瞄准长视频Agent的检索成本与证据定位问题；公布的提速和精度仍是团队测试结果，需在真实任务与不同底座模型上复验。",
+  "narrative": "量子位报道，openJiuwen在AgentMemory 0.2.0中加入OmniMem-Lens，使用画面变化和语音转录识别事件边界，再把长视频整理为不同粒度的索引。团队报告在EgoLife-QA上的召回精度提升45.7%，LVbench在线问答从34.5秒降至1.72秒；**这些是特定基准与底座模型下的结果**。对Agent基础设施而言，价值在于把长视频的整理放到离线阶段，让在线问答只回取必要片段。",
+  "score": 0.68,
+  "duplicateOf": null,
+  "clusterId": "event-d1903811451ca7e32beb7a9b",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当日独立动作；与近两周已存事件的具体发生不同"
+  },
+  "eventId": "event-d1903811451ca7e32beb7a9b",
+  "occurrenceId": "occ-d1903811451ca7e32beb7a9b",
+  "relatedItems": []
+}

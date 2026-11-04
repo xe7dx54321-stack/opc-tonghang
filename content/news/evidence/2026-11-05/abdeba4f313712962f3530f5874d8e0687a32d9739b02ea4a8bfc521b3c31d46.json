@@ -1,0 +1,14 @@
+{
+  "snapshotId": "abdeba4f313712962f3530f5874d8e0687a32d9739b02ea4a8bfc521b3c31d46",
+  "url": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/",
+  "publishedAt": "2026-11-04T15:02:57Z",
+  "publishedAtQuote": "2026-11-04T15:02:57+00:00",
+  "retrievedAt": "2026-11-04T23:36:29.093Z",
+  "method": "agent-tool",
+  "contentHash": "6bd9e7cd49d5be468434fbdfb74d8e7fa030d4bdd296d6b69ce2047a4c43169b",
+  "quotations": [
+    "LiberAI\nhas introduced Liber-0, a world action model (WAM) pretrained on more than 2.2 million hours of human experience. The Beijing-based startup said the model combines human video with glove-recorded motion and embodiment-conditioned learning to transfer human manipulation experience to robots.",
+    "Here, zero-shot means the evaluated checkpoint was not trained on robot demonstrations collected specifically for these target tasks; pretraining still included robot data.",
+    "LiberAI reported task success rates of 63.5% on pick-and-place tasks, 34.0% on non-pick-and-place manipulation tasks and 10.5% on challenging non-pick-and-place and long-horizon tasks, with an overall success rate of 36.0% across 600 trials."
+  ]
+}

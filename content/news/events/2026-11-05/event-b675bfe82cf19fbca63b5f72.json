@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-b675bfe82cf19fbca63b5f72",
+  "title": "OpenAI拟收购Pierre，补齐Codex的代码存储与审查工具",
+  "firstSeen": "2026-11-05",
+  "editionDate": "2026-11-05",
+  "occurrences": [
+    {
+      "id": "occ-b675bfe82cf19fbca63b5f72",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "announced planned acquisition",
+        "object": "Pierre Computer Company",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-05",
+      "reports": [
+        {
+          "ref": "2026-11-05/2026-11-05-openai-pierre",
+          "itemId": "2026-11-05-openai-pierre",
+          "editionDate": "2026-11-05",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "openai-news",
+          "owner": "OpenAI",
+          "role": "principal",
+          "publishedAt": "2026-11-04T14:30:00Z",
+          "title": "OpenAI拟收购Pierre，补齐Codex的代码存储与审查工具"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-05"
+}

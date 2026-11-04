@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-aa7b10e7223f3e20a15ce974",
+  "title": "Anthropic推出FlashProve原型，尝试证明模型回复的来源",
+  "firstSeen": "2026-11-05",
+  "editionDate": "2026-11-05",
+  "occurrences": [
+    {
+      "id": "occ-aa7b10e7223f3e20a15ce974",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "released research prototype",
+        "object": "FlashProve cryptographic inference verification",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-05",
+      "reports": [
+        {
+          "ref": "2026-11-05/2026-11-05-anthropic-flashprove",
+          "itemId": "2026-11-05-anthropic-flashprove",
+          "editionDate": "2026-11-05",
+          "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-11-04T15:23:49Z",
+          "title": "Anthropic推出FlashProve原型，尝试证明模型回复的来源"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-05"
+}

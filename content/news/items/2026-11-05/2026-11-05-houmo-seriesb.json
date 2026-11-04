@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-05-houmo-seriesb",
+  "url": "https://www.leiphone.com/category/industrynews/cyDQKpjtzDEPhrr8.html",
+  "publishedAt": "2026-11-04T10:21:00+08:00",
+  "fact": {
+    "subject": "后摩智能",
+    "action": "reportedly completed",
+    "object": "数十亿元B轮融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "2cc4dffce098a7d037f54b0688797a724a03d28306530dd85988fb5f6fd1d0ee",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/cyDQKpjtzDEPhrr8.html",
+    "originalPublishedAt": "2026-11-04T10:21:00+08:00",
+    "checkedAt": "2026-11-04T23:36:01.933Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "2cc4dffce098a7d037f54b0688797a724a03d28306530dd85988fb5f6fd1d0ee",
+      "kind": "fact",
+      "quote": "据知情人士透露，存算一体AI芯片企业后摩智能已于近期完成B轮融资，单笔融资金额高达数十亿元人民币，近一年内连续完成多轮融资。"
+    },
+    {
+      "snapshotId": "2cc4dffce098a7d037f54b0688797a724a03d28306530dd85988fb5f6fd1d0ee",
+      "kind": "condition",
+      "quote": "公司披露，其端边大模型AI芯片M50量产不到一年，已获得150多个产品定点，服务客户超过百家。"
+    }
+  ],
+  "title": "后摩智能低调完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期",
+  "displayTitle": "雷峰网称后摩智能完成数十亿元B轮，继续投入端侧存算一体",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "后摩智能",
+    "M50",
+    "M6X"
+  ],
+  "fetchedAt": "2026-11-04T04:50:03.803Z",
+  "summary": "雷峰网援引知情人士称后摩智能近期完成数十亿元B轮融资；公司披露M50已有150多个产品定点，报道未列出投资机构名单和交易文件。",
+  "investorNote": "端侧AI芯片融资金额较大，但关键验证是M50定点能否转成可重复出货；金额与商业数据目前主要来自单一报道和公司表述。",
+  "narrative": "雷峰网援引知情人士称，后摩智能近期完成**数十亿元B轮融资**，但报道未列出完整投资机构名单或交易文件。公司在生态伙伴会上称M50量产不到一年已有150多个产品定点、服务超过百家客户，资金拟用于扩大交付并研发M6X和下一代3D CIM产品。存算一体路线能否成立，重点要看定点项目转量产后的功耗、软件迁移成本和持续订单；上述商业数字目前仍属公司与媒体表述。",
+  "score": 0.69,
+  "duplicateOf": null,
+  "clusterId": "event-a64719a24f5841d988494028",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当日独立动作；与近两周已存事件的具体发生不同"
+  },
+  "eventId": "event-a64719a24f5841d988494028",
+  "occurrenceId": "occ-a64719a24f5841d988494028",
+  "relatedItems": []
+}

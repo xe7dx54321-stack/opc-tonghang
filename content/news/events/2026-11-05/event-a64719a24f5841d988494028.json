@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a64719a24f5841d988494028",
+  "title": "雷峰网称后摩智能完成数十亿元B轮，继续投入端侧存算一体",
+  "firstSeen": "2026-11-05",
+  "editionDate": "2026-11-05",
+  "occurrences": [
+    {
+      "id": "occ-a64719a24f5841d988494028",
+      "fact": {
+        "subject": "后摩智能",
+        "action": "reportedly completed",
+        "object": "数十亿元B轮融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-05",
+      "reports": [
+        {
+          "ref": "2026-11-05/2026-11-05-houmo-seriesb",
+          "itemId": "2026-11-05-houmo-seriesb",
+          "editionDate": "2026-11-05",
+          "url": "https://www.leiphone.com/category/industrynews/cyDQKpjtzDEPhrr8.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-04T10:21:00+08:00",
+          "title": "雷峰网称后摩智能完成数十亿元B轮，继续投入端侧存算一体"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-05"
+}

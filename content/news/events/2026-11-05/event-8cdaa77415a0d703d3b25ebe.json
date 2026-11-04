@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-8cdaa77415a0d703d3b25ebe",
+  "title": "Waymo与Uber在奥斯汀和亚特兰大的独家安排将于2028年结束",
+  "firstSeen": "2026-11-05",
+  "editionDate": "2026-11-05",
+  "occurrences": [
+    {
+      "id": "occ-8cdaa77415a0d703d3b25ebe",
+      "fact": {
+        "subject": "Waymo",
+        "action": "announced end of exclusivity in 2028",
+        "object": "Uber Austin and Atlanta robotaxi arrangement",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-05",
+      "reports": [
+        {
+          "ref": "2026-11-05/2026-11-05-waymo-uber-exclusivity",
+          "itemId": "2026-11-05-waymo-uber-exclusivity",
+          "editionDate": "2026-11-05",
+          "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-04T18:12:30Z",
+          "title": "Waymo与Uber在奥斯汀和亚特兰大的独家安排将于2028年结束"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-05"
+}

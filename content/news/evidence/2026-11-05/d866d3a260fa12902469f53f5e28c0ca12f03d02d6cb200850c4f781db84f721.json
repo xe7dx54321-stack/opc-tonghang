@@ -1,0 +1,14 @@
+{
+  "snapshotId": "d866d3a260fa12902469f53f5e28c0ca12f03d02d6cb200850c4f781db84f721",
+  "url": "https://openai.com/index/openai-to-acquire-pierre",
+  "publishedAt": "2026-11-04T14:30:00Z",
+  "publishedAtQuote": "November 4, 2026",
+  "retrievedAt": "2026-11-04T23:36:01.689Z",
+  "method": "agent-tool",
+  "contentHash": "52592ed6f819cf855ef4c0d851ad9035c8830892698c6515a33f8665009d1db4",
+  "quotations": [
+    "Today we're announcing that OpenAI will acquire\nPierre Computer Company, Inc\n⁠\n(opens in a new window)\n. (“Pierre”), the company behind\nCode Storage\n⁠\n(opens in a new window)\nand a family of standout open-source developer tools.",
+    "The closing of the acquisition is subject to customary closing conditions, including receipt of regulatory approvals. Until closing, OpenAI and Pierre will remain separate and independent companies.",
+    "If you’ve browsed files or reviewed a change in the Codex app, you’ve already used Pierre’s Trees and Diffs libraries."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-05-tencent-hy4",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999387&idx=2&sn=01508cb12ec8ee8a5c8b53b891fb595b",
+  "publishedAt": "2026-11-04T18:10:00+08:00",
+  "fact": {
+    "subject": "腾讯",
+    "action": "released",
+    "object": "Hy4 正式版",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "腾讯",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "094329e72f69a45af880872f76dab7d8228fb65461560071eac48109c92b783f",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999387&idx=2&sn=01508cb12ec8ee8a5c8b53b891fb595b",
+    "originalPublishedAt": "2026-11-04T18:10:00+08:00",
+    "checkedAt": "2026-11-04T23:36:01.964Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "094329e72f69a45af880872f76dab7d8228fb65461560071eac48109c92b783f",
+      "kind": "fact",
+      "quote": "今天，我们发布 Hy4 正式版。随着模型能力的再次全面跃升，Hy 首次跻身最强开源模型之列。 相比于 Hy4 preview，Hy4 显著扩展了预训练和后训练规模，首次引入了视觉能力，并大幅提升了指令遵循、长文理解、长程任务、深度研究等各项综合能力。"
+    },
+    {
+      "snapshotId": "094329e72f69a45af880872f76dab7d8228fb65461560071eac48109c92b783f",
+      "kind": "condition",
+      "quote": "Hy4 已在腾讯云和 OpenRouter 上线，并可在 CodeBuddy / WorkBuddy、元宝、ima 等产品上体验，性能显著超过 Hy4 preview 的同时维持相同 API 价格。 我们计划开源模型权 重，并已联合 vLLM/SGLang 社区以及 Infe ract Inc. 提供开源生态支持。我们计划届时也发布模型系统卡片，包括更全面的安全评估等细节。"
+    }
+  ],
+  "title": "Hy4 正式发布，为真实生产力而生",
+  "displayTitle": "腾讯发布Hy4正式版：视觉与电脑操作上线，权重尚待开源",
+  "source": "wechat-tencent-research",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "腾讯",
+    "Hy4"
+  ],
+  "fetchedAt": "2026-11-04T10:55:07.569Z",
+  "summary": "腾讯研究院公众号宣布Hy4正式版，新增视觉和电脑操作能力，已上线腾讯云与OpenRouter；模型权重和系统卡片仍为计划发布。",
+  "investorNote": "这次发布把模型能力延伸到软件操作与金融办公任务；内测榜单和厂商自测需与真实成本、稳定性一起看，不能等同独立领先结论。",
+  "narrative": "腾讯研究院公告Hy4正式版，新增视觉输入和电脑操作能力，并称已在腾讯云、OpenRouter及部分自有产品提供体验。公司报告在金融任务、游戏开发和科学研究内部评测上较预览版进步，但**模型权重与系统卡片仍是计划发布**，今天不能称已开源。对企业采购者，更值得核对的是跨应用长任务的成功率、权限管理和实际调用成本，而不是只看厂商榜单。",
+  "score": 0.86,
+  "duplicateOf": null,
+  "clusterId": "event-a514981bc7764f1e8dadd59f",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当日独立动作；与近两周已存事件的具体发生不同"
+  },
+  "eventId": "event-a514981bc7764f1e8dadd59f",
+  "occurrenceId": "occ-a514981bc7764f1e8dadd59f",
+  "relatedItems": []
+}

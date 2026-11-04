@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-bac14002a9ba0b63c52c791b",
+  "title": "灵感机器人获数千万元天使轮，押注视触觉与力控",
+  "firstSeen": "2026-11-05",
+  "editionDate": "2026-11-05",
+  "occurrences": [
+    {
+      "id": "occ-bac14002a9ba0b63c52c791b",
+      "fact": {
+        "subject": "灵感机器人",
+        "action": "completed angel financing",
+        "object": "数千万元融资与Lux视触觉传感器",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-05",
+      "reports": [
+        {
+          "ref": "2026-11-05/2026-11-05-linggan-touch-seed",
+          "itemId": "2026-11-05-linggan-touch-seed",
+          "editionDate": "2026-11-05",
+          "url": "https://www.leiphone.com/category/industrynews/30nTa8g0yzQmZGys.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-05T00:38:00+08:00",
+          "title": "灵感机器人获数千万元天使轮，押注视触觉与力控"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-05"
+}
