@@ -1,0 +1,14 @@
+{
+  "snapshotId": "5fe29d7a7c46aba0e7c3fa7d2e4b841d4d6b1260fb003c490b6580b65404e994",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813377&idx=1&sn=565ff98063cdabdd44571e49eac10e9b",
+  "publishedAt": "2026-11-05T11:04:00.000Z",
+  "publishedAtQuote": "2026-11-05 19:04",
+  "retrievedAt": "2026-11-05T23:38:42.120Z",
+  "method": "rss-syndication",
+  "retrievedFrom": "https://wechat2rss.bestblogs.dev/feed/cfd52b4245ca6119b2fda4ef934832c689028927.xml",
+  "contentHash": "80f4b4e796e544d92660498982921b1acea9b0084960c94a142002f60599fc75",
+  "quotations": [
+    "今日，百度正式发布并开源 文心5.5 Flash Base（ERNIE-5.5-Flash-Base） 。这款模型采用稀疏MoE架构，总参数量达到 280B ，每个token仅 激活14B 参数",
+    "模型发布时提供的是预训练终点的Checkpoint，尚未经过中训练和后训练"
+  ]
+}

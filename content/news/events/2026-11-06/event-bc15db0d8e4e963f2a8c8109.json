@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-bc15db0d8e4e963f2a8c8109",
+  "title": "NVIDIA披露Vera CPU代理负载测试：能效主张仍待独立复核",
+  "firstSeen": "2026-11-06",
+  "editionDate": "2026-11-06",
+  "occurrences": [
+    {
+      "id": "occ-bc15db0d8e4e963f2a8c8109",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "published CPU agent-workload benchmark",
+        "object": "Vera CPU versus selected x86 CPUs",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-06",
+      "reports": [
+        {
+          "ref": "2026-11-06/2026-11-06-nvidia-vera-cpu",
+          "itemId": "2026-11-06-nvidia-vera-cpu",
+          "editionDate": "2026-11-06",
+          "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+          "source": "nvidia-blog",
+          "owner": "NVIDIA",
+          "role": "principal",
+          "publishedAt": "2026-11-05T20:00:41.000Z",
+          "title": "NVIDIA披露Vera CPU代理负载测试：能效主张仍待独立复核"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-06"
+}

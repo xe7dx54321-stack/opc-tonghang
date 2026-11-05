@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-bde8cb7d5f53643b8d3a4bfa",
+  "title": "百度开放文心5.5 Flash Base权重：280B总参、14B激活",
+  "firstSeen": "2026-11-06",
+  "editionDate": "2026-11-06",
+  "occurrences": [
+    {
+      "id": "occ-bde8cb7d5f53643b8d3a4bfa",
+      "fact": {
+        "subject": "Baidu",
+        "action": "published open weights",
+        "object": "ERNIE 5.5 Flash Base pretrained checkpoint",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-06",
+      "reports": [
+        {
+          "ref": "2026-11-06/2026-11-06-baidu-ernie-flash",
+          "itemId": "2026-11-06-baidu-ernie-flash",
+          "editionDate": "2026-11-06",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813377&idx=1&sn=565ff98063cdabdd44571e49eac10e9b",
+          "source": "wechat-zhidongxi",
+          "owner": "智东西",
+          "role": "observer",
+          "publishedAt": "2026-11-05T11:04:00.000Z",
+          "title": "百度开放文心5.5 Flash Base权重：280B总参、14B激活"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-06"
+}

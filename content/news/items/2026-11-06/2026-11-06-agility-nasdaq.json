@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-06-agility-nasdaq",
+  "url": "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/",
+  "publishedAt": "2026-11-05T14:46:29.000Z",
+  "fact": {
+    "subject": "Agility Robotics",
+    "action": "began Nasdaq trading after SPAC merger",
+    "object": "AGLT public listing",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d282365162c7c46ee82ebf259b479ca8f1e356c8642ef89cd1676149d601e037",
+    "originalUrl": "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/",
+    "originalPublishedAt": "2026-11-05T14:46:29.000Z",
+    "checkedAt": "2026-11-05T23:38:42.080Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d282365162c7c46ee82ebf259b479ca8f1e356c8642ef89cd1676149d601e037",
+      "kind": "fact",
+      "quote": "Agility Robotics began trading on the Nasdaq Stock Market this morning under the ticker “AGLT,” after the company completed its merger with special-purpose acquisition company, or SPAC, Churchill Capital Corp XI."
+    },
+    {
+      "snapshotId": "d282365162c7c46ee82ebf259b479ca8f1e356c8642ef89cd1676149d601e037",
+      "kind": "fact",
+      "quote": "The deal provides with about $465 million in gross proceeds before expenses."
+    },
+    {
+      "snapshotId": "d282365162c7c46ee82ebf259b479ca8f1e356c8642ef89cd1676149d601e037",
+      "kind": "condition",
+      "quote": "Digit has already logged more than 65,000 hours of operation across nine customer facilities."
+    }
+  ],
+  "title": "Agility Robotics begins trading on Nasdaq",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-05T15:21:24.618Z",
+  "duplicateOf": null,
+  "clusterId": "event-806b981a21d1a123b018c994",
+  "displayTitle": "Agility Robotics登陆纳斯达克，Digit商业化迎来公开市场检验",
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Agility Robotics",
+    "Digit",
+    "Nasdaq"
+  ],
+  "score": 0.84,
+  "summary": "Agility Robotics完成SPAC合并后以AGLT代码开始纳斯达克交易；报道给出约4.65亿美元交易总收入及Digit在九个客户设施累计超6.5万小时的公司口径。",
+  "investorNote": "上市把人形机器人的订单、经营现金流和真实工时拉到公开市场，融资预期不能替代交付证据。",
+  "narrative": "Agility Robotics完成SPAC合并后以AGLT代码在纳斯达克开始交易。The Robot Report称交易带来约4.65亿美元总收入（费用前），低于此前无赎回假设下的预测；公司称Digit已在客户现场累计运行超6.5万小时。今天的新动作是开始交易，不是上周融资预期的再次宣布，公开市场接下来会用营收与部署质量检验机器人故事。",
+  "eventRelation": {
+    "type": "SAME_STORY",
+    "targetRef": "2026-10-31/2026-10-31-agility-spac-proceeds-revised",
+    "reason": "此前记录SPAC融资预期下调，本次完成合并并开始上市交易。",
+    "newInformation": "AGLT于11月5日开始纳斯达克交易，交易募资规模和首日交易进入可观察阶段。"
+  },
+  "eventId": "event-806b981a21d1a123b018c994",
+  "occurrenceId": "occ-db003da6fddc262d58877170",
+  "relatedItems": []
+}

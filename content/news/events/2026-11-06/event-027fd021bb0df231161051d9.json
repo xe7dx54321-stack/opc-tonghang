@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-027fd021bb0df231161051d9",
+  "title": "Mistral扩展Studio：托管Agent与企业流程接入并进",
+  "firstSeen": "2026-11-06",
+  "editionDate": "2026-11-06",
+  "occurrences": [
+    {
+      "id": "occ-027fd021bb0df231161051d9",
+      "fact": {
+        "subject": "Mistral AI",
+        "action": "expanded enterprise platform",
+        "object": "Studio managed agents, apps and workflow features",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-06",
+      "reports": [
+        {
+          "ref": "2026-11-06/2026-11-06-mistral-studio-agents",
+          "itemId": "2026-11-06-mistral-studio-agents",
+          "editionDate": "2026-11-06",
+          "url": "https://mistral.ai/news/build-with-studio/",
+          "source": "mistral-news",
+          "owner": "Mistral AI",
+          "role": "principal",
+          "publishedAt": "2026-11-05T12:00:14.000Z",
+          "title": "Mistral扩展Studio：托管Agent与企业流程接入并进"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-06"
+}

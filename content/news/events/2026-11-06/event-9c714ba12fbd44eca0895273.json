@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-9c714ba12fbd44eca0895273",
+  "title": "Dropbox拟以3.5亿美元收购Tigris，切入Agent对象存储",
+  "firstSeen": "2026-11-06",
+  "editionDate": "2026-11-06",
+  "occurrences": [
+    {
+      "id": "occ-9c714ba12fbd44eca0895273",
+      "fact": {
+        "subject": "Dropbox",
+        "action": "announced acquisition",
+        "object": "Tigris Data and DBX Agent Cloud object storage",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-06",
+      "reports": [
+        {
+          "ref": "2026-11-06/2026-11-06-dropbox-tigris",
+          "itemId": "2026-11-06-dropbox-tigris",
+          "editionDate": "2026-11-06",
+          "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-05T15:19:05.000Z",
+          "title": "Dropbox拟以3.5亿美元收购Tigris，切入Agent对象存储"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-06"
+}

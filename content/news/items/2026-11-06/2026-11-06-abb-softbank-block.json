@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-06-abb-softbank-block",
+  "url": "https://www.therobotreport.com/chinese-regulators-block-softbanks-5-4b-acquisition-of-abb-robotics/",
+  "publishedAt": "2026-11-05T16:25:46.000Z",
+  "fact": {
+    "subject": "Chinese investment security review office",
+    "action": "prohibited proposed acquisition in China",
+    "object": "SoftBank's $5.375 billion ABB Robotics deal",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "84e1888361f1cec0a025071b2ecf2ae3e94ebcbc28499de41399c0bd098ec823",
+    "originalUrl": "https://www.therobotreport.com/chinese-regulators-block-softbanks-5-4b-acquisition-of-abb-robotics/",
+    "originalPublishedAt": "2026-11-05T16:25:46.000Z",
+    "checkedAt": "2026-11-05T23:38:42.052Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "84e1888361f1cec0a025071b2ecf2ae3e94ebcbc28499de41399c0bd098ec823",
+      "kind": "fact",
+      "quote": "The $5.375 billion deal is now being blocked by Chinese regulators"
+    },
+    {
+      "snapshotId": "84e1888361f1cec0a025071b2ecf2ae3e94ebcbc28499de41399c0bd098ec823",
+      "kind": "condition",
+      "quote": "ABB said it and SoftBank are “in close dialogue and are working constructively on the transaction.”"
+    }
+  ],
+  "title": "Chinese regulators block SoftBank’s $5.4B acquisition of ABB Robotics",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-05T16:52:58.279Z",
+  "duplicateOf": null,
+  "clusterId": "event-73af74401daa55e9235eba5e",
+  "displayTitle": "中国审查阻断软银收购ABB机器人业务，交易仍在磋商",
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "ABB Robotics",
+    "SoftBank",
+    "中国外商投资安全审查"
+  ],
+  "score": 0.87,
+  "summary": "The Robot Report援引ABB确认中国审查机关阻断软银收购ABB机器人业务的交易在华推进，交易原规模约53.75亿美元；双方称仍在就交易磋商。",
+  "investorNote": "跨境机器人并购已进入数据和产业安全审查核心，交易障碍不等于全球交易确定取消。",
+  "narrative": "据The Robot Report报道并获ABB确认，中国投资安全审查机关阻断软银收购ABB机器人业务的交易在华推进；原交易规模约53.75亿美元，ABB称双方仍在磋商。报道援引另一媒体解释审查与机器人数据出境及模型训练疑虑有关，这一动因并非监管机关在本篇直接声明。跨境机器人交易的尽调边界因此不止厂房和客户，还包括数据流向。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期报道的监管阻断是旧收购计划的新进展。"
+  },
+  "eventId": "event-73af74401daa55e9235eba5e",
+  "occurrenceId": "occ-73af74401daa55e9235eba5e",
+  "relatedItems": []
+}

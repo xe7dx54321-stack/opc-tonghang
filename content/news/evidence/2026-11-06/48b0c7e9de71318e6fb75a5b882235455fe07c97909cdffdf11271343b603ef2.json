@@ -1,0 +1,13 @@
+{
+  "snapshotId": "48b0c7e9de71318e6fb75a5b882235455fe07c97909cdffdf11271343b603ef2",
+  "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+  "publishedAt": "2026-11-05T19:35:16.341Z",
+  "publishedAtQuote": "datePublished: 2026-11-05T19:35:16.341Z",
+  "retrievedAt": "2026-11-05T23:38:41.995Z",
+  "method": "agent-tool",
+  "contentHash": "bfb344363d9bd7e564458d5956d6bcdfd106d832aade602a783d1c940fca067e",
+  "quotations": [
+    "All four models are post-trained examples of Cosmos 3 Nano and have 16B trainable parameters.",
+    "These problems remain hard: the work ahead is to measure where the models faithfully support policy learning and evaluation, understand their limits, and improve where they fall short."
+  ]
+}

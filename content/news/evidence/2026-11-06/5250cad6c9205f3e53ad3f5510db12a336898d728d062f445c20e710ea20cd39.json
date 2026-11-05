@@ -1,0 +1,13 @@
+{
+  "snapshotId": "5250cad6c9205f3e53ad3f5510db12a336898d728d062f445c20e710ea20cd39",
+  "url": "https://mistral.ai/news/build-with-studio/",
+  "publishedAt": "2026-11-05T12:00:14.000Z",
+  "publishedAtQuote": "datePublished: 2026-11-05",
+  "retrievedAt": "2026-11-05T23:38:41.876Z",
+  "method": "agent-tool",
+  "contentHash": "2df8b7a17302d7c3dc4e5b7dce6f1e273a7e4bd61ea83b651bb4bba7e3672a7b",
+  "quotations": [
+    "Today, we’re expanding Studio with managed agents and apps, alongside new capabilities for workflows, enterprise context, agent observability and evaluations.",
+    "Deploy them wherever you choose: in the cloud, in your own VPC, on-premises or across a combination of environments."
+  ]
+}

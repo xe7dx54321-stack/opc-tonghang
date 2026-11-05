@@ -1,0 +1,14 @@
+{
+  "snapshotId": "3f228d37ba713bbaff534b39f37566871b08a6fec9a1415ed40516849ed38d38",
+  "url": "https://openai.com/index/introducing-gpt-6-cyber",
+  "publishedAt": "2026-11-05T09:00:00.000Z",
+  "publishedAtQuote": "November 5, 2026",
+  "retrievedAt": "2026-11-05T23:38:41.841Z",
+  "method": "agent-tool",
+  "contentHash": "ceeafb964ad6668b449062662046438a3f767af55e09ef050e49a743a351e81f",
+  "quotations": [
+    "We’re introducing GPT‑6 Cyber, a major leap in security research: more capable at finding and fixing vulnerabilities, and far more reliable staying within the boundaries researchers set.",
+    "On ExploitGym, which tests whether models can exploit a specified vulnerability, GPT‑6 Cyber scores 48.5%, up from 32.1% for GPT‑5.6 Cyber.",
+    "GPT‑6 Cyber is initially available through the API and Codex to a select group of approved Daybreak Red customers."
+  ]
+}

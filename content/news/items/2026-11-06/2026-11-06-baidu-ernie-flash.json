@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-06-baidu-ernie-flash",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813377&idx=1&sn=565ff98063cdabdd44571e49eac10e9b",
+  "publishedAt": "2026-11-05T11:04:00.000Z",
+  "fact": {
+    "subject": "Baidu",
+    "action": "published open weights",
+    "object": "ERNIE 5.5 Flash Base pretrained checkpoint",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "智东西",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "5fe29d7a7c46aba0e7c3fa7d2e4b841d4d6b1260fb003c490b6580b65404e994",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813377&idx=1&sn=565ff98063cdabdd44571e49eac10e9b",
+    "originalPublishedAt": "2026-11-05T11:04:00.000Z",
+    "checkedAt": "2026-11-05T23:38:42.120Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "5fe29d7a7c46aba0e7c3fa7d2e4b841d4d6b1260fb003c490b6580b65404e994",
+      "kind": "fact",
+      "quote": "今日，百度正式发布并开源 文心5.5 Flash Base（ERNIE-5.5-Flash-Base） 。这款模型采用稀疏MoE架构，总参数量达到 280B ，每个token仅 激活14B 参数"
+    },
+    {
+      "snapshotId": "5fe29d7a7c46aba0e7c3fa7d2e4b841d4d6b1260fb003c490b6580b65404e994",
+      "kind": "condition",
+      "quote": "模型发布时提供的是预训练终点的Checkpoint，尚未经过中训练和后训练"
+    }
+  ],
+  "title": "280B总参数、14B激活！百度开源文心5.5 Flash Base，拿下同尺寸SOTA",
+  "source": "wechat-zhidongxi",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-05T15:51:47.686Z",
+  "duplicateOf": null,
+  "clusterId": "event-bde8cb7d5f53643b8d3a4bfa",
+  "displayTitle": "百度开放文心5.5 Flash Base权重：280B总参、14B激活",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "百度",
+    "ERNIE 5.5 Flash Base"
+  ],
+  "score": 0.79,
+  "summary": "智东西报道百度发布并开放ERNIE 5.5 Flash Base预训练检查点，采用280B总参数、每token激活14B的稀疏MoE设计；百度技术博客可见权重与架构说明。",
+  "investorNote": "开源基模的机会在后续定制与推理成本，厂商基准领先结论需在实际工作负载复测。",
+  "narrative": "百度开放文心5.5 Flash Base的预训练终点权重：总参数280B、每token激活14B。智东西的转存全文与百度技术博客均列出模型和开放地址；它还是Base检查点，未经历后训练，不应把厂商“同尺寸领先”的比较直接写成成品助手能力。投资角度看，关键是团队能否在自己的长上下文和推理成本约束下做出可复用适配。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "新开放的文心基座权重，不是此前Apollo World或其他百度产品动作。"
+  },
+  "eventId": "event-bde8cb7d5f53643b8d3a4bfa",
+  "occurrenceId": "occ-bde8cb7d5f53643b8d3a4bfa",
+  "relatedItems": []
+}

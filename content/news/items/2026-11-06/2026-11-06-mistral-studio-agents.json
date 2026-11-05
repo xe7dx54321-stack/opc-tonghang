@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-06-mistral-studio-agents",
+  "url": "https://mistral.ai/news/build-with-studio/",
+  "publishedAt": "2026-11-05T12:00:14.000Z",
+  "fact": {
+    "subject": "Mistral AI",
+    "action": "expanded enterprise platform",
+    "object": "Studio managed agents, apps and workflow features",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Mistral AI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "5250cad6c9205f3e53ad3f5510db12a336898d728d062f445c20e710ea20cd39",
+    "originalUrl": "https://mistral.ai/news/build-with-studio/",
+    "originalPublishedAt": "2026-11-05T12:00:14.000Z",
+    "checkedAt": "2026-11-05T23:38:41.876Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "5250cad6c9205f3e53ad3f5510db12a336898d728d062f445c20e710ea20cd39",
+      "kind": "fact",
+      "quote": "Today, we’re expanding Studio with managed agents and apps, alongside new capabilities for workflows, enterprise context, agent observability and evaluations."
+    },
+    {
+      "snapshotId": "5250cad6c9205f3e53ad3f5510db12a336898d728d062f445c20e710ea20cd39",
+      "kind": "condition",
+      "quote": "Deploy them wherever you choose: in the cloud, in your own VPC, on-premises or across a combination of environments."
+    }
+  ],
+  "title": "Le Chonk brings the brains. Studio puts it to work.",
+  "source": "mistral-news",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-05T15:51:29.024Z",
+  "duplicateOf": null,
+  "clusterId": "event-027fd021bb0df231161051d9",
+  "displayTitle": "Mistral扩展Studio：托管Agent与企业流程接入并进",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Mistral AI",
+    "Studio"
+  ],
+  "score": 0.73,
+  "summary": "Mistral在Studio新增托管Agent和应用，并扩展工作流、企业上下文、可观测性和评估能力；可在云、私有VPC或本地部署。",
+  "investorNote": "企业代理竞争正从单一模型推理转向数据权限、部署可控和可观测的工作流产品。",
+  "narrative": "Mistral宣布扩展Studio的托管Agent、应用、工作流和评估功能，同时强调云、私有VPC及本地部署选择。对企业客户，模型能力只是起点，能否在现有权限和流程内稳定运行才决定试点转生产。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次为Studio平台新增功能，非旧模型发布的重复报道。"
+  },
+  "eventId": "event-027fd021bb0df231161051d9",
+  "occurrenceId": "occ-027fd021bb0df231161051d9",
+  "relatedItems": []
+}

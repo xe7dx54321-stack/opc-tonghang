@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-06-nvidia-vera-cpu",
+  "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+  "publishedAt": "2026-11-05T20:00:41.000Z",
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "published CPU agent-workload benchmark",
+    "object": "Vera CPU versus selected x86 CPUs",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "90c11b219411fd430efaedbe21d5143da81ab174de0236a00c19a04bcec603ec",
+    "originalUrl": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+    "originalPublishedAt": "2026-11-05T20:00:41.000Z",
+    "checkedAt": "2026-11-05T23:38:42.023Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "90c11b219411fd430efaedbe21d5143da81ab174de0236a00c19a04bcec603ec",
+      "kind": "fact",
+      "quote": "In a 100-megawatt data center comparison, NVIDIA found that a single Vera CPU performs better than the fastest x86 CPU and the most energy-efficient x86 CPU."
+    },
+    {
+      "snapshotId": "90c11b219411fd430efaedbe21d5143da81ab174de0236a00c19a04bcec603ec",
+      "kind": "condition",
+      "quote": "1.6x more agents per watt"
+    }
+  ],
+  "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-05T20:25:26.416Z",
+  "duplicateOf": null,
+  "clusterId": "event-bc15db0d8e4e963f2a8c8109",
+  "displayTitle": "NVIDIA披露Vera CPU代理负载测试：能效主张仍待独立复核",
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Vera CPU"
+  ],
+  "score": 0.68,
+  "summary": "NVIDIA公布Vera CPU在Agent负载上的自家对比测试，称在100兆瓦数据中心假设下，相对选定x86 CPU每瓦可支撑1.6倍Agent；结果主要由厂商及合作伙伴披露。",
+  "investorNote": "AI服务器CPU的价值被重新按Agent吞吐和能耗衡量，但不同负载及功耗口径决定结果可迁移性。",
+  "narrative": "NVIDIA公布Vera CPU的Agent负载对比，声称在100兆瓦数据中心假设下相对其所选x86对照每瓦可支持1.6倍Agent。值得看的是CPU在工具调用、数据库和代码执行中的占比正在被重新定价；不过这仍是厂商设定场景和合作伙伴测试，不应当作跨所有工作负载的独立性能定论。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次公布Vera代理负载对比数据，并非Cosmos世界模型发布。"
+  },
+  "eventId": "event-bc15db0d8e4e963f2a8c8109",
+  "occurrenceId": "occ-bc15db0d8e4e963f2a8c8109",
+  "relatedItems": []
+}

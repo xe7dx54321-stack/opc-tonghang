@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-78534656d9390df92818e8a2",
+  "title": "NVIDIA开放四款Cosmos 3权重，世界模型对接驾驶与双手操作",
+  "firstSeen": "2026-11-06",
+  "editionDate": "2026-11-06",
+  "occurrences": [
+    {
+      "id": "occ-78534656d9390df92818e8a2",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "published open-weight checkpoints",
+        "object": "four Cosmos 3 Nano simulation variants",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-06",
+      "reports": [
+        {
+          "ref": "2026-11-06/2026-11-06-nvidia-cosmos3",
+          "itemId": "2026-11-06-nvidia-cosmos3",
+          "editionDate": "2026-11-06",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "source": "hugging-face-blog",
+          "owner": "NVIDIA",
+          "role": "principal",
+          "publishedAt": "2026-11-05T19:35:16.341Z",
+          "title": "NVIDIA开放四款Cosmos 3权重，世界模型对接驾驶与双手操作"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-06"
+}

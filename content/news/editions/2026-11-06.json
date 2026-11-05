@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-06",
+  "window": {
+    "start": 1793835000000,
+    "end": 1793921400000
+  },
+  "digestHash": "d0cb9f815da7fceac4536c4e3d864cca8a0f10238caffb482981b23f2fcd75d1",
+  "stories": [
+    {
+      "heading": "OpenAI推出GPT‑6 Cyber：攻防能力跃升，但仅向获批团队开放",
+      "itemId": "2026-11-06-openai-gpt6-cyber",
+      "eventId": "event-34781c801edd21ac8a0acfca",
+      "occurrenceId": "occ-34781c801edd21ac8a0acfca"
+    },
+    {
+      "heading": "Google上线Gemini Omni 1.2 Flash：视频延至15秒并降价",
+      "itemId": "2026-11-06-google-omni-flash",
+      "eventId": "event-0d1128dc9f326c39cf2f82a0",
+      "occurrenceId": "occ-0d1128dc9f326c39cf2f82a0"
+    },
+    {
+      "heading": "百度开放文心5.5 Flash Base权重：280B总参、14B激活",
+      "itemId": "2026-11-06-baidu-ernie-flash",
+      "eventId": "event-bde8cb7d5f53643b8d3a4bfa",
+      "occurrenceId": "occ-bde8cb7d5f53643b8d3a4bfa"
+    },
+    {
+      "heading": "NVIDIA开放四款Cosmos 3权重，世界模型对接驾驶与双手操作",
+      "itemId": "2026-11-06-nvidia-cosmos3",
+      "eventId": "event-78534656d9390df92818e8a2",
+      "occurrenceId": "occ-78534656d9390df92818e8a2"
+    },
+    {
+      "heading": "Agility Robotics登陆纳斯达克，Digit商业化迎来公开市场检验",
+      "itemId": "2026-11-06-agility-nasdaq",
+      "eventId": "event-806b981a21d1a123b018c994",
+      "occurrenceId": "occ-db003da6fddc262d58877170"
+    },
+    {
+      "heading": "中国审查阻断软银收购ABB机器人业务，交易仍在磋商",
+      "itemId": "2026-11-06-abb-softbank-block",
+      "eventId": "event-73af74401daa55e9235eba5e",
+      "occurrenceId": "occ-73af74401daa55e9235eba5e"
+    },
+    {
+      "heading": "Dropbox拟以3.5亿美元收购Tigris，切入Agent对象存储",
+      "itemId": "2026-11-06-dropbox-tigris",
+      "eventId": "event-9c714ba12fbd44eca0895273",
+      "occurrenceId": "occ-9c714ba12fbd44eca0895273"
+    },
+    {
+      "heading": "Mistral扩展Studio：托管Agent与企业流程接入并进",
+      "itemId": "2026-11-06-mistral-studio-agents",
+      "eventId": "event-027fd021bb0df231161051d9",
+      "occurrenceId": "occ-027fd021bb0df231161051d9"
+    },
+    {
+      "heading": "微软展示PDD Kit：让编程Agent的代码接受规格证明",
+      "itemId": "2026-11-06-microsoft-pdd-kit",
+      "eventId": "event-48addd144571bc36a757913c",
+      "occurrenceId": "occ-48addd144571bc36a757913c"
+    },
+    {
+      "heading": "NVIDIA披露Vera CPU代理负载测试：能效主张仍待独立复核",
+      "itemId": "2026-11-06-nvidia-vera-cpu",
+      "eventId": "event-bc15db0d8e4e963f2a8c8109",
+      "occurrenceId": "occ-bc15db0d8e4e963f2a8c8109"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-06-abb-softbank-block.json": "9169f20843261837250e351e51dd82b6b5d7eb1f91f3df0e7f080278c66a7c5c",
+    "2026-11-06-agility-nasdaq.json": "fa7f7cf936844e5cee2dd1f69a6a6a4d69bee1fe4a4ffdce1abbb8ed97151428",
+    "2026-11-06-baidu-ernie-flash.json": "c4cd46808c2de24be588fc5994dd4fb287383f3419f950a6893fee2f40f3b368",
+    "2026-11-06-dropbox-tigris.json": "ed133e287eff9e6109b5071f8b7cee15025e37a8c4493fe53bd845a301f20380",
+    "2026-11-06-google-omni-flash.json": "9f0ac5ce8e77aadbdc83eefcb0f392cb34383cbd8819796e07b971a4c07061ba",
+    "2026-11-06-microsoft-pdd-kit.json": "42eb1f6adaee1e05acd0ab6ded47f6185c4ea6212d0bf0c97f78f5425032fa03",
+    "2026-11-06-mistral-studio-agents.json": "6081b7425577654b81d015fb2c5d571505662f07df193b7f99cd85df3d2b74f9",
+    "2026-11-06-nvidia-cosmos3.json": "6d933632d469e927535d8c9641c43c3fc1dcee0ec96662d1c407f5cd58735d08",
+    "2026-11-06-nvidia-vera-cpu.json": "50cd12eaca3c8787b0b4ced7975e18690029cfe0486d6e512e9518671d74a3af",
+    "2026-11-06-openai-gpt6-cyber.json": "1ad59de2e26b3fe970f31d8fdf50bf8c895e8ab985dec99c353d493427f72343"
+  },
+  "evidenceHashes": {
+    "1f02e089390a3d715e8dc8e591d2e1c5c62cfc6a4802c281e5eeae418ce7d2e0.json": "eac68ee950acb8e73ef3f5a02b9d691789edace98c56587ebe6f4d86e2b3a243",
+    "38ec17cc89099af3a3fc576bcff3c158185de55861baf7cc6b119f10984e6811.json": "c0665cae7246c0afc9b2cc43da24665c8551b36fc5cda4a4c179111fb1ab9bda",
+    "3f228d37ba713bbaff534b39f37566871b08a6fec9a1415ed40516849ed38d38.json": "d65fe1207772515094980aa0cbe375c80a53e6ea47a243469b2dfb4097a24097",
+    "48b0c7e9de71318e6fb75a5b882235455fe07c97909cdffdf11271343b603ef2.json": "0d039176eaaad8971c1531b7d1d06d699792c274d0a81be85ea955b3493f3eed",
+    "4f9eb8d8d7115d0a9a25eebc15b40715f48d02849b674bb71b8f3084e80a76fe.json": "14ba916f3c5f10c9f7553353439b032773fab89f4b2329aa5cc246626e5c960f",
+    "5250cad6c9205f3e53ad3f5510db12a336898d728d062f445c20e710ea20cd39.json": "2e47e8f4ded2a2bb9abcea41aae69da9899bed52465b2f1da3e01686de770ebb",
+    "5fe29d7a7c46aba0e7c3fa7d2e4b841d4d6b1260fb003c490b6580b65404e994.json": "d06fda905318bfc862ada8397726af72e7e451ad75c590c2a8fd79e3ea7cc36e",
+    "84e1888361f1cec0a025071b2ecf2ae3e94ebcbc28499de41399c0bd098ec823.json": "cb73bea713a8740fd53c0ea7bc4af73990c39901852c14013e057b09244c1c62",
+    "90c11b219411fd430efaedbe21d5143da81ab174de0236a00c19a04bcec603ec.json": "eacd2b3596bc7dee4f31fcbec1b9e90c16d76941570957ed0b79d318e6034742",
+    "d282365162c7c46ee82ebf259b479ca8f1e356c8642ef89cd1676149d601e037.json": "8e05486c89937afc73f84ac8ee7bdfd5729f6b17ee64f382d4dfa04277bcbc79"
+  },
+  "eventsHashes": {
+    "event-027fd021bb0df231161051d9.json": "ed43cdbc9ed0960a477897beb78b6295b8feb1d2939b04e7848cfff3cf3904d7",
+    "event-0d1128dc9f326c39cf2f82a0.json": "a6f4f3e48f5d9e00c62c216cccc1643f204c9adc68bdc35e4dec73f19fa32492",
+    "event-34781c801edd21ac8a0acfca.json": "f843ff280d8dcd9b2494cf8e03f4de9a63816d693bd3a82fb31063579b8fc084",
+    "event-48addd144571bc36a757913c.json": "dcbf53551f2e5a710dd53b6257f6e17d5e6fda140d09ac39b00c654129b1606e",
+    "event-73af74401daa55e9235eba5e.json": "1e03e32465b57581e0e881ad6595b6ae4ba372883a51b0516a6eec21c0718631",
+    "event-78534656d9390df92818e8a2.json": "a704acd1fb17e3cb58fc04aad9d5cf81944e89a59ffdc1775df7469ec1bd9869",
+    "event-806b981a21d1a123b018c994.json": "4efdc2c0618e6708ebe3b628e61a7cbe8ea79961f957c27239798b13130fc7db",
+    "event-9c714ba12fbd44eca0895273.json": "c05f13c4f390c4b402b0257b2be77a55c2fc56eacbb14c8a42dc468fb9ad179f",
+    "event-bc15db0d8e4e963f2a8c8109.json": "53dac8c0e817c8e64ab6da9e4dbf236b7ad10d47cd4dedb6b699e0a5e37090cc",
+    "event-bde8cb7d5f53643b8d3a4bfa.json": "b748accd48b9ed5be18a1042f8f8a64625e682741828acf8dd72282b6b25421c"
+  }
+}

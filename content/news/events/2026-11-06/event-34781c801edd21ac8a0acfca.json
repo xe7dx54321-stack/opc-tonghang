@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-34781c801edd21ac8a0acfca",
+  "title": "OpenAI推出GPT‑6 Cyber：攻防能力跃升，但仅向获批团队开放",
+  "firstSeen": "2026-11-06",
+  "editionDate": "2026-11-06",
+  "occurrences": [
+    {
+      "id": "occ-34781c801edd21ac8a0acfca",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "introduced restricted cybersecurity model",
+        "object": "GPT-6 Cyber and Daybreak Red access",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-06",
+      "reports": [
+        {
+          "ref": "2026-11-06/2026-11-06-openai-gpt6-cyber",
+          "itemId": "2026-11-06-openai-gpt6-cyber",
+          "editionDate": "2026-11-06",
+          "url": "https://openai.com/index/introducing-gpt-6-cyber",
+          "source": "openai-news",
+          "owner": "OpenAI",
+          "role": "principal",
+          "publishedAt": "2026-11-05T09:00:00.000Z",
+          "title": "OpenAI推出GPT‑6 Cyber：攻防能力跃升，但仅向获批团队开放"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-06"
+}

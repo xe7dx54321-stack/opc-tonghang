@@ -1,0 +1,12 @@
+{
+  "snapshotId": "38ec17cc89099af3a3fc576bcff3c158185de55861baf7cc6b119f10984e6811",
+  "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+  "publishedAt": "2026-11-05T16:00:00.000Z",
+  "publishedAtQuote": "article:published_time: 2026-11-05T16:00:00+00:00",
+  "retrievedAt": "2026-11-05T23:38:41.907Z",
+  "method": "agent-tool",
+  "contentHash": "6e2578550145c6797fa4adfb64baf098d97813d4e37437d9ef8c969c66c9b206",
+  "quotations": [
+    "PDD Kit helps you turn your intent into a formal spec, then proves the code your agent writes for every input and uses tests where a proof can’t reach."
+  ]
+}

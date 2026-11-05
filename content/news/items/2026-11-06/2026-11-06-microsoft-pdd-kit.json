@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-06-microsoft-pdd-kit",
+  "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+  "publishedAt": "2026-11-05T16:00:00.000Z",
+  "fact": {
+    "subject": "Microsoft Research",
+    "action": "published demonstration",
+    "object": "PDD Kit formal verification of agent-written web application",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Microsoft",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "38ec17cc89099af3a3fc576bcff3c158185de55861baf7cc6b119f10984e6811",
+    "originalUrl": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+    "originalPublishedAt": "2026-11-05T16:00:00.000Z",
+    "checkedAt": "2026-11-05T23:38:41.907Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "38ec17cc89099af3a3fc576bcff3c158185de55861baf7cc6b119f10984e6811",
+      "kind": "fact",
+      "quote": "PDD Kit helps you turn your intent into a formal spec, then proves the code your agent writes for every input and uses tests where a proof can’t reach."
+    }
+  ],
+  "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+  "source": "microsoft-research",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-05T17:23:02.659Z",
+  "duplicateOf": null,
+  "clusterId": "event-48addd144571bc36a757913c",
+  "displayTitle": "微软展示PDD Kit：让编程Agent的代码接受规格证明",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Microsoft Research",
+    "PDD Kit",
+    "Verus"
+  ],
+  "score": 0.7,
+  "summary": "微软研究团队展示PDD Kit，先把开发意图转换为形式化规格，再证明生成代码符合规格；无法覆盖的范围仍需测试，示例为Rust网店登录逻辑。",
+  "investorNote": "Agent生产力的瓶颈可能从生成速度转向可验证性，形式化方法有机会进入常规开发流程。",
+  "narrative": "微软研究团队披露PDD Kit案例：将意图变成形式化规格，用证明约束Agent生成代码，对无法证明的部分继续使用测试。它解决的是“测试通过却不符合原始需求”的风险；目前展示是特定登录逻辑案例，不是所有全栈代码均已可证明。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "新披露的PDD Kit验证案例，非历史事件的同次报道。"
+  },
+  "eventId": "event-48addd144571bc36a757913c",
+  "occurrenceId": "occ-48addd144571bc36a757913c",
+  "relatedItems": []
+}

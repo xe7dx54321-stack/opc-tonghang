@@ -1,0 +1,13 @@
+{
+  "snapshotId": "1f02e089390a3d715e8dc8e591d2e1c5c62cfc6a4802c281e5eeae418ce7d2e0",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "publishedAt": "2026-11-05T17:00:00.000Z",
+  "publishedAtQuote": "published_time: 2026-11-05T17:00:00+00:00",
+  "retrievedAt": "2026-11-05T23:38:41.966Z",
+  "method": "agent-tool",
+  "contentHash": "8ec873ee1b9e737a1f6804a6ea6361d49ccd4b2aa70cc3e63a607f91b036d285",
+  "quotations": [
+    "We are launching Gemini Omni 1.2 Flash with support for fifteen-second videos and improved reference adherence.",
+    "We have dropped the price 30% from Gemini Omni 1.1 making it available at $0.07 per second for 720p video."
+  ]
+}

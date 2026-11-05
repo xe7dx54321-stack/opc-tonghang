@@ -6,24 +6,6 @@
   "editionDate": "2026-10-17",
   "occurrences": [
     {
-      "id": "occ-c2f315ab4e1d4c4b66e9d044",
-      "fact": null,
-      "firstSeen": "2026-10-06",
-      "reports": [
-        {
-          "ref": "2026-10-06/2026-10-06-reflection-beam",
-          "itemId": "2026-10-06-reflection-beam",
-          "editionDate": "2026-10-06",
-          "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-          "source": "techcrunch",
-          "owner": "techcrunch",
-          "role": "unknown",
-          "publishedAt": "2026-10-05T19:33:53.000Z",
-          "title": "Reflection 发布 Beam，开放权重仍待本月交付"
-        }
-      ]
-    },
-    {
       "id": "occ-3f90958a850f4ecdfae0fab6",
       "fact": {
         "subject": "AWS",

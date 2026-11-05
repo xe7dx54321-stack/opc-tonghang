@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-06-google-omni-flash",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "publishedAt": "2026-11-05T17:00:00.000Z",
+  "fact": {
+    "subject": "Google",
+    "action": "rolled out and made generally available",
+    "object": "Gemini Omni 1.2 Flash video model",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Google",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "1f02e089390a3d715e8dc8e591d2e1c5c62cfc6a4802c281e5eeae418ce7d2e0",
+    "originalUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "originalPublishedAt": "2026-11-05T17:00:00.000Z",
+    "checkedAt": "2026-11-05T23:38:41.966Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "1f02e089390a3d715e8dc8e591d2e1c5c62cfc6a4802c281e5eeae418ce7d2e0",
+      "kind": "fact",
+      "quote": "We are launching Gemini Omni 1.2 Flash with support for fifteen-second videos and improved reference adherence."
+    },
+    {
+      "snapshotId": "1f02e089390a3d715e8dc8e591d2e1c5c62cfc6a4802c281e5eeae418ce7d2e0",
+      "kind": "condition",
+      "quote": "We have dropped the price 30% from Gemini Omni 1.1 making it available at $0.07 per second for 720p video."
+    }
+  ],
+  "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+  "source": "blog-google-ai",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-05T17:23:12.008Z",
+  "duplicateOf": null,
+  "clusterId": "event-0d1128dc9f326c39cf2f82a0",
+  "displayTitle": "Google上线Gemini Omni 1.2 Flash：视频延至15秒并降价",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Google",
+    "Gemini Omni 1.2 Flash"
+  ],
+  "score": 0.83,
+  "summary": "Google发布并开放Gemini Omni 1.2 Flash，原生视频生成与编辑长度从10秒升至15秒，支持多轮编辑；720p价格较1.1下调30%至每秒0.07美元。",
+  "investorNote": "视频模型的价格与可编辑性同时变化，应用层要比较可用素材率而非单次生成标价。",
+  "narrative": "Google让Gemini Omni 1.2 Flash在API和企业渠道正式可用：视频片段最长15秒，可通过多轮对话修改，720p报价降至每秒0.07美元，较上一版低30%。价格下降并不直接等于制作成本同比例下降，真正影响商业化的是一次生成后能否低成本修片。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "新版本上线与定价调整，不是旧版视频模型发布的复述。"
+  },
+  "eventId": "event-0d1128dc9f326c39cf2f82a0",
+  "occurrenceId": "occ-0d1128dc9f326c39cf2f82a0",
+  "relatedItems": []
+}

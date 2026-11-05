@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-06",
+  "itemCount": 10,
+  "storyCount": 10,
+  "clusterCount": 10,
+  "files": [
+    "2026-11-06-openai-gpt6-cyber.json",
+    "2026-11-06-mistral-studio-agents.json",
+    "2026-11-06-microsoft-pdd-kit.json",
+    "2026-11-06-dropbox-tigris.json",
+    "2026-11-06-google-omni-flash.json",
+    "2026-11-06-nvidia-cosmos3.json",
+    "2026-11-06-nvidia-vera-cpu.json",
+    "2026-11-06-abb-softbank-block.json",
+    "2026-11-06-agility-nasdaq.json",
+    "2026-11-06-baidu-ernie-flash.json"
+  ],
+  "representatives": [
+    "2026-11-06-openai-gpt6-cyber",
+    "2026-11-06-mistral-studio-agents",
+    "2026-11-06-microsoft-pdd-kit",
+    "2026-11-06-dropbox-tigris",
+    "2026-11-06-google-omni-flash",
+    "2026-11-06-nvidia-cosmos3",
+    "2026-11-06-nvidia-vera-cpu",
+    "2026-11-06-abb-softbank-block",
+    "2026-11-06-agility-nasdaq",
+    "2026-11-06-baidu-ernie-flash"
+  ]
+}

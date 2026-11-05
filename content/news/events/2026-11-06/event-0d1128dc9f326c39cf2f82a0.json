@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-0d1128dc9f326c39cf2f82a0",
+  "title": "Google上线Gemini Omni 1.2 Flash：视频延至15秒并降价",
+  "firstSeen": "2026-11-06",
+  "editionDate": "2026-11-06",
+  "occurrences": [
+    {
+      "id": "occ-0d1128dc9f326c39cf2f82a0",
+      "fact": {
+        "subject": "Google",
+        "action": "rolled out and made generally available",
+        "object": "Gemini Omni 1.2 Flash video model",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-06",
+      "reports": [
+        {
+          "ref": "2026-11-06/2026-11-06-google-omni-flash",
+          "itemId": "2026-11-06-google-omni-flash",
+          "editionDate": "2026-11-06",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "source": "blog-google-ai",
+          "owner": "Google",
+          "role": "principal",
+          "publishedAt": "2026-11-05T17:00:00.000Z",
+          "title": "Google上线Gemini Omni 1.2 Flash：视频延至15秒并降价"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-06"
+}

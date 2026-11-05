@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-48addd144571bc36a757913c",
+  "title": "微软展示PDD Kit：让编程Agent的代码接受规格证明",
+  "firstSeen": "2026-11-06",
+  "editionDate": "2026-11-06",
+  "occurrences": [
+    {
+      "id": "occ-48addd144571bc36a757913c",
+      "fact": {
+        "subject": "Microsoft Research",
+        "action": "published demonstration",
+        "object": "PDD Kit formal verification of agent-written web application",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-06",
+      "reports": [
+        {
+          "ref": "2026-11-06/2026-11-06-microsoft-pdd-kit",
+          "itemId": "2026-11-06-microsoft-pdd-kit",
+          "editionDate": "2026-11-06",
+          "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+          "source": "microsoft-research",
+          "owner": "Microsoft",
+          "role": "principal",
+          "publishedAt": "2026-11-05T16:00:00.000Z",
+          "title": "微软展示PDD Kit：让编程Agent的代码接受规格证明"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-06"
+}

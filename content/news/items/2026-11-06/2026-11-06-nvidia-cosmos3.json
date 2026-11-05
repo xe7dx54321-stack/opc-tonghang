@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-06-nvidia-cosmos3",
+  "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+  "publishedAt": "2026-11-05T19:35:16.341Z",
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "published open-weight checkpoints",
+    "object": "four Cosmos 3 Nano simulation variants",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "48b0c7e9de71318e6fb75a5b882235455fe07c97909cdffdf11271343b603ef2",
+    "originalUrl": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "originalPublishedAt": "2026-11-05T19:35:16.341Z",
+    "checkedAt": "2026-11-05T23:38:41.995Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "48b0c7e9de71318e6fb75a5b882235455fe07c97909cdffdf11271343b603ef2",
+      "kind": "fact",
+      "quote": "All four models are post-trained examples of Cosmos 3 Nano and have 16B trainable parameters."
+    },
+    {
+      "snapshotId": "48b0c7e9de71318e6fb75a5b882235455fe07c97909cdffdf11271343b603ef2",
+      "kind": "condition",
+      "quote": "These problems remain hard: the work ahead is to measure where the models faithfully support policy learning and evaluation, understand their limits, and improve where they fall short."
+    }
+  ],
+  "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+  "source": "hugging-face-blog",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-05T19:55:01.877Z",
+  "duplicateOf": null,
+  "clusterId": "event-78534656d9390df92818e8a2",
+  "displayTitle": "NVIDIA开放四款Cosmos 3权重，世界模型对接驾驶与双手操作",
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Cosmos 3 Nano"
+  ],
+  "score": 0.8,
+  "summary": "NVIDIA在Hugging Face公布四款Cosmos 3 Nano后训练开放权重，覆盖多视角驾驶、同步相机与LiDAR、仿真控制转视频和双手操作动作预测。",
+  "investorNote": "可控制的仿真数据比漂亮视频更接近机器人训练需求，但生成内容是否足以评估真实策略仍需验证。",
+  "narrative": "NVIDIA开放四款Cosmos 3 Nano后训练模型权重，分别面向多视角驾驶数据、相机与LiDAR联合生成、仿真控制转视频和双手动作后的画面预测。厂商也承认这些模型能否可靠支持策略训练仍待测量；对具身团队，核心不是“世界模型已解决仿真”，而是能否把动作、传感器和评估场景接成可重复实验。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "新开放的四个Cosmos 3 Nano后训练检查点。"
+  },
+  "eventId": "event-78534656d9390df92818e8a2",
+  "occurrenceId": "occ-78534656d9390df92818e8a2",
+  "relatedItems": []
+}
