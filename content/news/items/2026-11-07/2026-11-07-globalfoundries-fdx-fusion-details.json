@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-07-globalfoundries-fdx-fusion-details",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
+  "publishedAt": "2026-11-06T14:00:00.000Z",
+  "fact": {
+    "subject": "GlobalFoundries",
+    "action": "disclosed roadmap details in an interview",
+    "object": "FDX Fusion FD-SOI process",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "aeb830d6d768471d9e7793970130c1c24474fd9e07f73307936935b6c354da02",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
+    "originalPublishedAt": "2026-11-06T14:00:00.000Z",
+    "checkedAt": "2026-11-06T23:35:37.239Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "aeb830d6d768471d9e7793970130c1c24474fd9e07f73307936935b6c354da02",
+      "kind": "fact",
+      "quote": "shared new details about its FDX Fusion technology, including its 8nm-class logic density, advanced planar transistors, manufacturing costs, and plans to begin commercial production in 2028."
+    },
+    {
+      "snapshotId": "aeb830d6d768471d9e7793970130c1c24474fd9e07f73307936935b6c354da02",
+      "kind": "condition",
+      "quote": "2030 is when we want to get to high-volume manufacturing with FDX Fusion."
+    }
+  ],
+  "title": "GlobalFoundries details FDX Fusion roadmap and 2030 volume target",
+  "displayTitle": "格芯披露FDX Fusion路线：无EUV的平面晶体管瞄准2030年量产",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "GlobalFoundries",
+    "FDX Fusion",
+    "FD-SOI"
+  ],
+  "fetchedAt": "2026-11-06T14:11:33.147Z",
+  "summary": "Tom’s Hardware 11月6日刊出对GlobalFoundries负责人的采访，披露FDX Fusion的8纳米级逻辑密度、FD-SOI平面晶体管技术及制造路线。负责人称目标是2028年开始商业生产，2030年达到高产量制造，均属于计划并依赖客户与生态。",
+  "investorNote": "格芯选择FD-SOI和非EUV路线争取边缘计算、连接与车用市场；工艺目标和客户导入仍需实际良率验证。",
+  "narrative": "Tom’s Hardware采访格芯FD-SOI业务负责人，披露FDX Fusion拟用平面晶体管和非EUV工艺实现接近7纳米级性能、8纳米级逻辑密度。格芯把2028年商业生产、2030年高产量制造列为目标，负责人也明确依赖首批应用与客户。对成熟制程投资者，这条路线的看点是避开最昂贵光刻环节，进入连接、边缘推理和车用芯片；当前披露仍是路线图，不是量产验证。",
+  "score": 0.74,
+  "duplicateOf": null,
+  "clusterId": "event-8a899d4c782ed2a93a12b8f1",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期可核验的独立动作或新实测；近两周没有可确认的同一次发生目标。"
+  },
+  "eventId": "event-8a899d4c782ed2a93a12b8f1",
+  "occurrenceId": "occ-8a899d4c782ed2a93a12b8f1",
+  "relatedItems": []
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-07-nagare-z2ram-prototype",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/gelsinger-backed-nagare-labs-capacitorless-z2ram-promises-sram-speed-with-dram-density-latest-published-cell-retains-data-for-over-300-seconds-at-85-c-but-further-figures-are-projected",
+  "publishedAt": "2026-11-06T11:00:00.000Z",
+  "fact": {
+    "subject": "Nagare Labs",
+    "action": "outlined prototype and projections",
+    "object": "Z2RAM stacked memory",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "817bf52cb335ed632b93c8051cff1d2d19ab8405a82b9e70501ead8cd67656cd",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/semiconductors/gelsinger-backed-nagare-labs-capacitorless-z2ram-promises-sram-speed-with-dram-density-latest-published-cell-retains-data-for-over-300-seconds-at-85-c-but-further-figures-are-projected",
+    "originalPublishedAt": "2026-11-06T11:00:00.000Z",
+    "checkedAt": "2026-11-06T23:35:37.292Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "817bf52cb335ed632b93c8051cff1d2d19ab8405a82b9e70501ead8cd67656cd",
+      "kind": "fact",
+      "quote": "A Pat Gelsinger-backed Georgia Tech spinout, Nagare Labs,\nsays its Z2RAM can put SRAM-speed memory\n, at DRAM density, directly on top of AI chips."
+    },
+    {
+      "snapshotId": "817bf52cb335ed632b93c8051cff1d2d19ab8405a82b9e70501ead8cd67656cd",
+      "kind": "condition",
+      "quote": "Where we are is literally lab prototypes,” Datta told\nThe Register\n, adding that sampling of Z2RAM tiles is targeted within four years and production shipments, if they arrive, wit"
+    }
+  ],
+  "title": "Gelsinger-backed Nagare Labs’ Z2RAM promises SRAM speed at DRAM density",
+  "displayTitle": "Nagare Labs展示Z2RAM堆叠内存设想，工程仍处实验室原型",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "Nagare Labs",
+    "Z2RAM"
+  ],
+  "fetchedAt": "2026-11-06T11:07:01.834Z",
+  "summary": "Tom’s Hardware 11月6日报道Nagare Labs的Z2RAM堆叠内存方案，转述创始团队论文与公司目标。报道区分了在85摄氏度下超过300秒保持时间的实验单元和SRAM速度、DRAM密度等预测，并引用创始人称目前仍是实验室原型。",
+  "investorNote": "算力芯片的片上内存瓶颈真实存在，但Z2RAM的热稳定性、接口和制造规模均尚待验证。",
+  "narrative": "Nagare Labs提出把无电容Z2RAM层叠在AI芯片上的方案，试图在带宽、密度和热约束之间找到新组合。Tom’s Hardware核对了团队已有实验与公司预测：部分单元在85摄氏度的保持时间已有实验数据，而“SRAM速度、DRAM密度”仍是目标。创始人称当前只是实验室原型，接口标准和高温可靠性都未解决，离商业替代HBM还有很长工程路径。",
+  "score": 0.7,
+  "duplicateOf": null,
+  "clusterId": "event-8dfcaa927b8cb0bb20739819",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期可核验的独立动作或新实测；近两周没有可确认的同一次发生目标。"
+  },
+  "eventId": "event-8dfcaa927b8cb0bb20739819",
+  "occurrenceId": "occ-8dfcaa927b8cb0bb20739819",
+  "relatedItems": []
+}

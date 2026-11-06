@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-07",
+  "window": {
+    "start": 1793921400000,
+    "end": 1794007800000
+  },
+  "digestHash": "f27457ec2085ce753f425667998e277e3a8376cd5f4e0fb98a844aef55a2186c",
+  "stories": [
+    {
+      "heading": "Perplexity推出常驻Teammates Agent，面向持续工作任务",
+      "itemId": "2026-11-07-perplexity-teammates",
+      "eventId": "event-7d10fcf05c5a4f24e72b6c25",
+      "occurrenceId": "occ-7d10fcf05c5a4f24e72b6c25"
+    },
+    {
+      "heading": "AWS让SageMaker推理端点按GPU分区部署模型",
+      "itemId": "2026-11-07-aws-sagemaker-mig",
+      "eventId": "event-fe1cb5d91492cc27390eaf96",
+      "occurrenceId": "occ-fe1cb5d91492cc27390eaf96"
+    },
+    {
+      "heading": "Meta为Muse Agent推出Spaces，把持续任务放进独立工作区",
+      "itemId": "2026-11-07-meta-muse-spaces",
+      "eventId": "event-d664dfb50d06b45ce69b74e3",
+      "occurrenceId": "occ-d664dfb50d06b45ce69b74e3"
+    },
+    {
+      "heading": "OpenAI与Hacktron合作，排查第三方服务连接处的安全漏洞",
+      "itemId": "2026-11-07-openai-hacktron",
+      "eventId": "event-4289b03ce08eaa8cdb3ca2ac",
+      "occurrenceId": "occ-4289b03ce08eaa8cdb3ca2ac"
+    },
+    {
+      "heading": "Physicl获1000万美元种子轮，推出机器人仿真数据工具Studio",
+      "itemId": "2026-11-07-physicl-seed-simulation",
+      "eventId": "event-45fa3cb9ab40d58dac136649",
+      "occurrenceId": "occ-45fa3cb9ab40d58dac136649"
+    },
+    {
+      "heading": "Ai2推出ToyBlocks：用可控仿真世界拆解机器人学习问题",
+      "itemId": "2026-11-07-allenai-toyblocks",
+      "eventId": "event-98104ff1edc09c25bc0c4376",
+      "occurrenceId": "occ-98104ff1edc09c25bc0c4376"
+    },
+    {
+      "heading": "MIT科技评论实测Tau家务机器人：能清洁，主要仍靠远程操控",
+      "itemId": "2026-11-07-tau-robotics-cleaning-test",
+      "eventId": "event-b2371bcae2f157a1c6a49832",
+      "occurrenceId": "occ-b2371bcae2f157a1c6a49832"
+    },
+    {
+      "heading": "格芯披露FDX Fusion路线：无EUV的平面晶体管瞄准2030年量产",
+      "itemId": "2026-11-07-globalfoundries-fdx-fusion-details",
+      "eventId": "event-8a899d4c782ed2a93a12b8f1",
+      "occurrenceId": "occ-8a899d4c782ed2a93a12b8f1"
+    },
+    {
+      "heading": "Nagare Labs展示Z2RAM堆叠内存设想，工程仍处实验室原型",
+      "itemId": "2026-11-07-nagare-z2ram-prototype",
+      "eventId": "event-8dfcaa927b8cb0bb20739819",
+      "occurrenceId": "occ-8dfcaa927b8cb0bb20739819"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-07-allenai-toyblocks.json": "787236a9ab7553370cccbf6af528c5b7ac3c6c16ad08928dda7d5f7a44982dfd",
+    "2026-11-07-aws-sagemaker-mig.json": "e2929d3e0930a01284b866e7ae1a94f9a559a7fcfa7625898c376f3235d7ed87",
+    "2026-11-07-globalfoundries-fdx-fusion-details.json": "68c5860e3c414729671d7d1f1165cfa9817546ccb8d42ea36e43dd49fb5837c7",
+    "2026-11-07-meta-muse-spaces.json": "4d121ed0601a6a820b0d852d6df8bd9e4644323577b7081ddaa65b7e75e47317",
+    "2026-11-07-nagare-z2ram-prototype.json": "70970877469964d88af4032c9f0ef47157deaa10495c74baf63398737b3f2437",
+    "2026-11-07-openai-hacktron.json": "41fa87d40761cfb5963b91a13920b870446692fd400350d91a9f41d7781589ee",
+    "2026-11-07-perplexity-teammates.json": "28691ea5fa74fb184a7eea8b13136163aafc276b704a23786b8edd93ab75822b",
+    "2026-11-07-physicl-seed-simulation.json": "44a7559174bd478bc3e32f822cdf53bb6c37edfee970ea8c652dc24f8910f897",
+    "2026-11-07-tau-robotics-cleaning-test.json": "86ea0c6bc3a272ba397d8e3cb710d96dbaaa295c752f656e99980f13121962ad"
+  },
+  "evidenceHashes": {
+    "15b888fadbfe7f2735d5eaf2c2d57e0c75f32e1c01aafddbc1a9cdd76c2b47fc.json": "c78754ce44683e31ed7ff12269ad35b55b18b858d6d8a1a769d60ec5d14f934e",
+    "46e2f645d2259202297658a75f21141d2cdcf3d5a8e21dedc496c3888af30f37.json": "c01d296ea4a4e9d17effa5ab1cd381aceb294f10cd9acf67a9ef10a7a0065aeb",
+    "76f866a6dde8a5d877a1080b47712aeb476008f715f45b570d9a15af4e35858f.json": "3c4aa87f47c3abfd3849fccd5e0426be36abcc442e413c67e924230321502720",
+    "817bf52cb335ed632b93c8051cff1d2d19ab8405a82b9e70501ead8cd67656cd.json": "0b3b0572fee5128c636668d4a0e787d4f8e32314193cd961c61841f187746596",
+    "9c0041ccfcc97a5b5cf544dcd1e071fa18489ce6f67ed0100437b019a44777a5.json": "04828b75e6437f5297c69fafb959cef3e23bc89fa184d2684dce3c32277d75f4",
+    "a0fb5f70d0eba163b5af1b60f75c2be4413eb059d3dd9187d2bb4a653906521f.json": "dfec26a89cee0317cd404137d0e45a60b07c7a4aecac60608abe0d2f6cbab09b",
+    "ae08b6f5b6a8e2118cdbae7d9a7ef8be42ed904d51bbf5e786c192dcfdb294e3.json": "bef980977f0390d21891670722683d2862cabb0cf0ca65ab95c7ab269e9882be",
+    "aeb830d6d768471d9e7793970130c1c24474fd9e07f73307936935b6c354da02.json": "442264d02045e335510ebaa3da9d7f077e6b991fbc2d4861690f4e3d385bac0b",
+    "fa7df0f37d4c810830fd8f25f6114c0b4d3ea3822a72543a89fc78d95617055f.json": "258227d8dabe89ffdbd94d185144f7064a87798ef9059ebad3b072e31fec42aa"
+  },
+  "eventsHashes": {
+    "event-4289b03ce08eaa8cdb3ca2ac.json": "344117e69064ff0740ce361a7ffda0fdd4bffa40877e10f2a442c1d03015aa37",
+    "event-45fa3cb9ab40d58dac136649.json": "78f8934b76cb089f861c5d6ab2f8942b464c4825ffbba3e3eee2ec7b1805bc75",
+    "event-7d10fcf05c5a4f24e72b6c25.json": "e3d8c2647274d79b2c9f20a4d9a87bb7f6c547c8faeedf16ef828552cc6a0e82",
+    "event-8a899d4c782ed2a93a12b8f1.json": "99214aabf5499da9fc753c8a968394753db32591df5ba73de6db626c93c45224",
+    "event-8dfcaa927b8cb0bb20739819.json": "188d48da083bd2a45a56ed344142330547c862f4519d4d17d39b4118cdf53816",
+    "event-98104ff1edc09c25bc0c4376.json": "5d2b3af72d6901728abeba0552b75f10b1731cfc2eeadd5fe93a9c1354f6d5de",
+    "event-b2371bcae2f157a1c6a49832.json": "668c0c5eedbba22adbbbb4083babe8c7d0d0de26919604f027974c41904602d2",
+    "event-d664dfb50d06b45ce69b74e3.json": "d36a60ead04ba859cb02d9234b33725ce4325d1ccb62f114ee2e6bd950d87fe2",
+    "event-fe1cb5d91492cc27390eaf96.json": "f87388a3caa2006f272439de7eb0128845a01951a4e8af98568f670d98d56edb"
+  }
+}

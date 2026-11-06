@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-07-physicl-seed-simulation",
+  "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+  "publishedAt": "2026-11-06T13:00:00.000Z",
+  "fact": {
+    "subject": "Physicl",
+    "action": "raised seed funding and introduced simulation tooling",
+    "object": "10 million dollar seed round and Studio",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "a0fb5f70d0eba163b5af1b60f75c2be4413eb059d3dd9187d2bb4a653906521f",
+    "originalUrl": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "originalPublishedAt": "2026-11-06T13:00:00.000Z",
+    "checkedAt": "2026-11-06T23:35:37.056Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "a0fb5f70d0eba163b5af1b60f75c2be4413eb059d3dd9187d2bb4a653906521f",
+      "kind": "fact",
+      "quote": "has raised $10 million in seed funding led by Inovia Capital to help world model designers and robot builders solve thorny training problems with more realistic simulations."
+    },
+    {
+      "snapshotId": "a0fb5f70d0eba163b5af1b60f75c2be4413eb059d3dd9187d2bb4a653906521f",
+      "kind": "condition",
+      "quote": "The startup is releasing a product called Studio with 10,000 3D environments and 100,000 assets that represent various objects."
+    }
+  ],
+  "title": "Physicl raises $10M to make the digital world real enough for robots",
+  "displayTitle": "Physicl获1000万美元种子轮，推出机器人仿真数据工具Studio",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [
+    "Physicl",
+    "Inovia Capital",
+    "Studio"
+  ],
+  "fetchedAt": "2026-11-06T13:08:56.259Z",
+  "summary": "TechCrunch独家报道，Physicl获得Inovia Capital领投的1000万美元种子轮。公司将原有电商3D资产技术转向机器人和世界模型训练，推出Studio，包含约1万个3D环境和10万个资产，供生成合成训练数据。",
+  "investorNote": "仿真资产的价值取决于能否针对机器人失败边界生成有效训练样本，而非场景库规模本身。",
+  "narrative": "Physicl获得Inovia Capital领投的1000万美元种子轮，并推出面向机器人训练的Studio。团队把原先为电商构建商品三维场景的技术转向仿真，称平台提供约1万个环境、10万个资产。其投资逻辑是降低真实世界采样成本，但场景数量只是供给端指标；关键要看合成样本能否改善机器人在边缘场景中的真实表现。",
+  "score": 0.72,
+  "duplicateOf": null,
+  "clusterId": "event-45fa3cb9ab40d58dac136649",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期可核验的独立动作或新实测；近两周没有可确认的同一次发生目标。"
+  },
+  "eventId": "event-45fa3cb9ab40d58dac136649",
+  "occurrenceId": "occ-45fa3cb9ab40d58dac136649",
+  "relatedItems": []
+}

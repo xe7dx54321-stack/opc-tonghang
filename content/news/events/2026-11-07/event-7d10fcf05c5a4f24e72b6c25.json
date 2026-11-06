@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-7d10fcf05c5a4f24e72b6c25",
+  "title": "Perplexity推出常驻Teammates Agent，面向持续工作任务",
+  "firstSeen": "2026-11-07",
+  "editionDate": "2026-11-07",
+  "occurrences": [
+    {
+      "id": "occ-7d10fcf05c5a4f24e72b6c25",
+      "fact": {
+        "subject": "Perplexity",
+        "action": "launched",
+        "object": "Teammates always-on agents",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-07",
+      "reports": [
+        {
+          "ref": "2026-11-07/2026-11-07-perplexity-teammates",
+          "itemId": "2026-11-07-perplexity-teammates",
+          "editionDate": "2026-11-07",
+          "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-11-06T16:47:28.000Z",
+          "title": "Perplexity推出常驻Teammates Agent，面向持续工作任务"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-07"
+}

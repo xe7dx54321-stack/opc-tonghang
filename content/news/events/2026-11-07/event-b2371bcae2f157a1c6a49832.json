@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-b2371bcae2f157a1c6a49832",
+  "title": "MIT科技评论实测Tau家务机器人：能清洁，主要仍靠远程操控",
+  "firstSeen": "2026-11-07",
+  "editionDate": "2026-11-07",
+  "occurrences": [
+    {
+      "id": "occ-b2371bcae2f157a1c6a49832",
+      "fact": {
+        "subject": "MIT Technology Review",
+        "action": "published first-hand test",
+        "object": "Tau Robotics remotely piloted cleaning service",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-07",
+      "reports": [
+        {
+          "ref": "2026-11-07/2026-11-07-tau-robotics-cleaning-test",
+          "itemId": "2026-11-07-tau-robotics-cleaning-test",
+          "editionDate": "2026-11-07",
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "source": "mit-tech-review-ai",
+          "owner": "MIT Technology Review",
+          "role": "observer",
+          "publishedAt": "2026-11-06T10:00:00.000Z",
+          "title": "MIT科技评论实测Tau家务机器人：能清洁，主要仍靠远程操控"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-07"
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-07-aws-sagemaker-mig",
+  "url": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
+  "publishedAt": "2026-11-06T18:01:00.000Z",
+  "fact": {
+    "subject": "AWS",
+    "action": "added GPU partitioning",
+    "object": "SageMaker Inference components with NVIDIA MIG",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "AWS",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "9c0041ccfcc97a5b5cf544dcd1e071fa18489ce6f67ed0100437b019a44777a5",
+    "originalUrl": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
+    "originalPublishedAt": "2026-11-06T18:01:00.000Z",
+    "checkedAt": "2026-11-06T23:35:36.984Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "9c0041ccfcc97a5b5cf544dcd1e071fa18489ce6f67ed0100437b019a44777a5",
+      "kind": "fact",
+      "quote": "Today, Amazon SageMaker Inference supports GPU partitioning, which uses\nNVIDIA Multi-Instance GPU\n(MIG) to divide a physical GPU into independent partitions."
+    },
+    {
+      "snapshotId": "9c0041ccfcc97a5b5cf544dcd1e071fa18489ce6f67ed0100437b019a44777a5",
+      "kind": "condition",
+      "quote": "Single-model endpoints, serverless endpoints, and heterogeneous instance pools cannot be partitioned."
+    }
+  ],
+  "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+  "displayTitle": "AWS让SageMaker推理端点按GPU分区部署模型",
+  "source": "aws-machine-learning",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "AWS",
+    "SageMaker",
+    "NVIDIA MIG"
+  ],
+  "fetchedAt": "2026-11-06T18:18:49.882Z",
+  "summary": "AWS宣布SageMaker Inference的inference components支持NVIDIA Multi-Instance GPU分区。一个GPU可拆为硬件隔离分区，部署不同模型或使用新一代GPU的一部分。单模型、serverless和异构实例池端点不适用。",
+  "investorNote": "GPU分区把推理采购粒度从整卡降到分区，对多模型低负载部署的利用率和单位成本更有意义。",
+  "narrative": "AWS在SageMaker Inference加入NVIDIA MIG分区支持，一个物理GPU可承载多个硬件隔离的模型分区。它针对的是整卡部署造成的闲置和新旧加速器之间的容量断层，尤其适合多模型、单模型负载不高的企业端点。适用范围限于inference components；单模型、serverless和异构实例池端点目前不支持。",
+  "score": 0.77,
+  "duplicateOf": null,
+  "clusterId": "event-fe1cb5d91492cc27390eaf96",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期可核验的独立动作或新实测；近两周没有可确认的同一次发生目标。"
+  },
+  "eventId": "event-fe1cb5d91492cc27390eaf96",
+  "occurrenceId": "occ-fe1cb5d91492cc27390eaf96",
+  "relatedItems": []
+}

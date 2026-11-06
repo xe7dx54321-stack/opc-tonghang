@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-45fa3cb9ab40d58dac136649",
+  "title": "Physicl获1000万美元种子轮，推出机器人仿真数据工具Studio",
+  "firstSeen": "2026-11-07",
+  "editionDate": "2026-11-07",
+  "occurrences": [
+    {
+      "id": "occ-45fa3cb9ab40d58dac136649",
+      "fact": {
+        "subject": "Physicl",
+        "action": "raised seed funding and introduced simulation tooling",
+        "object": "10 million dollar seed round and Studio",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-07",
+      "reports": [
+        {
+          "ref": "2026-11-07/2026-11-07-physicl-seed-simulation",
+          "itemId": "2026-11-07-physicl-seed-simulation",
+          "editionDate": "2026-11-07",
+          "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-06T13:00:00.000Z",
+          "title": "Physicl获1000万美元种子轮，推出机器人仿真数据工具Studio"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-07"
+}

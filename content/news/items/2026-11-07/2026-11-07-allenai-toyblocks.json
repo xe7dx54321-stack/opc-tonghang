@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-07-allenai-toyblocks",
+  "url": "https://huggingface.co/blog/allenai/toyblocks",
+  "publishedAt": "2026-11-06T14:00:48.059Z",
+  "fact": {
+    "subject": "Ai2",
+    "action": "introduced robotics evaluation framework",
+    "object": "FoundationWorlds and ToyBlocks",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Ai2",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "46e2f645d2259202297658a75f21141d2cdcf3d5a8e21dedc496c3888af30f37",
+    "originalUrl": "https://huggingface.co/blog/allenai/toyblocks",
+    "originalPublishedAt": "2026-11-06T14:00:48.059Z",
+    "checkedAt": "2026-11-06T23:35:37.182Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "46e2f645d2259202297658a75f21141d2cdcf3d5a8e21dedc496c3888af30f37",
+      "kind": "fact",
+      "quote": "Today we're introducing a framework for creating these environments; we call them FoundationWorlds."
+    },
+    {
+      "snapshotId": "46e2f645d2259202297658a75f21141d2cdcf3d5a8e21dedc496c3888af30f37",
+      "kind": "condition",
+      "quote": "Our first foundation world is\nToyBlocks\n: an open simulation framework built around a robot arm and blocks on a tabletop."
+    }
+  ],
+  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "displayTitle": "Ai2推出ToyBlocks：用可控仿真世界拆解机器人学习问题",
+  "source": "hugging-face-blog",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [
+    "Ai2",
+    "FoundationWorlds",
+    "ToyBlocks"
+  ],
+  "fetchedAt": "2026-11-06T15:45:40.837Z",
+  "summary": "Ai2于11月6日介绍FoundationWorlds框架及首个ToyBlocks环境。ToyBlocks围绕机械臂与桌面积木，自动生成训练演示、任务和评估指标，供研究人员改变数据和模型设计，观察机器人推、翻、堆叠等动作的泛化。",
+  "investorNote": "可重复的仿真基准有助于区分模型能力与数据量贡献，但桌面积木结果不能直接外推到复杂真实场景。",
+  "narrative": "Ai2推出FoundationWorlds框架，首个环境ToyBlocks把机械臂和积木操作放在可控仿真中，自动生成演示、任务与评估指标。它要解决的是机器人论文里难以复现的“到底学到了什么”问题：研究者可控制训练数据，再看未见任务表现。环境刻意简单，因此更适合作为机制实验台，不能把积木成绩直接当作家庭或工厂部署能力。",
+  "score": 0.74,
+  "duplicateOf": null,
+  "clusterId": "event-98104ff1edc09c25bc0c4376",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期可核验的独立动作或新实测；近两周没有可确认的同一次发生目标。"
+  },
+  "eventId": "event-98104ff1edc09c25bc0c4376",
+  "occurrenceId": "occ-98104ff1edc09c25bc0c4376",
+  "relatedItems": []
+}

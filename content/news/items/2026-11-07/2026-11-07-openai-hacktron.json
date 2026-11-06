@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-07-openai-hacktron",
+  "url": "https://openai.com/index/partnering-with-hacktron",
+  "publishedAt": "2026-11-06T08:00:00.000Z",
+  "fact": {
+    "subject": "OpenAI",
+    "action": "announced partnership",
+    "object": "Hacktron security testing of OpenAI systems",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "OpenAI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "76f866a6dde8a5d877a1080b47712aeb476008f715f45b570d9a15af4e35858f",
+    "originalUrl": "https://openai.com/index/partnering-with-hacktron",
+    "originalPublishedAt": "2026-11-06T08:00:00.000Z",
+    "checkedAt": "2026-11-06T23:35:36.896Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "76f866a6dde8a5d877a1080b47712aeb476008f715f45b570d9a15af4e35858f",
+      "kind": "fact",
+      "quote": "Today we’re announcing a partnership with Hacktron to find vulnerabilities in OpenAI’s systems."
+    },
+    {
+      "snapshotId": "76f866a6dde8a5d877a1080b47712aeb476008f715f45b570d9a15af4e35858f",
+      "kind": "condition",
+      "quote": "Our engineers and Hacktron’s security researchers will choose high-priority areas to test together, with a focus on how our systems interact with third-party services."
+    }
+  ],
+  "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+  "displayTitle": "OpenAI与Hacktron合作，排查第三方服务连接处的安全漏洞",
+  "source": "openai-news",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI",
+    "Hacktron",
+    "Daybreak Red"
+  ],
+  "fetchedAt": "2026-11-06T18:18:48.375Z",
+  "summary": "OpenAI于11月6日宣布与安全研究团队Hacktron合作，由双方挑选高优先级区域，重点测试OpenAI系统同第三方服务的连接，并扩大Hacktron对前沿模型的访问。公告没有给出已发现漏洞的数量或修复结果。",
+  "investorNote": "Agent连接外部服务后，身份、权限与跨系统交互成为新的攻击面；合作的价值需由后续漏洞披露和修复质量衡量。",
+  "narrative": "OpenAI宣布与Hacktron联合排查其系统漏洞，重点放在与第三方服务交互的环节，并扩大研究团队使用前沿模型的权限。随着Agent接入更多外部系统，安全问题不再局限于单个模型输出；真正可衡量的结果仍是后续发现、复现和修复了哪些问题。",
+  "score": 0.64,
+  "duplicateOf": null,
+  "clusterId": "event-4289b03ce08eaa8cdb3ca2ac",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期可核验的独立动作或新实测；近两周没有可确认的同一次发生目标。"
+  },
+  "eventId": "event-4289b03ce08eaa8cdb3ca2ac",
+  "occurrenceId": "occ-4289b03ce08eaa8cdb3ca2ac",
+  "relatedItems": []
+}

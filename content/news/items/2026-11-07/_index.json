@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-07",
+  "itemCount": 9,
+  "storyCount": 9,
+  "clusterCount": 9,
+  "files": [
+    "2026-11-07-openai-hacktron.json",
+    "2026-11-07-tau-robotics-cleaning-test.json",
+    "2026-11-07-aws-sagemaker-mig.json",
+    "2026-11-07-meta-muse-spaces.json",
+    "2026-11-07-physicl-seed-simulation.json",
+    "2026-11-07-perplexity-teammates.json",
+    "2026-11-07-allenai-toyblocks.json",
+    "2026-11-07-globalfoundries-fdx-fusion-details.json",
+    "2026-11-07-nagare-z2ram-prototype.json"
+  ],
+  "representatives": [
+    "2026-11-07-openai-hacktron",
+    "2026-11-07-tau-robotics-cleaning-test",
+    "2026-11-07-aws-sagemaker-mig",
+    "2026-11-07-meta-muse-spaces",
+    "2026-11-07-physicl-seed-simulation",
+    "2026-11-07-perplexity-teammates",
+    "2026-11-07-allenai-toyblocks",
+    "2026-11-07-globalfoundries-fdx-fusion-details",
+    "2026-11-07-nagare-z2ram-prototype"
+  ]
+}

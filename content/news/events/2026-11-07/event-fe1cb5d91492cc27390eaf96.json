@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-fe1cb5d91492cc27390eaf96",
+  "title": "AWS让SageMaker推理端点按GPU分区部署模型",
+  "firstSeen": "2026-11-07",
+  "editionDate": "2026-11-07",
+  "occurrences": [
+    {
+      "id": "occ-fe1cb5d91492cc27390eaf96",
+      "fact": {
+        "subject": "AWS",
+        "action": "added GPU partitioning",
+        "object": "SageMaker Inference components with NVIDIA MIG",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-07",
+      "reports": [
+        {
+          "ref": "2026-11-07/2026-11-07-aws-sagemaker-mig",
+          "itemId": "2026-11-07-aws-sagemaker-mig",
+          "editionDate": "2026-11-07",
+          "url": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
+          "source": "aws-machine-learning",
+          "owner": "AWS",
+          "role": "principal",
+          "publishedAt": "2026-11-06T18:01:00.000Z",
+          "title": "AWS让SageMaker推理端点按GPU分区部署模型"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-07"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-d664dfb50d06b45ce69b74e3",
+  "title": "Meta为Muse Agent推出Spaces，把持续任务放进独立工作区",
+  "firstSeen": "2026-11-07",
+  "editionDate": "2026-11-07",
+  "occurrences": [
+    {
+      "id": "occ-d664dfb50d06b45ce69b74e3",
+      "fact": {
+        "subject": "Meta",
+        "action": "launched",
+        "object": "Spaces for Muse agents",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-07",
+      "reports": [
+        {
+          "ref": "2026-11-07/2026-11-07-meta-muse-spaces",
+          "itemId": "2026-11-07-meta-muse-spaces",
+          "editionDate": "2026-11-07",
+          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-06T18:44:20.000Z",
+          "title": "Meta为Muse Agent推出Spaces，把持续任务放进独立工作区"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-07"
+}

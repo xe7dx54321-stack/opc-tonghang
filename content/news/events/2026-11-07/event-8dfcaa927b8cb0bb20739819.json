@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-8dfcaa927b8cb0bb20739819",
+  "title": "Nagare Labs展示Z2RAM堆叠内存设想，工程仍处实验室原型",
+  "firstSeen": "2026-11-07",
+  "editionDate": "2026-11-07",
+  "occurrences": [
+    {
+      "id": "occ-8dfcaa927b8cb0bb20739819",
+      "fact": {
+        "subject": "Nagare Labs",
+        "action": "outlined prototype and projections",
+        "object": "Z2RAM stacked memory",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-07",
+      "reports": [
+        {
+          "ref": "2026-11-07/2026-11-07-nagare-z2ram-prototype",
+          "itemId": "2026-11-07-nagare-z2ram-prototype",
+          "editionDate": "2026-11-07",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/gelsinger-backed-nagare-labs-capacitorless-z2ram-promises-sram-speed-with-dram-density-latest-published-cell-retains-data-for-over-300-seconds-at-85-c-but-further-figures-are-projected",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-11-06T11:00:00.000Z",
+          "title": "Nagare Labs展示Z2RAM堆叠内存设想，工程仍处实验室原型"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-07"
+}

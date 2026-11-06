@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-07-perplexity-teammates",
+  "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+  "publishedAt": "2026-11-06T16:47:28.000Z",
+  "fact": {
+    "subject": "Perplexity",
+    "action": "launched",
+    "object": "Teammates always-on agents",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "15b888fadbfe7f2735d5eaf2c2d57e0c75f32e1c01aafddbc1a9cdd76c2b47fc",
+    "originalUrl": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+    "originalPublishedAt": "2026-11-06T16:47:28.000Z",
+    "checkedAt": "2026-11-06T23:35:37.141Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "15b888fadbfe7f2735d5eaf2c2d57e0c75f32e1c01aafddbc1a9cdd76c2b47fc",
+      "kind": "fact",
+      "quote": "Perplexity now has its own AI agent that runs around the clock and handles work tasks on its own."
+    },
+    {
+      "snapshotId": "15b888fadbfe7f2735d5eaf2c2d57e0c75f32e1c01aafddbc1a9cdd76c2b47fc",
+      "kind": "condition",
+      "quote": "Teammates require the Max plan at $200 per month."
+    }
+  ],
+  "title": "Perplexity now has its own always-on AI agent",
+  "displayTitle": "Perplexity推出常驻Teammates Agent，面向持续工作任务",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Perplexity",
+    "Teammates"
+  ],
+  "fetchedAt": "2026-11-06T16:47:45.953Z",
+  "summary": "The Decoder 11月6日报道Perplexity推出Teammates。每个Agent运行于带桌面和浏览器的独立虚拟机，持续处理项目并可经应用线程与Slack跟进；目前需要每月200美元的Max套餐。官方博客访问受限，已核验可读报道的原文与时间。",
+  "investorNote": "常驻Agent把竞争从单次答案转向任务执行与持续运行成本，订阅价格反映该形态仍受算力与操作成本约束。",
+  "narrative": "Perplexity推出Teammates，让Agent在独立虚拟机里持续处理项目，并通过应用线程或Slack与用户协作；可用门槛是每月200美元的Max套餐。它区别于一次性查询的地方在于任务状态长期保留，但高定价也提示持续运行的成本尚未被大规模摊薄。真正要跟踪的是跨天任务的完成质量和人工接管频率。",
+  "score": 0.73,
+  "duplicateOf": null,
+  "clusterId": "event-7d10fcf05c5a4f24e72b6c25",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期可核验的独立动作或新实测；近两周没有可确认的同一次发生目标。"
+  },
+  "eventId": "event-7d10fcf05c5a4f24e72b6c25",
+  "occurrenceId": "occ-7d10fcf05c5a4f24e72b6c25",
+  "relatedItems": []
+}

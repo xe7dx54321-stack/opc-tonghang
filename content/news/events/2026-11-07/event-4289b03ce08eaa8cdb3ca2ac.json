@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-4289b03ce08eaa8cdb3ca2ac",
+  "title": "OpenAI与Hacktron合作，排查第三方服务连接处的安全漏洞",
+  "firstSeen": "2026-11-07",
+  "editionDate": "2026-11-07",
+  "occurrences": [
+    {
+      "id": "occ-4289b03ce08eaa8cdb3ca2ac",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "announced partnership",
+        "object": "Hacktron security testing of OpenAI systems",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-07",
+      "reports": [
+        {
+          "ref": "2026-11-07/2026-11-07-openai-hacktron",
+          "itemId": "2026-11-07-openai-hacktron",
+          "editionDate": "2026-11-07",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "source": "openai-news",
+          "owner": "OpenAI",
+          "role": "principal",
+          "publishedAt": "2026-11-06T08:00:00.000Z",
+          "title": "OpenAI与Hacktron合作，排查第三方服务连接处的安全漏洞"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-07"
+}

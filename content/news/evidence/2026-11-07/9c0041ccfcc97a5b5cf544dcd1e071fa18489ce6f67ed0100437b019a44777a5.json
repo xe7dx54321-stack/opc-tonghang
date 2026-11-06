@@ -1,0 +1,13 @@
+{
+  "snapshotId": "9c0041ccfcc97a5b5cf544dcd1e071fa18489ce6f67ed0100437b019a44777a5",
+  "url": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
+  "publishedAt": "2026-11-06T18:01:00.000Z",
+  "publishedAtQuote": "2026-11-06T10:01:00-08:00",
+  "retrievedAt": "2026-11-06T23:35:36.984Z",
+  "method": "agent-tool",
+  "contentHash": "458834ed73778cb4692b9a008fac272c206dd5869fd15b3f4cbbf8257bd605d0",
+  "quotations": [
+    "Today, Amazon SageMaker Inference supports GPU partitioning, which uses\nNVIDIA Multi-Instance GPU\n(MIG) to divide a physical GPU into independent partitions.",
+    "Single-model endpoints, serverless endpoints, and heterogeneous instance pools cannot be partitioned."
+  ]
+}

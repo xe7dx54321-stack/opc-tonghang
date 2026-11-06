@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-07-tau-robotics-cleaning-test",
+  "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+  "publishedAt": "2026-11-06T10:00:00.000Z",
+  "fact": {
+    "subject": "MIT Technology Review",
+    "action": "published first-hand test",
+    "object": "Tau Robotics remotely piloted cleaning service",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "MIT Technology Review",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "fa7df0f37d4c810830fd8f25f6114c0b4d3ea3822a72543a89fc78d95617055f",
+    "originalUrl": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "originalPublishedAt": "2026-11-06T10:00:00.000Z",
+    "checkedAt": "2026-11-06T23:35:36.932Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "fa7df0f37d4c810830fd8f25f6114c0b4d3ea3822a72543a89fc78d95617055f",
+      "kind": "fact",
+      "quote": "For now, the robots are piloted remotely by humans, who watch what’s going on via cameras mounted in the robots’ heads and wrists."
+    },
+    {
+      "snapshotId": "fa7df0f37d4c810830fd8f25f6114c0b4d3ea3822a72543a89fc78d95617055f",
+      "kind": "condition",
+      "quote": "At the time I booked, Tau was offering $30 for an hourlong cleaning with a single robot; now the charge is $60 per weekly cleaning with two robots, or $100 for a one-time visit."
+    }
+  ],
+  "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+  "displayTitle": "MIT科技评论实测Tau家务机器人：能清洁，主要仍靠远程操控",
+  "source": "mit-tech-review-ai",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Tau Robotics"
+  ],
+  "fetchedAt": "2026-11-06T10:36:23.789Z",
+  "summary": "MIT Technology Review记者亲自预约Tau Robotics的上门清洁服务。机器人可完成擦拭与整理，但目前主要由远程人员通过摄像头操作，部分任务还需要动作引导。报道列出的现价为每周两台机器人60美元或单次100美元，服务速度仍慢。",
+  "investorNote": "真实家庭服务验证了执行能力，也暴露遥操作人工成本；投资人应把数据采集业务与完全自主服务区分。",
+  "narrative": "MIT Technology Review记者实测Tau Robotics的家务机器人：它确实能做清洁，但目前大部分动作由远程人员操作，部分整理任务还需人类动作引导。公司借此收集真实家庭数据；商业化问题是人力与机器时间能否随自主率提升而下降，现阶段不能按“全自主家务机器人”估值。",
+  "score": 0.72,
+  "duplicateOf": null,
+  "clusterId": "event-b2371bcae2f157a1c6a49832",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期可核验的独立动作或新实测；近两周没有可确认的同一次发生目标。"
+  },
+  "eventId": "event-b2371bcae2f157a1c6a49832",
+  "occurrenceId": "occ-b2371bcae2f157a1c6a49832",
+  "relatedItems": []
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-8a899d4c782ed2a93a12b8f1",
+  "title": "格芯披露FDX Fusion路线：无EUV的平面晶体管瞄准2030年量产",
+  "firstSeen": "2026-11-07",
+  "editionDate": "2026-11-07",
+  "occurrences": [
+    {
+      "id": "occ-8a899d4c782ed2a93a12b8f1",
+      "fact": {
+        "subject": "GlobalFoundries",
+        "action": "disclosed roadmap details in an interview",
+        "object": "FDX Fusion FD-SOI process",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-07",
+      "reports": [
+        {
+          "ref": "2026-11-07/2026-11-07-globalfoundries-fdx-fusion-details",
+          "itemId": "2026-11-07-globalfoundries-fdx-fusion-details",
+          "editionDate": "2026-11-07",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-11-06T14:00:00.000Z",
+          "title": "格芯披露FDX Fusion路线：无EUV的平面晶体管瞄准2030年量产"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-07"
+}

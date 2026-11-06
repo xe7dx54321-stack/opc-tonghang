@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-07-meta-muse-spaces",
+  "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+  "publishedAt": "2026-11-06T18:44:20.000Z",
+  "fact": {
+    "subject": "Meta",
+    "action": "launched",
+    "object": "Spaces for Muse agents",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "ae08b6f5b6a8e2118cdbae7d9a7ef8be42ed904d51bbf5e786c192dcfdb294e3",
+    "originalUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "originalPublishedAt": "2026-11-06T18:44:20.000Z",
+    "checkedAt": "2026-11-06T23:35:37.019Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "ae08b6f5b6a8e2118cdbae7d9a7ef8be42ed904d51bbf5e786c192dcfdb294e3",
+      "kind": "fact",
+      "quote": "Now, the company has launched Spaces, a new way to communicate and collaborate with them."
+    },
+    {
+      "snapshotId": "ae08b6f5b6a8e2118cdbae7d9a7ef8be42ed904d51bbf5e786c192dcfdb294e3",
+      "kind": "condition",
+      "quote": "Spaces can also be easily integrated with third-party apps and information, Meta says."
+    }
+  ],
+  "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+  "displayTitle": "Meta为Muse Agent推出Spaces，把持续任务放进独立工作区",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Meta",
+    "Muse",
+    "Spaces"
+  ],
+  "fetchedAt": "2026-11-06T18:49:14.849Z",
+  "summary": "TechCrunch报道Meta在Muse Agent中推出Spaces。用户可以用自然语言建立项目空间，Muse在空间中维护规划、追踪器或看板；Meta称空间可连接第三方应用并在后台更新信息。报道发表于11月6日。",
+  "investorNote": "Agent产品从一次性聊天转向有状态的项目空间，竞争点将落在外部数据接入、持续更新和实际留存。",
+  "narrative": "Meta为Muse Agent推出Spaces：用户描述目标后可得到专门的项目空间，借助连接的应用在后台更新信息。它把Agent从一次性对话推向持续项目管理，但目前材料主要是功能说明，尚未提供任务完成率或留存数据。对同类产品而言，第三方数据接入和长期上下文的可靠性比创建一个看板更关键。",
+  "score": 0.7,
+  "duplicateOf": null,
+  "clusterId": "event-d664dfb50d06b45ce69b74e3",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期可核验的独立动作或新实测；近两周没有可确认的同一次发生目标。"
+  },
+  "eventId": "event-d664dfb50d06b45ce69b74e3",
+  "occurrenceId": "occ-d664dfb50d06b45ce69b74e3",
+  "relatedItems": []
+}

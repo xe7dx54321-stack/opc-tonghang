@@ -1,0 +1,13 @@
+{
+  "snapshotId": "76f866a6dde8a5d877a1080b47712aeb476008f715f45b570d9a15af4e35858f",
+  "url": "https://openai.com/index/partnering-with-hacktron",
+  "publishedAt": "2026-11-06T08:00:00.000Z",
+  "publishedAtQuote": "November 6, 2026",
+  "retrievedAt": "2026-11-06T23:35:36.896Z",
+  "method": "agent-tool",
+  "contentHash": "ea1d75317a26dc2bff6aba26612b277fb8de04e2a0a32e4954e296730229b6c2",
+  "quotations": [
+    "Today we’re announcing a partnership with Hacktron to find vulnerabilities in OpenAI’s systems.",
+    "Our engineers and Hacktron’s security researchers will choose high-priority areas to test together, with a focus on how our systems interact with third-party services."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-98104ff1edc09c25bc0c4376",
+  "title": "Ai2推出ToyBlocks：用可控仿真世界拆解机器人学习问题",
+  "firstSeen": "2026-11-07",
+  "editionDate": "2026-11-07",
+  "occurrences": [
+    {
+      "id": "occ-98104ff1edc09c25bc0c4376",
+      "fact": {
+        "subject": "Ai2",
+        "action": "introduced robotics evaluation framework",
+        "object": "FoundationWorlds and ToyBlocks",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-07",
+      "reports": [
+        {
+          "ref": "2026-11-07/2026-11-07-allenai-toyblocks",
+          "itemId": "2026-11-07-allenai-toyblocks",
+          "editionDate": "2026-11-07",
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "source": "hugging-face-blog",
+          "owner": "Ai2",
+          "role": "principal",
+          "publishedAt": "2026-11-06T14:00:48.059Z",
+          "title": "Ai2推出ToyBlocks：用可控仿真世界拆解机器人学习问题"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-07"
+}

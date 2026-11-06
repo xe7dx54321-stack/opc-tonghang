@@ -1,0 +1,13 @@
+{
+  "snapshotId": "46e2f645d2259202297658a75f21141d2cdcf3d5a8e21dedc496c3888af30f37",
+  "url": "https://huggingface.co/blog/allenai/toyblocks",
+  "publishedAt": "2026-11-06T14:00:48.059Z",
+  "publishedAtQuote": "2026-11-06T14:00:48.059Z",
+  "retrievedAt": "2026-11-06T23:35:37.182Z",
+  "method": "agent-tool",
+  "contentHash": "11eb8083f480407e50096397346db9371b35cb03509269e5fa921200ab5986cd",
+  "quotations": [
+    "Today we're introducing a framework for creating these environments; we call them FoundationWorlds.",
+    "Our first foundation world is\nToyBlocks\n: an open simulation framework built around a robot arm and blocks on a tabletop."
+  ]
+}
