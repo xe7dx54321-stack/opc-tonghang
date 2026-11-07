@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-483b2cea2272bdee47244f9e",
+  "title": "英伟达对华芯片销售审查受质疑，获批企业办公地址遭调查",
+  "firstSeen": "2026-11-08",
+  "editionDate": "2026-11-08",
+  "occurrences": [
+    {
+      "id": "occ-483b2cea2272bdee47244f9e",
+      "fact": {
+        "subject": "The Verge",
+        "action": "报道",
+        "object": "英伟达对华芯片销售资格审查争议",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-08",
+      "reports": [
+        {
+          "ref": "2026-11-08/2026-11-08-nvidia-china-vetting-report",
+          "itemId": "2026-11-08-nvidia-china-vetting-report",
+          "editionDate": "2026-11-08",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "relayer",
+          "publishedAt": "2026-11-07T15:43:45+00:00",
+          "title": "英伟达对华芯片销售审查受质疑，获批企业办公地址遭调查"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-08"
+}

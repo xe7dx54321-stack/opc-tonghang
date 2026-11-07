@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-10420ca6d4e09c8426568a7a",
+  "title": "陶大程提出让机器人跨设备复用试错经验的双脑思路",
+  "firstSeen": "2026-11-08",
+  "editionDate": "2026-11-08",
+  "occurrences": [
+    {
+      "id": "occ-10420ca6d4e09c8426568a7a",
+      "fact": {
+        "subject": "陶大程",
+        "action": "发表技术文章",
+        "object": "机器人跨设备复用物理交互经验的双脑协同思路",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-08",
+      "reports": [
+        {
+          "ref": "2026-11-08/2026-11-08-robot-experience-sharing-essay",
+          "itemId": "2026-11-08-robot-experience-sharing-essay",
+          "editionDate": "2026-11-08",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651072774&idx=1&sn=17484407e18d75fca1e41a09be82bc03",
+          "source": "wechat-jiqizhixin",
+          "owner": "机器之心",
+          "role": "relayer",
+          "publishedAt": "2026-11-07T12:04:00+08:00",
+          "title": "陶大程提出让机器人跨设备复用试错经验的双脑思路"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-08"
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-08",
+  "window": {
+    "start": 1794007800000,
+    "end": 1794094200000
+  },
+  "digestHash": "e0aff925f6cc339e7edfbeb05b48b3d4c3f21efad1c5106691971b52daa5bb48",
+  "stories": [
+    {
+      "heading": "工信部机器人终身编码草案：从人形扩至各类国产整机",
+      "itemId": "2026-11-08-robot-lifetime-code-draft",
+      "eventId": "event-150638c80de98d6945f79785",
+      "occurrenceId": "occ-150638c80de98d6945f79785"
+    },
+    {
+      "heading": "英伟达对华芯片销售审查受质疑，获批企业办公地址遭调查",
+      "itemId": "2026-11-08-nvidia-china-vetting-report",
+      "eventId": "event-483b2cea2272bdee47244f9e",
+      "occurrenceId": "occ-483b2cea2272bdee47244f9e"
+    },
+    {
+      "heading": "Crusoe 确认出售怀俄明数据中心项目，Google 接手开发",
+      "itemId": "2026-11-08-crusoe-google-wyoming-project",
+      "eventId": "event-d4c7b0753194cccc5e011e3c",
+      "occurrenceId": "occ-d4c7b0753194cccc5e011e3c"
+    },
+    {
+      "heading": "Meta 战略负责人 Dave Wehner 将转任 Fireworks CFO",
+      "itemId": "2026-11-08-fireworks-new-cfo",
+      "eventId": "event-c01becbc9413aca424a54be1",
+      "occurrenceId": "occ-c01becbc9413aca424a54be1"
+    },
+    {
+      "heading": "陶大程提出让机器人跨设备复用试错经验的双脑思路",
+      "itemId": "2026-11-08-robot-experience-sharing-essay",
+      "eventId": "event-10420ca6d4e09c8426568a7a",
+      "occurrenceId": "occ-10420ca6d4e09c8426568a7a"
+    },
+    {
+      "heading": "SandBaseAI 披露数百万美元种子轮，聚焦 Personal Agent 基础设施",
+      "itemId": "2026-11-08-sandbaseai-seed-round",
+      "eventId": "event-b7b182482b3bd70e3d9e4b4f",
+      "occurrenceId": "occ-b7b182482b3bd70e3d9e4b4f"
+    },
+    {
+      "heading": "台积电回应 3D DRAM 传闻，重申专注逻辑芯片代工",
+      "itemId": "2026-11-08-tsmc-3d-dram-response",
+      "eventId": "event-a1e2d5af4917208fe6cd0263",
+      "occurrenceId": "occ-a1e2d5af4917208fe6cd0263"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-08-crusoe-google-wyoming-project.json": "a2f727c8ddd23afe64080aa47ac8f26e0dc6170a83403809dccf07a0f03a1f83",
+    "2026-11-08-fireworks-new-cfo.json": "736c092a3b7d2b5b52cdddc1a6f93ad8700df4a9a4499c95f412a015b0a2fa5a",
+    "2026-11-08-nvidia-china-vetting-report.json": "8bec80f49cfbb5bafb90330949be8eb29440bae2496f379e0f9cb2ad4f7e16ed",
+    "2026-11-08-robot-experience-sharing-essay.json": "e0c4d217a43a7083d14682c37a97181b9f6b4ff209d5262750e8c52badbcdc44",
+    "2026-11-08-robot-lifetime-code-draft.json": "a692db5a24d3939fe82f3376286d8287e714ad11cf403c669112f80f98dd83aa",
+    "2026-11-08-sandbaseai-seed-round.json": "56c0c66b96adb222cc1bd6c3c6da16eab562f614086fe3546e7a7d63732222ec",
+    "2026-11-08-tsmc-3d-dram-response.json": "ca50e91ec83d2d59f83c675011ae5cc1d4d89f2207313cd234115f8271055428"
+  },
+  "evidenceHashes": {
+    "351a060299d519746817e7c1fe99abd9d8cf7cd21c2c824112996b7ed5bf5e49.json": "67edefaa16bcebf8fe7c9880c571be244783c71d855dd1fcd29b8a531c113af0",
+    "42aef777c68cdf2e39179848873431ce678cf34b472373cb53af8a40c33a1569.json": "f6c23d41bfb322d547390772f9b92c6026cd67bde11435f5ac64b4d224710f92",
+    "55dc1518fc16543be7f3c67f30158d68a1e8f366b6f4e7d96424b5e109fc8f4b.json": "98b60223f04646b1ba43757a059fabfe53ff1148cca96848fc61493b35f51db4",
+    "6ebb34e8fd479dc49df0c3446db2503c75bac64c4005d1ecb1b62dcd834cde28.json": "279377248005ee102ab5bb13b77744b22a992e24461bb14decb4f4b906c947fa",
+    "7a13913fd79f92af0f5d2c72299611754ffa231164763a3584e8a3d0f8312400.json": "c28584a93444c406c788b127b1bae4643c0cf56efd7e244d457b59d22563bc61",
+    "8216adac8a753c5023a871596fac09ff010f08205560f87e7fb1a52bb4620762.json": "2970c0d7d90449946a18ea2a523f5804e9a4c7cda45794446c0ad07e2ea08f14",
+    "c0788799c7c1c0389a76fd8c8796057d190e2f249783021b35352cd09902f6fe.json": "2168b4ce8232389d79a59111a2a2547e13b3b58747feb684ab7df117cb5bc2a5"
+  },
+  "eventsHashes": {
+    "event-10420ca6d4e09c8426568a7a.json": "fcac4433c4ce18873fd74290f47683653dc419fee03d5e6e3df6a5ac8a5db4a4",
+    "event-150638c80de98d6945f79785.json": "ef8c4b24d8d2a23fd2dc257932f7b961402f2f219ecb05cfbeeb52858ad837e0",
+    "event-483b2cea2272bdee47244f9e.json": "ede8d6c2e169b22a0d961a152ee645cf41ac5cf8c511ca2b7fd1932adee0bbed",
+    "event-a1e2d5af4917208fe6cd0263.json": "58e5de41cc55f9261c6554d83d951002b31e97c83ee4e8513dd796d4e4ed6b31",
+    "event-b7b182482b3bd70e3d9e4b4f.json": "e6fe3338f04aae8804e36cffe8d2ceb59ebce97cdd4668d8f3b6c16a9e359202",
+    "event-c01becbc9413aca424a54be1.json": "e4c30c1b5a2f34d22a125a0fa27f46fdac4759578f1eb3f6b27338ba575a3563",
+    "event-d4c7b0753194cccc5e011e3c.json": "b14241fff2824112581af423a8b6eb42c7a2a002732a07d11c8f5c380a96b234"
+  }
+}

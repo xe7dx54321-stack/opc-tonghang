@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-d4c7b0753194cccc5e011e3c",
+  "title": "Crusoe 确认出售怀俄明数据中心项目，Google 接手开发",
+  "firstSeen": "2026-11-08",
+  "editionDate": "2026-11-08",
+  "occurrences": [
+    {
+      "id": "occ-d4c7b0753194cccc5e011e3c",
+      "fact": {
+        "subject": "Crusoe",
+        "action": "确认出售",
+        "object": "怀俄明州未完工数据中心项目给 Google",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-08",
+      "reports": [
+        {
+          "ref": "2026-11-08/2026-11-08-crusoe-google-wyoming-project",
+          "itemId": "2026-11-08-crusoe-google-wyoming-project",
+          "editionDate": "2026-11-08",
+          "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-07T01:40:28+00:00",
+          "title": "Crusoe 确认出售怀俄明数据中心项目，Google 接手开发"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-08"
+}

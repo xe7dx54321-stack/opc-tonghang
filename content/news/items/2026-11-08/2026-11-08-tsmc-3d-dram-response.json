@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-08-tsmc-3d-dram-response",
+  "url": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability",
+  "publishedAt": "2026-11-07T13:00:00Z",
+  "fact": {
+    "subject": "台积电",
+    "action": "回应",
+    "object": "为英伟达制造 3D DRAM 的传闻",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "351a060299d519746817e7c1fe99abd9d8cf7cd21c2c824112996b7ed5bf5e49",
+    "originalUrl": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability",
+    "originalPublishedAt": "2026-11-07T13:00:00Z",
+    "checkedAt": "2026-11-07T23:37:25.496Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "351a060299d519746817e7c1fe99abd9d8cf7cd21c2c824112996b7ed5bf5e49",
+      "kind": "fact",
+      "quote": "\"Please note that TSMC focuses on our core business at all times, which is dedicated IC foundry,\" a TSMC spokesperson told Tom's Hardware."
+    },
+    {
+      "snapshotId": "351a060299d519746817e7c1fe99abd9d8cf7cd21c2c824112996b7ed5bf5e49",
+      "kind": "condition",
+      "quote": "A recent report from"
+    }
+  ],
+  "title": "TSMC denies exploring 3D DRAM at Nvidia's request",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-07T13:06:19.140Z",
+  "duplicateOf": null,
+  "clusterId": "event-a1e2d5af4917208fe6cd0263",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的独立报道或新文章，近两周事件目录无同一次发生的匹配项。"
+  },
+  "displayTitle": "台积电回应 3D DRAM 传闻，重申专注逻辑芯片代工",
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "台积电",
+    "英伟达",
+    "3D DRAM"
+  ],
+  "summary": "Tom’s Hardware 11月7日就传闻询问台积电，发言人回应称公司始终专注核心的逻辑芯片代工业务。该回应没有逐项证实或证伪此前关于为英伟达规划 3D DRAM 的报道。",
+  "investorNote": "官方表述为记忆体扩张叙事降温，但不能据此断定台积电与客户没有相关研究；HBM 封装与自建 DRAM 产线的资本需求不同。",
+  "narrative": "Tom’s Hardware 就“台积电应英伟达请求探索 3D DRAM”的报道向公司求证，得到的回应是台积电将继续专注**逻辑芯片代工**。这是一句业务定位声明，不是逐项否认内部研究的技术文件。市场真正要区分的，是台积电继续参与 HBM 逻辑底片与先进封装，和自己建立 DRAM 制造能力这两种资本强度完全不同的路线；现有答复不足以证明后一条已经启动。",
+  "score": 0.73,
+  "eventId": "event-a1e2d5af4917208fe6cd0263",
+  "occurrenceId": "occ-a1e2d5af4917208fe6cd0263",
+  "relatedItems": []
+}

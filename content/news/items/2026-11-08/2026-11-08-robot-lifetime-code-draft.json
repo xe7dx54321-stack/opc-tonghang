@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-08-robot-lifetime-code-draft",
+  "url": "https://asia-tech-news.ghost.io/china-drafts-lifetime-id-codes-for-every-robot-it-makes-not-just-humanoids/",
+  "publishedAt": "2026-11-07T17:51:33.000Z",
+  "fact": {
+    "subject": "工业和信息化部",
+    "action": "提出征求意见稿",
+    "object": "国产机器人终身识别码",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Asia Tech News",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "6ebb34e8fd479dc49df0c3446db2503c75bac64c4005d1ecb1b62dcd834cde28",
+    "originalUrl": "https://asia-tech-news.ghost.io/china-drafts-lifetime-id-codes-for-every-robot-it-makes-not-just-humanoids/",
+    "originalPublishedAt": "2026-11-07T17:51:33.000Z",
+    "checkedAt": "2026-11-07T23:37:21.694Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "6ebb34e8fd479dc49df0c3446db2503c75bac64c4005d1ecb1b62dcd834cde28",
+      "kind": "fact",
+      "quote": "China's Ministry of Industry and Information Technology (MIIT, 工业和信息化部) has drafted rules that would require a lifetime, tamper-proof identification code on every complete robot made in China, fixed by its maker before the robot leaves the factory."
+    },
+    {
+      "snapshotId": "6ebb34e8fd479dc49df0c3446db2503c75bac64c4005d1ecb1b62dcd834cde28",
+      "kind": "condition",
+      "quote": "The draft covers only robots made in China."
+    }
+  ],
+  "title": "China drafts lifetime ID codes for every robot it makes, not just humanoids",
+  "source": "hacker-news",
+  "sourceTier": 1,
+  "fetchedAt": "2026-11-07T23:30:14.002Z",
+  "duplicateOf": null,
+  "clusterId": "event-150638c80de98d6945f79785",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的独立报道或新文章，近两周事件目录无同一次发生的匹配项。"
+  },
+  "displayTitle": "工信部机器人终身编码草案：从人形扩至各类国产整机",
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "工业和信息化部",
+    "机器人"
+  ],
+  "summary": "Asia Tech News 11月7日报道，工信部就国产机器人终身识别码征求意见，范围包括工业、服务和特种机器人。稿件称草案于11月6日发布，具体发布时刻未见说明。",
+  "investorNote": "若草案落地，机器人厂商的出厂编码、软件及零部件信息登记会成为合规能力的一部分，但目前仍是征求意见稿。",
+  "narrative": "Asia Tech News 报道，工信部的征求意见稿拟要求国产机器人出厂前获得终身识别码，覆盖工业、服务与特种机器人，范围超过此前的人形机器人编码。这个动作指向机器人规模化部署后的追溯问题；对本体厂商而言，数据登记与产品管理可能从售后环节前移到制造环节。文件仍在征求意见，报道没有给出罚则或进口机器人适用规则。",
+  "score": 0.78,
+  "eventId": "event-150638c80de98d6945f79785",
+  "occurrenceId": "occ-150638c80de98d6945f79785",
+  "relatedItems": []
+}

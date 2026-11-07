@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a1e2d5af4917208fe6cd0263",
+  "title": "台积电回应 3D DRAM 传闻，重申专注逻辑芯片代工",
+  "firstSeen": "2026-11-08",
+  "editionDate": "2026-11-08",
+  "occurrences": [
+    {
+      "id": "occ-a1e2d5af4917208fe6cd0263",
+      "fact": {
+        "subject": "台积电",
+        "action": "回应",
+        "object": "为英伟达制造 3D DRAM 的传闻",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-08",
+      "reports": [
+        {
+          "ref": "2026-11-08/2026-11-08-tsmc-3d-dram-response",
+          "itemId": "2026-11-08-tsmc-3d-dram-response",
+          "editionDate": "2026-11-08",
+          "url": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-11-07T13:00:00Z",
+          "title": "台积电回应 3D DRAM 传闻，重申专注逻辑芯片代工"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-08"
+}

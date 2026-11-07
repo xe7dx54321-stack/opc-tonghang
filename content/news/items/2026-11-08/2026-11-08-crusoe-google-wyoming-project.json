@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-08-crusoe-google-wyoming-project",
+  "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+  "publishedAt": "2026-11-07T01:40:28+00:00",
+  "fact": {
+    "subject": "Crusoe",
+    "action": "确认出售",
+    "object": "怀俄明州未完工数据中心项目给 Google",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "55dc1518fc16543be7f3c67f30158d68a1e8f366b6f4e7d96424b5e109fc8f4b",
+    "originalUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "originalPublishedAt": "2026-11-07T01:40:28+00:00",
+    "checkedAt": "2026-11-07T23:37:22.825Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "55dc1518fc16543be7f3c67f30158d68a1e8f366b6f4e7d96424b5e109fc8f4b",
+      "kind": "fact",
+      "quote": "Friday it has sold an unfinished data center project in southeastern Wyoming to Google."
+    },
+    {
+      "snapshotId": "55dc1518fc16543be7f3c67f30158d68a1e8f366b6f4e7d96424b5e109fc8f4b",
+      "kind": "condition",
+      "quote": "Google, which Crusoe had tried and failed to land as a customer for the project, is taking over the development after reportedly raising concerns about its cost and construction timeline under Crusoe’s management."
+    }
+  ],
+  "title": "Crusoe sells troubled Wyoming data center project to Google",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-07T01:53:57.317Z",
+  "duplicateOf": null,
+  "clusterId": "event-d4c7b0753194cccc5e011e3c",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的独立报道或新文章，近两周事件目录无同一次发生的匹配项。"
+  },
+  "displayTitle": "Crusoe 确认出售怀俄明数据中心项目，Google 接手开发",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Crusoe",
+    "Google"
+  ],
+  "summary": "TechCrunch 11月7日报道，Crusoe 确认将怀俄明州东南部尚未完工的数据中心项目出售给 Google，后者接手开发。交易价格未披露，报道指出 Google 曾对项目成本和施工进度提出顾虑。",
+  "investorNote": "超大规模数据中心的竞争不只比融资与签约，交付时间、成本和电力获取能力会影响开发商在云厂采购链中的位置。",
+  "narrative": "据 TechCrunch，Crusoe 确认把怀俄明州未完工的数据中心项目出售给 Google，由 Google 接手开发；交易价格没有披露。报道说，Google 此前对项目成本与工期有过顾虑。这个案例把 AI 算力建设的风险从“能否拿到订单”推到“能否按约交付”：有地块和规划仍不等于有可运营的算力。Crusoe 与 Google 在另一个项目仍有合作，因此不能把此次出售解读成双方全面终止合作。",
+  "score": 0.76,
+  "eventId": "event-d4c7b0753194cccc5e011e3c",
+  "occurrenceId": "occ-d4c7b0753194cccc5e011e3c",
+  "relatedItems": []
+}

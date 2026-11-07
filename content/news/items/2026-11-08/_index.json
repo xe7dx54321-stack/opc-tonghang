@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-08",
+  "itemCount": 7,
+  "storyCount": 7,
+  "clusterCount": 7,
+  "files": [
+    "2026-11-08-robot-lifetime-code-draft.json",
+    "2026-11-08-nvidia-china-vetting-report.json",
+    "2026-11-08-crusoe-google-wyoming-project.json",
+    "2026-11-08-fireworks-new-cfo.json",
+    "2026-11-08-robot-experience-sharing-essay.json",
+    "2026-11-08-sandbaseai-seed-round.json",
+    "2026-11-08-tsmc-3d-dram-response.json"
+  ],
+  "representatives": [
+    "2026-11-08-robot-lifetime-code-draft",
+    "2026-11-08-nvidia-china-vetting-report",
+    "2026-11-08-crusoe-google-wyoming-project",
+    "2026-11-08-fireworks-new-cfo",
+    "2026-11-08-robot-experience-sharing-essay",
+    "2026-11-08-sandbaseai-seed-round",
+    "2026-11-08-tsmc-3d-dram-response"
+  ]
+}

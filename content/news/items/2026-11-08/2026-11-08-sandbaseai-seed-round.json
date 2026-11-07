@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-08-sandbaseai-seed-round",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519228&idx=1&sn=d21bde43b67277c6af64125f7718189a",
+  "publishedAt": "2026-11-07T10:00:00+08:00",
+  "fact": {
+    "subject": "SandBaseAI",
+    "action": "宣布完成",
+    "object": "数百万美元种子轮融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Z Potentials",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "c0788799c7c1c0389a76fd8c8796057d190e2f249783021b35352cd09902f6fe",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519228&idx=1&sn=d21bde43b67277c6af64125f7718189a",
+    "originalPublishedAt": "2026-11-07T10:00:00+08:00",
+    "checkedAt": "2026-11-07T23:37:24.227Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "c0788799c7c1c0389a76fd8c8796057d190e2f249783021b35352cd09902f6fe",
+      "kind": "fact",
+      "quote": "近日，SandBaseAI 宣布完成数百万美元种子轮融资"
+    },
+    {
+      "snapshotId": "c0788799c7c1c0389a76fd8c8796057d190e2f249783021b35352cd09902f6fe",
+      "kind": "condition",
+      "quote": "本轮融资将主要用于产品研发和运营推广。"
+    }
+  ],
+  "title": "独家｜SandBaseAI完成数百万美元种子轮融资，为开发者打造Personal Agent基础设施",
+  "source": "wechat-zpotentials",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-07T10:32:47.140Z",
+  "duplicateOf": null,
+  "clusterId": "event-b7b182482b3bd70e3d9e4b4f",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的独立报道或新文章，近两周事件目录无同一次发生的匹配项。"
+  },
+  "displayTitle": "SandBaseAI 披露数百万美元种子轮，聚焦 Personal Agent 基础设施",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "SandBaseAI",
+    "李样兵"
+  ],
+  "summary": "Z Potentials 11月7日独家报道，SandBaseAI 宣布完成数百万美元种子轮，资金将用于产品研发与运营推广。产品试图把数据 API、工具和 Agent Runtime 放到统一入口；投资方未逐一披露。",
+  "investorNote": "统一入口有助于降低个人 Agent 的工程集成成本，但投资方、收入和留存未披露，商业验证仍早。",
+  "narrative": "Z Potentials 披露，SandBaseAI 完成数百万美元种子轮，计划把资金用于研发和运营。团队面向开发者，把数据 API、工具和 Agent Runtime 放在同一入口，让个人 Agent 的搭建少做重复接线。融资稿没有列出具体投资方，也没有提供客户留存或收入数据；现阶段更适合把它视作 Agent 基础设施的一次早期产品押注。",
+  "score": 0.69,
+  "eventId": "event-b7b182482b3bd70e3d9e4b4f",
+  "occurrenceId": "occ-b7b182482b3bd70e3d9e4b4f",
+  "relatedItems": []
+}

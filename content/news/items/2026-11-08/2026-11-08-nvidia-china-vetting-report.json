@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-08-nvidia-china-vetting-report",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+  "publishedAt": "2026-11-07T15:43:45+00:00",
+  "fact": {
+    "subject": "The Verge",
+    "action": "报道",
+    "object": "英伟达对华芯片销售资格审查争议",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "42aef777c68cdf2e39179848873431ce678cf34b472373cb53af8a40c33a1569",
+    "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "originalPublishedAt": "2026-11-07T15:43:45+00:00",
+    "checkedAt": "2026-11-07T23:37:22.295Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "42aef777c68cdf2e39179848873431ce678cf34b472373cb53af8a40c33a1569",
+      "kind": "fact",
+      "quote": "The government is approving sales of Nvidia’s AI chips to Chinese firms with ties to blacklisted companies."
+    },
+    {
+      "snapshotId": "42aef777c68cdf2e39179848873431ce678cf34b472373cb53af8a40c33a1569",
+      "kind": "condition",
+      "quote": "Only scant information can be found online about New Matrix, which was created 17 months ago."
+    }
+  ],
+  "title": "The US let Nvidia sell chips to an empty office in China",
+  "source": "theverge",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-07T16:09:26.583Z",
+  "duplicateOf": null,
+  "clusterId": "event-483b2cea2272bdee47244f9e",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的独立报道或新文章，近两周事件目录无同一次发生的匹配项。"
+  },
+  "displayTitle": "英伟达对华芯片销售审查受质疑，获批企业办公地址遭调查",
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "英伟达",
+    "New Matrix",
+    "美国商务部"
+  ],
+  "summary": "The Verge 11月7日援引纽约时报调查称，一家获准购买英伟达 H200 的中国企业 New Matrix 登记地址未见实际办公迹象，其关联方涉及美国限制清单。报道质疑出口许可审查。",
+  "investorNote": "这是对许可执行环节的报道，不等于认定违规；若后续审查趋严，获批客户与最终用途核验会成为芯片交付的不确定因素。",
+  "narrative": "The Verge 援引纽约时报调查称，获准接触英伟达 H200 的 New Matrix 在登记地址缺少可查的办公迹象，关联方还涉及美国限制清单。报道提出的是**客户资格审查是否充分**的问题，并未证明芯片已经流向受限实体。对供应链更直接的含义是：出口许可的执行质量，可能与许可本身一样影响订单能否交付。",
+  "score": 0.77,
+  "eventId": "event-483b2cea2272bdee47244f9e",
+  "occurrenceId": "occ-483b2cea2272bdee47244f9e",
+  "relatedItems": []
+}

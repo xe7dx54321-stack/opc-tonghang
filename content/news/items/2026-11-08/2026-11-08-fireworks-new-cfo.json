@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-08-fireworks-new-cfo",
+  "url": "https://www.theinformation.com/briefings/exclusive-meta-strategy-chief-dave-wehner-become-fireworks-cfo",
+  "publishedAt": "2026-11-07T01:45:22Z",
+  "fact": {
+    "subject": "Dave Wehner",
+    "action": "确认将出任",
+    "object": "Fireworks 首席财务官",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Information",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8216adac8a753c5023a871596fac09ff010f08205560f87e7fb1a52bb4620762",
+    "originalUrl": "https://www.theinformation.com/briefings/exclusive-meta-strategy-chief-dave-wehner-become-fireworks-cfo",
+    "originalPublishedAt": "2026-11-07T01:45:22Z",
+    "checkedAt": "2026-11-07T23:37:24.163Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8216adac8a753c5023a871596fac09ff010f08205560f87e7fb1a52bb4620762",
+      "kind": "fact",
+      "quote": "Meta Platform’s chief strategy officer Dave Wehner is leaving the company to become chief finance officer of AI inference startup  Fireworks"
+    },
+    {
+      "snapshotId": "8216adac8a753c5023a871596fac09ff010f08205560f87e7fb1a52bb4620762",
+      "kind": "condition",
+      "quote": "Wehner confirmed on X Friday."
+    }
+  ],
+  "title": "Meta Strategy Chief Dave Wehner to Become Fireworks CFO",
+  "source": "theinformation",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-07T01:53:59.551Z",
+  "duplicateOf": null,
+  "clusterId": "event-c01becbc9413aca424a54be1",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期核验的独立报道或新文章，近两周事件目录无同一次发生的匹配项。"
+  },
+  "displayTitle": "Meta 战略负责人 Dave Wehner 将转任 Fireworks CFO",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Dave Wehner",
+    "Meta",
+    "Fireworks"
+  ],
+  "summary": "The Information 11月7日报道，Meta 首席战略官 Dave Wehner 确认将离职并担任 AI 推理初创企业 Fireworks 的首席财务官。报道提及他曾在 Meta 长期担任 CFO。",
+  "investorNote": "成熟平台的财务高管进入推理基础设施公司，说明这一赛道正需要更成熟的资本运作与大客户财务管理能力；业务结果仍待观察。",
+  "narrative": "The Information 报道，Meta 首席战略官、前 CFO Dave Wehner 确认将转任推理公司 Fireworks 的 CFO。人事变动本身不代表 Fireworks 已获得新融资或订单，但它显示推理基础设施创业公司开始吸纳大型平台的财务管理经验。对投资人来说，更值得在后续观察的是 Fireworks 能否把需求增长转化为可持续的毛利与现金流。",
+  "score": 0.65,
+  "eventId": "event-c01becbc9413aca424a54be1",
+  "occurrenceId": "occ-c01becbc9413aca424a54be1",
+  "relatedItems": []
+}

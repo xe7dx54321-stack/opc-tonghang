@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-150638c80de98d6945f79785",
+  "title": "工信部机器人终身编码草案：从人形扩至各类国产整机",
+  "firstSeen": "2026-11-08",
+  "editionDate": "2026-11-08",
+  "occurrences": [
+    {
+      "id": "occ-150638c80de98d6945f79785",
+      "fact": {
+        "subject": "工业和信息化部",
+        "action": "提出征求意见稿",
+        "object": "国产机器人终身识别码",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-08",
+      "reports": [
+        {
+          "ref": "2026-11-08/2026-11-08-robot-lifetime-code-draft",
+          "itemId": "2026-11-08-robot-lifetime-code-draft",
+          "editionDate": "2026-11-08",
+          "url": "https://asia-tech-news.ghost.io/china-drafts-lifetime-id-codes-for-every-robot-it-makes-not-just-humanoids/",
+          "source": "hacker-news",
+          "owner": "Asia Tech News",
+          "role": "observer",
+          "publishedAt": "2026-11-07T17:51:33.000Z",
+          "title": "工信部机器人终身编码草案：从人形扩至各类国产整机"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-08"
+}

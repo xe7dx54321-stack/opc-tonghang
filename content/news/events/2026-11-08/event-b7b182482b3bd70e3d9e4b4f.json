@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-b7b182482b3bd70e3d9e4b4f",
+  "title": "SandBaseAI 披露数百万美元种子轮，聚焦 Personal Agent 基础设施",
+  "firstSeen": "2026-11-08",
+  "editionDate": "2026-11-08",
+  "occurrences": [
+    {
+      "id": "occ-b7b182482b3bd70e3d9e4b4f",
+      "fact": {
+        "subject": "SandBaseAI",
+        "action": "宣布完成",
+        "object": "数百万美元种子轮融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-08",
+      "reports": [
+        {
+          "ref": "2026-11-08/2026-11-08-sandbaseai-seed-round",
+          "itemId": "2026-11-08-sandbaseai-seed-round",
+          "editionDate": "2026-11-08",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519228&idx=1&sn=d21bde43b67277c6af64125f7718189a",
+          "source": "wechat-zpotentials",
+          "owner": "Z Potentials",
+          "role": "observer",
+          "publishedAt": "2026-11-07T10:00:00+08:00",
+          "title": "SandBaseAI 披露数百万美元种子轮，聚焦 Personal Agent 基础设施"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-08"
+}
