@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-2a8246c4c6ffd1632c91873b",
+  "title": "Tom’s Hardware 上手 GPU Taskman：逐进程显存排查走向开发工具",
+  "firstSeen": "2026-11-09",
+  "editionDate": "2026-11-09",
+  "occurrences": [
+    {
+      "id": "occ-2a8246c4c6ffd1632c91873b",
+      "fact": {
+        "subject": "Tom’s Hardware",
+        "action": "发布对GPU Taskman的上手测试",
+        "object": "逐进程显存占用与AI负载展示",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-09",
+      "reports": [
+        {
+          "ref": "2026-11-09/2026-11-09-gpu-taskman-hands-on",
+          "itemId": "2026-11-09-gpu-taskman-hands-on",
+          "editionDate": "2026-11-09",
+          "url": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-11-08T13:40:00+00:00",
+          "title": "Tom’s Hardware 上手 GPU Taskman：逐进程显存排查走向开发工具"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-09"
+}

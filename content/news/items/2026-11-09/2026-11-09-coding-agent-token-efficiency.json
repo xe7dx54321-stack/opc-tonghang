@@ -1,0 +1,64 @@
+{
+  "id": "2026-11-09-coding-agent-token-efficiency",
+  "title": "The same work on a third of the tokens: tuning a fleet of coding agents",
+  "url": "https://alexmarquardt.com/ai-tools/agent-fleet-token-efficiency/",
+  "source": "hacker-news",
+  "sourceTier": 1,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "The"
+  ],
+  "fetchedAt": "2026-11-08T23:30:16.704Z",
+  "summary": "Alexander Marquardt 发表十周编码智能体实践记录：经六项流程调整，按改动代码行数计算的 token 消耗下降 3.3 倍，每周合并 PR 增加 4.4 倍，而总 token 用量下降 19%。这是一个项目的自述观察，不是跨团队基准测试。",
+  "investorNote": "编码智能体成本的关键变量不仅是模型单价，还包括上下文重发、任务边界和缓存命中；投资与采购评估应要求按完成工作量计量。",
+  "score": 0.69,
+  "duplicateOf": null,
+  "clusterId": "event-7fd1933032b79ca97ecf289e",
+  "schemaVersion": 2,
+  "publishedAt": "2026-11-08T00:00:00+00:00",
+  "fact": {
+    "subject": "Alexander Marquardt",
+    "action": "发布编码智能体多任务实践测量",
+    "object": "十周内token消耗与合并产出变化",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Alexander Marquardt",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "eceabdd8445ed71a4a02c7d2ad4cce3d997bbc8df8364c965752b275d45b4153",
+    "originalUrl": "https://alexmarquardt.com/ai-tools/agent-fleet-token-efficiency/",
+    "originalPublishedAt": "2026-11-08T00:00:00+00:00",
+    "checkedAt": "2026-11-08T23:37:34.705Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "eceabdd8445ed71a4a02c7d2ad4cce3d997bbc8df8364c965752b275d45b4153",
+      "kind": "fact",
+      "quote": "Ten weeks and six changes later, tokens per changed line of code are down 3.3x."
+    },
+    {
+      "snapshotId": "eceabdd8445ed71a4a02c7d2ad4cce3d997bbc8df8364c965752b275d45b4153",
+      "kind": "fact",
+      "quote": "the agents now merge 4.4 times as many PRs a week, on 19% fewer tokens."
+    },
+    {
+      "snapshotId": "eceabdd8445ed71a4a02c7d2ad4cce3d997bbc8df8364c965752b275d45b4153",
+      "kind": "condition",
+      "quote": "Reverts stayed rare"
+    }
+  ],
+  "displayTitle": "独立开发者十周实测：编码智能体每行代码耗用 token 降至约三分之一",
+  "narrative": "开发者 Alexander Marquardt 公布了同一项目十周的智能体运行记录：经过任务拆分、交接和缓存等调整，**每改动一行代码的 token 用量下降 3.3 倍**，每周合并 PR 数增加 4.4 倍，总 token 用量减少 19%。这组数字来自作者自己的工作流，不能直接外推到所有团队；它提示采购方把单位完成工作量的成本、返工和合并质量一起看，而不是只盯单次调用价格。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "新的独立开发者实测文章，未发现可确认的历史同事件记录。"
+  },
+  "eventId": "event-7fd1933032b79ca97ecf289e",
+  "occurrenceId": "occ-7fd1933032b79ca97ecf289e",
+  "relatedItems": []
+}

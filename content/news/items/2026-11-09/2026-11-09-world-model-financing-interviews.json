@@ -1,0 +1,63 @@
+{
+  "id": "2026-11-09-world-model-financing-interviews",
+  "title": "资本正在撤离“世界模型”",
+  "url": "https://www.qbitai.com/2026/11/508466.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "entities": [],
+  "fetchedAt": "2026-11-08T08:23:53.760Z",
+  "summary": "量子位在 11 月 8 日发表对多位投资人及世界模型公司融资负责人的采访，报道融资意向书门槛提高、可获资金的团队趋少。受访者多未具名，文章是当期市场观察；过去的融资官宣不能当作当天交易。",
+  "investorNote": "世界模型融资报道存在交易完成和对外披露的时间差；判断赛道温度应核对真实条款与近期签约，而不只数新闻稿。",
+  "score": 0.66,
+  "duplicateOf": null,
+  "clusterId": "event-568360a53a1036539ae6967a",
+  "schemaVersion": 2,
+  "publishedAt": "2026-11-08T12:09:55+08:00",
+  "fact": {
+    "subject": "量子位",
+    "action": "发布对投资人与世界模型公司融资负责人的采访报道",
+    "object": "世界模型融资门槛提高与交易披露滞后",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "ddf49552fc39453654c15b6b0361e621987b8b9ab266d5fdabb3ed351d9b1db8",
+    "originalUrl": "https://www.qbitai.com/2026/11/508466.html",
+    "originalPublishedAt": "2026-11-08T12:09:55+08:00",
+    "checkedAt": "2026-11-08T23:37:34.751Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "ddf49552fc39453654c15b6b0361e621987b8b9ab266d5fdabb3ed351d9b1db8",
+      "kind": "fact",
+      "quote": "这种变化在量子位近期与多位一线投资人、世界模型公司投融资负责人的交流中感受得尤为明显。"
+    },
+    {
+      "snapshotId": "ddf49552fc39453654c15b6b0361e621987b8b9ab266d5fdabb3ed351d9b1db8",
+      "kind": "fact",
+      "quote": "资本确实在抬高世界模型投资意向书发出的门槛"
+    },
+    {
+      "snapshotId": "ddf49552fc39453654c15b6b0361e621987b8b9ab266d5fdabb3ed351d9b1db8",
+      "kind": "condition",
+      "quote": "融资官宣时间，往往晚于实际交易发生的时间。"
+    }
+  ],
+  "displayTitle": "量子位访谈：世界模型融资门槛在提高",
+  "narrative": "量子位在当天的采访报道中称，多位一线投资人及世界模型企业融资负责人感受到项目筛选趋严，靠概念获得估值溢价更难。报道也提醒，融资官宣往往晚于交易发生，不能把近期新闻稿数量直接当成当前出手速度。这是**匿名受访者支持的市场观察**，并非全市场统计；对投资人更有用的是追踪新签意向书、估值条款和技术验证要求。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次是量子位新发表的投融资采访与市场观察，不等同于历史单家公司融资或世界模型产品发布。"
+  },
+  "eventId": "event-568360a53a1036539ae6967a",
+  "occurrenceId": "occ-568360a53a1036539ae6967a",
+  "relatedItems": []
+}

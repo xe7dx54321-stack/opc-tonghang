@@ -1,0 +1,14 @@
+{
+  "snapshotId": "eceabdd8445ed71a4a02c7d2ad4cce3d997bbc8df8364c965752b275d45b4153",
+  "url": "https://alexmarquardt.com/ai-tools/agent-fleet-token-efficiency/",
+  "publishedAt": "2026-11-08T00:00:00+00:00",
+  "publishedAtQuote": "article:published_time=2026-11-08T00:00:00+00:00",
+  "retrievedAt": "2026-11-08T23:37:34.705Z",
+  "method": "agent-tool",
+  "contentHash": "fe2ceb0083ae4790357cd9eae6226abf06f723445ec3a8f0b233e00ac3d089aa",
+  "quotations": [
+    "Ten weeks and six changes later, tokens per changed line of code are down 3.3x.",
+    "the agents now merge 4.4 times as many PRs a week, on 19% fewer tokens.",
+    "Reverts stayed rare"
+  ]
+}

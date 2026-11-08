@@ -1,0 +1,78 @@
+{
+  "id": "2026-11-09-apple-siri-agent-roadmap",
+  "title": "Apple is racing to make Siri more agentic",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Apple",
+    "Siri",
+    "Bloomberg",
+    "Mark Gurman",
+    "CEO John Ternus",
+    "AI",
+    "Craig Federighi",
+    "OpenAI",
+    "Dots",
+    "Meta",
+    "Muse",
+    "While Federighi",
+    "Siri AI"
+  ],
+  "fetchedAt": "2026-11-08T19:34:45.900Z",
+  "summary": "The Verge 转述 Bloomberg 的最新报道：Apple 管理层正推动加快 Siri 智能体路线。报道称第一方应用的细粒度控制预计随 iOS 27.3 推进，第三方应用集成预计更晚；持续执行目标的能力仍属未来方向，不是已上线功能。",
+  "investorNote": "苹果的瓶颈正从单次问答转向应用权限和持续任务执行；对开发者而言，应区分已经开放的接口预览、预定的系统能力和仍未交付的路线。",
+  "score": 0.75,
+  "duplicateOf": null,
+  "clusterId": "event-144ad7ef189af1a1be19d6d6",
+  "schemaVersion": 2,
+  "publishedAt": "2026-11-08T19:18:19+00:00",
+  "fact": {
+    "subject": "Apple管理层",
+    "action": "据报道推动加快Siri智能体路线",
+    "object": "第一方应用控制、第三方应用集成与持续任务能力",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "07edfd294cd05f2ca6e9dabfa9da89159f24cb8e9d7e4b65dca97b5255ab51d2",
+    "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "originalPublishedAt": "2026-11-08T19:18:19+00:00",
+    "checkedAt": "2026-11-08T23:37:34.659Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "07edfd294cd05f2ca6e9dabfa9da89159f24cb8e9d7e4b65dca97b5255ab51d2",
+      "kind": "fact",
+      "quote": "Two significant improvements are expected to be made to Siri in the coming months."
+    },
+    {
+      "snapshotId": "07edfd294cd05f2ca6e9dabfa9da89159f24cb8e9d7e4b65dca97b5255ab51d2",
+      "kind": "condition",
+      "quote": "Those capabilities are expected to land with iOS 27.3."
+    },
+    {
+      "snapshotId": "07edfd294cd05f2ca6e9dabfa9da89159f24cb8e9d7e4b65dca97b5255ab51d2",
+      "kind": "condition",
+      "quote": "The bigger change, integration with third-party apps, is likely to land later, in the Spring, according to Gurman."
+    }
+  ],
+  "displayTitle": "Apple 据报加快 Siri 智能体路线，跨应用操作仍待后续推出",
+  "narrative": "The Verge 转述 Bloomberg 报道称，Apple 管理层正催促 Siri 从单次响应走向更持续的任务执行。照片裁剪、Safari 标签整理等第一方应用控制预计先进入 iOS 27.3，第三方应用集成则预计更晚。此前开发者预览已经开放部分接口，但这次报道讨论的是面向用户的能力和路线节奏；现在还不能把跨应用智能体写成已发布产品。",
+  "eventRelation": {
+    "type": "SAME_STORY",
+    "targetRef": "2026-11-04/2026-11-04-apple-siri-app-intents",
+    "reason": "本次报道称Apple管理层催促Siri路线，并给出第一方和第三方应用能力的预计节奏，是此前第三方应用动作接口预览的直接后续。",
+    "newInformation": "据报道，第一方应用细粒度控制预计随iOS 27.3推进，第三方应用集成预计更晚，管理层推动持续任务能力。"
+  },
+  "eventId": "event-144ad7ef189af1a1be19d6d6",
+  "occurrenceId": "occ-85b8e7e874bfda2ed5a992bc",
+  "relatedItems": []
+}

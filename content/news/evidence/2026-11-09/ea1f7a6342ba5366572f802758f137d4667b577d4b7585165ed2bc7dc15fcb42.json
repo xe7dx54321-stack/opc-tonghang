@@ -1,0 +1,14 @@
+{
+  "snapshotId": "ea1f7a6342ba5366572f802758f137d4667b577d4b7585165ed2bc7dc15fcb42",
+  "url": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
+  "publishedAt": "2026-11-08T13:40:00+00:00",
+  "publishedAtQuote": "article:published_time=2026-11-08T13:40:00Z",
+  "retrievedAt": "2026-11-08T23:37:34.794Z",
+  "method": "agent-tool",
+  "contentHash": "ec64ba546f8d20dd169b3f04570c3f487d69307a09daa969f27011e5b37183f8",
+  "quotations": [
+    "Upon launch, I found that no tasks were using the discrete GPU in my laptop",
+    "I note the live-streaming charts showing GPU load, VRAM use, temperature",
+    "Hanselman is sharing his “experimental software” tool under the permissive MIT license."
+  ]
+}

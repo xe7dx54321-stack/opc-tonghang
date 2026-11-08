@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "event-144ad7ef189af1a1be19d6d6",
+  "title": "Apple向第三方开放Siri AI应用动作开发者预览",
+  "firstSeen": "2026-11-04",
+  "editionDate": "2026-11-09",
+  "occurrences": [
+    {
+      "id": "occ-144ad7ef189af1a1be19d6d6",
+      "fact": {
+        "subject": "Apple",
+        "action": "开放开发者预览",
+        "object": "Siri AI第三方应用动作接口",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-04",
+      "reports": [
+        {
+          "ref": "2026-11-04/2026-11-04-apple-siri-app-intents",
+          "itemId": "2026-11-04-apple-siri-app-intents",
+          "editionDate": "2026-11-04",
+          "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-11-03T20:16:17.000Z",
+          "title": "Apple向第三方开放Siri AI应用动作开发者预览"
+        }
+      ]
+    },
+    {
+      "id": "occ-85b8e7e874bfda2ed5a992bc",
+      "fact": {
+        "subject": "Apple管理层",
+        "action": "据报道推动加快Siri智能体路线",
+        "object": "第一方应用控制、第三方应用集成与持续任务能力",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-09",
+      "reports": [
+        {
+          "ref": "2026-11-09/2026-11-09-apple-siri-agent-roadmap",
+          "itemId": "2026-11-09-apple-siri-agent-roadmap",
+          "editionDate": "2026-11-09",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "relayer",
+          "publishedAt": "2026-11-08T19:18:19+00:00",
+          "title": "Apple 据报加快 Siri 智能体路线，跨应用操作仍待后续推出"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-09"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "2026-11-09-gpu-taskman-hands-on",
+  "title": "Open-source GPU task manager reveals exactly what's eating your VRAM",
+  "url": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Open",
+    "GPU",
+    "VRAM",
+    "GitHub",
+    "Microsoft VP Scott Hanselman"
+  ],
+  "fetchedAt": "2026-11-08T13:59:15.743Z",
+  "summary": "Tom’s Hardware 于 11 月 8 日发表对 GPU Taskman 的上手体验，作者在 RTX 4060 笔记本上观察到工具展示 GPU 负载、显存、温度等实时指标。原工具及作者此前发帖属于旧信息，本次仅以新增的独立实测入选。",
+  "investorNote": "本地模型开发者需要更细的显存归因；这篇实测说明工具能展示负载，但尚不能推断它已成为生产级监控方案。",
+  "score": 0.52,
+  "duplicateOf": null,
+  "clusterId": "event-2a8246c4c6ffd1632c91873b",
+  "schemaVersion": 2,
+  "publishedAt": "2026-11-08T13:40:00+00:00",
+  "fact": {
+    "subject": "Tom’s Hardware",
+    "action": "发布对GPU Taskman的上手测试",
+    "object": "逐进程显存占用与AI负载展示",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "ea1f7a6342ba5366572f802758f137d4667b577d4b7585165ed2bc7dc15fcb42",
+    "originalUrl": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
+    "originalPublishedAt": "2026-11-08T13:40:00+00:00",
+    "checkedAt": "2026-11-08T23:37:34.794Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "ea1f7a6342ba5366572f802758f137d4667b577d4b7585165ed2bc7dc15fcb42",
+      "kind": "fact",
+      "quote": "Upon launch, I found that no tasks were using the discrete GPU in my laptop"
+    },
+    {
+      "snapshotId": "ea1f7a6342ba5366572f802758f137d4667b577d4b7585165ed2bc7dc15fcb42",
+      "kind": "fact",
+      "quote": "I note the live-streaming charts showing GPU load, VRAM use, temperature"
+    },
+    {
+      "snapshotId": "ea1f7a6342ba5366572f802758f137d4667b577d4b7585165ed2bc7dc15fcb42",
+      "kind": "condition",
+      "quote": "Hanselman is sharing his “experimental software” tool under the permissive MIT license."
+    }
+  ],
+  "displayTitle": "Tom’s Hardware 上手 GPU Taskman：逐进程显存排查走向开发工具",
+  "narrative": "Tom’s Hardware 当天上手了开源 GPU Taskman：作者在 RTX 4060 笔记本上运行程序，看到 GPU 负载、显存用量和温度的实时图表；文中也展示了模型权重与 KV cache 的分项视图。工具本身此前已公开，这条新闻的新增信息是**独立上手观察**。对本地推理开发者，逐进程定位显存占用有实际价值，但作者将软件称为实验性工具，离稳定的生产监控仍需更多验证。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "新发表的独立上手测试；工具先前公开，但历史事件目录没有本次测试。"
+  },
+  "eventId": "event-2a8246c4c6ffd1632c91873b",
+  "occurrenceId": "occ-2a8246c4c6ffd1632c91873b",
+  "relatedItems": []
+}

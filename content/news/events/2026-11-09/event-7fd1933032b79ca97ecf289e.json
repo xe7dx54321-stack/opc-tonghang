@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-7fd1933032b79ca97ecf289e",
+  "title": "独立开发者十周实测：编码智能体每行代码耗用 token 降至约三分之一",
+  "firstSeen": "2026-11-09",
+  "editionDate": "2026-11-09",
+  "occurrences": [
+    {
+      "id": "occ-7fd1933032b79ca97ecf289e",
+      "fact": {
+        "subject": "Alexander Marquardt",
+        "action": "发布编码智能体多任务实践测量",
+        "object": "十周内token消耗与合并产出变化",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-09",
+      "reports": [
+        {
+          "ref": "2026-11-09/2026-11-09-coding-agent-token-efficiency",
+          "itemId": "2026-11-09-coding-agent-token-efficiency",
+          "editionDate": "2026-11-09",
+          "url": "https://alexmarquardt.com/ai-tools/agent-fleet-token-efficiency/",
+          "source": "hacker-news",
+          "owner": "Alexander Marquardt",
+          "role": "principal",
+          "publishedAt": "2026-11-08T00:00:00+00:00",
+          "title": "独立开发者十周实测：编码智能体每行代码耗用 token 降至约三分之一"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-09"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "2026-11-09-nvidia-board-inquiry",
+  "title": "Nvidia says it’s investigating CEO Jensen Huang’s relationship with possible Chinese spy",
+  "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "Nvidia",
+    "CEO Jensen Huang",
+    "Chinese",
+    "In",
+    "Huang"
+  ],
+  "fetchedAt": "2026-11-08T21:06:02.767Z",
+  "summary": "英伟达董事会宣布由独立董事和外部律师调查黄仁勋可能被外国情报活动针对的报道。TechCrunch 核对了董事会表态及黄仁勋致员工信息；董事会称目前没有理由相信国家安全或公司机密已受损，调查尚无结论。",
+  "investorNote": "英伟达把首席执行官相关风险交由独立董事审查，后续关注调查范围、披露节奏和关键客户信任，不能把未经证实的情报指控写成既成事实。",
+  "score": 0.86,
+  "duplicateOf": null,
+  "clusterId": "event-8a95f60940aa6333c3d5d9c7",
+  "schemaVersion": 2,
+  "publishedAt": "2026-11-08T21:00:11+00:00",
+  "fact": {
+    "subject": "NVIDIA董事会",
+    "action": "启动独立调查",
+    "object": "黄仁勋被外国情报活动针对的报道",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8a4ace238f477259417856ff13dfb8a115f8ffa93e176a779666263da474c786",
+    "originalUrl": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "originalPublishedAt": "2026-11-08T21:00:11+00:00",
+    "checkedAt": "2026-11-08T23:37:34.617Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8a4ace238f477259417856ff13dfb8a115f8ffa93e176a779666263da474c786",
+      "kind": "fact",
+      "quote": "The investigation will be conducted by independent directors working with outside legal counsel."
+    },
+    {
+      "snapshotId": "8a4ace238f477259417856ff13dfb8a115f8ffa93e176a779666263da474c786",
+      "kind": "condition",
+      "quote": "no reason to believe” that either national security or company secrets were compromised."
+    }
+  ],
+  "displayTitle": "英伟达董事会就黄仁勋被情报活动针对报道启动独立调查",
+  "narrative": "据 TechCrunch 报道，英伟达董事会已启动独立调查，由独立董事和外部律师负责。董事会称目前没有理由相信国家安全或公司机密遭到损害，并表示仍对黄仁勋及管理层有信心。对芯片供应链而言，眼下真正发生的变化是治理程序启动；情报活动报道中的具体指控仍待调查，不宜据此推断业务或技术机密已经泄露。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次董事会启动独立调查，与历史英伟达产品发布和算力业务事件不是同一次发生。"
+  },
+  "eventId": "event-8a95f60940aa6333c3d5d9c7",
+  "occurrenceId": "occ-8a95f60940aa6333c3d5d9c7",
+  "relatedItems": []
+}

@@ -1,0 +1,14 @@
+{
+  "snapshotId": "07edfd294cd05f2ca6e9dabfa9da89159f24cb8e9d7e4b65dca97b5255ab51d2",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+  "publishedAt": "2026-11-08T19:18:19+00:00",
+  "publishedAtQuote": "article:published_time=2026-11-08T19:18:19+00:00",
+  "retrievedAt": "2026-11-08T23:37:34.659Z",
+  "method": "agent-tool",
+  "contentHash": "d07615db6f70f19ee604b42f4dbd7f8398a1eeb06e97b3d401996096b57946d2",
+  "quotations": [
+    "Two significant improvements are expected to be made to Siri in the coming months.",
+    "Those capabilities are expected to land with iOS 27.3.",
+    "The bigger change, integration with third-party apps, is likely to land later, in the Spring, according to Gurman."
+  ]
+}

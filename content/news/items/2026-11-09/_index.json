@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-09",
+  "itemCount": 5,
+  "storyCount": 5,
+  "clusterCount": 5,
+  "files": [
+    "2026-11-09-nvidia-board-inquiry.json",
+    "2026-11-09-apple-siri-agent-roadmap.json",
+    "2026-11-09-coding-agent-token-efficiency.json",
+    "2026-11-09-world-model-financing-interviews.json",
+    "2026-11-09-gpu-taskman-hands-on.json"
+  ],
+  "representatives": [
+    "2026-11-09-nvidia-board-inquiry",
+    "2026-11-09-apple-siri-agent-roadmap",
+    "2026-11-09-coding-agent-token-efficiency",
+    "2026-11-09-world-model-financing-interviews",
+    "2026-11-09-gpu-taskman-hands-on"
+  ]
+}

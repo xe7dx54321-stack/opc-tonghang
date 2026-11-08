@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-568360a53a1036539ae6967a",
+  "title": "量子位访谈：世界模型融资门槛在提高",
+  "firstSeen": "2026-11-09",
+  "editionDate": "2026-11-09",
+  "occurrences": [
+    {
+      "id": "occ-568360a53a1036539ae6967a",
+      "fact": {
+        "subject": "量子位",
+        "action": "发布对投资人与世界模型公司融资负责人的采访报道",
+        "object": "世界模型融资门槛提高与交易披露滞后",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-09",
+      "reports": [
+        {
+          "ref": "2026-11-09/2026-11-09-world-model-financing-interviews",
+          "itemId": "2026-11-09-world-model-financing-interviews",
+          "editionDate": "2026-11-09",
+          "url": "https://www.qbitai.com/2026/11/508466.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "observer",
+          "publishedAt": "2026-11-08T12:09:55+08:00",
+          "title": "量子位访谈：世界模型融资门槛在提高"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-09"
+}

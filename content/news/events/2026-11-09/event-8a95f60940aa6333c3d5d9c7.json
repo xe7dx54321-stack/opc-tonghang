@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-8a95f60940aa6333c3d5d9c7",
+  "title": "英伟达董事会就黄仁勋被情报活动针对报道启动独立调查",
+  "firstSeen": "2026-11-09",
+  "editionDate": "2026-11-09",
+  "occurrences": [
+    {
+      "id": "occ-8a95f60940aa6333c3d5d9c7",
+      "fact": {
+        "subject": "NVIDIA董事会",
+        "action": "启动独立调查",
+        "object": "黄仁勋被外国情报活动针对的报道",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-09",
+      "reports": [
+        {
+          "ref": "2026-11-09/2026-11-09-nvidia-board-inquiry",
+          "itemId": "2026-11-09-nvidia-board-inquiry",
+          "editionDate": "2026-11-09",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-08T21:00:11+00:00",
+          "title": "英伟达董事会就黄仁勋被情报活动针对报道启动独立调查"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-09"
+}
