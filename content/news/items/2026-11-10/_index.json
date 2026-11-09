@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-10",
+  "itemCount": 10,
+  "storyCount": 10,
+  "clusterCount": 10,
+  "files": [
+    "2026-11-10-anthropic-fable-mythos-52.json",
+    "2026-11-10-google-tpu-8tx-8i-max.json",
+    "2026-11-10-meta-muse-ember.json",
+    "2026-11-10-nvidia-gr00t2-isaac-lab3.json",
+    "2026-11-10-qwen-office-team-agent.json",
+    "2026-11-10-bytedance-seedream-55.json",
+    "2026-11-10-anthropic-gas-turbines.json",
+    "2026-11-10-atlas-wheels-testbed.json",
+    "2026-11-10-claude-code-secrets-exposure.json",
+    "2026-11-10-tesla-robotaxi-san-antonio.json"
+  ],
+  "representatives": [
+    "2026-11-10-anthropic-fable-mythos-52",
+    "2026-11-10-google-tpu-8tx-8i-max",
+    "2026-11-10-meta-muse-ember",
+    "2026-11-10-nvidia-gr00t2-isaac-lab3",
+    "2026-11-10-qwen-office-team-agent",
+    "2026-11-10-bytedance-seedream-55",
+    "2026-11-10-anthropic-gas-turbines",
+    "2026-11-10-atlas-wheels-testbed",
+    "2026-11-10-claude-code-secrets-exposure",
+    "2026-11-10-tesla-robotaxi-san-antonio"
+  ]
+}

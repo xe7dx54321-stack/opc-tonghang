@@ -1,0 +1,63 @@
+{
+  "id": "2026-11-10-google-tpu-8tx-8i-max",
+  "title": "TPUs",
+  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+  "source": "hnrss-frontpage",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "TPUs Article URL",
+    "Comments URL",
+    "Points",
+    "Comments"
+  ],
+  "publishedAt": "2026-11-09T13:00:00+00:00",
+  "fetchedAt": "2026-11-09T22:57:07.160Z",
+  "summary": "Google 于 11 月 9 日公布第八代 TPU 的两种新系统：8tx 针对保密推理，8i Max 面向大上下文与更高机架计算密度；官网明确将其称为系统配置而非两颗全新芯片。",
+  "investorNote": "两种配置按负载分工，表明芯片竞争正转向封装、内存、安全和系统交付。",
+  "score": 0.9,
+  "duplicateOf": null,
+  "clusterId": "event-935c473017679eece00fd358",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Google",
+    "action": "公布",
+    "object": "TPU 8tx与TPU 8i Max",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Google",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "2d5d3620a6516ea574a01ca68f074c812608d397cf55c3bf3dfaf92f302a855a",
+    "originalUrl": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+    "originalPublishedAt": "2026-11-09T13:00:00+00:00",
+    "checkedAt": "2026-11-09T23:36:06.172Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "2d5d3620a6516ea574a01ca68f074c812608d397cf55c3bf3dfaf92f302a855a",
+      "kind": "fact",
+      "quote": "Today, we’re taking that a step further, expanding our eighth-generation TPU portfolio with two additional systems: TPU 8i Max for massive context windows and the highest compute density per rack, and TPU 8tx for secure and confidential inference. This is the first time we have introduced four TPU systems in a single year."
+    },
+    {
+      "snapshotId": "2d5d3620a6516ea574a01ca68f074c812608d397cf55c3bf3dfaf92f302a855a",
+      "kind": "condition",
+      "quote": "TPU 8tx, our third eighth-generation system, is optimized for secure and confidential inference and is also great for small-scale training. It’s built for regulated enterprises and governments running frontier or proprietary models and autonomous agents alongside their most sensitive data."
+    }
+  ],
+  "displayTitle": "Google 公布 TPU 8tx 与 8i Max，分攻保密推理和长上下文",
+  "narrative": "Google 在官网宣布扩展第八代 TPU 家族：8tx 面向需要保密计算的推理任务，8i Max 面向长上下文和高机架密度。官网特意区分了“新芯片”和“新系统”：这次是围绕现有芯片组织计算、网络、存储与封装。对芯片产业链，值得跟踪的变化是客户需求如何被系统级配置吸收，而不是把每个新型号都理解成一次全新流片。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "11 月 9 日公布的两种 TPU 系统，是独立于既有 TPU 8t、8i 的新配置。"
+  },
+  "eventId": "event-935c473017679eece00fd358",
+  "occurrenceId": "occ-935c473017679eece00fd358",
+  "relatedItems": []
+}

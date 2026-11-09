@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a1c4739a50e738e9727b1c13",
+  "title": "Meta 发布 Muse Ember，瞄准 Agent 高频低价执行任务",
+  "firstSeen": "2026-11-10",
+  "editionDate": "2026-11-10",
+  "occurrences": [
+    {
+      "id": "occ-a1c4739a50e738e9727b1c13",
+      "fact": {
+        "subject": "Meta",
+        "action": "发布",
+        "object": "Muse Ember轻量模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-10",
+      "reports": [
+        {
+          "ref": "2026-11-10/2026-11-10-meta-muse-ember",
+          "itemId": "2026-11-10-meta-muse-ember",
+          "editionDate": "2026-11-10",
+          "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-09T18:00:00.000Z",
+          "title": "Meta 发布 Muse Ember，瞄准 Agent 高频低价执行任务"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-10"
+}

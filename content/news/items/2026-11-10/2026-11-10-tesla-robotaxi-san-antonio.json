@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-10-tesla-robotaxi-san-antonio",
+  "title": "Tesla expands robotaxi service to San Antonio",
+  "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Tesla",
+    "San Antonio This",
+    "Texas"
+  ],
+  "publishedAt": "2026-11-09T11:30:24.000Z",
+  "fetchedAt": "2026-11-09T11:47:51.976Z",
+  "summary": "TechCrunch 报道 Tesla 于 11 月 9 日宣布在圣安东尼奥提供 robotaxi 服务，文章同时指出车队规模、运行时段与是否配安全员等关键条件尚未披露。",
+  "investorNote": "城市覆盖扩大不等于无人驾驶规模化，运营数据和安全员配置才决定可比性。",
+  "score": 0.69,
+  "duplicateOf": null,
+  "clusterId": "event-dce8c7735c4788d4b0e60c7f",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Tesla",
+    "action": "扩大",
+    "object": "San Antonio的robotaxi服务",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "aecbbbc7867ac06acae75ac95f207da9b6763da665fc5cbd463c8c377a3bf395",
+    "originalUrl": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+    "originalPublishedAt": "2026-11-09T11:30:24.000Z",
+    "checkedAt": "2026-11-09T23:36:12.244Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "aecbbbc7867ac06acae75ac95f207da9b6763da665fc5cbd463c8c377a3bf395",
+      "kind": "fact",
+      "quote": "Tesla is expanding its robotaxi service to another Texas city as it seeks to compete with Waymo and position itself as more than just an automaker. The company said in a post on X that it will make its robotaxis available in San Antonio starting at 5 a.m. local time on Monday."
+    },
+    {
+      "snapshotId": "aecbbbc7867ac06acae75ac95f207da9b6763da665fc5cbd463c8c377a3bf395",
+      "kind": "condition",
+      "quote": "Tesla didn’t provide any additional details about the service, such as the hours of operation, whether the fleet will offer customers its gold, two-seater Cybercab as well as its modified Model Y vehicles, or if these vehicles will have human safety monitors on board. But if the company follows its playbook of previous launches, it will start with a limited number of vehicles a"
+    }
+  ],
+  "displayTitle": "Tesla 将 robotaxi 服务扩至圣安东尼奥",
+  "narrative": "据 TechCrunch，Tesla 把 robotaxi 服务扩至圣安东尼奥，并称当地时间周一清晨开始提供服务。不过报道时，公司尚未交代车队规模、运营时段以及车内是否有安全员。新增一个城市说明网络继续铺开，但不能据此计算真正无人驾驶的供给能力；比较 Tesla 与 Waymo 时，须先对齐服务区域、车辆数和人工监护口径。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "11 月 9 日新增城市服务，与历史 Waymo 车队合作无关。"
+  },
+  "eventId": "event-dce8c7735c4788d4b0e60c7f",
+  "occurrenceId": "occ-dce8c7735c4788d4b0e60c7f",
+  "relatedItems": []
+}

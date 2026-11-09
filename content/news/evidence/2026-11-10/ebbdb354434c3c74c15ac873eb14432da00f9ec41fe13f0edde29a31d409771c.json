@@ -1,0 +1,13 @@
+{
+  "snapshotId": "ebbdb354434c3c74c15ac873eb14432da00f9ec41fe13f0edde29a31d409771c",
+  "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+  "publishedAt": "2026-11-09T16:56:54.000Z",
+  "publishedAtQuote": "2026-11-09T16:56:54+00:00",
+  "retrievedAt": "2026-11-09T23:36:09.483Z",
+  "method": "agent-tool",
+  "contentHash": "fba3b9aab2804070ac8fb2996a255ef0ed96e3f7ec681c3d003e61f73f9ac8ed",
+  "quotations": [
+    "AI’s power crunch has become so acute that Anthropic, a company that has generally avoided buying physical infrastructure, is spending $3.4 billion on natural gas turbines.",
+    "The AI company, which is planning to go public this year, is buying Caterpillar generators that equipment supplier OnePWR had originally ordered, according to a Financial Times report. The generators are capable of producing up to 1.7 gigawatts of electricity."
+  ]
+}

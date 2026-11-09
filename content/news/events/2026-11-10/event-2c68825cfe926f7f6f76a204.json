@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-2c68825cfe926f7f6f76a204",
+  "title": "Anthropic 据报采购 34 亿美元燃气发电设备",
+  "firstSeen": "2026-11-10",
+  "editionDate": "2026-11-10",
+  "occurrences": [
+    {
+      "id": "occ-2c68825cfe926f7f6f76a204",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "采购",
+        "object": "价值34亿美元的天然气发电设备",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-10",
+      "reports": [
+        {
+          "ref": "2026-11-10/2026-11-10-anthropic-gas-turbines",
+          "itemId": "2026-11-10-anthropic-gas-turbines",
+          "editionDate": "2026-11-10",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "relayer",
+          "publishedAt": "2026-11-09T16:56:54.000Z",
+          "title": "Anthropic 据报采购 34 亿美元燃气发电设备"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-10"
+}

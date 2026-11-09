@@ -1,0 +1,64 @@
+{
+  "id": "2026-11-10-meta-muse-ember",
+  "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+  "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Meta",
+    "Muse Ember",
+    "At",
+    "Ember",
+    "Haiku",
+    "Luna"
+  ],
+  "publishedAt": "2026-11-09T18:00:00.000Z",
+  "fetchedAt": "2026-11-09T18:23:58.922Z",
+  "summary": "Meta 于 11 月 9 日发布 Muse Ember，定位于工具调用、路由、抽取与编码子任务；公开报价为每百万输入 token 0.10 美元，强调与较大模型搭配完成大量重复步骤。",
+  "investorNote": "Agent 的经济性取决于海量小步骤的质量与成本，轻量模型成为工作流中的独立采购项。",
+  "score": 0.86,
+  "duplicateOf": null,
+  "clusterId": "event-a1c4739a50e738e9727b1c13",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Meta",
+    "action": "发布",
+    "object": "Muse Ember轻量模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "b54b0e9cb3f53640354d6c0e68019ac3e1546d2691af66d0665a96f4096ee13e",
+    "originalUrl": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+    "originalPublishedAt": "2026-11-09T18:00:00.000Z",
+    "checkedAt": "2026-11-09T23:36:06.720Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "b54b0e9cb3f53640354d6c0e68019ac3e1546d2691af66d0665a96f4096ee13e",
+      "kind": "fact",
+      "quote": "Meta Superintelligence Lab released a new AI model on Monday called Muse Ember, the lab’s lightest and most cost-efficient AI model yet. In its release, Meta said Ember was “designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing.”"
+    },
+    {
+      "snapshotId": "b54b0e9cb3f53640354d6c0e68019ac3e1546d2691af66d0665a96f4096ee13e",
+      "kind": "condition",
+      "quote": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna. Not only that, it’s cost-competitive with open source competitors like DeepSeek V4.1 Flash and GLM 5.3 Flash."
+    }
+  ],
+  "displayTitle": "Meta 发布 Muse Ember，瞄准 Agent 高频低价执行任务",
+  "narrative": "据 TechCrunch，Meta 新发布的 Muse Ember 对准 Agent 一天里重复发生的工具调用、路由、抽取与编码子任务，输入报价为每百万 token 0.10 美元。Meta 用自家评测和第三方榜单宣称更高的性价比，但那仍需在真实工作流里检验。对企业采购而言，这更像是把“规划”与“执行”拆成两档模型的报价策略：小任务的错误率只要略升，就会吃掉表面上的 token 节省。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "Meta 本期推出的新模型，与此前 Muse Agent Spaces 更新是不同产品动作。"
+  },
+  "eventId": "event-a1c4739a50e738e9727b1c13",
+  "occurrenceId": "occ-a1c4739a50e738e9727b1c13",
+  "relatedItems": []
+}

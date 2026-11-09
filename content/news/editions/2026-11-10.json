@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-10",
+  "window": {
+    "start": 1794180600000,
+    "end": 1794267000000
+  },
+  "digestHash": "0997b2dd0176a23f86455fa03c07faf3b9bbba6de6dab4bbb99d63953c3fdbbb",
+  "stories": [
+    {
+      "heading": "Anthropic 发布 Claude Fable 与 Mythos 5.2",
+      "itemId": "2026-11-10-anthropic-fable-mythos-52",
+      "eventId": "event-a85a81208ea63540b402c8bb",
+      "occurrenceId": "occ-a85a81208ea63540b402c8bb"
+    },
+    {
+      "heading": "Google 公布 TPU 8tx 与 8i Max，分攻保密推理和长上下文",
+      "itemId": "2026-11-10-google-tpu-8tx-8i-max",
+      "eventId": "event-935c473017679eece00fd358",
+      "occurrenceId": "occ-935c473017679eece00fd358"
+    },
+    {
+      "heading": "Meta 发布 Muse Ember，瞄准 Agent 高频低价执行任务",
+      "itemId": "2026-11-10-meta-muse-ember",
+      "eventId": "event-a1c4739a50e738e9727b1c13",
+      "occurrenceId": "occ-a1c4739a50e738e9727b1c13"
+    },
+    {
+      "heading": "NVIDIA 发布 GR00T 2 与 Isaac Lab 3.0，推进机器人世界动作模型",
+      "itemId": "2026-11-10-nvidia-gr00t2-isaac-lab3",
+      "eventId": "event-98343eff696173b867127c61",
+      "occurrenceId": "occ-98343eff696173b867127c61"
+    },
+    {
+      "heading": "千问办公 2.0 上线多人协作 Agent",
+      "itemId": "2026-11-10-qwen-office-team-agent",
+      "eventId": "event-fbe1e5921b9af915d898cc5e",
+      "occurrenceId": "occ-fbe1e5921b9af915d898cc5e"
+    },
+    {
+      "heading": "字节跳动发布 Seedream 5.5，强化多轮编辑和透明素材",
+      "itemId": "2026-11-10-bytedance-seedream-55",
+      "eventId": "event-77d5c03291ee5c88cf7f6901",
+      "occurrenceId": "occ-77d5c03291ee5c88cf7f6901"
+    },
+    {
+      "heading": "Anthropic 据报采购 34 亿美元燃气发电设备",
+      "itemId": "2026-11-10-anthropic-gas-turbines",
+      "eventId": "event-2c68825cfe926f7f6f76a204",
+      "occurrenceId": "occ-2c68825cfe926f7f6f76a204"
+    },
+    {
+      "heading": "Boston Dynamics 展示轮式 Atlas 控制实验",
+      "itemId": "2026-11-10-atlas-wheels-testbed",
+      "eventId": "event-fa226aaa26d5cee6bd1c4608",
+      "occurrenceId": "occ-fa226aaa26d5cee6bd1c4608"
+    },
+    {
+      "heading": "研究发现 Claude Code 本地设置文件被上传，部分含密钥",
+      "itemId": "2026-11-10-claude-code-secrets-exposure",
+      "eventId": "event-59506281612ff70eeb5935f1",
+      "occurrenceId": "occ-59506281612ff70eeb5935f1"
+    },
+    {
+      "heading": "Tesla 将 robotaxi 服务扩至圣安东尼奥",
+      "itemId": "2026-11-10-tesla-robotaxi-san-antonio",
+      "eventId": "event-dce8c7735c4788d4b0e60c7f",
+      "occurrenceId": "occ-dce8c7735c4788d4b0e60c7f"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-10-anthropic-fable-mythos-52.json": "78bb115df27c02abb49595faf7f7fda82669f399d955bd21433592c2be416fca",
+    "2026-11-10-anthropic-gas-turbines.json": "0bb6a979241d93b36f5189900469f034633172928dbeea8f11328a964804ae9a",
+    "2026-11-10-atlas-wheels-testbed.json": "a91f2a050ca6eb1885f8b7895ee2f8178a77b98cfad9fa492fc8b3b1970c53d9",
+    "2026-11-10-bytedance-seedream-55.json": "606cef987e43e38b62e77991f7cf426a2a47b95c70a24d419e470570b1facbe4",
+    "2026-11-10-claude-code-secrets-exposure.json": "4d8f3bf11368e48153aaa969076ce3bf25655ebea787386107cb4f1b4254bd62",
+    "2026-11-10-google-tpu-8tx-8i-max.json": "5afecc6f6a1aa51f3651b0043c5bcfeac79003908b80d7aeadb7f73e7137472d",
+    "2026-11-10-meta-muse-ember.json": "b1d197b7eba098bd081c123b6c72820f9db3c8d562af625a62ab27818fdeb2d4",
+    "2026-11-10-nvidia-gr00t2-isaac-lab3.json": "34f3078badea78416058bd48285db22b4ab21c4053a9ae1e9cbaa08cc4d33be6",
+    "2026-11-10-qwen-office-team-agent.json": "a7742959a514d5182e199a1a7c8f1e284228515d1e5ca593835a97da17156b03",
+    "2026-11-10-tesla-robotaxi-san-antonio.json": "b5fbfe715a847d772d57c628f5bb662b2f04813dd4ebd8ff009fd050dbff920e"
+  },
+  "evidenceHashes": {
+    "0f6487ee8c40c1b393bf9628d1b9f941230ac78116451feb32196bfd4d126782.json": "ed63e5cb9590b63c0ef992bc2bdbee8a02983b4d8861304b5c0631a67be0b6ed",
+    "2d5d3620a6516ea574a01ca68f074c812608d397cf55c3bf3dfaf92f302a855a.json": "c2f8904896703e3f2b08e8c243e65cc30410ab8c5f129d3343810bfa59d953e3",
+    "571c908d61fbb6cc5037e95c33bd71cdefa6f36e1068ba4218970d003143978d.json": "93c7cc21e9d5ebd5655616e0c322aef876e55e4cf9ee994c347233207c9874f9",
+    "6d5bb20a308cca5f875c43d887f46212fafe17b80e9d000bde26bdf97cde6df7.json": "cdc9bf8ced6b58b44bc0c08384bcffc7285b1794f82167453c3a9aed1fdbebe3",
+    "8551a211a6dc251b69981b2b200761ff735acf28cc2ae6b900f8be597900e77f.json": "0b91963c79e28fe3ecde4fd8cdf4231b1398402da6f7f2948d55b56a7ca11b7e",
+    "89efcfff2ef7b2dde052758d2c436d2b02a279899777d4eb4ea843cb9492b992.json": "47ba5e2288939b2535959e7e56cdf2162d6346721223b63a4edc0ee566c61f2d",
+    "8ad853e5a84ea1c71fc97d8a04b3276a742c1f86b240f95a806675752e018a57.json": "2564fe6e6c43f2084c3551d137f19a7bc5c5af86dbf48e9a67c8976b135358f1",
+    "aecbbbc7867ac06acae75ac95f207da9b6763da665fc5cbd463c8c377a3bf395.json": "b93957e501e50f14c54e11e4a6bf0233b5f580bbe082082c66565d8cfb535c8d",
+    "b54b0e9cb3f53640354d6c0e68019ac3e1546d2691af66d0665a96f4096ee13e.json": "2824f211775538f0c749baf4da50acab8399cfa81e1804efff7da5e17fbc667d",
+    "ebbdb354434c3c74c15ac873eb14432da00f9ec41fe13f0edde29a31d409771c.json": "195525403f28d88131cce0130871979eabe72a09678eaf39452b054af8e1b96a"
+  },
+  "eventsHashes": {
+    "event-2c68825cfe926f7f6f76a204.json": "f9bb8cf0743cbe5ce3e30a424daedea539ce8b89b430fa6390d1d9b3c1b9d114",
+    "event-59506281612ff70eeb5935f1.json": "24d998a92111968b1e6344308a1fa44df2a493380e4dcb7dcb579b9876004fa1",
+    "event-77d5c03291ee5c88cf7f6901.json": "c268f0fc81a5d800e3a9610c982eb31e366fcc914c24dd595cf33b0f342e26c4",
+    "event-935c473017679eece00fd358.json": "39b52646c6cd44e4b3df4d5f91af4758a1fcda35dad1aedbd36d339d96f94036",
+    "event-98343eff696173b867127c61.json": "0830c33f2cc59fbd8820ce908e08756607d430330981b81e9b4b05b12ad648ad",
+    "event-a1c4739a50e738e9727b1c13.json": "d9c1cbe4d9eed4f61b20093118175b6d7778d445f7f5c5e34cebb3490544e23c",
+    "event-a85a81208ea63540b402c8bb.json": "651a0191b46ab0a8da20227dd4b7a5f5f01a538912c3f1c34bc9af749f887020",
+    "event-dce8c7735c4788d4b0e60c7f.json": "1666ab0f65a41400868e7dd1589c2054d0b4ab60bfaaed2c925434155907b89d",
+    "event-fa226aaa26d5cee6bd1c4608.json": "8ee97de431d94e67fb9feb474ac774110a04fbbf24beaf1a9e166adcbc4a35a5",
+    "event-fbe1e5921b9af915d898cc5e.json": "de1dd88b431d6636f3b93235013e3bc2853e593af865f20d9993fe64cbf7f5b6"
+  }
+}

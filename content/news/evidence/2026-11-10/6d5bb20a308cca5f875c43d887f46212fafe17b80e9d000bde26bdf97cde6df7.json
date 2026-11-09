@@ -1,0 +1,13 @@
+{
+  "snapshotId": "6d5bb20a308cca5f875c43d887f46212fafe17b80e9d000bde26bdf97cde6df7",
+  "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
+  "publishedAt": "2026-11-09T21:52:05.000Z",
+  "publishedAtQuote": "2026-11-09T21:52:05+00:00",
+  "retrievedAt": "2026-11-09T23:36:07.661Z",
+  "method": "agent-tool",
+  "contentHash": "e2102f3d667245b4a16403dfea890eb8f99a013442d58f907c17b0c9bf927b1b",
+  "quotations": [
+    "NVIDIA Corp. today introduced GR00T 2, its updated open frontier world action model, and Isaac Lab 3.0, the latest version of its open-source robot learning framework. The company made these announcements at the Conference on Robot Learning, or CoRL, in Austin, Texas.",
+    "The model achieved 71% average success across 50 tasks with just one demonstration per task, increasing to 95% with five."
+  ]
+}

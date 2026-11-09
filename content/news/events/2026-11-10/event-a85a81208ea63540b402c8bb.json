@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a85a81208ea63540b402c8bb",
+  "title": "Anthropic 发布 Claude Fable 与 Mythos 5.2",
+  "firstSeen": "2026-11-10",
+  "editionDate": "2026-11-10",
+  "occurrences": [
+    {
+      "id": "occ-a85a81208ea63540b402c8bb",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "发布",
+        "object": "Claude Fable 5.2与Mythos 5.2",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-10",
+      "reports": [
+        {
+          "ref": "2026-11-10/2026-11-10-anthropic-fable-mythos-52",
+          "itemId": "2026-11-10-anthropic-fable-mythos-52",
+          "editionDate": "2026-11-10",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-09T19:24:51.000Z",
+          "title": "Anthropic 发布 Claude Fable 与 Mythos 5.2"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-10"
+}

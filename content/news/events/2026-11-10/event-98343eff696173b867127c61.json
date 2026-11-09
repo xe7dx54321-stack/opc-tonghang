@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-98343eff696173b867127c61",
+  "title": "NVIDIA 发布 GR00T 2 与 Isaac Lab 3.0，推进机器人世界动作模型",
+  "firstSeen": "2026-11-10",
+  "editionDate": "2026-11-10",
+  "occurrences": [
+    {
+      "id": "occ-98343eff696173b867127c61",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "发布",
+        "object": "GR00T 2与Isaac Lab 3.0",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-10",
+      "reports": [
+        {
+          "ref": "2026-11-10/2026-11-10-nvidia-gr00t2-isaac-lab3",
+          "itemId": "2026-11-10-nvidia-gr00t2-isaac-lab3",
+          "editionDate": "2026-11-10",
+          "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
+          "source": "robot-report",
+          "owner": "The Robot Report",
+          "role": "observer",
+          "publishedAt": "2026-11-09T21:52:05.000Z",
+          "title": "NVIDIA 发布 GR00T 2 与 Isaac Lab 3.0，推进机器人世界动作模型"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-10"
+}

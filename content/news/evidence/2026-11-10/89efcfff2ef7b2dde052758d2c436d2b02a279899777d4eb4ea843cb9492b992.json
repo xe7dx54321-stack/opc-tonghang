@@ -1,0 +1,13 @@
+{
+  "snapshotId": "89efcfff2ef7b2dde052758d2c436d2b02a279899777d4eb4ea843cb9492b992",
+  "url": "https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html",
+  "publishedAt": "2026-11-09T09:41:00.000Z",
+  "publishedAtQuote": "2026-11-09 17:41",
+  "retrievedAt": "2026-11-09T23:36:08.927Z",
+  "method": "agent-tool",
+  "contentHash": "8ee48d37ce0ee53b247c8d7cfa2ec470be659d96906bab1b986c9c214580a8da",
+  "quotations": [
+    "11 月 9 日，字节跳动正式发布豆包图像创作模型 Seedream 5.5。相较上一代 Seedream 5.0 Pro，新模型的生成速度大幅提升，同时增强了多轮编辑稳定性，原生支持透明素材生成，并针对图像真实感和小字渲染方面做了重点优化，更好地满足了专业创作场景对质量、稳定性与效率的要求。",
+    "目前，豆包、豆包工作、即梦已同步接入Seedream 5.5，API 即将上线火山方舟。定价方面，Seedream 5.5 API 延续“输入图 + 输出图”两段计费结构，文本 Token 不产生费用。以2K方图编辑为例，单张成本在 0.28 元左右，不到 Seedream 5.0 Pro 一半。"
+  ]
+}

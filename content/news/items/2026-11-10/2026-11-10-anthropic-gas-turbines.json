@@ -1,0 +1,60 @@
+{
+  "id": "2026-11-10-anthropic-gas-turbines",
+  "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+  "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "AI"
+  ],
+  "publishedAt": "2026-11-09T16:56:54.000Z",
+  "fetchedAt": "2026-11-09T17:23:18.516Z",
+  "summary": "TechCrunch 援引《金融时报》称，Anthropic 将投入约 34 亿美元采购 Caterpillar 燃气发电机组，设备潜在发电能力达 1.7 吉瓦；交易安排细节由媒体转述，非公司公开证实。",
+  "investorNote": "AI 算力瓶颈开始直接表现为电力设备锁单，但金额与实际交付还需追踪合同。",
+  "score": 0.8,
+  "duplicateOf": null,
+  "clusterId": "event-2c68825cfe926f7f6f76a204",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "采购",
+    "object": "价值34亿美元的天然气发电设备",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "ebbdb354434c3c74c15ac873eb14432da00f9ec41fe13f0edde29a31d409771c",
+    "originalUrl": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "originalPublishedAt": "2026-11-09T16:56:54.000Z",
+    "checkedAt": "2026-11-09T23:36:09.483Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "ebbdb354434c3c74c15ac873eb14432da00f9ec41fe13f0edde29a31d409771c",
+      "kind": "fact",
+      "quote": "AI’s power crunch has become so acute that Anthropic, a company that has generally avoided buying physical infrastructure, is spending $3.4 billion on natural gas turbines."
+    },
+    {
+      "snapshotId": "ebbdb354434c3c74c15ac873eb14432da00f9ec41fe13f0edde29a31d409771c",
+      "kind": "condition",
+      "quote": "The AI company, which is planning to go public this year, is buying Caterpillar generators that equipment supplier OnePWR had originally ordered, according to a Financial Times report. The generators are capable of producing up to 1.7 gigawatts of electricity."
+    }
+  ],
+  "displayTitle": "Anthropic 据报采购 34 亿美元燃气发电设备",
+  "narrative": "TechCrunch 援引《金融时报》报道称，Anthropic 计划以约 34 亿美元锁定 Caterpillar 燃气发电设备，潜在规模达 1.7 吉瓦。这个数字来自媒体转述，不能当成已投运容量。它说明大型模型公司的算力采购正触及发电设备交期：谁先锁定电源，谁更可能守住数据中心扩张节奏；下一步应看合同、交付与并网进度。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期报道的是发电设备采购，和同日模型发布是不同动作。"
+  },
+  "eventId": "event-2c68825cfe926f7f6f76a204",
+  "occurrenceId": "occ-2c68825cfe926f7f6f76a204",
+  "relatedItems": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": "2026-11-10-bytedance-seedream-55",
+  "title": "字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦",
+  "url": "https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Seedream",
+    "Pro",
+    "API",
+    "Token",
+    "RGBA",
+    "Alpha",
+    "MagicArena",
+    "Seed",
+    "Agent"
+  ],
+  "publishedAt": "2026-11-09T09:41:00.000Z",
+  "fetchedAt": "2026-11-09T11:47:47.059Z",
+  "summary": "雷峰网称字节跳动于 11 月 9 日发布 Seedream 5.5，豆包、豆包工作和即梦已接入；新模型强调多轮编辑、RGBA 透明素材与小字渲染，火山方舟 API 尚待上线。",
+  "investorNote": "图像模型竞争转向可反复修改的生产工作流，API 尚未开放限制了外部开发者验证。",
+  "score": 0.82,
+  "duplicateOf": null,
+  "clusterId": "event-77d5c03291ee5c88cf7f6901",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "字节跳动",
+    "action": "发布",
+    "object": "Seedream 5.5图像模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "89efcfff2ef7b2dde052758d2c436d2b02a279899777d4eb4ea843cb9492b992",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html",
+    "originalPublishedAt": "2026-11-09T09:41:00.000Z",
+    "checkedAt": "2026-11-09T23:36:08.927Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "89efcfff2ef7b2dde052758d2c436d2b02a279899777d4eb4ea843cb9492b992",
+      "kind": "fact",
+      "quote": "11 月 9 日，字节跳动正式发布豆包图像创作模型 Seedream 5.5。相较上一代 Seedream 5.0 Pro，新模型的生成速度大幅提升，同时增强了多轮编辑稳定性，原生支持透明素材生成，并针对图像真实感和小字渲染方面做了重点优化，更好地满足了专业创作场景对质量、稳定性与效率的要求。"
+    },
+    {
+      "snapshotId": "89efcfff2ef7b2dde052758d2c436d2b02a279899777d4eb4ea843cb9492b992",
+      "kind": "condition",
+      "quote": "目前，豆包、豆包工作、即梦已同步接入Seedream 5.5，API 即将上线火山方舟。定价方面，Seedream 5.5 API 延续“输入图 + 输出图”两段计费结构，文本 Token 不产生费用。以2K方图编辑为例，单张成本在 0.28 元左右，不到 Seedream 5.0 Pro 一半。"
+    }
+  ],
+  "displayTitle": "字节跳动发布 Seedream 5.5，强化多轮编辑和透明素材",
+  "narrative": "据雷峰网，字节跳动发布 Seedream 5.5，已接入豆包、豆包工作和即梦，火山方舟 API 仍待上线。它重点改善连续编辑时非修改区域的保持，并支持带 Alpha 通道的透明素材。对设计工作流，这比单张图是否惊艳更实用；但报道中的百轮稳定性和成本口径仍属发布方测试，外部团队要等 API 开放后复核。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "11 月 9 日 Seedream 5.5 发布，与旧版模型的迭代不是重复报道。"
+  },
+  "eventId": "event-77d5c03291ee5c88cf7f6901",
+  "occurrenceId": "occ-77d5c03291ee5c88cf7f6901",
+  "relatedItems": []
+}

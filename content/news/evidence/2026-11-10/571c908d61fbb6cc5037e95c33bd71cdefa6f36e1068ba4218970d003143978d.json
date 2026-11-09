@@ -1,0 +1,13 @@
+{
+  "snapshotId": "571c908d61fbb6cc5037e95c33bd71cdefa6f36e1068ba4218970d003143978d",
+  "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+  "publishedAt": "2026-11-09T19:24:51.000Z",
+  "publishedAtQuote": "2026-11-09T19:24:51+00:00",
+  "retrievedAt": "2026-11-09T23:36:05.353Z",
+  "method": "agent-tool",
+  "contentHash": "3a08f42e9295d12f4c271fd8fc09773c421c42f0e43eae17c38c188c29f6e247",
+  "quotations": [
+    "Anthropic released new versions of its most advanced models on Monday, with the launch of Mythos 5.2 and Fable 5.2. The company says the new models “show improvements in areas like coding, reasoning, and vision” and communicate more clearly with users.",
+    "Notably, Anthropic is lowering the cost of Fable from $10 to $8 per million input tokens. As a result, Fable 5.2 is now cheaper than its primary competitor GPT-6 Astra. Anthropic says that the new version of Fable will return responses 30% faster across effort levels. Faster inference serving is available for double the price."
+  ]
+}

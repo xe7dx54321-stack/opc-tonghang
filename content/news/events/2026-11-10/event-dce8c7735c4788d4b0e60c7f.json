@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-dce8c7735c4788d4b0e60c7f",
+  "title": "Tesla 将 robotaxi 服务扩至圣安东尼奥",
+  "firstSeen": "2026-11-10",
+  "editionDate": "2026-11-10",
+  "occurrences": [
+    {
+      "id": "occ-dce8c7735c4788d4b0e60c7f",
+      "fact": {
+        "subject": "Tesla",
+        "action": "扩大",
+        "object": "San Antonio的robotaxi服务",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-10",
+      "reports": [
+        {
+          "ref": "2026-11-10/2026-11-10-tesla-robotaxi-san-antonio",
+          "itemId": "2026-11-10-tesla-robotaxi-san-antonio",
+          "editionDate": "2026-11-10",
+          "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-09T11:30:24.000Z",
+          "title": "Tesla 将 robotaxi 服务扩至圣安东尼奥"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-10"
+}

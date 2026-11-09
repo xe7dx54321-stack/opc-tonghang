@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-59506281612ff70eeb5935f1",
+  "title": "研究发现 Claude Code 本地设置文件被上传，部分含密钥",
+  "firstSeen": "2026-11-10",
+  "editionDate": "2026-11-10",
+  "occurrences": [
+    {
+      "id": "occ-59506281612ff70eeb5935f1",
+      "fact": {
+        "subject": "Apiiro",
+        "action": "披露研究发现",
+        "object": "Claude Code本地设置文件公开泄露密钥的案例",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-10",
+      "reports": [
+        {
+          "ref": "2026-11-10/2026-11-10-claude-code-secrets-exposure",
+          "itemId": "2026-11-10-claude-code-secrets-exposure",
+          "editionDate": "2026-11-10",
+          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+          "source": "ars-technica",
+          "owner": "Ars Technica",
+          "role": "observer",
+          "publishedAt": "2026-11-09T17:24:26.000Z",
+          "title": "研究发现 Claude Code 本地设置文件被上传，部分含密钥"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-10"
+}

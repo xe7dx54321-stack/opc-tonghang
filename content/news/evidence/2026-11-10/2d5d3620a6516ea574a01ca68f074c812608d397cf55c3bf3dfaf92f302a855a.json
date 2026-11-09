@@ -1,0 +1,13 @@
+{
+  "snapshotId": "2d5d3620a6516ea574a01ca68f074c812608d397cf55c3bf3dfaf92f302a855a",
+  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+  "publishedAt": "2026-11-09T13:00:00+00:00",
+  "publishedAtQuote": "2026-11-09T13:00:00+00:00",
+  "retrievedAt": "2026-11-09T23:36:06.172Z",
+  "method": "agent-tool",
+  "contentHash": "dbef923e8ecd13d486a306cf08ca4e497e174a75e2792ca4da9f0d772c90b6c4",
+  "quotations": [
+    "Today, we’re taking that a step further, expanding our eighth-generation TPU portfolio with two additional systems: TPU 8i Max for massive context windows and the highest compute density per rack, and TPU 8tx for secure and confidential inference. This is the first time we have introduced four TPU systems in a single year.",
+    "TPU 8tx, our third eighth-generation system, is optimized for secure and confidential inference and is also great for small-scale training. It’s built for regulated enterprises and governments running frontier or proprietary models and autonomous agents alongside their most sensitive data."
+  ]
+}

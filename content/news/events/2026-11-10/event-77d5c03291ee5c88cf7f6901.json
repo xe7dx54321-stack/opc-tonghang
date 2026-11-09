@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-77d5c03291ee5c88cf7f6901",
+  "title": "字节跳动发布 Seedream 5.5，强化多轮编辑和透明素材",
+  "firstSeen": "2026-11-10",
+  "editionDate": "2026-11-10",
+  "occurrences": [
+    {
+      "id": "occ-77d5c03291ee5c88cf7f6901",
+      "fact": {
+        "subject": "字节跳动",
+        "action": "发布",
+        "object": "Seedream 5.5图像模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-10",
+      "reports": [
+        {
+          "ref": "2026-11-10/2026-11-10-bytedance-seedream-55",
+          "itemId": "2026-11-10-bytedance-seedream-55",
+          "editionDate": "2026-11-10",
+          "url": "https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-09T09:41:00.000Z",
+          "title": "字节跳动发布 Seedream 5.5，强化多轮编辑和透明素材"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-10"
+}

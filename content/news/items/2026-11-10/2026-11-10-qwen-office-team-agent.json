@@ -1,0 +1,65 @@
+{
+  "id": "2026-11-10-qwen-office-team-agent",
+  "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+  "url": "https://www.leiphone.com/category/industrynews/D80ceE4xuglkLvIu.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Agent",
+    "Team Agent",
+    "AI",
+    "PPT",
+    "IM",
+    "Office",
+    "SaaS"
+  ],
+  "publishedAt": "2026-11-09T07:46:00.000Z",
+  "fetchedAt": "2026-11-09T10:16:40.353Z",
+  "summary": "雷峰网称千问办公于 11 月 9 日发布 2.0，推出多人和 Agent 共处的协作空间、自动任务、人机共创及资料空间，功能已在客户端全量上线；协作空间可关联钉钉群、文档与表格。",
+  "investorNote": "办公 Agent 的竞争点从个人指令转向跨群、跨文档的组织上下文和权限整合。",
+  "score": 0.84,
+  "duplicateOf": null,
+  "clusterId": "event-fbe1e5921b9af915d898cc5e",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "千问办公",
+    "action": "发布",
+    "object": "2.0版Team Agent协作功能",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "0f6487ee8c40c1b393bf9628d1b9f941230ac78116451feb32196bfd4d126782",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/D80ceE4xuglkLvIu.html",
+    "originalPublishedAt": "2026-11-09T07:46:00.000Z",
+    "checkedAt": "2026-11-09T23:36:08.306Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "0f6487ee8c40c1b393bf9628d1b9f941230ac78116451feb32196bfd4d126782",
+      "kind": "fact",
+      "quote": "11月9日，千问办公发布2.0版本，这是其上线三个月以来最大的一次升级。该版本推出了行业首个支持多人与Agent协作的功能“协作”，同时上线“人机共创”、“资料空间”、“自动任务”和“三端互联”等核心能力，让Agent从服务个人走向服务团队和组织。目前，所有功能已在千问办公客户端全量上线。"
+    },
+    {
+      "snapshotId": "0f6487ee8c40c1b393bf9628d1b9f941230ac78116451feb32196bfd4d126782",
+      "kind": "condition",
+      "quote": "目前，所有功能已在千问办公客户端全量上线。"
+    }
+  ],
+  "displayTitle": "千问办公 2.0 上线多人协作 Agent",
+  "narrative": "雷峰网报道，千问办公 2.0 已把数字员工放进多人协作空间，可关联群聊、文档和表格，并按消息或审批触发自动任务；报道说这些功能已在客户端全量上线。它解决的是企业里任务在不同人和系统之间流转的问题。产品价值要看跨群信息是否被正确授权、任务交接是否可追踪，而不只看单次对话回答得多快。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "11 月 9 日的 2.0 版本发布，区别于产品此前的个人 Agent 功能。"
+  },
+  "eventId": "event-fbe1e5921b9af915d898cc5e",
+  "occurrenceId": "occ-fbe1e5921b9af915d898cc5e",
+  "relatedItems": []
+}

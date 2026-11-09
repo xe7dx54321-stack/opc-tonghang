@@ -1,0 +1,62 @@
+{
+  "id": "2026-11-10-anthropic-fable-mythos-52",
+  "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+  "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Mythos",
+    "Fable",
+    "RSI"
+  ],
+  "publishedAt": "2026-11-09T19:24:51.000Z",
+  "fetchedAt": "2026-11-09T19:54:59.580Z",
+  "summary": "Anthropic 于 11 月 9 日发布 Claude Fable 5.2 和 Mythos 5.2，称编码、推理与视觉能力改善；Fable 的输入价格从每百万 token 10 美元降至 8 美元，并称回应速度提高 30%。",
+  "investorNote": "旗舰模型降价使高难任务的单位成本更值得重算，但能力提升仍需第三方任务验证。",
+  "score": 0.94,
+  "duplicateOf": null,
+  "clusterId": "event-a85a81208ea63540b402c8bb",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "发布",
+    "object": "Claude Fable 5.2与Mythos 5.2",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "571c908d61fbb6cc5037e95c33bd71cdefa6f36e1068ba4218970d003143978d",
+    "originalUrl": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "originalPublishedAt": "2026-11-09T19:24:51.000Z",
+    "checkedAt": "2026-11-09T23:36:05.353Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "571c908d61fbb6cc5037e95c33bd71cdefa6f36e1068ba4218970d003143978d",
+      "kind": "fact",
+      "quote": "Anthropic released new versions of its most advanced models on Monday, with the launch of Mythos 5.2 and Fable 5.2. The company says the new models “show improvements in areas like coding, reasoning, and vision” and communicate more clearly with users."
+    },
+    {
+      "snapshotId": "571c908d61fbb6cc5037e95c33bd71cdefa6f36e1068ba4218970d003143978d",
+      "kind": "condition",
+      "quote": "Notably, Anthropic is lowering the cost of Fable from $10 to $8 per million input tokens. As a result, Fable 5.2 is now cheaper than its primary competitor GPT-6 Astra. Anthropic says that the new version of Fable will return responses 30% faster across effort levels. Faster inference serving is available for double the price."
+    }
+  ],
+  "displayTitle": "Anthropic 发布 Claude Fable 与 Mythos 5.2",
+  "narrative": "据 TechCrunch，当天 Anthropic 推出了 Claude Fable 5.2 和 Mythos 5.2，宣称编码、推理、视觉能力都有提升。Fable 输入价从每百万 token 10 美元降至 8 美元，公司还称响应快了约 30%。这轮更新的看点是高难任务的成本曲线：模型更强只有在任务完成率和总账单同时改善时才有采购意义；官方的能力演示不能直接当作生产环境的稳定表现。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当日新型号发布，与历史 IPO 和安全研究报道不是同一次发生。"
+  },
+  "eventId": "event-a85a81208ea63540b402c8bb",
+  "occurrenceId": "occ-a85a81208ea63540b402c8bb",
+  "relatedItems": []
+}

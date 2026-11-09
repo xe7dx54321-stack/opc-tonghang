@@ -1,0 +1,13 @@
+{
+  "snapshotId": "b54b0e9cb3f53640354d6c0e68019ac3e1546d2691af66d0665a96f4096ee13e",
+  "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+  "publishedAt": "2026-11-09T18:00:00.000Z",
+  "publishedAtQuote": "2026-11-09T18:00:00+00:00",
+  "retrievedAt": "2026-11-09T23:36:06.720Z",
+  "method": "agent-tool",
+  "contentHash": "b99fb74657730d23471192ebc0111a53d59e9eb384ed02e068242f3be90e19af",
+  "quotations": [
+    "Meta Superintelligence Lab released a new AI model on Monday called Muse Ember, the lab’s lightest and most cost-efficient AI model yet. In its release, Meta said Ember was “designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing.”",
+    "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna. Not only that, it’s cost-competitive with open source competitors like DeepSeek V4.1 Flash and GLM 5.3 Flash."
+  ]
+}

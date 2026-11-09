@@ -1,0 +1,13 @@
+{
+  "snapshotId": "8ad853e5a84ea1c71fc97d8a04b3276a742c1f86b240f95a806675752e018a57",
+  "url": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
+  "publishedAt": "2026-11-09T18:34:38.000Z",
+  "publishedAtQuote": "2026-11-09T18:34:38+00:00",
+  "retrievedAt": "2026-11-09T23:36:10.182Z",
+  "method": "agent-tool",
+  "contentHash": "218b26c895d79fdc4e00a1df570d2ff5e60034468fa4f4a44a7e971519895f58",
+  "quotations": [
+    "Bridging the divide between deterministic physics-based control and policy-driven adaptation, Boston Dynamics released a video today showing its Atlas humanoid using wheels to move around. The “experiment” combined classical model-based motor control with whole-body reinforcement learning to maintain dynamic stability across unstructured, real-world terrain.",
+    "Boston Dynamics said “a wheeled Atlas isn’t a product. It’s a research testbed.” Wu’s intention was to push the actuation to its limits."
+  ]
+}

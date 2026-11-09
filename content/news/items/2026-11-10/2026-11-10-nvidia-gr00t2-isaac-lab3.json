@@ -1,0 +1,71 @@
+{
+  "id": "2026-11-10-nvidia-gr00t2-isaac-lab3",
+  "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
+  "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [
+    "NVIDIA",
+    "GR00T",
+    "Isaac Lab",
+    "CoRL NVIDIA",
+    "Ambi Robotics",
+    "FieldAI",
+    "Flexion",
+    "Skild AI",
+    "RLWRLD",
+    "The",
+    "CoRL",
+    "The Robot Report"
+  ],
+  "publishedAt": "2026-11-09T21:52:05.000Z",
+  "fetchedAt": "2026-11-09T22:26:53.111Z",
+  "summary": "NVIDIA 在 11 月 9 日 CoRL 发布 GR00T 2 世界动作模型及 Isaac Lab 3.0；官方研究页称模型联合预测未来视频与机器人动作，媒体报道五次示教后在一组任务上的平均成功率达到 95%。",
+  "investorNote": "人类视频向机器人动作迁移的效率是具身模型商业化要验证的关键，不应把受控任务分数外推为工厂可靠性。",
+  "score": 0.89,
+  "duplicateOf": null,
+  "clusterId": "event-98343eff696173b867127c61",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "发布",
+    "object": "GR00T 2与Isaac Lab 3.0",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "6d5bb20a308cca5f875c43d887f46212fafe17b80e9d000bde26bdf97cde6df7",
+    "originalUrl": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
+    "originalPublishedAt": "2026-11-09T21:52:05.000Z",
+    "checkedAt": "2026-11-09T23:36:07.661Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "6d5bb20a308cca5f875c43d887f46212fafe17b80e9d000bde26bdf97cde6df7",
+      "kind": "fact",
+      "quote": "NVIDIA Corp. today introduced GR00T 2, its updated open frontier world action model, and Isaac Lab 3.0, the latest version of its open-source robot learning framework. The company made these announcements at the Conference on Robot Learning, or CoRL, in Austin, Texas."
+    },
+    {
+      "snapshotId": "6d5bb20a308cca5f875c43d887f46212fafe17b80e9d000bde26bdf97cde6df7",
+      "kind": "condition",
+      "quote": "The model achieved 71% average success across 50 tasks with just one demonstration per task, increasing to 95% with five."
+    }
+  ],
+  "displayTitle": "NVIDIA 发布 GR00T 2 与 Isaac Lab 3.0，推进机器人世界动作模型",
+  "narrative": "The Robot Report 报道，NVIDIA 在 CoRL 推出 GR00T 2 和 Isaac Lab 3.0；官方研究页把 GR00T 2 定义为联合预测未来画面与机器人动作的世界动作模型。媒体援引 NVIDIA 测试称，在其设置的 50 项任务里，五次示教后的平均成功率达到 95%。真正值得盯的是不同机器人本体之间能否少量迁移技能，以及这些结果在非标准物体和长时任务中是否还能维持；目前数字属于厂商测试口径。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本期 CoRL 新模型和训练框架发布，历史候选没有同一次发生。"
+  },
+  "eventId": "event-98343eff696173b867127c61",
+  "occurrenceId": "occ-98343eff696173b867127c61",
+  "relatedItems": []
+}

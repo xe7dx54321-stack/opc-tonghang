@@ -1,0 +1,62 @@
+{
+  "id": "2026-11-10-atlas-wheels-testbed",
+  "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
+  "url": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Boston Dynamics",
+    "Atlas",
+    "The",
+    "The Robot Report"
+  ],
+  "publishedAt": "2026-11-09T18:34:38.000Z",
+  "fetchedAt": "2026-11-09T18:54:30.892Z",
+  "summary": "The Robot Report 报道，Boston Dynamics 于 11 月 9 日展示 Atlas 腿部加装车轮的控制实验，结合模型控制与全身强化学习；公司称轮式 Atlas 只是研究测试平台，不是产品。",
+  "investorNote": "轮式实验验证不同运动模式的控制迁移，不意味着量产机器人将改用车轮。",
+  "score": 0.74,
+  "duplicateOf": null,
+  "clusterId": "event-fa226aaa26d5cee6bd1c4608",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Boston Dynamics",
+    "action": "展示",
+    "object": "Atlas轮式移动研究实验",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8ad853e5a84ea1c71fc97d8a04b3276a742c1f86b240f95a806675752e018a57",
+    "originalUrl": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
+    "originalPublishedAt": "2026-11-09T18:34:38.000Z",
+    "checkedAt": "2026-11-09T23:36:10.182Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8ad853e5a84ea1c71fc97d8a04b3276a742c1f86b240f95a806675752e018a57",
+      "kind": "fact",
+      "quote": "Bridging the divide between deterministic physics-based control and policy-driven adaptation, Boston Dynamics released a video today showing its Atlas humanoid using wheels to move around. The “experiment” combined classical model-based motor control with whole-body reinforcement learning to maintain dynamic stability across unstructured, real-world terrain."
+    },
+    {
+      "snapshotId": "8ad853e5a84ea1c71fc97d8a04b3276a742c1f86b240f95a806675752e018a57",
+      "kind": "condition",
+      "quote": "Boston Dynamics said “a wheeled Atlas isn’t a product. It’s a research testbed.” Wu’s intention was to push the actuation to its limits."
+    }
+  ],
+  "displayTitle": "Boston Dynamics 展示轮式 Atlas 控制实验",
+  "narrative": "The Robot Report 报道，Boston Dynamics 展示了腿部装上车轮的 Atlas：控制方案把传统模型控制与全身强化学习结合，让机器人在平地滚动和障碍地形之间切换。公司明确说轮式 Atlas 是研究测试平台，并非产品。它的价值在于验证同一套本体和控制系统能否适应新的运动接触方式；把这段演示解读成商业型号发布会高估进展。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "11 月 9 日新的 Atlas 控制实验，与 NVIDIA 的模型发布无直接事件关系。"
+  },
+  "eventId": "event-fa226aaa26d5cee6bd1c4608",
+  "occurrenceId": "occ-fa226aaa26d5cee6bd1c4608",
+  "relatedItems": []
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-fbe1e5921b9af915d898cc5e",
+  "title": "千问办公 2.0 上线多人协作 Agent",
+  "firstSeen": "2026-11-10",
+  "editionDate": "2026-11-10",
+  "occurrences": [
+    {
+      "id": "occ-fbe1e5921b9af915d898cc5e",
+      "fact": {
+        "subject": "千问办公",
+        "action": "发布",
+        "object": "2.0版Team Agent协作功能",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-10",
+      "reports": [
+        {
+          "ref": "2026-11-10/2026-11-10-qwen-office-team-agent",
+          "itemId": "2026-11-10-qwen-office-team-agent",
+          "editionDate": "2026-11-10",
+          "url": "https://www.leiphone.com/category/industrynews/D80ceE4xuglkLvIu.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-09T07:46:00.000Z",
+          "title": "千问办公 2.0 上线多人协作 Agent"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-10"
+}

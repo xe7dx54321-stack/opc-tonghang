@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-935c473017679eece00fd358",
+  "title": "Google 公布 TPU 8tx 与 8i Max，分攻保密推理和长上下文",
+  "firstSeen": "2026-11-10",
+  "editionDate": "2026-11-10",
+  "occurrences": [
+    {
+      "id": "occ-935c473017679eece00fd358",
+      "fact": {
+        "subject": "Google",
+        "action": "公布",
+        "object": "TPU 8tx与TPU 8i Max",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-10",
+      "reports": [
+        {
+          "ref": "2026-11-10/2026-11-10-google-tpu-8tx-8i-max",
+          "itemId": "2026-11-10-google-tpu-8tx-8i-max",
+          "editionDate": "2026-11-10",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+          "source": "hnrss-frontpage",
+          "owner": "Google",
+          "role": "principal",
+          "publishedAt": "2026-11-09T13:00:00+00:00",
+          "title": "Google 公布 TPU 8tx 与 8i Max，分攻保密推理和长上下文"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-10"
+}
