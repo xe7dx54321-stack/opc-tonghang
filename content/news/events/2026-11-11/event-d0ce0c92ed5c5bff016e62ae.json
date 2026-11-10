@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-d0ce0c92ed5c5bff016e62ae",
+  "title": "OpenAI推出ChatGPT商家资料与品牌Agent测试版",
+  "firstSeen": "2026-11-11",
+  "editionDate": "2026-11-11",
+  "occurrences": [
+    {
+      "id": "occ-d0ce0c92ed5c5bff016e62ae",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "推出测试版",
+        "object": "Businesses in ChatGPT与Business Agents",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-11",
+      "reports": [
+        {
+          "ref": "2026-11-11/2026-11-11-openai-businesses-chatgpt",
+          "itemId": "2026-11-11-openai-businesses-chatgpt",
+          "editionDate": "2026-11-11",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "openai-news",
+          "owner": "OpenAI",
+          "role": "principal",
+          "publishedAt": "2026-11-10T10:00:00.000Z",
+          "title": "OpenAI推出ChatGPT商家资料与品牌Agent测试版"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-11"
+}

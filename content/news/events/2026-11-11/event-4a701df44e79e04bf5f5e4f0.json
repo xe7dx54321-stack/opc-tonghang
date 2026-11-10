@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-4a701df44e79e04bf5f5e4f0",
+  "title": "微软研究揭示模型权重后门，可诱导Agent执行恶意命令",
+  "firstSeen": "2026-11-11",
+  "editionDate": "2026-11-11",
+  "occurrences": [
+    {
+      "id": "occ-4a701df44e79e04bf5f5e4f0",
+      "fact": {
+        "subject": "微软研究团队",
+        "action": "披露",
+        "object": "无需重新训练模型的Lazarus权重后门技术",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-11",
+      "reports": [
+        {
+          "ref": "2026-11-11/2026-11-11-microsoft-lazarus-backdoor",
+          "itemId": "2026-11-11-microsoft-lazarus-backdoor",
+          "editionDate": "2026-11-11",
+          "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+          "source": "microsoft-research",
+          "owner": "Microsoft Research",
+          "role": "principal",
+          "publishedAt": "2026-11-10T20:52:56.000Z",
+          "title": "微软研究揭示模型权重后门，可诱导Agent执行恶意命令"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-11"
+}

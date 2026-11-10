@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-be331e09a62eb4c2b5ddc6b1",
+  "title": "Zen 6 EPYC迎来独立测试，核心密度与内存通道上升",
+  "firstSeen": "2026-11-11",
+  "editionDate": "2026-11-11",
+  "occurrences": [
+    {
+      "id": "occ-be331e09a62eb4c2b5ddc6b1",
+      "fact": {
+        "subject": "Tom's Hardware",
+        "action": "发布独立测试",
+        "object": "AMD Zen 6 EPYC Venice处理器",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-11",
+      "reports": [
+        {
+          "ref": "2026-11-11/2026-11-11-zen6-epyc-independent-test",
+          "itemId": "2026-11-11-zen6-epyc-independent-test",
+          "editionDate": "2026-11-11",
+          "url": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera",
+          "source": "tomshardware",
+          "owner": "Tom's Hardware",
+          "role": "observer",
+          "publishedAt": "2026-11-10T17:00:00.000Z",
+          "title": "Zen 6 EPYC迎来独立测试，核心密度与内存通道上升"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-11"
+}

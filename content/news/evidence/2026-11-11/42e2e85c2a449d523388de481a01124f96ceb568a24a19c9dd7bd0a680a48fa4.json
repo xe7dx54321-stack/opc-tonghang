@@ -1,0 +1,14 @@
+{
+  "snapshotId": "42e2e85c2a449d523388de481a01124f96ceb568a24a19c9dd7bd0a680a48fa4",
+  "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+  "publishedAt": "2026-11-10T20:52:56.000Z",
+  "publishedAtQuote": "2026-11-10T20:52:56+00:00",
+  "retrievedAt": "2026-11-10T23:37:18.673Z",
+  "method": "agent-tool",
+  "contentHash": "33b18804265b33e858d2b81cb92f52e1cf2bc57f84461f215975aea948bd5979",
+  "quotations": [
+    "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears.",
+    "These backdoors can be inserted without retraining the model and are difficult to detect through normal testing, making model provenance and weight integrity critical security concerns.",
+    "The threat is especially serious for AI agents with tool or terminal access."
+  ]
+}

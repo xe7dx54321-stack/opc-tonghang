@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-24c9850c87d3eeabc4715266",
+  "title": "台积电批准分别最多5亿美元投资Anthropic与OpenAI",
+  "firstSeen": "2026-11-11",
+  "editionDate": "2026-11-11",
+  "occurrences": [
+    {
+      "id": "occ-24c9850c87d3eeabc4715266",
+      "fact": {
+        "subject": "TSMC董事会",
+        "action": "批准",
+        "object": "分别不超过5亿美元的Anthropic与OpenAI股权投资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-11",
+      "reports": [
+        {
+          "ref": "2026-11-11/2026-11-11-tsmc-anthropic-openai-investment",
+          "itemId": "2026-11-11-tsmc-anthropic-openai-investment",
+          "editionDate": "2026-11-11",
+          "url": "https://pr.tsmc.com/english/news/3352",
+          "source": "hacker-news",
+          "owner": "TSMC",
+          "role": "principal",
+          "publishedAt": "2026-11-10T12:00:00.000Z",
+          "title": "台积电批准分别最多5亿美元投资Anthropic与OpenAI"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-11"
+}

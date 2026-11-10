@@ -1,0 +1,15 @@
+{
+  "snapshotId": "3d50312f0b92863002621e255ebe942716e34abf6b5d165b9d93c0207cf1c3d9",
+  "url": "https://openai.com/index/introducing-businesses-chatgpt",
+  "publishedAt": "2026-11-10T10:00:00.000Z",
+  "publishedAtQuote": "November 10, 2026",
+  "retrievedAt": "2026-11-10T23:37:18.565Z",
+  "method": "agent-tool",
+  "contentHash": "8dbd22207c26b01303f905df222b6cd1afc216bd74dff7c62750d3163cd7dcad",
+  "quotations": [
+    "We’re introducing Businesses in ChatGPT in beta, giving businesses a new way to connect with the 1.2 billion people who use ChatGPT each week.",
+    "In addition, we are adding a powerful new way for businesses to interact with users via Business Agents, starting with eligible ecommerce and online service businesses in the U.S.",
+    "In Business Hub, companies can claim their organization in ChatGPT and, once verified, update key details and add self-service product feeds with pricing and availability.",
+    "Business Agents are now available to eligible ecommerce and online service businesses in the United States ."
+  ]
+}

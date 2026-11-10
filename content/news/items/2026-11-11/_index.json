@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-11",
+  "itemCount": 11,
+  "storyCount": 10,
+  "clusterCount": 10,
+  "files": [
+    "2026-11-11-anthropic-ipo-roadshow.json",
+    "2026-11-11-anthropic-claude-workspace.json",
+    "2026-11-11-openai-businesses-chatgpt.json",
+    "2026-11-11-tsmc-anthropic-openai-investment.json",
+    "2026-11-11-lingbot-touch-release.json",
+    "2026-11-11-lingbot-touch-zhidongxi.json",
+    "2026-11-11-microsoft-lazarus-backdoor.json",
+    "2026-11-11-gemini-carbon-public-release.json",
+    "2026-11-11-gemini-robotics-25.json",
+    "2026-11-11-nvidia-openshell-cncf.json",
+    "2026-11-11-zen6-epyc-independent-test.json"
+  ],
+  "representatives": [
+    "2026-11-11-anthropic-ipo-roadshow",
+    "2026-11-11-anthropic-claude-workspace",
+    "2026-11-11-openai-businesses-chatgpt",
+    "2026-11-11-tsmc-anthropic-openai-investment",
+    "2026-11-11-lingbot-touch-release",
+    "2026-11-11-microsoft-lazarus-backdoor",
+    "2026-11-11-gemini-carbon-public-release",
+    "2026-11-11-gemini-robotics-25",
+    "2026-11-11-nvidia-openshell-cncf",
+    "2026-11-11-zen6-epyc-independent-test"
+  ]
+}

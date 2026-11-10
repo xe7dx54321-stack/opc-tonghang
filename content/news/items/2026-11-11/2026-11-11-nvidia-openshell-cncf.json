@@ -1,0 +1,70 @@
+{
+  "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+  "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "New AI Infrastructure Kubernetes",
+    "AI",
+    "To",
+    "NVIDIA",
+    "KubeCon",
+    "CloudNativeCon",
+    "Kubernetes"
+  ],
+  "fetchedAt": "2026-11-10T16:12:49.030Z",
+  "summary": "NVIDIA宣布把用于Agent安全与治理的OpenShell运行时贡献给CNCF，并参与Google主导的Agent Substrate；同场公布NVIDIA Kubernetes Engine、Recipes和Snapshot等DSX组件。此次动作把Agent运行约束和GPU集群运维放进云原生生态。CNC",
+  "investorNote": "CNCF Sandbox接纳只代表项目进入社区治理起点，不能据此推断已成为行业标准；应观察其他云厂、Agent平台是否采用和共同维护。",
+  "schemaVersion": 2,
+  "id": "2026-11-11-nvidia-openshell-cncf",
+  "publishedAt": "2026-11-10T16:00:03.000Z",
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "向CNCF贡献",
+    "object": "OpenShell Agent运行时并发布DSX组件",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d681eebaf9122d97ecc3210f6312e2920195da5b2ee08aaa79254ec0f677cb76",
+    "originalUrl": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+    "originalPublishedAt": "2026-11-10T16:00:03.000Z",
+    "checkedAt": "2026-11-10T23:37:19.736Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d681eebaf9122d97ecc3210f6312e2920195da5b2ee08aaa79254ec0f677cb76",
+      "kind": "fact",
+      "quote": "NVIDIA is contributing NVIDIA OpenShell , an open source runtime for securing and governing autonomous agents, to the Cloud Native Computing Foundation (CNCF), a nonprofit that is part of the Linux Foundation and the host of KubeCon."
+    },
+    {
+      "snapshotId": "d681eebaf9122d97ecc3210f6312e2920195da5b2ee08aaa79254ec0f677cb76",
+      "kind": "condition",
+      "quote": "Additionally, NVIDIA announced new components of the NVIDIA DSX AI Factory Platform : NVIDIA Kubernetes Engine , NVIDIA Kubernetes Recipes and NVIDIA Snapshot ."
+    },
+    {
+      "snapshotId": "d681eebaf9122d97ecc3210f6312e2920195da5b2ee08aaa79254ec0f677cb76",
+      "kind": "condition",
+      "quote": "NVIDIA is also contributing to Agent Substrate , an open source Google-led framework for operating long-running agent workloads at scale on Kubernetes that has been accepted into the CNCF Sandbox."
+    }
+  ],
+  "score": 0.79,
+  "duplicateOf": null,
+  "clusterId": "event-0f245adb0886f9eee08e0a8f",
+  "displayTitle": "NVIDIA将OpenShell捐给CNCF，扩展Agent与GPU集群底座",
+  "narrative": "NVIDIA宣布把用于Agent安全与治理的OpenShell运行时贡献给CNCF，并参与Google主导的Agent Substrate；同场公布NVIDIA Kubernetes Engine、Recipes和Snapshot等DSX组件。此次动作把Agent运行约束和GPU集群运维放进云原生生态。CNCF Sandbox接纳只代表项目进入社区治理起点，不能据此推断已成为行业标准；应观察其他云厂、Agent平台是否采用和共同维护。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "NVIDIA本期云原生Agent运行时贡献及基础设施组件发布"
+  },
+  "eventId": "event-0f245adb0886f9eee08e0a8f",
+  "occurrenceId": "occ-0f245adb0886f9eee08e0a8f",
+  "relatedItems": []
+}

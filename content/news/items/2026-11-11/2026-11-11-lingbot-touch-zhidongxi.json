@@ -1,0 +1,59 @@
+{
+  "title": "蚂蚁灵波又放大招！机器人通用大脑学会共享“手感”",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813612&idx=1&sn=f9954acd08acd5447e99dccda7f81f08",
+  "source": "wechat-zhidongxi",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Token"
+  ],
+  "fetchedAt": "2026-11-10T15:42:07.240Z",
+  "summary": "智东西11月10日原始报道记录蚂蚁灵波开源LingBot-Touch，并列出两款灵巧手、四种策略模型和26项真机任务，属于同次开源的另一报道。结果基于发布方提供的测试，不能当作独立复现实验。",
+  "investorNote": "结果基于发布方提供的测试，不能当作独立复现实验。",
+  "schemaVersion": 2,
+  "id": "2026-11-11-lingbot-touch-zhidongxi",
+  "publishedAt": "2026-11-10T09:28:00.000Z",
+  "fact": {
+    "subject": "蚂蚁灵波",
+    "action": "开源",
+    "object": "LingBot-Touch触觉基础模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "智东西",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "a216546260219e506a3993d9775cf4b3f6b2e28657f13c1255c2613ead838adf",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813612&idx=1&sn=f9954acd08acd5447e99dccda7f81f08",
+    "originalPublishedAt": "2026-11-10T09:28:00.000Z",
+    "checkedAt": "2026-11-10T23:37:18.646Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "a216546260219e506a3993d9775cf4b3f6b2e28657f13c1255c2613ead838adf",
+      "kind": "fact",
+      "quote": "智东西11月10日报道， 蚂蚁灵波正式开源面向灵巧操作的触觉预训练基础模型LingBot-Touch 。该模型能统一处理压阻式、视触觉等不同类型的传感信号，将其编码为统一、可复用的触觉表征，供不同灵巧手和策略模型使用。"
+    },
+    {
+      "snapshotId": "a216546260219e506a3993d9775cf4b3f6b2e28657f13c1255c2613ead838adf",
+      "kind": "condition",
+      "quote": "在真机测试中，LingBot-Touch与两款不同灵巧手和四种策略模型结合，完成26项真实操作任务。结果显示，四种策略模型在两款灵巧手上的平均任务成功率均得到提升。"
+    }
+  ],
+  "score": 0.72,
+  "duplicateOf": "2026-11-11-lingbot-touch-release",
+  "clusterId": "event-155a88c93ee718bef78fff7a",
+  "displayTitle": "智东西报道LingBot-Touch开源与真机测试",
+  "narrative": "智东西11月10日原始报道记录蚂蚁灵波开源LingBot-Touch，并列出两款灵巧手、四种策略模型和26项真机任务，属于同次开源的另一报道。结果基于发布方提供的测试，不能当作独立复现实验。",
+  "eventRelation": {
+    "type": "SAME_OCCURRENCE",
+    "targetRef": "2026-11-11/2026-11-11-lingbot-touch-release",
+    "reason": "同日同一主体开源同一个LingBot-Touch模型，并描述同组两款灵巧手与26项任务"
+  },
+  "eventId": "event-155a88c93ee718bef78fff7a",
+  "occurrenceId": "occ-155a88c93ee718bef78fff7a"
+}

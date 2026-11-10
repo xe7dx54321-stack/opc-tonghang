@@ -1,0 +1,67 @@
+{
+  "title": "Gemini 4 Carbon is now available",
+  "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+  "source": "deepmind",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Gemini",
+    "Carbon"
+  ],
+  "fetchedAt": "2026-11-10T16:12:37.488Z",
+  "summary": "Google宣布Gemini 4 Carbon向开发者、企业与消费者开放。两周前它仅提供给Fairwind项目中的部分网络安全防御者；如今付费开发者可通过Google AI Studio API调用，Google AI Ultra订阅用户也将逐步在产品内使用。此次的新事实是可用范围扩大，不是模型今天首次亮相。",
+  "investorNote": "模型能力和价格均来自Google自述，真正需要观察的是复杂任务的成本与成功率是否匹配。",
+  "schemaVersion": 2,
+  "id": "2026-11-11-gemini-carbon-public-release",
+  "publishedAt": "2026-11-10T16:00:00.000Z",
+  "fact": {
+    "subject": "Google DeepMind",
+    "action": "扩大开放",
+    "object": "Gemini 4 Carbon模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Google",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "4415569121f87a10a1115e73e07ce42d73ccacb6b42a335768f8580fe519d8ca",
+    "originalUrl": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "originalPublishedAt": "2026-11-10T16:00:00.000Z",
+    "checkedAt": "2026-11-10T23:37:18.699Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "4415569121f87a10a1115e73e07ce42d73ccacb6b42a335768f8580fe519d8ca",
+      "kind": "fact",
+      "quote": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers."
+    },
+    {
+      "snapshotId": "4415569121f87a10a1115e73e07ce42d73ccacb6b42a335768f8580fe519d8ca",
+      "kind": "condition",
+      "quote": "Two weeks ago , we released Carbon to a set of cybersecurity defenders via our Fairwind Program ."
+    },
+    {
+      "snapshotId": "4415569121f87a10a1115e73e07ce42d73ccacb6b42a335768f8580fe519d8ca",
+      "kind": "condition",
+      "quote": "Gemini 4 Carbon is available via the API in Google AI Studio and Gemini for business for all paying developers and enterprises, at the same introductory price 1 as Gemini 4 Argon ($2 per million input tokens and $10 per million output tokens)."
+    }
+  ],
+  "score": 0.89,
+  "duplicateOf": null,
+  "clusterId": "event-398478568c34db125cc046ff",
+  "displayTitle": "Gemini 4 Carbon扩大开放，从防御试点走向付费API",
+  "narrative": "Google宣布Gemini 4 Carbon向开发者、企业与消费者开放。两周前它仅提供给Fairwind项目中的部分网络安全防御者；如今付费开发者可通过Google AI Studio API调用，Google AI Ultra订阅用户也将逐步在产品内使用。此次的新事实是可用范围扩大，不是模型今天首次亮相。模型能力和价格均来自Google自述，真正需要观察的是复杂任务的成本与成功率是否匹配。",
+  "eventRelation": {
+    "type": "SAME_STORY",
+    "targetRef": "2026-10-29/2026-10-29-gemini-carbon",
+    "reason": "10月先向网络防御团队开放，本次扩大到付费API、企业及消费者",
+    "newInformation": "Gemini 4 Carbon从限定防御试点扩展至付费API与订阅产品"
+  },
+  "eventId": "event-398478568c34db125cc046ff",
+  "occurrenceId": "occ-03b6a19311564d797b7e21f4",
+  "relatedItems": []
+}

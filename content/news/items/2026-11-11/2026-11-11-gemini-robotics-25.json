@@ -1,0 +1,77 @@
+{
+  "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+  "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+  "source": "deepmind",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "DeepMind",
+    "Gemini Robotics",
+    "ASIMOV",
+    "The"
+  ],
+  "fetchedAt": "2026-11-10T15:41:57.692Z",
+  "summary": "Google DeepMind发布Gemini Robotics 2.5，并把视觉语言动作模型推向机器人合作伙伴。官方称模型覆盖逾200种任务，Apptronik Apollo 2在奔驰产线的零件拣放概念验证中达到96%成功率，同时发布针对机器人危险指令的ASIMOV-Jailbreak基准。概念验证不是规模",
+  "investorNote": "概念验证不是规模化部署；对具身投资更关键的是迁移到不同产线、工件和节拍后能否保持可靠性。",
+  "schemaVersion": 2,
+  "id": "2026-11-11-gemini-robotics-25",
+  "publishedAt": "2026-11-10T15:00:00.000Z",
+  "fact": {
+    "subject": "Google DeepMind",
+    "action": "发布",
+    "object": "Gemini Robotics 2.5及ASIMOV-Jailbreak基准",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Google DeepMind",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "c1ba62ab405cd2beeadce2bdcd268e80d58aac8a58b16785635deffe96d0c933",
+    "originalUrl": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "originalPublishedAt": "2026-11-10T15:00:00.000Z",
+    "checkedAt": "2026-11-10T23:37:19.705Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "c1ba62ab405cd2beeadce2bdcd268e80d58aac8a58b16785635deffe96d0c933",
+      "kind": "fact",
+      "quote": "Today, we are introducing Gemini Robotics 2.5, our most capable vision-language-action (VLA) model to date."
+    },
+    {
+      "snapshotId": "c1ba62ab405cd2beeadce2bdcd268e80d58aac8a58b16785635deffe96d0c933",
+      "kind": "condition",
+      "quote": "Gemini Robotics 2.5 is rolling out to our robotics partners ."
+    },
+    {
+      "snapshotId": "c1ba62ab405cd2beeadce2bdcd268e80d58aac8a58b16785635deffe96d0c933",
+      "kind": "condition",
+      "quote": "During a real-world proof-of-concept on Mercedes-Benz production lines, our models helped Apptronik’s Apollo 2 humanoid pick and pack automotive parts with a 96% success rate."
+    },
+    {
+      "snapshotId": "c1ba62ab405cd2beeadce2bdcd268e80d58aac8a58b16785635deffe96d0c933",
+      "kind": "condition",
+      "quote": "We tested Gemini Robotics 2.5’s capabilities in task breadth, performance, and complexity across over 200 distinct tasks, though this approach could scale to many more."
+    },
+    {
+      "snapshotId": "c1ba62ab405cd2beeadce2bdcd268e80d58aac8a58b16785635deffe96d0c933",
+      "kind": "condition",
+      "quote": "To test jailbreak robustness, we are releasing ASIMOV-Jailbreak , a new open-source benchmark containing hundreds of prompts that disguise unsafe requests across dozens of scenes."
+    }
+  ],
+  "score": 0.91,
+  "duplicateOf": null,
+  "clusterId": "event-9e56054918e432a0e0a249e7",
+  "displayTitle": "DeepMind发布Gemini Robotics 2.5，公布工厂概念验证",
+  "narrative": "Google DeepMind发布Gemini Robotics 2.5，并把视觉语言动作模型推向机器人合作伙伴。官方称模型覆盖逾200种任务，Apptronik Apollo 2在奔驰产线的零件拣放概念验证中达到96%成功率，同时发布针对机器人危险指令的ASIMOV-Jailbreak基准。概念验证不是规模化部署；对具身投资更关键的是迁移到不同产线、工件和节拍后能否保持可靠性。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "Gemini Robotics 2.5是新的VLA版本与安全基准，未见同次旧稿"
+  },
+  "eventId": "event-9e56054918e432a0e0a249e7",
+  "occurrenceId": "occ-9e56054918e432a0e0a249e7",
+  "relatedItems": []
+}

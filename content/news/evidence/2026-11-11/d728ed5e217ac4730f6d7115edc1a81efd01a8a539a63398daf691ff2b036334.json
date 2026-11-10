@@ -1,0 +1,14 @@
+{
+  "snapshotId": "d728ed5e217ac4730f6d7115edc1a81efd01a8a539a63398daf691ff2b036334",
+  "url": "https://www.qbitai.com/2026/11/508996.html",
+  "publishedAt": "2026-11-10T07:57:45.000Z",
+  "publishedAtQuote": "2026-11-10 15:57:45",
+  "retrievedAt": "2026-11-10T23:37:18.618Z",
+  "method": "agent-tool",
+  "contentHash": "91ea298f42cb300d9eae7d29af84fe88830b568b22cb0d95647f93310f9de34f",
+  "quotations": [
+    "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch，为机器人大脑补齐关键的触觉感知能力。该模型基于近5000小时真实触觉数据预训练，覆盖磁触觉、视触觉和压阻式三类主流传感原理，可将不同信号转化为同一套触觉表征，供不同灵巧手和动作模型使用，让机器人在“看得清楚、想得明白”的同时，进一步补齐精细操作所需的触觉感知。",
+    "接入LingBot-Touch后，LingBot-VLA、π0.5、Diffusion Policy和T-Rex四种动作模型的平均任务成功率较无触觉时提高约14至26个百分点。",
+    "为了验证触觉表征对真实操作的帮助，蚂蚁灵波在Sharpa Wave和XHand1两款灵巧手上进行了26项真机测试，涵盖翻书页、拧瓶盖、辨识麻将牌等精细操作。接入LingBot-Touch后，LingBot-VLA、π0.5、Diffusion Policy和T-Rex四种动作模型的平均任务成功率较无触觉时提高约14至26个百分点。"
+  ]
+}

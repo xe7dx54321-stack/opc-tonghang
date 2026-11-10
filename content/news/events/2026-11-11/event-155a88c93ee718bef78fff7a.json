@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "event-155a88c93ee718bef78fff7a",
+  "title": "蚂蚁灵波开源LingBot-Touch，尝试让触觉跨灵巧手复用",
+  "firstSeen": "2026-11-11",
+  "editionDate": "2026-11-11",
+  "occurrences": [
+    {
+      "id": "occ-155a88c93ee718bef78fff7a",
+      "fact": {
+        "subject": "蚂蚁灵波",
+        "action": "开源",
+        "object": "LingBot-Touch触觉基础模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-11",
+      "reports": [
+        {
+          "ref": "2026-11-11/2026-11-11-lingbot-touch-release",
+          "itemId": "2026-11-11-lingbot-touch-release",
+          "editionDate": "2026-11-11",
+          "url": "https://www.qbitai.com/2026/11/508996.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "observer",
+          "publishedAt": "2026-11-10T07:57:45.000Z",
+          "title": "蚂蚁灵波开源LingBot-Touch，尝试让触觉跨灵巧手复用"
+        },
+        {
+          "ref": "2026-11-11/2026-11-11-lingbot-touch-zhidongxi",
+          "itemId": "2026-11-11-lingbot-touch-zhidongxi",
+          "editionDate": "2026-11-11",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813612&idx=1&sn=f9954acd08acd5447e99dccda7f81f08",
+          "source": "wechat-zhidongxi",
+          "owner": "智东西",
+          "role": "observer",
+          "publishedAt": "2026-11-10T09:28:00.000Z",
+          "title": "智东西报道LingBot-Touch开源与真机测试"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-11"
+}

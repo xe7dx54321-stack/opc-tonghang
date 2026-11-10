@@ -1,0 +1,70 @@
+{
+  "title": "AMD Zen 6 EPYC ‘Venice’ deep dive and benchmarking",
+  "url": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "AMD Zen",
+    "EPYC",
+    "Venice",
+    "AMD",
+    "Zen",
+    "We",
+    "Venice CPUs"
+  ],
+  "fetchedAt": "2026-11-10T17:13:42.967Z",
+  "summary": "Tom’s Hardware在11月10日发布Zen 6 EPYC Venice两款处理器的首轮独立测试，而不是AMD当天首次发布架构。报道确认标准Zen 6 CCD升至12核、Zen 6c CCD升至32核，SP7平台可提供16条内存通道；与Vera等产品的成绩随负载及调度策略变化。对AI服务器采购，单核和",
+  "investorNote": "对AI服务器采购，单核和总核数只是起点，更应把内存带宽、软件栈与功耗放进相同工作负载比较。",
+  "schemaVersion": 2,
+  "id": "2026-11-11-zen6-epyc-independent-test",
+  "publishedAt": "2026-11-10T17:00:00.000Z",
+  "fact": {
+    "subject": "Tom's Hardware",
+    "action": "发布独立测试",
+    "object": "AMD Zen 6 EPYC Venice处理器",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom's Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "efae6d8296f8c7679eb0278b9202c770960405452a67f83c54b24ef24e59fe7a",
+    "originalUrl": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera",
+    "originalPublishedAt": "2026-11-10T17:00:00.000Z",
+    "checkedAt": "2026-11-10T23:37:19.765Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "efae6d8296f8c7679eb0278b9202c770960405452a67f83c54b24ef24e59fe7a",
+      "kind": "fact",
+      "quote": "AMD’s EPYC ‘Venice’ CPUs are the first to debut the new Zen 6 architecture, and we’ve been testing two chips from the range over the past several weeks to see how they compare to Nvidia’s Vera, and more broadly, how the Zen 6 architecture departs from Zen 5 ahead of the expected consumer-focused Olympic Ridge launch next year."
+    },
+    {
+      "snapshotId": "efae6d8296f8c7679eb0278b9202c770960405452a67f83c54b24ef24e59fe7a",
+      "kind": "condition",
+      "quote": "A standard Zen 6 CCD can now scale up to 12 cores, while a Zen 6c packs 32 cores."
+    },
+    {
+      "snapshotId": "efae6d8296f8c7679eb0278b9202c770960405452a67f83c54b24ef24e59fe7a",
+      "kind": "condition",
+      "quote": "The single IOD of previous generations is now split across two IODs, giving the SP7 platform access to 16 memory channels (though at the cost of PCIe 6.0 lanes compared to the previous generation and SP8 platform)."
+    }
+  ],
+  "score": 0.83,
+  "duplicateOf": null,
+  "clusterId": "event-be331e09a62eb4c2b5ddc6b1",
+  "displayTitle": "Zen 6 EPYC迎来独立测试，核心密度与内存通道上升",
+  "narrative": "Tom’s Hardware在11月10日发布Zen 6 EPYC Venice两款处理器的首轮独立测试，而不是AMD当天首次发布架构。报道确认标准Zen 6 CCD升至12核、Zen 6c CCD升至32核，SP7平台可提供16条内存通道；与Vera等产品的成绩随负载及调度策略变化。对AI服务器采购，单核和总核数只是起点，更应把内存带宽、软件栈与功耗放进相同工作负载比较。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "媒体本期发布独立Zen 6 EPYC测试，是新评测而非旧架构首发"
+  },
+  "eventId": "event-be331e09a62eb4c2b5ddc6b1",
+  "occurrenceId": "occ-be331e09a62eb4c2b5ddc6b1",
+  "relatedItems": []
+}

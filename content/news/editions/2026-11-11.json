@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-11",
+  "window": {
+    "start": 1794267000000,
+    "end": 1794353400000
+  },
+  "digestHash": "c9634cb7a3bd6bd85c82176651c2faa66cd990661df46e65d8f228f2df9e2611",
+  "stories": [
+    {
+      "heading": "Anthropic启动IPO路演，拟定每股70至78美元",
+      "itemId": "2026-11-11-anthropic-ipo-roadshow",
+      "eventId": "event-77304c7d4f6f1953a3030212",
+      "occurrenceId": "occ-fce76579a3509570acd2e53c"
+    },
+    {
+      "heading": "Anthropic扩展Claude办公套件，表格与白板进入测试",
+      "itemId": "2026-11-11-anthropic-claude-workspace",
+      "eventId": "event-7c57c6593d108d5eb3a0e40a",
+      "occurrenceId": "occ-7c57c6593d108d5eb3a0e40a"
+    },
+    {
+      "heading": "OpenAI推出ChatGPT商家资料与品牌Agent测试版",
+      "itemId": "2026-11-11-openai-businesses-chatgpt",
+      "eventId": "event-d0ce0c92ed5c5bff016e62ae",
+      "occurrenceId": "occ-d0ce0c92ed5c5bff016e62ae"
+    },
+    {
+      "heading": "台积电批准分别最多5亿美元投资Anthropic与OpenAI",
+      "itemId": "2026-11-11-tsmc-anthropic-openai-investment",
+      "eventId": "event-24c9850c87d3eeabc4715266",
+      "occurrenceId": "occ-24c9850c87d3eeabc4715266"
+    },
+    {
+      "heading": "蚂蚁灵波开源LingBot-Touch，尝试让触觉跨灵巧手复用",
+      "itemId": "2026-11-11-lingbot-touch-release",
+      "eventId": "event-155a88c93ee718bef78fff7a",
+      "occurrenceId": "occ-155a88c93ee718bef78fff7a"
+    },
+    {
+      "heading": "微软研究揭示模型权重后门，可诱导Agent执行恶意命令",
+      "itemId": "2026-11-11-microsoft-lazarus-backdoor",
+      "eventId": "event-4a701df44e79e04bf5f5e4f0",
+      "occurrenceId": "occ-4a701df44e79e04bf5f5e4f0"
+    },
+    {
+      "heading": "Gemini 4 Carbon扩大开放，从防御试点走向付费API",
+      "itemId": "2026-11-11-gemini-carbon-public-release",
+      "eventId": "event-398478568c34db125cc046ff",
+      "occurrenceId": "occ-03b6a19311564d797b7e21f4"
+    },
+    {
+      "heading": "DeepMind发布Gemini Robotics 2.5，公布工厂概念验证",
+      "itemId": "2026-11-11-gemini-robotics-25",
+      "eventId": "event-9e56054918e432a0e0a249e7",
+      "occurrenceId": "occ-9e56054918e432a0e0a249e7"
+    },
+    {
+      "heading": "NVIDIA将OpenShell捐给CNCF，扩展Agent与GPU集群底座",
+      "itemId": "2026-11-11-nvidia-openshell-cncf",
+      "eventId": "event-0f245adb0886f9eee08e0a8f",
+      "occurrenceId": "occ-0f245adb0886f9eee08e0a8f"
+    },
+    {
+      "heading": "Zen 6 EPYC迎来独立测试，核心密度与内存通道上升",
+      "itemId": "2026-11-11-zen6-epyc-independent-test",
+      "eventId": "event-be331e09a62eb4c2b5ddc6b1",
+      "occurrenceId": "occ-be331e09a62eb4c2b5ddc6b1"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-11-anthropic-claude-workspace.json": "7f21ef7a228cdd9daeb2808173748c8d2837a13e5e40ae594fd43f0a332ba28c",
+    "2026-11-11-anthropic-ipo-roadshow.json": "3be6781ced39f6504f4d327bf2a7f1e442896039201fc82767ea45df3247d0b2",
+    "2026-11-11-gemini-carbon-public-release.json": "ad339ab5b76ca318241f2db1164321081b7ffa22428594fdae4d12915bce3e24",
+    "2026-11-11-gemini-robotics-25.json": "683ec9984765c8fb7f7f032e861196f4161f61f40751608d141d51213f380534",
+    "2026-11-11-lingbot-touch-release.json": "cb47b53c096ebb5909792248f9f8530d191499d3603e5f529e97cab0439622eb",
+    "2026-11-11-lingbot-touch-zhidongxi.json": "0cd5fa9161bb542032bbc2c763ee7b31036a6f0c5ad54361f15a30ea071ec29b",
+    "2026-11-11-microsoft-lazarus-backdoor.json": "39a0c93fc1f584d85f1681668b6f05423a24fd1e432380f86645efb491198d1b",
+    "2026-11-11-nvidia-openshell-cncf.json": "a5bdd6fb235e7c3a65665811d38c44cd46d4d69caf4e8e1545402afe8c43cc67",
+    "2026-11-11-openai-businesses-chatgpt.json": "95c50a1dee33b38e8abddb4b10bf697a67b6cf0786dde9325468935406693747",
+    "2026-11-11-tsmc-anthropic-openai-investment.json": "a8cd7b1c4d0eb58fcd75acdebfe0c15411565a21e82d9478b901796ff3e1c53b",
+    "2026-11-11-zen6-epyc-independent-test.json": "974f3cc283cd4441b3d3fa791ba516c7c3f40e1b3bc70a3e3dd5a9e021ac1783"
+  },
+  "evidenceHashes": {
+    "21b71980244bfc59a760e0ba06d39cf6727bb698f3074818f1ac76affd0b5bd0.json": "cf661f8884ef3441f4e8c8b1d28d8379de4b721e87252996c1ff1e77cefca1c4",
+    "3d50312f0b92863002621e255ebe942716e34abf6b5d165b9d93c0207cf1c3d9.json": "260180697092fd76681c3a7678997ed02ae91330eb6871bfc8b8e61fd84dcc62",
+    "42e2e85c2a449d523388de481a01124f96ceb568a24a19c9dd7bd0a680a48fa4.json": "b429b1059edc768a5b5c2f48a1921d377517b4e27cfffc44bec6eec7b483707d",
+    "4415569121f87a10a1115e73e07ce42d73ccacb6b42a335768f8580fe519d8ca.json": "ae18eb52b425bd5258b495115f993219f75cb82612311b3e238cafdb48bc2850",
+    "4bbf984d70c7b3075b3826d10454a58414fb62c0e45d6ad803c3ac0e3e697d1d.json": "640b97882a1ba3a7dcca2cbcfd014f7c1928f047f9f99f33fb4fc6dd9bd44908",
+    "98713077f353a7ba3836e7ca3cdc96bd5fb407caa13c80545c182fce07308f3b.json": "5772ae8efffbc8b5f16a406c9a56de9c9d8d379f8840a868d17195e5a617e02f",
+    "a216546260219e506a3993d9775cf4b3f6b2e28657f13c1255c2613ead838adf.json": "36d386bedf3860b9411c05fc210126cef36c10fa2eb525bdaf342ef36474cb32",
+    "c1ba62ab405cd2beeadce2bdcd268e80d58aac8a58b16785635deffe96d0c933.json": "436a3553ff483fca9bee76e40b65177d4bf7b8318542815c13ea59a347af48ab",
+    "d681eebaf9122d97ecc3210f6312e2920195da5b2ee08aaa79254ec0f677cb76.json": "0c77c255e0c1cafdabc4522934e52a4fbf92d8e0a55d8e53beb91e90cbe05ed6",
+    "d728ed5e217ac4730f6d7115edc1a81efd01a8a539a63398daf691ff2b036334.json": "905dcff60500c79c3f3ed00367920643fb38eebebd18da4a1d3b3057dca2031c",
+    "efae6d8296f8c7679eb0278b9202c770960405452a67f83c54b24ef24e59fe7a.json": "aa5377a33e4250bde904c5419c2f26dd24bbaaee4bc57c278940f2fa14ce5945"
+  },
+  "eventsHashes": {
+    "event-0f245adb0886f9eee08e0a8f.json": "57a18ee9b6981ee3285179000190009a443aa40f0a1eecd2d13a51465b02b9c7",
+    "event-155a88c93ee718bef78fff7a.json": "ad2925d4a7467848cb1ac2c601d85cbd47c807a2bd2bd06dba34db3818ea0100",
+    "event-24c9850c87d3eeabc4715266.json": "90a02e4e4b0ba427510972a9b3b8e9dfc6de1c47090db4028ea3352f4281a45b",
+    "event-398478568c34db125cc046ff.json": "05050f6b72923368dfd2fe28e0ed8fc6f7e5c42b2612fa6911b25b936a15d600",
+    "event-4a701df44e79e04bf5f5e4f0.json": "30e0d78683affed6e8023770cb7c9dc574c1ded1ec9c3e38af24259088a3d172",
+    "event-77304c7d4f6f1953a3030212.json": "122d6b9f8514f09405edb2575b8993868712ecacc601d23a179d7610b8da9937",
+    "event-7c57c6593d108d5eb3a0e40a.json": "5f97e748b161874857b8793d4b464638c506be214262d84185dfef4219cad459",
+    "event-9e56054918e432a0e0a249e7.json": "6997ec0e752640f28fda2f9c8642ba934d2e699ae648d8bbf905c2c532ae0036",
+    "event-be331e09a62eb4c2b5ddc6b1.json": "12fed2aef823e9cea441f4f2363227cf5921aa6a54ca422dc1edbfc8b6d7685f",
+    "event-d0ce0c92ed5c5bff016e62ae.json": "70d4737e34d53d9088909ff042a4230ff9d5e84ecf316cfc9f4f6da71cf24152"
+  }
+}

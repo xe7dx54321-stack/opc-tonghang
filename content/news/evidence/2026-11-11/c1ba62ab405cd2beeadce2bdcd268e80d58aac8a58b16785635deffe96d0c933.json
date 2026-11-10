@@ -1,0 +1,16 @@
+{
+  "snapshotId": "c1ba62ab405cd2beeadce2bdcd268e80d58aac8a58b16785635deffe96d0c933",
+  "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+  "publishedAt": "2026-11-10T15:00:00.000Z",
+  "publishedAtQuote": "2026-11-10T15:00:00+00:00",
+  "retrievedAt": "2026-11-10T23:37:19.705Z",
+  "method": "agent-tool",
+  "contentHash": "805e4a346c8c5b028fbd8fd849c4bd71751c8a75af52a23003e3022033f7f6e0",
+  "quotations": [
+    "Today, we are introducing Gemini Robotics 2.5, our most capable vision-language-action (VLA) model to date.",
+    "Gemini Robotics 2.5 is rolling out to our robotics partners .",
+    "During a real-world proof-of-concept on Mercedes-Benz production lines, our models helped Apptronik’s Apollo 2 humanoid pick and pack automotive parts with a 96% success rate.",
+    "We tested Gemini Robotics 2.5’s capabilities in task breadth, performance, and complexity across over 200 distinct tasks, though this approach could scale to many more.",
+    "To test jailbreak robustness, we are releasing ASIMOV-Jailbreak , a new open-source benchmark containing hundreds of prompts that disguise unsafe requests across dozens of scenes."
+  ]
+}

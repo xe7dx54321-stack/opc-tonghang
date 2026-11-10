@@ -1,0 +1,14 @@
+{
+  "snapshotId": "a216546260219e506a3993d9775cf4b3f6b2e28657f13c1255c2613ead838adf",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813612&idx=1&sn=f9954acd08acd5447e99dccda7f81f08",
+  "publishedAt": "2026-11-10T09:28:00.000Z",
+  "publishedAtQuote": "2026-11-10 17:28 北京",
+  "retrievedAt": "2026-11-10T23:37:18.646Z",
+  "method": "rss-syndication",
+  "retrievedFrom": "https://wechat2rss.bestblogs.dev/feed/cfd52b4245ca6119b2fda4ef934832c689028927.xml",
+  "contentHash": "5b243515e8a17a88d3d02d1dae8944ddc45e9df0d3c4f9e51e218fdca9a1e667",
+  "quotations": [
+    "智东西11月10日报道， 蚂蚁灵波正式开源面向灵巧操作的触觉预训练基础模型LingBot-Touch 。该模型能统一处理压阻式、视触觉等不同类型的传感信号，将其编码为统一、可复用的触觉表征，供不同灵巧手和策略模型使用。",
+    "在真机测试中，LingBot-Touch与两款不同灵巧手和四种策略模型结合，完成26项真实操作任务。结果显示，四种策略模型在两款灵巧手上的平均任务成功率均得到提升。"
+  ]
+}

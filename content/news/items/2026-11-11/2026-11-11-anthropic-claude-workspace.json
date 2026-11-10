@@ -1,0 +1,67 @@
+{
+  "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+  "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude Meetings",
+    "As",
+    "Claude"
+  ],
+  "fetchedAt": "2026-11-10T17:43:52.665Z",
+  "summary": "Anthropic公布Claude Sheets、Whiteboards、Data及互动连接器，将对话中的数据处理、协作和企业应用连接放进同一个工作界面。TechCrunch报道白板和表格在付费方案上进入测试；官方页面把Claude Meetings列为即将推出，不能写成全面可用。对企业客户，值得看的是跨应用",
+  "investorNote": "对企业客户，值得看的是跨应用上下文和可审计操作是否真的减少人工搬运，而非把多种生成能力简单装在同一个入口。",
+  "schemaVersion": 2,
+  "id": "2026-11-11-anthropic-claude-workspace",
+  "publishedAt": "2026-11-10T17:30:00.000Z",
+  "fact": {
+    "subject": "Anthropic",
+    "action": "公布",
+    "object": "Claude Sheets、Whiteboards与Meetings等工作功能",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "4bbf984d70c7b3075b3826d10454a58414fb62c0e45d6ad803c3ac0e3e697d1d",
+    "originalUrl": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "originalPublishedAt": "2026-11-10T17:30:00.000Z",
+    "checkedAt": "2026-11-10T23:37:18.537Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "4bbf984d70c7b3075b3826d10454a58414fb62c0e45d6ad803c3ac0e3e697d1d",
+      "kind": "fact",
+      "quote": "Anthropic announced new workplace features on Tuesday, including Claude Meetings, which brings Claude into video calls to begin working on tasks while participants are still talking."
+    },
+    {
+      "snapshotId": "4bbf984d70c7b3075b3826d10454a58414fb62c0e45d6ad803c3ac0e3e697d1d",
+      "kind": "condition",
+      "quote": "Claude Whiteboards is available in beta on paid plans, on web, desktop, and mobile."
+    },
+    {
+      "snapshotId": "4bbf984d70c7b3075b3826d10454a58414fb62c0e45d6ad803c3ac0e3e697d1d",
+      "kind": "condition",
+      "quote": "The company also launched Claude Sheets, which lets teams create and collaboratively edit spreadsheets with Claude."
+    }
+  ],
+  "score": 0.86,
+  "duplicateOf": null,
+  "clusterId": "event-7c57c6593d108d5eb3a0e40a",
+  "displayTitle": "Anthropic扩展Claude办公套件，表格与白板进入测试",
+  "narrative": "Anthropic公布Claude Sheets、Whiteboards、Data及互动连接器，将对话中的数据处理、协作和企业应用连接放进同一个工作界面。TechCrunch报道白板和表格在付费方案上进入测试；官方页面把Claude Meetings列为即将推出，不能写成全面可用。对企业客户，值得看的是跨应用上下文和可审计操作是否真的减少人工搬运，而非把多种生成能力简单装在同一个入口。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "Claude办公功能发布与已收录的模型版本发布是不同产品动作"
+  },
+  "eventId": "event-7c57c6593d108d5eb3a0e40a",
+  "occurrenceId": "occ-7c57c6593d108d5eb3a0e40a",
+  "relatedItems": []
+}

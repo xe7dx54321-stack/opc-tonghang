@@ -1,0 +1,14 @@
+{
+  "snapshotId": "21b71980244bfc59a760e0ba06d39cf6727bb698f3074818f1ac76affd0b5bd0",
+  "url": "https://www.anthropic.com/news/roadshow-launch",
+  "publishedAt": "2026-11-10T00:00:00.000Z",
+  "publishedAtQuote": "2026-11-10T00:00:00.000Z",
+  "retrievedAt": "2026-11-10T23:37:18.498Z",
+  "method": "agent-tool",
+  "contentHash": "c75e6d714ba21236c981559e66d4928c5cc9636efae9872f4c0ec039b8b51a39",
+  "quotations": [
+    "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+    "The initial public offering price is expected to be between $70.00 and $78.00 per share.",
+    "The proposed offering consists of 825,000,000 shares of Class A common stock."
+  ]
+}

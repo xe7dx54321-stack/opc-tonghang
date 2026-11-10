@@ -1,0 +1,14 @@
+{
+  "snapshotId": "d681eebaf9122d97ecc3210f6312e2920195da5b2ee08aaa79254ec0f677cb76",
+  "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+  "publishedAt": "2026-11-10T16:00:03.000Z",
+  "publishedAtQuote": "2026-11-10T16:00:03+00:00",
+  "retrievedAt": "2026-11-10T23:37:19.736Z",
+  "method": "agent-tool",
+  "contentHash": "83a4f4b7e5bb82022f636c0200ccc4d01d7ae12e87219d775ea2305fd1b1c470",
+  "quotations": [
+    "NVIDIA is contributing NVIDIA OpenShell , an open source runtime for securing and governing autonomous agents, to the Cloud Native Computing Foundation (CNCF), a nonprofit that is part of the Linux Foundation and the host of KubeCon.",
+    "Additionally, NVIDIA announced new components of the NVIDIA DSX AI Factory Platform : NVIDIA Kubernetes Engine , NVIDIA Kubernetes Recipes and NVIDIA Snapshot .",
+    "NVIDIA is also contributing to Agent Substrate , an open source Google-led framework for operating long-running agent workloads at scale on Kubernetes that has been accepted into the CNCF Sandbox."
+  ]
+}

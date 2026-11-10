@@ -1,0 +1,71 @@
+{
+  "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+  "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+  "source": "microsoft-research",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Lazare",
+    "Reprogramming Dormant Neurons",
+    "Backdoor AI Agents Microsoft",
+    "Lazarus",
+    "AI",
+    "The",
+    "Backdoor AI Agents",
+    "Microsoft Research"
+  ],
+  "fetchedAt": "2026-11-10T23:17:24.917Z",
+  "summary": "微软研究团队披露Lazarus权重后门：攻击者可改写模型中的休眠神经元，让带工具或终端权限的Agent在隐藏触发条件出现时执行恶意命令。研究称植入不必重新训练模型，常规安全测试也难发现。这里的事实是研究展示了攻击路径，不是已有广泛入侵的证据。对采购开源权重的企业，模型来源、权重完整性与上线前测试应进入同一条供",
+  "investorNote": "对采购开源权重的企业，模型来源、权重完整性与上线前测试应进入同一条供应链审查流程。",
+  "schemaVersion": 2,
+  "id": "2026-11-11-microsoft-lazarus-backdoor",
+  "publishedAt": "2026-11-10T20:52:56.000Z",
+  "fact": {
+    "subject": "微软研究团队",
+    "action": "披露",
+    "object": "无需重新训练模型的Lazarus权重后门技术",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Microsoft Research",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "42e2e85c2a449d523388de481a01124f96ceb568a24a19c9dd7bd0a680a48fa4",
+    "originalUrl": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+    "originalPublishedAt": "2026-11-10T20:52:56.000Z",
+    "checkedAt": "2026-11-10T23:37:18.673Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "42e2e85c2a449d523388de481a01124f96ceb568a24a19c9dd7bd0a680a48fa4",
+      "kind": "fact",
+      "quote": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears."
+    },
+    {
+      "snapshotId": "42e2e85c2a449d523388de481a01124f96ceb568a24a19c9dd7bd0a680a48fa4",
+      "kind": "condition",
+      "quote": "These backdoors can be inserted without retraining the model and are difficult to detect through normal testing, making model provenance and weight integrity critical security concerns."
+    },
+    {
+      "snapshotId": "42e2e85c2a449d523388de481a01124f96ceb568a24a19c9dd7bd0a680a48fa4",
+      "kind": "condition",
+      "quote": "The threat is especially serious for AI agents with tool or terminal access."
+    }
+  ],
+  "score": 0.81,
+  "duplicateOf": null,
+  "clusterId": "event-4a701df44e79e04bf5f5e4f0",
+  "displayTitle": "微软研究揭示模型权重后门，可诱导Agent执行恶意命令",
+  "narrative": "微软研究团队披露Lazarus权重后门：攻击者可改写模型中的休眠神经元，让带工具或终端权限的Agent在隐藏触发条件出现时执行恶意命令。研究称植入不必重新训练模型，常规安全测试也难发现。这里的事实是研究展示了攻击路径，不是已有广泛入侵的证据。对采购开源权重的企业，模型来源、权重完整性与上线前测试应进入同一条供应链审查流程。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "微软本期发布新的模型安全研究，不是旧漏洞复述"
+  },
+  "eventId": "event-4a701df44e79e04bf5f5e4f0",
+  "occurrenceId": "occ-4a701df44e79e04bf5f5e4f0",
+  "relatedItems": []
+}

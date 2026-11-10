@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-0f245adb0886f9eee08e0a8f",
+  "title": "NVIDIA将OpenShell捐给CNCF，扩展Agent与GPU集群底座",
+  "firstSeen": "2026-11-11",
+  "editionDate": "2026-11-11",
+  "occurrences": [
+    {
+      "id": "occ-0f245adb0886f9eee08e0a8f",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "向CNCF贡献",
+        "object": "OpenShell Agent运行时并发布DSX组件",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-11",
+      "reports": [
+        {
+          "ref": "2026-11-11/2026-11-11-nvidia-openshell-cncf",
+          "itemId": "2026-11-11-nvidia-openshell-cncf",
+          "editionDate": "2026-11-11",
+          "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "source": "nvidia-blog",
+          "owner": "NVIDIA",
+          "role": "principal",
+          "publishedAt": "2026-11-10T16:00:03.000Z",
+          "title": "NVIDIA将OpenShell捐给CNCF，扩展Agent与GPU集群底座"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-11"
+}

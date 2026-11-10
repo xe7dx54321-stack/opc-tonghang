@@ -1,0 +1,62 @@
+{
+  "title": "TSMC approves investments of up to $500M each in Anthropic and OpenAI",
+  "url": "https://pr.tsmc.com/english/news/3352",
+  "source": "hacker-news",
+  "sourceTier": 1,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "TSMC",
+    "Anthropic",
+    "OpenAI"
+  ],
+  "fetchedAt": "2026-11-10T23:30:33.174Z",
+  "summary": "台积电董事会11月10日批准两项股权投资上限：以IPO发行价认购不超过5亿美元Anthropic普通股，以及认购不超过5亿美元OpenAI优先股。这是董事会授权，不等于资金已经投入。同一公告另批准约409.27亿美元资本支出，主要覆盖先进制程、封装及厂房等。晶圆代工龙头同时向两家模型客户配置股权，显示供应链关",
+  "investorNote": "晶圆代工龙头同时向两家模型客户配置股权，显示供应链关系可能延伸至资本层面，但公告没有说明任何排他产能或采购绑定。",
+  "schemaVersion": 2,
+  "id": "2026-11-11-tsmc-anthropic-openai-investment",
+  "publishedAt": "2026-11-10T12:00:00.000Z",
+  "fact": {
+    "subject": "TSMC董事会",
+    "action": "批准",
+    "object": "分别不超过5亿美元的Anthropic与OpenAI股权投资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TSMC",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "98713077f353a7ba3836e7ca3cdc96bd5fb407caa13c80545c182fce07308f3b",
+    "originalUrl": "https://pr.tsmc.com/english/news/3352",
+    "originalPublishedAt": "2026-11-10T12:00:00.000Z",
+    "checkedAt": "2026-11-10T23:37:18.591Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "98713077f353a7ba3836e7ca3cdc96bd5fb407caa13c80545c182fce07308f3b",
+      "kind": "fact",
+      "quote": "Approved the investments in (1) Anthropic, PBC at its per share initial public offering price in an amount not to exceed US$500 million to acquire Anthropic’s common shares; and (2) OpenAI Group PBC in an amount not to exceed US$500 million to acquire OpenAI’s preferred stock."
+    },
+    {
+      "snapshotId": "98713077f353a7ba3836e7ca3cdc96bd5fb407caa13c80545c182fce07308f3b",
+      "kind": "condition",
+      "quote": "To meet long-term capacity plans based on market demand forecasts and TSMC’s technology development roadmap, the Board approved capital appropriations of approximately US$40,926.70 million for purposes mainly including: (1) Installation and upgrade of advanced technology capacity; (2) Installation and upgrade of advanced packaging, mature and/or specialty technology capacity; (3) Fab construction, and installation of fab facility systems; (4) 2027 R&D capital investments, sustaining capital expenditures, and capitalized leased assets."
+    }
+  ],
+  "score": 0.89,
+  "duplicateOf": null,
+  "clusterId": "event-24c9850c87d3eeabc4715266",
+  "displayTitle": "台积电批准分别最多5亿美元投资Anthropic与OpenAI",
+  "narrative": "台积电董事会11月10日批准两项股权投资上限：以IPO发行价认购不超过5亿美元Anthropic普通股，以及认购不超过5亿美元OpenAI优先股。这是董事会授权，不等于资金已经投入。同一公告另批准约409.27亿美元资本支出，主要覆盖先进制程、封装及厂房等。晶圆代工龙头同时向两家模型客户配置股权，显示供应链关系可能延伸至资本层面，但公告没有说明任何排他产能或采购绑定。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "台积电董事会批准两笔投资及资本支出，是本期独立董事会决议"
+  },
+  "eventId": "event-24c9850c87d3eeabc4715266",
+  "occurrenceId": "occ-24c9850c87d3eeabc4715266",
+  "relatedItems": []
+}

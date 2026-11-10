@@ -1,0 +1,71 @@
+{
+  "title": "Introducing Businesses in ChatGPT",
+  "url": "https://openai.com/index/introducing-businesses-chatgpt",
+  "source": "openai-news",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Introducing Businesses",
+    "ChatGPT Manage",
+    "ChatGPT"
+  ],
+  "fetchedAt": "2026-11-10T18:44:25.516Z",
+  "summary": "OpenAI推出Businesses in ChatGPT测试版。商家可通过Business Hub认领与维护资料，提交包含价格和库存的产品信息；Business Agents先向美国符合条件的电商和在线服务商开放。ChatGPT正从回答用户问题延伸到承载商家主动维护的信息与交互，商业发现入口的竞争由搜索排序",
+  "investorNote": "哪些商家能拿到可量化的转化，仍需后续观察。",
+  "schemaVersion": 2,
+  "id": "2026-11-11-openai-businesses-chatgpt",
+  "publishedAt": "2026-11-10T10:00:00.000Z",
+  "fact": {
+    "subject": "OpenAI",
+    "action": "推出测试版",
+    "object": "Businesses in ChatGPT与Business Agents",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "OpenAI",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "3d50312f0b92863002621e255ebe942716e34abf6b5d165b9d93c0207cf1c3d9",
+    "originalUrl": "https://openai.com/index/introducing-businesses-chatgpt",
+    "originalPublishedAt": "2026-11-10T10:00:00.000Z",
+    "checkedAt": "2026-11-10T23:37:18.565Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "3d50312f0b92863002621e255ebe942716e34abf6b5d165b9d93c0207cf1c3d9",
+      "kind": "fact",
+      "quote": "We’re introducing Businesses in ChatGPT in beta, giving businesses a new way to connect with the 1.2 billion people who use ChatGPT each week."
+    },
+    {
+      "snapshotId": "3d50312f0b92863002621e255ebe942716e34abf6b5d165b9d93c0207cf1c3d9",
+      "kind": "condition",
+      "quote": "In addition, we are adding a powerful new way for businesses to interact with users via Business Agents, starting with eligible ecommerce and online service businesses in the U.S."
+    },
+    {
+      "snapshotId": "3d50312f0b92863002621e255ebe942716e34abf6b5d165b9d93c0207cf1c3d9",
+      "kind": "condition",
+      "quote": "In Business Hub, companies can claim their organization in ChatGPT and, once verified, update key details and add self-service product feeds with pricing and availability."
+    },
+    {
+      "snapshotId": "3d50312f0b92863002621e255ebe942716e34abf6b5d165b9d93c0207cf1c3d9",
+      "kind": "condition",
+      "quote": "Business Agents are now available to eligible ecommerce and online service businesses in the United States ."
+    }
+  ],
+  "score": 0.87,
+  "duplicateOf": null,
+  "clusterId": "event-d0ce0c92ed5c5bff016e62ae",
+  "displayTitle": "OpenAI推出ChatGPT商家资料与品牌Agent测试版",
+  "narrative": "OpenAI推出Businesses in ChatGPT测试版。商家可通过Business Hub认领与维护资料，提交包含价格和库存的产品信息；Business Agents先向美国符合条件的电商和在线服务商开放。ChatGPT正从回答用户问题延伸到承载商家主动维护的信息与交互，商业发现入口的竞争由搜索排序走向可管理的资料和对话。哪些商家能拿到可量化的转化，仍需后续观察。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "新的商家资料与品牌Agent产品动作，未见可确认旧事件"
+  },
+  "eventId": "event-d0ce0c92ed5c5bff016e62ae",
+  "occurrenceId": "occ-d0ce0c92ed5c5bff016e62ae",
+  "relatedItems": []
+}

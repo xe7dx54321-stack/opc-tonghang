@@ -1,0 +1,65 @@
+{
+  "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+  "url": "https://www.qbitai.com/2026/11/508996.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "LingBot",
+    "Touch"
+  ],
+  "fetchedAt": "2026-11-10T10:06:30.142Z",
+  "summary": "蚂蚁灵波开源触觉基础模型LingBot-Touch。量子位称模型基于近5000小时真实触觉数据，把磁触觉、视触觉与压阻式传感信号映射到共享表征；在两款灵巧手与四种动作模型的26项任务中，接入后平均成功率提升约14至26个百分点。智东西的原始报道也指向同一开源动作。更值得看的不是单一拧瓶盖演示，而是跨传感器表征",
+  "investorNote": "更值得看的不是单一拧瓶盖演示，而是跨传感器表征能否降低每换一款手就重做采集和训练的成本；这些测试数据仍属发布方口径。",
+  "schemaVersion": 2,
+  "id": "2026-11-11-lingbot-touch-release",
+  "publishedAt": "2026-11-10T07:57:45.000Z",
+  "fact": {
+    "subject": "蚂蚁灵波",
+    "action": "开源",
+    "object": "LingBot-Touch触觉基础模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d728ed5e217ac4730f6d7115edc1a81efd01a8a539a63398daf691ff2b036334",
+    "originalUrl": "https://www.qbitai.com/2026/11/508996.html",
+    "originalPublishedAt": "2026-11-10T07:57:45.000Z",
+    "checkedAt": "2026-11-10T23:37:18.618Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d728ed5e217ac4730f6d7115edc1a81efd01a8a539a63398daf691ff2b036334",
+      "kind": "fact",
+      "quote": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch，为机器人大脑补齐关键的触觉感知能力。该模型基于近5000小时真实触觉数据预训练，覆盖磁触觉、视触觉和压阻式三类主流传感原理，可将不同信号转化为同一套触觉表征，供不同灵巧手和动作模型使用，让机器人在“看得清楚、想得明白”的同时，进一步补齐精细操作所需的触觉感知。"
+    },
+    {
+      "snapshotId": "d728ed5e217ac4730f6d7115edc1a81efd01a8a539a63398daf691ff2b036334",
+      "kind": "condition",
+      "quote": "接入LingBot-Touch后，LingBot-VLA、π0.5、Diffusion Policy和T-Rex四种动作模型的平均任务成功率较无触觉时提高约14至26个百分点。"
+    },
+    {
+      "snapshotId": "d728ed5e217ac4730f6d7115edc1a81efd01a8a539a63398daf691ff2b036334",
+      "kind": "condition",
+      "quote": "为了验证触觉表征对真实操作的帮助，蚂蚁灵波在Sharpa Wave和XHand1两款灵巧手上进行了26项真机测试，涵盖翻书页、拧瓶盖、辨识麻将牌等精细操作。接入LingBot-Touch后，LingBot-VLA、π0.5、Diffusion Policy和T-Rex四种动作模型的平均任务成功率较无触觉时提高约14至26个百分点。"
+    }
+  ],
+  "score": 0.84,
+  "duplicateOf": null,
+  "clusterId": "event-155a88c93ee718bef78fff7a",
+  "displayTitle": "蚂蚁灵波开源LingBot-Touch，尝试让触觉跨灵巧手复用",
+  "narrative": "蚂蚁灵波开源触觉基础模型LingBot-Touch。量子位称模型基于近5000小时真实触觉数据，把磁触觉、视触觉与压阻式传感信号映射到共享表征；在两款灵巧手与四种动作模型的26项任务中，接入后平均成功率提升约14至26个百分点。智东西的原始报道也指向同一开源动作。更值得看的不是单一拧瓶盖演示，而是跨传感器表征能否降低每换一款手就重做采集和训练的成本；这些测试数据仍属发布方口径。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "LingBot-Touch是本期独立开源动作，与前日其他机器人模型发布不同"
+  },
+  "eventId": "event-155a88c93ee718bef78fff7a",
+  "occurrenceId": "occ-155a88c93ee718bef78fff7a",
+  "relatedItems": []
+}

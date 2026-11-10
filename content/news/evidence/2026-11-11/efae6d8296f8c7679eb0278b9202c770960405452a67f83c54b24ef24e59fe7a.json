@@ -1,0 +1,14 @@
+{
+  "snapshotId": "efae6d8296f8c7679eb0278b9202c770960405452a67f83c54b24ef24e59fe7a",
+  "url": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera",
+  "publishedAt": "2026-11-10T17:00:00.000Z",
+  "publishedAtQuote": "2026-11-10T17:00:00Z",
+  "retrievedAt": "2026-11-10T23:37:19.765Z",
+  "method": "agent-tool",
+  "contentHash": "490c2c9f1d84e6e3a175c3fec1d84b81ee9aed64c0be9e8b344207b938dc83eb",
+  "quotations": [
+    "AMD’s EPYC ‘Venice’ CPUs are the first to debut the new Zen 6 architecture, and we’ve been testing two chips from the range over the past several weeks to see how they compare to Nvidia’s Vera, and more broadly, how the Zen 6 architecture departs from Zen 5 ahead of the expected consumer-focused Olympic Ridge launch next year.",
+    "A standard Zen 6 CCD can now scale up to 12 cores, while a Zen 6c packs 32 cores.",
+    "The single IOD of previous generations is now split across two IODs, giving the SP7 platform access to 16 memory channels (though at the cost of PCIe 6.0 lanes compared to the previous generation and SP8 platform)."
+  ]
+}

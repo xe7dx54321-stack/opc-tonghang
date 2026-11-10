@@ -1,0 +1,64 @@
+{
+  "title": "Anthropic launches roadshow for proposed initial public offering",
+  "url": "https://www.anthropic.com/news/roadshow-launch",
+  "source": "anthropic-official",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [],
+  "fetchedAt": "2026-11-10T12:39:07.538Z",
+  "summary": "Anthropic于11月10日启动拟议IPO路演，计划发行8.25亿股A类普通股，拟定发行价每股70至78美元。价格仍是预期区间，上市尚未完成。相较10月公开提交招股书，今天的新动作是正式进入路演和定价阶段；资本市场开始用实际订单、算力义务与发行规模检验这家模型公司的估值。",
+  "investorNote": "相较10月公开提交招股书，今天的新动作是正式进入路演和定价阶段；资本市场开始用实际订单、算力义务与发行规模检验这家模型公司的估值。",
+  "schemaVersion": 2,
+  "id": "2026-11-11-anthropic-ipo-roadshow",
+  "publishedAt": "2026-11-10T00:00:00.000Z",
+  "fact": {
+    "subject": "Anthropic",
+    "action": "启动路演",
+    "object": "拟议首次公开募股",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Anthropic",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "21b71980244bfc59a760e0ba06d39cf6727bb698f3074818f1ac76affd0b5bd0",
+    "originalUrl": "https://www.anthropic.com/news/roadshow-launch",
+    "originalPublishedAt": "2026-11-10T00:00:00.000Z",
+    "checkedAt": "2026-11-10T23:37:18.498Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "21b71980244bfc59a760e0ba06d39cf6727bb698f3074818f1ac76affd0b5bd0",
+      "kind": "fact",
+      "quote": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock."
+    },
+    {
+      "snapshotId": "21b71980244bfc59a760e0ba06d39cf6727bb698f3074818f1ac76affd0b5bd0",
+      "kind": "condition",
+      "quote": "The initial public offering price is expected to be between $70.00 and $78.00 per share."
+    },
+    {
+      "snapshotId": "21b71980244bfc59a760e0ba06d39cf6727bb698f3074818f1ac76affd0b5bd0",
+      "kind": "condition",
+      "quote": "The proposed offering consists of 825,000,000 shares of Class A common stock."
+    }
+  ],
+  "score": 0.91,
+  "duplicateOf": null,
+  "clusterId": "event-77304c7d4f6f1953a3030212",
+  "displayTitle": "Anthropic启动IPO路演，拟定每股70至78美元",
+  "narrative": "Anthropic于11月10日启动拟议IPO路演，计划发行8.25亿股A类普通股，拟定发行价每股70至78美元。价格仍是预期区间，上市尚未完成。相较10月公开提交招股书，今天的新动作是正式进入路演和定价阶段；资本市场开始用实际订单、算力义务与发行规模检验这家模型公司的估值。",
+  "eventRelation": {
+    "type": "SAME_STORY",
+    "targetRef": "2026-10-27/2026-10-27-anthropic-ipo-filing",
+    "reason": "10月公开申报招股书后，本次启动路演并公布预期发行区间",
+    "newInformation": "路演启动，拟发行8.25亿股，预期定价70至78美元/股"
+  },
+  "eventId": "event-77304c7d4f6f1953a3030212",
+  "occurrenceId": "occ-fce76579a3509570acd2e53c",
+  "relatedItems": []
+}

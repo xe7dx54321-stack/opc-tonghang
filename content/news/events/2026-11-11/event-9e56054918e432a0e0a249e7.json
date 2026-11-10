@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-9e56054918e432a0e0a249e7",
+  "title": "DeepMind发布Gemini Robotics 2.5，公布工厂概念验证",
+  "firstSeen": "2026-11-11",
+  "editionDate": "2026-11-11",
+  "occurrences": [
+    {
+      "id": "occ-9e56054918e432a0e0a249e7",
+      "fact": {
+        "subject": "Google DeepMind",
+        "action": "发布",
+        "object": "Gemini Robotics 2.5及ASIMOV-Jailbreak基准",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-11",
+      "reports": [
+        {
+          "ref": "2026-11-11/2026-11-11-gemini-robotics-25",
+          "itemId": "2026-11-11-gemini-robotics-25",
+          "editionDate": "2026-11-11",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+          "source": "deepmind",
+          "owner": "Google DeepMind",
+          "role": "principal",
+          "publishedAt": "2026-11-10T15:00:00.000Z",
+          "title": "DeepMind发布Gemini Robotics 2.5，公布工厂概念验证"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-11"
+}
