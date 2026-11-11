@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-0e6656ed95c719369454daec",
+  "title": "AWS为Bedrock AgentCore推出可直接调用的网页搜索API",
+  "firstSeen": "2026-11-12",
+  "editionDate": "2026-11-12",
+  "occurrences": [
+    {
+      "id": "occ-0e6656ed95c719369454daec",
+      "fact": {
+        "subject": "Amazon Web Services",
+        "action": "推出",
+        "object": "Bedrock AgentCore Web Search API",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-12",
+      "reports": [
+        {
+          "ref": "2026-11-12/2026-11-12-agentcore-web-search-api",
+          "itemId": "2026-11-12-agentcore-web-search-api",
+          "editionDate": "2026-11-12",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
+          "source": "aws-machine-learning",
+          "owner": "Amazon Web Services",
+          "role": "principal",
+          "publishedAt": "2026-11-11T23:13:16.000Z",
+          "title": "AWS为Bedrock AgentCore推出可直接调用的网页搜索API"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-12"
+}

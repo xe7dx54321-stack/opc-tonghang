@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-7bb338cad68766ed13816599",
+  "title": "DeepMind发布AlphaGenome 2，按细胞类型预测遗传变异影响",
+  "firstSeen": "2026-11-12",
+  "editionDate": "2026-11-12",
+  "occurrences": [
+    {
+      "id": "occ-7bb338cad68766ed13816599",
+      "fact": {
+        "subject": "Google DeepMind",
+        "action": "发布",
+        "object": "AlphaGenome 2",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-12",
+      "reports": [
+        {
+          "ref": "2026-11-12/2026-11-12-alphagenome-2",
+          "itemId": "2026-11-12-alphagenome-2",
+          "editionDate": "2026-11-12",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+          "source": "deepmind",
+          "owner": "Google DeepMind",
+          "role": "principal",
+          "publishedAt": "2026-11-11T15:00:15.000Z",
+          "title": "DeepMind发布AlphaGenome 2，按细胞类型预测遗传变异影响"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-12"
+}

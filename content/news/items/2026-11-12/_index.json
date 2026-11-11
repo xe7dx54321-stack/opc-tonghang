@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-12",
+  "itemCount": 8,
+  "storyCount": 8,
+  "clusterCount": 8,
+  "files": [
+    "2026-11-12-gemini-decisions-api.json",
+    "2026-11-12-alphagenome-2.json",
+    "2026-11-12-fractile-series-c.json",
+    "2026-11-12-agentcore-web-search-api.json",
+    "2026-11-12-serve-delivery-api.json",
+    "2026-11-12-ernie-55-flash-preview.json",
+    "2026-11-12-minimax-h3-image-review.json",
+    "2026-11-12-google-tabletop.json"
+  ],
+  "representatives": [
+    "2026-11-12-gemini-decisions-api",
+    "2026-11-12-alphagenome-2",
+    "2026-11-12-fractile-series-c",
+    "2026-11-12-agentcore-web-search-api",
+    "2026-11-12-serve-delivery-api",
+    "2026-11-12-ernie-55-flash-preview",
+    "2026-11-12-minimax-h3-image-review",
+    "2026-11-12-google-tabletop"
+  ]
+}

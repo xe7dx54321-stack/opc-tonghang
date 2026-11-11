@@ -1,0 +1,13 @@
+{
+  "snapshotId": "ba072d2a8946de89d2a64d6629c335d35a2206a0babf77694521d474a9d44e1c",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+  "publishedAt": "2026-11-11T18:00:00.000Z",
+  "publishedAtQuote": "Nov 11, 2026",
+  "retrievedAt": "2026-11-11T23:35:00.727Z",
+  "method": "agent-tool",
+  "contentHash": "a38ec61a93d2d98b348df705cadbd992ffff907ff9f9220a5b3cdd813da860f6",
+  "quotations": [
+    "Introducing the Gemini Decisions API, powered by our new Gemini Decision 1 model. Evaluate up to 1,000 yes/no, choice, and rubric-scoring questions in a fast, single pass across text, images, audio, video, and PDFs.",
+    "Gemini Decision 1 is priced at $0.10 per 1M input tokens and $0 for output tokens"
+  ]
+}

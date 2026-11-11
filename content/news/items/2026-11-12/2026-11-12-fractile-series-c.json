@@ -1,0 +1,63 @@
+{
+  "id": "2026-11-12-fractile-series-c",
+  "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+  "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "With",
+    "Britain",
+    "Fractile",
+    "AI"
+  ],
+  "publishedAt": "2026-11-11T19:34:55.000Z",
+  "fetchedAt": "2026-11-11T19:38:09.695Z",
+  "summary": "TechCrunch报道英国AI芯片公司Fractile完成7.2亿美元C轮融资，英国主权AI基金参与；公司同时开发芯片和机器学习编译器，面向模型推理。",
+  "investorNote": "判断：大额融资说明推理芯片仍获资本支持，但量产、软件栈和客户工作负载才决定能否撼动现有GPU生态。",
+  "score": 0.86,
+  "duplicateOf": null,
+  "clusterId": "event-7f62597e145141448428652c",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Fractile",
+    "action": "完成",
+    "object": "7.2亿美元C轮融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e80c7fa046075ef741bfb39d27f4ec78ccde80aae042adc9973647883865514e",
+    "originalUrl": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+    "originalPublishedAt": "2026-11-11T19:34:55.000Z",
+    "checkedAt": "2026-11-11T23:35:00.797Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e80c7fa046075ef741bfb39d27f4ec78ccde80aae042adc9973647883865514e",
+      "kind": "fact",
+      "quote": "Fractile\n, a British startup developing AI chips, has raised\na $720 million Series C\nbacked by Britain’s Sovereign AI Fund with hopes of “ensuring the U.K. has a greater stake in the hardware that will underpin its future economy,” its government\nstated\n."
+    },
+    {
+      "snapshotId": "e80c7fa046075ef741bfb39d27f4ec78ccde80aae042adc9973647883865514e",
+      "kind": "condition",
+      "quote": "However, Fractile seeks to go beyond hardware with a full-stack approach that also includes a machine learning compiler to maximize the speed at which LLMs will get executed on its chips."
+    }
+  ],
+  "displayTitle": "英国AI芯片公司Fractile完成7.2亿美元C轮融资",
+  "narrative": "英国Fractile完成7.2亿美元C轮融资，英国主权AI基金参与。TechCrunch指出，公司把专用芯片与机器学习编译器一起做，瞄准大模型推理成本。融资给了它推进硬件和软件栈的资金，但投资判断仍要落到芯片交付、真实工作负载与客户迁移成本；融资额本身不能证明性能优势。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件相比，本条有独立的新动作和对象；未发现同次发生的历史条目。"
+  },
+  "eventId": "event-7f62597e145141448428652c",
+  "occurrenceId": "occ-7f62597e145141448428652c",
+  "relatedItems": []
+}

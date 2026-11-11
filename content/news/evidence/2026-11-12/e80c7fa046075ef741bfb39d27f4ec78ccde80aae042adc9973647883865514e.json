@@ -1,0 +1,13 @@
+{
+  "snapshotId": "e80c7fa046075ef741bfb39d27f4ec78ccde80aae042adc9973647883865514e",
+  "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+  "publishedAt": "2026-11-11T19:34:55.000Z",
+  "publishedAtQuote": "2026-11-11T19:34:55+00:00",
+  "retrievedAt": "2026-11-11T23:35:00.797Z",
+  "method": "agent-tool",
+  "contentHash": "1f7a37d1f90ab751a609452c6528168fdf7444b7629a90b29b03cb12f6fd8e7f",
+  "quotations": [
+    "Fractile\n, a British startup developing AI chips, has raised\na $720 million Series C\nbacked by Britain’s Sovereign AI Fund with hopes of “ensuring the U.K. has a greater stake in the hardware that will underpin its future economy,” its government\nstated\n.",
+    "However, Fractile seeks to go beyond hardware with a full-stack approach that also includes a machine learning compiler to maximize the speed at which LLMs will get executed on its chips."
+  ]
+}

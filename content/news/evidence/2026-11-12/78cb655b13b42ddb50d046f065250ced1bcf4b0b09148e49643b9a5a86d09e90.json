@@ -1,0 +1,13 @@
+{
+  "snapshotId": "78cb655b13b42ddb50d046f065250ced1bcf4b0b09148e49643b9a5a86d09e90",
+  "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
+  "publishedAt": "2026-11-11T23:13:16.000Z",
+  "publishedAtQuote": "2026-11-11T15:13:16-08:00",
+  "retrievedAt": "2026-11-11T23:35:00.825Z",
+  "method": "agent-tool",
+  "contentHash": "eff1704b41365f37793e7e25682c63500450e411eb673f1c47e0a9555245c154",
+  "quotations": [
+    "Today, we’re announcing the\nWeb Search API\non Amazon Bedrock AgentCore. With it, your own code can search the web with a single API call. It returns ranked results from a web index that Amazon operates, each with a text extract and, when available, the page title, URL, and publication time.",
+    "There are no resources to create first."
+  ]
+}

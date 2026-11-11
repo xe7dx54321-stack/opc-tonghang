@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-7e93af9df49a2502fb656733",
+  "title": "Serve Robotics开放配送机器人API和开发者沙盒",
+  "firstSeen": "2026-11-12",
+  "editionDate": "2026-11-12",
+  "occurrences": [
+    {
+      "id": "occ-7e93af9df49a2502fb656733",
+      "fact": {
+        "subject": "Serve Robotics",
+        "action": "开放",
+        "object": "AV Delivery Developer Portal及配送机器人API",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-12",
+      "reports": [
+        {
+          "ref": "2026-11-12/2026-11-12-serve-delivery-api",
+          "itemId": "2026-11-12-serve-delivery-api",
+          "editionDate": "2026-11-12",
+          "url": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/",
+          "source": "robot-report",
+          "owner": "The Robot Report",
+          "role": "observer",
+          "publishedAt": "2026-11-11T13:43:29.000Z",
+          "title": "Serve Robotics开放配送机器人API和开发者沙盒"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-12"
+}

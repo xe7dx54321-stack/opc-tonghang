@@ -1,0 +1,13 @@
+{
+  "snapshotId": "6feabfd676b59fb8876ecdda1235dae03d64d2973050bdc600656ce4f5cc1ae2",
+  "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+  "publishedAt": "2026-11-11T15:00:15.000Z",
+  "publishedAtQuote": "November 11, 2026",
+  "retrievedAt": "2026-11-11T23:35:00.767Z",
+  "method": "agent-tool",
+  "contentHash": "8ccf14afc49eb8c72c42224e2c6a61e3c22c8fc97a099cc21858b869bf9d4dc1",
+  "quotations": [
+    "Today, we are announcing AlphaGenome 2, our next-generation model that predicts how DNA sequences and their variations impact specific human cell types, giving scientists a powerful new tool to uncover the cellular drivers of disease.",
+    "AlphaGenome 2 is available today for non-commercial research via the AlphaGenome API, and in private preview for commercial research."
+  ]
+}

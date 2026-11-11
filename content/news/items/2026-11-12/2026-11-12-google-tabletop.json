@@ -1,0 +1,64 @@
+{
+  "id": "2026-11-12-google-tabletop",
+  "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+  "source": "blog-google-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Try Tabletop",
+    "Customizable",
+    "Tabletop",
+    "Google Labs",
+    "Build",
+    "Join"
+  ],
+  "publishedAt": "2026-11-11T16:00:00.000Z",
+  "fetchedAt": "2026-11-11T16:04:46.882Z",
+  "summary": "Google Labs推出Tabletop实验产品，允许群组通过提示生成行程、投票、费用分摊等交互工具；目前在美国面向18岁以上用户通过候补名单开放。",
+  "investorNote": "判断：实时多人共用的生成式小工具是区别于单人聊天的产品尝试，候补阶段尚不足以验证留存。",
+  "score": 0.62,
+  "duplicateOf": null,
+  "clusterId": "event-1e55621c215d2334f9df1c81",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Google Labs",
+    "action": "推出",
+    "object": "Tabletop协作实验产品",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Google",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "271552c5d4755530524f3adf421ef51228f8316f7ad8cf1ad3ae808de69ef832",
+    "originalUrl": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "originalPublishedAt": "2026-11-11T16:00:00.000Z",
+    "checkedAt": "2026-11-11T23:35:00.939Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "271552c5d4755530524f3adf421ef51228f8316f7ad8cf1ad3ae808de69ef832",
+      "kind": "fact",
+      "quote": "Today, we’re introducing\nTabletop\n, a new Google Labs experiment built for real-time collaboration."
+    },
+    {
+      "snapshotId": "271552c5d4755530524f3adf421ef51228f8316f7ad8cf1ad3ae808de69ef832",
+      "kind": "condition",
+      "quote": "Tabletop is rolling out in the U.S. (18+) via waitlist."
+    }
+  ],
+  "displayTitle": "Google Labs推出Tabletop协作实验产品，先在美国开放候补",
+  "narrative": "Google Labs推出Tabletop，让群组把链接和文件放进同一空间，再用提示生成行程、投票或费用分摊工具，成员可实时协作。产品目前仅面向美国18岁以上用户通过候补名单逐步开放。它测试的是AI能否把一次性生成变成多人持续使用的轻量应用；现阶段只能观察产品方向，不能据此推断用户留存。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件相比，本条有独立的新动作和对象；未发现同次发生的历史条目。"
+  },
+  "eventId": "event-1e55621c215d2334f9df1c81",
+  "occurrenceId": "occ-1e55621c215d2334f9df1c81",
+  "relatedItems": []
+}

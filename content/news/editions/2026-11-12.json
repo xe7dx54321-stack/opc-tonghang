@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-12",
+  "window": {
+    "start": 1794353400000,
+    "end": 1794439800000
+  },
+  "digestHash": "5b0e1bed2d31b292b55f06a1b5ad5e8bc30cbf2e565f9991806267ec2a8f56f4",
+  "stories": [
+    {
+      "heading": "Google推出Gemini Decisions API，专门给Agent做概率判断",
+      "itemId": "2026-11-12-gemini-decisions-api",
+      "eventId": "event-9ec16d6bd22c139fb57df09c",
+      "occurrenceId": "occ-9ec16d6bd22c139fb57df09c"
+    },
+    {
+      "heading": "DeepMind发布AlphaGenome 2，按细胞类型预测遗传变异影响",
+      "itemId": "2026-11-12-alphagenome-2",
+      "eventId": "event-7bb338cad68766ed13816599",
+      "occurrenceId": "occ-7bb338cad68766ed13816599"
+    },
+    {
+      "heading": "英国AI芯片公司Fractile完成7.2亿美元C轮融资",
+      "itemId": "2026-11-12-fractile-series-c",
+      "eventId": "event-7f62597e145141448428652c",
+      "occurrenceId": "occ-7f62597e145141448428652c"
+    },
+    {
+      "heading": "AWS为Bedrock AgentCore推出可直接调用的网页搜索API",
+      "itemId": "2026-11-12-agentcore-web-search-api",
+      "eventId": "event-0e6656ed95c719369454daec",
+      "occurrenceId": "occ-0e6656ed95c719369454daec"
+    },
+    {
+      "heading": "Serve Robotics开放配送机器人API和开发者沙盒",
+      "itemId": "2026-11-12-serve-delivery-api",
+      "eventId": "event-7e93af9df49a2502fb656733",
+      "occurrenceId": "occ-7e93af9df49a2502fb656733"
+    },
+    {
+      "heading": "百度发布文心5.5 Flash Preview，强化编程与3D建模",
+      "itemId": "2026-11-12-ernie-55-flash-preview",
+      "eventId": "event-f71abc9b1981842609702c4e",
+      "occurrenceId": "occ-f71abc9b1981842609702c4e"
+    },
+    {
+      "heading": "智东西实测MiniMax H3-Image，关注开放权重后的复杂编辑能力",
+      "itemId": "2026-11-12-minimax-h3-image-review",
+      "eventId": "event-32b9408f27bc1c503e6415c0",
+      "occurrenceId": "occ-32b9408f27bc1c503e6415c0"
+    },
+    {
+      "heading": "Google Labs推出Tabletop协作实验产品，先在美国开放候补",
+      "itemId": "2026-11-12-google-tabletop",
+      "eventId": "event-1e55621c215d2334f9df1c81",
+      "occurrenceId": "occ-1e55621c215d2334f9df1c81"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-12-agentcore-web-search-api.json": "f62700153ca2a294bcf954a6a541aeb1546532050fb8bb96aae9b4d8a1e8ecc8",
+    "2026-11-12-alphagenome-2.json": "ac3b8afe02f0f13859580e07d3ccdf7de94d29105b01ccc503b8a097d040c817",
+    "2026-11-12-ernie-55-flash-preview.json": "2f8883aaf2311ab00354161289930aeadd66f22d9648b5a1c73e61b49b2dff68",
+    "2026-11-12-fractile-series-c.json": "2e5cec69919e282df834d95ebc57dd0a913b4b1423f7b4b0b2826c402fb2c039",
+    "2026-11-12-gemini-decisions-api.json": "c1154d9a1ca1a984203c7570393ee144022cc3aa421089a366e115c454d6ed19",
+    "2026-11-12-google-tabletop.json": "2ebfe933b10a694ff9c420b18eac6d15653c5f71e30a6b5e01572dbe03557326",
+    "2026-11-12-minimax-h3-image-review.json": "368f58e96997ebceec5229c972c32a8d9131675da3e1ca920d28b0e3f23697de",
+    "2026-11-12-serve-delivery-api.json": "f7dd6d64ffa2249107ce2a18e1785d5e780326379c1974e17acb06852d6d13e3"
+  },
+  "evidenceHashes": {
+    "271552c5d4755530524f3adf421ef51228f8316f7ad8cf1ad3ae808de69ef832.json": "b410815962f7e94d02e25cfe05775c02306ea3fd9a7fc6111ff1b4f7f5df5b7b",
+    "37bc32237e0b0c5879f3d7e382931a2172739a2578ced08584c026c120d5915a.json": "28e86db1c378f107e866f4e1108acb214b56dfc2c10e14727e69c717439f7ab9",
+    "6feabfd676b59fb8876ecdda1235dae03d64d2973050bdc600656ce4f5cc1ae2.json": "8d471f8cdc1f69c48545bdae6232a0f87deb816bca34b41a0eb2967de07410bc",
+    "78cb655b13b42ddb50d046f065250ced1bcf4b0b09148e49643b9a5a86d09e90.json": "3bf713ca384bbb925ef35f063816ab0e59bac806948ae6dab6a30f3845d95db0",
+    "9b80aa70ee0bb03c362bea91095e34d2158b46391fbd68150be9b9090ae62b0a.json": "5c2f6afdf374a592b027bd6eca259c40dc711f4cffb1e7fc37105ea585423c56",
+    "ba072d2a8946de89d2a64d6629c335d35a2206a0babf77694521d474a9d44e1c.json": "ba9fa83a025bd577167ab81db4b6e30596d0e7383079cd72717b55598e6ded25",
+    "dca88c7adf38d99f25c856a07087268fb7dbf8039d1629a1a70b62c051894a3d.json": "56dc0543b4f41d3edc214311965932a2c9e20e04c3556c3a4f49e3c3e2b69897",
+    "e80c7fa046075ef741bfb39d27f4ec78ccde80aae042adc9973647883865514e.json": "09a4e6b6f4b345625d27d1601896ed838c454d000ad23bd7d11bb678f989c0ea"
+  },
+  "eventsHashes": {
+    "event-0e6656ed95c719369454daec.json": "affe095e50bf9e5c56e4433ba4932c2ac5669010bceeda2fef6bbb3c7d1e1761",
+    "event-1e55621c215d2334f9df1c81.json": "536cffb25b68c102e787b12168f6b18ceb5bf4ad450c5528f08c6487c268a4d5",
+    "event-32b9408f27bc1c503e6415c0.json": "c93d46569da519cb79a22d85ff43f98c66104a3f2b9f27c684afa38f45b424d5",
+    "event-7bb338cad68766ed13816599.json": "4741099957278649e713f1f6b9dc84df7abf25e19653f334748a20556be95080",
+    "event-7e93af9df49a2502fb656733.json": "3f0df28b57e6820e38bd9c4a801ebca31c525e90cd2ae6fca141c3077a224233",
+    "event-7f62597e145141448428652c.json": "840f1d90e2e0ab21f5714f6e165275217bd8c108236e803dd539bf40ff089a48",
+    "event-9ec16d6bd22c139fb57df09c.json": "b475a371bc26698f5b03a043541fb1f897e3b2d4da1e3799285d1622e4898c9c",
+    "event-f71abc9b1981842609702c4e.json": "44eef17d46473c0e2d3194e1c05df7203ae817ba4f4a72031a3d8fe7933e0afa"
+  }
+}

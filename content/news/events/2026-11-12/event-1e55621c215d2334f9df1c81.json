@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-1e55621c215d2334f9df1c81",
+  "title": "Google Labs推出Tabletop协作实验产品，先在美国开放候补",
+  "firstSeen": "2026-11-12",
+  "editionDate": "2026-11-12",
+  "occurrences": [
+    {
+      "id": "occ-1e55621c215d2334f9df1c81",
+      "fact": {
+        "subject": "Google Labs",
+        "action": "推出",
+        "object": "Tabletop协作实验产品",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-12",
+      "reports": [
+        {
+          "ref": "2026-11-12/2026-11-12-google-tabletop",
+          "itemId": "2026-11-12-google-tabletop",
+          "editionDate": "2026-11-12",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+          "source": "blog-google-ai",
+          "owner": "Google",
+          "role": "principal",
+          "publishedAt": "2026-11-11T16:00:00.000Z",
+          "title": "Google Labs推出Tabletop协作实验产品，先在美国开放候补"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-12"
+}

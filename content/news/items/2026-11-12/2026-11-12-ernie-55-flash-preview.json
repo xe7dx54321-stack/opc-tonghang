@@ -1,0 +1,66 @@
+{
+  "id": "2026-11-12-ernie-55-flash-preview",
+  "title": "文心 5.5 Flash Preview发布！编程、3D 建模、知识工作、内容创作等全面升级",
+  "url": "https://www.leiphone.com/category/industrynews/sqz0hf4DoTPX5mqI.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Flash Preview",
+    "Token",
+    "Terminal",
+    "Bench",
+    "AutomationBench",
+    "Blender",
+    "CAD",
+    "MoE",
+    "ECHO",
+    "RSI",
+    "ERNIE Evolve",
+    "AI",
+    "API"
+  ],
+  "publishedAt": "2026-11-11T05:22:00.000Z",
+  "fetchedAt": "2026-11-11T07:56:20.969Z",
+  "summary": "雷峰网报道百度发布文心5.5 Flash Preview，称总参数2800亿、每Token激活140亿，最长上下文100万Token，并展示编程及3D建模能力；性能表述主要来自厂商。",
+  "investorNote": "判断：百度尝试把模型能力与代码、设计工具工作流结合，下一步需要看公开可复现评测及实际可用性。",
+  "score": 0.74,
+  "duplicateOf": null,
+  "clusterId": "event-f71abc9b1981842609702c4e",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "百度",
+    "action": "发布",
+    "object": "文心5.5 Flash Preview",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "dca88c7adf38d99f25c856a07087268fb7dbf8039d1629a1a70b62c051894a3d",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/sqz0hf4DoTPX5mqI.html",
+    "originalPublishedAt": "2026-11-11T05:22:00.000Z",
+    "checkedAt": "2026-11-11T23:35:00.881Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "dca88c7adf38d99f25c856a07087268fb7dbf8039d1629a1a70b62c051894a3d",
+      "kind": "fact",
+      "quote": "11月11日，百度最新基础模型文心 5.5 Flash Preview正式发布。文心 5.5 Flash Preview总参数量达 2800 亿，每个 Toke\n11月11日，百度最新基础模型文心 5.5 Flash Preview正式发布。文心 5.5 Flash Preview总参数量达 2800 亿，每个 Token 激活 140 亿参数，支持最长 100 万 Token 的上下文，在编程、3D 建模、知识工作、内容创作等方面表现突出。目前在Terminal-Bench、AutomationBench等多项基准测试中，文心5.5 Flash Preview 取得了具有竞争力的得分，并保持极致的解码速度。"
+    }
+  ],
+  "displayTitle": "百度发布文心5.5 Flash Preview，强化编程与3D建模",
+  "narrative": "据雷峰网11月11日报道，百度发布文心5.5 Flash Preview，宣称总参数2800亿、每Token激活140亿，最长支持100万Token上下文，并把编程和3D建模列为重点场景。这里的参数和基准成绩是发布方口径，尚不能等同于真实工程效率；更有价值的验证，是开发者能否在代码库修复和CAD、Blender任务里稳定复现。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件相比，本条有独立的新动作和对象；未发现同次发生的历史条目。"
+  },
+  "eventId": "event-f71abc9b1981842609702c4e",
+  "occurrenceId": "occ-f71abc9b1981842609702c4e",
+  "relatedItems": []
+}

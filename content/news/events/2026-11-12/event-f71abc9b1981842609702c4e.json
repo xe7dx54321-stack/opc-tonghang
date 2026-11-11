@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-f71abc9b1981842609702c4e",
+  "title": "百度发布文心5.5 Flash Preview，强化编程与3D建模",
+  "firstSeen": "2026-11-12",
+  "editionDate": "2026-11-12",
+  "occurrences": [
+    {
+      "id": "occ-f71abc9b1981842609702c4e",
+      "fact": {
+        "subject": "百度",
+        "action": "发布",
+        "object": "文心5.5 Flash Preview",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-12",
+      "reports": [
+        {
+          "ref": "2026-11-12/2026-11-12-ernie-55-flash-preview",
+          "itemId": "2026-11-12-ernie-55-flash-preview",
+          "editionDate": "2026-11-12",
+          "url": "https://www.leiphone.com/category/industrynews/sqz0hf4DoTPX5mqI.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-11T05:22:00.000Z",
+          "title": "百度发布文心5.5 Flash Preview，强化编程与3D建模"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-12"
+}

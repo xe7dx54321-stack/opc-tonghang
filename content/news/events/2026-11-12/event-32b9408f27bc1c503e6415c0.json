@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-32b9408f27bc1c503e6415c0",
+  "title": "智东西实测MiniMax H3-Image，关注开放权重后的复杂编辑能力",
+  "firstSeen": "2026-11-12",
+  "editionDate": "2026-11-12",
+  "occurrences": [
+    {
+      "id": "occ-32b9408f27bc1c503e6415c0",
+      "fact": {
+        "subject": "智东西",
+        "action": "发表实测",
+        "object": "MiniMax H3-Image开放权重后的图像生成表现",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-12",
+      "reports": [
+        {
+          "ref": "2026-11-12/2026-11-12-minimax-h3-image-review",
+          "itemId": "2026-11-12-minimax-h3-image-review",
+          "editionDate": "2026-11-12",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813815&idx=1&sn=2b6a0855985ed9dbc638868c25ae320c",
+          "source": "wechat-zhidongxi",
+          "owner": "智东西",
+          "role": "observer",
+          "publishedAt": "2026-11-11T14:22:00.000Z",
+          "title": "智东西实测MiniMax H3-Image，关注开放权重后的复杂编辑能力"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-12"
+}

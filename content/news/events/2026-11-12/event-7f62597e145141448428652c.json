@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-7f62597e145141448428652c",
+  "title": "英国AI芯片公司Fractile完成7.2亿美元C轮融资",
+  "firstSeen": "2026-11-12",
+  "editionDate": "2026-11-12",
+  "occurrences": [
+    {
+      "id": "occ-7f62597e145141448428652c",
+      "fact": {
+        "subject": "Fractile",
+        "action": "完成",
+        "object": "7.2亿美元C轮融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-12",
+      "reports": [
+        {
+          "ref": "2026-11-12/2026-11-12-fractile-series-c",
+          "itemId": "2026-11-12-fractile-series-c",
+          "editionDate": "2026-11-12",
+          "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-11T19:34:55.000Z",
+          "title": "英国AI芯片公司Fractile完成7.2亿美元C轮融资"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-12"
+}

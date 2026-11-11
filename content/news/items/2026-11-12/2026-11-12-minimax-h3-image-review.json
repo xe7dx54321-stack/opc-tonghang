@@ -1,0 +1,65 @@
+{
+  "id": "2026-11-12-minimax-h3-image-review",
+  "title": "10秒直出4K图，能画CAD、拆机械，MiniMax这个开源图像模型有点东西",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813815&idx=1&sn=2b6a0855985ed9dbc638868c25ae320c",
+  "source": "wechat-zhidongxi",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "CAD",
+    "MiniMax"
+  ],
+  "publishedAt": "2026-11-11T14:22:00.000Z",
+  "fetchedAt": "2026-11-11T15:34:10.535Z",
+  "summary": "智东西11月11日发表MiniMax H3-Image实测，报道MiniMax在前夜发布新图像模型并开放权重；编辑部测试视觉表现、复杂任务理解和多参考图融合。",
+  "investorNote": "判断：开放权重降低试用门槛，但媒体样例不能替代可重复的任务集与本地部署成本比较。",
+  "score": 0.71,
+  "duplicateOf": null,
+  "clusterId": "event-32b9408f27bc1c503e6415c0",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "智东西",
+    "action": "发表实测",
+    "object": "MiniMax H3-Image开放权重后的图像生成表现",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "智东西",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "9b80aa70ee0bb03c362bea91095e34d2158b46391fbd68150be9b9090ae62b0a",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813815&idx=1&sn=2b6a0855985ed9dbc638868c25ae320c",
+    "originalPublishedAt": "2026-11-11T14:22:00.000Z",
+    "checkedAt": "2026-11-11T23:35:00.909Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "9b80aa70ee0bb03c362bea91095e34d2158b46391fbd68150be9b9090ae62b0a",
+      "kind": "fact",
+      "quote": "智东西11月11日报道，昨天深夜，MiniMax正式发布新一代图像生成模型H3-Image，并同步开放模型权重。"
+    },
+    {
+      "snapshotId": "9b80aa70ee0bb03c362bea91095e34d2158b46391fbd68150be9b9090ae62b0a",
+      "kind": "condition",
+      "quote": "我们第一时间通过MiniMax海螺和MiniMax Code接入H3-Image，围绕视觉表现、复杂任务理解和多素材参考融合等方向，做了一轮高强度实测。"
+    },
+    {
+      "snapshotId": "9b80aa70ee0bb03c362bea91095e34d2158b46391fbd68150be9b9090ae62b0a",
+      "kind": "condition",
+      "quote": "该模型支持最多16张参考图融合，能够处理复杂指令和结构化信息"
+    }
+  ],
+  "displayTitle": "智东西实测MiniMax H3-Image，关注开放权重后的复杂编辑能力",
+  "narrative": "智东西11月11日刊出对MiniMax H3-Image的实测，报道模型在前夜发布并开放权重。测试覆盖视觉效果、复杂指令和多参考图编辑，也用MiniMax Code编排部分复杂任务。开放权重让开发者能直接评估模型，但展示样例混合了模型能力与Agent编排效果；判断是否能进入生产流程，还要看失败率、推理资源和版权边界。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件相比，本条有独立的新动作和对象；未发现同次发生的历史条目。"
+  },
+  "eventId": "event-32b9408f27bc1c503e6415c0",
+  "occurrenceId": "occ-32b9408f27bc1c503e6415c0",
+  "relatedItems": []
+}

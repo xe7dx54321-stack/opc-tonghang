@@ -1,0 +1,66 @@
+{
+  "id": "2026-11-12-agentcore-web-search-api",
+  "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+  "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
+  "source": "aws-machine-learning",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Introducing",
+    "Web Search API",
+    "Amazon Bedrock AgentCore Today",
+    "Amazon Bedrock AgentCore",
+    "API",
+    "Call",
+    "AWS SDKs",
+    "AWS CLI"
+  ],
+  "publishedAt": "2026-11-11T23:13:16.000Z",
+  "fetchedAt": "2026-11-11T23:30:08.814Z",
+  "summary": "AWS推出Bedrock AgentCore Web Search API，开发者可用AWS SDK或CLI通过IAM签名直接检索网页，返回排序结果及文本摘录；无需先创建AgentCore Gateway资源。",
+  "investorNote": "判断：搜索从Agent平台配置项变成普通API调用，有利于企业把外部信息纳入既有权限体系，但检索质量仍待实测。",
+  "score": 0.79,
+  "duplicateOf": null,
+  "clusterId": "event-0e6656ed95c719369454daec",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Amazon Web Services",
+    "action": "推出",
+    "object": "Bedrock AgentCore Web Search API",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Amazon Web Services",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "78cb655b13b42ddb50d046f065250ced1bcf4b0b09148e49643b9a5a86d09e90",
+    "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
+    "originalPublishedAt": "2026-11-11T23:13:16.000Z",
+    "checkedAt": "2026-11-11T23:35:00.825Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "78cb655b13b42ddb50d046f065250ced1bcf4b0b09148e49643b9a5a86d09e90",
+      "kind": "fact",
+      "quote": "Today, we’re announcing the\nWeb Search API\non Amazon Bedrock AgentCore. With it, your own code can search the web with a single API call. It returns ranked results from a web index that Amazon operates, each with a text extract and, when available, the page title, URL, and publication time."
+    },
+    {
+      "snapshotId": "78cb655b13b42ddb50d046f065250ced1bcf4b0b09148e49643b9a5a86d09e90",
+      "kind": "condition",
+      "quote": "There are no resources to create first."
+    }
+  ],
+  "displayTitle": "AWS为Bedrock AgentCore推出可直接调用的网页搜索API",
+  "narrative": "AWS将AgentCore网页搜索从必须配置Gateway的工具调用，扩展为代码可直接调用的API。结果包含排序、文本摘录，并在可用时提供标题、URL和发布时间；调用沿用IAM凭据，无需先创建Gateway资源。对企业Agent团队，少一层平台配置就更容易把实时检索放入已有代码，但来源覆盖和结果质量仍需在业务场景里检验。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件相比，本条有独立的新动作和对象；未发现同次发生的历史条目。"
+  },
+  "eventId": "event-0e6656ed95c719369454daec",
+  "occurrenceId": "occ-0e6656ed95c719369454daec",
+  "relatedItems": []
+}

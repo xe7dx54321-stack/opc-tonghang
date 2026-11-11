@@ -1,0 +1,62 @@
+{
+  "id": "2026-11-12-serve-delivery-api",
+  "title": "Serve Robotics opens robot delivery network for others to build on",
+  "url": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Serve Robotics",
+    "API",
+    "The",
+    "The Robot Report"
+  ],
+  "publishedAt": "2026-11-11T13:43:29.000Z",
+  "fetchedAt": "2026-11-11T14:33:05.441Z",
+  "summary": "The Robot Report报道Serve Robotics推出AV Delivery Developer Portal，允许第三方通过API调用其人行道配送机器人，并开放沙盒先行测试；公司称已部署逾2000台机器人。",
+  "investorNote": "判断：开放现有车队比出售单机更接近机器人基础设施平台，但实际调用量和服务覆盖决定商业价值。",
+  "score": 0.77,
+  "duplicateOf": null,
+  "clusterId": "event-7e93af9df49a2502fb656733",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Serve Robotics",
+    "action": "开放",
+    "object": "AV Delivery Developer Portal及配送机器人API",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "37bc32237e0b0c5879f3d7e382931a2172739a2578ced08584c026c120d5915a",
+    "originalUrl": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/",
+    "originalPublishedAt": "2026-11-11T13:43:29.000Z",
+    "checkedAt": "2026-11-11T23:35:00.853Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "37bc32237e0b0c5879f3d7e382931a2172739a2578ced08584c026c120d5915a",
+      "kind": "fact",
+      "quote": "Serve Robotics Inc. today launched the AV Delivery Developer Portal, which it said gives developers, businesses, hobbyists, and AI assistants the opportunity to programmatically summon its sidewalk delivery robots. The company said its public application programming interface, or API, allows others to work with its autonomous robot fleet. It also released a sandbox environment where anyone can build and test applications before using them with live robots."
+    },
+    {
+      "snapshotId": "37bc32237e0b0c5879f3d7e382931a2172739a2578ced08584c026c120d5915a",
+      "kind": "condition",
+      "quote": "said it has deployed more than 2,000 robots across the U.S. and\nAustralia\n, reaching about 3 million people and supporting\ndelivery\nfor more than 4,000 restaurants."
+    }
+  ],
+  "displayTitle": "Serve Robotics开放配送机器人API和开发者沙盒",
+  "narrative": "Serve Robotics开放AV Delivery Developer Portal，第三方可以通过API请求其人行道配送机器人，并在沙盒里先测试应用。公司向The Robot Report称车队已超过2000台。新的投资观察点不只是机器人数量，而是外部开发者能否在现有覆盖区域持续带来订单；沙盒开放与大规模商业使用之间仍有距离。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件相比，本条有独立的新动作和对象；未发现同次发生的历史条目。"
+  },
+  "eventId": "event-7e93af9df49a2502fb656733",
+  "occurrenceId": "occ-7e93af9df49a2502fb656733",
+  "relatedItems": []
+}

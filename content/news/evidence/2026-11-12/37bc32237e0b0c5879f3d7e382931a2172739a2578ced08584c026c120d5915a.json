@@ -1,0 +1,13 @@
+{
+  "snapshotId": "37bc32237e0b0c5879f3d7e382931a2172739a2578ced08584c026c120d5915a",
+  "url": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/",
+  "publishedAt": "2026-11-11T13:43:29.000Z",
+  "publishedAtQuote": "2026-11-11T13:43:29+00:00",
+  "retrievedAt": "2026-11-11T23:35:00.853Z",
+  "method": "agent-tool",
+  "contentHash": "35bf69dc65c7f4addd3b6dfe8e4eff9a2b7650347cd7dac3dca62db37673b759",
+  "quotations": [
+    "Serve Robotics Inc. today launched the AV Delivery Developer Portal, which it said gives developers, businesses, hobbyists, and AI assistants the opportunity to programmatically summon its sidewalk delivery robots. The company said its public application programming interface, or API, allows others to work with its autonomous robot fleet. It also released a sandbox environment where anyone can build and test applications before using them with live robots.",
+    "said it has deployed more than 2,000 robots across the U.S. and\nAustralia\n, reaching about 3 million people and supporting\ndelivery\nfor more than 4,000 restaurants."
+  ]
+}

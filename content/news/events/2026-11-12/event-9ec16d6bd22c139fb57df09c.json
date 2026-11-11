@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-9ec16d6bd22c139fb57df09c",
+  "title": "Google推出Gemini Decisions API，专门给Agent做概率判断",
+  "firstSeen": "2026-11-12",
+  "editionDate": "2026-11-12",
+  "occurrences": [
+    {
+      "id": "occ-9ec16d6bd22c139fb57df09c",
+      "fact": {
+        "subject": "Google",
+        "action": "推出",
+        "object": "Gemini Decisions API及Gemini Decision 1",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-12",
+      "reports": [
+        {
+          "ref": "2026-11-12/2026-11-12-gemini-decisions-api",
+          "itemId": "2026-11-12-gemini-decisions-api",
+          "editionDate": "2026-11-12",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "source": "blog-google-ai",
+          "owner": "Google",
+          "role": "principal",
+          "publishedAt": "2026-11-11T18:00:00.000Z",
+          "title": "Google推出Gemini Decisions API，专门给Agent做概率判断"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-12"
+}

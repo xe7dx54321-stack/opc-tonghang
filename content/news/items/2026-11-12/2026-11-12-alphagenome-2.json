@@ -1,0 +1,62 @@
+{
+  "id": "2026-11-12-alphagenome-2",
+  "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+  "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+  "source": "deepmind",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AlphaGenome",
+    "Deciphering",
+    "DNA",
+    "Predicting"
+  ],
+  "publishedAt": "2026-11-11T15:00:15.000Z",
+  "fetchedAt": "2026-11-11T15:03:28.648Z",
+  "summary": "Google DeepMind发布AlphaGenome 2，可按特定细胞类型预测DNA序列及变异的调控效应；现通过API供非商业研究使用，商业研究仅开放私人预览。",
+  "investorNote": "判断：从组织平均值转向细胞类型条件预测，有利于定位疾病机制，但转化为药物研发收益仍取决于湿实验验证。",
+  "score": 0.84,
+  "duplicateOf": null,
+  "clusterId": "event-7bb338cad68766ed13816599",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Google DeepMind",
+    "action": "发布",
+    "object": "AlphaGenome 2",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Google DeepMind",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "6feabfd676b59fb8876ecdda1235dae03d64d2973050bdc600656ce4f5cc1ae2",
+    "originalUrl": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "originalPublishedAt": "2026-11-11T15:00:15.000Z",
+    "checkedAt": "2026-11-11T23:35:00.767Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "6feabfd676b59fb8876ecdda1235dae03d64d2973050bdc600656ce4f5cc1ae2",
+      "kind": "fact",
+      "quote": "Today, we are announcing AlphaGenome 2, our next-generation model that predicts how DNA sequences and their variations impact specific human cell types, giving scientists a powerful new tool to uncover the cellular drivers of disease."
+    },
+    {
+      "snapshotId": "6feabfd676b59fb8876ecdda1235dae03d64d2973050bdc600656ce4f5cc1ae2",
+      "kind": "condition",
+      "quote": "AlphaGenome 2 is available today for non-commercial research via the AlphaGenome API, and in private preview for commercial research."
+    }
+  ],
+  "displayTitle": "DeepMind发布AlphaGenome 2，按细胞类型预测遗传变异影响",
+  "narrative": "AlphaGenome 2把预测条件细化到细胞类型，DeepMind称这能帮助研究人员观察同一遗传变异在不同细胞里的影响。当前非商业研究可通过API使用，商业研究只在私人预览。对生物技术投资而言，真正需要跟踪的是它能否缩小实验筛选范围，而不是把模型预测直接当成疾病机制或临床结论。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件相比，本条有独立的新动作和对象；未发现同次发生的历史条目。"
+  },
+  "eventId": "event-7bb338cad68766ed13816599",
+  "occurrenceId": "occ-7bb338cad68766ed13816599",
+  "relatedItems": []
+}

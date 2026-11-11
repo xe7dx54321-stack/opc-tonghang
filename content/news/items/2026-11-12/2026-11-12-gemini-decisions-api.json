@@ -1,0 +1,62 @@
+{
+  "id": "2026-11-12-gemini-decisions-api",
+  "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+  "source": "blog-google-ai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Gemini Decisions API",
+    "Fast",
+    "Meet",
+    "Gemini Decision"
+  ],
+  "publishedAt": "2026-11-11T18:00:00.000Z",
+  "fetchedAt": "2026-11-11T18:37:00.082Z",
+  "summary": "Google推出Gemini Decisions API和Gemini Decision 1，面向工具选择、策略检查等有限选项问题；一次请求可针对共享的多模态输入回答最多1000个问题，按输入每百万Token 0.10美元计费，输出不计费。",
+  "investorNote": "判断：决策模型把Agent工作流里大量短判断从生成式模型拆出，成本和延迟将成为可单独竞争的指标。",
+  "score": 0.91,
+  "duplicateOf": null,
+  "clusterId": "event-9ec16d6bd22c139fb57df09c",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Google",
+    "action": "推出",
+    "object": "Gemini Decisions API及Gemini Decision 1",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Google",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "ba072d2a8946de89d2a64d6629c335d35a2206a0babf77694521d474a9d44e1c",
+    "originalUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "originalPublishedAt": "2026-11-11T18:00:00.000Z",
+    "checkedAt": "2026-11-11T23:35:00.727Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "ba072d2a8946de89d2a64d6629c335d35a2206a0babf77694521d474a9d44e1c",
+      "kind": "fact",
+      "quote": "Introducing the Gemini Decisions API, powered by our new Gemini Decision 1 model. Evaluate up to 1,000 yes/no, choice, and rubric-scoring questions in a fast, single pass across text, images, audio, video, and PDFs."
+    },
+    {
+      "snapshotId": "ba072d2a8946de89d2a64d6629c335d35a2206a0babf77694521d474a9d44e1c",
+      "kind": "condition",
+      "quote": "Gemini Decision 1 is priced at $0.10 per 1M input tokens and $0 for output tokens"
+    }
+  ],
+  "displayTitle": "Google推出Gemini Decisions API，专门给Agent做概率判断",
+  "narrative": "Google把Agent常做的“该选哪个工具、是否满足规则”做成独立接口：Gemini Decisions API让Gemini Decision 1对文本、图像、音视频及PDF的共享输入批量给出概率判断，单次最多1000问。官方价格为每百万输入Token 0.10美元、输出Token零费用。它的价值在高频短判断环节能否真正节省延迟和账单，官方基准表现仍需独立复测。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件相比，本条有独立的新动作和对象；未发现同次发生的历史条目。"
+  },
+  "eventId": "event-9ec16d6bd22c139fb57df09c",
+  "occurrenceId": "occ-9ec16d6bd22c139fb57df09c",
+  "relatedItems": []
+}

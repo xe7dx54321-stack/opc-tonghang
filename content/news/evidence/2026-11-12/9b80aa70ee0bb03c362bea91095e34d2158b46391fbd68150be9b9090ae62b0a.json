@@ -1,0 +1,15 @@
+{
+  "snapshotId": "9b80aa70ee0bb03c362bea91095e34d2158b46391fbd68150be9b9090ae62b0a",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813815&idx=1&sn=2b6a0855985ed9dbc638868c25ae320c",
+  "publishedAt": "2026-11-11T14:22:00.000Z",
+  "publishedAtQuote": "2026-11-11 22:22",
+  "retrievedAt": "2026-11-11T23:35:00.909Z",
+  "method": "rss-syndication",
+  "retrievedFrom": "https://wechat2rss.bestblogs.dev/feed/cfd52b4245ca6119b2fda4ef934832c689028927.xml",
+  "contentHash": "7c1a4c45328267bf7dd31160b83c3dec514b7405c7c04fc7ad60b4f73522026e",
+  "quotations": [
+    "智东西11月11日报道，昨天深夜，MiniMax正式发布新一代图像生成模型H3-Image，并同步开放模型权重。",
+    "我们第一时间通过MiniMax海螺和MiniMax Code接入H3-Image，围绕视觉表现、复杂任务理解和多素材参考融合等方向，做了一轮高强度实测。",
+    "该模型支持最多16张参考图融合，能够处理复杂指令和结构化信息"
+  ]
+}
