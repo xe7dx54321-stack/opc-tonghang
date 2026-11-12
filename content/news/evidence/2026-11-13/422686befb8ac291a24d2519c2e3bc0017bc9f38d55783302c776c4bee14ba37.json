@@ -1,0 +1,13 @@
+{
+  "snapshotId": "422686befb8ac291a24d2519c2e3bc0017bc9f38d55783302c776c4bee14ba37",
+  "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+  "publishedAt": "2026-11-12T19:27:45+00:00",
+  "publishedAtQuote": "2026-11-12T19:27:45+00:00",
+  "retrievedAt": "2026-11-12T23:34:57.969Z",
+  "method": "agent-tool",
+  "contentHash": "ab57d4b6064bc17bbb184f9a0821de97b7ef94d35fc28a0457562db7b3f93915",
+  "quotations": [
+    "Google Search is getting better at understanding complicated questions, including those with multiple parts, highly specific requests, or confusing typos.",
+    "The updates are coming via the company’s newly released Gemini 4 Hydrogen model"
+  ]
+}

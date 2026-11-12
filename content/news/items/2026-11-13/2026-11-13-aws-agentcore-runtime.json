@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-13-aws-agentcore-runtime",
+  "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
+  "publishedAt": "2026-11-12T09:59:59-08:00",
+  "fact": {
+    "subject": "Amazon Web Services",
+    "action": "更新AgentCore runtime",
+    "object": "隔离会话的启动速度、资源规模与数据访问",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Amazon Web Services",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "97e4eeaf32e89706a9eda9ce791f052b7bb5900921a6de8a1ca83130db3af330",
+    "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
+    "originalPublishedAt": "2026-11-12T09:59:59-08:00",
+    "checkedAt": "2026-11-12T23:34:57.970Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "97e4eeaf32e89706a9eda9ce791f052b7bb5900921a6de8a1ca83130db3af330",
+      "kind": "fact",
+      "quote": "Today we’re announcing updates to AgentCore runtime that meet those demands."
+    },
+    {
+      "snapshotId": "97e4eeaf32e89706a9eda9ce791f052b7bb5900921a6de8a1ca83130db3af330",
+      "kind": "fact",
+      "quote": "Sessions now scale 4x compared to the previous version, up to 8 vCPUs and 32 GB"
+    }
+  ],
+  "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
+  "source": "aws-machine-learning",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-12T23:30:47.163Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "AWS更新AgentCore runtime，提供独立隔离会话、更大的计算资源和存储访问，并称启动更快、空闲时资源使用更低。",
+  "investorNote": "Agent从演示走向生产，执行隔离与资源成本将成为平台选型的共同约束。",
+  "displayTitle": "AWS升级AgentCore运行时，扩大隔离会话规模",
+  "narrative": "AWS 更新 AgentCore runtime，扩大隔离会话可用资源并支持挂载存储。AWS 称每个会话运行在独立 Firecracker MicroVM 中，更新后会话最多可使用 8 vCPU 和 32 GB 内存；启动速度等提升是厂商主张，尚需真实负载验证。它与前一天的网页搜索 API 是不同动作：一个解决执行环境，另一个提供检索工具。",
+  "score": 0.78,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "此前AgentCore新闻是独立网页搜索API，本次为运行时隔离与资源配置更新。"
+  },
+  "eventId": "event-8574399c2aa5b54ccaf3c096",
+  "occurrenceId": "occ-8574399c2aa5b54ccaf3c096",
+  "clusterId": "event-8574399c2aa5b54ccaf3c096",
+  "duplicateOf": null,
+  "relatedItems": []
+}

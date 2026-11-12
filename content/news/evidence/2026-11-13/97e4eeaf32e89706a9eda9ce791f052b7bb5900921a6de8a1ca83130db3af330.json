@@ -1,0 +1,13 @@
+{
+  "snapshotId": "97e4eeaf32e89706a9eda9ce791f052b7bb5900921a6de8a1ca83130db3af330",
+  "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
+  "publishedAt": "2026-11-12T09:59:59-08:00",
+  "publishedAtQuote": "2026-11-12T09:59:59-08:00",
+  "retrievedAt": "2026-11-12T23:34:57.970Z",
+  "method": "agent-tool",
+  "contentHash": "0545f4935024de83869cc5d2f0e0f1688a23ecdfdd671d9afb51176dabb27418",
+  "quotations": [
+    "Today we’re announcing updates to AgentCore runtime that meet those demands.",
+    "Sessions now scale 4x compared to the previous version, up to 8 vCPUs and 32 GB"
+  ]
+}

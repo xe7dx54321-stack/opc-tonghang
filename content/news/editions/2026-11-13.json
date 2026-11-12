@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-13",
+  "window": {
+    "start": 1794439800000,
+    "end": 1794526200000
+  },
+  "digestHash": "558364268af5d27545074b4595f1d9b9f449de8a7e6e9f453e8c1d5c4d8f1b85",
+  "stories": [
+    {
+      "heading": "英伟达确认黄仁勋辞任CEO，CFO临时接任",
+      "itemId": "2026-11-13-nvidia-ceo-resignation",
+      "eventId": "event-8a95f60940aa6333c3d5d9c7",
+      "occurrenceId": "occ-599423a9b7089f713d72d02c"
+    },
+    {
+      "heading": "Google将Gemini 4 Hydrogen接入搜索，强化复杂问题处理",
+      "itemId": "2026-11-13-google-gemini-hydrogen-search",
+      "eventId": "event-4f0439352fbd9cd921bd24ec",
+      "occurrenceId": "occ-4f0439352fbd9cd921bd24ec"
+    },
+    {
+      "heading": "Fireworks安全事件波及Notion AI客户聊天记录",
+      "itemId": "2026-11-13-fireworks-notion-incident",
+      "eventId": "event-91813654e9c2d0350f27dbb1",
+      "occurrenceId": "occ-91813654e9c2d0350f27dbb1"
+    },
+    {
+      "heading": "AWS公开SGLang-Neuron，打通Trainium推理工作流",
+      "itemId": "2026-11-13-aws-sglang-trainium",
+      "eventId": "event-da925961d84d794f68b52fef",
+      "occurrenceId": "occ-da925961d84d794f68b52fef"
+    },
+    {
+      "heading": "AWS升级AgentCore运行时，扩大隔离会话规模",
+      "itemId": "2026-11-13-aws-agentcore-runtime",
+      "eventId": "event-8574399c2aa5b54ccaf3c096",
+      "occurrenceId": "occ-8574399c2aa5b54ccaf3c096"
+    },
+    {
+      "heading": "Norwest募集40亿美元新基金，扩大AI投资",
+      "itemId": "2026-11-13-norwest-eighteenth-fund",
+      "eventId": "event-6850f187e2ee4bf16fe5b5e4",
+      "occurrenceId": "occ-6850f187e2ee4bf16fe5b5e4"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-13-aws-agentcore-runtime.json": "f74b0b0e647df1ab44719de209764e72d0916df59c6d38266f62da85ba8e4ec9",
+    "2026-11-13-aws-sglang-trainium.json": "4968ef7b6e14ccfc3ea27b646e45f2ddf779ecff49793025712b0cc44989175c",
+    "2026-11-13-fireworks-notion-incident.json": "ab79699fe323225d4f68fd516ea5c591f38b5d8fa1c739fb724f58b91035affa",
+    "2026-11-13-google-gemini-hydrogen-search.json": "162ece4678c6623f07264550c95e57beb4c979f3ee666c7a49263a1899bd79ba",
+    "2026-11-13-norwest-eighteenth-fund.json": "46487775e4155ca228d26d7596206ac06adcd8de608b3557160c49a331226be8",
+    "2026-11-13-nvidia-ceo-resignation.json": "9f7644e7d3980cc45caa4a29a0ce8cffdd1ff7ca378f5088989cfc235aeb179e"
+  },
+  "evidenceHashes": {
+    "0865f5e5613cd69ce78a0bcd3e11bca86aae8484c4612554b969b668728a2969.json": "13ebcf8a9eb934f768ed5260aae3c9a27ee8d44ae8e7b9cd297015d141464615",
+    "422686befb8ac291a24d2519c2e3bc0017bc9f38d55783302c776c4bee14ba37.json": "fa446567399c00c37370ea87c54d837cb11fd05be9f11fd51dea1e824b50d139",
+    "5ea09b455196a9f7e344d890c1f54edbab56aece02f58c1bbc57e8eaaea7ccfd.json": "7a3335d995aa84a9ee93ac58ac10e09d9423c0b039e81bceb0da8480363a9684",
+    "7f4bb9adfd8cf19bdf695544389f6f06745bdaf0b4b2d6c031f8c2013f3b8caf.json": "cad4af90fcab1b2e7e334e59e121a8ab523bd27637ed8cc7c711a4ffa04fab2c",
+    "97e4eeaf32e89706a9eda9ce791f052b7bb5900921a6de8a1ca83130db3af330.json": "40533b1d7e8beef498afdc741cdfff973eda3b314bddcf486c2a9867d7ca6963",
+    "a9e8bd90ca433093b76e20bd3da2063770df47676c30763ad70b1a6f18dd464c.json": "498063a7428e00072056ac8704ec5ddc85c24aa2b1f0745af452e4f2ca2dd8ea"
+  },
+  "eventsHashes": {
+    "event-4f0439352fbd9cd921bd24ec.json": "cdf490209d22af69ed29c19979946dcb03389e49be9ffec1f0e5b98b32e35379",
+    "event-6850f187e2ee4bf16fe5b5e4.json": "512d8fa1fe4c01df0aac5889fab122c6177c49646aa2934c00e1af96adb05702",
+    "event-8574399c2aa5b54ccaf3c096.json": "2b93281789e785ded3d236c3c2da34d29baa2bcbb557a2804c29ab6ebc1fcb64",
+    "event-8a95f60940aa6333c3d5d9c7.json": "a916751439c9cdd4caf0132ad69859b261c29966ec9e32fb8d862f7f76cff981",
+    "event-91813654e9c2d0350f27dbb1.json": "346de3a8bb4c49aef8ab5aa86e0a399105acf7c5e14a65d567e8b1eabaa9661b",
+    "event-da925961d84d794f68b52fef.json": "3c93bd0112d99eeff576d2ee020818afac8be7d6a87e9d77735125161add6307"
+  }
+}

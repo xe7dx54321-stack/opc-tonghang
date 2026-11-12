@@ -1,0 +1,12 @@
+{
+  "snapshotId": "0865f5e5613cd69ce78a0bcd3e11bca86aae8484c4612554b969b668728a2969",
+  "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+  "publishedAt": "2026-11-12T14:03:34-08:00",
+  "publishedAtQuote": "2026-11-12T14:03:34-08:00",
+  "retrievedAt": "2026-11-12T23:34:57.970Z",
+  "method": "agent-tool",
+  "contentHash": "4b2e0b7e9a3ced2617c905a9cf5a6b82c673645c1b738e5b0b9f33185e378b34",
+  "quotations": [
+    "Today, Amazon announced that SGLang-Neuron is publicly available and can be accessed through an AWS Deep Learning Container, released by RadixArk in collaboration with Annapurna Labs."
+  ]
+}

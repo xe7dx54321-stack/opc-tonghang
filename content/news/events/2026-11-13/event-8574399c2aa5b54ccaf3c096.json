@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-8574399c2aa5b54ccaf3c096",
+  "title": "AWS升级AgentCore运行时，扩大隔离会话规模",
+  "firstSeen": "2026-11-13",
+  "editionDate": "2026-11-13",
+  "occurrences": [
+    {
+      "id": "occ-8574399c2aa5b54ccaf3c096",
+      "fact": {
+        "subject": "Amazon Web Services",
+        "action": "更新AgentCore runtime",
+        "object": "隔离会话的启动速度、资源规模与数据访问",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-13",
+      "reports": [
+        {
+          "ref": "2026-11-13/2026-11-13-aws-agentcore-runtime",
+          "itemId": "2026-11-13-aws-agentcore-runtime",
+          "editionDate": "2026-11-13",
+          "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
+          "source": "aws-machine-learning",
+          "owner": "Amazon Web Services",
+          "role": "principal",
+          "publishedAt": "2026-11-12T09:59:59-08:00",
+          "title": "AWS升级AgentCore运行时，扩大隔离会话规模"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-13"
+}

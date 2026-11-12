@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-91813654e9c2d0350f27dbb1",
+  "title": "Fireworks安全事件波及Notion AI客户聊天记录",
+  "firstSeen": "2026-11-13",
+  "editionDate": "2026-11-13",
+  "occurrences": [
+    {
+      "id": "occ-91813654e9c2d0350f27dbb1",
+      "fact": {
+        "subject": "Fireworks AI",
+        "action": "披露安全事件导致客户数据泄露",
+        "object": "Notion AI聊天记录及其他客户数据",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-13",
+      "reports": [
+        {
+          "ref": "2026-11-13/2026-11-13-fireworks-notion-incident",
+          "itemId": "2026-11-13-fireworks-notion-incident",
+          "editionDate": "2026-11-13",
+          "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-12T15:02:28+00:00",
+          "title": "Fireworks安全事件波及Notion AI客户聊天记录"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-13"
+}

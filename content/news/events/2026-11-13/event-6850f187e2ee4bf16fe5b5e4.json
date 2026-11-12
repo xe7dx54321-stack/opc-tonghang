@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6850f187e2ee4bf16fe5b5e4",
+  "title": "Norwest募集40亿美元新基金，扩大AI投资",
+  "firstSeen": "2026-11-13",
+  "editionDate": "2026-11-13",
+  "occurrences": [
+    {
+      "id": "occ-6850f187e2ee4bf16fe5b5e4",
+      "fact": {
+        "subject": "Norwest",
+        "action": "募集第十八期基金",
+        "object": "40亿美元多阶段基金",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-13",
+      "reports": [
+        {
+          "ref": "2026-11-13/2026-11-13-norwest-eighteenth-fund",
+          "itemId": "2026-11-13-norwest-eighteenth-fund",
+          "editionDate": "2026-11-13",
+          "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-12T15:18:14+00:00",
+          "title": "Norwest募集40亿美元新基金，扩大AI投资"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-13"
+}

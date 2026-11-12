@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-13",
+  "itemCount": 6,
+  "storyCount": 6,
+  "clusterCount": 6,
+  "files": [
+    "2026-11-13-nvidia-ceo-resignation.json",
+    "2026-11-13-google-gemini-hydrogen-search.json",
+    "2026-11-13-fireworks-notion-incident.json",
+    "2026-11-13-aws-sglang-trainium.json",
+    "2026-11-13-aws-agentcore-runtime.json",
+    "2026-11-13-norwest-eighteenth-fund.json"
+  ],
+  "representatives": [
+    "2026-11-13-nvidia-ceo-resignation",
+    "2026-11-13-google-gemini-hydrogen-search",
+    "2026-11-13-fireworks-notion-incident",
+    "2026-11-13-aws-sglang-trainium",
+    "2026-11-13-aws-agentcore-runtime",
+    "2026-11-13-norwest-eighteenth-fund"
+  ]
+}

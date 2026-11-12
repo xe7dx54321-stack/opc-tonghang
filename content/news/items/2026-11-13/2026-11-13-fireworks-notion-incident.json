@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-13-fireworks-notion-incident",
+  "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+  "publishedAt": "2026-11-12T15:02:28+00:00",
+  "fact": {
+    "subject": "Fireworks AI",
+    "action": "披露安全事件导致客户数据泄露",
+    "object": "Notion AI聊天记录及其他客户数据",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "7f4bb9adfd8cf19bdf695544389f6f06745bdaf0b4b2d6c031f8c2013f3b8caf",
+    "originalUrl": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+    "originalPublishedAt": "2026-11-12T15:02:28+00:00",
+    "checkedAt": "2026-11-12T23:34:57.969Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "7f4bb9adfd8cf19bdf695544389f6f06745bdaf0b4b2d6c031f8c2013f3b8caf",
+      "kind": "fact",
+      "quote": "At least one confirmed affected customer is online document editor and notetaker Notion, which said in a disclosure that the breach affected around 1% of its own customers."
+    },
+    {
+      "snapshotId": "7f4bb9adfd8cf19bdf695544389f6f06745bdaf0b4b2d6c031f8c2013f3b8caf",
+      "kind": "fact",
+      "quote": "the hackers took chat transcripts of its Notion AI customers who used the “Insights” feature"
+    }
+  ],
+  "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-12T23:30:47.163Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "Fireworks AI确认攻击者进入其开发系统并获取部分客户数据；Notion称约1%的自身客户受到影响，部分Insights聊天记录被盗。",
+  "investorNote": "模型供应链中的开发系统和数据留存边界，是企业采购推理服务时的直接风险。",
+  "displayTitle": "Fireworks安全事件波及Notion AI客户聊天记录",
+  "narrative": "Fireworks AI 确认攻击者通过云服务商进入其开发系统，获取部分客户数据。Notion 表示约 1% 的自身客户受到影响，涉及使用 Insights 功能的部分聊天记录；这一比例并非 Fireworks 全部客户的受影响比例。事件提醒企业，模型服务的风险不只在模型输出，还在供应商系统访问、数据留存和事故响应链条。",
+  "score": 0.82,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "这是数据安全事件，与此前Fireworks人事新闻并非同一动作。"
+  },
+  "eventId": "event-91813654e9c2d0350f27dbb1",
+  "occurrenceId": "occ-91813654e9c2d0350f27dbb1",
+  "clusterId": "event-91813654e9c2d0350f27dbb1",
+  "duplicateOf": null,
+  "relatedItems": []
+}

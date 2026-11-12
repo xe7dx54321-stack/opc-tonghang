@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-13-google-gemini-hydrogen-search",
+  "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+  "publishedAt": "2026-11-12T19:27:45+00:00",
+  "fact": {
+    "subject": "Google",
+    "action": "将Gemini 4 Hydrogen接入搜索",
+    "object": "AI Mode复杂问题处理",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "422686befb8ac291a24d2519c2e3bc0017bc9f38d55783302c776c4bee14ba37",
+    "originalUrl": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+    "originalPublishedAt": "2026-11-12T19:27:45+00:00",
+    "checkedAt": "2026-11-12T23:34:57.969Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "422686befb8ac291a24d2519c2e3bc0017bc9f38d55783302c776c4bee14ba37",
+      "kind": "fact",
+      "quote": "Google Search is getting better at understanding complicated questions, including those with multiple parts, highly specific requests, or confusing typos."
+    },
+    {
+      "snapshotId": "422686befb8ac291a24d2519c2e3bc0017bc9f38d55783302c776c4bee14ba37",
+      "kind": "fact",
+      "quote": "The updates are coming via the company’s newly released Gemini 4 Hydrogen model"
+    }
+  ],
+  "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-12T23:30:47.163Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "Google将新发布的Gemini 4 Hydrogen用于搜索，改善多部分问题、错字和意图理解，并计划接入多种开发者及消费产品。",
+  "investorNote": "搜索分发把快速模型的成本、延迟与回答质量直接放进高频用户场景接受检验。",
+  "displayTitle": "Google将Gemini 4 Hydrogen接入搜索，强化复杂问题处理",
+  "narrative": "Google 将新发布的 Gemini 4 Hydrogen 接入搜索，称其能够更好处理多部分问题、具体请求和难以理解的错字；模型也将进入开发者及消费产品。厂商给出的速度和评测结果仍需独立验证。比单一榜单更重要的是，搜索把模型响应质量和成本放到大规模、高频的实际流量中检验。",
+  "score": 0.84,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "这是搜索中接入新模型的具体产品动作，未找到已收录的同次发生。"
+  },
+  "eventId": "event-4f0439352fbd9cd921bd24ec",
+  "occurrenceId": "occ-4f0439352fbd9cd921bd24ec",
+  "clusterId": "event-4f0439352fbd9cd921bd24ec",
+  "duplicateOf": null,
+  "relatedItems": []
+}

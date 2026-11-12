@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-4f0439352fbd9cd921bd24ec",
+  "title": "Google将Gemini 4 Hydrogen接入搜索，强化复杂问题处理",
+  "firstSeen": "2026-11-13",
+  "editionDate": "2026-11-13",
+  "occurrences": [
+    {
+      "id": "occ-4f0439352fbd9cd921bd24ec",
+      "fact": {
+        "subject": "Google",
+        "action": "将Gemini 4 Hydrogen接入搜索",
+        "object": "AI Mode复杂问题处理",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-13",
+      "reports": [
+        {
+          "ref": "2026-11-13/2026-11-13-google-gemini-hydrogen-search",
+          "itemId": "2026-11-13-google-gemini-hydrogen-search",
+          "editionDate": "2026-11-13",
+          "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-12T19:27:45+00:00",
+          "title": "Google将Gemini 4 Hydrogen接入搜索，强化复杂问题处理"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-13"
+}

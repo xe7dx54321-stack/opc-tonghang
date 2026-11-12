@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-13-aws-sglang-trainium",
+  "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+  "publishedAt": "2026-11-12T14:03:34-08:00",
+  "fact": {
+    "subject": "Amazon Web Services",
+    "action": "公开提供SGLang-Neuron",
+    "object": "Trainium上的SGLang推理与强化学习",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Amazon Web Services",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "0865f5e5613cd69ce78a0bcd3e11bca86aae8484c4612554b969b668728a2969",
+    "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+    "originalPublishedAt": "2026-11-12T14:03:34-08:00",
+    "checkedAt": "2026-11-12T23:34:57.970Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "0865f5e5613cd69ce78a0bcd3e11bca86aae8484c4612554b969b668728a2969",
+      "kind": "fact",
+      "quote": "Today, Amazon announced that SGLang-Neuron is publicly available and can be accessed through an AWS Deep Learning Container, released by RadixArk in collaboration with Annapurna Labs."
+    }
+  ],
+  "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+  "source": "aws-machine-learning",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-12T23:30:47.163Z",
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "summary": "AWS宣布SGLang-Neuron通过深度学习容器公开提供，可在Trainium上使用SGLang服务模型并生成强化学习rollout。",
+  "investorNote": "芯片生态竞争的关键不仅是硬件价格，还包括已有推理工具链的迁移成本。",
+  "displayTitle": "AWS公开SGLang-Neuron，打通Trainium推理工作流",
+  "narrative": "AWS 宣布 SGLang-Neuron 通过深度学习容器公开提供，让开发者在 Trainium 上沿用 SGLang 接口部署模型、生成强化学习 rollout。插件把 Trainium 专用执行路径与 SGLang 核心分开，降低现有工作流迁移时的接口变化；实际性能和总成本仍需按模型、负载及部署环境实测。",
+  "score": 0.79,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "现有历史事件未发现该插件公开提供的同次动作。"
+  },
+  "eventId": "event-da925961d84d794f68b52fef",
+  "occurrenceId": "occ-da925961d84d794f68b52fef",
+  "clusterId": "event-da925961d84d794f68b52fef",
+  "duplicateOf": null,
+  "relatedItems": []
+}

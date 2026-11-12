@@ -1,0 +1,13 @@
+{
+  "snapshotId": "7f4bb9adfd8cf19bdf695544389f6f06745bdaf0b4b2d6c031f8c2013f3b8caf",
+  "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+  "publishedAt": "2026-11-12T15:02:28+00:00",
+  "publishedAtQuote": "2026-11-12T15:02:28+00:00",
+  "retrievedAt": "2026-11-12T23:34:57.969Z",
+  "method": "agent-tool",
+  "contentHash": "6c9869b0464ae32bb26765fcfd0ae308b58188b101c0cf7e9b800a87387b58c6",
+  "quotations": [
+    "At least one confirmed affected customer is online document editor and notetaker Notion, which said in a disclosure that the breach affected around 1% of its own customers.",
+    "the hackers took chat transcripts of its Notion AI customers who used the “Insights” feature"
+  ]
+}

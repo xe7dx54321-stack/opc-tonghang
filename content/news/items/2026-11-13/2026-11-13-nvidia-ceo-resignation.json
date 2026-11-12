@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-13-nvidia-ceo-resignation",
+  "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+  "publishedAt": "2026-11-12T14:10:34+00:00",
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "接受黄仁勋辞职并任命临时CEO",
+    "object": "CEO交接",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "a9e8bd90ca433093b76e20bd3da2063770df47676c30763ad70b1a6f18dd464c",
+    "originalUrl": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+    "originalPublishedAt": "2026-11-12T14:10:34+00:00",
+    "checkedAt": "2026-11-12T23:34:57.966Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "a9e8bd90ca433093b76e20bd3da2063770df47676c30763ad70b1a6f18dd464c",
+      "kind": "fact",
+      "quote": "Nvidia said its current chief financial officer and executive vice president, Colette Kress, will take over as interim CEO until the company finds a permanent successor."
+    }
+  ],
+  "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-12T23:30:47.163Z",
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "summary": "英伟达董事会接受黄仁勋辞去总裁、CEO及董事职务，任命CFO Colette Kress临时担任CEO，并寻找永久继任者。",
+  "investorNote": "管理层交接给英伟达生态投资、产品节奏与客户关系带来值得持续追踪的不确定性。",
+  "displayTitle": "英伟达确认黄仁勋辞任CEO，CFO临时接任",
+  "narrative": "英伟达董事会接受黄仁勋辞职，并任命首席财务官 Colette Kress 临时担任 CEO；公司将寻找永久继任者。公司提交的监管文件确认了董事会决定，临时任命不等于继任安排已经完成。对投资人而言，重点是观察产品路线、客户关系与资本配置在交接期间是否改变，而不是把人事变动直接推演为经营结果。",
+  "score": 0.96,
+  "eventRelation": {
+    "type": "SAME_STORY",
+    "targetRef": "2026-11-09/2026-11-09-nvidia-board-inquiry",
+    "reason": "此前为董事会启动调查，本次新增董事会接受辞职和任命临时CEO。",
+    "newInformation": "董事会接受黄仁勋辞职，任命Colette Kress临时担任CEO。"
+  },
+  "eventId": "event-8a95f60940aa6333c3d5d9c7",
+  "occurrenceId": "occ-599423a9b7089f713d72d02c",
+  "clusterId": "event-8a95f60940aa6333c3d5d9c7",
+  "duplicateOf": null,
+  "relatedItems": []
+}

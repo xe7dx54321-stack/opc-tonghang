@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-da925961d84d794f68b52fef",
+  "title": "AWS公开SGLang-Neuron，打通Trainium推理工作流",
+  "firstSeen": "2026-11-13",
+  "editionDate": "2026-11-13",
+  "occurrences": [
+    {
+      "id": "occ-da925961d84d794f68b52fef",
+      "fact": {
+        "subject": "Amazon Web Services",
+        "action": "公开提供SGLang-Neuron",
+        "object": "Trainium上的SGLang推理与强化学习",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-13",
+      "reports": [
+        {
+          "ref": "2026-11-13/2026-11-13-aws-sglang-trainium",
+          "itemId": "2026-11-13-aws-sglang-trainium",
+          "editionDate": "2026-11-13",
+          "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+          "source": "aws-machine-learning",
+          "owner": "Amazon Web Services",
+          "role": "principal",
+          "publishedAt": "2026-11-12T14:03:34-08:00",
+          "title": "AWS公开SGLang-Neuron，打通Trainium推理工作流"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-13"
+}
