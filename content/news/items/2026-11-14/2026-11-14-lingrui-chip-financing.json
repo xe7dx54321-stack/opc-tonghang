@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-14-lingrui-chip-financing",
+  "title": "灵睿智芯完成数亿元Pre-A+轮融资，产业资本密集押注",
+  "url": "https://www.leiphone.com/category/chips/yAWrh861diKVS1KU.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-13T01:52:00.000Z",
+  "fetchedAt": "2026-11-13T23:38:24.747Z",
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "summary": "雷峰网报道灵睿智芯完成数亿元 Pre-A+ 轮融资，美团战投领投，资金用于 CPU 内核和芯片研发及流片验证。",
+  "investorNote": "处理器团队的芯片验证、软件生态和客户落地比概念命名更关键。",
+  "displayTitle": "灵睿智芯完成数亿元 Pre-A+ 轮融资，研发智能体 CPU",
+  "narrative": "雷峰网报道，灵睿智芯完成数亿元 Pre-A+ 轮融资，由美团战投领投。公司称资金将用于智能体 CPU 内核和芯片研发迭代及流片验证。报道介绍 P100 的多线程及微架构设计，但这些参数是公司披露，并不能替代流片结果、独立性能测试或客户部署数据。",
+  "score": 0.75,
+  "fact": {
+    "subject": "灵睿智芯",
+    "action": "宣布Pre-A+轮融资",
+    "object": "服务器级智能体CPU研发",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "7c23df4ecee26c01477891ad98ab0d03cc4d2bdb6e946a6c6c8aac471de19060",
+    "originalUrl": "https://www.leiphone.com/category/chips/yAWrh861diKVS1KU.html",
+    "originalPublishedAt": "2026-11-13T01:52:00.000Z",
+    "checkedAt": "2026-11-13T23:38:24.746Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "7c23df4ecee26c01477891ad98ab0d03cc4d2bdb6e946a6c6c8aac471de19060",
+      "kind": "fact",
+      "quote": "本轮融资由美团战投领投"
+    },
+    {
+      "snapshotId": "7c23df4ecee26c01477891ad98ab0d03cc4d2bdb6e946a6c6c8aac471de19060",
+      "kind": "condition",
+      "quote": "本轮融资由美团战投领投"
+    },
+    {
+      "snapshotId": "7c23df4ecee26c01477891ad98ab0d03cc4d2bdb6e946a6c6c8aac471de19060",
+      "kind": "condition",
+      "quote": "本轮融资将主要用于加速智能体CPU内核和芯片产品的的研发迭代与流片验证。"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近期已收录事件相比，此材料报告不同主体或独立的新动作。"
+  },
+  "eventId": "event-f00df2651dd3b34b02dafad7",
+  "occurrenceId": "occ-f00df2651dd3b34b02dafad7",
+  "clusterId": "event-f00df2651dd3b34b02dafad7",
+  "duplicateOf": null,
+  "relatedItems": []
+}

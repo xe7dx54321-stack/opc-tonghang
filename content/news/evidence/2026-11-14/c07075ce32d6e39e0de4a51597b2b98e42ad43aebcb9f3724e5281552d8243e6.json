@@ -1,0 +1,14 @@
+{
+  "snapshotId": "c07075ce32d6e39e0de4a51597b2b98e42ad43aebcb9f3724e5281552d8243e6",
+  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "publishedAt": "2026-11-13T14:05:22.744Z",
+  "publishedAtQuote": "November 13, 2026",
+  "retrievedAt": "2026-11-13T23:38:24.737Z",
+  "method": "agent-tool",
+  "contentHash": "d6eabfce7208e3957b9566cb236e28b1a6c37c83ad2ddd276cb65a904cd1872d",
+  "quotations": [
+    "Today we release libraries",
+    "will reflect API and ABI incompatibilities with major-version bumps.",
+    "Backward-compatible feature, backend updates, model support, or API addition"
+  ]
+}

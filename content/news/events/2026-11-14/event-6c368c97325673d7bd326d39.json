@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6c368c97325673d7bd326d39",
+  "title": "Anthropic 推出制造业插件，连接工厂软件与 Claude",
+  "firstSeen": "2026-11-14",
+  "editionDate": "2026-11-14",
+  "occurrences": [
+    {
+      "id": "occ-6c368c97325673d7bd326d39",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "推出制造业工作流插件",
+        "object": "Claude for Manufacturing",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-14",
+      "reports": [
+        {
+          "ref": "2026-11-14/2026-11-14-claude-manufacturing",
+          "itemId": "2026-11-14-claude-manufacturing",
+          "editionDate": "2026-11-14",
+          "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-11-13T16:37:01.000Z",
+          "title": "Anthropic 推出制造业插件，连接工厂软件与 Claude"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-14"
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-14-chatgpt-wallet",
+  "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+  "source": "theverge",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-13T20:45:10.000Z",
+  "fetchedAt": "2026-11-13T23:38:24.745Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "OpenAI 推出 ChatGPT Wallet，允许 Dots 智能体协助购物；支付需要用户授权，实际卡号通过支付代币保护。",
+  "investorNote": "Agent 商业化开始延伸到交易，但授权体验和覆盖范围决定使用频率。",
+  "displayTitle": "OpenAI 推出 ChatGPT Wallet，让 Dots 智能体代为购物",
+  "narrative": "OpenAI 推出 ChatGPT Wallet，让 Dots 智能体协助用户购买商品。The Verge 报道，钱包使用支付代币而不向智能体直接暴露真实卡号；每笔交易仍需用户批准。支付是 Agent 从信息查询进入实际交易的重要一步，但覆盖商户、退款争议与授权步骤的摩擦，会决定它能否从演示变成高频服务。",
+  "score": 0.85,
+  "fact": {
+    "subject": "OpenAI",
+    "action": "推出智能体支付钱包",
+    "object": "ChatGPT Wallet",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "9f2f3a4faabdf35f556d1f6ccb8253a219da349d46c904bf0b12023525ecae02",
+    "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+    "originalPublishedAt": "2026-11-13T20:45:10.000Z",
+    "checkedAt": "2026-11-13T23:38:24.745Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "9f2f3a4faabdf35f556d1f6ccb8253a219da349d46c904bf0b12023525ecae02",
+      "kind": "fact",
+      "quote": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you"
+    },
+    {
+      "snapshotId": "9f2f3a4faabdf35f556d1f6ccb8253a219da349d46c904bf0b12023525ecae02",
+      "kind": "condition",
+      "quote": "for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address"
+    },
+    {
+      "snapshotId": "9f2f3a4faabdf35f556d1f6ccb8253a219da349d46c904bf0b12023525ecae02",
+      "kind": "condition",
+      "quote": "every purchase with ChatGPT Wallet requires a security check with biometric verification like Face ID or a fingerprint scan."
+    },
+    {
+      "snapshotId": "9f2f3a4faabdf35f556d1f6ccb8253a219da349d46c904bf0b12023525ecae02",
+      "kind": "condition",
+      "quote": "it substitutes your credit card details with a payment token"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近期已收录事件相比，此材料报告不同主体或独立的新动作。"
+  },
+  "eventId": "event-6415796e3eff76859ba4cec4",
+  "occurrenceId": "occ-6415796e3eff76859ba4cec4",
+  "clusterId": "event-6415796e3eff76859ba4cec4",
+  "duplicateOf": null,
+  "relatedItems": []
+}

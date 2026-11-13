@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-f0e6a042b9c4ed9f5045d4c7",
+  "title": "llama.cpp 与 ggml 发布 1.0，明确接口版本规则",
+  "firstSeen": "2026-11-14",
+  "editionDate": "2026-11-14",
+  "occurrences": [
+    {
+      "id": "occ-f0e6a042b9c4ed9f5045d4c7",
+      "fact": {
+        "subject": "ggml-org",
+        "action": "发布1.0版库并承诺版本规则",
+        "object": "llama.cpp和ggml",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-14",
+      "reports": [
+        {
+          "ref": "2026-11-14/2026-11-14-llama-cpp-v1",
+          "itemId": "2026-11-14-llama-cpp-v1",
+          "editionDate": "2026-11-14",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "hugging-face-blog",
+          "owner": "ggml-org",
+          "role": "principal",
+          "publishedAt": "2026-11-13T14:05:22.744Z",
+          "title": "llama.cpp 与 ggml 发布 1.0，明确接口版本规则"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-14"
+}

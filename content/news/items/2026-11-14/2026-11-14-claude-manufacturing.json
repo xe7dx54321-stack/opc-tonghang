@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-14-claude-manufacturing",
+  "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+  "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-13T16:37:01.000Z",
+  "fetchedAt": "2026-11-13T23:38:24.746Z",
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "summary": "Claude for Manufacturing 连接 Autodesk Fusion、Oracle NetSuite、Microsoft 365 和 Infor，支持报价、供应商比较等工作流，部分操作需人工批准。",
+  "investorNote": "制造业 Agent 的近期机会可能先落在数据与业务系统，而非直接控制机器。",
+  "displayTitle": "Anthropic 推出制造业插件，连接工厂软件与 Claude",
+  "narrative": "The Decoder 报道，Anthropic 推出 Claude for Manufacturing，通过接口连接设计、ERP 和办公软件，支持报价、供应商比较和质量报告等任务。插件面向 Team 和 Enterprise 用户，涉及备选供应商下单等操作须经人工批准，目前不直接控制实体机器。它体现了制造业 Agent 的一个现实切口：先跨系统处理可追溯的业务信息，再考虑更高风险的物理操作。",
+  "score": 0.79,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "推出制造业工作流插件",
+    "object": "Claude for Manufacturing",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d1574b3beb928fcc3c7955e1f64339b07c7abe4c40aac388d661e96354bb69dc",
+    "originalUrl": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+    "originalPublishedAt": "2026-11-13T16:37:01.000Z",
+    "checkedAt": "2026-11-13T23:38:24.745Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d1574b3beb928fcc3c7955e1f64339b07c7abe4c40aac388d661e96354bb69dc",
+      "kind": "fact",
+      "quote": "Anthropic has released Claude for Manufacturing, a plugin giving the AI direct access to industrial software to automate factory workflows."
+    },
+    {
+      "snapshotId": "d1574b3beb928fcc3c7955e1f64339b07c7abe4c40aac388d661e96354bb69dc",
+      "kind": "condition",
+      "quote": "The plugin is available to Team and Enterprise customers but doesn't control physical machines yet."
+    },
+    {
+      "snapshotId": "d1574b3beb928fcc3c7955e1f64339b07c7abe4c40aac388d661e96354bb69dc",
+      "kind": "condition",
+      "quote": "17 specific skills"
+    },
+    {
+      "snapshotId": "d1574b3beb928fcc3c7955e1f64339b07c7abe4c40aac388d661e96354bb69dc",
+      "kind": "condition",
+      "quote": "after human approval"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近期已收录事件相比，此材料报告不同主体或独立的新动作。"
+  },
+  "eventId": "event-6c368c97325673d7bd326d39",
+  "occurrenceId": "occ-6c368c97325673d7bd326d39",
+  "clusterId": "event-6c368c97325673d7bd326d39",
+  "duplicateOf": null,
+  "relatedItems": []
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-14-diamnex-financing",
+  "title": "独家丨港大孵化的半导体材料公司，融资数千万",
+  "url": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-13T09:22:00.000Z",
+  "fetchedAt": "2026-11-13T23:38:24.740Z",
+  "topic": [
+    "semiconductor"
+  ],
+  "summary": "雷峰网独家报道称，港大孵化的钻耐科思获耀途资本独家投资数千万元，资金拟用于产线、团队和研发中心。",
+  "investorNote": "材料性能与产业应用之间仍隔着可靠性、良率和成本验证。",
+  "displayTitle": "钻耐科思获数千万元融资，推进金刚石薄膜量产",
+  "narrative": "据雷峰网独家报道，香港大学孵化的钻耐科思完成数千万元新一轮融资，由耀途资本独家投资。公司研发金刚石薄膜，报道引述其深圳试生产线已制备 4 英寸及以上薄膜，并计划扩产和建设研发中心。相关尺寸和性能仍属报道中的公司进展，不等于已通过客户大规模验证；真正的商业化节点是稳定良率、封装集成和客户订单。",
+  "score": 0.77,
+  "fact": {
+    "subject": "钻耐科思 DiamNEX",
+    "action": "完成新一轮融资",
+    "object": "金刚石半导体材料研发与产线",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "bd89db0b59e27e465154dee78dcaf4d4384cb2f128bb318f7ecbe88a415c6790",
+    "originalUrl": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
+    "originalPublishedAt": "2026-11-13T09:22:00.000Z",
+    "checkedAt": "2026-11-13T23:38:24.739Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "bd89db0b59e27e465154dee78dcaf4d4384cb2f128bb318f7ecbe88a415c6790",
+      "kind": "fact",
+      "quote": "新一轮融资，由耀途资本独家投资。"
+    },
+    {
+      "snapshotId": "bd89db0b59e27e465154dee78dcaf4d4384cb2f128bb318f7ecbe88a415c6790",
+      "kind": "condition",
+      "quote": "数千万元"
+    },
+    {
+      "snapshotId": "bd89db0b59e27e465154dee78dcaf4d4384cb2f128bb318f7ecbe88a415c6790",
+      "kind": "condition",
+      "quote": "香港大学孵化"
+    },
+    {
+      "snapshotId": "bd89db0b59e27e465154dee78dcaf4d4384cb2f128bb318f7ecbe88a415c6790",
+      "kind": "condition",
+      "quote": "目前，金刚石薄膜试生产线已落地深圳，已可稳定制备4英寸及以上（最大12英寸）的金刚石薄膜"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近期已收录事件相比，此材料报告不同主体或独立的新动作。"
+  },
+  "eventId": "event-d88cd7bbd0102444d97c4eb2",
+  "occurrenceId": "occ-d88cd7bbd0102444d97c4eb2",
+  "clusterId": "event-d88cd7bbd0102444d97c4eb2",
+  "duplicateOf": null,
+  "relatedItems": []
+}

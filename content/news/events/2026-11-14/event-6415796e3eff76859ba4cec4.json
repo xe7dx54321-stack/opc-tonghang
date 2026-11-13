@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6415796e3eff76859ba4cec4",
+  "title": "OpenAI 推出 ChatGPT Wallet，让 Dots 智能体代为购物",
+  "firstSeen": "2026-11-14",
+  "editionDate": "2026-11-14",
+  "occurrences": [
+    {
+      "id": "occ-6415796e3eff76859ba4cec4",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "推出智能体支付钱包",
+        "object": "ChatGPT Wallet",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-14",
+      "reports": [
+        {
+          "ref": "2026-11-14/2026-11-14-chatgpt-wallet",
+          "itemId": "2026-11-14-chatgpt-wallet",
+          "editionDate": "2026-11-14",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-11-13T20:45:10.000Z",
+          "title": "OpenAI 推出 ChatGPT Wallet，让 Dots 智能体代为购物"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-14"
+}

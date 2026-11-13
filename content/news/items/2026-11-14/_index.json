@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-14",
+  "itemCount": 7,
+  "storyCount": 7,
+  "clusterCount": 7,
+  "files": [
+    "2026-11-14-llama-cpp-v1.json",
+    "2026-11-14-diamnex-financing.json",
+    "2026-11-14-drogue-floating-datacenter.json",
+    "2026-11-14-langchain-series-c.json",
+    "2026-11-14-chatgpt-wallet.json",
+    "2026-11-14-claude-manufacturing.json",
+    "2026-11-14-lingrui-chip-financing.json"
+  ],
+  "representatives": [
+    "2026-11-14-llama-cpp-v1",
+    "2026-11-14-diamnex-financing",
+    "2026-11-14-drogue-floating-datacenter",
+    "2026-11-14-langchain-series-c",
+    "2026-11-14-chatgpt-wallet",
+    "2026-11-14-claude-manufacturing",
+    "2026-11-14-lingrui-chip-financing"
+  ]
+}

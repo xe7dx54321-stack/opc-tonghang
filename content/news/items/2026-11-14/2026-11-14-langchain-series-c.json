@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-14-langchain-series-c",
+  "title": "AI agent startup LangChain hits $3B valuation",
+  "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-13T19:37:57.000Z",
+  "fetchedAt": "2026-11-13T23:38:24.744Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "TechCrunch 报道 LangChain 完成 3 亿美元 C 轮融资、估值 30 亿美元，CapitalG 领投，公司称 LangSmith 拥有 7000 家客户。",
+  "investorNote": "模型厂商提供原生工具后，独立 Agent 平台需要证明跨模型治理价值。",
+  "displayTitle": "LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元",
+  "narrative": "TechCrunch 报道，LangChain 以 30 亿美元估值完成 3 亿美元 C 轮融资，由 CapitalG 领投。公司称其 Agent 开发和管理产品 LangSmith 拥有 7000 家客户。融资显示投资人继续押注 Agent 工具链，但客户数并不等同于付费收入；随着模型厂商推出原生工具，独立平台能否提供跨模型的可观测性和治理，是持续验证的重点。",
+  "score": 0.83,
+  "fact": {
+    "subject": "LangChain",
+    "action": "完成C轮融资",
+    "object": "LangSmith Agent开发与管理平台",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8bfafdf72be4eb495ef215962320a17ccf393d8a1e8f0e91c7d05fa8cbd8a5f8",
+    "originalUrl": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "originalPublishedAt": "2026-11-13T19:37:57.000Z",
+    "checkedAt": "2026-11-13T23:38:24.742Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8bfafdf72be4eb495ef215962320a17ccf393d8a1e8f0e91c7d05fa8cbd8a5f8",
+      "kind": "fact",
+      "quote": "a $300 million Series C at a $3 billion valuation"
+    },
+    {
+      "snapshotId": "8bfafdf72be4eb495ef215962320a17ccf393d8a1e8f0e91c7d05fa8cbd8a5f8",
+      "kind": "condition",
+      "quote": "led by CapitalG, with participation from investors, including Singapore’s"
+    },
+    {
+      "snapshotId": "8bfafdf72be4eb495ef215962320a17ccf393d8a1e8f0e91c7d05fa8cbd8a5f8",
+      "kind": "condition",
+      "quote": "LangChain has had a head start and now claims 7,000 LangSmith customers"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近期已收录事件相比，此材料报告不同主体或独立的新动作。"
+  },
+  "eventId": "event-9816ced69c9759e3aebd4c76",
+  "occurrenceId": "occ-9816ced69c9759e3aebd4c76",
+  "clusterId": "event-9816ced69c9759e3aebd4c76",
+  "duplicateOf": null,
+  "relatedItems": []
+}

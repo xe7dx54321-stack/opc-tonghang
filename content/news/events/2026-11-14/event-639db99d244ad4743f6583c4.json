@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-639db99d244ad4743f6583c4",
+  "title": "Drogue 披露融资 2000 万美元，拟用海洋温差供电数据中心",
+  "firstSeen": "2026-11-14",
+  "editionDate": "2026-11-14",
+  "occurrences": [
+    {
+      "id": "occ-639db99d244ad4743f6583c4",
+      "fact": {
+        "subject": "Drogue",
+        "action": "披露融资及海上数据中心计划",
+        "object": "海洋温差发电和浮动数据中心",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-14",
+      "reports": [
+        {
+          "ref": "2026-11-14/2026-11-14-drogue-floating-datacenter",
+          "itemId": "2026-11-14-drogue-floating-datacenter",
+          "editionDate": "2026-11-14",
+          "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-13T20:07:24.000Z",
+          "title": "Drogue 披露融资 2000 万美元，拟用海洋温差供电数据中心"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-14"
+}

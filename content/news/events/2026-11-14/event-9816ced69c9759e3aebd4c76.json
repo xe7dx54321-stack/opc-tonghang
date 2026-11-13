@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-9816ced69c9759e3aebd4c76",
+  "title": "LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元",
+  "firstSeen": "2026-11-14",
+  "editionDate": "2026-11-14",
+  "occurrences": [
+    {
+      "id": "occ-9816ced69c9759e3aebd4c76",
+      "fact": {
+        "subject": "LangChain",
+        "action": "完成C轮融资",
+        "object": "LangSmith Agent开发与管理平台",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-14",
+      "reports": [
+        {
+          "ref": "2026-11-14/2026-11-14-langchain-series-c",
+          "itemId": "2026-11-14-langchain-series-c",
+          "editionDate": "2026-11-14",
+          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-13T19:37:57.000Z",
+          "title": "LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-14"
+}

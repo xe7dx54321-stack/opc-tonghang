@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-f00df2651dd3b34b02dafad7",
+  "title": "灵睿智芯完成数亿元 Pre-A+ 轮融资，研发智能体 CPU",
+  "firstSeen": "2026-11-14",
+  "editionDate": "2026-11-14",
+  "occurrences": [
+    {
+      "id": "occ-f00df2651dd3b34b02dafad7",
+      "fact": {
+        "subject": "灵睿智芯",
+        "action": "宣布Pre-A+轮融资",
+        "object": "服务器级智能体CPU研发",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-14",
+      "reports": [
+        {
+          "ref": "2026-11-14/2026-11-14-lingrui-chip-financing",
+          "itemId": "2026-11-14-lingrui-chip-financing",
+          "editionDate": "2026-11-14",
+          "url": "https://www.leiphone.com/category/chips/yAWrh861diKVS1KU.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-13T01:52:00.000Z",
+          "title": "灵睿智芯完成数亿元 Pre-A+ 轮融资，研发智能体 CPU"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-14"
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-14",
+  "window": {
+    "start": 1794526200000,
+    "end": 1794612600000
+  },
+  "digestHash": "db6e2650c721d09b253414aabd16d17b31fe45e0056b56ec82e3730dae32e9d6",
+  "stories": [
+    {
+      "heading": "OpenAI 推出 ChatGPT Wallet，让 Dots 智能体代为购物",
+      "itemId": "2026-11-14-chatgpt-wallet",
+      "eventId": "event-6415796e3eff76859ba4cec4",
+      "occurrenceId": "occ-6415796e3eff76859ba4cec4"
+    },
+    {
+      "heading": "LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元",
+      "itemId": "2026-11-14-langchain-series-c",
+      "eventId": "event-9816ced69c9759e3aebd4c76",
+      "occurrenceId": "occ-9816ced69c9759e3aebd4c76"
+    },
+    {
+      "heading": "llama.cpp 与 ggml 发布 1.0，明确接口版本规则",
+      "itemId": "2026-11-14-llama-cpp-v1",
+      "eventId": "event-f0e6a042b9c4ed9f5045d4c7",
+      "occurrenceId": "occ-f0e6a042b9c4ed9f5045d4c7"
+    },
+    {
+      "heading": "Anthropic 推出制造业插件，连接工厂软件与 Claude",
+      "itemId": "2026-11-14-claude-manufacturing",
+      "eventId": "event-6c368c97325673d7bd326d39",
+      "occurrenceId": "occ-6c368c97325673d7bd326d39"
+    },
+    {
+      "heading": "钻耐科思获数千万元融资，推进金刚石薄膜量产",
+      "itemId": "2026-11-14-diamnex-financing",
+      "eventId": "event-d88cd7bbd0102444d97c4eb2",
+      "occurrenceId": "occ-d88cd7bbd0102444d97c4eb2"
+    },
+    {
+      "heading": "灵睿智芯完成数亿元 Pre-A+ 轮融资，研发智能体 CPU",
+      "itemId": "2026-11-14-lingrui-chip-financing",
+      "eventId": "event-f00df2651dd3b34b02dafad7",
+      "occurrenceId": "occ-f00df2651dd3b34b02dafad7"
+    },
+    {
+      "heading": "Drogue 披露融资 2000 万美元，拟用海洋温差供电数据中心",
+      "itemId": "2026-11-14-drogue-floating-datacenter",
+      "eventId": "event-639db99d244ad4743f6583c4",
+      "occurrenceId": "occ-639db99d244ad4743f6583c4"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-14-chatgpt-wallet.json": "582d6dd4fe47f28e48686265eb7f280a6bfee1122f03e7a073fdf842894d74e3",
+    "2026-11-14-claude-manufacturing.json": "a5aa2cdda29828275c44a14f27c49fedc28044b4232358f31340a1e0b1763f39",
+    "2026-11-14-diamnex-financing.json": "c81f43c00db257c296357b9fc369328e5b3bf3fc0ce48cce808d30058be0f23f",
+    "2026-11-14-drogue-floating-datacenter.json": "49d6bc236a2e08bd9866cff26717302f347038c3098d93d6b2a0d881ddcf2a77",
+    "2026-11-14-langchain-series-c.json": "e16d21123def54e1b9d09d446302a92b7fd2b896e94770d22fbfa0092ebff4ec",
+    "2026-11-14-lingrui-chip-financing.json": "bace2a28f5d22c723d1b27c412f4e7d9ebcdc6d8b64fc5b50eca566f51c4634f",
+    "2026-11-14-llama-cpp-v1.json": "3b68e3a4ba91a4b91d5616e1c0998ccb82cf8a9c67cc3ef0ff9b159efb46edad"
+  },
+  "evidenceHashes": {
+    "7c23df4ecee26c01477891ad98ab0d03cc4d2bdb6e946a6c6c8aac471de19060.json": "c8c6737372ea84ae9141375f63a7dcee1b4bb2312ac954e5164e0d1fdbeea958",
+    "84464a8cd0b8337a57b6c1aa7e78ff8af65cd12d29a446159aff374df5ec32fe.json": "e527c7058959b92aace335e591422cc8db5e4e71b9f10cd5f5795c81c9cfb8f5",
+    "8bfafdf72be4eb495ef215962320a17ccf393d8a1e8f0e91c7d05fa8cbd8a5f8.json": "4e7d90c72cb7c7b1bcc60f0934274747a7cd531e1861f2167d93dc10623b3d21",
+    "9f2f3a4faabdf35f556d1f6ccb8253a219da349d46c904bf0b12023525ecae02.json": "011d193403e9721e28886535021ed7a686e804dea411a3c3577868d8e11ac3a0",
+    "bd89db0b59e27e465154dee78dcaf4d4384cb2f128bb318f7ecbe88a415c6790.json": "c28edb2495a6ed43c56bf03266c6d925f8daf8d5b28fb3dcffaa4c102b320c2b",
+    "c07075ce32d6e39e0de4a51597b2b98e42ad43aebcb9f3724e5281552d8243e6.json": "68b38e88f5aedf18a06b2c007ada49ca808ff134a754b18b09c7f138acf788fa",
+    "d1574b3beb928fcc3c7955e1f64339b07c7abe4c40aac388d661e96354bb69dc.json": "311883948210f16ce2a924308039bf05dacbc3540d9ffbe3af658ce930673235"
+  },
+  "eventsHashes": {
+    "event-639db99d244ad4743f6583c4.json": "1d2c0f8cd2fff1de48d1792ea38fa722a73373ced33874ba6ccca217148a4c05",
+    "event-6415796e3eff76859ba4cec4.json": "9d113b82831110a0bf02a7e8385ed705da300028cde8e539348b7d823812f031",
+    "event-6c368c97325673d7bd326d39.json": "de311424047aafa46c7b78453ad5c559f13ec7f2f62f9b90f1edf6f9313ccd74",
+    "event-9816ced69c9759e3aebd4c76.json": "b185b781717df8842829d11676d478b70c703aa2c2f1dc2e5c81094835ed6f2e",
+    "event-d88cd7bbd0102444d97c4eb2.json": "539745e58c5adcd324b55377caf49e8097e2cd3d73d486bc0a3f61ef527a4a97",
+    "event-f00df2651dd3b34b02dafad7.json": "3f5eeb5590149ad85661d71820f8131852bcc3625bde99252282eb3faca0dc11",
+    "event-f0e6a042b9c4ed9f5045d4c7.json": "143b1a0e939732f4bc3a00adae842854a73816a91a2a1868817cfeda9d65526f"
+  }
+}

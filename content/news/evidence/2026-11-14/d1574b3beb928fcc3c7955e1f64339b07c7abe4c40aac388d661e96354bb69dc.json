@@ -1,0 +1,15 @@
+{
+  "snapshotId": "d1574b3beb928fcc3c7955e1f64339b07c7abe4c40aac388d661e96354bb69dc",
+  "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+  "publishedAt": "2026-11-13T16:37:01.000Z",
+  "publishedAtQuote": "Nov 13, 2026",
+  "retrievedAt": "2026-11-13T23:38:24.745Z",
+  "method": "agent-tool",
+  "contentHash": "f3e51d21e328c31829170e0e4e29d454736abd054bb09751b90484203bab916e",
+  "quotations": [
+    "Anthropic has released Claude for Manufacturing, a plugin giving the AI direct access to industrial software to automate factory workflows.",
+    "The plugin is available to Team and Enterprise customers but doesn't control physical machines yet.",
+    "17 specific skills",
+    "after human approval"
+  ]
+}

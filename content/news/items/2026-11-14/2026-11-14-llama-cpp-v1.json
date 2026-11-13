@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-14-llama-cpp-v1",
+  "title": "llama.cpp v1.0.0: A stronger foundation for the local AI ecosystem",
+  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "source": "hugging-face-blog",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-13T14:05:22.744Z",
+  "fetchedAt": "2026-11-13T23:38:24.739Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "ggml-org 发布 llama.cpp 与 ggml 1.0 库，公布公共接口的语义版本规则，破坏性变更需升级主版本。",
+  "investorNote": "本地推理基础组件进入稳定接口竞争，能否减少下游维护成本值得关注。",
+  "displayTitle": "llama.cpp 与 ggml 发布 1.0，明确接口版本规则",
+  "narrative": "ggml-org 发布 llama.cpp 和 ggml 1.0 库，并明确公共 C API 的版本规则：破坏兼容的变更升级主版本，兼容的新功能或后端更新升级次版本。对依赖本地推理的应用而言，关键不是模型突然变得更强，而是接口变化更容易预期；实际跨版本兼容和平台性能仍需由集成方验证。",
+  "score": 0.83,
+  "fact": {
+    "subject": "ggml-org",
+    "action": "发布1.0版库并承诺版本规则",
+    "object": "llama.cpp和ggml",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "ggml-org",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "c07075ce32d6e39e0de4a51597b2b98e42ad43aebcb9f3724e5281552d8243e6",
+    "originalUrl": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "originalPublishedAt": "2026-11-13T14:05:22.744Z",
+    "checkedAt": "2026-11-13T23:38:24.737Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "c07075ce32d6e39e0de4a51597b2b98e42ad43aebcb9f3724e5281552d8243e6",
+      "kind": "fact",
+      "quote": "Today we release libraries"
+    },
+    {
+      "snapshotId": "c07075ce32d6e39e0de4a51597b2b98e42ad43aebcb9f3724e5281552d8243e6",
+      "kind": "condition",
+      "quote": "will reflect API and ABI incompatibilities with major-version bumps."
+    },
+    {
+      "snapshotId": "c07075ce32d6e39e0de4a51597b2b98e42ad43aebcb9f3724e5281552d8243e6",
+      "kind": "condition",
+      "quote": "Backward-compatible feature, backend updates, model support, or API addition"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近期已收录事件相比，此材料报告不同主体或独立的新动作。"
+  },
+  "eventId": "event-f0e6a042b9c4ed9f5045d4c7",
+  "occurrenceId": "occ-f0e6a042b9c4ed9f5045d4c7",
+  "clusterId": "event-f0e6a042b9c4ed9f5045d4c7",
+  "duplicateOf": null,
+  "relatedItems": []
+}

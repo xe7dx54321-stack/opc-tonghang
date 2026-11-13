@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-14",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-ae778f6e61c794f41df3",
+      "title": "OpenAI 推出 ChatGPT Wallet",
+      "summary": "OpenAI 推出智能体购物钱包，首批面向符合条件的美国用户，每笔购买需要用户确认。",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "theverge.com",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+        },
+        {
+          "name": "the-decoder.com",
+          "url": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet"
+        }
+      ],
+      "memberUrls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+        "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-d88cd7bbd0102444d97c4eb2",
+  "title": "钻耐科思获数千万元融资，推进金刚石薄膜量产",
+  "firstSeen": "2026-11-14",
+  "editionDate": "2026-11-14",
+  "occurrences": [
+    {
+      "id": "occ-d88cd7bbd0102444d97c4eb2",
+      "fact": {
+        "subject": "钻耐科思 DiamNEX",
+        "action": "完成新一轮融资",
+        "object": "金刚石半导体材料研发与产线",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-14",
+      "reports": [
+        {
+          "ref": "2026-11-14/2026-11-14-diamnex-financing",
+          "itemId": "2026-11-14-diamnex-financing",
+          "editionDate": "2026-11-14",
+          "url": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-13T09:22:00.000Z",
+          "title": "钻耐科思获数千万元融资，推进金刚石薄膜量产"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-14"
+}
