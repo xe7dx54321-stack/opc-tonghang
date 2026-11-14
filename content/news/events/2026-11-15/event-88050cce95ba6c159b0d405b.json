@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-88050cce95ba6c159b0d405b",
+  "title": "百度披露词元所首日数据：超百家供应商申请入驻",
+  "firstSeen": "2026-11-15",
+  "editionDate": "2026-11-15",
+  "occurrences": [
+    {
+      "id": "occ-88050cce95ba6c159b0d405b",
+      "fact": {
+        "subject": "百度",
+        "action": "披露词元所首日申请与接入数据",
+        "object": "百度词元所",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-15",
+      "reports": [
+        {
+          "ref": "2026-11-15/2026-11-15-baidu-token-exchange-first-day",
+          "itemId": "2026-11-15-baidu-token-exchange-first-day",
+          "editionDate": "2026-11-15",
+          "url": "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-14T13:45:00+08:00",
+          "title": "百度披露词元所首日数据：超百家供应商申请入驻"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-15"
+}

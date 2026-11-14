@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-15-openai-robotics-clarification",
+  "title": "OpenAI reassigns robotics researchers to other teams",
+  "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-14T11:40:51Z",
+  "fetchedAt": "2026-11-14T23:34:40.487Z",
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "summary": "THE DECODER在11月14日更正此前表述，称OpenAI澄清机器人工作继续，研究人员与应用及硬件团队分别转入其他组织。",
+  "investorNote": "组织重组不能直接推导为退出机器人，通用模型能否经济可靠地控制实物仍待检验。",
+  "displayTitle": "OpenAI 澄清机器人团队调整：并非停止机器人工作",
+  "narrative": "THE DECODER 11月14日更正了机器人团队“再次解散”的表述：OpenAI 澄清团队经过重组，机器人工作仍在继续。报道说机器人研究人员进入研究团队，应用机器人与硬件团队并入应用组织。这是对此前报道的澄清，不应解读为机器人业务已经关闭，也不能据此认定其技术路线必然成功。投资判断更应关注通用模型在真实机器人上的可靠性、延迟和成本。",
+  "score": 0.72,
+  "fact": {
+    "subject": "OpenAI",
+    "action": "澄清机器人团队重组后工作继续",
+    "object": "机器人研究与应用硬件团队",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "THE DECODER",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "50631c696abc9fc95953b9d9c0f9892c68e078f4ec11d699bc00929d35873dd2",
+    "originalUrl": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+    "originalPublishedAt": "2026-11-14T11:40:51Z",
+    "checkedAt": "2026-11-14T23:34:40.487Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "50631c696abc9fc95953b9d9c0f9892c68e078f4ec11d699bc00929d35873dd2",
+      "kind": "fact",
+      "quote": "OpenAI has since clarified that it reorganized the team to work more closely with research and product and that robotics work continues."
+    },
+    {
+      "snapshotId": "50631c696abc9fc95953b9d9c0f9892c68e078f4ec11d699bc00929d35873dd2",
+      "kind": "condition",
+      "quote": "Robotics researchers are moving to the main research team under Chief Research Officer Mark Chen, while the applied robotics and hardware teams join Greg Brockman's Applied organization."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "在近两周已收录事件中未找到可确认的同次发生；本条记录所述具体新增动作。"
+  },
+  "eventId": "event-35b39adbe4cba0d02f690718",
+  "occurrenceId": "occ-35b39adbe4cba0d02f690718",
+  "clusterId": "event-35b39adbe4cba0d02f690718",
+  "duplicateOf": null,
+  "relatedItems": []
+}

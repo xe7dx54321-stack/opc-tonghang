@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-15",
+  "window": {
+    "start": 1794612600000,
+    "end": 1794699000000
+  },
+  "digestHash": "79138752c77b1dcc0567b632a803686ab38c8186a8cade3e695bce05f208e7f7",
+  "stories": [
+    {
+      "heading": "Tesla 向部分客户开放 Cybercab 个人预订，限定区域并收取月费",
+      "itemId": "2026-11-15-tesla-cybercab-personal-orders",
+      "eventId": "event-badc1b41a9863f6094954628",
+      "occurrenceId": "occ-badc1b41a9863f6094954628"
+    },
+    {
+      "heading": "OpenAI 澄清机器人团队调整：并非停止机器人工作",
+      "itemId": "2026-11-15-openai-robotics-clarification",
+      "eventId": "event-35b39adbe4cba0d02f690718",
+      "occurrenceId": "occ-35b39adbe4cba0d02f690718"
+    },
+    {
+      "heading": "百度披露词元所首日数据：超百家供应商申请入驻",
+      "itemId": "2026-11-15-baidu-token-exchange-first-day",
+      "eventId": "event-88050cce95ba6c159b0d405b",
+      "occurrenceId": "occ-88050cce95ba6c159b0d405b"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-15-baidu-token-exchange-first-day.json": "85d9356dd298740c7456312284b1a5a01e5381fefb070e2f59d238c8407a94ac",
+    "2026-11-15-openai-robotics-clarification.json": "c7a86e58f0adf3c17134a6b3721359f8ef0e499a58d7b8dfe15c4de39c48278a",
+    "2026-11-15-tesla-cybercab-personal-orders.json": "8a0d09563d612cecb0e404bb66f1f8eee890b215947127e8391d86c8a87f4085"
+  },
+  "evidenceHashes": {
+    "50631c696abc9fc95953b9d9c0f9892c68e078f4ec11d699bc00929d35873dd2.json": "467b4d7533e4c9764b298430613d8e2fcfb39e40014695126a2442046a700aac",
+    "8aab7dea713590b07b9d94c9fe7b49d2a4ba19064ec6551f2be3f35f9910c7ec.json": "17ef0d6ab92e79a3f4a19567a5f05d314f14841bbc10c3c9a6e80bd08a2cdf0d",
+    "93cecd008256dc6d1d6fd082fde18683718538debc40319361f8c73b846a0e8a.json": "0a063cc7d438523e430295b730a8b6828f88cebb75b6f4c707cc44fd3d305a92"
+  },
+  "eventsHashes": {
+    "event-35b39adbe4cba0d02f690718.json": "e9290b1292fcc3498a15f7a93a28cc18cd3bdc26185f4ebbf0d44cd861cc5fdd",
+    "event-88050cce95ba6c159b0d405b.json": "e63a83412f67400c314a6fca26a8e6269e5738a96c6acc09b8e7291bd651c553",
+    "event-badc1b41a9863f6094954628.json": "142027411e6bfbbd625e38bff4879a8685a7bc8f9fc2f1de5aaffdba40300463"
+  }
+}

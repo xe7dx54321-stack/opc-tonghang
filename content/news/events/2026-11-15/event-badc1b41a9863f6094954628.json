@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-badc1b41a9863f6094954628",
+  "title": "Tesla 向部分客户开放 Cybercab 个人预订，限定区域并收取月费",
+  "firstSeen": "2026-11-15",
+  "editionDate": "2026-11-15",
+  "occurrences": [
+    {
+      "id": "occ-badc1b41a9863f6094954628",
+      "fact": {
+        "subject": "Tesla",
+        "action": "向部分客户开放个人使用预订",
+        "object": "Cybercab",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-15",
+      "reports": [
+        {
+          "ref": "2026-11-15/2026-11-15-tesla-cybercab-personal-orders",
+          "itemId": "2026-11-15-tesla-cybercab-personal-orders",
+          "editionDate": "2026-11-15",
+          "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-14T20:04:44Z",
+          "title": "Tesla 向部分客户开放 Cybercab 个人预订，限定区域并收取月费"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-15"
+}

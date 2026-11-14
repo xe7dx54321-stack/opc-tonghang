@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-15-baidu-token-exchange-first-day",
+  "title": "百度词元所发布首日：供应商暴增超100家，客户新增超1000家",
+  "url": "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-14T13:45:00+08:00",
+  "fetchedAt": "2026-11-14T23:34:40.457Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "雷峰网11月14日援引百度称，词元所发布首日新增超过100家供应商申请入驻、超过1000家客户接入；平台于11月12日发布。",
+  "investorNote": "申请和接入数量不等于付费留存，模型交易平台仍需验证真实需求与服务质量。",
+  "displayTitle": "百度披露词元所首日数据：超百家供应商申请入驻",
+  "narrative": "雷峰网11月14日援引百度称，词元所发布首日新增超过100家供应商申请入驻、超过1000家客户接入。该平台在11月12日发布，主打模型真实性核验、能力测试和供应商信用评级。申请入驻并不等于最终上架，客户接入也不能直接等同于付费或持续使用；对投资人来说，后续更值得观察的是调用留存、价格与真实可用性，而非只看首日增长数字。",
+  "score": 0.68,
+  "fact": {
+    "subject": "百度",
+    "action": "披露词元所首日申请与接入数据",
+    "object": "百度词元所",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8aab7dea713590b07b9d94c9fe7b49d2a4ba19064ec6551f2be3f35f9910c7ec",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html",
+    "originalPublishedAt": "2026-11-14T13:45:00+08:00",
+    "checkedAt": "2026-11-14T23:34:40.457Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8aab7dea713590b07b9d94c9fe7b49d2a4ba19064ec6551f2be3f35f9910c7ec",
+      "kind": "fact",
+      "quote": "11月14日，从百度获悉，百度词元所发布首日，新增申请入驻的供应商已超过100家，新增超过1000家客户接入。"
+    },
+    {
+      "snapshotId": "8aab7dea713590b07b9d94c9fe7b49d2a4ba19064ec6551f2be3f35f9910c7ec",
+      "kind": "condition",
+      "quote": "词元所在11月12日举行的百度世界2026上正式发布，百度创始人李彦宏将其称为“大模型的交易所”。"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "在近两周已收录事件中未找到可确认的同次发生；本条记录所述具体新增动作。"
+  },
+  "eventId": "event-88050cce95ba6c159b0d405b",
+  "occurrenceId": "occ-88050cce95ba6c159b0d405b",
+  "clusterId": "event-88050cce95ba6c159b0d405b",
+  "duplicateOf": null,
+  "relatedItems": []
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-35b39adbe4cba0d02f690718",
+  "title": "OpenAI 澄清机器人团队调整：并非停止机器人工作",
+  "firstSeen": "2026-11-15",
+  "editionDate": "2026-11-15",
+  "occurrences": [
+    {
+      "id": "occ-35b39adbe4cba0d02f690718",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "澄清机器人团队重组后工作继续",
+        "object": "机器人研究与应用硬件团队",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-15",
+      "reports": [
+        {
+          "ref": "2026-11-15/2026-11-15-openai-robotics-clarification",
+          "itemId": "2026-11-15-openai-robotics-clarification",
+          "editionDate": "2026-11-15",
+          "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+          "source": "the-decoder",
+          "owner": "THE DECODER",
+          "role": "observer",
+          "publishedAt": "2026-11-14T11:40:51Z",
+          "title": "OpenAI 澄清机器人团队调整：并非停止机器人工作"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-15"
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-15-tesla-cybercab-personal-orders",
+  "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+  "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-14T20:04:44Z",
+  "fetchedAt": "2026-11-14T23:34:40.422Z",
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "summary": "Tesla 向部分客户开放 Cybercab 个人使用预订，报道指出交付及运行范围受限，车辆售价29990美元，运营月费299美元。",
+  "investorNote": "自动驾驶商业化的关键不只是售价，还取决于区域审批、持续服务成本与实际交付。",
+  "displayTitle": "Tesla 向部分客户开放 Cybercab 个人预订，限定区域并收取月费",
+  "narrative": "TechCrunch 报道，Tesla 向部分客户开放 Cybercab 个人使用预订，订单页面所列售价为29990美元，另需每月支付299美元；买家须在指定得州城市交付，车辆只在限定区域运行，预计交付时间为2026年12月。马斯克称月费过高并提到未来需依赖监管批准扩大范围，但这不是已生效的降价或全国开放。对自动驾驶商业化而言，车辆售价之外的持续服务成本、地理围栏和实际交付，才是判断可复制性的关键。",
+  "score": 0.79,
+  "fact": {
+    "subject": "Tesla",
+    "action": "向部分客户开放个人使用预订",
+    "object": "Cybercab",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "93cecd008256dc6d1d6fd082fde18683718538debc40319361f8c73b846a0e8a",
+    "originalUrl": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+    "originalPublishedAt": "2026-11-14T20:04:44Z",
+    "checkedAt": "2026-11-14T23:34:40.422Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "93cecd008256dc6d1d6fd082fde18683718538debc40319361f8c73b846a0e8a",
+      "kind": "fact",
+      "quote": "that “select customers” now have the opportunity to pre-order the company’s autonomous, golden Cybercab “for personal use.”"
+    },
+    {
+      "snapshotId": "93cecd008256dc6d1d6fd082fde18683718538debc40319361f8c73b846a0e8a",
+      "kind": "condition",
+      "quote": "that buyers “must accept delivery” in one of a handful of Texas cities and that the Cybercab will only operate in certain geofenced areas. The estimated delivery date is December 2026."
+    },
+    {
+      "snapshotId": "93cecd008256dc6d1d6fd082fde18683718538debc40319361f8c73b846a0e8a",
+      "kind": "condition",
+      "quote": "In addition to the $29,990 price tag, Cybercab owners will need to pay $299 per month to operate their vehicle."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "在近两周已收录事件中未找到可确认的同次发生；本条记录所述具体新增动作。"
+  },
+  "eventId": "event-badc1b41a9863f6094954628",
+  "occurrenceId": "occ-badc1b41a9863f6094954628",
+  "clusterId": "event-badc1b41a9863f6094954628",
+  "duplicateOf": null,
+  "relatedItems": []
+}

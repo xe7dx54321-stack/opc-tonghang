@@ -1,0 +1,13 @@
+{
+  "snapshotId": "50631c696abc9fc95953b9d9c0f9892c68e078f4ec11d699bc00929d35873dd2",
+  "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+  "publishedAt": "2026-11-14T11:40:51Z",
+  "publishedAtQuote": "2026-11-14T11:40:51+00:00",
+  "retrievedAt": "2026-11-14T23:34:40.487Z",
+  "method": "agent-tool",
+  "contentHash": "093fb17085bc2e07f66ac93f3f0c9287246394b6e838768e7ac51e76d41d9058",
+  "quotations": [
+    "OpenAI has since clarified that it reorganized the team to work more closely with research and product and that robotics work continues.",
+    "Robotics researchers are moving to the main research team under Chief Research Officer Mark Chen, while the applied robotics and hardware teams join Greg Brockman's Applied organization."
+  ]
+}

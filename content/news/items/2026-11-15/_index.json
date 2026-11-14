@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-15",
+  "itemCount": 3,
+  "storyCount": 3,
+  "clusterCount": 3,
+  "files": [
+    "2026-11-15-tesla-cybercab-personal-orders.json",
+    "2026-11-15-baidu-token-exchange-first-day.json",
+    "2026-11-15-openai-robotics-clarification.json"
+  ],
+  "representatives": [
+    "2026-11-15-tesla-cybercab-personal-orders",
+    "2026-11-15-baidu-token-exchange-first-day",
+    "2026-11-15-openai-robotics-clarification"
+  ]
+}
