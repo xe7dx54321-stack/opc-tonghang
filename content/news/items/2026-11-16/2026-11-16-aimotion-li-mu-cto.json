@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-16-aimotion-li-mu-cto",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074549&idx=1&sn=5af6f646bcad4a81a50fe188d15649b2",
+  "publishedAt": "2026-11-15T10:29:00+08:00",
+  "fact": {
+    "subject": "李沐",
+    "action": "出任联合创始人兼CTO",
+    "object": "Aimotion",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "机器之心",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "58233f2ac0b39fcd907767c3ec6767dea9894b044a5c0314754ca82840b82112",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074549&idx=1&sn=5af6f646bcad4a81a50fe188d15649b2",
+    "originalPublishedAt": "2026-11-15T10:29:00+08:00",
+    "checkedAt": "2026-11-15T23:33:27.083Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "58233f2ac0b39fcd907767c3ec6767dea9894b044a5c0314754ca82840b82112",
+      "kind": "fact",
+      "quote": "李沐正式出任 Aimotion 联合创始人兼 CTO，主导下一代产业级 AI 技术体系建设 。同时他继续担任 Boson AI 联合创始人兼 CTO。"
+    }
+  ],
+  "title": "刚刚，李沐加入Aimotion！出任联创兼CTO",
+  "displayTitle": "李沐出任 Aimotion 联创兼 CTO，继续担任 Boson AI 职务",
+  "source": "wechat-jiqizhixin",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-15T11:59:31.551Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "李沐",
+    "Aimotion",
+    "Boson AI"
+  ],
+  "summary": "机器之心报道，李沐出任 Aimotion 联合创始人兼 CTO，负责产业级 AI 技术体系建设，同时继续担任 Boson AI 联合创始人兼 CTO。",
+  "investorNote": "产业世界模型从人才配置走向客户交付，仍需观察具体产品、客户和可重复部署的证据。",
+  "narrative": "机器之心报道，李沐出任 Aimotion 联合创始人兼 CTO，负责产业级 AI 技术体系建设，同时继续担任 Boson AI 联合创始人兼 CTO。报道将双方方向描述为产业级世界模型和商业 AI Agent；这是一项人才与组织安排，而不是已经证明产品效果或商业收入的发布。对投资人来说，下一步更值得看两家团队如何分工、面向什么具体客户，以及模型能否在真实业务中稳定部署。",
+  "score": 0.78,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件及本期其他候选不属于可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-1d6d2c8939873fb0a718db15",
+  "occurrenceId": "occ-1d6d2c8939873fb0a718db15",
+  "clusterId": "event-1d6d2c8939873fb0a718db15",
+  "duplicateOf": null,
+  "relatedItems": []
+}

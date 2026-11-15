@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-1d6d2c8939873fb0a718db15",
+  "title": "李沐出任 Aimotion 联创兼 CTO，继续担任 Boson AI 职务",
+  "firstSeen": "2026-11-16",
+  "editionDate": "2026-11-16",
+  "occurrences": [
+    {
+      "id": "occ-1d6d2c8939873fb0a718db15",
+      "fact": {
+        "subject": "李沐",
+        "action": "出任联合创始人兼CTO",
+        "object": "Aimotion",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-16",
+      "reports": [
+        {
+          "ref": "2026-11-16/2026-11-16-aimotion-li-mu-cto",
+          "itemId": "2026-11-16-aimotion-li-mu-cto",
+          "editionDate": "2026-11-16",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074549&idx=1&sn=5af6f646bcad4a81a50fe188d15649b2",
+          "source": "wechat-jiqizhixin",
+          "owner": "机器之心",
+          "role": "observer",
+          "publishedAt": "2026-11-15T10:29:00+08:00",
+          "title": "李沐出任 Aimotion 联创兼 CTO，继续担任 Boson AI 职务"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-16"
+}

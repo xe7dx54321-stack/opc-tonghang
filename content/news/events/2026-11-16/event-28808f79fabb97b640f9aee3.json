@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-28808f79fabb97b640f9aee3",
+  "title": "独立实验让模型玩侦探游戏书：重试改善表现，但长期归因仍难",
+  "firstSeen": "2026-11-16",
+  "editionDate": "2026-11-16",
+  "occurrences": [
+    {
+      "id": "occ-28808f79fabb97b640f9aee3",
+      "fact": {
+        "subject": "Waldek Mastykarz",
+        "action": "发表独立游戏书实验",
+        "object": "大语言模型多轮尝试与长期决策",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-16",
+      "reports": [
+        {
+          "ref": "2026-11-16/2026-11-16-gamebook-agent-evaluation",
+          "itemId": "2026-11-16-gamebook-agent-evaluation",
+          "editionDate": "2026-11-16",
+          "url": "https://blog.mastykarz.nl/llms-play-detective-gamebook/",
+          "source": "hacker-news",
+          "owner": "Waldek Mastykarz",
+          "role": "principal",
+          "publishedAt": "2026-11-15T14:32:59Z",
+          "title": "独立实验让模型玩侦探游戏书：重试改善表现，但长期归因仍难"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-16"
+}

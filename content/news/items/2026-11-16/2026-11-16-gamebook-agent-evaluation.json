@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-16-gamebook-agent-evaluation",
+  "url": "https://blog.mastykarz.nl/llms-play-detective-gamebook/",
+  "publishedAt": "2026-11-15T14:32:59Z",
+  "fact": {
+    "subject": "Waldek Mastykarz",
+    "action": "发表独立游戏书实验",
+    "object": "大语言模型多轮尝试与长期决策",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Waldek Mastykarz",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8ffca831a23a2e2816316ded451b0bdbf6653d56c1a3e4f7f7c0778016581cbf",
+    "originalUrl": "https://blog.mastykarz.nl/llms-play-detective-gamebook/",
+    "originalPublishedAt": "2026-11-15T14:32:59Z",
+    "checkedAt": "2026-11-15T23:34:33.210Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8ffca831a23a2e2816316ded451b0bdbf6653d56c1a3e4f7f7c0778016581cbf",
+      "kind": "fact",
+      "quote": "I spent a week letting LLMs play this book and its 1988 sequel through the GitHub Copilot SDK : 95 runs and 646 games."
+    },
+    {
+      "snapshotId": "8ffca831a23a2e2816316ded451b0bdbf6653d56c1a3e4f7f7c0778016581cbf",
+      "kind": "condition",
+      "quote": "All 95 first attempts lost, across every model and setting I tried."
+    }
+  ],
+  "title": "I let LLMs play a 1988 detective gamebook 646 times",
+  "displayTitle": "独立实验让模型玩侦探游戏书：重试改善表现，但长期归因仍难",
+  "source": "hacker-news",
+  "sourceTier": 1,
+  "fetchedAt": "2026-11-15T23:30:07.260Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Waldek Mastykarz",
+    "GitHub Copilot SDK"
+  ],
+  "summary": "开发者通过 GitHub Copilot SDK 进行 95 组运行、646 局游戏书实验，所有首次尝试均失败；部分模型在保留前序记录后通过重试改善表现。",
+  "investorNote": "实验提示智能体评估要衡量跨步骤归因与重试成本，但单一游戏不能代表真实业务成功率。",
+  "narrative": "开发者 Waldek Mastykarz 发表游戏书实验：通过 GitHub Copilot SDK 进行了 95 组运行、共 646 局游戏，所有首次尝试均告失败；允许模型查看此前过程并重试后，一些较强模型取得改善。作者观察到，较早的合理选择可能在许多步骤之后造成失败，模型并不总能追溯原因。这是单人、特定文本游戏的实验，不是对生产系统的通用排名，却提醒 Agent 产品不能只测单步正确率，还应测长期归因、重试次数与成本。",
+  "score": 0.66,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件及本期其他候选不属于可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-28808f79fabb97b640f9aee3",
+  "occurrenceId": "occ-28808f79fabb97b640f9aee3",
+  "clusterId": "event-28808f79fabb97b640f9aee3",
+  "duplicateOf": null,
+  "relatedItems": []
+}

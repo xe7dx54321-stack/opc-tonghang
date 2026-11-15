@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-16-tensward-gpu-inference-census",
+  "url": "https://tensward.com/blog/gpu-busy-doing-what",
+  "publishedAt": "2026-11-15T00:00:00Z",
+  "fact": {
+    "subject": "Tensward",
+    "action": "发表推理性能剖析",
+    "object": "H100 GPU占用率与推理瓶颈",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tensward",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "c103735161cdcf4567b82450c8a72169952e891865c28eeb5dc8752da3dbdfaf",
+    "originalUrl": "https://tensward.com/blog/gpu-busy-doing-what",
+    "originalPublishedAt": "2026-11-15T00:00:00Z",
+    "checkedAt": "2026-11-15T23:34:24.345Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "c103735161cdcf4567b82450c8a72169952e891865c28eeb5dc8752da3dbdfaf",
+      "kind": "fact",
+      "quote": "We put an LLM server on an H100, pointed sixteen clients at it, and opened nvidia-smi . It said 35% busy."
+    },
+    {
+      "snapshotId": "c103735161cdcf4567b82450c8a72169952e891865c28eeb5dc8752da3dbdfaf",
+      "kind": "condition",
+      "quote": "NVIDIA documents it as the share of each sampling period in which at least one kernel was running."
+    }
+  ],
+  "title": "Your GPU says 35% busy. Busy doing what?",
+  "displayTitle": "Tensward 剖析 H100 推理：GPU 占用率无法解释等待原因",
+  "source": "hacker-news",
+  "sourceTier": 1,
+  "fetchedAt": "2026-11-15T23:30:27.887Z",
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "Tensward",
+    "Nvidia H100",
+    "llama.cpp"
+  ],
+  "summary": "Tensward 在一项 H100 推理测试中，用自建计数工具分析内核和内存拷贝；作者指出 nvidia-smi 的忙碌比例本身无法解释等待原因。",
+  "investorNote": "推理成本优化需要定位数据搬运与服务实现的具体瓶颈，单看显卡利用率可能误导采购和扩容。",
+  "narrative": "Tensward 披露一次 H100 推理排查：16 个客户端请求下，nvidia-smi 显示 GPU 忙碌比例为 35%。作者解释，这个数值只表示采样期间至少有一个 kernel 在运行的时间占比，并不能直接说明空闲原因或芯片运行时的负载程度。团队进一步统计内核与内存拷贝，发现该特定配置存在显著的状态拷贝。结果来自工具开发者自己的单项实验，不能外推为所有推理服务的性能结论，但说明扩容决策应先拆解实际瓶颈。",
+  "score": 0.69,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件及本期其他候选不属于可确认的同次发生或直接后续。"
+  },
+  "eventId": "event-fe831a76f36e0f55806a6ecd",
+  "occurrenceId": "occ-fe831a76f36e0f55806a6ecd",
+  "clusterId": "event-fe831a76f36e0f55806a6ecd",
+  "duplicateOf": null,
+  "relatedItems": []
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-16",
+  "window": {
+    "start": 1794699000000,
+    "end": 1794785400000
+  },
+  "digestHash": "96c5d77f1af87bec55b16d9acd4c0e9ca8e4ff748d34f17b1ae2df0ddd8726f4",
+  "stories": [
+    {
+      "heading": "李沐出任 Aimotion 联创兼 CTO，继续担任 Boson AI 职务",
+      "itemId": "2026-11-16-aimotion-li-mu-cto",
+      "eventId": "event-1d6d2c8939873fb0a718db15",
+      "occurrenceId": "occ-1d6d2c8939873fb0a718db15"
+    },
+    {
+      "heading": "Tensward 剖析 H100 推理：GPU 占用率无法解释等待原因",
+      "itemId": "2026-11-16-tensward-gpu-inference-census",
+      "eventId": "event-fe831a76f36e0f55806a6ecd",
+      "occurrenceId": "occ-fe831a76f36e0f55806a6ecd"
+    },
+    {
+      "heading": "独立实验让模型玩侦探游戏书：重试改善表现，但长期归因仍难",
+      "itemId": "2026-11-16-gamebook-agent-evaluation",
+      "eventId": "event-28808f79fabb97b640f9aee3",
+      "occurrenceId": "occ-28808f79fabb97b640f9aee3"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-16-aimotion-li-mu-cto.json": "978947ce3aeb66162dd400e45ffeefcf6e1262279ece6c2db2fd1a662f4e8866",
+    "2026-11-16-gamebook-agent-evaluation.json": "a73a281b4f0b58983da9c95ca6116887a5fd21d6aafee32ffa36730cbeae7b71",
+    "2026-11-16-tensward-gpu-inference-census.json": "6007cf3a35e9ba474cf8bbd73bc801bf7b46013d2245eb4ddfbe756a33bdc7fd"
+  },
+  "evidenceHashes": {
+    "58233f2ac0b39fcd907767c3ec6767dea9894b044a5c0314754ca82840b82112.json": "7b8d7a2b83d68525d56cff139468d0e9d126a7f49229ab011f6180a6c886b120",
+    "8ffca831a23a2e2816316ded451b0bdbf6653d56c1a3e4f7f7c0778016581cbf.json": "0e34eee402051525c454c8818449c4306624e0bf16f44331d12aa1217133f4de",
+    "c103735161cdcf4567b82450c8a72169952e891865c28eeb5dc8752da3dbdfaf.json": "7e50e02cbe3fa64a730c3aae4351a42183565d07855da7284580a621a459db42"
+  },
+  "eventsHashes": {
+    "event-1d6d2c8939873fb0a718db15.json": "dc6c92f35527f9372056f5795b859aac4aac7745fc00660a43453de1f5b2ae43",
+    "event-28808f79fabb97b640f9aee3.json": "b8a2fc1a7ca0d4512967c5a22034669d25dead833b85538807714dcb3ea9f6d3",
+    "event-fe831a76f36e0f55806a6ecd.json": "e27da74cd4ddb2eae7b03f0279b11070cf07ed45315a96f5820bf197885c4cb9"
+  }
+}

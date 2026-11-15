@@ -1,0 +1,13 @@
+{
+  "snapshotId": "8ffca831a23a2e2816316ded451b0bdbf6653d56c1a3e4f7f7c0778016581cbf",
+  "url": "https://blog.mastykarz.nl/llms-play-detective-gamebook/",
+  "publishedAt": "2026-11-15T14:32:59Z",
+  "publishedAtQuote": "2026-11-15T14:32:59.000Z",
+  "retrievedAt": "2026-11-15T23:34:33.210Z",
+  "method": "agent-tool",
+  "contentHash": "77a29c3a8ac9a3ea5f558d0e03d6eb6fb5414681e3bc658fc47d85d89306a1df",
+  "quotations": [
+    "I spent a week letting LLMs play this book and its 1988 sequel through the GitHub Copilot SDK : 95 runs and 646 games.",
+    "All 95 first attempts lost, across every model and setting I tried."
+  ]
+}

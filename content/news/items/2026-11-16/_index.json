@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-16",
+  "itemCount": 3,
+  "storyCount": 3,
+  "clusterCount": 3,
+  "files": [
+    "2026-11-16-aimotion-li-mu-cto.json",
+    "2026-11-16-gamebook-agent-evaluation.json",
+    "2026-11-16-tensward-gpu-inference-census.json"
+  ],
+  "representatives": [
+    "2026-11-16-aimotion-li-mu-cto",
+    "2026-11-16-gamebook-agent-evaluation",
+    "2026-11-16-tensward-gpu-inference-census"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-fe831a76f36e0f55806a6ecd",
+  "title": "Tensward 剖析 H100 推理：GPU 占用率无法解释等待原因",
+  "firstSeen": "2026-11-16",
+  "editionDate": "2026-11-16",
+  "occurrences": [
+    {
+      "id": "occ-fe831a76f36e0f55806a6ecd",
+      "fact": {
+        "subject": "Tensward",
+        "action": "发表推理性能剖析",
+        "object": "H100 GPU占用率与推理瓶颈",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-16",
+      "reports": [
+        {
+          "ref": "2026-11-16/2026-11-16-tensward-gpu-inference-census",
+          "itemId": "2026-11-16-tensward-gpu-inference-census",
+          "editionDate": "2026-11-16",
+          "url": "https://tensward.com/blog/gpu-busy-doing-what",
+          "source": "hacker-news",
+          "owner": "Tensward",
+          "role": "principal",
+          "publishedAt": "2026-11-15T00:00:00Z",
+          "title": "Tensward 剖析 H100 推理：GPU 占用率无法解释等待原因"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-16"
+}

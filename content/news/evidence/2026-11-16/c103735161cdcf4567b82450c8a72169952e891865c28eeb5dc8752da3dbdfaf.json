@@ -1,0 +1,13 @@
+{
+  "snapshotId": "c103735161cdcf4567b82450c8a72169952e891865c28eeb5dc8752da3dbdfaf",
+  "url": "https://tensward.com/blog/gpu-busy-doing-what",
+  "publishedAt": "2026-11-15T00:00:00Z",
+  "publishedAtQuote": "2026-11-15T00:00:00.000Z",
+  "retrievedAt": "2026-11-15T23:34:24.345Z",
+  "method": "agent-tool",
+  "contentHash": "a788a82f708c2177afaeff74851ed57871a841a8187a29cc71eeaaf89661693b",
+  "quotations": [
+    "We put an LLM server on an H100, pointed sixteen clients at it, and opened nvidia-smi . It said 35% busy.",
+    "NVIDIA documents it as the share of each sampling period in which at least one kernel was running."
+  ]
+}
