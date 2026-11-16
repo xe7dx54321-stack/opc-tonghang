@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-17-zoox-uber-vegas",
+  "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+  "publishedAt": "2026-11-16T12:00:00+00:00",
+  "fact": {
+    "subject": "Zoox 与 Uber",
+    "action": "上线",
+    "object": "拉斯维加斯 Uber 平台 Zoox 无人出租车",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "646f0c6700f3868915637c3614f02edf5d69d2174901dd01cbf3ae0bf26452bc",
+    "originalUrl": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+    "originalPublishedAt": "2026-11-16T12:00:00+00:00",
+    "checkedAt": "2026-11-16T23:38:53.956Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "646f0c6700f3868915637c3614f02edf5d69d2174901dd01cbf3ae0bf26452bc",
+      "kind": "fact",
+      "quote": "Zoox robotaxis are officially available through the Uber app in Las Vegas, marking the Amazon-owned autonomous vehicle company’s first partnership with a third-party ride-hailing platform."
+    },
+    {
+      "snapshotId": "646f0c6700f3868915637c3614f02edf5d69d2174901dd01cbf3ae0bf26452bc",
+      "kind": "condition",
+      "quote": "Customers won’t be able to select a Zoox robotaxi — at least initially."
+    }
+  ],
+  "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
+  "displayTitle": "Zoox 无人出租车接入拉斯维加斯 Uber",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-16T23:30:42Z",
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Zoox"
+  ],
+  "summary": "TechCrunch 报道亚马逊旗下 Zoox 的无人出租车已接入拉斯维加斯 Uber，乘客起初不能直接选择 Zoox，部分符合条件的订单才可能匹配到无人车。",
+  "investorNote": "车队的单位经济性与可用时段比合作公告数量更能衡量商业化。",
+  "narrative": "TechCrunch 报道亚马逊旗下 Zoox 的无人出租车已接入拉斯维加斯 Uber，乘客起初不能直接选择 Zoox，部分符合条件的订单才可能匹配到无人车。 车队的单位经济性与可用时段比合作公告数量更能衡量商业化。",
+  "score": 0.76,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当前具体动作与近两周已收录事件无可确认的同次发生关系。"
+  },
+  "eventId": "event-c6c558e69bf5c6b0a10055a1",
+  "occurrenceId": "occ-c6c558e69bf5c6b0a10055a1",
+  "clusterId": "event-c6c558e69bf5c6b0a10055a1",
+  "duplicateOf": null,
+  "relatedItems": []
+}

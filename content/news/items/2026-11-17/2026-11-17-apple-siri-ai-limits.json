@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-17-apple-siri-ai-limits",
+  "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+  "publishedAt": "2026-11-16T19:24:40+00:00",
+  "fact": {
+    "subject": "Apple",
+    "action": "测试",
+    "object": "Siri AI 与 Apple Intelligence 每日用量限制",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e38b6610dfddbb1d5f2ddf0d9b5d5a9747de8d0013c132037b7f6d50450b75dd",
+    "originalUrl": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+    "originalPublishedAt": "2026-11-16T19:24:40+00:00",
+    "checkedAt": "2026-11-16T23:38:53.957Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e38b6610dfddbb1d5f2ddf0d9b5d5a9747de8d0013c132037b7f6d50450b75dd",
+      "kind": "fact",
+      "quote": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors ."
+    },
+    {
+      "snapshotId": "e38b6610dfddbb1d5f2ddf0d9b5d5a9747de8d0013c132037b7f6d50450b75dd",
+      "kind": "condition",
+      "quote": "Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits."
+    }
+  ],
+  "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+  "displayTitle": "Apple 测试 Siri AI 每日用量限制，付费套餐提高额度",
+  "source": "theverge",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-16T23:30:42Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Apple"
+  ],
+  "summary": "The Verge 援引 MacRumors 报道，苹果在 27.3 测试版中测试部分复杂 Siri AI 与云端功能每日额度，普通 Siri 请求保持免费不限量，不同 iCloud+ 套餐提供更高额度。",
+  "investorNote": "系统级 Agent 的推理成本正进入用户套餐设计，但测试规则不等同最终正式版本。",
+  "narrative": "The Verge 援引 MacRumors 报道，苹果在 27.3 测试版中测试部分复杂 Siri AI 与云端功能每日额度，普通 Siri 请求保持免费不限量，不同 iCloud+ 套餐提供更高额度。 系统级 Agent 的推理成本正进入用户套餐设计，但测试规则不等同最终正式版本。",
+  "score": 0.75,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当前具体动作与近两周已收录事件无可确认的同次发生关系。"
+  },
+  "eventId": "event-f9367090b3e44b3484b9185f",
+  "occurrenceId": "occ-f9367090b3e44b3484b9185f",
+  "clusterId": "event-f9367090b3e44b3484b9185f",
+  "duplicateOf": null,
+  "relatedItems": []
+}

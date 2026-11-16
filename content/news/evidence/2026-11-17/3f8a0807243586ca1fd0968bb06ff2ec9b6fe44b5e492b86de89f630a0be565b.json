@@ -1,0 +1,13 @@
+{
+  "snapshotId": "3f8a0807243586ca1fd0968bb06ff2ec9b6fe44b5e492b86de89f630a0be565b",
+  "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028",
+  "publishedAt": "2026-11-16T19:05:24Z",
+  "publishedAtQuote": "2026-11-16T19:05:24Z",
+  "retrievedAt": "2026-11-16T23:38:53.954Z",
+  "method": "agent-tool",
+  "contentHash": "bcd941cf8ba8e0d7241ba245d31c4f909b636cb697a03d1d911e23593973a4df",
+  "quotations": [
+    "Foremost among its announcements today, Nvidia took the wraps off a new member of the Rubin GPU family called Rubin HPC , a chip that the company says is meant to accelerate agentic workflows and simulation for scientists, engineers, and analysts working with large data sets.",
+    "Nvidia says Rubin HPC will arrive sometime in 2028."
+  ]
+}

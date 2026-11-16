@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-50c25df52605ffe2e4460189",
+  "title": "Agile Robots 获 5 亿美元 F 轮融资，扩建机器人产能",
+  "firstSeen": "2026-11-17",
+  "editionDate": "2026-11-17",
+  "occurrences": [
+    {
+      "id": "occ-50c25df52605ffe2e4460189",
+      "fact": {
+        "subject": "Agile Robots",
+        "action": "完成",
+        "object": "5 亿美元 F 轮融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-17",
+      "reports": [
+        {
+          "ref": "2026-11-17/2026-11-17-agile-robots-series-f",
+          "itemId": "2026-11-17-agile-robots-series-f",
+          "editionDate": "2026-11-17",
+          "url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
+          "source": "robot-report",
+          "owner": "The Robot Report",
+          "role": "observer",
+          "publishedAt": "2026-11-16T17:47:48+00:00",
+          "title": "Agile Robots 获 5 亿美元 F 轮融资，扩建机器人产能"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-17"
+}

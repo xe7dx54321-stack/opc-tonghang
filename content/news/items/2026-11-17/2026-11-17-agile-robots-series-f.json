@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-17-agile-robots-series-f",
+  "url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
+  "publishedAt": "2026-11-16T17:47:48+00:00",
+  "fact": {
+    "subject": "Agile Robots",
+    "action": "完成",
+    "object": "5 亿美元 F 轮融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Robot Report",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "ab86907a1c8789887529562473e4122482d054b21ee413343bbec4de2393c68b",
+    "originalUrl": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
+    "originalPublishedAt": "2026-11-16T17:47:48+00:00",
+    "checkedAt": "2026-11-16T23:38:53.918Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "ab86907a1c8789887529562473e4122482d054b21ee413343bbec4de2393c68b",
+      "kind": "fact",
+      "quote": "Agile Robots has raised $500 million in Series F funding."
+    },
+    {
+      "snapshotId": "ab86907a1c8789887529562473e4122482d054b21ee413343bbec4de2393c68b",
+      "kind": "condition",
+      "quote": "This brings the company’s valuation to $8.5 billion and total funding raised to $2 billion."
+    }
+  ],
+  "title": "Agile Robots raises $500M to increase production capacity",
+  "displayTitle": "Agile Robots 获 5 亿美元 F 轮融资，扩建机器人产能",
+  "source": "robot-report",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-16T23:30:42Z",
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Agile Robots"
+  ],
+  "summary": "The Robot Report 报道 Agile Robots 完成 5 亿美元 F 轮融资，估值 85 亿美元，由软银领投，资金用于扩大产能和国际市场。",
+  "investorNote": "投融资焦点正从机器人演示转向工厂部署与产能利用率。",
+  "narrative": "The Robot Report 报道 Agile Robots 完成 5 亿美元 F 轮融资，估值 85 亿美元，由软银领投，资金用于扩大产能和国际市场。 投融资焦点正从机器人演示转向工厂部署与产能利用率。",
+  "score": 0.87,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当前具体动作与近两周已收录事件无可确认的同次发生关系。"
+  },
+  "eventId": "event-50c25df52605ffe2e4460189",
+  "occurrenceId": "occ-50c25df52605ffe2e4460189",
+  "clusterId": "event-50c25df52605ffe2e4460189",
+  "duplicateOf": null,
+  "relatedItems": []
+}

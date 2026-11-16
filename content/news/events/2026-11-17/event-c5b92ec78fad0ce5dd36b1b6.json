@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-c5b92ec78fad0ce5dd36b1b6",
+  "title": "英伟达公布 Rubin HPC 加速器，计划 2028 年推出",
+  "firstSeen": "2026-11-17",
+  "editionDate": "2026-11-17",
+  "occurrences": [
+    {
+      "id": "occ-c5b92ec78fad0ce5dd36b1b6",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "公布",
+        "object": "Rubin HPC GPU",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-17",
+      "reports": [
+        {
+          "ref": "2026-11-17/2026-11-17-nvidia-rubin-hpc",
+          "itemId": "2026-11-17-nvidia-rubin-hpc",
+          "editionDate": "2026-11-17",
+          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028",
+          "source": "tomshardware",
+          "owner": "Tom's Hardware",
+          "role": "observer",
+          "publishedAt": "2026-11-16T19:05:24Z",
+          "title": "英伟达公布 Rubin HPC 加速器，计划 2028 年推出"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-17"
+}

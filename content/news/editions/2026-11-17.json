@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-17",
+  "window": {
+    "start": 1794785400000,
+    "end": 1794871800000
+  },
+  "digestHash": "70c1afa0af50eede59f166a4748f0620985bb9de575ca4f58712418b81ecc3b9",
+  "stories": [
+    {
+      "heading": "阿里推出 Qwen4-Max，主打长上下文与任务成本",
+      "itemId": "2026-11-17-qwen4-max",
+      "eventId": "event-96b56c24eca8fe7cff3c3fb6",
+      "occurrenceId": "occ-96b56c24eca8fe7cff3c3fb6"
+    },
+    {
+      "heading": "Agile Robots 获 5 亿美元 F 轮融资，扩建机器人产能",
+      "itemId": "2026-11-17-agile-robots-series-f",
+      "eventId": "event-50c25df52605ffe2e4460189",
+      "occurrenceId": "occ-50c25df52605ffe2e4460189"
+    },
+    {
+      "heading": "Anthropic 称 Claude 三天完成 AMD GPU 模型适配",
+      "itemId": "2026-11-17-anthropic-amd-kernels",
+      "eventId": "event-35747bb9d761cd77ef38930b",
+      "occurrenceId": "occ-35747bb9d761cd77ef38930b"
+    },
+    {
+      "heading": "Lambda 在万卡集群部署英伟达共封装光学交换机",
+      "itemId": "2026-11-17-lambda-cpo-network",
+      "eventId": "event-ed4469cad2935a38088ac42d",
+      "occurrenceId": "occ-ed4469cad2935a38088ac42d"
+    },
+    {
+      "heading": "英伟达公布 Rubin HPC 加速器，计划 2028 年推出",
+      "itemId": "2026-11-17-nvidia-rubin-hpc",
+      "eventId": "event-c5b92ec78fad0ce5dd36b1b6",
+      "occurrenceId": "occ-c5b92ec78fad0ce5dd36b1b6"
+    },
+    {
+      "heading": "英伟达公布 Vera Rubin 首批 MLPerf 成绩",
+      "itemId": "2026-11-17-vera-rubin-mlperf",
+      "eventId": "event-69214e7ffa22f57a0dfe6652",
+      "occurrenceId": "occ-69214e7ffa22f57a0dfe6652"
+    },
+    {
+      "heading": "Zoox 无人出租车接入拉斯维加斯 Uber",
+      "itemId": "2026-11-17-zoox-uber-vegas",
+      "eventId": "event-c6c558e69bf5c6b0a10055a1",
+      "occurrenceId": "occ-c6c558e69bf5c6b0a10055a1"
+    },
+    {
+      "heading": "Apple 测试 Siri AI 每日用量限制，付费套餐提高额度",
+      "itemId": "2026-11-17-apple-siri-ai-limits",
+      "eventId": "event-f9367090b3e44b3484b9185f",
+      "occurrenceId": "occ-f9367090b3e44b3484b9185f"
+    },
+    {
+      "heading": "英伟达推出四节点 DGX Spark HPC 开发套件",
+      "itemId": "2026-11-17-dgx-spark-hpc-kit",
+      "eventId": "event-1b9a952fd10c4b086beb1163",
+      "occurrenceId": "occ-1b9a952fd10c4b086beb1163"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-17-agile-robots-series-f.json": "f4f8bf3ecaf0daafd67b9acb35ed0336e9bf66db304760c1c8769569d7984be0",
+    "2026-11-17-anthropic-amd-kernels.json": "0eccc590eb5f4027b4b4e4f5134e6a81d9e178218c39d335bd7830767bc9b3ff",
+    "2026-11-17-apple-siri-ai-limits.json": "859084f31fc79c3376086e0128e2cb1f8e6f8acdb827532a8f2bd425f8fe012a",
+    "2026-11-17-dgx-spark-hpc-kit.json": "7e2911c5e20900ed54474871b3a4b24739ca30858eb37b23ddca0e8f187e2184",
+    "2026-11-17-lambda-cpo-network.json": "728f86045c47449809d90c07a95ddeffa7fb0a10823d8afb3533056833fff9b9",
+    "2026-11-17-nvidia-rubin-hpc.json": "8091d4f44b2e2488bc86c4ce30f29161291d1f49f06198f492755a7888bc8ff5",
+    "2026-11-17-qwen4-max.json": "3de1f9dc077fab6c9b073f6b3834222815dd4d6566e8e9b1d27f446740779a7b",
+    "2026-11-17-vera-rubin-mlperf.json": "6239faadb528861d952569a71e5f591dabf4ab5a43882517ded9e71f9c601688",
+    "2026-11-17-zoox-uber-vegas.json": "d9180bdc7ee4712756a46c7a62b643c1a8deefdf7ccc45f07c903f1e3e20b73f"
+  },
+  "evidenceHashes": {
+    "03ca7705958fe2972c5cb1fa93d32dfbbcd70e187694bbe3850a2bab12b654a9.json": "460a06861c348556fbc36ecbc9c23b5d97079dbf5f0fd3f77b8766786a553043",
+    "2083c2154fcacb69da1edfb62d3a062ddd697c1458ad9c0f23f58590f5b3d85e.json": "3df4da34822a9f6b94783773d5c225217f70fe54f18ad87903ea1d6f08a208af",
+    "3f8a0807243586ca1fd0968bb06ff2ec9b6fe44b5e492b86de89f630a0be565b.json": "adea1cb7646072dc73ca8381c9c4e2c055b3077233b63840b519ee5d74dd75be",
+    "646f0c6700f3868915637c3614f02edf5d69d2174901dd01cbf3ae0bf26452bc.json": "7181f76c40ca911b93036b6bbc899e41765eb577a7fcf599a9492fdb04b172eb",
+    "ab86907a1c8789887529562473e4122482d054b21ee413343bbec4de2393c68b.json": "c1e6d72036aa94445e3710cbdc7bf2cd5419670cd526f2c1e2d74ec92bb8c220",
+    "bd08b6358511abe7a62ddb2d65aaf4138ba5a6930f83efff3ab44e8f1c8a90d1.json": "bed9dd624abc3e731f09ea129721c86b5ad1a411829bc8bca18f2ea126f9d15e",
+    "dd37d3eee2004cdc38adbf38fce0b080dfa4c9e0ceb832b8f81866d1177152c3.json": "07d007598a46158cebf359e7880275286006bd2a1d21c57224bd6a6c63dcf5bf",
+    "e38b6610dfddbb1d5f2ddf0d9b5d5a9747de8d0013c132037b7f6d50450b75dd.json": "8dff21b02d264c99b63387d8ce89da5c8346a5cdbbf06dfb4920759876ec6af7",
+    "e7e20782ae7b1e19273137224c7b5f5daa725dd5ec6f7ffb7b8dac203d5bb8a5.json": "594f3d8a34bc61f8b91c69500868e2679a52ea858155f00c953746ec659f34ff"
+  },
+  "eventsHashes": {
+    "event-1b9a952fd10c4b086beb1163.json": "f450bd1cac05f887c3a849e818ac697fb1a956ae75eb02634e73fcb1b8e08406",
+    "event-35747bb9d761cd77ef38930b.json": "fcdb11e2b1716853aebf244cab7762d55b72efc8aeb76a3d3d62ae1d56ff2a99",
+    "event-50c25df52605ffe2e4460189.json": "8a12544f90da1939d17576443e22a7a1a437b3017ce6e774b4c4c0c144a6fff1",
+    "event-69214e7ffa22f57a0dfe6652.json": "de81210ca83d45f0045c9b8c44a251d0811d68aa0c81fa7cbad0a4175eaf2b15",
+    "event-96b56c24eca8fe7cff3c3fb6.json": "3cb82138c5dcebb606bc03469437734ef12527f52407f2b8e6ed47c5d2a40799",
+    "event-c5b92ec78fad0ce5dd36b1b6.json": "00c0a3a686531ec35787eedd14a4ac2fd105a7bede2c9f8b170b0954eb1cc093",
+    "event-c6c558e69bf5c6b0a10055a1.json": "088df47b3325adb975eef2808f6b4d3de1fce62cc33a1eba6461af8762703902",
+    "event-ed4469cad2935a38088ac42d.json": "464839740617295d64f15bfe24df7ddf74bda79aee1e7222217c94d9e78d7a92",
+    "event-f9367090b3e44b3484b9185f.json": "8a3342a46a00ecad1c8c29a64cd516b957adabe9d02c41da4c8524347dc87464"
+  }
+}

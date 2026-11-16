@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-17-vera-rubin-mlperf",
+  "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+  "publishedAt": "2026-11-16T16:00:25+00:00",
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "公布",
+    "object": "Vera Rubin 的 MLPerf 测试结果",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e7e20782ae7b1e19273137224c7b5f5daa725dd5ec6f7ffb7b8dac203d5bb8a5",
+    "originalUrl": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+    "originalPublishedAt": "2026-11-16T16:00:25+00:00",
+    "checkedAt": "2026-11-16T23:38:53.955Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e7e20782ae7b1e19273137224c7b5f5daa725dd5ec6f7ffb7b8dac203d5bb8a5",
+      "kind": "fact",
+      "quote": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference."
+    }
+  ],
+  "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+  "displayTitle": "英伟达公布 Vera Rubin 首批 MLPerf 成绩",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-16T23:30:42Z",
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "NVIDIA"
+  ],
+  "summary": "英伟达发布 Vera Rubin 在 MLPerf Training v6.1 和 Endpoints 的首批成绩，并称智能体吞吐能效相对上一代提升超过十倍；比较口径与配置需以测试条目为准。",
+  "investorNote": "基准测试需要回到具体工作负载、系统配置与功耗口径，不能直接等同用户成本。",
+  "narrative": "英伟达发布 Vera Rubin 在 MLPerf Training v6.1 和 Endpoints 的首批成绩，并称智能体吞吐能效相对上一代提升超过十倍；比较口径与配置需以测试条目为准。 基准测试需要回到具体工作负载、系统配置与功耗口径，不能直接等同用户成本。",
+  "score": 0.77,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当前具体动作与近两周已收录事件无可确认的同次发生关系。"
+  },
+  "eventId": "event-69214e7ffa22f57a0dfe6652",
+  "occurrenceId": "occ-69214e7ffa22f57a0dfe6652",
+  "clusterId": "event-69214e7ffa22f57a0dfe6652",
+  "duplicateOf": null,
+  "relatedItems": []
+}

@@ -1,0 +1,13 @@
+{
+  "snapshotId": "2083c2154fcacb69da1edfb62d3a062ddd697c1458ad9c0f23f58590f5b3d85e",
+  "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+  "publishedAt": "2026-11-16T16:00:51+00:00",
+  "publishedAtQuote": "2026-11-16T16:00:51+00:00",
+  "retrievedAt": "2026-11-16T23:38:53.952Z",
+  "method": "agent-tool",
+  "contentHash": "056438a15562a6f0c20169b850ffc7a1f93c3717e0b3b74485f586bb7abd1727",
+  "quotations": [
+    "Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches.",
+    "In the company’s tests using the switches, network latency — the time needed for moving data — dropped by about 4% at rack scale and by up to about 10% at pod scale."
+  ]
+}

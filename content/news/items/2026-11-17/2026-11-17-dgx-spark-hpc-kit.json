@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-17-dgx-spark-hpc-kit",
+  "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+  "publishedAt": "2026-11-16T23:00:05+00:00",
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "推出",
+    "object": "DGX Spark HPC Developer Kit",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "dd37d3eee2004cdc38adbf38fce0b080dfa4c9e0ceb832b8f81866d1177152c3",
+    "originalUrl": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+    "originalPublishedAt": "2026-11-16T23:00:05+00:00",
+    "checkedAt": "2026-11-16T23:38:53.958Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "dd37d3eee2004cdc38adbf38fce0b080dfa4c9e0ceb832b8f81866d1177152c3",
+      "kind": "fact",
+      "quote": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers."
+    },
+    {
+      "snapshotId": "dd37d3eee2004cdc38adbf38fce0b080dfa4c9e0ceb832b8f81866d1177152c3",
+      "kind": "condition",
+      "quote": "At four nodes, it provides 512GB of combined memory and 20TB of NVMe storage that provides researchers more capacity to distribute models and scientific workloads across the cluster."
+    }
+  ],
+  "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+  "displayTitle": "英伟达推出四节点 DGX Spark HPC 开发套件",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-16T23:30:42Z",
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "NVIDIA"
+  ],
+  "summary": "英伟达介绍四节点 DGX Spark 开发套件，节点环形直连，合计 512GB 内存与 20TB 存储；HPC SDK 配置指南尚待推出。",
+  "investorNote": "桌面多节点环境有助于开发调试，但不能代替生产级集群的规模和可靠性。",
+  "narrative": "英伟达介绍四节点 DGX Spark 开发套件，节点环形直连，合计 512GB 内存与 20TB 存储；HPC SDK 配置指南尚待推出。 桌面多节点环境有助于开发调试，但不能代替生产级集群的规模和可靠性。",
+  "score": 0.7,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当前具体动作与近两周已收录事件无可确认的同次发生关系。"
+  },
+  "eventId": "event-1b9a952fd10c4b086beb1163",
+  "occurrenceId": "occ-1b9a952fd10c4b086beb1163",
+  "clusterId": "event-1b9a952fd10c4b086beb1163",
+  "duplicateOf": null,
+  "relatedItems": []
+}

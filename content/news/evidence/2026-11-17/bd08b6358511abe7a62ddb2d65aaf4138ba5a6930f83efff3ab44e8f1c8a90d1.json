@@ -1,0 +1,13 @@
+{
+  "snapshotId": "bd08b6358511abe7a62ddb2d65aaf4138ba5a6930f83efff3ab44e8f1c8a90d1",
+  "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+  "publishedAt": "2026-11-16T16:56:04+00:00",
+  "publishedAtQuote": "2026-11-16T16:56:04+00:00",
+  "retrievedAt": "2026-11-16T23:38:53.915Z",
+  "method": "agent-tool",
+  "contentHash": "21b4f1e74c9ebdc849e5751cd5d3a0952fa0482889dcbd4c0b4cc27b67449700",
+  "quotations": [
+    "The mixture-of-experts model has 2.4 trillion parameters but activates only 71 billion per token, according to the Qwen team.",
+    "It processes images natively and offers a one-million-token context window."
+  ]
+}

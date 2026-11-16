@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-f9367090b3e44b3484b9185f",
+  "title": "Apple 测试 Siri AI 每日用量限制，付费套餐提高额度",
+  "firstSeen": "2026-11-17",
+  "editionDate": "2026-11-17",
+  "occurrences": [
+    {
+      "id": "occ-f9367090b3e44b3484b9185f",
+      "fact": {
+        "subject": "Apple",
+        "action": "测试",
+        "object": "Siri AI 与 Apple Intelligence 每日用量限制",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-17",
+      "reports": [
+        {
+          "ref": "2026-11-17/2026-11-17-apple-siri-ai-limits",
+          "itemId": "2026-11-17-apple-siri-ai-limits",
+          "editionDate": "2026-11-17",
+          "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "relayer",
+          "publishedAt": "2026-11-16T19:24:40+00:00",
+          "title": "Apple 测试 Siri AI 每日用量限制，付费套餐提高额度"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-17"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-ed4469cad2935a38088ac42d",
+  "title": "Lambda 在万卡集群部署英伟达共封装光学交换机",
+  "firstSeen": "2026-11-17",
+  "editionDate": "2026-11-17",
+  "occurrences": [
+    {
+      "id": "occ-ed4469cad2935a38088ac42d",
+      "fact": {
+        "subject": "Lambda",
+        "action": "部署",
+        "object": "NVIDIA Photonics 共封装光学交换机",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-17",
+      "reports": [
+        {
+          "ref": "2026-11-17/2026-11-17-lambda-cpo-network",
+          "itemId": "2026-11-17-lambda-cpo-network",
+          "editionDate": "2026-11-17",
+          "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+          "source": "nvidia-blog",
+          "owner": "NVIDIA",
+          "role": "principal",
+          "publishedAt": "2026-11-16T16:00:51+00:00",
+          "title": "Lambda 在万卡集群部署英伟达共封装光学交换机"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-17"
+}

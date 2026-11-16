@@ -1,0 +1,13 @@
+{
+  "snapshotId": "e38b6610dfddbb1d5f2ddf0d9b5d5a9747de8d0013c132037b7f6d50450b75dd",
+  "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+  "publishedAt": "2026-11-16T19:24:40+00:00",
+  "publishedAtQuote": "2026-11-16T19:24:40+00:00",
+  "retrievedAt": "2026-11-16T23:38:53.957Z",
+  "method": "agent-tool",
+  "contentHash": "d73abfa8fd7e021d2e921c07c5ed744b620342b19496089e97addb6b68b89934",
+  "quotations": [
+    "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors .",
+    "Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits."
+  ]
+}

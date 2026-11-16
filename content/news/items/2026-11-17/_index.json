@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-17",
+  "itemCount": 9,
+  "storyCount": 9,
+  "clusterCount": 9,
+  "files": [
+    "2026-11-17-qwen4-max.json",
+    "2026-11-17-agile-robots-series-f.json",
+    "2026-11-17-anthropic-amd-kernels.json",
+    "2026-11-17-lambda-cpo-network.json",
+    "2026-11-17-nvidia-rubin-hpc.json",
+    "2026-11-17-vera-rubin-mlperf.json",
+    "2026-11-17-zoox-uber-vegas.json",
+    "2026-11-17-apple-siri-ai-limits.json",
+    "2026-11-17-dgx-spark-hpc-kit.json"
+  ],
+  "representatives": [
+    "2026-11-17-qwen4-max",
+    "2026-11-17-agile-robots-series-f",
+    "2026-11-17-anthropic-amd-kernels",
+    "2026-11-17-lambda-cpo-network",
+    "2026-11-17-nvidia-rubin-hpc",
+    "2026-11-17-vera-rubin-mlperf",
+    "2026-11-17-zoox-uber-vegas",
+    "2026-11-17-apple-siri-ai-limits",
+    "2026-11-17-dgx-spark-hpc-kit"
+  ]
+}

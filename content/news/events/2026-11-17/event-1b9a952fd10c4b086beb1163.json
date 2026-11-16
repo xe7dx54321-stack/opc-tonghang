@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-1b9a952fd10c4b086beb1163",
+  "title": "英伟达推出四节点 DGX Spark HPC 开发套件",
+  "firstSeen": "2026-11-17",
+  "editionDate": "2026-11-17",
+  "occurrences": [
+    {
+      "id": "occ-1b9a952fd10c4b086beb1163",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "推出",
+        "object": "DGX Spark HPC Developer Kit",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-17",
+      "reports": [
+        {
+          "ref": "2026-11-17/2026-11-17-dgx-spark-hpc-kit",
+          "itemId": "2026-11-17-dgx-spark-hpc-kit",
+          "editionDate": "2026-11-17",
+          "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+          "source": "nvidia-blog",
+          "owner": "NVIDIA",
+          "role": "principal",
+          "publishedAt": "2026-11-16T23:00:05+00:00",
+          "title": "英伟达推出四节点 DGX Spark HPC 开发套件"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-17"
+}

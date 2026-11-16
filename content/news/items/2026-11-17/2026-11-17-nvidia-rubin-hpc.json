@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-17-nvidia-rubin-hpc",
+  "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028",
+  "publishedAt": "2026-11-16T19:05:24Z",
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "公布",
+    "object": "Rubin HPC GPU",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom's Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "3f8a0807243586ca1fd0968bb06ff2ec9b6fe44b5e492b86de89f630a0be565b",
+    "originalUrl": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028",
+    "originalPublishedAt": "2026-11-16T19:05:24Z",
+    "checkedAt": "2026-11-16T23:38:53.954Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "3f8a0807243586ca1fd0968bb06ff2ec9b6fe44b5e492b86de89f630a0be565b",
+      "kind": "fact",
+      "quote": "Foremost among its announcements today, Nvidia took the wraps off a new member of the Rubin GPU family called Rubin HPC , a chip that the company says is meant to accelerate agentic workflows and simulation for scientists, engineers, and analysts working with large data sets."
+    },
+    {
+      "snapshotId": "3f8a0807243586ca1fd0968bb06ff2ec9b6fe44b5e492b86de89f630a0be565b",
+      "kind": "condition",
+      "quote": "Nvidia says Rubin HPC will arrive sometime in 2028."
+    }
+  ],
+  "title": "Nvidia announces Rubin HPC GPU with 'record number of CUDA cores' at Supercomputing 2026",
+  "displayTitle": "英伟达公布 Rubin HPC 加速器，计划 2028 年推出",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-16T23:30:42Z",
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "NVIDIA"
+  ],
+  "summary": "英伟达在 SC26 公布面向科学计算与智能体工作流的 Rubin HPC GPU，称 CUDA 核心数超过五万，计划 2028 年推出；关键存储规格尚未公布。",
+  "investorNote": "远期路线图体现 AI 与科学计算融合方向，尚不足以推算交付能力或实测性能。",
+  "narrative": "英伟达在 SC26 公布面向科学计算与智能体工作流的 Rubin HPC GPU，称 CUDA 核心数超过五万，计划 2028 年推出；关键存储规格尚未公布。 远期路线图体现 AI 与科学计算融合方向，尚不足以推算交付能力或实测性能。",
+  "score": 0.8,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当前具体动作与近两周已收录事件无可确认的同次发生关系。"
+  },
+  "eventId": "event-c5b92ec78fad0ce5dd36b1b6",
+  "occurrenceId": "occ-c5b92ec78fad0ce5dd36b1b6",
+  "clusterId": "event-c5b92ec78fad0ce5dd36b1b6",
+  "duplicateOf": null,
+  "relatedItems": []
+}

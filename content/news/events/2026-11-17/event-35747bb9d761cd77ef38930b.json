@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-35747bb9d761cd77ef38930b",
+  "title": "Anthropic 称 Claude 三天完成 AMD GPU 模型适配",
+  "firstSeen": "2026-11-17",
+  "editionDate": "2026-11-17",
+  "occurrences": [
+    {
+      "id": "occ-35747bb9d761cd77ef38930b",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "披露",
+        "object": "Claude Mythos Preview 在 AMD MI355X 的适配案例",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-17",
+      "reports": [
+        {
+          "ref": "2026-11-17/2026-11-17-anthropic-amd-kernels",
+          "itemId": "2026-11-17-anthropic-amd-kernels",
+          "editionDate": "2026-11-17",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+          "source": "tomshardware",
+          "owner": "Tom's Hardware",
+          "role": "observer",
+          "publishedAt": "2026-11-16T15:00:00Z",
+          "title": "Anthropic 称 Claude 三天完成 AMD GPU 模型适配"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-17"
+}

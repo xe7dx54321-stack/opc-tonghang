@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-69214e7ffa22f57a0dfe6652",
+  "title": "英伟达公布 Vera Rubin 首批 MLPerf 成绩",
+  "firstSeen": "2026-11-17",
+  "editionDate": "2026-11-17",
+  "occurrences": [
+    {
+      "id": "occ-69214e7ffa22f57a0dfe6652",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "公布",
+        "object": "Vera Rubin 的 MLPerf 测试结果",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-17",
+      "reports": [
+        {
+          "ref": "2026-11-17/2026-11-17-vera-rubin-mlperf",
+          "itemId": "2026-11-17-vera-rubin-mlperf",
+          "editionDate": "2026-11-17",
+          "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+          "source": "nvidia-blog",
+          "owner": "NVIDIA",
+          "role": "principal",
+          "publishedAt": "2026-11-16T16:00:25+00:00",
+          "title": "英伟达公布 Vera Rubin 首批 MLPerf 成绩"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-17"
+}

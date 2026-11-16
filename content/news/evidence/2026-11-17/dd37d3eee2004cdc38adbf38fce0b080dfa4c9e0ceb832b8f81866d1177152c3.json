@@ -1,0 +1,13 @@
+{
+  "snapshotId": "dd37d3eee2004cdc38adbf38fce0b080dfa4c9e0ceb832b8f81866d1177152c3",
+  "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+  "publishedAt": "2026-11-16T23:00:05+00:00",
+  "publishedAtQuote": "2026-11-16T23:00:05+00:00",
+  "retrievedAt": "2026-11-16T23:38:53.958Z",
+  "method": "agent-tool",
+  "contentHash": "7b0b1ba55872921862cef206ccaf65cd1a3723a7569d70c0a73ef40d7f9afce2",
+  "quotations": [
+    "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers.",
+    "At four nodes, it provides 512GB of combined memory and 20TB of NVMe storage that provides researchers more capacity to distribute models and scientific workloads across the cluster."
+  ]
+}

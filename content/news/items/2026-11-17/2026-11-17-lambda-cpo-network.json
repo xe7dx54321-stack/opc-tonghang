@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-17-lambda-cpo-network",
+  "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+  "publishedAt": "2026-11-16T16:00:51+00:00",
+  "fact": {
+    "subject": "Lambda",
+    "action": "部署",
+    "object": "NVIDIA Photonics 共封装光学交换机",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "2083c2154fcacb69da1edfb62d3a062ddd697c1458ad9c0f23f58590f5b3d85e",
+    "originalUrl": "https://blogs.nvidia.com/blog/lambda-photonics/",
+    "originalPublishedAt": "2026-11-16T16:00:51+00:00",
+    "checkedAt": "2026-11-16T23:38:53.952Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "2083c2154fcacb69da1edfb62d3a062ddd697c1458ad9c0f23f58590f5b3d85e",
+      "kind": "fact",
+      "quote": "Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches."
+    },
+    {
+      "snapshotId": "2083c2154fcacb69da1edfb62d3a062ddd697c1458ad9c0f23f58590f5b3d85e",
+      "kind": "condition",
+      "quote": "In the company’s tests using the switches, network latency — the time needed for moving data — dropped by about 4% at rack scale and by up to about 10% at pod scale."
+    }
+  ],
+  "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+  "displayTitle": "Lambda 在万卡集群部署英伟达共封装光学交换机",
+  "source": "nvidia-blog",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-16T23:30:42Z",
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "Lambda"
+  ],
+  "summary": "英伟达称 Lambda 使用共封装光学交换机连接超过一万颗 GPU 的 GB300 NVL72 机架，测试中机架级延迟下降约 4%、pod 级最多下降约 10%。",
+  "investorNote": "CPO 的商业价值要用集群停机率、全链路功耗和维护成本检验。",
+  "narrative": "英伟达称 Lambda 使用共封装光学交换机连接超过一万颗 GPU 的 GB300 NVL72 机架，测试中机架级延迟下降约 4%、pod 级最多下降约 10%。 CPO 的商业价值要用集群停机率、全链路功耗和维护成本检验。",
+  "score": 0.84,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当前具体动作与近两周已收录事件无可确认的同次发生关系。"
+  },
+  "eventId": "event-ed4469cad2935a38088ac42d",
+  "occurrenceId": "occ-ed4469cad2935a38088ac42d",
+  "clusterId": "event-ed4469cad2935a38088ac42d",
+  "duplicateOf": null,
+  "relatedItems": []
+}

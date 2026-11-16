@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-c6c558e69bf5c6b0a10055a1",
+  "title": "Zoox 无人出租车接入拉斯维加斯 Uber",
+  "firstSeen": "2026-11-17",
+  "editionDate": "2026-11-17",
+  "occurrences": [
+    {
+      "id": "occ-c6c558e69bf5c6b0a10055a1",
+      "fact": {
+        "subject": "Zoox 与 Uber",
+        "action": "上线",
+        "object": "拉斯维加斯 Uber 平台 Zoox 无人出租车",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-17",
+      "reports": [
+        {
+          "ref": "2026-11-17/2026-11-17-zoox-uber-vegas",
+          "itemId": "2026-11-17-zoox-uber-vegas",
+          "editionDate": "2026-11-17",
+          "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-16T12:00:00+00:00",
+          "title": "Zoox 无人出租车接入拉斯维加斯 Uber"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-17"
+}

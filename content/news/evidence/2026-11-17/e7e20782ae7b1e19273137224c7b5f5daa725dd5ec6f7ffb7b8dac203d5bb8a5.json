@@ -1,0 +1,12 @@
+{
+  "snapshotId": "e7e20782ae7b1e19273137224c7b5f5daa725dd5ec6f7ffb7b8dac203d5bb8a5",
+  "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+  "publishedAt": "2026-11-16T16:00:25+00:00",
+  "publishedAtQuote": "2026-11-16T16:00:25+00:00",
+  "retrievedAt": "2026-11-16T23:38:53.955Z",
+  "method": "agent-tool",
+  "contentHash": "ca4f79247d3dd8b105ea58b223b5b2bc1f5c4f90a0a97a32f5a61714a48562d0",
+  "quotations": [
+    "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference."
+  ]
+}

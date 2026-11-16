@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-17-qwen4-max",
+  "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+  "publishedAt": "2026-11-16T16:56:04+00:00",
+  "fact": {
+    "subject": "Alibaba",
+    "action": "发布",
+    "object": "Qwen4-Max 模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "bd08b6358511abe7a62ddb2d65aaf4138ba5a6930f83efff3ab44e8f1c8a90d1",
+    "originalUrl": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+    "originalPublishedAt": "2026-11-16T16:56:04+00:00",
+    "checkedAt": "2026-11-16T23:38:53.915Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "bd08b6358511abe7a62ddb2d65aaf4138ba5a6930f83efff3ab44e8f1c8a90d1",
+      "kind": "fact",
+      "quote": "The mixture-of-experts model has 2.4 trillion parameters but activates only 71 billion per token, according to the Qwen team."
+    },
+    {
+      "snapshotId": "bd08b6358511abe7a62ddb2d65aaf4138ba5a6930f83efff3ab44e8f1c8a90d1",
+      "kind": "condition",
+      "quote": "It processes images natively and offers a one-million-token context window."
+    }
+  ],
+  "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+  "displayTitle": "阿里推出 Qwen4-Max，主打长上下文与任务成本",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-16T23:30:42Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Qwen4-Max"
+  ],
+  "summary": "报道介绍阿里推出 Qwen4-Max：模型总参数 2.4 万亿、每 token 激活 710 亿参数，原生处理图像并提供百万 token 上下文。各项能力与成本表现主要来自阿里测试，不能视为独立复现。",
+  "investorNote": "模型竞争从峰值成绩延伸到完成同一任务所需 token 与成本。",
+  "narrative": "报道介绍阿里推出 Qwen4-Max：模型总参数 2.4 万亿、每 token 激活 710 亿参数，原生处理图像并提供百万 token 上下文。各项能力与成本表现主要来自阿里测试，不能视为独立复现。 模型竞争从峰值成绩延伸到完成同一任务所需 token 与成本。",
+  "score": 0.89,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "当前具体动作与近两周已收录事件无可确认的同次发生关系。"
+  },
+  "eventId": "event-96b56c24eca8fe7cff3c3fb6",
+  "occurrenceId": "occ-96b56c24eca8fe7cff3c3fb6",
+  "clusterId": "event-96b56c24eca8fe7cff3c3fb6",
+  "duplicateOf": null,
+  "relatedItems": []
+}

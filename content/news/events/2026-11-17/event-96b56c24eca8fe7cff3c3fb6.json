@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-96b56c24eca8fe7cff3c3fb6",
+  "title": "阿里推出 Qwen4-Max，主打长上下文与任务成本",
+  "firstSeen": "2026-11-17",
+  "editionDate": "2026-11-17",
+  "occurrences": [
+    {
+      "id": "occ-96b56c24eca8fe7cff3c3fb6",
+      "fact": {
+        "subject": "Alibaba",
+        "action": "发布",
+        "object": "Qwen4-Max 模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-17",
+      "reports": [
+        {
+          "ref": "2026-11-17/2026-11-17-qwen4-max",
+          "itemId": "2026-11-17-qwen4-max",
+          "editionDate": "2026-11-17",
+          "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-11-16T16:56:04+00:00",
+          "title": "阿里推出 Qwen4-Max，主打长上下文与任务成本"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-17"
+}
