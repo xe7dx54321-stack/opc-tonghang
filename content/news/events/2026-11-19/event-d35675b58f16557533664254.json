@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-d35675b58f16557533664254",
+  "title": "硅星人对比四款模型，测试办公任务表现",
+  "firstSeen": "2026-11-19",
+  "editionDate": "2026-11-19",
+  "occurrences": [
+    {
+      "id": "occ-d35675b58f16557533664254",
+      "fact": {
+        "subject": "硅星人Pro",
+        "action": "发表办公场景对比评测",
+        "object": "Hy4 flash等模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-19",
+      "reports": [
+        {
+          "ref": "2026-11-19/2026-11-19-hy4-flash-office-evaluation",
+          "itemId": "2026-11-19-hy4-flash-office-evaluation",
+          "editionDate": "2026-11-19",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247635595&idx=1&sn=292eea07c1696bcc47ab6ebfeaf7183b",
+          "source": "wechat-silicon-star",
+          "owner": "硅星人Pro",
+          "role": "observer",
+          "publishedAt": "2026-11-18T14:51:00+08:00",
+          "title": "硅星人对比四款模型，测试办公任务表现"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-19"
+}

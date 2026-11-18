@@ -1,0 +1,12 @@
+{
+  "snapshotId": "19aba945b1e2f871d018c71e6313d0c472a4fd36c67e597511a9eeb96bbe8dfa",
+  "url": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
+  "publishedAt": "2026-11-18T15:03:29-08:00",
+  "publishedAtQuote": "2026-11-18T15:03:29-08:00",
+  "retrievedAt": "2026-11-18T23:33:58.939Z",
+  "method": "agent-tool",
+  "contentHash": "5352d8eb457407560f252baf0c6448637373121649b6019a484199329f41325f",
+  "quotations": [
+    "Today, we’re introducing workload recovery and infrastructure checks on Amazon SageMaker HyperPod that catch these failures sooner and raise the goodput of your training workloads."
+  ]
+}

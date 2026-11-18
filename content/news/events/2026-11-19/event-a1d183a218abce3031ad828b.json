@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a1d183a218abce3031ad828b",
+  "title": "openJiuwen提出Harnessless，复用Agent运行能力",
+  "firstSeen": "2026-11-19",
+  "editionDate": "2026-11-19",
+  "occurrences": [
+    {
+      "id": "occ-a1d183a218abce3031ad828b",
+      "fact": {
+        "subject": "openJiuwen",
+        "action": "推出开发范式",
+        "object": "AgentOS Harnessless",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-19",
+      "reports": [
+        {
+          "ref": "2026-11-19/2026-11-19-openjiuwen-harnessless-agentos",
+          "itemId": "2026-11-19-openjiuwen-harnessless-agentos",
+          "editionDate": "2026-11-19",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075119&idx=2&sn=3c605eec20f55342d9385a5f813e17ac",
+          "source": "wechat-jiqizhixin",
+          "owner": "机器之心",
+          "role": "relayer",
+          "publishedAt": "2026-11-18T13:00:00+08:00",
+          "title": "openJiuwen提出Harnessless，复用Agent运行能力"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-19"
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-19-airbnb-coding-agent-cost",
+  "url": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/",
+  "publishedAt": "2026-11-18T13:48:19-08:00",
+  "fact": {
+    "subject": "Airbnb",
+    "action": "介绍模型评测和成本监控实践",
+    "object": "Bedrock编码Agent",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "AWS",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "b69d19a06a0dc6ac8eb99abd86763fa31b83d9a914848fd6b0c1349d50189ec4",
+    "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/",
+    "originalPublishedAt": "2026-11-18T13:48:19-08:00",
+    "checkedAt": "2026-11-18T23:33:58.967Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "b69d19a06a0dc6ac8eb99abd86763fa31b83d9a914848fd6b0c1349d50189ec4",
+      "kind": "fact",
+      "quote": "Before a rollout, we run evals on our own tasks to measure each model’s score and cost per task. Cost per task is the list-price cost of all the tokens an agent uses to finish one task."
+    }
+  ],
+  "title": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock",
+  "displayTitle": "Airbnb公开编码Agent选型：同时衡量任务质量与成本",
+  "source": "aws-machine-learning",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-18T22:14:36.144Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Airbnb"
+  ],
+  "summary": "Airbnb在AWS博客介绍编码Agent模型选型：上线前用自己的任务评测质量与单任务token成本，上线后再观察延迟、限流和用量。单价低不代表完成一个任务更便宜，模型多轮调用次数、完成质量和生产环境表现都需要一起比较。",
+  "investorNote": "应结合真实业务数据衡量成本、可复现性与商业落地条件。",
+  "narrative": "Airbnb在AWS博客介绍编码Agent模型选型：上线前用自己的任务评测质量与单任务token成本，上线后再观察延迟、限流和用量。单价低不代表完成一个任务更便宜，模型多轮调用次数、完成质量和生产环境表现都需要一起比较。",
+  "score": 0.68,
+  "duplicateOf": null,
+  "clusterId": "event-ab533f3dc7c8ce5691bcaf30",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次具体动作与已检索的近期事件没有确认属于同一次发生或直接后续。"
+  },
+  "eventId": "event-ab533f3dc7c8ce5691bcaf30",
+  "occurrenceId": "occ-ab533f3dc7c8ce5691bcaf30",
+  "relatedItems": []
+}

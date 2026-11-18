@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-19-aws-hyperpod-nvidia-dynamo",
+  "url": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
+  "publishedAt": "2026-11-17T15:33:26-08:00",
+  "fact": {
+    "subject": "AWS",
+    "action": "支持托管部署",
+    "object": "NVIDIA Dynamo分布式推理",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "AWS",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "76543fbad2caf019c2e28c6665c953a0a42a85eb5770ab03f2505d7de5e374bf",
+    "originalUrl": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
+    "originalPublishedAt": "2026-11-17T15:33:26-08:00",
+    "checkedAt": "2026-11-18T23:33:58.991Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "76543fbad2caf019c2e28c6665c953a0a42a85eb5770ab03f2505d7de5e374bf",
+      "kind": "fact",
+      "quote": "Amazon SageMaker HyperPod Inference now supports\nNVIDIA Dynamo"
+    }
+  ],
+  "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
+  "displayTitle": "AWS在HyperPod推理中支持NVIDIA Dynamo",
+  "source": "aws-machine-learning",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-17T23:52:44.994Z",
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "AWS"
+  ],
+  "summary": "AWS宣布SageMaker HyperPod Inference支持NVIDIA Dynamo，以托管基础设施运行跨节点推理，并支持分离prefill和decode以及KV缓存感知路由。分离部署可以分别调整两类计算资源，但仍需为权重复制和缓存传输付出成本，是否划算要按实际请求负载评估。",
+  "investorNote": "应结合真实业务数据衡量成本、可复现性与商业落地条件。",
+  "narrative": "AWS宣布SageMaker HyperPod Inference支持NVIDIA Dynamo，以托管基础设施运行跨节点推理，并支持分离prefill和decode以及KV缓存感知路由。分离部署可以分别调整两类计算资源，但仍需为权重复制和缓存传输付出成本，是否划算要按实际请求负载评估。",
+  "score": 0.72,
+  "duplicateOf": null,
+  "clusterId": "event-8f8718000ba295946a599383",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次具体动作与已检索的近期事件没有确认属于同一次发生或直接后续。"
+  },
+  "eventId": "event-8f8718000ba295946a599383",
+  "occurrenceId": "occ-8f8718000ba295946a599383",
+  "relatedItems": []
+}

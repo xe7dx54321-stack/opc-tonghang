@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-19-openjiuwen-harnessless-agentos",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075119&idx=2&sn=3c605eec20f55342d9385a5f813e17ac",
+  "publishedAt": "2026-11-18T13:00:00+08:00",
+  "fact": {
+    "subject": "openJiuwen",
+    "action": "推出开发范式",
+    "object": "AgentOS Harnessless",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "机器之心",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "a2f41736a9109f7df4966bd71358edf97db96f25039a8afdfbe2f5cbaeb2890b",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075119&idx=2&sn=3c605eec20f55342d9385a5f813e17ac",
+    "originalPublishedAt": "2026-11-18T13:00:00+08:00",
+    "checkedAt": "2026-11-18T23:33:59.042Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "a2f41736a9109f7df4966bd71358edf97db96f25039a8afdfbe2f5cbaeb2890b",
+      "kind": "fact",
+      "quote": "今天，openJiuwen 将这一思路延伸到应用开发，依托 openJiuwen AgentOS 推出 Harnessless 开发范式。"
+    }
+  ],
+  "title": "openJiuwen首发AgentOS「Harnessless」开发范式：不用自建Harness，让Agent原生应用触手可及",
+  "displayTitle": "openJiuwen提出Harnessless，复用Agent运行能力",
+  "source": "wechat-jiqizhixin",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-18T12:34:21.072Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "openJiuwen"
+  ],
+  "summary": "机器之心介绍openJiuwen AgentOS推出Harnessless开发范式：应用开发者复用平台内置的Agent运行机制，而不必为每个应用重建工具调用和协作基础设施。Harness并未消失，只是由平台承接；权限边界、业务规则和执行结果仍需应用负责。",
+  "investorNote": "应结合真实业务数据衡量成本、可复现性与商业落地条件。",
+  "narrative": "机器之心介绍openJiuwen AgentOS推出Harnessless开发范式：应用开发者复用平台内置的Agent运行机制，而不必为每个应用重建工具调用和协作基础设施。Harness并未消失，只是由平台承接；权限边界、业务规则和执行结果仍需应用负责。",
+  "score": 0.67,
+  "duplicateOf": null,
+  "clusterId": "event-a1d183a218abce3031ad828b",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次具体动作与已检索的近期事件没有确认属于同一次发生或直接后续。"
+  },
+  "eventId": "event-a1d183a218abce3031ad828b",
+  "occurrenceId": "occ-a1d183a218abce3031ad828b",
+  "relatedItems": []
+}

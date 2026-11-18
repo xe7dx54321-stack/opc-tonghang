@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-1b880e8b515a73851d945726",
+  "title": "Humyn Labs完成4700万美元融资，股权与债务各占一部分",
+  "firstSeen": "2026-11-19",
+  "editionDate": "2026-11-19",
+  "occurrences": [
+    {
+      "id": "occ-1b880e8b515a73851d945726",
+      "fact": {
+        "subject": "Humyn Labs",
+        "action": "完成A轮融资",
+        "object": "机器人训练数据业务",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-19",
+      "reports": [
+        {
+          "ref": "2026-11-19/2026-11-19-humyn-robotics-funding",
+          "itemId": "2026-11-19-humyn-robotics-funding",
+          "editionDate": "2026-11-19",
+          "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "source": "techcrunch",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-18T11:30:00+00:00",
+          "title": "Humyn Labs完成4700万美元融资，股权与债务各占一部分"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-19"
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-19",
+  "itemCount": 6,
+  "storyCount": 6,
+  "clusterCount": 6,
+  "files": [
+    "2026-11-19-humyn-robotics-funding.json",
+    "2026-11-19-aws-hyperpod-workload-recovery.json",
+    "2026-11-19-aws-hyperpod-nvidia-dynamo.json",
+    "2026-11-19-airbnb-coding-agent-cost.json",
+    "2026-11-19-openjiuwen-harnessless-agentos.json",
+    "2026-11-19-hy4-flash-office-evaluation.json"
+  ],
+  "representatives": [
+    "2026-11-19-humyn-robotics-funding",
+    "2026-11-19-aws-hyperpod-workload-recovery",
+    "2026-11-19-aws-hyperpod-nvidia-dynamo",
+    "2026-11-19-airbnb-coding-agent-cost",
+    "2026-11-19-openjiuwen-harnessless-agentos",
+    "2026-11-19-hy4-flash-office-evaluation"
+  ]
+}

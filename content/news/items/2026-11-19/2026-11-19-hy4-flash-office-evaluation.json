@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-19-hy4-flash-office-evaluation",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247635595&idx=1&sn=292eea07c1696bcc47ab6ebfeaf7183b",
+  "publishedAt": "2026-11-18T14:51:00+08:00",
+  "fact": {
+    "subject": "硅星人Pro",
+    "action": "发表办公场景对比评测",
+    "object": "Hy4 flash等模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "硅星人Pro",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "746bc2ec85c2c2c0ce03890cde065296dd348cb02c856a368b3e91119c003a05",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247635595&idx=1&sn=292eea07c1696bcc47ab6ebfeaf7183b",
+    "originalPublishedAt": "2026-11-18T14:51:00+08:00",
+    "checkedAt": "2026-11-18T23:33:59.066Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "746bc2ec85c2c2c0ce03890cde065296dd348cb02c856a368b3e91119c003a05",
+      "kind": "fact",
+      "quote": "这次我们选择了 Hy4、Hy4 flash、DeepSeek V4.1 Flash、GLM 5.3 Flash 进行横评。"
+    }
+  ],
+  "title": "横评主流 Flash 模型｜比 DeepSeek 便宜一半，Hy4 flash 瞄准“办公基建模型”",
+  "displayTitle": "硅星人对比四款模型，测试办公任务表现",
+  "source": "wechat-silicon-star",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-18T10:31:58.447Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "硅星人Pro"
+  ],
+  "summary": "硅星人在WorkBuddy中使用会议策划等办公任务，对Hy4、Hy4 flash、DeepSeek V4.1 Flash和GLM 5.3 Flash进行对比，并列出Hy4 flash的API价格。单一场景和工具环境中的结果不能直接推广成通用能力排名，实际选型还要看交付质量与完整任务成本。",
+  "investorNote": "应结合真实业务数据衡量成本、可复现性与商业落地条件。",
+  "narrative": "硅星人在WorkBuddy中使用会议策划等办公任务，对Hy4、Hy4 flash、DeepSeek V4.1 Flash和GLM 5.3 Flash进行对比，并列出Hy4 flash的API价格。单一场景和工具环境中的结果不能直接推广成通用能力排名，实际选型还要看交付质量与完整任务成本。",
+  "score": 0.66,
+  "duplicateOf": null,
+  "clusterId": "event-d35675b58f16557533664254",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次具体动作与已检索的近期事件没有确认属于同一次发生或直接后续。"
+  },
+  "eventId": "event-d35675b58f16557533664254",
+  "occurrenceId": "occ-d35675b58f16557533664254",
+  "relatedItems": []
+}

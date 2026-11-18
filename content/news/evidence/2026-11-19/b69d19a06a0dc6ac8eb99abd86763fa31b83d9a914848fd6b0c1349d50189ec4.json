@@ -1,0 +1,12 @@
+{
+  "snapshotId": "b69d19a06a0dc6ac8eb99abd86763fa31b83d9a914848fd6b0c1349d50189ec4",
+  "url": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/",
+  "publishedAt": "2026-11-18T13:48:19-08:00",
+  "publishedAtQuote": "2026-11-18T13:48:19-08:00",
+  "retrievedAt": "2026-11-18T23:33:58.967Z",
+  "method": "agent-tool",
+  "contentHash": "b99a3d300c0ab9dd658481a4e4bb64240e1f2ebeefc134ce6112ee976ebeab2c",
+  "quotations": [
+    "Before a rollout, we run evals on our own tasks to measure each model’s score and cost per task. Cost per task is the list-price cost of all the tokens an agent uses to finish one task."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-ab533f3dc7c8ce5691bcaf30",
+  "title": "Airbnb公开编码Agent选型：同时衡量任务质量与成本",
+  "firstSeen": "2026-11-19",
+  "editionDate": "2026-11-19",
+  "occurrences": [
+    {
+      "id": "occ-ab533f3dc7c8ce5691bcaf30",
+      "fact": {
+        "subject": "Airbnb",
+        "action": "介绍模型评测和成本监控实践",
+        "object": "Bedrock编码Agent",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-19",
+      "reports": [
+        {
+          "ref": "2026-11-19/2026-11-19-airbnb-coding-agent-cost",
+          "itemId": "2026-11-19-airbnb-coding-agent-cost",
+          "editionDate": "2026-11-19",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/",
+          "source": "aws-machine-learning",
+          "owner": "AWS",
+          "role": "observer",
+          "publishedAt": "2026-11-18T13:48:19-08:00",
+          "title": "Airbnb公开编码Agent选型：同时衡量任务质量与成本"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-19"
+}

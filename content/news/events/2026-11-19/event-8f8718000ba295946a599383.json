@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-8f8718000ba295946a599383",
+  "title": "AWS在HyperPod推理中支持NVIDIA Dynamo",
+  "firstSeen": "2026-11-19",
+  "editionDate": "2026-11-19",
+  "occurrences": [
+    {
+      "id": "occ-8f8718000ba295946a599383",
+      "fact": {
+        "subject": "AWS",
+        "action": "支持托管部署",
+        "object": "NVIDIA Dynamo分布式推理",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-19",
+      "reports": [
+        {
+          "ref": "2026-11-19/2026-11-19-aws-hyperpod-nvidia-dynamo",
+          "itemId": "2026-11-19-aws-hyperpod-nvidia-dynamo",
+          "editionDate": "2026-11-19",
+          "url": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
+          "source": "aws-machine-learning",
+          "owner": "AWS",
+          "role": "principal",
+          "publishedAt": "2026-11-17T15:33:26-08:00",
+          "title": "AWS在HyperPod推理中支持NVIDIA Dynamo"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-19"
+}

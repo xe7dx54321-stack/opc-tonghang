@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-19",
+  "window": {
+    "start": 1794958200000,
+    "end": 1795044600000
+  },
+  "digestHash": "17980144a4d393488a0c6cc86c3e6550160868437bbdf5dd138b3a239b5a074e",
+  "stories": [
+    {
+      "heading": "Humyn Labs完成4700万美元融资，股权与债务各占一部分",
+      "itemId": "2026-11-19-humyn-robotics-funding",
+      "eventId": "event-1b880e8b515a73851d945726",
+      "occurrenceId": "occ-1b880e8b515a73851d945726"
+    },
+    {
+      "heading": "AWS为HyperPod增加训练故障检测与恢复能力",
+      "itemId": "2026-11-19-aws-hyperpod-workload-recovery",
+      "eventId": "event-ccf31569992a19983997cb37",
+      "occurrenceId": "occ-ccf31569992a19983997cb37"
+    },
+    {
+      "heading": "AWS在HyperPod推理中支持NVIDIA Dynamo",
+      "itemId": "2026-11-19-aws-hyperpod-nvidia-dynamo",
+      "eventId": "event-8f8718000ba295946a599383",
+      "occurrenceId": "occ-8f8718000ba295946a599383"
+    },
+    {
+      "heading": "Airbnb公开编码Agent选型：同时衡量任务质量与成本",
+      "itemId": "2026-11-19-airbnb-coding-agent-cost",
+      "eventId": "event-ab533f3dc7c8ce5691bcaf30",
+      "occurrenceId": "occ-ab533f3dc7c8ce5691bcaf30"
+    },
+    {
+      "heading": "openJiuwen提出Harnessless，复用Agent运行能力",
+      "itemId": "2026-11-19-openjiuwen-harnessless-agentos",
+      "eventId": "event-a1d183a218abce3031ad828b",
+      "occurrenceId": "occ-a1d183a218abce3031ad828b"
+    },
+    {
+      "heading": "硅星人对比四款模型，测试办公任务表现",
+      "itemId": "2026-11-19-hy4-flash-office-evaluation",
+      "eventId": "event-d35675b58f16557533664254",
+      "occurrenceId": "occ-d35675b58f16557533664254"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-19-airbnb-coding-agent-cost.json": "46b095cf854bc0f6d3707c70eb0e434504e4c20bd37b92906379b72df22f8244",
+    "2026-11-19-aws-hyperpod-nvidia-dynamo.json": "3fb62c06c2384739141ae55a5d589c462805e85dd936f3a3cb461b432e4c32b2",
+    "2026-11-19-aws-hyperpod-workload-recovery.json": "9e46453c3a138fd940e39e236236d4d5a92a46cfd7eb5c7874f375276f6b142b",
+    "2026-11-19-humyn-robotics-funding.json": "ab659f2a2ad840ca7ba28c9eb63b7bb9f6206eedb35987133522d2856574ddb5",
+    "2026-11-19-hy4-flash-office-evaluation.json": "7047304dbb4b0da8e5bb2377671c85fa14468e4a542d701474e3c68a271c6a9a",
+    "2026-11-19-openjiuwen-harnessless-agentos.json": "29bb1e89ccfb5a5b6b797b08dd38577b9a9ab7b0aa30bb8170210bf1fc12c465"
+  },
+  "evidenceHashes": {
+    "0d9e8f06b3c96285b828e74741b5b4feca7a4ee795fa07ee7ce4450c4fdb0e90.json": "04523fcbf86d51d686a0b5d8d558a403ebd5fcfadf393cd1131b243b5e8aaa1e",
+    "19aba945b1e2f871d018c71e6313d0c472a4fd36c67e597511a9eeb96bbe8dfa.json": "386dcaf4bf2dd712569f443d6440a86dffd3055641722ee80e489277d43d32f9",
+    "746bc2ec85c2c2c0ce03890cde065296dd348cb02c856a368b3e91119c003a05.json": "d911e254a041d4eb228fed4e9acc70dc4bca83fb34445533215e2ffffc83be21",
+    "76543fbad2caf019c2e28c6665c953a0a42a85eb5770ab03f2505d7de5e374bf.json": "855709ef0ce1af99e7b0e6be2efee9366ccb594aa1cc2e3fe525b2d24542c3c6",
+    "a2f41736a9109f7df4966bd71358edf97db96f25039a8afdfbe2f5cbaeb2890b.json": "c840158752cfebd7594239146614666a48c672856f085dcecb93b66ed0f8ecea",
+    "b69d19a06a0dc6ac8eb99abd86763fa31b83d9a914848fd6b0c1349d50189ec4.json": "371ce605d9cf572571f6a781464490f2d825f4570aa5d0ab34f2572318336519"
+  },
+  "eventsHashes": {
+    "event-1b880e8b515a73851d945726.json": "42bbfca6a1cdc9f0218c40ee9442dab49533404820fc395024349786aa14fe8a",
+    "event-8f8718000ba295946a599383.json": "a04189dface6b939af50a84917aff0a70b4dc12f39e23303dfabb12972c01aed",
+    "event-a1d183a218abce3031ad828b.json": "b4eba9c792ee6324e847a573bd18a795b35b400641c0a19ad5800435cd99d9cc",
+    "event-ab533f3dc7c8ce5691bcaf30.json": "200543d4fd197644344e16e32173857b5d9d0869f2a2e12d8c2630a7f7baf66a",
+    "event-ccf31569992a19983997cb37.json": "2cbb0743fb511277a4b6a7e5ef9f9326d22cbfba205f4f1197993aaf1f97d2fb",
+    "event-d35675b58f16557533664254.json": "78c52cd2e901b0fbe2d426fcb8847cf845a5fa36f45d9a69a48dd286f9d52d59"
+  }
+}

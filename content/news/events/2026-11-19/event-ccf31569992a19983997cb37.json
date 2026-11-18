@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-ccf31569992a19983997cb37",
+  "title": "AWS为HyperPod增加训练故障检测与恢复能力",
+  "firstSeen": "2026-11-19",
+  "editionDate": "2026-11-19",
+  "occurrences": [
+    {
+      "id": "occ-ccf31569992a19983997cb37",
+      "fact": {
+        "subject": "AWS",
+        "action": "推出工作负载恢复与基础设施检查",
+        "object": "SageMaker HyperPod",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-19",
+      "reports": [
+        {
+          "ref": "2026-11-19/2026-11-19-aws-hyperpod-workload-recovery",
+          "itemId": "2026-11-19-aws-hyperpod-workload-recovery",
+          "editionDate": "2026-11-19",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
+          "source": "aws-machine-learning",
+          "owner": "AWS",
+          "role": "principal",
+          "publishedAt": "2026-11-18T15:03:29-08:00",
+          "title": "AWS为HyperPod增加训练故障检测与恢复能力"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-19"
+}

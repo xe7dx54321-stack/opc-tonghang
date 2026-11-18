@@ -1,0 +1,12 @@
+{
+  "snapshotId": "76543fbad2caf019c2e28c6665c953a0a42a85eb5770ab03f2505d7de5e374bf",
+  "url": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
+  "publishedAt": "2026-11-17T15:33:26-08:00",
+  "publishedAtQuote": "2026-11-17T15:33:26-08:00",
+  "retrievedAt": "2026-11-18T23:33:58.991Z",
+  "method": "agent-tool",
+  "contentHash": "ad7f9425761ae5a1dc9706cb518c84564681c815b5c6ada457dee37c9b44bece",
+  "quotations": [
+    "Amazon SageMaker HyperPod Inference now supports\nNVIDIA Dynamo"
+  ]
+}
