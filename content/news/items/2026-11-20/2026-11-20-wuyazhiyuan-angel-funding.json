@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-20-wuyazhiyuan-angel-funding",
+  "title": "五源、红杉等投资数亿元，北大博导押注模型实时自进化｜智能涌现首发",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&mid=2247518944&idx=1&sn=0d241ebe5c00801765fff10db9f6bdce",
+  "source": "wechat-zhinengyongxian",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-19T10:00:00+08:00",
+  "fetchedAt": "2026-11-19T10:54:50.162Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "智能涌现报道称无涯智远连续完成数亿元天使轮和天使加轮融资，资金用于实时递归自我改进模型研发及产品落地。",
+  "investorNote": "持续学习的关键检验是知识更新收益能否覆盖遗忘、验证与线上运行的成本。",
+  "score": 0.84,
+  "displayTitle": "无涯智远获数亿元融资，押注模型参数持续学习",
+  "narrative": "据《智能涌现》报道，无涯智远近期连续完成**数亿元天使轮和天使加轮融资**，投资方包括五源资本、红杉中国、联想之星等；报道没有给出两轮各自的精确金额和完成日期。资金计划用于实时 RSI 模型研发与产品落地。报道把融资完成时间写作“近日”，因此今日的新动作是媒体披露融资，而不是断言交易恰在今天完成。 公司探索的路线，是用超网络根据新增知识生成基座模型的参数更新，而不只是把资料留在上下文或检索库里。原文提到的 SHINE 是此前论文，不应视为今天新发表的研究；它提供路线背景，也不等于已经证明公司产品在真实业务环境中可用。 这个方向真正的商业问题在于：更新一次知识需要多少计算，更新后旧能力是否退化，错误知识能否撤回，以及客户如何审计模型变化。即便新知识写入参数很快，如果验证、回滚和隔离的成本很高，仍未必比检索增强或周期性微调更划算。现阶段应把技术效果视为团队路线和早期研究，而非已独立验证的生产性能。",
+  "fact": {
+    "subject": "无涯智远",
+    "action": "完成天使轮和天使加轮融资",
+    "object": "持续学习和实时RSI研发",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "智能涌现",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d393bae0dafb3d2a391cd38fa466835d6ece73265e9c242e09538f99185c19ee",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&mid=2247518944&idx=1&sn=0d241ebe5c00801765fff10db9f6bdce",
+    "originalPublishedAt": "2026-11-19T10:00:00+08:00",
+    "checkedAt": "2026-11-19T23:35:51.251Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d393bae0dafb3d2a391cd38fa466835d6ece73265e9c242e09538f99185c19ee",
+      "kind": "fact",
+      "quote": "《智能涌现》获悉，无涯智远近日已连续完成数亿元天使轮和天使加轮融资，投资方包括五源资本、红杉中国、联想之星、中关村科学城基金及戈壁创投等多家知名投资机构，"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件的具体动作不同。"
+  },
+  "eventId": "event-9c681291cbc94dd4f754473b",
+  "occurrenceId": "occ-9c681291cbc94dd4f754473b",
+  "clusterId": "event-9c681291cbc94dd4f754473b",
+  "duplicateOf": null,
+  "relatedItems": []
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-20",
+  "window": {
+    "start": 1795044600000,
+    "end": 1795131000000
+  },
+  "digestHash": "6332764281520707209244b967e7a50e6c0da814a625da6f7417c8143770a5fc",
+  "stories": [
+    {
+      "heading": "Anthropic登陆纳斯达克，开盘价较发行价上涨约三成",
+      "itemId": "2026-11-20-anthropic-ipo-trading",
+      "eventId": "event-77304c7d4f6f1953a3030212",
+      "occurrenceId": "occ-be5cc8129324661d858b2b05"
+    },
+    {
+      "heading": "无涯智远获数亿元融资，押注模型参数持续学习",
+      "itemId": "2026-11-20-wuyazhiyuan-angel-funding",
+      "eventId": "event-9c681291cbc94dd4f754473b",
+      "occurrenceId": "occ-9c681291cbc94dd4f754473b"
+    },
+    {
+      "heading": "Gemini在Mac上获得电脑操作能力，首批限美国付费用户",
+      "itemId": "2026-11-20-google-gemini-mac-computer-use",
+      "eventId": "event-a26e1a570ae52e8075be7667",
+      "occurrenceId": "occ-a26e1a570ae52e8075be7667"
+    },
+    {
+      "heading": "Google预览Tool Retrieval，按需加载Agent工具参数",
+      "itemId": "2026-11-20-google-gemini-tool-retrieval",
+      "eventId": "event-6d79d1932d74d9c306a70c70",
+      "occurrenceId": "occ-6d79d1932d74d9c306a70c70"
+    },
+    {
+      "heading": "AWS为SageMaker推理端点增加漂移与闲置GPU监控",
+      "itemId": "2026-11-20-aws-sagemaker-inference-monitoring",
+      "eventId": "event-6533bf104661695e941314fb",
+      "occurrenceId": "occ-6533bf104661695e941314fb"
+    },
+    {
+      "heading": "阿里云外部客户收入同比增长64%，增速较上季加快",
+      "itemId": "2026-11-20-alibaba-cloud-quarterly-growth",
+      "eventId": "event-5d303ed991f20d1815a59fc3",
+      "occurrenceId": "occ-5d303ed991f20d1815a59fc3"
+    },
+    {
+      "heading": "Meta员工反馈Muse混淆会话，隐私边界受到质疑",
+      "itemId": "2026-11-20-meta-muse-privacy-reports",
+      "eventId": "event-d91e2221ae93e9f31009457c",
+      "occurrenceId": "occ-d91e2221ae93e9f31009457c"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-20-alibaba-cloud-quarterly-growth.json": "c1068e425a4f13a69fd7c4a3f77baad7b10d5fc224036b8a7c2db886b77bae61",
+    "2026-11-20-anthropic-ipo-trading.json": "4db05e7e04d8cea971ac3c2739061584e5adbeaf8fdcdc2d8131e6d3bdfb1775",
+    "2026-11-20-aws-sagemaker-inference-monitoring.json": "6e39168cf7b45e31cbef7d6c72719161c2c8e3d629a8bf29ed443288b581168b",
+    "2026-11-20-google-gemini-mac-computer-use.json": "576866ae7c1a8951f2c64b3d0f3b21dd68549be112cfb6fc823dae780449b3aa",
+    "2026-11-20-google-gemini-tool-retrieval.json": "7fdf57ee669cf242fdf92a2531159d3d5c9892f7fc5fca4e9cd8413ab3873cdd",
+    "2026-11-20-meta-muse-privacy-reports.json": "a8d2e7ea20d7c1441676c580f34ded8ac239b8ec0497da25b7b48d14f81f1c62",
+    "2026-11-20-wuyazhiyuan-angel-funding.json": "96d2ca6189f9a37749793ea7306ccd236a7a62b0959721b2458d3266be384a05"
+  },
+  "evidenceHashes": {
+    "1b1a53efc61513890c6e19e33fbeedc8da271212ed7b89a185554cd91d3bcbdd.json": "be0c3ae7962783235505aa5ee8287d28bb6873b267709ee37338ee590683e090",
+    "241aad244f19b00ca13b9d81f4f144bcc09a76f4ffb0e781afdf5e561e62b315.json": "8f650cda8e4673488f7ed4c46e85293f6312828bca107a6378228abaed3f548f",
+    "4107347da607833bf8aee6565169509d2e14f9a80dd713d9951c8d4f538e3891.json": "91c5e4187b0fed93037eb67fa908e8e9e1532284ccafa7ef73210422fcdc2681",
+    "7a5edb0d9924521f2f268e90de5160f15390e93fecb28671ec3e29f3f38dee28.json": "4fe98d7b29b7213c7c4033a1e0b8369a21e67cc19f882446c19464980eacc9de",
+    "8f26d85faef7300592718e903e41716594a1740ae67b5dbaa2e60bf4502cc423.json": "2eb8977fcc93d6da9ef4339bc720503bd9f9df36d45af33483a49c43c807ad15",
+    "d393bae0dafb3d2a391cd38fa466835d6ece73265e9c242e09538f99185c19ee.json": "c842a4739b5e25036fb47734e65474464a8c5f4e45f668bc8205ebe10b423354",
+    "e3c5c6c76b52190295e8fa3e142c4dfa4c3fb84f54a4825e5d62746433572031.json": "1f3b7b4031c3efdbe9b57ea329651ffbcac4af23d3da413c6047ce85fc52a794"
+  },
+  "eventsHashes": {
+    "event-5d303ed991f20d1815a59fc3.json": "93e963304f9b31dc747aa98f428921b4a2f17400a5749a342d1cbc8ee456b362",
+    "event-6533bf104661695e941314fb.json": "038ae152472c3871204dff7a90a8cd8b08afd3836d957bd0f3e28c305ed4da99",
+    "event-6d79d1932d74d9c306a70c70.json": "900719f92db69ec16a9df1db6e8f2bac4b919bc8ef69b220a0ed370ad6a3d4d1",
+    "event-77304c7d4f6f1953a3030212.json": "bf6e58ee391daf69a4b60b79f5784b600d7202fe82f6101fc016c029c372f99d",
+    "event-9c681291cbc94dd4f754473b.json": "d51e7a0ad79d11770ebce73044b16a7d9e2e5f7bd653a0cbbfed54eefe7b4a0d",
+    "event-a26e1a570ae52e8075be7667.json": "793051af91a7fbafcf28cab76c7553382e7e1cd350ea5c23f656b9ff4ffd16a0",
+    "event-d91e2221ae93e9f31009457c.json": "28009eb7105048a641534980cb3436ac0a240b739b4c1903cc431814567c5408"
+  }
+}

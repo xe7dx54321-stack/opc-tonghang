@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-20-google-gemini-tool-retrieval",
+  "title": "Introducing Tool Retrieval in the Gemini API",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+  "source": "blog-google-ai",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-19T18:00:00+00:00",
+  "fetchedAt": "2026-11-19T19:04:27.437Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "Google在Gemini Interactions API预览Tool Retrieval，以按需加载工具参数schema减少大型工具库的上下文开销。",
+  "investorNote": "工具发现和加载策略将成为Agent平台衡量时延、准确率与成本的重要部分。",
+  "score": 0.75,
+  "displayTitle": "Google预览Tool Retrieval，按需加载Agent工具参数",
+  "narrative": "Google 在 Gemini Interactions API 中预览 Tool Retrieval：Agent 可以保留工具名称和描述，仅在需要时加载完整参数 schema，而不必每次都把所有工具定义送进上下文。开发者通过加入 tool_search 并设置 defer_loading 使用该功能。Google 称这有助于减少输入 token 和时延，并改善大量候选工具时的选择问题。 限制同样重要：这是预览功能，支持 Gemini 3.6 及之后的模型；工具检索没有单独收费，但工具搜索本身及加载后的 schema 仍按模型 token 计费。实际节省取决于未加载工具有多少，以及会话里反复调用的情况。厂商的效率描述并不是独立基准，采购方需要在自己的工具数量、流量与任务成功率上做对照。",
+  "fact": {
+    "subject": "Google",
+    "action": "推出预览",
+    "object": "Gemini API Tool Retrieval",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Google",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e3c5c6c76b52190295e8fa3e142c4dfa4c3fb84f54a4825e5d62746433572031",
+    "originalUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "originalPublishedAt": "2026-11-19T18:00:00+00:00",
+    "checkedAt": "2026-11-19T23:35:51.252Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e3c5c6c76b52190295e8fa3e142c4dfa4c3fb84f54a4825e5d62746433572031",
+      "kind": "fact",
+      "quote": "When an agent connects to dozens or even hundreds of tools, sending every full parameter schema on every request adds up fast."
+    },
+    {
+      "snapshotId": "e3c5c6c76b52190295e8fa3e142c4dfa4c3fb84f54a4825e5d62746433572031",
+      "kind": "condition",
+      "quote": "Tool Retrieval has no separate charge. Input and output tokens are billed at the standard rates for the model you call."
+    },
+    {
+      "snapshotId": "e3c5c6c76b52190295e8fa3e142c4dfa4c3fb84f54a4825e5d62746433572031",
+      "kind": "condition",
+      "quote": "Tool Retrieval works with Gemini 3.6 and later models to support your complex agent tasks."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件的具体动作不同。"
+  },
+  "eventId": "event-6d79d1932d74d9c306a70c70",
+  "occurrenceId": "occ-6d79d1932d74d9c306a70c70",
+  "clusterId": "event-6d79d1932d74d9c306a70c70",
+  "duplicateOf": null,
+  "relatedItems": []
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-d91e2221ae93e9f31009457c",
+  "title": "Meta员工反馈Muse混淆会话，隐私边界受到质疑",
+  "firstSeen": "2026-11-20",
+  "editionDate": "2026-11-20",
+  "occurrences": [
+    {
+      "id": "occ-d91e2221ae93e9f31009457c",
+      "fact": {
+        "subject": "Meta",
+        "action": "员工反馈Muse出现会话混淆",
+        "object": "Muse内部测试中的隐私问题",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-20",
+      "reports": [
+        {
+          "ref": "2026-11-20/2026-11-20-meta-muse-privacy-reports",
+          "itemId": "2026-11-20-meta-muse-privacy-reports",
+          "editionDate": "2026-11-20",
+          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "relayer",
+          "publishedAt": "2026-11-19T17:38:40+00:00",
+          "title": "Meta员工反馈Muse混淆会话，隐私边界受到质疑"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-20"
+}

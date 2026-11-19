@@ -1,0 +1,13 @@
+{
+  "snapshotId": "4107347da607833bf8aee6565169509d2e14f9a80dd713d9951c8d4f538e3891",
+  "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+  "publishedAt": "2026-11-19T16:59:23+00:00",
+  "publishedAtQuote": "November 19, 2026",
+  "retrievedAt": "2026-11-19T23:35:51.249Z",
+  "method": "agent-tool",
+  "contentHash": "03de7dd01f0681327350782b027035674e3a572b1a1c539ffdf5ab5e17e076e1",
+  "quotations": [
+    "Shares of Anthropic are now trading on the Nasdaq exchange, as the company successfully executes its initial public offering.",
+    "In the early minutes of availability, shares were trading at $111.50, a 33% premium over the $83 IPO price."
+  ]
+}

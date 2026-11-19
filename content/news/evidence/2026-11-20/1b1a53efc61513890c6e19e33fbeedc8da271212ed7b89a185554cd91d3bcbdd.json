@@ -1,0 +1,14 @@
+{
+  "snapshotId": "1b1a53efc61513890c6e19e33fbeedc8da271212ed7b89a185554cd91d3bcbdd",
+  "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/",
+  "publishedAt": "2026-11-19T13:28:18-08:00",
+  "publishedAtQuote": "2026-11-19T13:28:18-08:00",
+  "retrievedAt": "2026-11-19T23:35:51.255Z",
+  "method": "agent-tool",
+  "contentHash": "c6cee9a981e6ae2defa959f44a086fceedbe06aa60667dd48629a83f51c3bc8c",
+  "quotations": [
+    "Monitoring is on by default for SageMaker AI inference endpoints using vLLM serving containers and GPU instances, with no setup required, and you can opt out of endpoints.",
+    "It does not read your requests or responses.",
+    "Benchmarks run on separate compute, and nothing changes on your endpoint until you choose to apply a result."
+  ]
+}

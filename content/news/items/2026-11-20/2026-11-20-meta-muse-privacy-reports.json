@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-20-meta-muse-privacy-reports",
+  "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+  "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-19T17:38:40+00:00",
+  "fetchedAt": "2026-11-19T18:03:21.053Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "TechCrunch转述路透对内部员工帖子的报道，称Meta员工发现Muse呈现不属于自己的信息，Meta表示员工测试版本不同于公众版本。",
+  "investorNote": "Agent产品的长期记忆和跨应用连接需要可审计的账户隔离与授权机制。",
+  "score": 0.73,
+  "displayTitle": "Meta员工反馈Muse混淆会话，隐私边界受到质疑",
+  "narrative": "TechCrunch 转述路透对 Meta 内部员工帖子的报道：员工称 Muse 出现会话混淆，展示了他们没有提出的请求，以及不属于自己的银行账户余额等信息。报道反映的是员工反馈，不能据此断言公众版本发生了同样规模的泄漏。 Meta 对 TechCrunch 表示，员工测试用于发现问题并改进安全与隐私保护，员工接触的 Muse 版本与公众版本不同。对投资者和产品团队，值得追问的是跨账号隔离、长期记忆和第三方应用授权能否被独立审计；更强的主动性会扩大可访问数据的范围，也提高一次错误关联的代价。",
+  "fact": {
+    "subject": "Meta",
+    "action": "员工反馈Muse出现会话混淆",
+    "object": "Muse内部测试中的隐私问题",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8f26d85faef7300592718e903e41716594a1740ae67b5dbaa2e60bf4502cc423",
+    "originalUrl": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+    "originalPublishedAt": "2026-11-19T17:38:40+00:00",
+    "checkedAt": "2026-11-19T23:35:51.256Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8f26d85faef7300592718e903e41716594a1740ae67b5dbaa2e60bf4502cc423",
+      "kind": "fact",
+      "quote": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn’t belong to them."
+    },
+    {
+      "snapshotId": "8f26d85faef7300592718e903e41716594a1740ae67b5dbaa2e60bf4502cc423",
+      "kind": "condition",
+      "quote": "Importantly, employees have access to different versions of Muse than the public, so they’re often reviewing features, functionality, and behavior not available elsewhere."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件的具体动作不同。"
+  },
+  "eventId": "event-d91e2221ae93e9f31009457c",
+  "occurrenceId": "occ-d91e2221ae93e9f31009457c",
+  "clusterId": "event-d91e2221ae93e9f31009457c",
+  "duplicateOf": null,
+  "relatedItems": []
+}

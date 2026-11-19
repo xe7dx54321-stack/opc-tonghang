@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-20",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-c22a12bd8d46de6156c0",
+      "title": "Gemini在Mac上推出电脑操作能力",
+      "summary": "Google为Gemini的Mac应用推出可操作本地应用和网页的电脑操作功能。",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "techcrunch.com",
+          "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you"
+        },
+        {
+          "name": "theverge.com",
+          "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+        }
+      ],
+      "memberUrls": [
+        "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
+        "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+      ]
+    }
+  ]
+}

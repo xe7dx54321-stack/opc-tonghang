@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-20-alibaba-cloud-quarterly-growth",
+  "title": "阿里云外部收入增长64%，增速创近六年新高",
+  "url": "https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-19T18:15:00+08:00",
+  "fetchedAt": "2026-11-19T12:26:24.597Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "雷峰网援引阿里巴巴最新季度业绩称阿里云外部客户收入同比增长64%，上季度为45%。",
+  "investorNote": "云业务增速需要结合收入构成、利润率和新增算力投入持续观察。",
+  "score": 0.78,
+  "displayTitle": "阿里云外部客户收入同比增长64%，增速较上季加快",
+  "narrative": "雷峰网报道，阿里巴巴最新季度业绩显示，阿里云外部客户收入同比增长 **64%**，高于上一季度的 45%；AI 相关产品收入连续第 13 个季度实现三位数增长。这里的 64% 指外部客户收入增速，不应误写成整个集团收入或云业务利润增速。 云需求加快对国产算力生态有直接意义，但收入增长本身不能回答毛利率、资本开支回收或客户使用持续性。企业应继续看订单向实际消耗的转化，以及新增资源利用率；投资人则应区分一次性扩容带来的需求与稳定、可复购的生产工作负载。",
+  "fact": {
+    "subject": "阿里巴巴",
+    "action": "公布季度业绩",
+    "object": "阿里云外部客户收入增长",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "241aad244f19b00ca13b9d81f4f144bcc09a76f4ffb0e781afdf5e561e62b315",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html",
+    "originalPublishedAt": "2026-11-19T18:15:00+08:00",
+    "checkedAt": "2026-11-19T23:35:51.256Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "241aad244f19b00ca13b9d81f4f144bcc09a76f4ffb0e781afdf5e561e62b315",
+      "kind": "fact",
+      "quote": "11月19日晚间，阿里巴巴集团发布最新季度业绩，阿里云外部客户收入同比增长64%，较上一季度的45%显著加快，刷新近六年来的增速高点。"
+    },
+    {
+      "snapshotId": "241aad244f19b00ca13b9d81f4f144bcc09a76f4ffb0e781afdf5e561e62b315",
+      "kind": "condition",
+      "quote": "季度内，AI相关产品收入连续第13个季度实现三位数增长，驱动阿里云收入增长再创新高。"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件的具体动作不同。"
+  },
+  "eventId": "event-5d303ed991f20d1815a59fc3",
+  "occurrenceId": "occ-5d303ed991f20d1815a59fc3",
+  "clusterId": "event-5d303ed991f20d1815a59fc3",
+  "duplicateOf": null,
+  "relatedItems": []
+}

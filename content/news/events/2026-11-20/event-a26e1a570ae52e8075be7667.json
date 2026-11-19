@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a26e1a570ae52e8075be7667",
+  "title": "Gemini在Mac上获得电脑操作能力，首批限美国付费用户",
+  "firstSeen": "2026-11-20",
+  "editionDate": "2026-11-20",
+  "occurrences": [
+    {
+      "id": "occ-a26e1a570ae52e8075be7667",
+      "fact": {
+        "subject": "Google",
+        "action": "推出电脑操作能力",
+        "object": "Gemini macOS应用",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-20",
+      "reports": [
+        {
+          "ref": "2026-11-20/2026-11-20-google-gemini-mac-computer-use",
+          "itemId": "2026-11-20-google-gemini-mac-computer-use",
+          "editionDate": "2026-11-20",
+          "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-19T18:09:11+00:00",
+          "title": "Gemini在Mac上获得电脑操作能力，首批限美国付费用户"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-20"
+}

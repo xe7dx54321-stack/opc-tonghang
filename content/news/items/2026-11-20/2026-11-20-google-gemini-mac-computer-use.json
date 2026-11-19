@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-20-google-gemini-mac-computer-use",
+  "title": "Google gives Gemini the ability to use your Mac for you",
+  "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-19T18:09:11+00:00",
+  "fetchedAt": "2026-11-19T18:34:01.276Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "Google为Gemini macOS应用推出可操作本地应用及网页的电脑操作能力，初期限美国英语付费用户。",
+  "investorNote": "桌面Agent的竞争从模型回答转向跨应用执行、权限控制与错误恢复。",
+  "score": 0.8,
+  "displayTitle": "Gemini在Mac上获得电脑操作能力，首批限美国付费用户",
+  "narrative": "Google 将 computer use 引入 Gemini 的 macOS 桌面应用。TechCrunch 报道，用户给出任务后，Agent 可以在后台操作本地应用和网站，用户能在聊天界面查看执行过程，并可暂停、停止或批准动作。首批仅面向美国英语用户，要求安装 Mac 应用并订阅 Google AI Plus、Pro 或 Ultra；其他市场与平台的时间尚未公布。 这里的新变化是 Agent 能跨过浏览器页面，进入桌面文件和原生应用。对企业软件而言，这既可能让原本没有 API 的工作流被自动化，也会把权限、隐私和审计问题直接带进终端。能演示跨应用操作并不等于能可靠完成复杂工作：用户真正需要的是明确的授权边界、动作前确认，以及操作失败后的可恢复性。",
+  "fact": {
+    "subject": "Google",
+    "action": "推出电脑操作能力",
+    "object": "Gemini macOS应用",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "7a5edb0d9924521f2f268e90de5160f15390e93fecb28671ec3e29f3f38dee28",
+    "originalUrl": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+    "originalPublishedAt": "2026-11-19T18:09:11+00:00",
+    "checkedAt": "2026-11-19T23:35:51.251Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "7a5edb0d9924521f2f268e90de5160f15390e93fecb28671ec3e29f3f38dee28",
+      "kind": "fact",
+      "quote": "Google on Thursday announced that it is bringing computer use to its Gemini desktop application on macOS, allowing its AI to complete tasks on users’ behalf, navigating native Mac apps, and browsing websites in the background."
+    },
+    {
+      "snapshotId": "7a5edb0d9924521f2f268e90de5160f15390e93fecb28671ec3e29f3f38dee28",
+      "kind": "condition",
+      "quote": "The feature is initially available in English in the U.S. and requires the Gemini app for Mac and a Google AI Plus, Pro, or Ultra subscription."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件的具体动作不同。"
+  },
+  "eventId": "event-a26e1a570ae52e8075be7667",
+  "occurrenceId": "occ-a26e1a570ae52e8075be7667",
+  "clusterId": "event-a26e1a570ae52e8075be7667",
+  "duplicateOf": null,
+  "relatedItems": []
+}

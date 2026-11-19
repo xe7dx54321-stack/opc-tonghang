@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6d79d1932d74d9c306a70c70",
+  "title": "Google预览Tool Retrieval，按需加载Agent工具参数",
+  "firstSeen": "2026-11-20",
+  "editionDate": "2026-11-20",
+  "occurrences": [
+    {
+      "id": "occ-6d79d1932d74d9c306a70c70",
+      "fact": {
+        "subject": "Google",
+        "action": "推出预览",
+        "object": "Gemini API Tool Retrieval",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-20",
+      "reports": [
+        {
+          "ref": "2026-11-20/2026-11-20-google-gemini-tool-retrieval",
+          "itemId": "2026-11-20-google-gemini-tool-retrieval",
+          "editionDate": "2026-11-20",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+          "source": "blog-google-ai",
+          "owner": "Google",
+          "role": "principal",
+          "publishedAt": "2026-11-19T18:00:00+00:00",
+          "title": "Google预览Tool Retrieval，按需加载Agent工具参数"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-20"
+}

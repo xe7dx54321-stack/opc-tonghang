@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6533bf104661695e941314fb",
+  "title": "AWS为SageMaker推理端点增加漂移与闲置GPU监控",
+  "firstSeen": "2026-11-20",
+  "editionDate": "2026-11-20",
+  "occurrences": [
+    {
+      "id": "occ-6533bf104661695e941314fb",
+      "fact": {
+        "subject": "AWS",
+        "action": "增加推理端点监控与建议",
+        "object": "SageMaker AI推理端点",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-20",
+      "reports": [
+        {
+          "ref": "2026-11-20/2026-11-20-aws-sagemaker-inference-monitoring",
+          "itemId": "2026-11-20-aws-sagemaker-inference-monitoring",
+          "editionDate": "2026-11-20",
+          "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/",
+          "source": "aws-machine-learning",
+          "owner": "AWS",
+          "role": "principal",
+          "publishedAt": "2026-11-19T13:28:18-08:00",
+          "title": "AWS为SageMaker推理端点增加漂移与闲置GPU监控"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-20"
+}

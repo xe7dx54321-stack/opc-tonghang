@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-20-aws-sagemaker-inference-monitoring",
+  "title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
+  "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/",
+  "source": "aws-machine-learning",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-19T13:28:18-08:00",
+  "fetchedAt": "2026-11-19T21:36:04.593Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "AWS称SageMaker AI可监控合格推理端点的延迟漂移、闲置容量和配置优化机会，并供用户比较替代配置。",
+  "investorNote": "推理平台的竞争正延伸至持续监测有效利用率和变更决策，而不只是部署。",
+  "score": 0.7,
+  "displayTitle": "AWS为SageMaker推理端点增加漂移与闲置GPU监控",
+  "narrative": "AWS 介绍 SageMaker AI 推理端点的新监控与优化建议：系统观察延迟变化、闲置 GPU 和配置缺口，经 AWS Health 通知后，用户可以在独立计算资源上比较替代配置的响应时间、吞吐及成本。生产端点不会在用户未主动应用结果时自动变更。 AWS 表示，符合条件的 GPU 端点需使用 vLLM serving container，监控默认开启且可以退出；它观察运行信号，不读取请求或响应。监控和运行独立基准的成本不应混为一谈。对算力买方而言，这解决的是部署后工作负载变化造成的资源漂移，但推荐配置是否适用仍取决于真实流量，不能把厂商建议直接当作节省金额。",
+  "fact": {
+    "subject": "AWS",
+    "action": "增加推理端点监控与建议",
+    "object": "SageMaker AI推理端点",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "AWS",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "1b1a53efc61513890c6e19e33fbeedc8da271212ed7b89a185554cd91d3bcbdd",
+    "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/",
+    "originalPublishedAt": "2026-11-19T13:28:18-08:00",
+    "checkedAt": "2026-11-19T23:35:51.255Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "1b1a53efc61513890c6e19e33fbeedc8da271212ed7b89a185554cd91d3bcbdd",
+      "kind": "fact",
+      "quote": "Monitoring is on by default for SageMaker AI inference endpoints using vLLM serving containers and GPU instances, with no setup required, and you can opt out of endpoints."
+    },
+    {
+      "snapshotId": "1b1a53efc61513890c6e19e33fbeedc8da271212ed7b89a185554cd91d3bcbdd",
+      "kind": "condition",
+      "quote": "It does not read your requests or responses."
+    },
+    {
+      "snapshotId": "1b1a53efc61513890c6e19e33fbeedc8da271212ed7b89a185554cd91d3bcbdd",
+      "kind": "condition",
+      "quote": "Benchmarks run on separate compute, and nothing changes on your endpoint until you choose to apply a result."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周已收录事件的具体动作不同。"
+  },
+  "eventId": "event-6533bf104661695e941314fb",
+  "occurrenceId": "occ-6533bf104661695e941314fb",
+  "clusterId": "event-6533bf104661695e941314fb",
+  "duplicateOf": null,
+  "relatedItems": []
+}

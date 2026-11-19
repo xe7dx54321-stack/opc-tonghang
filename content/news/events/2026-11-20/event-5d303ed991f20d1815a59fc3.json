@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-5d303ed991f20d1815a59fc3",
+  "title": "阿里云外部客户收入同比增长64%，增速较上季加快",
+  "firstSeen": "2026-11-20",
+  "editionDate": "2026-11-20",
+  "occurrences": [
+    {
+      "id": "occ-5d303ed991f20d1815a59fc3",
+      "fact": {
+        "subject": "阿里巴巴",
+        "action": "公布季度业绩",
+        "object": "阿里云外部客户收入增长",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-20",
+      "reports": [
+        {
+          "ref": "2026-11-20/2026-11-20-alibaba-cloud-quarterly-growth",
+          "itemId": "2026-11-20-alibaba-cloud-quarterly-growth",
+          "editionDate": "2026-11-20",
+          "url": "https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-19T18:15:00+08:00",
+          "title": "阿里云外部客户收入同比增长64%，增速较上季加快"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-20"
+}

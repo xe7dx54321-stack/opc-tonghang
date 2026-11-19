@@ -1,0 +1,14 @@
+{
+  "snapshotId": "e3c5c6c76b52190295e8fa3e142c4dfa4c3fb84f54a4825e5d62746433572031",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+  "publishedAt": "2026-11-19T18:00:00+00:00",
+  "publishedAtQuote": "Nov 19, 2026",
+  "retrievedAt": "2026-11-19T23:35:51.252Z",
+  "method": "agent-tool",
+  "contentHash": "82875196a0e0b09e3277c9f355ca681f68bdae978e3c105ae6ae2ed4af02d1de",
+  "quotations": [
+    "When an agent connects to dozens or even hundreds of tools, sending every full parameter schema on every request adds up fast.",
+    "Tool Retrieval has no separate charge. Input and output tokens are billed at the standard rates for the model you call.",
+    "Tool Retrieval works with Gemini 3.6 and later models to support your complex agent tasks."
+  ]
+}

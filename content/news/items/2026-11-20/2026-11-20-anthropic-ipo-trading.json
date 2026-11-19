@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-20-anthropic-ipo-trading",
+  "title": "Anthropic hits NASDAQ exchange at $110, $27 above IPO price",
+  "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+  "source": "techcrunch",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-19T16:59:23+00:00",
+  "fetchedAt": "2026-11-19T17:02:38.863Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "TechCrunch报道Anthropic股票开始在纳斯达克交易，早盘报价111.50美元，高于每股83美元的发行价。",
+  "investorNote": "上市为模型公司的估值、融资需求和后续经营表现提供了更透明的观察窗口。",
+  "score": 0.95,
+  "displayTitle": "Anthropic登陆纳斯达克，开盘价较发行价上涨约三成",
+  "narrative": "TechCrunch 报道，Anthropic 已在纳斯达克开始交易，上市初期股价为 **111.50 美元**，较每股 83 美元的发行价高约 33%。这是此前 IPO 路演之后的新进展，不是把路演重新当作一次新上市。盘初报价只是当时的市场价格，并不代表收盘表现或未来估值。 对 AI 投资而言，上市的意义不只是多了一个市值数字：公开市场会持续检验模型收入增长、算力支出与融资需求之间的关系。高开说明当时买方愿意以更高价格参与，但它本身既不能证明模型优势可以长期维持，也不能回答资本开支何时能转化为自由现金流。后续更值得跟踪的是公开披露的收入质量、客户集中度和算力承诺，而不是把首日涨幅等同于基本面改善。",
+  "fact": {
+    "subject": "Anthropic",
+    "action": "开始公开交易",
+    "object": "纳斯达克首次公开发行",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "4107347da607833bf8aee6565169509d2e14f9a80dd713d9951c8d4f538e3891",
+    "originalUrl": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+    "originalPublishedAt": "2026-11-19T16:59:23+00:00",
+    "checkedAt": "2026-11-19T23:35:51.249Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "4107347da607833bf8aee6565169509d2e14f9a80dd713d9951c8d4f538e3891",
+      "kind": "fact",
+      "quote": "Shares of Anthropic are now trading on the Nasdaq exchange, as the company successfully executes its initial public offering."
+    },
+    {
+      "snapshotId": "4107347da607833bf8aee6565169509d2e14f9a80dd713d9951c8d4f538e3891",
+      "kind": "condition",
+      "quote": "In the early minutes of availability, shares were trading at $111.50, a 33% premium over the $83 IPO price."
+    }
+  ],
+  "eventRelation": {
+    "type": "SAME_STORY",
+    "targetRef": "2026-11-11/2026-11-11-anthropic-ipo-roadshow",
+    "reason": "此前报道IPO路演，本次为实际上市交易。",
+    "newInformation": "IPO完成定价并开始在纳斯达克交易。"
+  },
+  "eventId": "event-77304c7d4f6f1953a3030212",
+  "occurrenceId": "occ-be5cc8129324661d858b2b05",
+  "clusterId": "event-77304c7d4f6f1953a3030212",
+  "duplicateOf": null,
+  "relatedItems": []
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-20",
+  "itemCount": 7,
+  "storyCount": 7,
+  "clusterCount": 7,
+  "files": [
+    "2026-11-20-anthropic-ipo-trading.json",
+    "2026-11-20-wuyazhiyuan-angel-funding.json",
+    "2026-11-20-google-gemini-mac-computer-use.json",
+    "2026-11-20-google-gemini-tool-retrieval.json",
+    "2026-11-20-aws-sagemaker-inference-monitoring.json",
+    "2026-11-20-alibaba-cloud-quarterly-growth.json",
+    "2026-11-20-meta-muse-privacy-reports.json"
+  ],
+  "representatives": [
+    "2026-11-20-anthropic-ipo-trading",
+    "2026-11-20-wuyazhiyuan-angel-funding",
+    "2026-11-20-google-gemini-mac-computer-use",
+    "2026-11-20-google-gemini-tool-retrieval",
+    "2026-11-20-aws-sagemaker-inference-monitoring",
+    "2026-11-20-alibaba-cloud-quarterly-growth",
+    "2026-11-20-meta-muse-privacy-reports"
+  ]
+}
