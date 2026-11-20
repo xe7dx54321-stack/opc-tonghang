@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-75e205c14dcefd6079c1001a",
+  "title": "Phison展示带NPU和64GB内存的计算存储SSD设计",
+  "firstSeen": "2026-11-21",
+  "editionDate": "2026-11-21",
+  "occurrences": [
+    {
+      "id": "occ-75e205c14dcefd6079c1001a",
+      "fact": {
+        "subject": "Phison",
+        "action": "展示研发中设计",
+        "object": "带NPU的计算存储SSD",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-21",
+      "reports": [
+        {
+          "ref": "2026-11-21/2026-11-21-phison-compute-ssd",
+          "itemId": "2026-11-21-phison-compute-ssd",
+          "editionDate": "2026-11-21",
+          "url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-11-20T14:00:00Z",
+          "title": "Phison展示带NPU和64GB内存的计算存储SSD设计"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-21"
+}

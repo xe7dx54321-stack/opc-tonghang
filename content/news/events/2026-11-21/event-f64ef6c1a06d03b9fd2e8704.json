@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-f64ef6c1a06d03b9fd2e8704",
+  "title": "Sage S2.1 Flash披露技术报告，探索科学数据与Agent融合",
+  "firstSeen": "2026-11-21",
+  "editionDate": "2026-11-21",
+  "occurrences": [
+    {
+      "id": "occ-f64ef6c1a06d03b9fd2e8704",
+      "fact": {
+        "subject": "上海人工智能实验室",
+        "action": "披露技术报告",
+        "object": "Sage S2.1 Flash模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-21",
+      "reports": [
+        {
+          "ref": "2026-11-21/2026-11-21-sage-technical-report",
+          "itemId": "2026-11-21-sage-technical-report",
+          "editionDate": "2026-11-21",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=3&sn=63643451e794a6d8ac3dbb423d7f460d",
+          "source": "wechat-jiqizhixin",
+          "owner": "机器之心",
+          "role": "observer",
+          "publishedAt": "2026-11-20T11:58:00+08:00",
+          "title": "Sage S2.1 Flash披露技术报告，探索科学数据与Agent融合"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-21"
+}

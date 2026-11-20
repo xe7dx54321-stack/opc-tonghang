@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-21b26ecebb9afbbb2af6d71c",
+  "title": "AWS推出Textract Insights，以页级依据抽取文档字段",
+  "firstSeen": "2026-11-21",
+  "editionDate": "2026-11-21",
+  "occurrences": [
+    {
+      "id": "occ-21b26ecebb9afbbb2af6d71c",
+      "fact": {
+        "subject": "AWS",
+        "action": "正式推出",
+        "object": "Amazon Textract Insights",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-21",
+      "reports": [
+        {
+          "ref": "2026-11-21/2026-11-21-aws-textract-insights",
+          "itemId": "2026-11-21-aws-textract-insights",
+          "editionDate": "2026-11-21",
+          "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+          "source": "aws-machine-learning",
+          "owner": "AWS",
+          "role": "principal",
+          "publishedAt": "2026-11-20T12:22:00-08:00",
+          "title": "AWS推出Textract Insights，以页级依据抽取文档字段"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-21"
+}

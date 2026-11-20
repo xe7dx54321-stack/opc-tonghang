@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-1abba592960966a5d9d7166f",
+  "title": "Kimi Code CLI接入Bedrock原生凭证链",
+  "firstSeen": "2026-11-21",
+  "editionDate": "2026-11-21",
+  "occurrences": [
+    {
+      "id": "occ-1abba592960966a5d9d7166f",
+      "fact": {
+        "subject": "Moonshot AI",
+        "action": "增加原生Bedrock接入",
+        "object": "Kimi Code CLI v2.7.0",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-21",
+      "reports": [
+        {
+          "ref": "2026-11-21/2026-11-21-kimi-code-bedrock",
+          "itemId": "2026-11-21-kimi-code-bedrock",
+          "editionDate": "2026-11-21",
+          "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+          "source": "aws-machine-learning",
+          "owner": "AWS",
+          "role": "principal",
+          "publishedAt": "2026-11-19T16:33:30-08:00",
+          "title": "Kimi Code CLI接入Bedrock原生凭证链"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-21"
+}

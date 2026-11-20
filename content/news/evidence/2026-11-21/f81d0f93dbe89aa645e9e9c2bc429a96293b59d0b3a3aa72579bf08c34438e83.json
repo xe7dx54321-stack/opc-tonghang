@@ -1,0 +1,12 @@
+{
+  "snapshotId": "f81d0f93dbe89aa645e9e9c2bc429a96293b59d0b3a3aa72579bf08c34438e83",
+  "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+  "publishedAt": "2026-11-20T10:24:06-08:00",
+  "publishedAtQuote": "2026-11-20T10:24:06-08:00",
+  "retrievedAt": "2026-11-20T23:35:44.275Z",
+  "method": "agent-tool",
+  "contentHash": "c9331fcf728c2b9617f41372a045cc8d8f0a8536dc3439770d9bc904c6f9a144",
+  "quotations": [
+    "Today, we are announcing enhanced observability in Amazon SageMaker HyperPod, a new capability that helps you diagnose GPU training issues faster."
+  ]
+}

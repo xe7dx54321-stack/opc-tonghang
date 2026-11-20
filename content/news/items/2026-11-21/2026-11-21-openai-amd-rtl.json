@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-21-openai-amd-rtl",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+  "publishedAt": "2026-11-20T10:30:00Z",
+  "fact": {
+    "subject": "OpenAI与AMD",
+    "action": "披露AI辅助设计结果",
+    "object": "AMD GPU与CPU的RTL优化",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "cdfacb0f445c3b6f40d991d7bedb62a601c7b42f9ce157ffd82db761df8cac56",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+    "originalPublishedAt": "2026-11-20T10:30:00Z",
+    "checkedAt": "2026-11-20T23:35:44.131Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "cdfacb0f445c3b6f40d991d7bedb62a601c7b42f9ce157ffd82db761df8cac56",
+      "kind": "fact",
+      "quote": "OpenAI says that its model spotted \"further improvements by rewriting the code that describes the chip’s circuits."
+    }
+  ],
+  "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost i…",
+  "displayTitle": "OpenAI称模型帮助AMD优化芯片设计，GPU电路PPA最高改善14%",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-20T23:30:43.497Z",
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "entities": [
+    "OpenAI与AMD"
+  ],
+  "summary": "Tom’s Hardware报道OpenAI称，其模型通过修改SystemVerilog RTL帮助优化AMD未来GPU和CPU设计，GPU电路的功耗、性能与面积综合指标最高改善14%，CPU改善为个位数。",
+  "investorNote": "应区分企业披露的局部设计指标与量产芯片整体性能，核查基准及人工协作边界。",
+  "score": 0.84,
+  "narrative": "Tom’s Hardware报道OpenAI称，其模型通过修改SystemVerilog RTL帮助优化AMD未来GPU和CPU设计，GPU电路的功耗、性能与面积综合指标最高改善14%，CPU改善为个位数。应区分企业披露的局部设计指标与量产芯片整体性能，核查基准及人工协作边界。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次披露的具体产品、动作或研究与已收录事件并非同次发生。"
+  },
+  "eventId": "event-d40f187aee8f82b5d1fb4c64",
+  "occurrenceId": "occ-d40f187aee8f82b5d1fb4c64",
+  "clusterId": "event-d40f187aee8f82b5d1fb4c64",
+  "duplicateOf": null,
+  "relatedItems": []
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-21-sage-technical-report",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=3&sn=63643451e794a6d8ac3dbb423d7f460d",
+  "publishedAt": "2026-11-20T11:58:00+08:00",
+  "fact": {
+    "subject": "上海人工智能实验室",
+    "action": "披露技术报告",
+    "object": "Sage S2.1 Flash模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "机器之心",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "184f54927b7d29e9a6f3b12065634289f216411eab9eec83e5ce92c1d2f6cdc1",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=3&sn=63643451e794a6d8ac3dbb423d7f460d",
+    "originalPublishedAt": "2026-11-20T11:58:00+08:00",
+    "checkedAt": "2026-11-20T23:35:44.103Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "184f54927b7d29e9a6f3b12065634289f216411eab9eec83e5ce92c1d2f6cdc1",
+      "kind": "fact",
+      "quote": "近日， 上海人工智能实验室联合复旦大学、中国科学院软件研究所、中国人民大学、中国科学院自动化研究所、华东师范大学、哈尔滨工业大学、北京大学等多家科研机构与高校 ，正式发布 Sage S2.1 Flash 技术报告。"
+    }
+  ],
+  "title": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？",
+  "displayTitle": "Sage S2.1 Flash披露技术报告，探索科学数据与Agent融合",
+  "source": "wechat-jiqizhixin",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-20T23:30:43.497Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "上海人工智能实验室"
+  ],
+  "summary": "机器之心报道上海人工智能实验室等机构公布Sage S2.1 Flash技术报告，介绍320B混合专家模型及科学多模态训练方案。报道将报告发布时间描述为近日，不能据此断言模型在当天首次发布。",
+  "investorNote": "科学数据接入与工具执行的组合值得跟踪，但实验示例和团队自述不等于跨任务生产效果。",
+  "score": 0.78,
+  "narrative": "机器之心报道上海人工智能实验室等机构公布Sage S2.1 Flash技术报告，介绍320B混合专家模型及科学多模态训练方案。报道将报告发布时间描述为近日，不能据此断言模型在当天首次发布。科学数据接入与工具执行的组合值得跟踪，但实验示例和团队自述不等于跨任务生产效果。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次披露的具体产品、动作或研究与已收录事件并非同次发生。"
+  },
+  "eventId": "event-f64ef6c1a06d03b9fd2e8704",
+  "occurrenceId": "occ-f64ef6c1a06d03b9fd2e8704",
+  "clusterId": "event-f64ef6c1a06d03b9fd2e8704",
+  "duplicateOf": null,
+  "relatedItems": []
+}

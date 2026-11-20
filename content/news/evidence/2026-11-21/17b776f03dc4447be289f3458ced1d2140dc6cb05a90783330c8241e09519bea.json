@@ -1,0 +1,12 @@
+{
+  "snapshotId": "17b776f03dc4447be289f3458ced1d2140dc6cb05a90783330c8241e09519bea",
+  "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+  "publishedAt": "2026-11-20T15:07:03-08:00",
+  "publishedAtQuote": "2026-11-20T15:07:03-08:00",
+  "retrievedAt": "2026-11-20T23:35:44.329Z",
+  "method": "agent-tool",
+  "contentHash": "63be33e2a38c2349accf178dc32361306c7080c4b3286865557c95ecf8435149",
+  "quotations": [
+    "Today, we launched cluster extensions, which bring the same approach to the software and settings on running nodes, with managed extensions for observability and user management."
+  ]
+}

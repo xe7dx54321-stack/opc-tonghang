@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-45fcb0cbabda1e4eaf04ab83",
+  "title": "AWS增强HyperPod训练可观测性，覆盖GPU与网络诊断",
+  "firstSeen": "2026-11-21",
+  "editionDate": "2026-11-21",
+  "occurrences": [
+    {
+      "id": "occ-45fcb0cbabda1e4eaf04ab83",
+      "fact": {
+        "subject": "AWS",
+        "action": "推出增强监控",
+        "object": "HyperPod训练基础设施可观测性",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-21",
+      "reports": [
+        {
+          "ref": "2026-11-21/2026-11-21-aws-hyperpod-observability",
+          "itemId": "2026-11-21-aws-hyperpod-observability",
+          "editionDate": "2026-11-21",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+          "source": "aws-machine-learning",
+          "owner": "AWS",
+          "role": "principal",
+          "publishedAt": "2026-11-20T10:24:06-08:00",
+          "title": "AWS增强HyperPod训练可观测性，覆盖GPU与网络诊断"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-21"
+}

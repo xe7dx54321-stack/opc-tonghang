@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-99e4d9d8f666d3c6ea557829",
+  "title": "AWS推出跨区域HyperPod推理网关，统一集群入口",
+  "firstSeen": "2026-11-21",
+  "editionDate": "2026-11-21",
+  "occurrences": [
+    {
+      "id": "occ-99e4d9d8f666d3c6ea557829",
+      "fact": {
+        "subject": "AWS",
+        "action": "推出",
+        "object": "SageMaker HyperPod Global Inference Gateway",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-21",
+      "reports": [
+        {
+          "ref": "2026-11-21/2026-11-21-aws-global-inference-gateway",
+          "itemId": "2026-11-21-aws-global-inference-gateway",
+          "editionDate": "2026-11-21",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+          "source": "aws-machine-learning",
+          "owner": "AWS",
+          "role": "principal",
+          "publishedAt": "2026-11-20T14:35:24-08:00",
+          "title": "AWS推出跨区域HyperPod推理网关，统一集群入口"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-21"
+}

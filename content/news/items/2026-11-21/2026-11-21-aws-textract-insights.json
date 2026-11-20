@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-21-aws-textract-insights",
+  "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+  "publishedAt": "2026-11-20T12:22:00-08:00",
+  "fact": {
+    "subject": "AWS",
+    "action": "正式推出",
+    "object": "Amazon Textract Insights",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "AWS",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "80abeb61e6badd4fa30cca08b9c5d0866c1398cba859c7caf6590d8e5c93ee90",
+    "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+    "originalPublishedAt": "2026-11-20T12:22:00-08:00",
+    "checkedAt": "2026-11-20T23:35:44.248Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "80abeb61e6badd4fa30cca08b9c5d0866c1398cba859c7caf6590d8e5c93ee90",
+      "kind": "fact",
+      "quote": "With Amazon Textract Insights, you describe the fields you want in natural language and submit a document or a mixed, multi-document packet."
+    }
+  ],
+  "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+  "displayTitle": "AWS推出Textract Insights，以页级依据抽取文档字段",
+  "source": "aws-machine-learning",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-20T23:30:43.497Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AWS"
+  ],
+  "summary": "AWS宣布Textract Insights正式可用，允许以自然语言指定字段并处理混合文档包，输出带置信度和页级依据的结构化结果。",
+  "investorNote": "文档AI竞争重点从单纯提取转向可审计工作流，仍需验证复杂文件的错误率与人工复核成本。",
+  "score": 0.72,
+  "narrative": "AWS宣布Textract Insights正式可用，允许以自然语言指定字段并处理混合文档包，输出带置信度和页级依据的结构化结果。文档AI竞争重点从单纯提取转向可审计工作流，仍需验证复杂文件的错误率与人工复核成本。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次披露的具体产品、动作或研究与已收录事件并非同次发生。"
+  },
+  "eventId": "event-21b26ecebb9afbbb2af6d71c",
+  "occurrenceId": "occ-21b26ecebb9afbbb2af6d71c",
+  "clusterId": "event-21b26ecebb9afbbb2af6d71c",
+  "duplicateOf": null,
+  "relatedItems": []
+}

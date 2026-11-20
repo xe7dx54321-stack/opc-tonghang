@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-21-phison-compute-ssd",
+  "url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller",
+  "publishedAt": "2026-11-20T14:00:00Z",
+  "fact": {
+    "subject": "Phison",
+    "action": "展示研发中设计",
+    "object": "带NPU的计算存储SSD",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "77f40b03c12d7013e1efd766356077ef53a1a7c0cf946fcd164055e4cbd503bf",
+    "originalUrl": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller",
+    "originalPublishedAt": "2026-11-20T14:00:00Z",
+    "checkedAt": "2026-11-20T23:35:44.157Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "77f40b03c12d7013e1efd766356077ef53a1a7c0cf946fcd164055e4cbd503bf",
+      "kind": "fact",
+      "quote": "The computational-storage design’s premise is that a server can offload more to the SSD, which runs AI code on the data where it already resides and sends back results, instead of whole datasets."
+    }
+  ],
+  "title": "Phison details SSD with a built-in NPU and 64GB of memory that supports AI frameworks on the drive",
+  "displayTitle": "Phison展示带NPU和64GB内存的计算存储SSD设计",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-20T23:30:43.497Z",
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "Phison"
+  ],
+  "summary": "Tom’s Hardware报道Phison在SC26展示计算存储SSD设计，集成NPU及64GB内存以支持盘上AI工作；公司称多项产品和功能仍在开发中。",
+  "investorNote": "贴近数据计算能减少搬运，但需要验证真实工作负载、系统集成成本与实际交付时间。",
+  "score": 0.76,
+  "narrative": "Tom’s Hardware报道Phison在SC26展示计算存储SSD设计，集成NPU及64GB内存以支持盘上AI工作；公司称多项产品和功能仍在开发中。贴近数据计算能减少搬运，但需要验证真实工作负载、系统集成成本与实际交付时间。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次披露的具体产品、动作或研究与已收录事件并非同次发生。"
+  },
+  "eventId": "event-75e205c14dcefd6079c1001a",
+  "occurrenceId": "occ-75e205c14dcefd6079c1001a",
+  "clusterId": "event-75e205c14dcefd6079c1001a",
+  "duplicateOf": null,
+  "relatedItems": []
+}

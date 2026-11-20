@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-21-aws-slurm-extensions",
+  "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+  "publishedAt": "2026-11-20T15:07:03-08:00",
+  "fact": {
+    "subject": "AWS",
+    "action": "推出集群扩展",
+    "object": "HyperPod Slurm可观测性与用户管理",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "AWS",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "17b776f03dc4447be289f3458ced1d2140dc6cb05a90783330c8241e09519bea",
+    "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+    "originalPublishedAt": "2026-11-20T15:07:03-08:00",
+    "checkedAt": "2026-11-20T23:35:44.329Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "17b776f03dc4447be289f3458ced1d2140dc6cb05a90783330c8241e09519bea",
+      "kind": "fact",
+      "quote": "Today, we launched cluster extensions, which bring the same approach to the software and settings on running nodes, with managed extensions for observability and user management."
+    }
+  ],
+  "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+  "displayTitle": "AWS为HyperPod Slurm推出集群扩展，管理监控和用户",
+  "source": "aws-machine-learning",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-20T23:30:43.497Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AWS"
+  ],
+  "summary": "AWS推出SageMaker HyperPod Slurm集群扩展，将声明式管理用于运行节点的软件和设置，初期提供可观测性与用户管理扩展。",
+  "investorNote": "共享训练集群的运维配置能否保持一致，直接影响资源使用效率和平台团队工作量。",
+  "score": 0.65,
+  "narrative": "AWS推出SageMaker HyperPod Slurm集群扩展，将声明式管理用于运行节点的软件和设置，初期提供可观测性与用户管理扩展。共享训练集群的运维配置能否保持一致，直接影响资源使用效率和平台团队工作量。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次披露的具体产品、动作或研究与已收录事件并非同次发生。"
+  },
+  "eventId": "event-7d7b866766a584a5eac1565b",
+  "occurrenceId": "occ-7d7b866766a584a5eac1565b",
+  "clusterId": "event-7d7b866766a584a5eac1565b",
+  "duplicateOf": null,
+  "relatedItems": []
+}

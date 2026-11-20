@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-21",
+  "window": {
+    "start": 1795131000000,
+    "end": 1795217400000
+  },
+  "digestHash": "2835019954813eb669223b9d7cc628dd22ef60d4279867a41f901b21ef35acb0",
+  "stories": [
+    {
+      "heading": "Sage S2.1 Flash披露技术报告，探索科学数据与Agent融合",
+      "itemId": "2026-11-21-sage-technical-report",
+      "eventId": "event-f64ef6c1a06d03b9fd2e8704",
+      "occurrenceId": "occ-f64ef6c1a06d03b9fd2e8704"
+    },
+    {
+      "heading": "OpenAI称模型帮助AMD优化芯片设计，GPU电路PPA最高改善14%",
+      "itemId": "2026-11-21-openai-amd-rtl",
+      "eventId": "event-d40f187aee8f82b5d1fb4c64",
+      "occurrenceId": "occ-d40f187aee8f82b5d1fb4c64"
+    },
+    {
+      "heading": "Phison展示带NPU和64GB内存的计算存储SSD设计",
+      "itemId": "2026-11-21-phison-compute-ssd",
+      "eventId": "event-75e205c14dcefd6079c1001a",
+      "occurrenceId": "occ-75e205c14dcefd6079c1001a"
+    },
+    {
+      "heading": "Signal限制移动端截图，阻止系统AI读取聊天画面",
+      "itemId": "2026-11-21-signal-agent-privacy",
+      "eventId": "event-632068d3edd53ad7a24f3abe",
+      "occurrenceId": "occ-632068d3edd53ad7a24f3abe"
+    },
+    {
+      "heading": "AWS推出跨区域HyperPod推理网关，统一集群入口",
+      "itemId": "2026-11-21-aws-global-inference-gateway",
+      "eventId": "event-99e4d9d8f666d3c6ea557829",
+      "occurrenceId": "occ-99e4d9d8f666d3c6ea557829"
+    },
+    {
+      "heading": "AWS推出Textract Insights，以页级依据抽取文档字段",
+      "itemId": "2026-11-21-aws-textract-insights",
+      "eventId": "event-21b26ecebb9afbbb2af6d71c",
+      "occurrenceId": "occ-21b26ecebb9afbbb2af6d71c"
+    },
+    {
+      "heading": "AWS增强HyperPod训练可观测性，覆盖GPU与网络诊断",
+      "itemId": "2026-11-21-aws-hyperpod-observability",
+      "eventId": "event-45fcb0cbabda1e4eaf04ab83",
+      "occurrenceId": "occ-45fcb0cbabda1e4eaf04ab83"
+    },
+    {
+      "heading": "Kimi Code CLI接入Bedrock原生凭证链",
+      "itemId": "2026-11-21-kimi-code-bedrock",
+      "eventId": "event-1abba592960966a5d9d7166f",
+      "occurrenceId": "occ-1abba592960966a5d9d7166f"
+    },
+    {
+      "heading": "AWS为HyperPod Slurm推出集群扩展，管理监控和用户",
+      "itemId": "2026-11-21-aws-slurm-extensions",
+      "eventId": "event-7d7b866766a584a5eac1565b",
+      "occurrenceId": "occ-7d7b866766a584a5eac1565b"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-21-aws-global-inference-gateway.json": "0349540b856328adf386ce0fbb62425a369e27ac8d67fbee8502ce65a222ebab",
+    "2026-11-21-aws-hyperpod-observability.json": "76c25ab153b4bcb295bf6ebe81c00ee358c0071b9e5e7819adbbaa05f593e84e",
+    "2026-11-21-aws-slurm-extensions.json": "c6debc9244c80c5265a3db6c88cd7844b9704e25f5f1ed4c7f0966d6452f7a51",
+    "2026-11-21-aws-textract-insights.json": "60db7496879a781b63ed7eb9a9f4cff9bd1a82645f13ec0f6b65938e5844d4f4",
+    "2026-11-21-kimi-code-bedrock.json": "04d6649b8ec965f34cdf92d96074d1caadb237f4c0edd44be99e53df7525c12c",
+    "2026-11-21-openai-amd-rtl.json": "b54fc84b4523e5ca7b58a8b3c6ac9082880343f6d78f77b172f9e5d239737839",
+    "2026-11-21-phison-compute-ssd.json": "b5a5c4d70e8c727361699851805f705cb607ae22c444f04d43e33275ac80332c",
+    "2026-11-21-sage-technical-report.json": "e443304f5aa8330313fd999e02c3dea0b075ea89541a82f5d5f604ec16c5e489",
+    "2026-11-21-signal-agent-privacy.json": "05840839365683cba7e02f3ef7c924b6ee9cda50f73f64cd85bd238c1b1e0cd6"
+  },
+  "evidenceHashes": {
+    "0dae0d69422799cea22ee95c9a3745d048aa3125a1a5eee4bb4ba0009ae30186.json": "80eb2d55e351efc360822d8b37731207288f637f36f105fd131e7fab11b049b9",
+    "17b776f03dc4447be289f3458ced1d2140dc6cb05a90783330c8241e09519bea.json": "0b42a4f61c9c980cc016ae8ea1148af621afb3ccf373475ef20db2e9f0e17abc",
+    "184f54927b7d29e9a6f3b12065634289f216411eab9eec83e5ce92c1d2f6cdc1.json": "881384ba73498cfb37624daa1a686112cf53db9f5e1758a4fdd359f01904ac12",
+    "77f40b03c12d7013e1efd766356077ef53a1a7c0cf946fcd164055e4cbd503bf.json": "475f25c0521fb448eb7e187b850b523f3ce1aed561fe7cba344e096bd88e5364",
+    "7aad921af82c0e09157cdcb4a7a15db160a3df6e1162d8adb02d8c80471b75a0.json": "2211334704115c1c96309c57146f770ba4af7e148aeff5e16a54b2425dbb1504",
+    "80abeb61e6badd4fa30cca08b9c5d0866c1398cba859c7caf6590d8e5c93ee90.json": "b9e2850644e356c67aa0e54c0d6bbd5c9ab9b95befc1a989b12a2589c707af01",
+    "b523b80b0bdea2df76a2e4f84a4eff226e4c23cc6ebd6c9ee7ae1dbd08f5b573.json": "f24bc6f722199def85c73df55acec103df6ea5e607b6b9747c2c1771cabe4c0b",
+    "cdfacb0f445c3b6f40d991d7bedb62a601c7b42f9ce157ffd82db761df8cac56.json": "b6db89fd85dd26194cd063b636210147a1ebb2259651284155aaeb7eeb626262",
+    "f81d0f93dbe89aa645e9e9c2bc429a96293b59d0b3a3aa72579bf08c34438e83.json": "6dd1aeb67608726a20c65072462566159fbd80289cba2c9add03b19ce855a41e"
+  },
+  "eventsHashes": {
+    "event-1abba592960966a5d9d7166f.json": "a884ee314fdaf7036e4951dbc760ca46da99ef3d869d19faf186ccc58f1c0674",
+    "event-21b26ecebb9afbbb2af6d71c.json": "e94059ef8a87bf1cd3280ed659dd1254db1af9736cca0c7b8c0e89df3b94cdea",
+    "event-45fcb0cbabda1e4eaf04ab83.json": "b463952a2c4c7062a34f970a02c74a217c6f94e7ba98d14d4e05352572fd1818",
+    "event-632068d3edd53ad7a24f3abe.json": "1ccc7b54b16162cd7961478dcff612ba04358f085304e822a3662fadb3e98753",
+    "event-75e205c14dcefd6079c1001a.json": "8486c3bbb93b77c4f335f1685b86facb95b284ec45b98e12a71bc76f862467f9",
+    "event-7d7b866766a584a5eac1565b.json": "2f7ca70395d8f04b2748a6b7b22aa5a5552f2b49c8bc275af413d88bdb8c64ac",
+    "event-99e4d9d8f666d3c6ea557829.json": "7e671442aeba2d6439149b6936a8e1f5c5c8c7195e42e0a122ea2e956d942160",
+    "event-d40f187aee8f82b5d1fb4c64.json": "0f3dd044d9f649f23ed67b633c6c18d5f448f08fe91dc0ebe1afa80faf9d016b",
+    "event-f64ef6c1a06d03b9fd2e8704.json": "f9ad1cebf86746386f893e60165cfa7ffde3f29b1ea273344de573f4ef28067f"
+  }
+}

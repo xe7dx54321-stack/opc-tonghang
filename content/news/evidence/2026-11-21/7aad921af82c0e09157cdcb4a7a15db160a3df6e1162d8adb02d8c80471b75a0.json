@@ -1,0 +1,12 @@
+{
+  "snapshotId": "7aad921af82c0e09157cdcb4a7a15db160a3df6e1162d8adb02d8c80471b75a0",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+  "publishedAt": "2026-11-20T12:30:47+00:00",
+  "publishedAtQuote": "2026-11-20T12:30:47+00:00",
+  "retrievedAt": "2026-11-20T23:35:44.184Z",
+  "method": "agent-tool",
+  "contentHash": "d3c73286033fd306f6a6db45d5befcef94f2d73d9f804325a3d3bd780101cf2b",
+  "quotations": [
+    "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users’ messages and other data."
+  ]
+}

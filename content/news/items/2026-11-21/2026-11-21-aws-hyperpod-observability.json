@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-21-aws-hyperpod-observability",
+  "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+  "publishedAt": "2026-11-20T10:24:06-08:00",
+  "fact": {
+    "subject": "AWS",
+    "action": "推出增强监控",
+    "object": "HyperPod训练基础设施可观测性",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "AWS",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "f81d0f93dbe89aa645e9e9c2bc429a96293b59d0b3a3aa72579bf08c34438e83",
+    "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+    "originalPublishedAt": "2026-11-20T10:24:06-08:00",
+    "checkedAt": "2026-11-20T23:35:44.275Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "f81d0f93dbe89aa645e9e9c2bc429a96293b59d0b3a3aa72579bf08c34438e83",
+      "kind": "fact",
+      "quote": "Today, we are announcing enhanced observability in Amazon SageMaker HyperPod, a new capability that helps you diagnose GPU training issues faster."
+    }
+  ],
+  "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+  "displayTitle": "AWS增强HyperPod训练可观测性，覆盖GPU与网络诊断",
+  "source": "aws-machine-learning",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-20T23:30:43.497Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AWS"
+  ],
+  "summary": "AWS宣布增强SageMaker HyperPod可观测能力，整合适用于EKS与Slurm训练任务的诊断和性能分析，协助定位GPU训练问题。",
+  "investorNote": "诊断能力降低排障门槛，但对训练效率的实际改善取决于监测覆盖和响应流程。",
+  "score": 0.67,
+  "narrative": "AWS宣布增强SageMaker HyperPod可观测能力，整合适用于EKS与Slurm训练任务的诊断和性能分析，协助定位GPU训练问题。诊断能力降低排障门槛，但对训练效率的实际改善取决于监测覆盖和响应流程。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次披露的具体产品、动作或研究与已收录事件并非同次发生。"
+  },
+  "eventId": "event-45fcb0cbabda1e4eaf04ab83",
+  "occurrenceId": "occ-45fcb0cbabda1e4eaf04ab83",
+  "clusterId": "event-45fcb0cbabda1e4eaf04ab83",
+  "duplicateOf": null,
+  "relatedItems": []
+}

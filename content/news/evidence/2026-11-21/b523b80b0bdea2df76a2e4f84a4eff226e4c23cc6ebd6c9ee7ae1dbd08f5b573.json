@@ -1,0 +1,12 @@
+{
+  "snapshotId": "b523b80b0bdea2df76a2e4f84a4eff226e4c23cc6ebd6c9ee7ae1dbd08f5b573",
+  "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+  "publishedAt": "2026-11-20T14:35:24-08:00",
+  "publishedAtQuote": "2026-11-20T14:35:24-08:00",
+  "retrievedAt": "2026-11-20T23:35:44.216Z",
+  "method": "agent-tool",
+  "contentHash": "79e5ee7507837066612d276df4bbf0a2f75b9ca81446cf1ba0d17ab366b555ca",
+  "quotations": [
+    "Today, SageMaker HyperPod introduces the Global Inference Gateway."
+  ]
+}

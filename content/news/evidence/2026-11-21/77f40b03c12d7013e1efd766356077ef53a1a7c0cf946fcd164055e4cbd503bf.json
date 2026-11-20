@@ -1,0 +1,12 @@
+{
+  "snapshotId": "77f40b03c12d7013e1efd766356077ef53a1a7c0cf946fcd164055e4cbd503bf",
+  "url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller",
+  "publishedAt": "2026-11-20T14:00:00Z",
+  "publishedAtQuote": "2026-11-20T14:00:00Z",
+  "retrievedAt": "2026-11-20T23:35:44.157Z",
+  "method": "agent-tool",
+  "contentHash": "9c7c488a9c990d2c254c963ba4bdf85676b6386aa3c56db1839f8074fad15e06",
+  "quotations": [
+    "The computational-storage design’s premise is that a server can offload more to the SSD, which runs AI code on the data where it already resides and sends back results, instead of whole datasets."
+  ]
+}

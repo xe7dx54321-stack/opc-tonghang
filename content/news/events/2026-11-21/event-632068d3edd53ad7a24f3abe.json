@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-632068d3edd53ad7a24f3abe",
+  "title": "Signal限制移动端截图，阻止系统AI读取聊天画面",
+  "firstSeen": "2026-11-21",
+  "editionDate": "2026-11-21",
+  "occurrences": [
+    {
+      "id": "occ-632068d3edd53ad7a24f3abe",
+      "fact": {
+        "subject": "Signal",
+        "action": "限制移动端截图",
+        "object": "Android与iOS上的屏幕内容访问",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-21",
+      "reports": [
+        {
+          "ref": "2026-11-21/2026-11-21-signal-agent-privacy",
+          "itemId": "2026-11-21-signal-agent-privacy",
+          "editionDate": "2026-11-21",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-11-20T12:30:47+00:00",
+          "title": "Signal限制移动端截图，阻止系统AI读取聊天画面"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-21"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-7d7b866766a584a5eac1565b",
+  "title": "AWS为HyperPod Slurm推出集群扩展，管理监控和用户",
+  "firstSeen": "2026-11-21",
+  "editionDate": "2026-11-21",
+  "occurrences": [
+    {
+      "id": "occ-7d7b866766a584a5eac1565b",
+      "fact": {
+        "subject": "AWS",
+        "action": "推出集群扩展",
+        "object": "HyperPod Slurm可观测性与用户管理",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-21",
+      "reports": [
+        {
+          "ref": "2026-11-21/2026-11-21-aws-slurm-extensions",
+          "itemId": "2026-11-21-aws-slurm-extensions",
+          "editionDate": "2026-11-21",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+          "source": "aws-machine-learning",
+          "owner": "AWS",
+          "role": "principal",
+          "publishedAt": "2026-11-20T15:07:03-08:00",
+          "title": "AWS为HyperPod Slurm推出集群扩展，管理监控和用户"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-21"
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-21-kimi-code-bedrock",
+  "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+  "publishedAt": "2026-11-19T16:33:30-08:00",
+  "fact": {
+    "subject": "Moonshot AI",
+    "action": "增加原生Bedrock接入",
+    "object": "Kimi Code CLI v2.7.0",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "AWS",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "0dae0d69422799cea22ee95c9a3745d048aa3125a1a5eee4bb4ba0009ae30186",
+    "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+    "originalPublishedAt": "2026-11-19T16:33:30-08:00",
+    "checkedAt": "2026-11-20T23:35:44.302Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "0dae0d69422799cea22ee95c9a3745d048aa3125a1a5eee4bb4ba0009ae30186",
+      "kind": "fact",
+      "quote": "With v2."
+    }
+  ],
+  "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+  "displayTitle": "Kimi Code CLI接入Bedrock原生凭证链",
+  "source": "aws-machine-learning",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-20T23:30:43.497Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Moonshot AI"
+  ],
+  "summary": "AWS介绍Kimi Code CLI v2.7.0新增原生Bedrock provider，可使用AWS标准凭证链与单点登录，而不必另行管理Bedrock API密钥。",
+  "investorNote": "企业采购Agent不仅比较模型效果，也要比较现有身份系统、审计和基础设施的接入成本。",
+  "score": 0.68,
+  "narrative": "AWS介绍Kimi Code CLI v2.7.0新增原生Bedrock provider，可使用AWS标准凭证链与单点登录，而不必另行管理Bedrock API密钥。企业采购Agent不仅比较模型效果，也要比较现有身份系统、审计和基础设施的接入成本。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次披露的具体产品、动作或研究与已收录事件并非同次发生。"
+  },
+  "eventId": "event-1abba592960966a5d9d7166f",
+  "occurrenceId": "occ-1abba592960966a5d9d7166f",
+  "clusterId": "event-1abba592960966a5d9d7166f",
+  "duplicateOf": null,
+  "relatedItems": []
+}

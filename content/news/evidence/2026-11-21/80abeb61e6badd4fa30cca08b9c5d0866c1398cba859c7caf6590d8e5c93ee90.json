@@ -1,0 +1,12 @@
+{
+  "snapshotId": "80abeb61e6badd4fa30cca08b9c5d0866c1398cba859c7caf6590d8e5c93ee90",
+  "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+  "publishedAt": "2026-11-20T12:22:00-08:00",
+  "publishedAtQuote": "2026-11-20T12:22:00-08:00",
+  "retrievedAt": "2026-11-20T23:35:44.248Z",
+  "method": "agent-tool",
+  "contentHash": "7f3ccaf57df77a32371cece358922f8f181baffd93140bfe9eda22950e164083",
+  "quotations": [
+    "With Amazon Textract Insights, you describe the fields you want in natural language and submit a document or a mixed, multi-document packet."
+  ]
+}

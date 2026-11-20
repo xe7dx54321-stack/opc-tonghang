@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-21",
+  "itemCount": 9,
+  "storyCount": 9,
+  "clusterCount": 9,
+  "files": [
+    "2026-11-21-sage-technical-report.json",
+    "2026-11-21-openai-amd-rtl.json",
+    "2026-11-21-phison-compute-ssd.json",
+    "2026-11-21-signal-agent-privacy.json",
+    "2026-11-21-aws-global-inference-gateway.json",
+    "2026-11-21-aws-textract-insights.json",
+    "2026-11-21-aws-hyperpod-observability.json",
+    "2026-11-21-kimi-code-bedrock.json",
+    "2026-11-21-aws-slurm-extensions.json"
+  ],
+  "representatives": [
+    "2026-11-21-sage-technical-report",
+    "2026-11-21-openai-amd-rtl",
+    "2026-11-21-phison-compute-ssd",
+    "2026-11-21-signal-agent-privacy",
+    "2026-11-21-aws-global-inference-gateway",
+    "2026-11-21-aws-textract-insights",
+    "2026-11-21-aws-hyperpod-observability",
+    "2026-11-21-kimi-code-bedrock",
+    "2026-11-21-aws-slurm-extensions"
+  ]
+}

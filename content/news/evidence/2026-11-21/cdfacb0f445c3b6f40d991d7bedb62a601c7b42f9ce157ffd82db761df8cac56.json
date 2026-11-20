@@ -1,0 +1,12 @@
+{
+  "snapshotId": "cdfacb0f445c3b6f40d991d7bedb62a601c7b42f9ce157ffd82db761df8cac56",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+  "publishedAt": "2026-11-20T10:30:00Z",
+  "publishedAtQuote": "2026-11-20T10:30:00Z",
+  "retrievedAt": "2026-11-20T23:35:44.131Z",
+  "method": "agent-tool",
+  "contentHash": "78a76de652190dea40d4250325b676482f2c615942aa07d69891f4b7416a4ffa",
+  "quotations": [
+    "OpenAI says that its model spotted \"further improvements by rewriting the code that describes the chip’s circuits."
+  ]
+}

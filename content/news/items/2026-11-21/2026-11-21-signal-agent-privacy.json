@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-21-signal-agent-privacy",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+  "publishedAt": "2026-11-20T12:30:47+00:00",
+  "fact": {
+    "subject": "Signal",
+    "action": "限制移动端截图",
+    "object": "Android与iOS上的屏幕内容访问",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "7aad921af82c0e09157cdcb4a7a15db160a3df6e1162d8adb02d8c80471b75a0",
+    "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+    "originalPublishedAt": "2026-11-20T12:30:47+00:00",
+    "checkedAt": "2026-11-20T23:35:44.184Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "7aad921af82c0e09157cdcb4a7a15db160a3df6e1162d8adb02d8c80471b75a0",
+      "kind": "fact",
+      "quote": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users’ messages and other data."
+    }
+  ],
+  "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+  "displayTitle": "Signal限制移动端截图，阻止系统AI读取聊天画面",
+  "source": "theverge",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-20T23:30:43.497Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Signal"
+  ],
+  "summary": "Signal限制Android及iOS应用截图，以阻止系统AI助手读取聊天画面；用户可在设置中恢复截图，公司承认措施不覆盖所有数据访问路径。",
+  "investorNote": "终端Agent的权限设计会同时影响隐私应用、系统平台及依赖无障碍功能的用户。",
+  "score": 0.78,
+  "narrative": "Signal限制Android及iOS应用截图，以阻止系统AI助手读取聊天画面；用户可在设置中恢复截图，公司承认措施不覆盖所有数据访问路径。终端Agent的权限设计会同时影响隐私应用、系统平台及依赖无障碍功能的用户。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次披露的具体产品、动作或研究与已收录事件并非同次发生。"
+  },
+  "eventId": "event-632068d3edd53ad7a24f3abe",
+  "occurrenceId": "occ-632068d3edd53ad7a24f3abe",
+  "clusterId": "event-632068d3edd53ad7a24f3abe",
+  "duplicateOf": null,
+  "relatedItems": []
+}

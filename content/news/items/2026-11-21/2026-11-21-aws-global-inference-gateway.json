@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-21-aws-global-inference-gateway",
+  "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+  "publishedAt": "2026-11-20T14:35:24-08:00",
+  "fact": {
+    "subject": "AWS",
+    "action": "推出",
+    "object": "SageMaker HyperPod Global Inference Gateway",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "AWS",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "b523b80b0bdea2df76a2e4f84a4eff226e4c23cc6ebd6c9ee7ae1dbd08f5b573",
+    "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+    "originalPublishedAt": "2026-11-20T14:35:24-08:00",
+    "checkedAt": "2026-11-20T23:35:44.216Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "b523b80b0bdea2df76a2e4f84a4eff226e4c23cc6ebd6c9ee7ae1dbd08f5b573",
+      "kind": "fact",
+      "quote": "Today, SageMaker HyperPod introduces the Global Inference Gateway."
+    }
+  ],
+  "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+  "displayTitle": "AWS推出跨区域HyperPod推理网关，统一集群入口",
+  "source": "aws-machine-learning",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-20T23:30:43.497Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AWS"
+  ],
+  "summary": "AWS推出HyperPod Global Inference Gateway，在单一区域或跨区域的已注册集群间路由推理请求，提供自动故障转移与身份验证。",
+  "investorNote": "跨集群路由有助于利用分散资源，但延迟、跨区域成本和故障切换效果需要实测。",
+  "score": 0.75,
+  "narrative": "AWS推出HyperPod Global Inference Gateway，在单一区域或跨区域的已注册集群间路由推理请求，提供自动故障转移与身份验证。跨集群路由有助于利用分散资源，但延迟、跨区域成本和故障切换效果需要实测。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次披露的具体产品、动作或研究与已收录事件并非同次发生。"
+  },
+  "eventId": "event-99e4d9d8f666d3c6ea557829",
+  "occurrenceId": "occ-99e4d9d8f666d3c6ea557829",
+  "clusterId": "event-99e4d9d8f666d3c6ea557829",
+  "duplicateOf": null,
+  "relatedItems": []
+}

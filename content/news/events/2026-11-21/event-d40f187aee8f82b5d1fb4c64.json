@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-d40f187aee8f82b5d1fb4c64",
+  "title": "OpenAI称模型帮助AMD优化芯片设计，GPU电路PPA最高改善14%",
+  "firstSeen": "2026-11-21",
+  "editionDate": "2026-11-21",
+  "occurrences": [
+    {
+      "id": "occ-d40f187aee8f82b5d1fb4c64",
+      "fact": {
+        "subject": "OpenAI与AMD",
+        "action": "披露AI辅助设计结果",
+        "object": "AMD GPU与CPU的RTL优化",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-21",
+      "reports": [
+        {
+          "ref": "2026-11-21/2026-11-21-openai-amd-rtl",
+          "itemId": "2026-11-21-openai-amd-rtl",
+          "editionDate": "2026-11-21",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-11-20T10:30:00Z",
+          "title": "OpenAI称模型帮助AMD优化芯片设计，GPU电路PPA最高改善14%"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-21"
+}
