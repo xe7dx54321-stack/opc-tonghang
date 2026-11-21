@@ -1,0 +1,55 @@
+{
+  "id": "2026-11-22-aws-quick-flows",
+  "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+  "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+  "source": "aws-machine-learning",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "AWS",
+    "AWS Quick"
+  ],
+  "publishedAt": "2026-11-20T17:06:42-08:00",
+  "fetchedAt": "2026-11-21T01:28:39.874Z",
+  "summary": "AWS宣布更新Quick，支持在对话中构建流程、增加确定性步骤，并让多个专门智能体并行完成任务。",
+  "investorNote": "确定性步骤与人工审批是否可靠，比多智能体数量更直接影响企业落地。",
+  "score": 0.65,
+  "duplicateOf": null,
+  "clusterId": "event-731cbc895c50fcce381a9192",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "AWS",
+    "action": "发布",
+    "object": "Quick 流程及多智能体更新",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Amazon Web Services",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "1206cc85bbf2ca589b6e710eb2898bdb522431ad4cd24322f857c1c50d21f021",
+    "originalUrl": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+    "originalPublishedAt": "2026-11-20T17:06:42-08:00",
+    "checkedAt": "2026-11-21T23:35:03.857Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "1206cc85bbf2ca589b6e710eb2898bdb522431ad4cd24322f857c1c50d21f021",
+      "kind": "fact",
+      "quote": "Describe a process in chat and Quick builds a flow to orchestrate agents, skills, and tools with access to structured data, knowledge, and apps."
+    }
+  ],
+  "displayTitle": "AWS Quick更新工作流与多智能体协作",
+  "narrative": "AWS宣布更新Quick，用户可在对话中构建连接工具、数据和智能体的流程，也可让多个专门智能体并行处理请求。厂商还增加确定性步骤及更长工作流；这些能力降低编排门槛，但能否用于关键流程仍要看权限、审计与人工复核。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次为独立主体的具体动作，近两周事件目录未发现可确认的同次发生。"
+  },
+  "eventId": "event-731cbc895c50fcce381a9192",
+  "occurrenceId": "occ-731cbc895c50fcce381a9192",
+  "relatedItems": []
+}

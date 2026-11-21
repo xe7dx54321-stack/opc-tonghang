@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-731cbc895c50fcce381a9192",
+  "title": "AWS Quick更新工作流与多智能体协作",
+  "firstSeen": "2026-11-22",
+  "editionDate": "2026-11-22",
+  "occurrences": [
+    {
+      "id": "occ-731cbc895c50fcce381a9192",
+      "fact": {
+        "subject": "AWS",
+        "action": "发布",
+        "object": "Quick 流程及多智能体更新",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-22",
+      "reports": [
+        {
+          "ref": "2026-11-22/2026-11-22-aws-quick-flows",
+          "itemId": "2026-11-22-aws-quick-flows",
+          "editionDate": "2026-11-22",
+          "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+          "source": "aws-machine-learning",
+          "owner": "Amazon Web Services",
+          "role": "principal",
+          "publishedAt": "2026-11-20T17:06:42-08:00",
+          "title": "AWS Quick更新工作流与多智能体协作"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-22"
+}

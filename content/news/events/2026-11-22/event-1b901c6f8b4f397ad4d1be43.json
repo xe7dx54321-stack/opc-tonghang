@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-1b901c6f8b4f397ad4d1be43",
+  "title": "Simplex AI公布Linger本地个人Agent",
+  "firstSeen": "2026-11-22",
+  "editionDate": "2026-11-22",
+  "occurrences": [
+    {
+      "id": "occ-1b901c6f8b4f397ad4d1be43",
+      "fact": {
+        "subject": "Simplex AI",
+        "action": "公布",
+        "object": "Linger 本地个人 Agent",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-22",
+      "reports": [
+        {
+          "ref": "2026-11-22/2026-11-22-simplex-linger-agent",
+          "itemId": "2026-11-22-simplex-linger-agent",
+          "editionDate": "2026-11-22",
+          "url": "https://www.qbitai.com/2026/11/511570.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "observer",
+          "publishedAt": "2026-11-21T14:32:31+08:00",
+          "title": "Simplex AI公布Linger本地个人Agent"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-22"
+}

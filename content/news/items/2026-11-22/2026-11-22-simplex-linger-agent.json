@@ -1,0 +1,55 @@
+{
+  "id": "2026-11-22-simplex-linger-agent",
+  "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+  "url": "https://www.qbitai.com/2026/11/511570.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Simplex AI",
+    "Linger"
+  ],
+  "publishedAt": "2026-11-21T14:32:31+08:00",
+  "fetchedAt": "2026-11-21T09:05:55.214Z",
+  "summary": "据量子位报道，Simplex AI公布面向电脑的开源个人Agent Linger，并称可用分层存储运行较大MoE模型。",
+  "investorNote": "本地个人Agent的部署与持续运行成本值得跟踪，厂商速度数字需独立测试。",
+  "score": 0.66,
+  "duplicateOf": null,
+  "clusterId": "event-1b901c6f8b4f397ad4d1be43",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Simplex AI",
+    "action": "公布",
+    "object": "Linger 本地个人 Agent",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "c13851a80f9cd24006c15b71a80a283b258e6c86a6cbfaf3fc508b4d74d3891f",
+    "originalUrl": "https://www.qbitai.com/2026/11/511570.html",
+    "originalPublishedAt": "2026-11-21T14:32:31+08:00",
+    "checkedAt": "2026-11-21T23:35:03.885Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "c13851a80f9cd24006c15b71a80a283b258e6c86a6cbfaf3fc508b4d74d3891f",
+      "kind": "fact",
+      "quote": "刚刚，前DeepSeek V1作者、DeepSeek-VL项目负责人 Tony Zhang ，正式公布了自己的新创业项目： Linger 。"
+    }
+  ],
+  "displayTitle": "Simplex AI公布Linger本地个人Agent",
+  "narrative": "量子位报道，Simplex AI公布开源个人Agent Linger，重点是操作本地电脑并接入不同模型。团队称其推理引擎可分层管理显存、内存与SSD；速度数据属于团队口径，实际体验仍取决于具体硬件和任务。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次为独立主体的具体动作，近两周事件目录未发现可确认的同次发生。"
+  },
+  "eventId": "event-1b901c6f8b4f397ad4d1be43",
+  "occurrenceId": "occ-1b901c6f8b4f397ad4d1be43",
+  "relatedItems": []
+}

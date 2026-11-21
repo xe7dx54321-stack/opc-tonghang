@@ -1,0 +1,55 @@
+{
+  "id": "2026-11-22-chenxi-diffusion-rnn",
+  "title": "独家 | 跳出 Transformer 主流范式，复旦大学陈曦创业聚焦底层架构",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247749742&idx=1&sn=780fd11f6788a386222119d66f80ae3a",
+  "source": "wechat-aitechreview",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "陈曦",
+    "复旦大学"
+  ],
+  "publishedAt": "2026-11-21T09:30:00+08:00",
+  "fetchedAt": "2026-11-21T12:39:35.217Z",
+  "summary": "AI科技评论独家报道陈曦近期启动创业，项目聚焦Diffusion与RNN融合，仍处早期阶段。",
+  "investorNote": "底层架构创业应关注真实推理成本、长上下文效果与工程落地，而非仅比较概念。",
+  "score": 0.58,
+  "duplicateOf": null,
+  "clusterId": "event-3673cd441de10b49f9654054",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "陈曦",
+    "action": "启动创业",
+    "object": "Diffusion 与 RNN 融合架构项目",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "AI科技评论",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "ad8f279cb3c214c66cd9138d55c72d4da397edbf8a18ffaa9601e77fbfa6b3e4",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247749742&idx=1&sn=780fd11f6788a386222119d66f80ae3a",
+    "originalPublishedAt": "2026-11-21T09:30:00+08:00",
+    "checkedAt": "2026-11-21T23:35:03.942Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "ad8f279cb3c214c66cd9138d55c72d4da397edbf8a18ffaa9601e77fbfa6b3e4",
+      "kind": "fact",
+      "quote": "AI 科技评论独家获悉，复旦大学人工智能创新与产业研究院教授、博导陈曦近期已启动创业，公司的核心技术主线聚焦“Diffusion+RNN”的融合架构。"
+    }
+  ],
+  "displayTitle": "复旦陈曦启动创业，探索Diffusion与RNN融合架构",
+  "narrative": "据AI科技评论独家报道，复旦大学教授陈曦近期启动创业，项目技术主线是Diffusion与RNN融合，仍处早期。报道称其目标是在有限显存下兼顾长上下文与生成控制；目前缺少可独立验证的产品或性能数据。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次为独立主体的具体动作，近两周事件目录未发现可确认的同次发生。"
+  },
+  "eventId": "event-3673cd441de10b49f9654054",
+  "occurrenceId": "occ-3673cd441de10b49f9654054",
+  "relatedItems": []
+}

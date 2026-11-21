@@ -1,0 +1,55 @@
+{
+  "id": "2026-11-22-hunyuan-ama-small-model",
+  "title": "姚顺雨团队首次公开AMA：混元为什么不做“更稀疏”的模型？｜甲子光年",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg==&mid=2247560404&idx=1&sn=3d95736479ea732aa535fc8e5141d8a9",
+  "source": "wechat-jiaziguangnian",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "腾讯混元",
+    "Hy4-mini"
+  ],
+  "publishedAt": "2026-11-21T11:41:00+08:00",
+  "fetchedAt": "2026-11-21T13:40:36.163Z",
+  "summary": "甲子光年整理腾讯混元团队Reddit问答，团队称Hy4-mini已进入路线图，并讨论MoE稀疏度和质量的取舍。",
+  "investorNote": "路线图不等于已发布产品，端侧推理的成本与质量还要看后续实测。",
+  "score": 0.58,
+  "duplicateOf": null,
+  "clusterId": "event-4d54dd31dfea4b9af12e42c0",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "腾讯混元团队",
+    "action": "在 AMA 讨论",
+    "object": "模型大小与稀疏度取舍",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "甲子光年",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "3c8fd60ce72f1ff82c2482c785e50f2629c414e2aa6ad1ce8956d33da6e31046",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg==&mid=2247560404&idx=1&sn=3d95736479ea732aa535fc8e5141d8a9",
+    "originalPublishedAt": "2026-11-21T11:41:00+08:00",
+    "checkedAt": "2026-11-21T23:35:03.974Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "3c8fd60ce72f1ff82c2482c785e50f2629c414e2aa6ad1ce8956d33da6e31046",
+      "kind": "fact",
+      "quote": "Hy4-mini已经进入路线图，24B—31B稠密模型和Hy-27B也在考虑之中。"
+    }
+  ],
+  "displayTitle": "腾讯混元团队在AMA讨论小模型路线与稀疏度取舍",
+  "narrative": "甲子光年整理混元团队Reddit问答：Hy4-mini已进入路线图，团队也讨论更小模型和MoE稀疏度的权衡。相关产品仍属规划，技术选择与性能判断来自团队表述，不能当作已完成发布或独立评测。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次为独立主体的具体动作，近两周事件目录未发现可确认的同次发生。"
+  },
+  "eventId": "event-4d54dd31dfea4b9af12e42c0",
+  "occurrenceId": "occ-4d54dd31dfea4b9af12e42c0",
+  "relatedItems": []
+}

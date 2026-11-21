@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-3673cd441de10b49f9654054",
+  "title": "复旦陈曦启动创业，探索Diffusion与RNN融合架构",
+  "firstSeen": "2026-11-22",
+  "editionDate": "2026-11-22",
+  "occurrences": [
+    {
+      "id": "occ-3673cd441de10b49f9654054",
+      "fact": {
+        "subject": "陈曦",
+        "action": "启动创业",
+        "object": "Diffusion 与 RNN 融合架构项目",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-22",
+      "reports": [
+        {
+          "ref": "2026-11-22/2026-11-22-chenxi-diffusion-rnn",
+          "itemId": "2026-11-22-chenxi-diffusion-rnn",
+          "editionDate": "2026-11-22",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247749742&idx=1&sn=780fd11f6788a386222119d66f80ae3a",
+          "source": "wechat-aitechreview",
+          "owner": "AI科技评论",
+          "role": "observer",
+          "publishedAt": "2026-11-21T09:30:00+08:00",
+          "title": "复旦陈曦启动创业，探索Diffusion与RNN融合架构"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-22"
+}

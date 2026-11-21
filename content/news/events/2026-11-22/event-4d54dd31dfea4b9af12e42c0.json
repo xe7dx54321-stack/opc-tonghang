@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-4d54dd31dfea4b9af12e42c0",
+  "title": "腾讯混元团队在AMA讨论小模型路线与稀疏度取舍",
+  "firstSeen": "2026-11-22",
+  "editionDate": "2026-11-22",
+  "occurrences": [
+    {
+      "id": "occ-4d54dd31dfea4b9af12e42c0",
+      "fact": {
+        "subject": "腾讯混元团队",
+        "action": "在 AMA 讨论",
+        "object": "模型大小与稀疏度取舍",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-22",
+      "reports": [
+        {
+          "ref": "2026-11-22/2026-11-22-hunyuan-ama-small-model",
+          "itemId": "2026-11-22-hunyuan-ama-small-model",
+          "editionDate": "2026-11-22",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg==&mid=2247560404&idx=1&sn=3d95736479ea732aa535fc8e5141d8a9",
+          "source": "wechat-jiaziguangnian",
+          "owner": "甲子光年",
+          "role": "observer",
+          "publishedAt": "2026-11-21T11:41:00+08:00",
+          "title": "腾讯混元团队在AMA讨论小模型路线与稀疏度取舍"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-22"
+}

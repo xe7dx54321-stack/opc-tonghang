@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-22",
+  "itemCount": 5,
+  "storyCount": 5,
+  "clusterCount": 5,
+  "files": [
+    "2026-11-22-aws-quick-flows.json",
+    "2026-11-22-simplex-linger-agent.json",
+    "2026-11-22-karpo-decision-31b.json",
+    "2026-11-22-chenxi-diffusion-rnn.json",
+    "2026-11-22-hunyuan-ama-small-model.json"
+  ],
+  "representatives": [
+    "2026-11-22-aws-quick-flows",
+    "2026-11-22-simplex-linger-agent",
+    "2026-11-22-karpo-decision-31b",
+    "2026-11-22-chenxi-diffusion-rnn",
+    "2026-11-22-hunyuan-ama-small-model"
+  ]
+}

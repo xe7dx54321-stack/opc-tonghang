@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-22",
+  "window": {
+    "start": 1795217400000,
+    "end": 1795303800000
+  },
+  "digestHash": "dc56c152a363eb2d5bce4891491007ebb7f5acb7433d6b64fef063b16d953ff4",
+  "stories": [
+    {
+      "heading": "AWS Quick更新工作流与多智能体协作",
+      "itemId": "2026-11-22-aws-quick-flows",
+      "eventId": "event-731cbc895c50fcce381a9192",
+      "occurrenceId": "occ-731cbc895c50fcce381a9192"
+    },
+    {
+      "heading": "Simplex AI公布Linger本地个人Agent",
+      "itemId": "2026-11-22-simplex-linger-agent",
+      "eventId": "event-1b901c6f8b4f397ad4d1be43",
+      "occurrenceId": "occ-1b901c6f8b4f397ad4d1be43"
+    },
+    {
+      "heading": "MachinePulse AI开源Karpo Decision 31B决策模型",
+      "itemId": "2026-11-22-karpo-decision-31b",
+      "eventId": "event-f25c7fdbcb0c706414695f7a",
+      "occurrenceId": "occ-f25c7fdbcb0c706414695f7a"
+    },
+    {
+      "heading": "复旦陈曦启动创业，探索Diffusion与RNN融合架构",
+      "itemId": "2026-11-22-chenxi-diffusion-rnn",
+      "eventId": "event-3673cd441de10b49f9654054",
+      "occurrenceId": "occ-3673cd441de10b49f9654054"
+    },
+    {
+      "heading": "腾讯混元团队在AMA讨论小模型路线与稀疏度取舍",
+      "itemId": "2026-11-22-hunyuan-ama-small-model",
+      "eventId": "event-4d54dd31dfea4b9af12e42c0",
+      "occurrenceId": "occ-4d54dd31dfea4b9af12e42c0"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-22-aws-quick-flows.json": "91969b15004f2c644ab5efaa77a24b71e603ce87d431ce30f85935ce359004c9",
+    "2026-11-22-chenxi-diffusion-rnn.json": "574cc273c1cceb10d290ac079d4438ec28f0b5be607d438e693f32c20ddccf12",
+    "2026-11-22-hunyuan-ama-small-model.json": "51ce774aa0b697a9d80940fc217a831d87f765cc1991fa27a18b6e54198216a4",
+    "2026-11-22-karpo-decision-31b.json": "83e50323b2efb0289204c73f1818c70b5214c8c3b6d9745b7b1879bfa755c4cb",
+    "2026-11-22-simplex-linger-agent.json": "553425cb7a23737a7f7f5d61fb37be8f09200f474dcd9488a41291b9d6adc638"
+  },
+  "evidenceHashes": {
+    "1206cc85bbf2ca589b6e710eb2898bdb522431ad4cd24322f857c1c50d21f021.json": "774d4e32f8da67424a264d79c4f50101d6ed2571cb8651825045e420b2f3a9b4",
+    "3c8fd60ce72f1ff82c2482c785e50f2629c414e2aa6ad1ce8956d33da6e31046.json": "fb6d7007cac6cd3d2d3b3eb45efc644b319b9099ee2e747f5e8268dd248b2012",
+    "61e540ed2ea0e5e3bf42d506e71eb662efeedc8ab37a0b55009b80ec1e05e209.json": "7ff33c8733c06a103f0e16233408645ae820ba5fea56dd8b6376c8faf31f889b",
+    "ad8f279cb3c214c66cd9138d55c72d4da397edbf8a18ffaa9601e77fbfa6b3e4.json": "c66c3684051e7ebb69a0a3d2ed7b545b5be925335ee9f492911e47776e112851",
+    "c13851a80f9cd24006c15b71a80a283b258e6c86a6cbfaf3fc508b4d74d3891f.json": "377fc05ea4f8c2acda1efca368847e805cbd9d5940f8c7c2e19db30334661b13"
+  },
+  "eventsHashes": {
+    "event-1b901c6f8b4f397ad4d1be43.json": "8816876e64a01359f57250e3b5b893d5d3a542bb19f8b7d9c21e1df15b836d8d",
+    "event-3673cd441de10b49f9654054.json": "614ebcf4f4dcbae1bacd588c1c8f4b278b8eb8760ddda04097d13a45b6ac6c3a",
+    "event-4d54dd31dfea4b9af12e42c0.json": "a254f0b5f823754db0ef57ea93bcdd56931fb85b4eeff63c9eb9444a803284a1",
+    "event-731cbc895c50fcce381a9192.json": "1b4c72e3e3f92da4937a3a665787961d607aed2a28671a1f293045797179ecd0",
+    "event-f25c7fdbcb0c706414695f7a.json": "a3c82d5bb272a167300c01a455a8a646a942cf8839e068d4d3751633e4ba0fd1"
+  }
+}

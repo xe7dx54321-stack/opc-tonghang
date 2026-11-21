@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-f25c7fdbcb0c706414695f7a",
+  "title": "MachinePulse AI开源Karpo Decision 31B决策模型",
+  "firstSeen": "2026-11-22",
+  "editionDate": "2026-11-22",
+  "occurrences": [
+    {
+      "id": "occ-f25c7fdbcb0c706414695f7a",
+      "fact": {
+        "subject": "MachinePulse AI",
+        "action": "开源",
+        "object": "Karpo Decision 31B 决策模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-22",
+      "reports": [
+        {
+          "ref": "2026-11-22/2026-11-22-karpo-decision-31b",
+          "itemId": "2026-11-22-karpo-decision-31b",
+          "editionDate": "2026-11-22",
+          "url": "https://www.qbitai.com/2026/11/511791.html",
+          "source": "qbitai",
+          "owner": "量子位",
+          "role": "observer",
+          "publishedAt": "2026-11-21T19:24:29+08:00",
+          "title": "MachinePulse AI开源Karpo Decision 31B决策模型"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-22"
+}

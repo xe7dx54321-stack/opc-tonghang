@@ -1,0 +1,12 @@
+{
+  "snapshotId": "1206cc85bbf2ca589b6e710eb2898bdb522431ad4cd24322f857c1c50d21f021",
+  "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+  "publishedAt": "2026-11-20T17:06:42-08:00",
+  "publishedAtQuote": "2026-11-20T17:06:42-08:00",
+  "retrievedAt": "2026-11-21T23:35:03.857Z",
+  "method": "agent-tool",
+  "contentHash": "90aea1b88360dc7745644027b23d7167f18e4c658344fd3709ca54b863e853b9",
+  "quotations": [
+    "Describe a process in chat and Quick builds a flow to orchestrate agents, skills, and tools with access to structured data, knowledge, and apps."
+  ]
+}

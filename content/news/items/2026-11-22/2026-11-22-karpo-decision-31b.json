@@ -1,0 +1,55 @@
+{
+  "id": "2026-11-22-karpo-decision-31b",
+  "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+  "url": "https://www.qbitai.com/2026/11/511791.html",
+  "source": "qbitai",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "MachinePulse AI",
+    "Karpo Decision 31B"
+  ],
+  "publishedAt": "2026-11-21T19:24:29+08:00",
+  "fetchedAt": "2026-11-21T20:17:59.036Z",
+  "summary": "量子位报道MachinePulse AI开源Karpo Decision 31B，面向Agent选择、判断与评分等决策场景。",
+  "investorNote": "选择题式决策头可能减少生成与解析开销，但延迟、精度和泛化仍需独立验证。",
+  "score": 0.61,
+  "duplicateOf": null,
+  "clusterId": "event-f25c7fdbcb0c706414695f7a",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "MachinePulse AI",
+    "action": "开源",
+    "object": "Karpo Decision 31B 决策模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "量子位",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "61e540ed2ea0e5e3bf42d506e71eb662efeedc8ab37a0b55009b80ec1e05e209",
+    "originalUrl": "https://www.qbitai.com/2026/11/511791.html",
+    "originalPublishedAt": "2026-11-21T19:24:29+08:00",
+    "checkedAt": "2026-11-21T23:35:03.914Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "61e540ed2ea0e5e3bf42d506e71eb662efeedc8ab37a0b55009b80ec1e05e209",
+      "kind": "fact",
+      "quote": "这位新晋决策高手，就是MachinePulse AI刚刚开源的 Karpo Decision 31B 。"
+    }
+  ],
+  "displayTitle": "MachinePulse AI开源Karpo Decision 31B决策模型",
+  "narrative": "据量子位报道，MachinePulse AI开源Karpo Decision 31B，用专门的读取头直接输出选择、判断或评分概率，并用分支注意力复用共享上下文。公开成绩与时延主要来自团队口径，跨任务可靠性仍需独立检验。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次为独立主体的具体动作，近两周事件目录未发现可确认的同次发生。"
+  },
+  "eventId": "event-f25c7fdbcb0c706414695f7a",
+  "occurrenceId": "occ-f25c7fdbcb0c706414695f7a",
+  "relatedItems": []
+}
