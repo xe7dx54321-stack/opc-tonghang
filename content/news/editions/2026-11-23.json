@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-23",
+  "window": {
+    "start": 1795303800000,
+    "end": 1795390200000
+  },
+  "digestHash": "fe261d4e33600dba0eb2eb3185b2d2df65a9b6d1c2a9f588a3e0e3727f916906",
+  "stories": [
+    {
+      "heading": "迁星智能披露数千万元融资，切入拳击陪练机器人",
+      "itemId": "2026-11-23-qianxing-boxing-robot-funding",
+      "eventId": "event-ca5448433d5810597a0c392b",
+      "occurrenceId": "occ-ca5448433d5810597a0c392b"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-23-qianxing-boxing-robot-funding.json": "cae992719624cb53e3b5276f8d27c8c0cafd3fd2f8234753f1e045a5ba08bb1d"
+  },
+  "evidenceHashes": {
+    "f9dab444367268a9c9823e9d02a588cdee480cc1050edc0e0424c0d300c72497.json": "c3b7a3ff6ad72f95ebc11f1f8548dd6317dbeca5b08bbdd4ae7c5e06241928fb"
+  },
+  "eventsHashes": {
+    "event-ca5448433d5810597a0c392b.json": "0bc46cb0635c879169e62d08b6feb2f859798bd62b678a555e554cc0393e6aaf"
+  }
+}

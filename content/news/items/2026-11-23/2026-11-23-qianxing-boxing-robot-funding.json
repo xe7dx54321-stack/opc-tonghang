@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-23-qianxing-boxing-robot-funding",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519520&idx=1&sn=b02bfc7dc00c3c9cca98d407ff709b23",
+  "publishedAt": "2026-11-22T11:00:00+08:00",
+  "fact": {
+    "subject": "迁星智能",
+    "action": "披露已完成融资",
+    "object": "昆仑资本独家领投的数千万元人民币融资及拳击机器人产品计划",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Z Potentials",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "f9dab444367268a9c9823e9d02a588cdee480cc1050edc0e0424c0d300c72497",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519520&idx=1&sn=b02bfc7dc00c3c9cca98d407ff709b23",
+    "originalPublishedAt": "2026-11-22T11:00:00+08:00",
+    "checkedAt": "2026-11-22T23:35:19.946Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "f9dab444367268a9c9823e9d02a588cdee480cc1050edc0e0424c0d300c72497",
+      "kind": "fact",
+      "quote": "迁星智能 已完成由昆仑资本独家领投的数千万人民币融资"
+    }
+  ],
+  "title": "深度｜数千万融资投给一个被打骨折的90后，迁星智能凭什么做成大生意？",
+  "source": "wechat-zpotentials",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "迁星智能",
+    "昆仑资本",
+    "樊泽宇"
+  ],
+  "fetchedAt": "2026-11-22T09:59:54.680Z",
+  "summary": "Z Potentials 报道迁星智能已完成昆仑资本独家领投的数千万元融资，并开发拳击机器人样机。",
+  "investorNote": "家庭近身交互的安全性、产品价格与持续使用率，比融资金额更能检验产品商业化。",
+  "score": 0.62,
+  "duplicateOf": null,
+  "clusterId": "event-ca5448433d5810597a0c392b",
+  "displayTitle": "迁星智能披露数千万元融资，切入拳击陪练机器人",
+  "narrative": "Z Potentials 报道，迁星智能已完成昆仑资本独家领投的数千万元人民币融资，正开发人形拳击陪练和家庭拳击健身产品，团队称已有样机并开展测试。报道未披露融资完成的具体日期，也未提供独立验证的安全性、出货或用户留存数据；家庭近距离交互能否兼顾安全、成本与持续使用仍需观察。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "近两周事件目录未见可确认的同一融资披露。"
+  },
+  "eventId": "event-ca5448433d5810597a0c392b",
+  "occurrenceId": "occ-ca5448433d5810597a0c392b",
+  "relatedItems": []
+}

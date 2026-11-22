@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-ca5448433d5810597a0c392b",
+  "title": "迁星智能披露数千万元融资，切入拳击陪练机器人",
+  "firstSeen": "2026-11-23",
+  "editionDate": "2026-11-23",
+  "occurrences": [
+    {
+      "id": "occ-ca5448433d5810597a0c392b",
+      "fact": {
+        "subject": "迁星智能",
+        "action": "披露已完成融资",
+        "object": "昆仑资本独家领投的数千万元人民币融资及拳击机器人产品计划",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-23",
+      "reports": [
+        {
+          "ref": "2026-11-23/2026-11-23-qianxing-boxing-robot-funding",
+          "itemId": "2026-11-23-qianxing-boxing-robot-funding",
+          "editionDate": "2026-11-23",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519520&idx=1&sn=b02bfc7dc00c3c9cca98d407ff709b23",
+          "source": "wechat-zpotentials",
+          "owner": "Z Potentials",
+          "role": "observer",
+          "publishedAt": "2026-11-22T11:00:00+08:00",
+          "title": "迁星智能披露数千万元融资，切入拳击陪练机器人"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-23"
+}
