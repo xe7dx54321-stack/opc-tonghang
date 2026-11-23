@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-24",
+  "itemCount": 8,
+  "storyCount": 8,
+  "clusterCount": 8,
+  "files": [
+    "2026-11-24-nvidia-huang-reinstated.json",
+    "2026-11-24-amazon-decart-optimization.json",
+    "2026-11-24-anthropic-claude-ship.json",
+    "2026-11-24-sierra-series-f.json",
+    "2026-11-24-penguin-photonic-memory.json",
+    "2026-11-24-uni3sim-inference-simulation.json",
+    "2026-11-24-yuefan-robot-funding.json",
+    "2026-11-24-emuse-desktop-pcb-funding.json"
+  ],
+  "representatives": [
+    "2026-11-24-nvidia-huang-reinstated",
+    "2026-11-24-amazon-decart-optimization",
+    "2026-11-24-anthropic-claude-ship",
+    "2026-11-24-sierra-series-f",
+    "2026-11-24-penguin-photonic-memory",
+    "2026-11-24-uni3sim-inference-simulation",
+    "2026-11-24-yuefan-robot-funding",
+    "2026-11-24-emuse-desktop-pcb-funding"
+  ]
+}

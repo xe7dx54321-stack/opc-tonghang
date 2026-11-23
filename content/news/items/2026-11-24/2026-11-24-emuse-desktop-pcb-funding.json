@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-24-emuse-desktop-pcb-funding",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519524&idx=1&sn=76d081c416cd80484843ac8d4355c1c5",
+  "publishedAt": "2026-11-23T04:00:00.000+00:00",
+  "fact": {
+    "subject": "EMUSE LAB",
+    "action": "披露首轮融资",
+    "object": "桌面PCB制造设备研发",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Z Potentials",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8822d4404e483a0d9e8b52a5b88c90b368d9f93f50d197774e7d20eeac893f4c",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519524&idx=1&sn=76d081c416cd80484843ac8d4355c1c5",
+    "originalPublishedAt": "2026-11-23T04:00:00.000+00:00",
+    "checkedAt": "2026-11-23T23:35:07.263Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8822d4404e483a0d9e8b52a5b88c90b368d9f93f50d197774e7d20eeac893f4c",
+      "kind": "fact",
+      "quote": "近日，EMUSE LAB宣布完成数千万元首轮融资，投资方为联想之星、光点资本"
+    }
+  ],
+  "title": "速递丨EMUSE LAB完成数千万首轮融资，把PCB制造搬上桌面，让创作从“形态”走向“生命”",
+  "displayTitle": "EMUSE LAB 获数千万元首轮融资，瞄准桌面 PCB 制造",
+  "source": "wechat-zpotentials",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-23T23:35:07.263Z",
+  "topic": [
+    "semiconductor"
+  ],
+  "summary": "Z Potentials 报道 EMUSE LAB 完成数千万元首轮融资，投资方为联想之星和光点资本，聚焦桌面级PCB制造。",
+  "investorNote": "产品仍需检验制板质量、耗材成本和目标用户的持续需求。",
+  "narrative": "Z Potentials 报道，EMUSE LAB 完成数千万元首轮融资，联想之星、光点资本参与；资金拟用于研发、团队与前期市场。公司切入桌面级 PCB 制造，尝试降低电子原型制作门槛。报道只称融资发生在“近日”，未披露具体完成日期。投资判断应回到设备实际制板质量、工艺范围、耗材成本及用户频次，而非把桌面设备类比为成熟产线。",
+  "score": 0.62,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与已核验候选及近两周事件不是同一具体发生"
+  },
+  "eventId": "event-a0cacccc800f8f594d1bcdd4",
+  "occurrenceId": "occ-a0cacccc800f8f594d1bcdd4",
+  "clusterId": "event-a0cacccc800f8f594d1bcdd4",
+  "duplicateOf": null,
+  "relatedItems": []
+}

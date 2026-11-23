@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-ba69af40d2f5f8c8f765ea1d",
+  "title": "清华与无问芯穹开源 Uni3Sim，模拟大规模推理系统",
+  "firstSeen": "2026-11-24",
+  "editionDate": "2026-11-24",
+  "occurrences": [
+    {
+      "id": "occ-ba69af40d2f5f8c8f765ea1d",
+      "fact": {
+        "subject": "清华大学与无问芯穹",
+        "action": "开源",
+        "object": "Uni3Sim推理系统仿真平台",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-24",
+      "reports": [
+        {
+          "ref": "2026-11-24/2026-11-24-uni3sim-inference-simulation",
+          "itemId": "2026-11-24-uni3sim-inference-simulation",
+          "editionDate": "2026-11-24",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075779&idx=1&sn=636885b17d34d106010c6d8fbe0fb5bb",
+          "source": "wechat-jiqizhixin",
+          "owner": "机器之心",
+          "role": "observer",
+          "publishedAt": "2026-11-23T09:30:00.000+00:00",
+          "title": "清华与无问芯穹开源 Uni3Sim，模拟大规模推理系统"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-24"
+}

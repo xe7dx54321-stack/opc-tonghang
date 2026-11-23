@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-9dc1fee131573d8913ce55d6",
+  "title": "Penguin 展示光互连外置内存，客户样品计划 2027 年推出",
+  "firstSeen": "2026-11-24",
+  "editionDate": "2026-11-24",
+  "occurrences": [
+    {
+      "id": "occ-9dc1fee131573d8913ce55d6",
+      "fact": {
+        "subject": "Penguin Solutions",
+        "action": "展示",
+        "object": "MemoryAI光互连外置内存系统",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-24",
+      "reports": [
+        {
+          "ref": "2026-11-24/2026-11-24-penguin-photonic-memory",
+          "itemId": "2026-11-24-penguin-photonic-memory",
+          "editionDate": "2026-11-24",
+          "url": "https://www.tomshardware.com/pc-components/dram/penguin-shows-off-photonic-memory-box-at-sc26-that-can-expand-ai-accelerator-capacity-over-optical-links-device-sports-up-to-576gb-of-hbm3e-customer-samples-expected-in-2027",
+          "source": "tomshardware",
+          "owner": "Tom’s Hardware",
+          "role": "observer",
+          "publishedAt": "2026-11-23T18:00:00.000Z",
+          "title": "Penguin 展示光互连外置内存，客户样品计划 2027 年推出"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-24"
+}

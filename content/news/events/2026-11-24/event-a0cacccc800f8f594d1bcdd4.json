@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a0cacccc800f8f594d1bcdd4",
+  "title": "EMUSE LAB 获数千万元首轮融资，瞄准桌面 PCB 制造",
+  "firstSeen": "2026-11-24",
+  "editionDate": "2026-11-24",
+  "occurrences": [
+    {
+      "id": "occ-a0cacccc800f8f594d1bcdd4",
+      "fact": {
+        "subject": "EMUSE LAB",
+        "action": "披露首轮融资",
+        "object": "桌面PCB制造设备研发",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-24",
+      "reports": [
+        {
+          "ref": "2026-11-24/2026-11-24-emuse-desktop-pcb-funding",
+          "itemId": "2026-11-24-emuse-desktop-pcb-funding",
+          "editionDate": "2026-11-24",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519524&idx=1&sn=76d081c416cd80484843ac8d4355c1c5",
+          "source": "wechat-zpotentials",
+          "owner": "Z Potentials",
+          "role": "observer",
+          "publishedAt": "2026-11-23T04:00:00.000+00:00",
+          "title": "EMUSE LAB 获数千万元首轮融资，瞄准桌面 PCB 制造"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-24"
+}

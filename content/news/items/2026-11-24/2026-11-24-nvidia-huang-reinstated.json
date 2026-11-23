@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-24-nvidia-huang-reinstated",
+  "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+  "publishedAt": "2026-11-23T14:21:59.000Z",
+  "fact": {
+    "subject": "NVIDIA董事会",
+    "action": "恢复黄仁勋CEO及总裁职务",
+    "object": "NVIDIA管理层",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "fba979f16fa008c092db3e7f501f383b496035236829c898914e2827e6cbe65e",
+    "originalUrl": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+    "originalPublishedAt": "2026-11-23T14:21:59.000Z",
+    "checkedAt": "2026-11-23T23:35:07.254Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "fba979f16fa008c092db3e7f501f383b496035236829c898914e2827e6cbe65e",
+      "kind": "fact",
+      "quote": "on Monday that it had reinstated Jensen Huang as the company’s CEO and president"
+    }
+  ],
+  "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+  "displayTitle": "英伟达董事会让黄仁勋重任 CEO",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-23T23:35:07.255Z",
+  "topic": [
+    "semiconductor"
+  ],
+  "summary": "英伟达董事会宣布恢复黄仁勋的首席执行官及总裁职务，推翻此前不让他复职的表态；董事会称决定经过与他讨论。",
+  "investorNote": "领导层不确定性缓解并不代表治理和外部审查问题已经结束，需关注董事会后续解释。",
+  "narrative": "英伟达董事会宣布恢复黄仁勋 CEO 及总裁职务，距此前辞任不足两周，也逆转了董事会不拟让他复职的表态。TechCrunch 报道董事会作出一致决定，并称其与政府高级官员沟通过。对依赖英伟达路线图的供应链而言，眼前的领导层变动暂时告一段落；但复职决定本身不能证明此前争议已经厘清，治理与外部审查仍值得持续跟踪。",
+  "score": 0.94,
+  "eventRelation": {
+    "type": "SAME_STORY",
+    "targetRef": "2026-11-18/2026-11-18-nvidia-board-return",
+    "reason": "此前董事会表示不拟恢复职务，本次公布相反决定",
+    "newInformation": "董事会恢复黄仁勋CEO和总裁职务"
+  },
+  "eventId": "event-8a95f60940aa6333c3d5d9c7",
+  "occurrenceId": "occ-1fa90483a177a2429f7b836d",
+  "clusterId": "event-8a95f60940aa6333c3d5d9c7",
+  "duplicateOf": null,
+  "relatedItems": []
+}

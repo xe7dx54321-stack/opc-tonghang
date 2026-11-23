@@ -1,0 +1,12 @@
+{
+  "snapshotId": "357cce60c4182e346401ea801d29d1f246b4acf2cdc4459d102cd9f8b054e84d",
+  "url": "https://www.tomshardware.com/pc-components/dram/penguin-shows-off-photonic-memory-box-at-sc26-that-can-expand-ai-accelerator-capacity-over-optical-links-device-sports-up-to-576gb-of-hbm3e-customer-samples-expected-in-2027",
+  "publishedAt": "2026-11-23T18:00:00.000Z",
+  "publishedAtQuote": "2026-11-23T18:00:00Z",
+  "retrievedAt": "2026-11-23T23:35:07.261Z",
+  "method": "agent-tool",
+  "contentHash": "45ed2bff277ba590c9b05423f33a434cc5ccd66be36b9ff452f931f189bdfeb9",
+  "quotations": [
+    "The device supports up to 576 GB of HBM3E with an aggregate bandwidth of up to 7.2 TB/s, and connects to systems using optical interconnects via the CXL.mem 3.1 protocol."
+  ]
+}

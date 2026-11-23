@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-24-anthropic-claude-ship",
+  "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+  "publishedAt": "2026-11-23T22:05:50.000Z",
+  "fact": {
+    "subject": "Anthropic",
+    "action": "推出测试版",
+    "object": "Claude Ship代码审查与审批Agent",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "b05453e83e8e0dbbf11828f499fd34235ae6163baf4aabc85fab61f87733d2e1",
+    "originalUrl": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "originalPublishedAt": "2026-11-23T22:05:50.000Z",
+    "checkedAt": "2026-11-23T23:35:07.257Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "b05453e83e8e0dbbf11828f499fd34235ae6163baf4aabc85fab61f87733d2e1",
+      "kind": "fact",
+      "quote": "Claude Ship is launching in beta, allowing early adopters to use it to review pull requests (PRs), and then decide what’s ready to merge."
+    }
+  ],
+  "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+  "displayTitle": "Anthropic 推出 Claude Ship，让 Agent 参与代码审批",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-23T23:35:07.257Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "Anthropic 推出 Claude Ship 测试版，覆盖代码审查、修复和按团队策略审批常规改动，并建议先观察模式试用。",
+  "investorNote": "AI 编码的瓶颈正在向审查与责任分配移动，自动批准需要配套权限和回滚机制。",
+  "narrative": "Anthropic 推出 Claude Ship 测试版，除了审查代码，还提供处理 CI 失败、合并冲突和审查反馈的 PR Steward，以及依据团队策略审批改动的 Claude Approvals。报道指出厂商建议先以只观察模式运行审批功能，也可以先限于单个仓库。生成代码越快，审查和责任归属越容易成为瓶颈；自动审批是否真正省时，取决于策略质量、异常处理与回滚能力。",
+  "score": 0.84,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与已核验候选及近两周事件不是同一具体发生"
+  },
+  "eventId": "event-0d4fa166663ca7788207362f",
+  "occurrenceId": "occ-0d4fa166663ca7788207362f",
+  "clusterId": "event-0d4fa166663ca7788207362f",
+  "duplicateOf": null,
+  "relatedItems": []
+}

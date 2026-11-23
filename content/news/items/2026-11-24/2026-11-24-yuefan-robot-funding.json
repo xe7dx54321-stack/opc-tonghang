@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-24-yuefan-robot-funding",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&mid=2247518974&idx=1&sn=475ac6653fa62e8515ce23e8bb1d3b5a",
+  "publishedAt": "2026-11-23T08:03:00.000+00:00",
+  "fact": {
+    "subject": "越凡创新",
+    "action": "披露融资",
+    "object": "数亿元新一轮融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "智能涌现",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "f2ee7bb0bf8961858bdcebfafea9929b2d2ea4c7c7fd4ef639c7d7a4834e4133",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&mid=2247518974&idx=1&sn=475ac6653fa62e8515ce23e8bb1d3b5a",
+    "originalPublishedAt": "2026-11-23T08:03:00.000+00:00",
+    "checkedAt": "2026-11-23T23:35:07.262Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "f2ee7bb0bf8961858bdcebfafea9929b2d2ea4c7c7fd4ef639c7d7a4834e4133",
+      "kind": "fact",
+      "quote": "近日，成都越凡创新科技有限公司（以下简称“越凡创新”）宣布完成新一轮 数亿元融资"
+    }
+  ],
+  "title": "社区配送机器人龙头「越凡创新」完成数亿元融资，加速布局城市机器人基础设施",
+  "displayTitle": "越凡创新披露数亿元融资，聚焦社区末端配送机器人",
+  "source": "wechat-zhinengyongxian",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-23T23:35:07.262Z",
+  "topic": [
+    "embodied-ai"
+  ],
+  "summary": "智能涌现报道社区配送机器人企业越凡创新完成数亿元融资，策源资本领投，资金用于研发、交付及市场扩张。",
+  "investorNote": "末端配送应关注单站订单密度、维护成本和客户续约，不宜将公司宣传指标当作独立审计。",
+  "narrative": "智能涌现报道，社区末端配送机器人企业越凡创新完成数亿元新一轮融资，策源资本领投，资金用于产品、交付和市场拓展。报道仅称融资发生于“近日”，没有披露精确完成日期与估值。末端配送的商业化关键不是单次演示，而是楼宇接入、单站订单密度、设备维护与持续运营能否形成正向经济账；文中的规模指标仍属报道转述，不能视为独立审计。",
+  "score": 0.68,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与已核验候选及近两周事件不是同一具体发生"
+  },
+  "eventId": "event-6748319f864ecd5f0130a145",
+  "occurrenceId": "occ-6748319f864ecd5f0130a145",
+  "clusterId": "event-6748319f864ecd5f0130a145",
+  "duplicateOf": null,
+  "relatedItems": []
+}

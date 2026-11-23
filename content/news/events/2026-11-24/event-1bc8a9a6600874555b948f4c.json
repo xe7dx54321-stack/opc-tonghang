@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-1bc8a9a6600874555b948f4c",
+  "title": "亚马逊收购 Decart 优化技术和团队，交易金额据报 75 亿美元",
+  "firstSeen": "2026-11-24",
+  "editionDate": "2026-11-24",
+  "occurrences": [
+    {
+      "id": "occ-1bc8a9a6600874555b948f4c",
+      "fact": {
+        "subject": "Amazon",
+        "action": "收购",
+        "object": "Decart优化技术及团队",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-24",
+      "reports": [
+        {
+          "ref": "2026-11-24/2026-11-24-amazon-decart-optimization",
+          "itemId": "2026-11-24-amazon-decart-optimization",
+          "editionDate": "2026-11-24",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-23T17:14:23.000Z",
+          "title": "亚马逊收购 Decart 优化技术和团队，交易金额据报 75 亿美元"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-24"
+}

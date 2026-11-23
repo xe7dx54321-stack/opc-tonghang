@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-24",
+  "window": {
+    "start": 1795390200000,
+    "end": 1795476600000
+  },
+  "digestHash": "df29360cef75c6a251ab7c8533c3879950616a8240a5e50c2924f427e6d4c49c",
+  "stories": [
+    {
+      "heading": "英伟达董事会让黄仁勋重任 CEO",
+      "itemId": "2026-11-24-nvidia-huang-reinstated",
+      "eventId": "event-8a95f60940aa6333c3d5d9c7",
+      "occurrenceId": "occ-1fa90483a177a2429f7b836d"
+    },
+    {
+      "heading": "亚马逊收购 Decart 优化技术和团队，交易金额据报 75 亿美元",
+      "itemId": "2026-11-24-amazon-decart-optimization",
+      "eventId": "event-1bc8a9a6600874555b948f4c",
+      "occurrenceId": "occ-1bc8a9a6600874555b948f4c"
+    },
+    {
+      "heading": "Anthropic 推出 Claude Ship，让 Agent 参与代码审批",
+      "itemId": "2026-11-24-anthropic-claude-ship",
+      "eventId": "event-0d4fa166663ca7788207362f",
+      "occurrenceId": "occ-0d4fa166663ca7788207362f"
+    },
+    {
+      "heading": "Sierra 完成 17.5 亿美元融资，估值升至 300 亿美元",
+      "itemId": "2026-11-24-sierra-series-f",
+      "eventId": "event-fe002b4bbd08b582bf70c9ca",
+      "occurrenceId": "occ-fe002b4bbd08b582bf70c9ca"
+    },
+    {
+      "heading": "Penguin 展示光互连外置内存，客户样品计划 2027 年推出",
+      "itemId": "2026-11-24-penguin-photonic-memory",
+      "eventId": "event-9dc1fee131573d8913ce55d6",
+      "occurrenceId": "occ-9dc1fee131573d8913ce55d6"
+    },
+    {
+      "heading": "清华与无问芯穹开源 Uni3Sim，模拟大规模推理系统",
+      "itemId": "2026-11-24-uni3sim-inference-simulation",
+      "eventId": "event-ba69af40d2f5f8c8f765ea1d",
+      "occurrenceId": "occ-ba69af40d2f5f8c8f765ea1d"
+    },
+    {
+      "heading": "越凡创新披露数亿元融资，聚焦社区末端配送机器人",
+      "itemId": "2026-11-24-yuefan-robot-funding",
+      "eventId": "event-6748319f864ecd5f0130a145",
+      "occurrenceId": "occ-6748319f864ecd5f0130a145"
+    },
+    {
+      "heading": "EMUSE LAB 获数千万元首轮融资，瞄准桌面 PCB 制造",
+      "itemId": "2026-11-24-emuse-desktop-pcb-funding",
+      "eventId": "event-a0cacccc800f8f594d1bcdd4",
+      "occurrenceId": "occ-a0cacccc800f8f594d1bcdd4"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-24-amazon-decart-optimization.json": "096a4eb305c703d341e3dab56d200c3ad801362b329dade2c0afc381b30ba641",
+    "2026-11-24-anthropic-claude-ship.json": "5a2fef989968cac584f41584f86f9029e411caeb08dd2919b17e7700cc32cdc1",
+    "2026-11-24-emuse-desktop-pcb-funding.json": "da08ac4ce8e465f1511a4b84710fe38214827cb962e7ff49ad51e0efa41f714a",
+    "2026-11-24-nvidia-huang-reinstated.json": "5feca42f08c70fd3985b682f95e7c2d3b0c50647152937ce1942f760ee1fac0d",
+    "2026-11-24-penguin-photonic-memory.json": "9ecdbf30f7a3742af5445a605a51548b3559e9824fe4561fcb636c0678d17112",
+    "2026-11-24-sierra-series-f.json": "f2c310e19a04c083525fea37dc1b1df634352ccdbb71b554a37dd10628759b77",
+    "2026-11-24-uni3sim-inference-simulation.json": "b67275a267721125ec4388fa59265ecbf15ad5a143078b10a911ae5d37f1a51c",
+    "2026-11-24-yuefan-robot-funding.json": "32ee82e2a2306079481d5e31badee97528ebde127fc8fc351a3bd478d6b33ec6"
+  },
+  "evidenceHashes": {
+    "357cce60c4182e346401ea801d29d1f246b4acf2cdc4459d102cd9f8b054e84d.json": "47a4d77cb710f36335f33839ab062ce369a4662c1c86a1d7f65442f736f9529a",
+    "56579919427221086226499fbcf10073181ff27bbb073e321c8d931a6010a235.json": "2dc6e6b7945ecb01cee1bf4e9a7a21c407174219f197b6f5f6da97cb8d2fc66e",
+    "82b484ac8111e0826f2883d4d4b06cda62fede67958cff01ff50310e0daf2b40.json": "789cf8fe0cc1a313833d2eeeccc5e6f08ae03122cd8f18f6a54706427b2e1d4e",
+    "8822d4404e483a0d9e8b52a5b88c90b368d9f93f50d197774e7d20eeac893f4c.json": "7543d0fa2a2f48f31c4703dbf5f3ebb08bd21487af0afbde11bb1c80cc18f7b1",
+    "b05453e83e8e0dbbf11828f499fd34235ae6163baf4aabc85fab61f87733d2e1.json": "c0e6bd5198d1631611124f8ea5ee8e0de3a00b061b0792ba9570000221a407d7",
+    "d3b1fd3ea85d0de9464219e3669ad0a31041eacf00ad14183368b144c3ca178c.json": "af3e76e59b8a32e85e4204b15523e24cdad73fce388732472816fd58b8219f14",
+    "f2ee7bb0bf8961858bdcebfafea9929b2d2ea4c7c7fd4ef639c7d7a4834e4133.json": "fc04a4662b5bbc79643a617331ca56e1299d3d18191fc894161ee4d3b76a551b",
+    "fba979f16fa008c092db3e7f501f383b496035236829c898914e2827e6cbe65e.json": "ffbdebf92939dec9caf743b2623e7a45b5b0b0471675e2dc0e6a2a25545b73ca"
+  },
+  "eventsHashes": {
+    "event-0d4fa166663ca7788207362f.json": "be7f2732293f977ee7a7ba8afcd2d887df5e19523b4c72922afd9bec02585307",
+    "event-1bc8a9a6600874555b948f4c.json": "d7073fac9fc4535ce8967ee3df6ff48fb0ff749fa84c33d9c3d4249e82f9a771",
+    "event-6748319f864ecd5f0130a145.json": "1d583a85f7f3742733693b263b848276253ec2de25d16b69979491f78efc196c",
+    "event-8a95f60940aa6333c3d5d9c7.json": "92d2432d937cb6ab04196e76359cd0ace53b7f0c1e461952a42b132ac473c150",
+    "event-9dc1fee131573d8913ce55d6.json": "74801e8ab597616247b6870f3be12680333ad3440fba996e30d650da8e9acfa8",
+    "event-a0cacccc800f8f594d1bcdd4.json": "a1ac0ab6d31a08a90760061f410d4063e0b93b573b90f5d7e2b3f609e3889bcc",
+    "event-ba69af40d2f5f8c8f765ea1d.json": "d7779c08374433bc712da786993ee8242798106128112875bc7b5cb60891e91d",
+    "event-fe002b4bbd08b582bf70c9ca.json": "347092e8caae67cf1663eeb8c9070dbbef05103aa8b4750f1979a76c15b033c8"
+  }
+}

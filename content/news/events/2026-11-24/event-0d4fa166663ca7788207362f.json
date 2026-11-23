@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-0d4fa166663ca7788207362f",
+  "title": "Anthropic 推出 Claude Ship，让 Agent 参与代码审批",
+  "firstSeen": "2026-11-24",
+  "editionDate": "2026-11-24",
+  "occurrences": [
+    {
+      "id": "occ-0d4fa166663ca7788207362f",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "推出测试版",
+        "object": "Claude Ship代码审查与审批Agent",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-24",
+      "reports": [
+        {
+          "ref": "2026-11-24/2026-11-24-anthropic-claude-ship",
+          "itemId": "2026-11-24-anthropic-claude-ship",
+          "editionDate": "2026-11-24",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-23T22:05:50.000Z",
+          "title": "Anthropic 推出 Claude Ship，让 Agent 参与代码审批"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-24"
+}

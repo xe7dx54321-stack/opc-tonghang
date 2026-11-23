@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-24-sierra-series-f",
+  "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+  "publishedAt": "2026-11-23T14:43:03.000Z",
+  "fact": {
+    "subject": "Sierra",
+    "action": "完成F轮融资",
+    "object": "17.5亿美元融资",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d3b1fd3ea85d0de9464219e3669ad0a31041eacf00ad14183368b144c3ca178c",
+    "originalUrl": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+    "originalPublishedAt": "2026-11-23T14:43:03.000Z",
+    "checkedAt": "2026-11-23T23:35:07.258Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d3b1fd3ea85d0de9464219e3669ad0a31041eacf00ad14183368b144c3ca178c",
+      "kind": "fact",
+      "quote": "co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round that doubles the company’s valuation to $30 billion."
+    }
+  ],
+  "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+  "displayTitle": "Sierra 完成 17.5 亿美元融资，估值升至 300 亿美元",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-23T23:35:07.258Z",
+  "topic": [
+    "ai"
+  ],
+  "summary": "企业客服 Agent 公司 Sierra 称完成17.5亿美元F轮融资，估值300亿美元，由 Greenoaks 和 Lightspeed 领投。",
+  "investorNote": "高估值需要结合实际收入留存、交付成本与按结果收费的可持续性评估。",
+  "narrative": "企业客户体验公司 Sierra 宣布完成 17.5 亿美元 F 轮融资，估值升至 300 亿美元，由 Greenoaks 与 Lightspeed 领投。公司称其客户覆盖近半数《财富》50 强；这一客户覆盖指标是公司口径，并不等于所有客户都已大规模部署。企业 Agent 的需求与资本热度都很高，但估值能否消化，仍要看交付成本、续约以及按结果收费的经济性。",
+  "score": 0.78,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与已核验候选及近两周事件不是同一具体发生"
+  },
+  "eventId": "event-fe002b4bbd08b582bf70c9ca",
+  "occurrenceId": "occ-fe002b4bbd08b582bf70c9ca",
+  "clusterId": "event-fe002b4bbd08b582bf70c9ca",
+  "duplicateOf": null,
+  "relatedItems": []
+}

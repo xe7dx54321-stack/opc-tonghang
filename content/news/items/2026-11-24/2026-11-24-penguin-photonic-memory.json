@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-24-penguin-photonic-memory",
+  "url": "https://www.tomshardware.com/pc-components/dram/penguin-shows-off-photonic-memory-box-at-sc26-that-can-expand-ai-accelerator-capacity-over-optical-links-device-sports-up-to-576gb-of-hbm3e-customer-samples-expected-in-2027",
+  "publishedAt": "2026-11-23T18:00:00.000Z",
+  "fact": {
+    "subject": "Penguin Solutions",
+    "action": "展示",
+    "object": "MemoryAI光互连外置内存系统",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom’s Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "357cce60c4182e346401ea801d29d1f246b4acf2cdc4459d102cd9f8b054e84d",
+    "originalUrl": "https://www.tomshardware.com/pc-components/dram/penguin-shows-off-photonic-memory-box-at-sc26-that-can-expand-ai-accelerator-capacity-over-optical-links-device-sports-up-to-576gb-of-hbm3e-customer-samples-expected-in-2027",
+    "originalPublishedAt": "2026-11-23T18:00:00.000Z",
+    "checkedAt": "2026-11-23T23:35:07.261Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "357cce60c4182e346401ea801d29d1f246b4acf2cdc4459d102cd9f8b054e84d",
+      "kind": "fact",
+      "quote": "The device supports up to 576 GB of HBM3E with an aggregate bandwidth of up to 7.2 TB/s, and connects to systems using optical interconnects via the CXL.mem 3.1 protocol."
+    }
+  ],
+  "title": "Penguin shows off photonic memory box at SC26 that can expand AI accelerator capacity over optical links — device sports",
+  "displayTitle": "Penguin 展示光互连外置内存，客户样品计划 2027 年推出",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-23T23:35:07.261Z",
+  "topic": [
+    "semiconductor"
+  ],
+  "summary": "Penguin 展示外接内存系统，支持最高576GB HBM3E，通过光互连和CXL.mem 3.1连接，客户样品计划2027年下半年推出。",
+  "investorNote": "外置容量可缓解部分内存约束，但兼容性、延迟和实际成本决定可用范围。",
+  "narrative": "Penguin Solutions 展示 MemoryAI Photonic Appliance：设备最高配置 576GB HBM3E 和 16TB DDR5，通过光链路使用 CXL.mem 3.1 接入主机，客户样品计划在 2027 年下半年推出。这是针对加速器内存容量瓶颈的一种系统方案，不是将外置 HBM 直接变成片上显存；报道亦提示现有服务器和加速器的兼容限制，延迟、软件支持与成本仍需实际验证。",
+  "score": 0.74,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与已核验候选及近两周事件不是同一具体发生"
+  },
+  "eventId": "event-9dc1fee131573d8913ce55d6",
+  "occurrenceId": "occ-9dc1fee131573d8913ce55d6",
+  "clusterId": "event-9dc1fee131573d8913ce55d6",
+  "duplicateOf": null,
+  "relatedItems": []
+}

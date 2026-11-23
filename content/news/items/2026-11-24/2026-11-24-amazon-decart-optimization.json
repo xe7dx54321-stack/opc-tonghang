@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-24-amazon-decart-optimization",
+  "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+  "publishedAt": "2026-11-23T17:14:23.000Z",
+  "fact": {
+    "subject": "Amazon",
+    "action": "收购",
+    "object": "Decart优化技术及团队",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "56579919427221086226499fbcf10073181ff27bbb073e321c8d931a6010a235",
+    "originalUrl": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+    "originalPublishedAt": "2026-11-23T17:14:23.000Z",
+    "checkedAt": "2026-11-23T23:35:07.256Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "56579919427221086226499fbcf10073181ff27bbb073e321c8d931a6010a235",
+      "kind": "fact",
+      "quote": "As part of the deal, Amazon will acquire the technology behind DOS, as well as Decart’s founding team and team of AI researchers and engineers,"
+    }
+  ],
+  "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+  "displayTitle": "亚马逊收购 Decart 优化技术和团队，交易金额据报 75 亿美元",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-23T23:35:07.257Z",
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "summary": "亚马逊收购 Decart Optimization Stack 相关技术及创始、研发团队；彭博据报道估值交易金额为75亿美元。",
+  "investorNote": "软件优化与硬件交付相互依赖，金额来自媒体报道而非交易双方公开确认。",
+  "narrative": "亚马逊将获得 Decart Optimization Stack 优化技术及相关团队；TechCrunch 援引彭博称交易金额为 75 亿美元，双方尚未在该报道中确认金额。该软件面向英伟达、亚马逊和谷歌硬件优化模型运行。对 Trainium 而言，芯片性能之外，迁移、训练和推理效率的软件体验同样决定客户能否采用，但这笔交易不等于客户迁移障碍已经消失。",
+  "score": 0.89,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与已核验候选及近两周事件不是同一具体发生"
+  },
+  "eventId": "event-1bc8a9a6600874555b948f4c",
+  "occurrenceId": "occ-1bc8a9a6600874555b948f4c",
+  "clusterId": "event-1bc8a9a6600874555b948f4c",
+  "duplicateOf": null,
+  "relatedItems": []
+}

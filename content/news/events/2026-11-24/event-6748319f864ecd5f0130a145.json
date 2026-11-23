@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6748319f864ecd5f0130a145",
+  "title": "越凡创新披露数亿元融资，聚焦社区末端配送机器人",
+  "firstSeen": "2026-11-24",
+  "editionDate": "2026-11-24",
+  "occurrences": [
+    {
+      "id": "occ-6748319f864ecd5f0130a145",
+      "fact": {
+        "subject": "越凡创新",
+        "action": "披露融资",
+        "object": "数亿元新一轮融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-24",
+      "reports": [
+        {
+          "ref": "2026-11-24/2026-11-24-yuefan-robot-funding",
+          "itemId": "2026-11-24-yuefan-robot-funding",
+          "editionDate": "2026-11-24",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&mid=2247518974&idx=1&sn=475ac6653fa62e8515ce23e8bb1d3b5a",
+          "source": "wechat-zhinengyongxian",
+          "owner": "智能涌现",
+          "role": "observer",
+          "publishedAt": "2026-11-23T08:03:00.000+00:00",
+          "title": "越凡创新披露数亿元融资，聚焦社区末端配送机器人"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-24"
+}

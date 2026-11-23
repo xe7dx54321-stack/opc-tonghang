@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-fe002b4bbd08b582bf70c9ca",
+  "title": "Sierra 完成 17.5 亿美元融资，估值升至 300 亿美元",
+  "firstSeen": "2026-11-24",
+  "editionDate": "2026-11-24",
+  "occurrences": [
+    {
+      "id": "occ-fe002b4bbd08b582bf70c9ca",
+      "fact": {
+        "subject": "Sierra",
+        "action": "完成F轮融资",
+        "object": "17.5亿美元融资",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-24",
+      "reports": [
+        {
+          "ref": "2026-11-24/2026-11-24-sierra-series-f",
+          "itemId": "2026-11-24-sierra-series-f",
+          "editionDate": "2026-11-24",
+          "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-23T14:43:03.000Z",
+          "title": "Sierra 完成 17.5 亿美元融资，估值升至 300 亿美元"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-24"
+}

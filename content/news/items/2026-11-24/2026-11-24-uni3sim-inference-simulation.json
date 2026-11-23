@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-24-uni3sim-inference-simulation",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075779&idx=1&sn=636885b17d34d106010c6d8fbe0fb5bb",
+  "publishedAt": "2026-11-23T09:30:00.000+00:00",
+  "fact": {
+    "subject": "清华大学与无问芯穹",
+    "action": "开源",
+    "object": "Uni3Sim推理系统仿真平台",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "机器之心",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "82b484ac8111e0826f2883d4d4b06cda62fede67958cff01ff50310e0daf2b40",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075779&idx=1&sn=636885b17d34d106010c6d8fbe0fb5bb",
+    "originalPublishedAt": "2026-11-23T09:30:00.000+00:00",
+    "checkedAt": "2026-11-23T23:35:07.262Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "82b484ac8111e0826f2883d4d4b06cda62fede67958cff01ff50310e0daf2b40",
+      "kind": "fact",
+      "quote": "近日，无问芯穹联合清华大学朱振华助理教授、汪玉教授团队正式宣布开源仿真平台 Uni3Sim"
+    }
+  ],
+  "title": "为下一代智算系统搭建开放模拟实验室，清华、无问芯穹开源系统级仿真平台Uni3Sim",
+  "displayTitle": "清华与无问芯穹开源 Uni3Sim，模拟大规模推理系统",
+  "source": "wechat-jiqizhixin",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-23T23:35:07.262Z",
+  "topic": [
+    "ai",
+    "semiconductor"
+  ],
+  "summary": "机器之心报道清华团队与无问芯穹开源 Uni3Sim，用于模拟不同模型、负载与硬件配置下的大规模推理服务。",
+  "investorNote": "仿真价值取决于模型与真实集群的偏差，以及不同硬件和负载的覆盖程度。",
+  "narrative": "机器之心报道，清华团队与无问芯穹开源 Uni3Sim，用模型、请求负载、部署策略及硬件配置模拟推理集群，比较首 Token 时延、生成间隔和吞吐。报道把宣布时间表述为“近日”，并未给出确切开源时刻。对投资人来说，其价值在于帮助部署前比较计算、内存与互连组合，而不是证明模拟结果已能替代真实集群测试。",
+  "score": 0.69,
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与已核验候选及近两周事件不是同一具体发生"
+  },
+  "eventId": "event-ba69af40d2f5f8c8f765ea1d",
+  "occurrenceId": "occ-ba69af40d2f5f8c8f765ea1d",
+  "clusterId": "event-ba69af40d2f5f8c8f765ea1d",
+  "duplicateOf": null,
+  "relatedItems": []
+}
