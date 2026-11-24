@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-61ed3acdc15809612fc8fdd0",
+  "title": "千一至感完成超千万元种子轮融资，瞄准宠物健康监测",
+  "firstSeen": "2026-11-25",
+  "editionDate": "2026-11-25",
+  "occurrences": [
+    {
+      "id": "occ-61ed3acdc15809612fc8fdd0",
+      "fact": {
+        "subject": "北京千一至感科技有限公司",
+        "action": "完成种子轮融资",
+        "object": "宠物健康感知产品 Kinsora One",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-25",
+      "reports": [
+        {
+          "ref": "2026-11-25/2026-11-25-qianyi-pet-seed-financing",
+          "itemId": "2026-11-25-qianyi-pet-seed-financing",
+          "editionDate": "2026-11-25",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519544&idx=1&sn=67e5f1b4df551d8f42d9aa20cbd7552b",
+          "source": "wechat-zpotentials",
+          "owner": "Z Potentials",
+          "role": "observer",
+          "publishedAt": "2026-11-24T10:00:00+08:00",
+          "title": "千一至感完成超千万元种子轮融资，瞄准宠物健康监测"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-25"
+}

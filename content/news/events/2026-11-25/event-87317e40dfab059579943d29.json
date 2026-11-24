@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-87317e40dfab059579943d29",
+  "title": "Claude Artifacts 支持安装为桌面应用，功能仍处测试阶段",
+  "firstSeen": "2026-11-25",
+  "editionDate": "2026-11-25",
+  "occurrences": [
+    {
+      "id": "occ-87317e40dfab059579943d29",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "推出 Artifacts 桌面安装测试",
+        "object": "Claude Artifacts 桌面应用",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-25",
+      "reports": [
+        {
+          "ref": "2026-11-25/2026-11-25-claude-artifacts-desktop-apps",
+          "itemId": "2026-11-25-claude-artifacts-desktop-apps",
+          "editionDate": "2026-11-25",
+          "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-11-24T20:42:29+00:00",
+          "title": "Claude Artifacts 支持安装为桌面应用，功能仍处测试阶段"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-25"
+}

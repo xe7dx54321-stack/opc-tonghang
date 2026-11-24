@@ -1,0 +1,58 @@
+{
+  "id": "2026-11-25-nvidia-microduck-obstacle-avoidance",
+  "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+  "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+  "source": "hugging-face-blog",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [
+    "Microduck Obstacle Avoidance",
+    "Workflow",
+    "Isaac Lab",
+    "Newton"
+  ],
+  "publishedAt": "2026-11-24T16:34:13.127Z",
+  "fetchedAt": "2026-11-24T16:59:15.554Z",
+  "summary": "英伟达介绍 Microduck 避障工作流：固定已有步行策略，利用 ToF 传感与 Isaac Lab 训练独立避障控制器，再准备实机部署。",
+  "investorNote": "模块化减少对现有步态策略的改动，但教程本身并不证明真实世界的规模化效果。",
+  "score": 0.65,
+  "duplicateOf": null,
+  "clusterId": "event-a01bd63d0713a250ee27ddce",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "发布仿真到实机的避障训练教程",
+    "object": "Microduck、Isaac Lab 与 Newton",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "NVIDIA",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "432e0e666548ead31f265844aa09073fa2d21c46bf3c73452fdc64025c508ae5",
+    "originalUrl": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "originalPublishedAt": "2026-11-24T16:34:13.127Z",
+    "checkedAt": "2026-11-24T23:35:51.366Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "432e0e666548ead31f265844aa09073fa2d21c46bf3c73452fdc64025c508ae5",
+      "kind": "fact",
+      "quote": "This follow-up trains a separate avoidance controller using time-of-flight (ToF) sensing."
+    }
+  ],
+  "displayTitle": "英伟达展示 Microduck 避障训练流程，保留既有步态策略",
+  "narrative": "英伟达介绍 Microduck 避障工作流：固定已有步行策略，利用 ToF 传感与 Isaac Lab 训练独立避障控制器，再准备实机部署。模块化减少对现有步态策略的改动，但教程本身并不证明真实世界的规模化效果。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次为独立动作；现有历史候选中未确认同一次发生或直接后续。"
+  },
+  "eventId": "event-a01bd63d0713a250ee27ddce",
+  "occurrenceId": "occ-a01bd63d0713a250ee27ddce",
+  "relatedItems": []
+}

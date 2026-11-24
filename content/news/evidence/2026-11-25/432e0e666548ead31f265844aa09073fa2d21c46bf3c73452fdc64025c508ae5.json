@@ -1,0 +1,12 @@
+{
+  "snapshotId": "432e0e666548ead31f265844aa09073fa2d21c46bf3c73452fdc64025c508ae5",
+  "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+  "publishedAt": "2026-11-24T16:34:13.127Z",
+  "publishedAtQuote": "2026-11-24T16:34:13.127Z",
+  "retrievedAt": "2026-11-24T23:35:51.366Z",
+  "method": "agent-tool",
+  "contentHash": "a2e52c88b125f2c4d0cd4b805320486346c889d6e6c81ac44d6514214ab1712c",
+  "quotations": [
+    "This follow-up trains a separate avoidance controller using time-of-flight (ToF) sensing."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-b4b214c1dce676d78f8f2be0",
+  "title": "百度开源文心 5.5 Flash Preview，采用 Apache 2.0 协议",
+  "firstSeen": "2026-11-25",
+  "editionDate": "2026-11-25",
+  "occurrences": [
+    {
+      "id": "occ-b4b214c1dce676d78f8f2be0",
+      "fact": {
+        "subject": "百度",
+        "action": "开放模型权重及配套资源",
+        "object": "ERNIE 5.5 Flash Preview",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-25",
+      "reports": [
+        {
+          "ref": "2026-11-25/2026-11-25-baidu-ernie-55-flash-preview",
+          "itemId": "2026-11-25-baidu-ernie-55-flash-preview",
+          "editionDate": "2026-11-25",
+          "url": "https://www.leiphone.com/category/industrynews/X2LHtIreyiO6depw.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-24T12:10:00+08:00",
+          "title": "百度开源文心 5.5 Flash Preview，采用 Apache 2.0 协议"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-25"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-7b59d5d638fbe621c34acc00",
+  "title": "Uber、Nuro 与 Lucid 在湾区启动无安全员道路测试",
+  "firstSeen": "2026-11-25",
+  "editionDate": "2026-11-25",
+  "occurrences": [
+    {
+      "id": "occ-7b59d5d638fbe621c34acc00",
+      "fact": {
+        "subject": "Uber、Nuro 与 Lucid",
+        "action": "启动无安全员公共道路测试",
+        "object": "Lucid Gravity Robotaxi",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-25",
+      "reports": [
+        {
+          "ref": "2026-11-25/2026-11-25-uber-nuro-lucid-driverless-testing",
+          "itemId": "2026-11-25-uber-nuro-lucid-driverless-testing",
+          "editionDate": "2026-11-25",
+          "url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-11-24T13:00:00+00:00",
+          "title": "Uber、Nuro 与 Lucid 在湾区启动无安全员道路测试"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-25"
+}

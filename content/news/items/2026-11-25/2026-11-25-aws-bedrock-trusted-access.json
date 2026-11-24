@@ -1,0 +1,64 @@
+{
+  "id": "2026-11-25-aws-bedrock-trusted-access",
+  "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Safeguards and Data Controls",
+  "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+  "source": "aws-machine-learning",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Introducing",
+    "Amazon Bedrock Trusted Access API",
+    "Anthropic",
+    "Enterprise Frontier Safeguards",
+    "Enterprise Data Controls Amazon Bedrock",
+    "API",
+    "The",
+    "EFS",
+    "Enterprise Data Controls",
+    "EDC",
+    "Claude Fable"
+  ],
+  "publishedAt": "2026-11-23T21:01:14-08:00",
+  "fetchedAt": "2026-11-24T05:11:35.974Z",
+  "summary": "AWS 宣布 Bedrock 可信访问项目 API 正式可用，并公测 Anthropic 的 Enterprise Frontier Safeguards 与 Enterprise Data Controls；具体资格、审批及数据控制取决于各项目条款。",
+  "investorNote": "企业采购前沿模型时，安全审查与数据留存的控制权正成为产品的一部分。",
+  "score": 0.78,
+  "duplicateOf": null,
+  "clusterId": "event-e6a52f3e0694087b4683a11f",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Amazon Web Services",
+    "action": "发布可信访问项目 API 并预览企业安全控制",
+    "object": "Amazon Bedrock 与 Claude 企业控制",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Amazon Web Services",
+    "role": "principal"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "fd492ef9043d1d095e49948ebae0c720bf70cb63ab2a02a6e6818f79f21cba02",
+    "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+    "originalPublishedAt": "2026-11-23T21:01:14-08:00",
+    "checkedAt": "2026-11-24T23:35:51.268Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "fd492ef9043d1d095e49948ebae0c720bf70cb63ab2a02a6e6818f79f21cba02",
+      "kind": "fact",
+      "quote": "The API gives you one place to discover, request, and enroll in model provider trusted access programs."
+    }
+  ],
+  "displayTitle": "AWS 推出 Bedrock 可信访问 API，Claude 企业安全控制进入预览",
+  "narrative": "AWS 宣布 Bedrock 可信访问项目 API 正式可用，并公测 Anthropic 的 Enterprise Frontier Safeguards 与 Enterprise Data Controls；具体资格、审批及数据控制取决于各项目条款。企业采购前沿模型时，安全审查与数据留存的控制权正成为产品的一部分。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次为独立动作；现有历史候选中未确认同一次发生或直接后续。"
+  },
+  "eventId": "event-e6a52f3e0694087b4683a11f",
+  "occurrenceId": "occ-e6a52f3e0694087b4683a11f",
+  "relatedItems": []
+}

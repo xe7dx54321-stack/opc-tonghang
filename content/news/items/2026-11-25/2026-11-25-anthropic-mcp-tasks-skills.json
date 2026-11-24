@@ -1,0 +1,62 @@
+{
+  "id": "2026-11-25-anthropic-mcp-tasks-skills",
+  "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+  "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Anthropic",
+    "MCP SDK",
+    "AI",
+    "Two",
+    "MCP",
+    "New",
+    "Claude",
+    "The",
+    "The Decoder"
+  ],
+  "publishedAt": "2026-11-24T19:23:41+00:00",
+  "fetchedAt": "2026-11-24T19:32:11.792Z",
+  "summary": "Anthropic 将 MCP 的 Tasks 和 Elicitation 推至正式可用；Skills over MCP 处于公开测试，文件上传功能则尚待推出。",
+  "investorNote": "长任务和补充信息交互把协议从一次工具调用延伸至持续工作流，但能力状态不可混为一谈。",
+  "score": 0.76,
+  "duplicateOf": null,
+  "clusterId": "event-3ddefdbd39660e5463227d8d",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Anthropic",
+    "action": "扩展 MCP 任务、交互及技能支持",
+    "object": "Model Context Protocol 与 Claude",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8bd5544886fa1a91bbe8d8c825573a9a254459b70378c347ee6b2b1ba0bd065b",
+    "originalUrl": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+    "originalPublishedAt": "2026-11-24T19:23:41+00:00",
+    "checkedAt": "2026-11-24T23:35:51.342Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8bd5544886fa1a91bbe8d8c825573a9a254459b70378c347ee6b2b1ba0bd065b",
+      "kind": "fact",
+      "quote": "\"Tasks\" and \"Elicitation\" rank among the biggest additions, reaching general availability after a public test in October."
+    }
+  ],
+  "displayTitle": "Anthropic 扩展 MCP：后台任务和交互正式可用，Skills 进入测试",
+  "narrative": "Anthropic 将 MCP 的 Tasks 和 Elicitation 推至正式可用；Skills over MCP 处于公开测试，文件上传功能则尚待推出。长任务和补充信息交互把协议从一次工具调用延伸至持续工作流，但能力状态不可混为一谈。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次为独立动作；现有历史候选中未确认同一次发生或直接后续。"
+  },
+  "eventId": "event-3ddefdbd39660e5463227d8d",
+  "occurrenceId": "occ-3ddefdbd39660e5463227d8d",
+  "relatedItems": []
+}

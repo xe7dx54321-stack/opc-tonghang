@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a01bd63d0713a250ee27ddce",
+  "title": "英伟达展示 Microduck 避障训练流程，保留既有步态策略",
+  "firstSeen": "2026-11-25",
+  "editionDate": "2026-11-25",
+  "occurrences": [
+    {
+      "id": "occ-a01bd63d0713a250ee27ddce",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "发布仿真到实机的避障训练教程",
+        "object": "Microduck、Isaac Lab 与 Newton",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-25",
+      "reports": [
+        {
+          "ref": "2026-11-25/2026-11-25-nvidia-microduck-obstacle-avoidance",
+          "itemId": "2026-11-25-nvidia-microduck-obstacle-avoidance",
+          "editionDate": "2026-11-25",
+          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "source": "hugging-face-blog",
+          "owner": "NVIDIA",
+          "role": "principal",
+          "publishedAt": "2026-11-24T16:34:13.127Z",
+          "title": "英伟达展示 Microduck 避障训练流程，保留既有步态策略"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-25"
+}

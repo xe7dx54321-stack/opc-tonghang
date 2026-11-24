@@ -1,0 +1,59 @@
+{
+  "id": "2026-11-25-uber-nuro-lucid-driverless-testing",
+  "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
+  "url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
+  "source": "theverge",
+  "sourceTier": 2,
+  "topic": [
+    "embodied-ai"
+  ],
+  "entities": [
+    "Uber",
+    "Nuro",
+    "Lucid",
+    "San Francisco Bay Area",
+    "First",
+    "July"
+  ],
+  "publishedAt": "2026-11-24T13:00:00+00:00",
+  "fetchedAt": "2026-11-24T13:21:49.775Z",
+  "summary": "三家公司在旧金山湾区启动无安全员公共道路测试，后续计划开放员工乘坐；面向公众上线推迟至 2027 年初，尚非今日正式商业运营。",
+  "investorNote": "去安全员是重要验证节点，但从限定区域测试到公开商业运营仍存在运营与监管门槛。",
+  "score": 0.8,
+  "duplicateOf": null,
+  "clusterId": "event-7b59d5d638fbe621c34acc00",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "Uber、Nuro 与 Lucid",
+    "action": "启动无安全员公共道路测试",
+    "object": "Lucid Gravity Robotaxi",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "d61503bccb4420e74715240292ae6caf92b3635b75baaf06a93aecd1001d50cd",
+    "originalUrl": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
+    "originalPublishedAt": "2026-11-24T13:00:00+00:00",
+    "checkedAt": "2026-11-24T23:35:51.419Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "d61503bccb4420e74715240292ae6caf92b3635b75baaf06a93aecd1001d50cd",
+      "kind": "fact",
+      "quote": "Nuro, Lucid, and Uber are starting fully driverless public road testing in the San Francisco Bay Area, with employee-only rides launching shortly after."
+    }
+  ],
+  "displayTitle": "Uber、Nuro 与 Lucid 在湾区启动无安全员道路测试",
+  "narrative": "三家公司在旧金山湾区启动无安全员公共道路测试，后续计划开放员工乘坐；面向公众上线推迟至 2027 年初，尚非今日正式商业运营。去安全员是重要验证节点，但从限定区域测试到公开商业运营仍存在运营与监管门槛。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次为独立动作；现有历史候选中未确认同一次发生或直接后续。"
+  },
+  "eventId": "event-7b59d5d638fbe621c34acc00",
+  "occurrenceId": "occ-7b59d5d638fbe621c34acc00",
+  "relatedItems": []
+}

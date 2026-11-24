@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-25",
+  "itemCount": 7,
+  "storyCount": 7,
+  "clusterCount": 7,
+  "files": [
+    "2026-11-25-aws-bedrock-trusted-access.json",
+    "2026-11-25-baidu-ernie-55-flash-preview.json",
+    "2026-11-25-claude-artifacts-desktop-apps.json",
+    "2026-11-25-anthropic-mcp-tasks-skills.json",
+    "2026-11-25-nvidia-microduck-obstacle-avoidance.json",
+    "2026-11-25-qianyi-pet-seed-financing.json",
+    "2026-11-25-uber-nuro-lucid-driverless-testing.json"
+  ],
+  "representatives": [
+    "2026-11-25-aws-bedrock-trusted-access",
+    "2026-11-25-baidu-ernie-55-flash-preview",
+    "2026-11-25-claude-artifacts-desktop-apps",
+    "2026-11-25-anthropic-mcp-tasks-skills",
+    "2026-11-25-nvidia-microduck-obstacle-avoidance",
+    "2026-11-25-qianyi-pet-seed-financing",
+    "2026-11-25-uber-nuro-lucid-driverless-testing"
+  ]
+}

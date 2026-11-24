@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-3ddefdbd39660e5463227d8d",
+  "title": "Anthropic 扩展 MCP：后台任务和交互正式可用，Skills 进入测试",
+  "firstSeen": "2026-11-25",
+  "editionDate": "2026-11-25",
+  "occurrences": [
+    {
+      "id": "occ-3ddefdbd39660e5463227d8d",
+      "fact": {
+        "subject": "Anthropic",
+        "action": "扩展 MCP 任务、交互及技能支持",
+        "object": "Model Context Protocol 与 Claude",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-25",
+      "reports": [
+        {
+          "ref": "2026-11-25/2026-11-25-anthropic-mcp-tasks-skills",
+          "itemId": "2026-11-25-anthropic-mcp-tasks-skills",
+          "editionDate": "2026-11-25",
+          "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "observer",
+          "publishedAt": "2026-11-24T19:23:41+00:00",
+          "title": "Anthropic 扩展 MCP：后台任务和交互正式可用，Skills 进入测试"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-25"
+}

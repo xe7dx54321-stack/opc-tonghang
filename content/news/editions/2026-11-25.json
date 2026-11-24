@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-25",
+  "window": {
+    "start": 1795476600000,
+    "end": 1795563000000
+  },
+  "digestHash": "f55229fb97122126d8bbbd835a7e41c5140f9b04ba3161290846ccf4b673f032",
+  "stories": [
+    {
+      "heading": "AWS 推出 Bedrock 可信访问 API，Claude 企业安全控制进入预览",
+      "itemId": "2026-11-25-aws-bedrock-trusted-access",
+      "eventId": "event-e6a52f3e0694087b4683a11f",
+      "occurrenceId": "occ-e6a52f3e0694087b4683a11f"
+    },
+    {
+      "heading": "百度开源文心 5.5 Flash Preview，采用 Apache 2.0 协议",
+      "itemId": "2026-11-25-baidu-ernie-55-flash-preview",
+      "eventId": "event-b4b214c1dce676d78f8f2be0",
+      "occurrenceId": "occ-b4b214c1dce676d78f8f2be0"
+    },
+    {
+      "heading": "Anthropic 扩展 MCP：后台任务和交互正式可用，Skills 进入测试",
+      "itemId": "2026-11-25-anthropic-mcp-tasks-skills",
+      "eventId": "event-3ddefdbd39660e5463227d8d",
+      "occurrenceId": "occ-3ddefdbd39660e5463227d8d"
+    },
+    {
+      "heading": "Uber、Nuro 与 Lucid 在湾区启动无安全员道路测试",
+      "itemId": "2026-11-25-uber-nuro-lucid-driverless-testing",
+      "eventId": "event-7b59d5d638fbe621c34acc00",
+      "occurrenceId": "occ-7b59d5d638fbe621c34acc00"
+    },
+    {
+      "heading": "Claude Artifacts 支持安装为桌面应用，功能仍处测试阶段",
+      "itemId": "2026-11-25-claude-artifacts-desktop-apps",
+      "eventId": "event-87317e40dfab059579943d29",
+      "occurrenceId": "occ-87317e40dfab059579943d29"
+    },
+    {
+      "heading": "英伟达展示 Microduck 避障训练流程，保留既有步态策略",
+      "itemId": "2026-11-25-nvidia-microduck-obstacle-avoidance",
+      "eventId": "event-a01bd63d0713a250ee27ddce",
+      "occurrenceId": "occ-a01bd63d0713a250ee27ddce"
+    },
+    {
+      "heading": "千一至感完成超千万元种子轮融资，瞄准宠物健康监测",
+      "itemId": "2026-11-25-qianyi-pet-seed-financing",
+      "eventId": "event-61ed3acdc15809612fc8fdd0",
+      "occurrenceId": "occ-61ed3acdc15809612fc8fdd0"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-25-anthropic-mcp-tasks-skills.json": "87e56b74b7fcd9c8c7471f4e488b4ee0bd6e73cbf683992fabc0423ca53f931b",
+    "2026-11-25-aws-bedrock-trusted-access.json": "09f3fad2752f9c00f5932df896eeb5afbcbce2f65854e5c0c74534445a363275",
+    "2026-11-25-baidu-ernie-55-flash-preview.json": "653df8323a1ecf04de71c4087efc2a1cb22a2a135554bb56395102a6470a297a",
+    "2026-11-25-claude-artifacts-desktop-apps.json": "3d853c8cf15c44ceb094101103ad58379122f2950706cea7e1f74e515dfa0dca",
+    "2026-11-25-nvidia-microduck-obstacle-avoidance.json": "a516a845e7e5c504750b23e060f530bfe7e6338c73969bb24f2da23454a75ddc",
+    "2026-11-25-qianyi-pet-seed-financing.json": "96c830a4c5e0ac1247d0c1f2e3a8473fd4800658e2e3a3e735da05963092bd76",
+    "2026-11-25-uber-nuro-lucid-driverless-testing.json": "2ff4bf9a94e1b49761f834d7f35d5417e5a50841e2eafe7d762876cc67569224"
+  },
+  "evidenceHashes": {
+    "224cc24bc98e1c93f610998c816f85e4cdee4380f1c9d0df31bee035582f413f.json": "27a709142c298b715e48efe30c71acbc77282fc00b25444ecd9a802a03cb6ebd",
+    "33dc45a1213e67bc8ce44fdfb82fe548d7927b2ce796c199d4743905405a0101.json": "1398d7ec3d4e7ac74c92c1770629062c5f183c4fe707db3caa75cd6562152c1d",
+    "432e0e666548ead31f265844aa09073fa2d21c46bf3c73452fdc64025c508ae5.json": "31e6f627a2d4c8cce208935d4827e6d56eabb28ff174556a71b8e3a72d71c05f",
+    "8bd5544886fa1a91bbe8d8c825573a9a254459b70378c347ee6b2b1ba0bd065b.json": "de4464e622c54f4dce74a61dba237758ef439ec405d9faa7f94932c30c0a3fb4",
+    "d1c60223d59ba2fbd39e806254b24286d39102d5cfd6e9fec315d9acd9fa1a59.json": "e87e3169dcdfc63805b9e633e46e080d36276d29a440c036c1aefdf509016662",
+    "d61503bccb4420e74715240292ae6caf92b3635b75baaf06a93aecd1001d50cd.json": "d3d51a16173d4ba90935266080d7b97523d4e23131bb45135fb63834827e87e8",
+    "fd492ef9043d1d095e49948ebae0c720bf70cb63ab2a02a6e6818f79f21cba02.json": "da0e8ca8c8fdbc0d36cce81dc829d40ff01dab112bdf40b0d1afadecd1263705"
+  },
+  "eventsHashes": {
+    "event-3ddefdbd39660e5463227d8d.json": "1de4c65ab53468eeedf5f22dd2b0d39d9c3bff1c28401a96c841775040304ed0",
+    "event-61ed3acdc15809612fc8fdd0.json": "99d593ca79d3899a19963318db80ad9d584accfe2f8d63f6e3d9b52994f31ef3",
+    "event-7b59d5d638fbe621c34acc00.json": "2a21837ebd3b8ac4a0a706dbb0fc031200dd6588dcc685a9d6ad115ababc51c5",
+    "event-87317e40dfab059579943d29.json": "cc5f524d6e94dc7fb5ba02289f7879e9141a8d3f430ee981004da6f7e153f9bd",
+    "event-a01bd63d0713a250ee27ddce.json": "b3afd25512d8185ad3d7db360f67936f55a3130c9360ceee152c831670f67290",
+    "event-b4b214c1dce676d78f8f2be0.json": "0ebaee0d8291fe483320a909f6a8d7a0c6ac0c3e060ef53a78d3bd1944cdaf31",
+    "event-e6a52f3e0694087b4683a11f.json": "774fe7b43916ba9a552897f5bc4b042668d4a678a2ace49b325be61697992f1a"
+  }
+}

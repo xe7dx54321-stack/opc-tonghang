@@ -1,0 +1,12 @@
+{
+  "snapshotId": "d1c60223d59ba2fbd39e806254b24286d39102d5cfd6e9fec315d9acd9fa1a59",
+  "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+  "publishedAt": "2026-11-24T20:42:29+00:00",
+  "publishedAtQuote": "2026-11-24T20:42:29+00:00",
+  "retrievedAt": "2026-11-24T23:35:51.319Z",
+  "method": "agent-tool",
+  "contentHash": "599368680212bd768a7116e9e42ccf58a0d02ba2bbc33dbe6fbdfa12869ccfc9",
+  "quotations": [
+    "The feature is in beta as of today and requires the latest version of Claude for macOS or Windows."
+  ]
+}

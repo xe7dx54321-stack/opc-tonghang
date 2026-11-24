@@ -1,0 +1,55 @@
+{
+  "id": "2026-11-25-qianyi-pet-seed-financing",
+  "title": "独家｜千一至感种子轮融资超千万，国家重点实验室技术落地北美宠物消费市场",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519544&idx=1&sn=67e5f1b4df551d8f42d9aa20cbd7552b",
+  "source": "wechat-zpotentials",
+  "sourceTier": 2,
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "entities": [
+    "AI"
+  ],
+  "publishedAt": "2026-11-24T10:00:00+08:00",
+  "fetchedAt": "2026-11-24T11:17:49.426Z",
+  "summary": "Z Potentials 报道，千一至感完成超千万元种子轮融资，水木创投领投；公司称首款面向北美的宠物健康监测项圈处于量产后期。",
+  "investorNote": "感知硬件的落地应重点核查佩戴条件下的指标有效性、合规边界和渠道转化。",
+  "score": 0.63,
+  "duplicateOf": null,
+  "clusterId": "event-61ed3acdc15809612fc8fdd0",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "北京千一至感科技有限公司",
+    "action": "完成种子轮融资",
+    "object": "宠物健康感知产品 Kinsora One",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Z Potentials",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "33dc45a1213e67bc8ce44fdfb82fe548d7927b2ce796c199d4743905405a0101",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519544&idx=1&sn=67e5f1b4df551d8f42d9aa20cbd7552b",
+    "originalPublishedAt": "2026-11-24T10:00:00+08:00",
+    "checkedAt": "2026-11-24T23:35:51.394Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "33dc45a1213e67bc8ce44fdfb82fe548d7927b2ce796c199d4743905405a0101",
+      "kind": "fact",
+      "quote": "Z Potentials独家获悉，北京千一至感科技有限公司（以下简称“千一至感”）完成超千万元种子轮融资，由水木创投领投，全球健康产业创新中心（GHIC）跟投。"
+    }
+  ],
+  "displayTitle": "千一至感完成超千万元种子轮融资，瞄准宠物健康监测",
+  "narrative": "Z Potentials 报道，千一至感完成超千万元种子轮融资，水木创投领投；公司称首款面向北美的宠物健康监测项圈处于量产后期。感知硬件的落地应重点核查佩戴条件下的指标有效性、合规边界和渠道转化。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次为独立动作；现有历史候选中未确认同一次发生或直接后续。"
+  },
+  "eventId": "event-61ed3acdc15809612fc8fdd0",
+  "occurrenceId": "occ-61ed3acdc15809612fc8fdd0",
+  "relatedItems": []
+}

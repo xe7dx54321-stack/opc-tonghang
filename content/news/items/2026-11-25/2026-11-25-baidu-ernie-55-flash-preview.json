@@ -1,0 +1,70 @@
+{
+  "id": "2026-11-25-baidu-ernie-55-flash-preview",
+  "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+  "url": "https://www.leiphone.com/category/industrynews/X2LHtIreyiO6depw.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Flash Preview",
+    "Apache",
+    "ERNIE",
+    "Hugging Face",
+    "ModelScope",
+    "SGLang",
+    "Token",
+    "Terminal",
+    "Bench",
+    "AutomationBench",
+    "CodeArena WebDev",
+    "Kimi",
+    "Pro",
+    "Max",
+    "Flash",
+    "Preview ModelScope",
+    "Preview"
+  ],
+  "publishedAt": "2026-11-24T12:10:00+08:00",
+  "fetchedAt": "2026-11-24T06:42:59.488Z",
+  "summary": "雷峰网报道百度开放文心 5.5 Flash Preview 的模型权重及资源，采用 Apache 2.0 协议；报道列出总参数 2800 亿、每 token 激活 140 亿和最长 100 万 token 上下文。",
+  "investorNote": "开放权重能降低本地部署门槛，但模型性能及推理成本仍需独立验证。",
+  "score": 0.8,
+  "duplicateOf": null,
+  "clusterId": "event-b4b214c1dce676d78f8f2be0",
+  "schemaVersion": 2,
+  "fact": {
+    "subject": "百度",
+    "action": "开放模型权重及配套资源",
+    "object": "ERNIE 5.5 Flash Preview",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "224cc24bc98e1c93f610998c816f85e4cdee4380f1c9d0df31bee035582f413f",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/X2LHtIreyiO6depw.html",
+    "originalPublishedAt": "2026-11-24T12:10:00+08:00",
+    "checkedAt": "2026-11-24T23:35:51.294Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "224cc24bc98e1c93f610998c816f85e4cdee4380f1c9d0df31bee035582f413f",
+      "kind": "fact",
+      "quote": "11 月 24 日，文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview）正式开源，采用 Apache 2.0 协议面向全球开源社区开放。"
+    }
+  ],
+  "displayTitle": "百度开源文心 5.5 Flash Preview，采用 Apache 2.0 协议",
+  "narrative": "雷峰网报道百度开放文心 5.5 Flash Preview 的模型权重及资源，采用 Apache 2.0 协议；报道列出总参数 2800 亿、每 token 激活 140 亿和最长 100 万 token 上下文。开放权重能降低本地部署门槛，但模型性能及推理成本仍需独立验证。",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "本次为独立动作；现有历史候选中未确认同一次发生或直接后续。"
+  },
+  "eventId": "event-b4b214c1dce676d78f8f2be0",
+  "occurrenceId": "occ-b4b214c1dce676d78f8f2be0",
+  "relatedItems": []
+}

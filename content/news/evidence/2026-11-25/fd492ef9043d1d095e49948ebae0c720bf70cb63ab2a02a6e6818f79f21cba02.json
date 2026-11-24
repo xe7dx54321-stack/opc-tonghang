@@ -1,0 +1,12 @@
+{
+  "snapshotId": "fd492ef9043d1d095e49948ebae0c720bf70cb63ab2a02a6e6818f79f21cba02",
+  "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+  "publishedAt": "2026-11-23T21:01:14-08:00",
+  "publishedAtQuote": "2026-11-23T21:01:14-08:00",
+  "retrievedAt": "2026-11-24T23:35:51.268Z",
+  "method": "agent-tool",
+  "contentHash": "5729209b9d3db599ae47b7e8a0731416398bf8c718e37787adef5ed8217406b8",
+  "quotations": [
+    "The API gives you one place to discover, request, and enroll in model provider trusted access programs."
+  ]
+}

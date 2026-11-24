@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-e6a52f3e0694087b4683a11f",
+  "title": "AWS 推出 Bedrock 可信访问 API，Claude 企业安全控制进入预览",
+  "firstSeen": "2026-11-25",
+  "editionDate": "2026-11-25",
+  "occurrences": [
+    {
+      "id": "occ-e6a52f3e0694087b4683a11f",
+      "fact": {
+        "subject": "Amazon Web Services",
+        "action": "发布可信访问项目 API 并预览企业安全控制",
+        "object": "Amazon Bedrock 与 Claude 企业控制",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-25",
+      "reports": [
+        {
+          "ref": "2026-11-25/2026-11-25-aws-bedrock-trusted-access",
+          "itemId": "2026-11-25-aws-bedrock-trusted-access",
+          "editionDate": "2026-11-25",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+          "source": "aws-machine-learning",
+          "owner": "Amazon Web Services",
+          "role": "principal",
+          "publishedAt": "2026-11-23T21:01:14-08:00",
+          "title": "AWS 推出 Bedrock 可信访问 API，Claude 企业安全控制进入预览"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-25"
+}
