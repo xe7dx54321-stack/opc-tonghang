@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6810017faab49a235dc7eb1b",
+  "title": "FCC 批准 SpaceX 空间数据中心卫星计划，部署仍待兑现",
+  "firstSeen": "2026-11-26",
+  "editionDate": "2026-11-26",
+  "occurrences": [
+    {
+      "id": "occ-6810017faab49a235dc7eb1b",
+      "fact": {
+        "subject": "美国联邦通信委员会",
+        "action": "批准部署计划",
+        "object": "SpaceX Starmind 数据中心卫星星座",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-26",
+      "reports": [
+        {
+          "ref": "2026-11-26/2026-11-26-fcc-spacex-satellite-approval",
+          "itemId": "2026-11-26-fcc-spacex-satellite-approval",
+          "editionDate": "2026-11-26",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+          "source": "theverge",
+          "owner": "The Verge",
+          "role": "observer",
+          "publishedAt": "2026-11-25T17:44:51.000Z",
+          "title": "FCC 批准 SpaceX 空间数据中心卫星计划，部署仍待兑现"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-26"
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-26-fcc-spacex-satellite-approval",
+  "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+  "displayTitle": "FCC 批准 SpaceX 空间数据中心卫星计划，部署仍待兑现",
+  "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+  "source": "theverge",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-25T17:44:51.000Z",
+  "fetchedAt": "2026-11-25T17:59:01.711Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "美国联邦通信委员会"
+  ],
+  "summary": "The Verge 报道 FCC 授权 SpaceX 最多部署一百万颗配备 AI 芯片的卫星，并附带分阶段部署要求；部分轨道处置请求尚未获批。",
+  "investorNote": "监管许可不等于星座建成，发射、电力、通信和空间碎片仍是重要约束。",
+  "narrative": "据 The Verge，FCC 授权 SpaceX 部署最多一百万颗配备 AI 芯片的卫星，并设阶段性部署要求；部分轨道处置请求仍待处理。许可是长期计划的监管节点，不代表算力或卫星已经建成。",
+  "score": 0.72,
+  "fact": {
+    "subject": "美国联邦通信委员会",
+    "action": "批准部署计划",
+    "object": "SpaceX Starmind 数据中心卫星星座",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Verge",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e13528683ce7318ad6a4395bde964a4d43ee05627009ee2de7a7f30a3b323fba",
+    "originalUrl": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "originalPublishedAt": "2026-11-25T17:44:51.000Z",
+    "checkedAt": "2026-11-25T23:37:56.911Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e13528683ce7318ad6a4395bde964a4d43ee05627009ee2de7a7f30a3b323fba",
+      "kind": "fact",
+      "quote": "the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "核对近两周事件目录，未发现可确认同一次发生或直接后续的已收录事件。"
+  },
+  "eventId": "event-6810017faab49a235dc7eb1b",
+  "occurrenceId": "occ-6810017faab49a235dc7eb1b",
+  "clusterId": "event-6810017faab49a235dc7eb1b",
+  "duplicateOf": null,
+  "relatedItems": []
+}

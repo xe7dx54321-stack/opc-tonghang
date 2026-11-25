@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-c35e16e80c8cb0d9dfdbd145",
+  "title": "ChatGPT 合并 Chat 与 Work 用量，重度用户可能更早触及上限",
+  "firstSeen": "2026-11-26",
+  "editionDate": "2026-11-26",
+  "occurrences": [
+    {
+      "id": "occ-c35e16e80c8cb0d9dfdbd145",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "开始合并使用额度",
+        "object": "ChatGPT Chat 与 Work 体验",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-26",
+      "reports": [
+        {
+          "ref": "2026-11-26/2026-11-26-chatgpt-shared-usage",
+          "itemId": "2026-11-26-chatgpt-shared-usage",
+          "editionDate": "2026-11-26",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "observer",
+          "publishedAt": "2026-11-25T20:03:27.000Z",
+          "title": "ChatGPT 合并 Chat 与 Work 用量，重度用户可能更早触及上限"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-26"
+}

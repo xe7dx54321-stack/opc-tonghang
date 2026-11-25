@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-26-envision-ai-spatial-startup",
+  "title": "深度｜港科大权龙二次创业！联手牛津马尔奖得主、多位连续创业者，物理AI迎来「梦幻顶配」新势力",
+  "displayTitle": "权龙团队创立 Envision AI，切入空间与物理基础模型",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519563&idx=1&sn=1a33f22947c8ce439f0cfdc25e448bb7",
+  "source": "wechat-zpotentials",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-25T04:00:00.000Z",
+  "fetchedAt": "2026-11-25T10:48:43.957Z",
+  "topic": [
+    "ai",
+    "embodied-ai"
+  ],
+  "entities": [
+    "权龙及团队"
+  ],
+  "summary": "Z Potentials 报道权龙与团队创立 Envision AI，方向为空间与物理基础模型及形式化验证；报道描述团队背景与商业合作。",
+  "investorNote": "有三维视觉积累的团队进入物理 AI，关键仍是数据、验证能力与付费场景。",
+  "narrative": "Z Potentials 报道权龙团队成立 Envision AI，瞄准空间与物理基础模型及形式化验证。团队的三维视觉背景值得关注，但商业合作和收入规模尚缺可核实细节，不能据此推断产品成熟度。",
+  "score": 0.73,
+  "fact": {
+    "subject": "权龙及团队",
+    "action": "创立并披露新公司",
+    "object": "Envision AI 空间与物理基础模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Z Potentials",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "9ddeade1318c3910e11c755df3e7c48f89ed8ca66e1ca3e9d02046ae75984a9b",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519563&idx=1&sn=1a33f22947c8ce439f0cfdc25e448bb7",
+    "originalPublishedAt": "2026-11-25T04:00:00.000Z",
+    "checkedAt": "2026-11-25T23:37:56.906Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "9ddeade1318c3910e11c755df3e7c48f89ed8ca66e1ca3e9d02046ae75984a9b",
+      "kind": "fact",
+      "quote": "Z Potentials 获悉，世界级空间智能与物理 AI 华人技术大牛、香港科技大学权龙教授二次创业，成立了一家新的人工智能公司——Envision AI（格秩科技），目标是下一代空间与物理基础模型与形式化验证系统、打造物理 AI 的「ChatGPT 时刻」。"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "核对近两周事件目录，未发现可确认同一次发生或直接后续的已收录事件。"
+  },
+  "eventId": "event-7782e503e0290db05d5e0a44",
+  "occurrenceId": "occ-7782e503e0290db05d5e0a44",
+  "clusterId": "event-7782e503e0290db05d5e0a44",
+  "duplicateOf": null,
+  "relatedItems": []
+}

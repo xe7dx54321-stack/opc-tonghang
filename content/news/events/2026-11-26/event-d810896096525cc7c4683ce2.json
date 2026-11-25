@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-d810896096525cc7c4683ce2",
+  "title": "美方将 Megaspeed 列入实体清单，先进芯片限制范围仍需细看",
+  "firstSeen": "2026-11-26",
+  "editionDate": "2026-11-26",
+  "occurrences": [
+    {
+      "id": "occ-d810896096525cc7c4683ce2",
+      "fact": {
+        "subject": "美国商务部",
+        "action": "将企业列入实体清单",
+        "object": "Megaspeed 及关联实体",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-26",
+      "reports": [
+        {
+          "ref": "2026-11-26/2026-11-26-megaspeed-entity-list",
+          "itemId": "2026-11-26-megaspeed-entity-list",
+          "editionDate": "2026-11-26",
+          "url": "https://www.tomshardware.com/tech-industry/us-blacklists-megaspeed-but-leaves-potential-loophole-for-lower-performance-chips-company-at-center-of-jensen-huang-affair-scandal-added-to-entity-list",
+          "source": "tomshardware",
+          "owner": "Tom's Hardware",
+          "role": "observer",
+          "publishedAt": "2026-11-25T12:30:00.000Z",
+          "title": "美方将 Megaspeed 列入实体清单，先进芯片限制范围仍需细看"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-26"
+}

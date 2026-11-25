@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-26-qwen-go-phone-calls",
+  "title": "千问Go全面开放免费代打电话服务，支持订餐厅、找快递、寻失物",
+  "displayTitle": "千问 Go 开放免费代打电话，Agent 开始进入线下沟通",
+  "url": "https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-25T02:28:00.000Z",
+  "fetchedAt": "2026-11-25T04:10:50.309Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "千问 Go"
+  ],
+  "summary": "雷峰网报道千问 Go 全面开放免费代打电话，支持经用户授权联系餐厅、酒店或快递员，并反馈结果。",
+  "investorNote": "电话将 Agent 接入尚无标准接口的服务，但授权、告知和外呼风控决定实际可用边界。",
+  "narrative": "千问 Go 全面开放免费代打电话，报道列出订餐、查询遗失物品及联系快递等场景。服务需要用户授权并主动表明 AI 身份；语音交互质量、错误处理和外呼风控将决定它能否成为可靠的日常入口。",
+  "score": 0.7,
+  "fact": {
+    "subject": "千问 Go",
+    "action": "全面开放",
+    "object": "用户授权的免费代打电话服务",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "1675b1016112ede7468df9e794cdda1ef8ef2de90c6ff064dbc1034720147778",
+    "originalUrl": "https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html",
+    "originalPublishedAt": "2026-11-25T02:28:00.000Z",
+    "checkedAt": "2026-11-25T23:37:56.914Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "1675b1016112ede7468df9e794cdda1ef8ef2de90c6ff064dbc1034720147778",
+      "kind": "fact",
+      "quote": "11月25日，千问Go全面开放代打电话服务，人人都能免费拥有一个帮自己打电话的专属AI助手。"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "核对近两周事件目录，未发现可确认同一次发生或直接后续的已收录事件。"
+  },
+  "eventId": "event-e37c9b578c27d2d43a654bac",
+  "occurrenceId": "occ-e37c9b578c27d2d43a654bac",
+  "clusterId": "event-e37c9b578c27d2d43a654bac",
+  "duplicateOf": null,
+  "relatedItems": []
+}

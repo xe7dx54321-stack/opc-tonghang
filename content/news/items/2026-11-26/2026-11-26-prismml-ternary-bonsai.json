@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-26-prismml-ternary-bonsai",
+  "title": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
+  "displayTitle": "PrismML 推出三值化 Bonsai 2.5，压缩本地模型部署体积",
+  "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-25T11:51:49.000Z",
+  "fetchedAt": "2026-11-25T12:20:55.264Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "PrismML"
+  ],
+  "summary": "The Decoder 报道 PrismML 推出基于 Qwen3.8-27B 的三值化 Bonsai 2.5，模型占用约 5.9 GB；基准数据为报道转述。",
+  "investorNote": "压缩可降低部署门槛，但需要同时考察质量损失、推理速度与具体硬件支持。",
+  "narrative": "PrismML 推出三值化 Bonsai 2.5 27B，报道指模型占用约 5.9 GB，并针对多步工具调用优化。压缩带来更低部署门槛，但团队给出的基准和速度仍需结合实际硬件及任务独立测试。",
+  "score": 0.68,
+  "fact": {
+    "subject": "PrismML",
+    "action": "发布",
+    "object": "Ternary Bonsai 2.5 27B",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "f02607460997ee4bb6c1729ca9ece7ee69c5192150f7efcabed5a033e2eda308",
+    "originalUrl": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+    "originalPublishedAt": "2026-11-25T11:51:49.000Z",
+    "checkedAt": "2026-11-25T23:37:56.913Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "f02607460997ee4bb6c1729ca9ece7ee69c5192150f7efcabed5a033e2eda308",
+      "kind": "fact",
+      "quote": "Startup PrismML has released Ternary Bonsai 2.5 27B, an updated version of its aggressively compressed language model."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "核对近两周事件目录，未发现可确认同一次发生或直接后续的已收录事件。"
+  },
+  "eventId": "event-46fb9712b1ef4e05515cbe67",
+  "occurrenceId": "occ-46fb9712b1ef4e05515cbe67",
+  "clusterId": "event-46fb9712b1ef4e05515cbe67",
+  "duplicateOf": null,
+  "relatedItems": []
+}

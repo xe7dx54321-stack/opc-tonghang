@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-e37c9b578c27d2d43a654bac",
+  "title": "千问 Go 开放免费代打电话，Agent 开始进入线下沟通",
+  "firstSeen": "2026-11-26",
+  "editionDate": "2026-11-26",
+  "occurrences": [
+    {
+      "id": "occ-e37c9b578c27d2d43a654bac",
+      "fact": {
+        "subject": "千问 Go",
+        "action": "全面开放",
+        "object": "用户授权的免费代打电话服务",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-26",
+      "reports": [
+        {
+          "ref": "2026-11-26/2026-11-26-qwen-go-phone-calls",
+          "itemId": "2026-11-26-qwen-go-phone-calls",
+          "editionDate": "2026-11-26",
+          "url": "https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-25T02:28:00.000Z",
+          "title": "千问 Go 开放免费代打电话，Agent 开始进入线下沟通"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-26"
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-26-chatgpt-shared-usage",
+  "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+  "displayTitle": "ChatGPT 合并 Chat 与 Work 用量，重度用户可能更早触及上限",
+  "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-25T20:03:27.000Z",
+  "fetchedAt": "2026-11-25T20:31:42.140Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI"
+  ],
+  "summary": "TechCrunch 援引 OpenAI 发言人称 Chat 与 Work 将共用使用额度，少数重度用户可能更早触及上限，Instant 对话不计入共享额度。",
+  "investorNote": "统一入口改善工作流的同时，额度口径变化可能改变重度用户的实际成本。",
+  "narrative": "TechCrunch 援引 OpenAI 称，ChatGPT 的 Chat 与 Work 将共享用量额度，少数重度用户可能更早触及上限；Instant 对话不计入该额度。产品统一的同时，订阅者需要重新衡量自己的实际可用量。",
+  "score": 0.63,
+  "fact": {
+    "subject": "OpenAI",
+    "action": "开始合并使用额度",
+    "object": "ChatGPT Chat 与 Work 体验",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8274acf3379a79b6e1e45ca87524039295af3d76026b906b571801616c67acaf",
+    "originalUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "originalPublishedAt": "2026-11-25T20:03:27.000Z",
+    "checkedAt": "2026-11-25T23:37:56.914Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8274acf3379a79b6e1e45ca87524039295af3d76026b906b571801616c67acaf",
+      "kind": "fact",
+      "quote": "Under the new system, Chat and Work will share a single usage meter across ChatGPT, the OpenAI spokesperson told TechCrunch."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "核对近两周事件目录，未发现可确认同一次发生或直接后续的已收录事件。"
+  },
+  "eventId": "event-c35e16e80c8cb0d9dfdbd145",
+  "occurrenceId": "occ-c35e16e80c8cb0d9dfdbd145",
+  "clusterId": "event-c35e16e80c8cb0d9dfdbd145",
+  "duplicateOf": null,
+  "relatedItems": []
+}

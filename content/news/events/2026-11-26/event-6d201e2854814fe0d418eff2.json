@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6d201e2854814fe0d418eff2",
+  "title": "Sand.ai 发布 MAGI-2，视频生成开始比拼长上下文与成本",
+  "firstSeen": "2026-11-26",
+  "editionDate": "2026-11-26",
+  "occurrences": [
+    {
+      "id": "occ-6d201e2854814fe0d418eff2",
+      "fact": {
+        "subject": "Sand.ai",
+        "action": "发布",
+        "object": "MAGI-2 视频生成模型",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-26",
+      "reports": [
+        {
+          "ref": "2026-11-26/2026-11-26-sand-magi-2-video",
+          "itemId": "2026-11-26-sand-magi-2-video",
+          "editionDate": "2026-11-26",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA==&mid=2247517819&idx=1&sn=4b508fff725c0374a1489114349eb216",
+          "source": "wechat-founderpark",
+          "owner": "极客公园",
+          "role": "observer",
+          "publishedAt": "2026-11-25T05:40:00.000Z",
+          "title": "Sand.ai 发布 MAGI-2，视频生成开始比拼长上下文与成本"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-26"
+}

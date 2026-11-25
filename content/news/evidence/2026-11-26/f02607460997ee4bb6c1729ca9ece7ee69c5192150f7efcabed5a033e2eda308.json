@@ -1,0 +1,12 @@
+{
+  "snapshotId": "f02607460997ee4bb6c1729ca9ece7ee69c5192150f7efcabed5a033e2eda308",
+  "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+  "publishedAt": "2026-11-25T11:51:49.000Z",
+  "publishedAtQuote": "2026-11-25T11:51:49+00:00",
+  "retrievedAt": "2026-11-25T23:37:56.913Z",
+  "method": "agent-tool",
+  "contentHash": "8c9c8f63e6dca18d90f338f66ad2ca330673692a32194ab96aac017ee52bec86",
+  "quotations": [
+    "Startup PrismML has released Ternary Bonsai 2.5 27B, an updated version of its aggressively compressed language model."
+  ]
+}

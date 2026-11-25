@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-26",
+  "window": {
+    "start": 1795563000000,
+    "end": 1795649400000
+  },
+  "digestHash": "32b73c85ecd8e805d9f07d0521b2ea04074db41330400aa54c9e044a6742dcbd",
+  "stories": [
+    {
+      "heading": "Sand.ai 发布 MAGI-2，视频生成开始比拼长上下文与成本",
+      "itemId": "2026-11-26-sand-magi-2-video",
+      "eventId": "event-6d201e2854814fe0d418eff2",
+      "occurrenceId": "occ-6d201e2854814fe0d418eff2"
+    },
+    {
+      "heading": "权龙团队创立 Envision AI，切入空间与物理基础模型",
+      "itemId": "2026-11-26-envision-ai-spatial-startup",
+      "eventId": "event-7782e503e0290db05d5e0a44",
+      "occurrenceId": "occ-7782e503e0290db05d5e0a44"
+    },
+    {
+      "heading": "美方将 Megaspeed 列入实体清单，先进芯片限制范围仍需细看",
+      "itemId": "2026-11-26-megaspeed-entity-list",
+      "eventId": "event-d810896096525cc7c4683ce2",
+      "occurrenceId": "occ-d810896096525cc7c4683ce2"
+    },
+    {
+      "heading": "FCC 批准 SpaceX 空间数据中心卫星计划，部署仍待兑现",
+      "itemId": "2026-11-26-fcc-spacex-satellite-approval",
+      "eventId": "event-6810017faab49a235dc7eb1b",
+      "occurrenceId": "occ-6810017faab49a235dc7eb1b"
+    },
+    {
+      "heading": "OpenAI 开始试点 Private Inference，争取企业敏感工作负载",
+      "itemId": "2026-11-26-openai-private-inference-pilot",
+      "eventId": "event-fc3cbc817c0f87bc6d373613",
+      "occurrenceId": "occ-fc3cbc817c0f87bc6d373613"
+    },
+    {
+      "heading": "PrismML 推出三值化 Bonsai 2.5，压缩本地模型部署体积",
+      "itemId": "2026-11-26-prismml-ternary-bonsai",
+      "eventId": "event-46fb9712b1ef4e05515cbe67",
+      "occurrenceId": "occ-46fb9712b1ef4e05515cbe67"
+    },
+    {
+      "heading": "千问 Go 开放免费代打电话，Agent 开始进入线下沟通",
+      "itemId": "2026-11-26-qwen-go-phone-calls",
+      "eventId": "event-e37c9b578c27d2d43a654bac",
+      "occurrenceId": "occ-e37c9b578c27d2d43a654bac"
+    },
+    {
+      "heading": "ChatGPT 合并 Chat 与 Work 用量，重度用户可能更早触及上限",
+      "itemId": "2026-11-26-chatgpt-shared-usage",
+      "eventId": "event-c35e16e80c8cb0d9dfdbd145",
+      "occurrenceId": "occ-c35e16e80c8cb0d9dfdbd145"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-26-chatgpt-shared-usage.json": "ab53c7902fcda02e0c6ffa8d255f408089b8310fa3ae49496b911d416fa5e64f",
+    "2026-11-26-envision-ai-spatial-startup.json": "ef8c3debfb09121a0dc0e19ec7198705c557d283d9cbe3c3c90dfe4d61cdf4a8",
+    "2026-11-26-fcc-spacex-satellite-approval.json": "9de29a9123412c5cac9eea3e21cf78ad3d260340418db365969cc8cf27e59803",
+    "2026-11-26-megaspeed-entity-list.json": "a93b71f59bc3a4b5cdb4f33254a10e81ce882de47027493e2299507a67dc1bda",
+    "2026-11-26-openai-private-inference-pilot.json": "b1ce46c8f808b738c2e384d885c4218e759c759129fc8a6e9e1e9b1979879f48",
+    "2026-11-26-prismml-ternary-bonsai.json": "ef0059cdbb1d8ed608c0b8b9a597ae1520fca58f59cba15bbff04b79ec3ea95c",
+    "2026-11-26-qwen-go-phone-calls.json": "d16ee611a300bcbb7e245746bfd702b4ac859065dfe9ad7002e418552529d0e1",
+    "2026-11-26-sand-magi-2-video.json": "954134cd14190fad52e0231d9098722fbf91f85aaeb481105cc761b42e66a423"
+  },
+  "evidenceHashes": {
+    "0572dbcf06abdf6b187480071bc569c90c8be34ba18dc320ebc2bd1695ae0a17.json": "305089388936d39c05f145121b0434428b13113761621d72a35f7893227cf988",
+    "1675b1016112ede7468df9e794cdda1ef8ef2de90c6ff064dbc1034720147778.json": "1f0577914f4b5d9c53e66caca44172238712663ddb50b02f298bea98d536bb12",
+    "1ec945cd4aa2484cd9234a70ab5f5dcd425899c9018f2ad13f77e29cd58051cb.json": "98b73f9c8f193e0091a5cecacdb052bf48617942e215c131a5fa273e1e60cb19",
+    "8274acf3379a79b6e1e45ca87524039295af3d76026b906b571801616c67acaf.json": "b0d9eae1fae3914d5bbed4e0b2fbcf2f1f4d692e3e54c1830c8cd0467a57ed00",
+    "9ddeade1318c3910e11c755df3e7c48f89ed8ca66e1ca3e9d02046ae75984a9b.json": "fa7c81da38f4cbbfa201a463578a9d230de8496e0c2ab346b89ccc6139f9c87d",
+    "b89eba82ac9c7988616286d5716398c73d7819f3e429a3e09ab83f670a75666c.json": "842cfe42173198f18b819ffb3fe7f751793e8c6d4245486f6ec699f88fa0db54",
+    "e13528683ce7318ad6a4395bde964a4d43ee05627009ee2de7a7f30a3b323fba.json": "e095c440de4f33e314024c7d9ef2970679a5b76df9db8fb8dcdb8fed1095f81b",
+    "f02607460997ee4bb6c1729ca9ece7ee69c5192150f7efcabed5a033e2eda308.json": "ede41620f7eb7e34c7d74c6bd1b2abe8312eff535745b41484dff0fdcb8cfa03"
+  },
+  "eventsHashes": {
+    "event-46fb9712b1ef4e05515cbe67.json": "831fe56e5db83c81667f38316f459a8d3e119363a85514560c383cfc7a6ce1e0",
+    "event-6810017faab49a235dc7eb1b.json": "03a5d73defd4826d09200b8df1ad96e12acc7783cb184272a4fe577265df5867",
+    "event-6d201e2854814fe0d418eff2.json": "c866ade4790035002565dcabad810f264bed9250b8c28066408813b3267a89a6",
+    "event-7782e503e0290db05d5e0a44.json": "329277166382bf92d8145c2e95d21b36acd1ef8248d593620188c877ab819409",
+    "event-c35e16e80c8cb0d9dfdbd145.json": "4f57e72e00e9bcf3fa1b8eb14723c8c3cf56b136fd5af3d9d9fe7af583ac43de",
+    "event-d810896096525cc7c4683ce2.json": "0c9854faa7943cb9be0d77bf8bf7c02fc17f9f44dfa4b12d9433bb939818498e",
+    "event-e37c9b578c27d2d43a654bac.json": "3c4daf8196e084361009eaa322937e17067e8ebabc981fa9f18d8d86239719b1",
+    "event-fc3cbc817c0f87bc6d373613.json": "a13f5ad833f93d6ef732cdf14f82fb6c255879c87ac8801a1e612dcf1257e3ee"
+  }
+}

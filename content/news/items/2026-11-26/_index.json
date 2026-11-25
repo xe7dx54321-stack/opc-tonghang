@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-26",
+  "itemCount": 8,
+  "storyCount": 8,
+  "clusterCount": 8,
+  "files": [
+    "2026-11-26-sand-magi-2-video.json",
+    "2026-11-26-envision-ai-spatial-startup.json",
+    "2026-11-26-megaspeed-entity-list.json",
+    "2026-11-26-fcc-spacex-satellite-approval.json",
+    "2026-11-26-openai-private-inference-pilot.json",
+    "2026-11-26-prismml-ternary-bonsai.json",
+    "2026-11-26-qwen-go-phone-calls.json",
+    "2026-11-26-chatgpt-shared-usage.json"
+  ],
+  "representatives": [
+    "2026-11-26-sand-magi-2-video",
+    "2026-11-26-envision-ai-spatial-startup",
+    "2026-11-26-megaspeed-entity-list",
+    "2026-11-26-fcc-spacex-satellite-approval",
+    "2026-11-26-openai-private-inference-pilot",
+    "2026-11-26-prismml-ternary-bonsai",
+    "2026-11-26-qwen-go-phone-calls",
+    "2026-11-26-chatgpt-shared-usage"
+  ]
+}

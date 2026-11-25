@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-26-sand-magi-2-video",
+  "title": "竞技榜第一，价格只有 Seedance 的 1/10，MAGI-2 发布：视频赛道迎来「DS 4.1 时刻」",
+  "displayTitle": "Sand.ai 发布 MAGI-2，视频生成开始比拼长上下文与成本",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA==&mid=2247517819&idx=1&sn=4b508fff725c0374a1489114349eb216",
+  "source": "wechat-founderpark",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-25T05:40:00.000Z",
+  "fetchedAt": "2026-11-25T12:51:59.073Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "Sand.ai"
+  ],
+  "summary": "Founder Park 报道 Sand.ai 发布 MAGI-2，支持原生 30 秒、1080P 音画生成及多种参考素材；价格与性能比较为厂商说法。",
+  "investorNote": "视频模型竞争正从单段画面质量延伸到长上下文、多镜头控制和实际生成成本。",
+  "narrative": "Sand.ai 发布 MAGI-2，报道指其支持原生 30 秒、1080P 音画生成及多种参考素材。厂商给出的价格和榜单比较仍需结合实际套餐与独立测试解读；竞争重点正从单段画面质量转向长上下文、多镜头控制和可用成本。",
+  "score": 0.83,
+  "fact": {
+    "subject": "Sand.ai",
+    "action": "发布",
+    "object": "MAGI-2 视频生成模型",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "极客公园",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "b89eba82ac9c7988616286d5716398c73d7819f3e429a3e09ab83f670a75666c",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA==&mid=2247517819&idx=1&sn=4b508fff725c0374a1489114349eb216",
+    "originalPublishedAt": "2026-11-25T05:40:00.000Z",
+    "checkedAt": "2026-11-25T23:37:56.903Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "b89eba82ac9c7988616286d5716398c73d7819f3e429a3e09ab83f670a75666c",
+      "kind": "fact",
+      "quote": "月初刚宣布完成了 2 亿美元 A+ 轮融资的 Sand.ai，今天发布了旗下新一代视频模型 MAGI-2。"
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "核对近两周事件目录，未发现可确认同一次发生或直接后续的已收录事件。"
+  },
+  "eventId": "event-6d201e2854814fe0d418eff2",
+  "occurrenceId": "occ-6d201e2854814fe0d418eff2",
+  "clusterId": "event-6d201e2854814fe0d418eff2",
+  "duplicateOf": null,
+  "relatedItems": []
+}

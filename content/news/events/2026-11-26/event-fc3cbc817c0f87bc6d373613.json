@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-fc3cbc817c0f87bc6d373613",
+  "title": "OpenAI 开始试点 Private Inference，争取企业敏感工作负载",
+  "firstSeen": "2026-11-26",
+  "editionDate": "2026-11-26",
+  "occurrences": [
+    {
+      "id": "occ-fc3cbc817c0f87bc6d373613",
+      "fact": {
+        "subject": "OpenAI",
+        "action": "向首批企业客户试点",
+        "object": "Private Inference 私有推理",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-26",
+      "reports": [
+        {
+          "ref": "2026-11-26/2026-11-26-openai-private-inference-pilot",
+          "itemId": "2026-11-26-openai-private-inference-pilot",
+          "editionDate": "2026-11-26",
+          "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "relayer",
+          "publishedAt": "2026-11-25T18:22:02.000Z",
+          "title": "OpenAI 开始试点 Private Inference，争取企业敏感工作负载"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-26"
+}

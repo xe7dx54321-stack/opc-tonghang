@@ -1,0 +1,12 @@
+{
+  "snapshotId": "0572dbcf06abdf6b187480071bc569c90c8be34ba18dc320ebc2bd1695ae0a17",
+  "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+  "publishedAt": "2026-11-25T18:22:02.000Z",
+  "publishedAtQuote": "2026-11-25T18:22:02+00:00",
+  "retrievedAt": "2026-11-25T23:37:56.912Z",
+  "method": "agent-tool",
+  "contentHash": "cc8bc1f4ce5175f7d4855232c7f95ce87ef6b6497c5b2f0fbde079b6be129b0f",
+  "quotations": [
+    "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data."
+  ]
+}

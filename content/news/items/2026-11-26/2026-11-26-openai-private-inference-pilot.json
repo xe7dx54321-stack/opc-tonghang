@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-26-openai-private-inference-pilot",
+  "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+  "displayTitle": "OpenAI 开始试点 Private Inference，争取企业敏感工作负载",
+  "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+  "source": "the-decoder",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-25T18:22:02.000Z",
+  "fetchedAt": "2026-11-25T18:29:31.969Z",
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "OpenAI"
+  ],
+  "summary": "The Decoder 转述 OpenAI 表示，Private Inference 已向首批企业客户试点，通过隔离硬件处理请求，并称可独立验证安全性。",
+  "investorNote": "企业采购需分别核对隔离边界、审计机制、滥用审查及数据处理条款。",
+  "narrative": "The Decoder 转述 OpenAI 称，Private Inference 已向首批企业客户试点，使用隔离硬件处理敏感请求。安全性是供应商的设计与承诺，企业仍需独立核对隔离边界、审计及滥用审查流程。",
+  "score": 0.69,
+  "fact": {
+    "subject": "OpenAI",
+    "action": "向首批企业客户试点",
+    "object": "Private Inference 私有推理",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "The Decoder",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "0572dbcf06abdf6b187480071bc569c90c8be34ba18dc320ebc2bd1695ae0a17",
+    "originalUrl": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+    "originalPublishedAt": "2026-11-25T18:22:02.000Z",
+    "checkedAt": "2026-11-25T23:37:56.912Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "0572dbcf06abdf6b187480071bc569c90c8be34ba18dc320ebc2bd1695ae0a17",
+      "kind": "fact",
+      "quote": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "核对近两周事件目录，未发现可确认同一次发生或直接后续的已收录事件。"
+  },
+  "eventId": "event-fc3cbc817c0f87bc6d373613",
+  "occurrenceId": "occ-fc3cbc817c0f87bc6d373613",
+  "clusterId": "event-fc3cbc817c0f87bc6d373613",
+  "duplicateOf": null,
+  "relatedItems": []
+}

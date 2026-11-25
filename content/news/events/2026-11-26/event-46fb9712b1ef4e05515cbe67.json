@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-46fb9712b1ef4e05515cbe67",
+  "title": "PrismML 推出三值化 Bonsai 2.5，压缩本地模型部署体积",
+  "firstSeen": "2026-11-26",
+  "editionDate": "2026-11-26",
+  "occurrences": [
+    {
+      "id": "occ-46fb9712b1ef4e05515cbe67",
+      "fact": {
+        "subject": "PrismML",
+        "action": "发布",
+        "object": "Ternary Bonsai 2.5 27B",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-26",
+      "reports": [
+        {
+          "ref": "2026-11-26/2026-11-26-prismml-ternary-bonsai",
+          "itemId": "2026-11-26-prismml-ternary-bonsai",
+          "editionDate": "2026-11-26",
+          "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+          "source": "the-decoder",
+          "owner": "The Decoder",
+          "role": "relayer",
+          "publishedAt": "2026-11-25T11:51:49.000Z",
+          "title": "PrismML 推出三值化 Bonsai 2.5，压缩本地模型部署体积"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-26"
+}

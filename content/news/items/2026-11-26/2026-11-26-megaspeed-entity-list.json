@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-26-megaspeed-entity-list",
+  "title": "US blacklists Megaspeed, but leaves potential loophole for lower-performance chips",
+  "displayTitle": "美方将 Megaspeed 列入实体清单，先进芯片限制范围仍需细看",
+  "url": "https://www.tomshardware.com/tech-industry/us-blacklists-megaspeed-but-leaves-potential-loophole-for-lower-performance-chips-company-at-center-of-jensen-huang-affair-scandal-added-to-entity-list",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "publishedAt": "2026-11-25T12:30:00.000Z",
+  "fetchedAt": "2026-11-25T12:52:05.695Z",
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "美国商务部"
+  ],
+  "summary": "Tom’s Hardware 报道美国商务部将 Megaspeed 及六家关联实体列入实体清单，同时分析未列 Footnote 4 对外国制造硬件的影响。",
+  "investorNote": "应区分实体清单许可要求、先进计算规则和不同硬件的域外管辖范围。",
+  "narrative": "据 Tom’s Hardware，美国商务部将 Megaspeed 及六家关联实体列入实体清单。报道指出未适用 Footnote 4，但先进计算相关规则仍可能覆盖高端芯片；具体产品与许可要求需逐项判断。",
+  "score": 0.78,
+  "fact": {
+    "subject": "美国商务部",
+    "action": "将企业列入实体清单",
+    "object": "Megaspeed 及关联实体",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom's Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "1ec945cd4aa2484cd9234a70ab5f5dcd425899c9018f2ad13f77e29cd58051cb",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/us-blacklists-megaspeed-but-leaves-potential-loophole-for-lower-performance-chips-company-at-center-of-jensen-huang-affair-scandal-added-to-entity-list",
+    "originalPublishedAt": "2026-11-25T12:30:00.000Z",
+    "checkedAt": "2026-11-25T23:37:56.910Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "1ec945cd4aa2484cd9234a70ab5f5dcd425899c9018f2ad13f77e29cd58051cb",
+      "kind": "fact",
+      "quote": "The U.S. Department of Commerce has\nadded\nMegaspeed and six affiliated entities to its Entity List due to concerns about diversion of advanced AI accelerators to China."
+    }
+  ],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "核对近两周事件目录，未发现可确认同一次发生或直接后续的已收录事件。"
+  },
+  "eventId": "event-d810896096525cc7c4683ce2",
+  "occurrenceId": "occ-d810896096525cc7c4683ce2",
+  "clusterId": "event-d810896096525cc7c4683ce2",
+  "duplicateOf": null,
+  "relatedItems": []
+}
