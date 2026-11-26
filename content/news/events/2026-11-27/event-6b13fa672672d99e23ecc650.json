@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6b13fa672672d99e23ecc650",
+  "title": "台积电评估得州新晶圆厂，税收申请不等于建厂决定",
+  "firstSeen": "2026-11-27",
+  "editionDate": "2026-11-27",
+  "occurrences": [
+    {
+      "id": "occ-6b13fa672672d99e23ecc650",
+      "fact": {
+        "subject": "TSMC",
+        "action": "提交税收优惠申请并评估建厂选址",
+        "object": "得州 Brazos County 潜在晶圆厂",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-27",
+      "reports": [
+        {
+          "ref": "2026-11-27/2026-11-27-tsmc-texas-fab-tax-application",
+          "itemId": "2026-11-27-tsmc-texas-fab-tax-application",
+          "editionDate": "2026-11-27",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-files-for-usd22-6-billion-texas-fab-campus-with-local-tax-breaks-just-one-county-over-from-musks-terafab-proposed-brazos-county-plant-wont-make-2nm-class-chips-until-2031",
+          "source": "tomshardware",
+          "owner": "Tom's Hardware",
+          "role": "observer",
+          "publishedAt": "2026-11-26T10:30:00.000Z",
+          "title": "台积电评估得州新晶圆厂，税收申请不等于建厂决定"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-27"
+}

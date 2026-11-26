@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6a580dffb119b653d68be3c9",
+  "title": "生数科技团队复盘 Motubrain 2.0 公开训练与真机评测",
+  "firstSeen": "2026-11-27",
+  "editionDate": "2026-11-27",
+  "occurrences": [
+    {
+      "id": "occ-6a580dffb119b653d68be3c9",
+      "fact": {
+        "subject": "生数科技 Motubrain 团队",
+        "action": "接受采访并复盘公开训练与真机评测",
+        "object": "Motubrain 2.0",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-27",
+      "reports": [
+        {
+          "ref": "2026-11-27/2026-11-27-motubrain-training-interview",
+          "itemId": "2026-11-27-motubrain-training-interview",
+          "editionDate": "2026-11-27",
+          "url": "https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-26T12:50:00.000Z",
+          "title": "生数科技团队复盘 Motubrain 2.0 公开训练与真机评测"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-27"
+}

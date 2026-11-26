@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-c650c05913090ad580b61fa9",
+  "title": "台积电称 A14 设计套件就绪，先进工艺走向设计导入",
+  "firstSeen": "2026-11-27",
+  "editionDate": "2026-11-27",
+  "occurrences": [
+    {
+      "id": "occ-c650c05913090ad580b61fa9",
+      "fact": {
+        "subject": "TSMC",
+        "action": "表示设计工具套件可供设计导入",
+        "object": "A14 0.9 设计生态及 PDK",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-27",
+      "reports": [
+        {
+          "ref": "2026-11-27/2026-11-27-tsmc-a14-design-kit-ready",
+          "itemId": "2026-11-27-tsmc-a14-design-kit-ready",
+          "editionDate": "2026-11-27",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p",
+          "source": "tomshardware",
+          "owner": "Tom's Hardware",
+          "role": "observer",
+          "publishedAt": "2026-11-26T13:00:00.000Z",
+          "title": "台积电称 A14 设计套件就绪，先进工艺走向设计导入"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-27"
+}

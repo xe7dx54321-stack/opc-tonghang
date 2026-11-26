@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-27-tsmc-a14-design-kit-ready",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p",
+  "publishedAt": "2026-11-26T13:00:00.000Z",
+  "fact": {
+    "subject": "TSMC",
+    "action": "表示设计工具套件可供设计导入",
+    "object": "A14 0.9 设计生态及 PDK",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom's Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "e070727d9fea6f8176330c545698541fd1e41b23acefa4fa86cb7e1b2016ea79",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p",
+    "originalPublishedAt": "2026-11-26T13:00:00.000Z",
+    "checkedAt": "2026-11-26T23:36:25.226Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "e070727d9fea6f8176330c545698541fd1e41b23acefa4fa86cb7e1b2016ea79",
+      "kind": "fact",
+      "quote": "\"A14 0.9 design ecosystem and the PDK are ready for design in,\" a TSMC spokesman said on stage at the 2026 Europe OIP Ecosystem Workshop."
+    }
+  ],
+  "title": "TSMC's A14 1.4nm-class node is ready for chip design",
+  "displayTitle": "台积电称 A14 设计套件就绪，先进工艺走向设计导入",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-26T13:20:55.362Z",
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "TSMC"
+  ],
+  "summary": "Tom’s Hardware报道，台积电在欧洲生态系统活动上表示A14的0.9版工艺设计套件已可供设计导入；报道还介绍了针对关键路径的Boost Cells。",
+  "investorNote": "PDK可用意味着客户可开始设计，不等同芯片已完成流片或进入量产。",
+  "narrative": "Tom’s Hardware报道，台积电在欧洲生态系统活动上表示A14的0.9版工艺设计套件已可供设计导入；报道还介绍了针对关键路径的Boost Cells。PDK可用意味着客户可开始设计，不等同芯片已完成流片或进入量产。",
+  "score": 0.76,
+  "duplicateOf": null,
+  "clusterId": "event-c650c05913090ad580b61fa9",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周历史条目比较后，为独立报道的具体进展；实际动作时间未明，不推定为报道当日。"
+  },
+  "eventId": "event-c650c05913090ad580b61fa9",
+  "occurrenceId": "occ-c650c05913090ad580b61fa9",
+  "relatedItems": []
+}

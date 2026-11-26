@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-27",
+  "itemCount": 5,
+  "storyCount": 5,
+  "clusterCount": 5,
+  "files": [
+    "2026-11-27-nvidia-southeast-asia-server-pause.json",
+    "2026-11-27-tsmc-a14-design-kit-ready.json",
+    "2026-11-27-tsmc-texas-fab-tax-application.json",
+    "2026-11-27-memory-shortage-procurement-war-rooms.json",
+    "2026-11-27-motubrain-training-interview.json"
+  ],
+  "representatives": [
+    "2026-11-27-nvidia-southeast-asia-server-pause",
+    "2026-11-27-tsmc-a14-design-kit-ready",
+    "2026-11-27-tsmc-texas-fab-tax-application",
+    "2026-11-27-memory-shortage-procurement-war-rooms",
+    "2026-11-27-motubrain-training-interview"
+  ]
+}

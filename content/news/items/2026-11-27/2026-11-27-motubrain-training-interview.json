@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-27-motubrain-training-interview",
+  "url": "https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html",
+  "publishedAt": "2026-11-26T12:50:00.000Z",
+  "fact": {
+    "subject": "生数科技 Motubrain 团队",
+    "action": "接受采访并复盘公开训练与真机评测",
+    "object": "Motubrain 2.0",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "雷峰网",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "c066245b4f7b906f24fbb28f609599f79cdc39ee37cb01bc423fb795a8d5fc8d",
+    "originalUrl": "https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html",
+    "originalPublishedAt": "2026-11-26T12:50:00.000Z",
+    "checkedAt": "2026-11-26T23:36:25.237Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "c066245b4f7b906f24fbb28f609599f79cdc39ee37cb01bc423fb795a8d5fc8d",
+      "kind": "fact",
+      "quote": "过去一个月里，生数科技把 Motubrain 2.0 的预训练搬上了公开直播：25 天，600 小时，20 万步训练，19 个 Checkpoint 的真机评估，5624 次有效真机评测，超过 1 万次真机任务执行。"
+    }
+  ],
+  "title": "直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI 实验",
+  "displayTitle": "生数科技团队复盘 Motubrain 2.0 公开训练与真机评测",
+  "source": "leiphone",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-26T15:23:34.462Z",
+  "topic": [
+    "embodied-ai",
+    "ai"
+  ],
+  "entities": [
+    "生数科技 Motubrain 团队"
+  ],
+  "summary": "雷峰网采访生数科技Motubrain团队，复盘世界动作模型公开训练及真机评测，披露训练数据标注错误、重训与评估过程。",
+  "investorNote": "公开训练过程有助于观察数据质量与真机评估成本，但榜单成绩不能替代跨场景部署验证。",
+  "narrative": "雷峰网采访生数科技Motubrain团队，复盘世界动作模型公开训练及真机评测，披露训练数据标注错误、重训与评估过程。公开训练过程有助于观察数据质量与真机评估成本，但榜单成绩不能替代跨场景部署验证。",
+  "score": 0.72,
+  "duplicateOf": null,
+  "clusterId": "event-6a580dffb119b653d68be3c9",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周历史条目比较后，为独立报道的具体进展；实际动作时间未明，不推定为报道当日。"
+  },
+  "eventId": "event-6a580dffb119b653d68be3c9",
+  "occurrenceId": "occ-6a580dffb119b653d68be3c9",
+  "relatedItems": []
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-27-memory-shortage-procurement-war-rooms",
+  "url": "https://www.tomshardware.com/pc-components/dram/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history-employees-scour-ebay-contact-hundreds-of-brokers-and-snap-up-even-small-batches-of-just-5-to-12-units",
+  "publishedAt": "2026-11-26T16:11:07.000Z",
+  "fact": {
+    "subject": "电子制造商",
+    "action": "据媒体报道设立采购战情室寻找内存供应",
+    "object": "DRAM现货采购",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom's Hardware",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "7c801b4e27b371d4e955ac755ff62bff3ea8690c77b609d20f0cbad5caeec7d9",
+    "originalUrl": "https://www.tomshardware.com/pc-components/dram/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history-employees-scour-ebay-contact-hundreds-of-brokers-and-snap-up-even-small-batches-of-just-5-to-12-units",
+    "originalPublishedAt": "2026-11-26T16:11:07.000Z",
+    "checkedAt": "2026-11-26T23:36:25.236Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "7c801b4e27b371d4e955ac755ff62bff3ea8690c77b609d20f0cbad5caeec7d9",
+      "kind": "fact",
+      "quote": "The memory shortage has gotten so bad that many companies, especially smaller ones, have started establishing “procurement war rooms,” where employees are desperately trying to find memory chip supplies on sites like eBay and trying to figure out how they could make manufacturers offer them even just a small amount of DRAM."
+    }
+  ],
+  "title": "Electronics manufacturers set up memory 'war rooms' to find, lock in DRAM supplies amid worst shortage in history",
+  "displayTitle": "存储供应紧张波及电子厂商，采购转向小批次现货",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-26T16:25:23.479Z",
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "电子制造商"
+  ],
+  "summary": "Tom’s Hardware援引《华尔街日报》报道存储供应紧张下电子制造商寻找小批次DRAM现货，一些企业设立专门采购团队应对成本和供应压力。",
+  "investorNote": "对下游厂商而言，应观察采购交期、现货与合同价格以及产品配置变化。",
+  "narrative": "Tom’s Hardware援引《华尔街日报》报道存储供应紧张下电子制造商寻找小批次DRAM现货，一些企业设立专门采购团队应对成本和供应压力。对下游厂商而言，应观察采购交期、现货与合同价格以及产品配置变化。",
+  "score": 0.59,
+  "duplicateOf": null,
+  "clusterId": "event-d75e27bdc32ed9a369d3027c",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周历史条目比较后，为独立报道的具体进展；实际动作时间未明，不推定为报道当日。"
+  },
+  "eventId": "event-d75e27bdc32ed9a369d3027c",
+  "occurrenceId": "occ-d75e27bdc32ed9a369d3027c",
+  "relatedItems": []
+}

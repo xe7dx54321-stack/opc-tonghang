@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-78912d8b39df1525091f47b9",
+  "title": "媒体称英伟达暂停向东南亚四国发运服务器",
+  "firstSeen": "2026-11-27",
+  "editionDate": "2026-11-27",
+  "occurrences": [
+    {
+      "id": "occ-78912d8b39df1525091f47b9",
+      "fact": {
+        "subject": "NVIDIA",
+        "action": "据媒体报道通知合作伙伴暂缓发货",
+        "object": "东南亚四国服务器",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-27",
+      "reports": [
+        {
+          "ref": "2026-11-27/2026-11-27-nvidia-southeast-asia-server-pause",
+          "itemId": "2026-11-27-nvidia-southeast-asia-server-pause",
+          "editionDate": "2026-11-27",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "source": "techcrunch-ai",
+          "owner": "TechCrunch",
+          "role": "relayer",
+          "publishedAt": "2026-11-26T20:03:54.000Z",
+          "title": "媒体称英伟达暂停向东南亚四国发运服务器"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-27"
+}

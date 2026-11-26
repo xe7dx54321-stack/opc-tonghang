@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-27",
+  "window": {
+    "start": 1795649400000,
+    "end": 1795735800000
+  },
+  "digestHash": "b311a6991ef3284296d574c8d10616194e58eecde77221cc058658b104cfd1ee",
+  "stories": [
+    {
+      "heading": "媒体称英伟达暂停向东南亚四国发运服务器",
+      "itemId": "2026-11-27-nvidia-southeast-asia-server-pause",
+      "eventId": "event-78912d8b39df1525091f47b9",
+      "occurrenceId": "occ-78912d8b39df1525091f47b9"
+    },
+    {
+      "heading": "台积电称 A14 设计套件就绪，先进工艺走向设计导入",
+      "itemId": "2026-11-27-tsmc-a14-design-kit-ready",
+      "eventId": "event-c650c05913090ad580b61fa9",
+      "occurrenceId": "occ-c650c05913090ad580b61fa9"
+    },
+    {
+      "heading": "台积电评估得州新晶圆厂，税收申请不等于建厂决定",
+      "itemId": "2026-11-27-tsmc-texas-fab-tax-application",
+      "eventId": "event-6b13fa672672d99e23ecc650",
+      "occurrenceId": "occ-6b13fa672672d99e23ecc650"
+    },
+    {
+      "heading": "存储供应紧张波及电子厂商，采购转向小批次现货",
+      "itemId": "2026-11-27-memory-shortage-procurement-war-rooms",
+      "eventId": "event-d75e27bdc32ed9a369d3027c",
+      "occurrenceId": "occ-d75e27bdc32ed9a369d3027c"
+    },
+    {
+      "heading": "生数科技团队复盘 Motubrain 2.0 公开训练与真机评测",
+      "itemId": "2026-11-27-motubrain-training-interview",
+      "eventId": "event-6a580dffb119b653d68be3c9",
+      "occurrenceId": "occ-6a580dffb119b653d68be3c9"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-27-memory-shortage-procurement-war-rooms.json": "c641fb5efddf9f317b952d156e7c02c47ecef59df735db3d784b5964ffb8a7b7",
+    "2026-11-27-motubrain-training-interview.json": "4695701994d9d140b1925ee712c7344435243ebbd7bb44da612bae7ecf437fde",
+    "2026-11-27-nvidia-southeast-asia-server-pause.json": "f7f22944910d2e189ed6877c5ea788c9bab415912076a65c6c85e111f8874689",
+    "2026-11-27-tsmc-a14-design-kit-ready.json": "83efabe84a7151e146acb28909aa7c87711cc6df0dd91779b20dc23c5d59065d",
+    "2026-11-27-tsmc-texas-fab-tax-application.json": "1f9c587222a0a620473ddc09cacdece42134fa2cc4d2b526034dda1152b3e878"
+  },
+  "evidenceHashes": {
+    "44a3bd43159bdb4d806bbbc7c71b8e53b7ea11b857d69e9678ddd9ec7bb8a0c9.json": "1b892184ea932b0fb64b49000bf89e3e31ea3900b05c99572c87beb164b76fe8",
+    "7c801b4e27b371d4e955ac755ff62bff3ea8690c77b609d20f0cbad5caeec7d9.json": "892cdbcb3025fb731d33904586c4cd2521fe3dc36c7345970557222550f303cb",
+    "c066245b4f7b906f24fbb28f609599f79cdc39ee37cb01bc423fb795a8d5fc8d.json": "6d3969d46600c9fbc77abd1916e99195fe897abc61012b70249a6d07b3b743e1",
+    "c40048a39a941f63629d40229eaae607399944a99b61e30c0087dd7242ea2547.json": "098bc266061fabade4bc3cda11d6859ebaf6e8f7550b861b912b067a28f59815",
+    "e070727d9fea6f8176330c545698541fd1e41b23acefa4fa86cb7e1b2016ea79.json": "fcc5ed88baf43c9b63ceae954b41f476abdd53a1e549f405cc0d601ab6848ec7"
+  },
+  "eventsHashes": {
+    "event-6a580dffb119b653d68be3c9.json": "62466116af94c4a4b2e1654b342c4bb8c6796ecdfd5671455a41f09e579b9210",
+    "event-6b13fa672672d99e23ecc650.json": "b95843334610e2b612f0cc09c1e433baa5e5066bd11613b3ed04813b35668dec",
+    "event-78912d8b39df1525091f47b9.json": "7474ffc6f1e89be7bf26be5328f01750a5eaa5040273da0f68ac9e7c212e9557",
+    "event-c650c05913090ad580b61fa9.json": "6cd0b9b83448d12610473d9ae2c24b6f5e5276b2df35c198b934d82b25e9fd8b",
+    "event-d75e27bdc32ed9a369d3027c.json": "2a1818c4ff8e5e574490a84d1484ee9938d55c4e529246baf6298cb0dbc8f8bc"
+  }
+}

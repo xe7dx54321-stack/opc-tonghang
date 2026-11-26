@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-27-nvidia-southeast-asia-server-pause",
+  "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+  "publishedAt": "2026-11-26T20:03:54.000Z",
+  "fact": {
+    "subject": "NVIDIA",
+    "action": "据媒体报道通知合作伙伴暂缓发货",
+    "object": "东南亚四国服务器",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "TechCrunch",
+    "role": "relayer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "c40048a39a941f63629d40229eaae607399944a99b61e30c0087dd7242ea2547",
+    "originalUrl": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "originalPublishedAt": "2026-11-26T20:03:54.000Z",
+    "checkedAt": "2026-11-26T23:36:25.220Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "c40048a39a941f63629d40229eaae607399944a99b61e30c0087dd7242ea2547",
+      "kind": "fact",
+      "quote": "According to the Journal, Nvidia has told manufacturing partners, including Dell and Super Micro, to hit pause on server shipments to Malaysia, Singapore, Thailand, and Indonesia for an unspecified period as it assesses whether its regional partners are meeting U.S. export requirements."
+    }
+  ],
+  "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+  "displayTitle": "媒体称英伟达暂停向东南亚四国发运服务器",
+  "source": "techcrunch-ai",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-26T20:29:41.447Z",
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "NVIDIA"
+  ],
+  "summary": "TechCrunch援引《华尔街日报》称，英伟达通知戴尔和超微等合作伙伴暂停向马来西亚、新加坡、泰国和印尼发运服务器，期限未定，原因是评估当地伙伴是否符合美国出口要求。",
+  "investorNote": "需区分媒体转述与公司公告，并追踪暂停范围、许可细则及客户交付影响。",
+  "narrative": "TechCrunch援引《华尔街日报》称，英伟达通知戴尔和超微等合作伙伴暂停向马来西亚、新加坡、泰国和印尼发运服务器，期限未定，原因是评估当地伙伴是否符合美国出口要求。需区分媒体转述与公司公告，并追踪暂停范围、许可细则及客户交付影响。",
+  "score": 0.8,
+  "duplicateOf": null,
+  "clusterId": "event-78912d8b39df1525091f47b9",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周历史条目比较后，为独立报道的具体进展；实际动作时间未明，不推定为报道当日。"
+  },
+  "eventId": "event-78912d8b39df1525091f47b9",
+  "occurrenceId": "occ-78912d8b39df1525091f47b9",
+  "relatedItems": []
+}

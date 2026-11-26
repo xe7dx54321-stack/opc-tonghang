@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-27-tsmc-texas-fab-tax-application",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-files-for-usd22-6-billion-texas-fab-campus-with-local-tax-breaks-just-one-county-over-from-musks-terafab-proposed-brazos-county-plant-wont-make-2nm-class-chips-until-2031",
+  "publishedAt": "2026-11-26T10:30:00.000Z",
+  "fact": {
+    "subject": "TSMC",
+    "action": "提交税收优惠申请并评估建厂选址",
+    "object": "得州 Brazos County 潜在晶圆厂",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom's Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "44a3bd43159bdb4d806bbbc7c71b8e53b7ea11b857d69e9678ddd9ec7bb8a0c9",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-files-for-usd22-6-billion-texas-fab-campus-with-local-tax-breaks-just-one-county-over-from-musks-terafab-proposed-brazos-county-plant-wont-make-2nm-class-chips-until-2031",
+    "originalPublishedAt": "2026-11-26T10:30:00.000Z",
+    "checkedAt": "2026-11-26T23:36:25.231Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "44a3bd43159bdb4d806bbbc7c71b8e53b7ea11b857d69e9678ddd9ec7bb8a0c9",
+      "kind": "fact",
+      "quote": "Construction is projected to start in 2027, but the plan remains under evaluation, and nothing in the filing commits TSMC to buy the land or to build on it."
+    }
+  ],
+  "title": "TSMC’s $22.6 billion Texas plan wouldn’t make 2nm-or-better chips until 2031",
+  "displayTitle": "台积电评估得州新晶圆厂，税收申请不等于建厂决定",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "fetchedAt": "2026-11-26T10:47:13.790Z",
+  "topic": [
+    "semiconductor"
+  ],
+  "entities": [
+    "TSMC"
+  ],
+  "summary": "Tom’s Hardware根据税收申请文件报道，台积电正评估在得州Brazos County建设晶圆厂及园区；文件并不构成买地或建厂承诺。",
+  "investorNote": "需将税收申请、实际投资决定与未来产能逐一分开，并跟踪后续审批和资本开支。",
+  "narrative": "Tom’s Hardware根据税收申请文件报道，台积电正评估在得州Brazos County建设晶圆厂及园区；文件并不构成买地或建厂承诺。需将税收申请、实际投资决定与未来产能逐一分开，并跟踪后续审批和资本开支。",
+  "score": 0.7,
+  "duplicateOf": null,
+  "clusterId": "event-6b13fa672672d99e23ecc650",
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "与近两周历史条目比较后，为独立报道的具体进展；实际动作时间未明，不推定为报道当日。"
+  },
+  "eventId": "event-6b13fa672672d99e23ecc650",
+  "occurrenceId": "occ-6b13fa672672d99e23ecc650",
+  "relatedItems": []
+}
