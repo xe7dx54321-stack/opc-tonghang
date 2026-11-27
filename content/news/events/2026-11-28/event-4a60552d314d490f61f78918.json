@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-4a60552d314d490f61f78918",
+  "title": "闪科光联获数千万元天使轮融资，研发高速光互连",
+  "firstSeen": "2026-11-28",
+  "editionDate": "2026-11-28",
+  "occurrences": [
+    {
+      "id": "occ-4a60552d314d490f61f78918",
+      "fact": {
+        "subject": "闪科光联",
+        "action": "完成天使轮融资",
+        "object": "MicroLED高速光互连芯片与光引擎",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-28",
+      "reports": [
+        {
+          "ref": "2026-11-28/2026-11-28-microled-optical-funding",
+          "itemId": "2026-11-28-microled-optical-funding",
+          "editionDate": "2026-11-28",
+          "url": "https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-28T03:14:00+08:00",
+          "title": "闪科光联获数千万元天使轮融资，研发高速光互连"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-28"
+}

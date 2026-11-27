@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-28-tsmc-ai-design-kit",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-a-sneap-peak-at-ai-design-kit-agentic-ai-with-foundry-expertise",
+  "publishedAt": "2026-11-27T13:00:00+00:00",
+  "fact": {
+    "subject": "TSMC",
+    "action": "介绍AI Design Kit",
+    "object": "供芯片设计Agent使用的制程知识和设计方法",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Tom's Hardware",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "da3e5f7588fab0eaecf784641a2f96e05e396e9c63ab19152ac736f4b78bfea5",
+    "originalUrl": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-a-sneap-peak-at-ai-design-kit-agentic-ai-with-foundry-expertise",
+    "originalPublishedAt": "2026-11-27T13:00:00+00:00",
+    "checkedAt": "2026-11-27T23:35:52.085Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "da3e5f7588fab0eaecf784641a2f96e05e396e9c63ab19152ac736f4b78bfea5",
+      "kind": "fact",
+      "quote": "At its 2026 Europe OIP Ecosystem Workshop in Munich, TSMC this week unveiled its AI Design Kit (ADK), a collection of process-specific technical information, implementation guidelines, and design methodologies that enables AI agents to automate and optimize chip development flows."
+    }
+  ],
+  "title": "TSMC gives a sneap peak at AI Design Kit: Agentic AI with foundry expertise",
+  "source": "tomshardware",
+  "sourceTier": 2,
+  "topic": [
+    "semiconductor",
+    "ai"
+  ],
+  "entities": [
+    "TSMC"
+  ],
+  "fetchedAt": "2026-11-27T13:20:35.534Z",
+  "summary": "Tom’s Hardware报道，台积电在欧洲生态研讨会上介绍AI Design Kit，以制程信息与设计方法补充传统PDK，支持芯片设计流程自动化。",
+  "investorNote": "制程知识与EDA流程结合有助于设计自动化，但实际效率提升仍需客户项目验证。",
+  "displayTitle": "台积电介绍AI Design Kit，将制程知识引入芯片设计Agent",
+  "narrative": "Tom’s Hardware报道，台积电在欧洲生态研讨会上介绍AI Design Kit，以制程信息与设计方法补充传统PDK，支持芯片设计流程自动化。制程知识与EDA流程结合有助于设计自动化，但实际效率提升仍需客户项目验证。",
+  "score": 0.72,
+  "duplicateOf": null,
+  "clusterId": "event-a7313b7c81266e694c25b8c1",
+  "crossSources": [],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "现有近两周事件目录中未发现可确认的同次发生或直接后续；本条与其他入选动作涉及不同主体或事项。"
+  },
+  "eventId": "event-a7313b7c81266e694c25b8c1",
+  "occurrenceId": "occ-a7313b7c81266e694c25b8c1",
+  "relatedItems": []
+}

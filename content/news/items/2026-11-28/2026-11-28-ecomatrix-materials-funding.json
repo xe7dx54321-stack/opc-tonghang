@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-28-ecomatrix-materials-funding",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519606&idx=1&sn=719a41d9eac67a4d70e8524a09ac7141",
+  "publishedAt": "2026-11-27T09:00:00+08:00",
+  "fact": {
+    "subject": "素源矩阵",
+    "action": "完成天使轮融资",
+    "object": "材料发现与制造AI平台",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "Z Potentials",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "1d826d6552fa58682a59624979c119524dbb1dc5e6ca74e54572a4c38864514a",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519606&idx=1&sn=719a41d9eac67a4d70e8524a09ac7141",
+    "originalPublishedAt": "2026-11-27T09:00:00+08:00",
+    "checkedAt": "2026-11-27T23:35:52.061Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "1d826d6552fa58682a59624979c119524dbb1dc5e6ca74e54572a4c38864514a",
+      "kind": "fact",
+      "quote": "Z Potentials独家获悉，近日，面向材料发现与制造的AI for Science（简称AI4S）企业北京素源矩阵科技有限公司（EcoMatrix，以下简称“素源矩阵”）完成数千万元人民币天使轮融资。"
+    }
+  ],
+  "title": "独家｜5千万订单在手，商业化领跑AI4M赛道，素源矩阵完成天使轮融资",
+  "source": "wechat-zpotentials",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "素源矩阵"
+  ],
+  "fetchedAt": "2026-11-27T10:47:02.800Z",
+  "summary": "Z Potentials报道，材料发现与制造AI企业素源矩阵完成数千万元天使轮融资，资金拟用于模型研发、科学工厂及工程团队建设。",
+  "investorNote": "产线订单和合作是企业披露，不等于独立验证的利润率或平台可跨材料复制能力。",
+  "displayTitle": "素源矩阵获数千万元天使轮融资，布局材料产线验证",
+  "narrative": "Z Potentials报道，材料发现与制造AI企业素源矩阵完成数千万元天使轮融资，资金拟用于模型研发、科学工厂及工程团队建设。产线订单和合作是企业披露，不等于独立验证的利润率或平台可跨材料复制能力。",
+  "score": 0.66,
+  "duplicateOf": null,
+  "clusterId": "event-5a28f81b250eaa21bac11a6c",
+  "crossSources": [],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "现有近两周事件目录中未发现可确认的同次发生或直接后续；本条与其他入选动作涉及不同主体或事项。"
+  },
+  "eventId": "event-5a28f81b250eaa21bac11a6c",
+  "occurrenceId": "occ-5a28f81b250eaa21bac11a6c",
+  "relatedItems": []
+}

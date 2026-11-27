@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-28",
+  "window": {
+    "start": 1795735800000,
+    "end": 1795822200000
+  },
+  "digestHash": "7e6b47b8e413fa600cf7e63394db582158331cd733639e2f6f7b56423bacf22a",
+  "stories": [
+    {
+      "heading": "台积电介绍AI Design Kit，将制程知识引入芯片设计Agent",
+      "itemId": "2026-11-28-tsmc-ai-design-kit",
+      "eventId": "event-a7313b7c81266e694c25b8c1",
+      "occurrenceId": "occ-a7313b7c81266e694c25b8c1"
+    },
+    {
+      "heading": "蚂蚁灵波发布建图与导航模型，让机器人复用空间记忆",
+      "itemId": "2026-11-28-lingbot-map-navi",
+      "eventId": "event-6068d18fff926bf0e9402f11",
+      "occurrenceId": "occ-6068d18fff926bf0e9402f11"
+    },
+    {
+      "heading": "闪科光联获数千万元天使轮融资，研发高速光互连",
+      "itemId": "2026-11-28-microled-optical-funding",
+      "eventId": "event-4a60552d314d490f61f78918",
+      "occurrenceId": "occ-4a60552d314d490f61f78918"
+    },
+    {
+      "heading": "素源矩阵获数千万元天使轮融资，布局材料产线验证",
+      "itemId": "2026-11-28-ecomatrix-materials-funding",
+      "eventId": "event-5a28f81b250eaa21bac11a6c",
+      "occurrenceId": "occ-5a28f81b250eaa21bac11a6c"
+    },
+    {
+      "heading": "律动造物披露两轮融资，连接材料模型与自动实验",
+      "itemId": "2026-11-28-bytescience-materials-funding",
+      "eventId": "event-1f56b2751c61d0b3c42a6ed7",
+      "occurrenceId": "occ-1f56b2751c61d0b3c42a6ed7"
+    }
+  ],
+  "itemHashes": {
+    "2026-11-28-bytescience-materials-funding.json": "a99ce617d3d550ce84dd90d5097117b2263776937e5adfcb32cd51686936f2b4",
+    "2026-11-28-ecomatrix-materials-funding.json": "a8366aac8d7c629c0f79338b3968be83689d8f1e4bcb576c15d12e1165d2f4d3",
+    "2026-11-28-lingbot-map-navi.json": "6b8bc10844427814808a903dc4a0aded6ca8fdc44d621c469741ed5b6b3c0fd7",
+    "2026-11-28-microled-optical-funding.json": "8d2df19413e659f5bfee04a1733134b6c1d78aa4f834409eee0ad99be33242cb",
+    "2026-11-28-tsmc-ai-design-kit.json": "c3e37f28e91e7fdeb3be62020c452efede2bcffddc0db7911a83a801c370fc27"
+  },
+  "evidenceHashes": {
+    "1d826d6552fa58682a59624979c119524dbb1dc5e6ca74e54572a4c38864514a.json": "89107e747069cb7d80781081930394ee85e1e1e64e21d287101d8129d3e5afdf",
+    "8bd295cad2b98086977e6efc61e09e8176439bdcf3b0e198aae09de6a7e35b71.json": "614173f296aa30ae0ee5fd936f38026d03a7812b09fe3b72694a5d07cbf6f42a",
+    "8dada518586cc6c25089b1c6b3017fa24a2c1c065e80e86a86e3ec101050b8b4.json": "c6770256da32e54d0afba0f3bd61e951e4670cc40c796be8eb5825feeb743c04",
+    "da3e5f7588fab0eaecf784641a2f96e05e396e9c63ab19152ac736f4b78bfea5.json": "231ea9ef61726a49fbd0b7e6f2a7fe2ae178f0e0873c0224c3c2aa13f20ec92f",
+    "f8f8d289d66359afdfdc9516ebeba9e4a7b453fec06dad6ec44ee89495690998.json": "b3a04a52581df75e109b709c0725142ec528c29cf08b1b7353baef79e70d02fa"
+  },
+  "eventsHashes": {
+    "event-1f56b2751c61d0b3c42a6ed7.json": "74bed61c8fb0ae339a259887f930a7962de37ed67fffb5e081a1af4630228e43",
+    "event-4a60552d314d490f61f78918.json": "e0fff3920856d6017e0d9c8798138516e4901042332eece6bc9feb8f84f0b55c",
+    "event-5a28f81b250eaa21bac11a6c.json": "be30bc65322bfe5398867ac06fc0bff36dab5c02d5ebff1b7f91bd15edd3c733",
+    "event-6068d18fff926bf0e9402f11.json": "a72b33db973f38288a4a011358b4fe1dff8d35438549ff8f8de2d583c58c50d6",
+    "event-a7313b7c81266e694c25b8c1.json": "d86d063d0eea32ce65a12dddeffef174ef8fdbadbf4253356158e0c62d1dfcce"
+  }
+}

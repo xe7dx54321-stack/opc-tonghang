@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-6068d18fff926bf0e9402f11",
+  "title": "蚂蚁灵波发布建图与导航模型，让机器人复用空间记忆",
+  "firstSeen": "2026-11-28",
+  "editionDate": "2026-11-28",
+  "occurrences": [
+    {
+      "id": "occ-6068d18fff926bf0e9402f11",
+      "fact": {
+        "subject": "蚂蚁灵波",
+        "action": "发布并开源",
+        "object": "LingBot-Map 2.0与LingBot-Navi",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-28",
+      "reports": [
+        {
+          "ref": "2026-11-28/2026-11-28-lingbot-map-navi",
+          "itemId": "2026-11-28-lingbot-map-navi",
+          "editionDate": "2026-11-28",
+          "url": "https://www.leiphone.com/category/industrynews/WFWuafAg4rdHjEEi.html",
+          "source": "leiphone",
+          "owner": "雷峰网",
+          "role": "observer",
+          "publishedAt": "2026-11-27T13:22:00+08:00",
+          "title": "蚂蚁灵波发布建图与导航模型，让机器人复用空间记忆"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-28"
+}

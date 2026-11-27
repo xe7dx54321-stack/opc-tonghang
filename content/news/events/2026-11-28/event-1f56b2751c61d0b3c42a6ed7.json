@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-1f56b2751c61d0b3c42a6ed7",
+  "title": "律动造物披露两轮融资，连接材料模型与自动实验",
+  "firstSeen": "2026-11-28",
+  "editionDate": "2026-11-28",
+  "occurrences": [
+    {
+      "id": "occ-1f56b2751c61d0b3c42a6ed7",
+      "fact": {
+        "subject": "律动造物",
+        "action": "披露两轮融资",
+        "object": "材料AI与自动化实验系统",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-28",
+      "reports": [
+        {
+          "ref": "2026-11-28/2026-11-28-bytescience-materials-funding",
+          "itemId": "2026-11-28-bytescience-materials-funding",
+          "editionDate": "2026-11-28",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&mid=2247519000&idx=1&sn=c69e852bc8874ae07d11a7f4432bc5ec",
+          "source": "wechat-zhinengyongxian",
+          "owner": "智能涌现",
+          "role": "observer",
+          "publishedAt": "2026-11-27T12:00:00+08:00",
+          "title": "律动造物披露两轮融资，连接材料模型与自动实验"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-28"
+}

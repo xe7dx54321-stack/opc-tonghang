@@ -1,0 +1,12 @@
+{
+  "snapshotId": "da3e5f7588fab0eaecf784641a2f96e05e396e9c63ab19152ac736f4b78bfea5",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-a-sneap-peak-at-ai-design-kit-agentic-ai-with-foundry-expertise",
+  "publishedAt": "2026-11-27T13:00:00+00:00",
+  "publishedAtQuote": "2026-11-27T13:00:00+00:00",
+  "retrievedAt": "2026-11-27T23:35:52.085Z",
+  "method": "agent-tool",
+  "contentHash": "c50f4333f145307313e1f71094f77969773b5d64f37c4006e3af7a11b9f94fc2",
+  "quotations": [
+    "At its 2026 Europe OIP Ecosystem Workshop in Munich, TSMC this week unveiled its AI Design Kit (ADK), a collection of process-specific technical information, implementation guidelines, and design methodologies that enables AI agents to automate and optimize chip development flows."
+  ]
+}

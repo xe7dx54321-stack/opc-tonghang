@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-28",
+  "windowHours": 48,
+  "events": [
+    {
+      "id": "candidate-bfc85c3618b37bac4557",
+      "title": "蚂蚁灵波发布建图与导航模型",
+      "summary": "蚂蚁灵波发布LingBot-Map 2.0并开源带空间记忆的LingBot-Navi。",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "leiphone.com",
+          "url": "https://www.leiphone.com/category/industrynews/WFWuafAg4rdHjEEi.html"
+        },
+        {
+          "name": "mp.weixin.qq.com",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY1MjE2OA%3D%3D&idx=1&mid=2247494774&sn=007dd408b763847287f9c06207bfe7ee"
+        }
+      ],
+      "memberUrls": [
+        "https://www.leiphone.com/category/industrynews/WFWuafAg4rdHjEEi.html",
+        "https://mp.weixin.qq.com/s?__biz=MzkyNTY1MjE2OA%3D%3D&idx=1&mid=2247494774&sn=007dd408b763847287f9c06207bfe7ee"
+      ]
+    }
+  ]
+}

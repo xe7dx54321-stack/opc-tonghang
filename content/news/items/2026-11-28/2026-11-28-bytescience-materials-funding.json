@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "2026-11-28-bytescience-materials-funding",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&mid=2247519000&idx=1&sn=c69e852bc8874ae07d11a7f4432bc5ec",
+  "publishedAt": "2026-11-27T12:00:00+08:00",
+  "fact": {
+    "subject": "律动造物",
+    "action": "披露两轮融资",
+    "object": "材料AI与自动化实验系统",
+    "occurredAt": null
+  },
+  "sourceIdentity": {
+    "owner": "智能涌现",
+    "role": "observer"
+  },
+  "verification": {
+    "status": "verified",
+    "snapshotId": "8bd295cad2b98086977e6efc61e09e8176439bdcf3b0e198aae09de6a7e35b71",
+    "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&mid=2247519000&idx=1&sn=c69e852bc8874ae07d11a7f4432bc5ec",
+    "originalPublishedAt": "2026-11-27T12:00:00+08:00",
+    "checkedAt": "2026-11-27T23:35:52.037Z"
+  },
+  "evidence": [
+    {
+      "snapshotId": "8bd295cad2b98086977e6efc61e09e8176439bdcf3b0e198aae09de6a7e35b71",
+      "kind": "fact",
+      "quote": "目前，律动造物已完成两轮数千万元融资，投资方包括线性资本、英诺基金、源启翌才、 新南威尔士大学（无锡）产业创新中心 等。"
+    }
+  ],
+  "title": "融资数千万元，律动造物想让材料AI从实验室走进工厂",
+  "source": "wechat-zhinengyongxian",
+  "sourceTier": 2,
+  "topic": [
+    "ai"
+  ],
+  "entities": [
+    "律动造物"
+  ],
+  "fetchedAt": "2026-11-27T10:47:02.052Z",
+  "summary": "智能涌现报道，律动造物已完成两轮数千万元融资；公司研发材料AI软件、自动化实验室和底层训练系统，尝试连接材料设计与实验反馈。",
+  "investorNote": "应跟踪实验成本、数据闭环和客户验证，而非仅以模型预测性能估计产业化进展。",
+  "displayTitle": "律动造物披露两轮融资，连接材料模型与自动实验",
+  "narrative": "智能涌现报道，律动造物已完成两轮数千万元融资；公司研发材料AI软件、自动化实验室和底层训练系统，尝试连接材料设计与实验反馈。应跟踪实验成本、数据闭环和客户验证，而非仅以模型预测性能估计产业化进展。",
+  "score": 0.63,
+  "duplicateOf": null,
+  "clusterId": "event-1f56b2751c61d0b3c42a6ed7",
+  "crossSources": [],
+  "eventRelation": {
+    "type": "UNRELATED",
+    "reason": "现有近两周事件目录中未发现可确认的同次发生或直接后续；本条与其他入选动作涉及不同主体或事项。"
+  },
+  "eventId": "event-1f56b2751c61d0b3c42a6ed7",
+  "occurrenceId": "occ-1f56b2751c61d0b3c42a6ed7",
+  "relatedItems": []
+}

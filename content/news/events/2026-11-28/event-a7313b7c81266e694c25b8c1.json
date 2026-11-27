@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-a7313b7c81266e694c25b8c1",
+  "title": "台积电介绍AI Design Kit，将制程知识引入芯片设计Agent",
+  "firstSeen": "2026-11-28",
+  "editionDate": "2026-11-28",
+  "occurrences": [
+    {
+      "id": "occ-a7313b7c81266e694c25b8c1",
+      "fact": {
+        "subject": "TSMC",
+        "action": "介绍AI Design Kit",
+        "object": "供芯片设计Agent使用的制程知识和设计方法",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-28",
+      "reports": [
+        {
+          "ref": "2026-11-28/2026-11-28-tsmc-ai-design-kit",
+          "itemId": "2026-11-28-tsmc-ai-design-kit",
+          "editionDate": "2026-11-28",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-a-sneap-peak-at-ai-design-kit-agentic-ai-with-foundry-expertise",
+          "source": "tomshardware",
+          "owner": "Tom's Hardware",
+          "role": "observer",
+          "publishedAt": "2026-11-27T13:00:00+00:00",
+          "title": "台积电介绍AI Design Kit，将制程知识引入芯片设计Agent"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-28"
+}

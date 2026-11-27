@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-28",
+  "itemCount": 5,
+  "storyCount": 5,
+  "clusterCount": 5,
+  "files": [
+    "2026-11-28-microled-optical-funding.json",
+    "2026-11-28-lingbot-map-navi.json",
+    "2026-11-28-bytescience-materials-funding.json",
+    "2026-11-28-ecomatrix-materials-funding.json",
+    "2026-11-28-tsmc-ai-design-kit.json"
+  ],
+  "representatives": [
+    "2026-11-28-microled-optical-funding",
+    "2026-11-28-lingbot-map-navi",
+    "2026-11-28-bytescience-materials-funding",
+    "2026-11-28-ecomatrix-materials-funding",
+    "2026-11-28-tsmc-ai-design-kit"
+  ]
+}

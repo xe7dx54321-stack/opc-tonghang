@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "id": "event-5a28f81b250eaa21bac11a6c",
+  "title": "素源矩阵获数千万元天使轮融资，布局材料产线验证",
+  "firstSeen": "2026-11-28",
+  "editionDate": "2026-11-28",
+  "occurrences": [
+    {
+      "id": "occ-5a28f81b250eaa21bac11a6c",
+      "fact": {
+        "subject": "素源矩阵",
+        "action": "完成天使轮融资",
+        "object": "材料发现与制造AI平台",
+        "occurredAt": null
+      },
+      "firstSeen": "2026-11-28",
+      "reports": [
+        {
+          "ref": "2026-11-28/2026-11-28-ecomatrix-materials-funding",
+          "itemId": "2026-11-28-ecomatrix-materials-funding",
+          "editionDate": "2026-11-28",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519606&idx=1&sn=719a41d9eac67a4d70e8524a09ac7141",
+          "source": "wechat-zpotentials",
+          "owner": "Z Potentials",
+          "role": "observer",
+          "publishedAt": "2026-11-27T09:00:00+08:00",
+          "title": "素源矩阵获数千万元天使轮融资，布局材料产线验证"
+        }
+      ]
+    }
+  ],
+  "lastSeen": "2026-11-28"
+}
